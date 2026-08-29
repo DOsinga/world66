@@ -1,0 +1,22 @@
+{
+  "deep_128_32_hidden_12": {
+    "best_epoch": 83,
+    "hidden_dim": 12,
+    "model_type": "deep_regularized",
+    "parameters": 398176,
+    "train_mae": {
+      "heritage": 0.356,
+      "nature": 0.349,
+      "off_the_beaten_track": 0.336,
+      "vibrancy": 0.346
+    },
+    "train_mse": 0.00227,
+    "val_mae": {
+      "heritage": 1.142,
+      "nature": 0.858,
+      "off_the_beaten_track": 0.823,
+      "vibrancy": 0.907
+    },
+    "val_mse": 0.01478
+  }
+}

@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Skagen_rooftops.jpg
 latitude: 57.72597
 loc_type: city
 longitude: 10.58446
-score: 8.48
+score: 4.921
 snippet: Northern Danish town where two seas meet and nineteenth-century painters
   chased the coastal light.
 title: Skagen
 type: location
+heritage: 4.186
+vibrancy: 2.242
+nature: 5.854
+off_the_beaten_track: 3.841
 ---
 
 Skagen sits at the very tip of Denmark, where the Skagerrak and Kattegat seas collide in visible, clashing wave patterns that stretch for miles. Walking out to [Grenen](/europe/denmark/skagen/grenen) — the actual northernmost point — you can stand with one foot in each sea. A derelict WWII bunker at the beach's edge is a stark reminder of this coastline's strategic importance.

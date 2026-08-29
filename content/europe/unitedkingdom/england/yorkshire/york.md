@@ -12,11 +12,15 @@ image_source: https://www.flickr.com/photos/54788366@N00/48962324387
 latitude: 53.965658
 loc_type: city
 longitude: -1.074305
-score: 8.94
+score: 7.006
 snippet: Walkable northern English city layering Roman foundations, Viking heritage,
   medieval walls, and York Minster.
 title: York
 type: location
+heritage: 8.074
+vibrancy: 6.091
+nature: 3.85
+off_the_beaten_track: 1.677
 ---
 
 Two thousand years of history packed into a walkable city centre, and over 200 pubs to recover in afterwards. York is one of England’s finest cities, layering Roman foundations, Viking heritage, and medieval streets into a place that rewards every visit.

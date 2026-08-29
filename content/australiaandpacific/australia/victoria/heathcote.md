@@ -5,8 +5,9 @@ loc_type: city
 latitude: -36.911
 longitude: 144.7
 wikidata: Q5689234
-score: 6.7
-snippet: Victorian Goldfields wine town known for shiraz, pink mining cliffs, and dry forest walks.
+score: 4.393
+snippet: Victorian Goldfields wine town known for shiraz, pink mining cliffs, and
+  dry forest walks.
 sources:
 - https://en.wikivoyage.org/wiki/Heathcote
 - https://en.wikipedia.org/wiki/Heathcote,_Victoria
@@ -17,6 +18,10 @@ image: heathcote.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Pink_Cliffs_Reserve.jpg
 image_license: CC BY-SA 2.5
 image_attribution: Ciell
+heritage: 4.89
+vibrancy: 4.171
+nature: 4.121
+off_the_beaten_track: 3.763
 ---
 
 Heathcote is a small Goldfields town between Melbourne and Bendigo with one very good trick: it pairs serious shiraz country with a strange, pink, eroded mining landscape right on the edge of town. It is a better stop than its size suggests.

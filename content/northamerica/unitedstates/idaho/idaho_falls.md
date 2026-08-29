@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 43.5006
 longitude: -112.0278
-score: 6.3
-snippet: Eastern Idaho river city with a walkable Snake River greenbelt and strong regional museums.
+score: 5.006
+snippet: Eastern Idaho river city with a walkable Snake River greenbelt and strong
+  regional museums.
 sources:
-  - https://en.wikivoyage.org/wiki/Idaho_Falls
-  - https://en.wikipedia.org/wiki/Idaho_Falls,_Idaho
+- https://en.wikivoyage.org/wiki/Idaho_Falls
+- https://en.wikipedia.org/wiki/Idaho_Falls,_Idaho
+heritage: 3.175
+vibrancy: 3.272
+nature: 6.178
+off_the_beaten_track: 1.707
 ---
 
 Idaho Falls is the main city of eastern Idaho, set around a bend of the Snake River rather than around a postcard downtown. It is often treated as a practical stop on the way to Yellowstone, Grand Teton, or Jackson, but the city has enough of its own texture to reward a half day or more.

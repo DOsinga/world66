@@ -5,7 +5,7 @@ loc_type: city
 latitude: -6.5736
 longitude: 110.6758
 wikidata: Q2662601
-score: 6.9
+score: 2.799
 snippet: North Java carving town and Karimunjawa ferry port, with Kartini history
   and teak workshops.
 sources:
@@ -15,6 +15,10 @@ image: jepara.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Jepara_monument.jpg
 image_license: CC BY 3.0
 image_attribution: Midori
+heritage: 3.61
+vibrancy: 1.488
+nature: 1.848
+off_the_beaten_track: 2.018
 ---
 
 Jepara sits on Java's north coast, northeast of [Semarang](/asia/indonesia/java/semarang), and has a clearer identity than many towns along this busy shore. It is Indonesia's best-known centre for carved teak furniture, the birthplace of women's education pioneer R.A. Kartini, and one of the mainland ports for boats to [Karimunjawa](/asia/indonesia/java/karimunjawa).

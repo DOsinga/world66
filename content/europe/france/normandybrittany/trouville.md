@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:00_3496_Trouville-sur-Mer_
 latitude: 49.367982
 loc_type: city
 longitude: 0.080911
-score: 8.19
+score: 4.586
 snippet: Normandy seaside resort and fishing port, with Belle Époque seafronts and
   a working fish market.
 title: Trouville
 type: location
+heritage: 4.526
+vibrancy: 4.488
+nature: 4.841
+off_the_beaten_track: 2.847
 ---
 
 Trouville-sur-Mer would be considered one of Normandy's most elegant seaside resorts if it were not sitting right next to [Deauville](/europe/france/normandybrittany/deauville), which claims that title with more polish. But Trouville has the better character — it is a real fishing port as well as a resort, and the [waterfront fish market](/europe/france/normandybrittany/trouville/marche_aux_poissons) is one of the best in Normandy.

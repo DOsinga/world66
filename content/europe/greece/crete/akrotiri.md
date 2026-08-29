@@ -2,11 +2,15 @@
 latitude: 35.55
 loc_type: feature
 longitude: 24.1167
-score: 7.9
+score: 5.7
 snippet: Rocky peninsula northeast of Hania, with good beaches, historic monasteries,
   fish tavernas, and the tomb of Venizelos.
 title: Akrotiri Peninsula
 type: location
+heritage: 5.749
+vibrancy: 4.068
+nature: 6.398
+off_the_beaten_track: 2.181
 ---
 
 The Akrotiri Peninsula juts northeast from Hania into the Sea of Crete, enclosing the bay on which the city sits. It is a rocky, low-lying tongue of land with several good beaches, three historic monasteries, and some excellent fish tavernas — close enough to make an easy half-day or full-day escape from the old town. Hania's airport sits out here too, which can make approaching the peninsula by road slightly confusing the first time.

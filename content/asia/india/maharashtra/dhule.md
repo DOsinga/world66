@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Gurudwara_of_Dhule.jpg
 latitude: 21.130522
 loc_type: city
 longitude: 74.490061
-score: 5.42
+score: 2.305
 snippet: Northern Maharashtra city at major highway crossroads, with nearby pilgrimage
   fairs and historic forts.
 title: Dhule
 type: location
+heritage: 2.201
+vibrancy: 2.171
+nature: 2.524
+off_the_beaten_track: 3.069
 ---
 
 Dhule is a city in the northern part of Maharashtra, about 340km north-east of Mumbai, close to the border with Gujarat. It sits at the convergence of three major national highways — the junction of NH-3 (Mumbai–Agra), NH-6 (Surat–Nagpur), and NH-211 — which has historically made it an important commercial hub. The climate is hot and dry, with temperatures reaching 45°C in summer.

@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Nagoya_
 latitude: 35.185105
 loc_type: city
 longitude: 136.899844
-score: 8.63
+score: 4.965
 snippet: Industrial central Honshu city where Toyota country, castle history, and
   Atsuta Shrine meet.
 title: Nagoya
 type: location
+heritage: 3.2
+vibrancy: 5.672
+nature: 2.15
+off_the_beaten_track: 0.823
 ---
 
 Nagoya sits at the heart of central Honshu, about 90 minutes by shinkansen southwest of Tokyo and an hour north of Kyoto. It's Japan's fourth-largest city, heavily industrial (Toyota's headquarters are just outside), and usually skipped by visitors racing between the big hitters. That's a mistake: Nagoya has enough to fill two or three good days, especially for travellers with a serious interest in Japanese history.

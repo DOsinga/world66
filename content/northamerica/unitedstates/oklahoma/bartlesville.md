@@ -5,7 +5,7 @@ done:
 latitude: 36.750927
 loc_type: city
 longitude: -95.977178
-score: 6.17
+score: 3.51
 title: Bartlesville
 snippet: Northeast Oklahoma oil city where Phillips Petroleum wealth left Frank Lloyd
   Wright's only completed skyscraper
@@ -14,6 +14,10 @@ image: bartlesville.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Downtown_Bartlesville,_OK.jpg
 image_license: CC BY 2.0
 image_attribution: Justin Cozart from Dallas, TX, USA
+heritage: 4.697
+vibrancy: 1.477
+nature: 1.934
+off_the_beaten_track: 1.807
 ---
 
 Bartlesville in northeast Oklahoma is a small city with a disproportionate cultural legacy. Oil wealth from Phillips Petroleum — founded here in 1917 — funded two of the state's most remarkable attractions: [Price Tower](/northamerica/unitedstates/oklahoma/bartlesville/price_tower), Frank Lloyd Wright's only completed skyscraper, and [Woolaroc](/northamerica/unitedstates/oklahoma/bartlesville/woolaroc), Frank Phillips's wildlife ranch and western art museum 14 miles southwest, which holds one of the finest collections of Native American art and Western Americana in the country.

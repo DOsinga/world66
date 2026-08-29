@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: -35.1189
 longitude: 147.3689
-score: 6.6
-snippet: Riverina city on the Murrumbidgee, known for inland beach culture and regional art.
+score: 4.615
+snippet: Riverina city on the Murrumbidgee, known for inland beach culture and regional
+  art.
 sources:
-  - https://en.wikivoyage.org/wiki/Wagga_Wagga
-  - https://en.wikipedia.org/wiki/Wagga_Wagga
-  - https://www.wikidata.org/wiki/Q459600
+- https://en.wikivoyage.org/wiki/Wagga_Wagga
+- https://en.wikipedia.org/wiki/Wagga_Wagga
+- https://www.wikidata.org/wiki/Q459600
 wikidata: Q459600
+heritage: 4.06
+vibrancy: 4.86
+nature: 3.083
+off_the_beaten_track: 2.471
 ---
 
 Wagga Wagga, almost always shortened to Wagga, is the largest inland city in New South Wales and the practical capital of the Riverina. It sits on the Murrumbidgee River between Sydney and Melbourne, surrounded by wheat country, defence bases, university life, and long, hot summers.

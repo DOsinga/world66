@@ -9,8 +9,12 @@ sources:
 - https://makahmuseum.com/
 title: Neah Bay
 type: location
-score: 7.5
+score: 6.013
 wikidata: Q1514842
+heritage: 5.005
+vibrancy: 1.612
+nature: 7.199
+off_the_beaten_track: 3.994
 ---
 
 Neah Bay is the Makah community near the Olympic Peninsula's far northwest tip, where the Strait of Juan de Fuca meets the Pacific. It feels remote in the best way: the road ends, the weather moves fast, and the surrounding coast is all forest, sea stacks, tide pools, and working tribal land.

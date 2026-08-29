@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Baradari_Palace_(Cropped).
 latitude: 30.209278
 loc_type: city
 longitude: 76.339723
-score: 6.65
+score: 4.631
 snippet: Former Punjabi princely capital known for Mughal-era palaces, gardens, and
   a relaxed old-town rhythm.
 title: Patiala
 type: location
+heritage: 4.712
+vibrancy: 4.635
+nature: 2.969
+off_the_beaten_track: 2.848
 ---
 
 Patiala is a former princely state capital in the heart of [Punjab](/asia/india/punjab), known for its Mughal-era palaces, sprawling gardens, and a pace of life that feels unhurried compared to the big Punjabi cities. The Maharajas of Patiala left behind an impressive architectural legacy — most notably the massive Moti Bagh Palace, now partly the National Institute of Sports, and the ornate Qila Mubarak complex in the old city centre.

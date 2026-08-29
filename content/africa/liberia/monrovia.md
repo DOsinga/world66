@@ -14,7 +14,7 @@ quick_facts:
   Founded: 1822, by freed US slaves
   Named After: US President James Monroe
   Population: ~1.6 million
-score: 5.46
+score: 4.743
 snippet: Liberian capital on the Mesurado River peninsula, founded in 1822 by freed
   American slaves.
 tip: Monrovia is named after a US president (James Monroe) — Liberia was founded by
@@ -24,6 +24,10 @@ tip: Monrovia is named after a US president (James Monroe) — Liberia was found
   do.
 title: Monrovia
 type: location
+heritage: 5.477
+vibrancy: 3.701
+nature: 4.583
+off_the_beaten_track: 6.029
 ---
 
 Monrovia is the capital and largest city of Liberia, founded in 1822 by freed American slaves repatriated under the auspices of the American Colonization Society. It was named after US President James Monroe, who supported the colonization effort. That origin — the oldest republic in Africa, built by formerly enslaved people — gives the city a history unlike anywhere else on the continent.

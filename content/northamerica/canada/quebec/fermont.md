@@ -2,7 +2,7 @@
 latitude: 52.7833
 loc_type: city
 longitude: -67.0833
-score: 6.4
+score: 4.176
 snippet: Remote Québec mining town near Labrador, famous for a wind-shielding wall
   building.
 sources:
@@ -14,6 +14,10 @@ image: fermont.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Fermont.JPG
 image_license: CC BY-SA 3.0
 image_attribution: RushDevil
+heritage: 2.187
+vibrancy: 1.505
+nature: 4.013
+off_the_beaten_track: 6.712
 ---
 
 Fermont is a remote iron-mining town in northern Québec, near the Labrador border and far up Route 389 from Baie-Comeau. It is not pretty in the usual sense, but it is fascinating: a planned subarctic company town built around one huge idea, the long building everyone calls "Le Mur", or the Wall.

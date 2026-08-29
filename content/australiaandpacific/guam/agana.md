@@ -7,11 +7,15 @@ done:
 latitude: 13.4745
 loc_type: city
 longitude: 144.7488
-score: 7.3
+score: 5.12
 snippet: Tiny Guam capital, rebuilt after wartime destruction around remnants of Spanish
   colonial Hagåtña.
 title: Hagåtña (Agana)
 type: location
+heritage: 4.535
+vibrancy: 2.491
+nature: 6.014
+off_the_beaten_track: 3.706
 ---
 
 Hagåtña — the old colonial name was Agana — is the capital of Guam, though you might not guess it from its size. Only around 1,100 people actually live here, making it one of the smallest capital cities in the world. Yet it has been the centre of island life for centuries: first as a Chamorro settlement, then as the seat of Spanish colonial government, then as a modern American city levelled completely during the Battle of Guam in 1944 and rebuilt from scratch.

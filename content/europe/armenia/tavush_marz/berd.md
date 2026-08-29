@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 40.8833
 longitude: 45.3833
-score: 7.2
-snippet: Remote Tavush town at the centre of Shamshadin's green hills, fort ruins, and lonely monasteries.
+score: 4.697
+snippet: Remote Tavush town at the centre of Shamshadin's green hills, fort ruins,
+  and lonely monasteries.
 sources:
-  - https://en.wikivoyage.org/wiki/Berd
-  - https://visit-tavush.com/community/berd/
+- https://en.wikivoyage.org/wiki/Berd
+- https://visit-tavush.com/community/berd/
+heritage: 4.081
+vibrancy: 1.576
+nature: 5.55
+off_the_beaten_track: 4.887
 ---
 
 Berd is the small town at the heart of Shamshadin, the far eastern corner of [Tavush Marz](/europe/armenia/tavush_marz). It is remote even by Armenian standards: green hills, rough roads, orchards, forest, and monasteries that see only a trickle of visitors.

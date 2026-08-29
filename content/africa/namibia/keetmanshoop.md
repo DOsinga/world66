@@ -4,14 +4,19 @@ type: location
 loc_type: city
 latitude: -26.5833
 longitude: 18.1333
-score: 7.18
-snippet: Southern Namibian road town near quiver trees, dolerite boulders, and desert geology
+score: 4.026
+snippet: Southern Namibian road town near quiver trees, dolerite boulders, and desert
+  geology
 wikidata: Q160884
 sources:
-  - https://en.wikivoyage.org/wiki/Keetmanshoop
-  - https://en.wikipedia.org/wiki/Keetmanshoop
-  - https://www.wikidata.org/wiki/Q160884
-  - https://en.wikipedia.org/wiki/Quiver_Tree_Forest
+- https://en.wikivoyage.org/wiki/Keetmanshoop
+- https://en.wikipedia.org/wiki/Keetmanshoop
+- https://www.wikidata.org/wiki/Q160884
+- https://en.wikipedia.org/wiki/Quiver_Tree_Forest
+heritage: 3.069
+vibrancy: 2.769
+nature: 4.784
+off_the_beaten_track: 4.773
 ---
 
 Keetmanshoop is the practical capital of southern Namibia, a hot, dry road town where the B1 highway meets the routes toward Luderitz, the Kalahari, and the South African border. The town itself is modest, but it earns a place in the guide because the surrounding landscape is pure southern Namibia: quiver trees, black dolerite boulders, fossils, and long desert distances.

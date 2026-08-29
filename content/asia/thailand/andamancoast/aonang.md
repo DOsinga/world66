@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_view_of_Ao_Nang_beach,_K
 latitude: 8.0313
 loc_type: city
 longitude: 98.8268
-score: 8.5
+score: 5.329
 snippet: Krabi's main beach base, with longtail boats to Railay, island trips, and
   sunset crowds.
 sources:
@@ -18,6 +18,10 @@ tags:
 - krabi
 title: Ao Nang
 type: location
+heritage: 1.557
+vibrancy: 5.508
+nature: 4.866
+off_the_beaten_track: 2.042
 ---
 
 Ao Nang is Krabi's main beach base: convenient, crowded, commercial, and still hard to beat if you want easy access to the Andaman coast. It is not the loveliest beach in the province, but it has the boats, restaurants, dive shops, tour desks, and transport links that make the area work.

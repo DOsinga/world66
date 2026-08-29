@@ -4,13 +4,17 @@ type: location
 loc_type: city
 latitude: 46.1
 longitude: -60.7542
-score: 7.3
+score: 5.647
 snippet: Cape Breton lakeside village tied to Alexander Graham Bell and the Bras d'Or.
 wikidata: Q798842
 sources:
-  - https://en.wikivoyage.org/wiki/Baddeck
-  - https://parks.canada.ca/lhn-nhs/ns/grahambell
-  - https://www.cbisland.com/en/blog/baddeck-area
+- https://en.wikivoyage.org/wiki/Baddeck
+- https://parks.canada.ca/lhn-nhs/ns/grahambell
+- https://www.cbisland.com/en/blog/baddeck-area
+heritage: 3.901
+vibrancy: 2.808
+nature: 7.1
+off_the_beaten_track: 2.616
 ---
 
 Baddeck sits on the Bras d'Or Lake near the middle of [Cape Breton](/northamerica/canada/novascotia/capebreton), and it is much more than a fuel stop for the Cabot Trail. The village has a calm lakeside setting, a strong boating feel, and one first-rate museum tied to Alexander Graham Bell, who spent his later years across the water at Beinn Bhreagh.

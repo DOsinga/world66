@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:S%C3%A3o_Filipe,_Fogo,_Cap
 latitude: 14.896
 loc_type: city
 longitude: -24.498
-score: 7.35
+score: 5.883
 snippet: Main town on Fogo, with colonial sobrados overlooking the sea from a volcanic
   island bluff.
 title: Sao Filipe
 type: location
+heritage: 4.903
+vibrancy: 3.456
+nature: 7.04
+off_the_beaten_track: 4.639
 ---
 
 Sao Filipe is the main town on [Fogo](/africa/capeverde/fogo), founded in the sixteenth century and still the starting point for any visit to the island. The central streets have kept their colonial character, lined with *sobrados* -- two-story stone houses built by Portuguese landowners, some with wrought-iron balconies and faded pastel facades. Several are protected buildings, and the old quarter has a quiet, time-worn beauty.

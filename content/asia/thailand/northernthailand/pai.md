@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Pai_canyon.jpg
 latitude: 19.3583
 loc_type: city
 longitude: 98.4394
-score: 8.78
+score: 5.688
 snippet: Mae Hong Son mountain town with hot springs, waterfalls, canyon trails, and
   a relaxed Pai River valley scene.
 sources:
 - https://en.wikipedia.org/wiki/Pai,_Thailand
 title: Pai
 type: location
+heritage: 3.377
+vibrancy: 5.832
+nature: 5.316
+off_the_beaten_track: 7.101
 ---
 
 Pai is a small town in Mae Hong Son Province, tucked into a mountain valley about 130 kilometres northwest of Chiang Mai on the winding Highway 1095. Once a backwater market town where hill tribe and Shan farmers came to trade, it discovered tourism in the 1990s and has settled into an identity as one of Thailand's most popular alternative escapes: a combination of hot springs, waterfalls, dramatic canyon landscapes, and a distinctly laid-back atmosphere that keeps visitors longer than they planned.

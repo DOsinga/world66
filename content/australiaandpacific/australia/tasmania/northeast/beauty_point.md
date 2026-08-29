@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -41.1507
 longitude: 146.821
-score: 6.7
+score: 4.995
 snippet: Tamar River town with close-up platypus, echidna, and seahorse encounters.
 wikidata: Q2124988
 sources:
@@ -14,6 +14,10 @@ image: beauty_point.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Beauty_Point,_Tasmania._(32699586541).jpg
 image_license: CC BY 2.0
 image_attribution: Steven Penton from Bakers Beach, Tasmania Australia
+heritage: 2.975
+vibrancy: 1.486
+nature: 6.481
+off_the_beaten_track: 3.45
 ---
 
 Beauty Point sits on the western bank of the Tamar River, north of Launceston, with a working wharf and low houses facing the water. It is not a big town, and it does not pretend to be one. Its appeal is unusually specific: two small wildlife attractions on the waterfront make it one of Tasmania's easiest places to get a careful look at animals most travellers only hope to glimpse.

@@ -4,7 +4,7 @@ done:
 latitude: -7.9425
 loc_type: feature
 longitude: 112.953
-score: 8.74
+score: 6.301
 snippet: Volcanic East Java highland where Bromo, Batok, and Semeru rise from the
   Tengger Sand Sea.
 title: Tengger Massif
@@ -13,6 +13,10 @@ image: tengger_massif.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Caldeira_du_Tengger.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Nicolas Cornet
+heritage: 2.4
+vibrancy: 1.309
+nature: 7.762
+off_the_beaten_track: 6.567
 ---
 
 The Tengger Massif, formally known as Bromo-Tengger-Semeru National Park, is a volcanic highland in East Java that contains some of the most dramatic scenery in Indonesia. At its heart is a vast caldera, the Tengger Sand Sea, a 10 km wide plain of grey volcanic sand from which several cones rise abruptly — among them Mount Bromo, the most visited active volcano in Java, and Mount Batok with its perfectly ridged flanks. Towering above everything is Mount Semeru at 3,676 metres, the highest peak on Java, which erupts frequently and puffs smoke almost continuously.

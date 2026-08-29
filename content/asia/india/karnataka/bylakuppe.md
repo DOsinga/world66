@@ -4,7 +4,7 @@ done:
 latitude: 12.4221
 loc_type: city
 longitude: 75.9742
-score: 7.35
+score: 5.892
 snippet: Tibetan settlement in rural Karnataka, centred on large exile monasteries
   and monastic life.
 sources:
@@ -17,6 +17,10 @@ image: bylakuppe.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Budha_kushalnagar.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Aneezone at ml.wikipedia
+heritage: 7.352
+vibrancy: 3.985
+nature: 4.09
+off_the_beaten_track: 2.43
 ---
 
 Bylakuppe is one of the largest Tibetan settlements in India, set in the warm countryside of southern Karnataka rather than the Himalaya. Travellers usually come from [Mysore](/asia/india/karnataka/mysore), Coorg, or Kushalnagar to see the monasteries, but the place is more than a photo stop: it is a working exile community of monks, nuns, schools, shops, prayer halls, and settlement roads.

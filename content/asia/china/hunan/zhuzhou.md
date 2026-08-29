@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Longshan_Temple_(Zhuzhou)_
 latitude: 27.8407
 loc_type: city
 longitude: 113.1469
-score: 5.74
+score: 1.869
 snippet: Hunan rail-junction city shaped by industry, with Shennongcheng honouring
   the mythical Emperor Yan
 sources:
 - https://en.wikivoyage.org/wiki/Zhuzhou
 title: Zhuzhou
 type: location
+heritage: 2.039
+vibrancy: 1.76
+nature: 2.033
+off_the_beaten_track: 2.095
 ---
 
 Zhuzhou, 45 kilometres southeast of [Changsha](/asia/china/hunan/changsha), describes itself as "the city pulled by the train," a phrase that captures its entire character. The Beijing-Guangzhou and Shanghai-Kunming railways cross here, making it one of the five busiest rail junctions in China, and the city grew around that function rather than around any natural advantage or historical distinction. It is an industrial city, functional and prosperous, without the cultural weight of most other Hunan cities — which is, in a way, exactly what makes it interesting to a certain kind of traveller.

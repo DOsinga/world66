@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Port_of_Sorong.jpg
 latitude: -0.8634
 loc_type: city
 longitude: 131.2545
-score: 6.51
+score: 6.056
 snippet: Papuan port city at the Bird's Head Peninsula, used as the gateway to Raja
   Ampat.
 title: Sorong
 type: location
+heritage: 2.428
+vibrancy: 1.776
+nature: 7.575
+off_the_beaten_track: 5.936
 ---
 
 Sorong sits at the westernmost tip of the Bird's Head Peninsula, a fading oil town with rusting tin roofs stretching along eight kilometres of coastline. It is not a place anyone comes to for its own sake.

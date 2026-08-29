@@ -14,7 +14,9 @@ from django.utils.safestring import mark_safe
 
 from . import github
 from .models import (
-    CONTENT_DIR, NAV_TYPES, build_city_tag_index, find_tagged_pois, find_locations_tagged,
+    CONTENT_DIR, DIMENSION_FIELDS, DIMENSION_LABELS, NAV_TYPES,
+    build_city_tag_index, dimension_percentile, find_dimension_alternatives,
+    find_similar_with_match_grouped, find_tagged_pois, find_locations_tagged,
     load_page, load_page_from_revision, load_tag_index, resolve_tag_route, _find_city_path,
 )
 
@@ -79,6 +81,10 @@ def _prefixed_url(url, url_prefix):
 
 def about(request):
     return render(request, "guide/about.html")
+
+
+def how_we_score(request):
+    return render(request, "guide/how_we_score.html")
 
 
 def _city_snippet(page):
@@ -189,6 +195,8 @@ def widgets(request):
     embed_url = request.build_absolute_uri("/widgets/globe-explore?mode=autoplay")
     explore_url = request.build_absolute_uri("/widgets/globe-explore?mode=explore")
     photo_map_url = request.build_absolute_uri("/widgets/photo-map")
+    scoring_explorer_url = request.build_absolute_uri("/widgets/scoring-explorer")
+    score_composer_url = request.build_absolute_uri("/widgets/score-composer")
     return render(request, "guide/widgets/index.html", {
         "globe_embed_url": embed_url,
         "globe_iframe": _iframe_code(embed_url, 520),
@@ -196,6 +204,10 @@ def widgets(request):
         "globe_explore_iframe": _iframe_code(explore_url, 520),
         "photo_map_embed_url": photo_map_url,
         "photo_map_iframe": _iframe_code(photo_map_url, 520),
+        "scoring_explorer_embed_url": scoring_explorer_url,
+        "scoring_explorer_iframe": _iframe_code(scoring_explorer_url, 640),
+        "score_composer_embed_url": score_composer_url,
+        "score_composer_iframe": _iframe_code(score_composer_url, 720),
     })
 
 
@@ -234,6 +246,24 @@ def widget_photo_map(request):
     })
 
 
+@xframe_options_exempt
+def widget_scoring_explorer(request):
+    widget_url = request.build_absolute_uri()
+    return render(request, "guide/widgets/scoring_explorer.html", {
+        "widget_url": widget_url,
+        "embed_code": _iframe_code(widget_url, 640),
+    })
+
+
+@xframe_options_exempt
+def widget_score_composer(request):
+    widget_url = request.build_absolute_uri()
+    return render(request, "guide/widgets/score_composer.html", {
+        "widget_url": widget_url,
+        "embed_code": _iframe_code(widget_url, 720),
+    })
+
+
 def _bool_param(request, name, default):
     value = request.GET.get(name)
     if value is None:
@@ -262,6 +292,66 @@ def _iframe_code(url, height):
         f'<iframe src="{url}" width="100%" height="{height}" '
         'style="border:0" loading="lazy" allow="fullscreen"></iframe>'
     )
+
+
+def _score_profile_context(page, parent):
+    if page.page_type != "location":
+        return {}, "", []
+
+    scored = []
+    for key in DIMENSION_FIELDS:
+        value = _safe_float(page.meta.get(key))
+        if value is None:
+            return {}, "", []
+        scored.append((key, value))
+
+    scored.sort(key=lambda row: row[1], reverse=True)
+    parent_title = parent.title if parent else ""
+    alternatives_by_field = find_dimension_alternatives(page.path)
+    rows = []
+    for key, value in scored:
+        alternatives = []
+        for alt_path, alt_score in alternatives_by_field.get(key, []):
+            alt_page = load_page(alt_path)
+            if alt_page:
+                alternatives.append({"page": alt_page, "score": f"{alt_score:.1f}"})
+        percentile = dimension_percentile(key, value)
+        percentile_label = f"Top {max(1, round(percentile))}%" if percentile <= 50 else "-"
+        rows.append({
+            "field": key,
+            "label": DIMENSION_LABELS[key],
+            "score": f"{value:.1f}",
+            "width_pct": round(value * 10),
+            "percentile_label": percentile_label,
+            "alternatives": alternatives,
+            "parent_title": parent_title,
+        })
+
+    if page.meta.get("profile_verdict"):
+        verdict = page.meta["profile_verdict"]
+    else:
+        top = DIMENSION_LABELS[scored[0][0]].lower()
+        second = DIMENSION_LABELS[scored[1][0]].lower()
+        verdict = f"{page.title} is strongest on {top}, with {second} close behind."
+
+    similar_in_country, _ = find_similar_with_match_grouped(page.path)
+    similar = []
+    for similar_path, match_pct in similar_in_country:
+        similar_page = load_page(similar_path)
+        if similar_page:
+            similar.append({"page": similar_page, "match_pct": match_pct})
+    if len(similar) < 3:
+        similar = []
+
+    return rows, verdict, similar
+
+
+def _country_title(page):
+    parts = page.path.split("/")
+    if len(parts) < 2:
+        return ""
+    country = load_page("/".join(parts[:2]))
+    return country.title if country else ""
 
 
 def location_or_section(request, path):
@@ -519,6 +609,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     markers_full = _collect_markers(page, nav_pages, _map_all, pois, city_tag_index=city_tag_index)
 
     breadcrumbs = page.breadcrumbs()
+    dimension_rows, score_verdict, similar_in_country = _score_profile_context(page, parent)
 
     return render(request, "guide/page.html", {
         "page": page,
@@ -548,6 +639,10 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "hero_image_url": hero_image_url,
         "hero_image_source": hero_image_source,
         "hero_image_license": hero_image_license,
+        "dimension_rows": dimension_rows,
+        "score_verdict": score_verdict,
+        "similar_in_country": similar_in_country,
+        "country_title": _country_title(page),
         "tags": [t.replace("_", " ") for t in page.tags],
         "is_poi": page.page_type == "poi",
         "poi_categories": poi_categories,

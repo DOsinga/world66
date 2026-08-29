@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Boa_Viagem_Niter%C3%B3i.JP
 latitude: -22.8884
 loc_type: city
 longitude: -43.1147
-score: 7.34
+score: 5.093
 snippet: Guanabara Bay city facing Rio, with Niemeyer architecture, wild beaches,
   and skyline views.
 sources:
@@ -19,6 +19,10 @@ sources:
 - https://en.wikipedia.org/wiki/Niter%C3%B3i_Contemporary_Art_Museum
 title: Niteroi
 type: location
+heritage: 4.849
+vibrancy: 5.224
+nature: 4.552
+off_the_beaten_track: 1.396
 ---
 
 Niterói sits across Guanabara Bay from Rio de Janeiro, connected by the striking 13-kilometer Ponte Rio-Niterói. Most visitors to Rio never make the crossing, which is a shame. The city has one of the most dramatic museum buildings on earth, a string of wild oceanic beaches, and views back toward Rio that rival anything you will see from the other side.

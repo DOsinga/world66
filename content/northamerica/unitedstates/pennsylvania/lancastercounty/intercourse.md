@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 40.0305
 longitude: -76.1075
-score: 0.43
+score: 3.381
 snippet: Small Lancaster County village surrounded by Amish farmland, craft shops,
   and tourist curiosity.
 sources:
@@ -14,6 +14,10 @@ image: intercourse.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Buggy_hitching_post,_Intercourse_PA.jpg
 image_license: Public domain
 image_attribution: Rlevse
+heritage: 3.3
+vibrancy: 2.243
+nature: 3.841
+off_the_beaten_track: 1.729
 ---
 
 Intercourse is a small village east of Lancaster in the middle of Pennsylvania Dutch country. Its name gets the jokes out of the way quickly, but the real draw is the setting: Amish and Mennonite farms, horse-drawn buggies on the roads, quilt shops, bakeries, and tidy fields rolling away from the old turnpike.

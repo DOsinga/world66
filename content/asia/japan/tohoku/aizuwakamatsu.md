@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 37.4948
 longitude: 139.9298
-score: 8.1
+score: 4.768
 snippet: Inland Fukushima castle town with samurai history, lacquerware, sake, and
   the Byakkotai story.
 wikidata: Q237699
@@ -18,6 +18,10 @@ image: aizuwakamatsu.jpg
 image_source: https://commons.wikimedia.org/wiki/File:1_%C5%8Ctemachi,_Aizuwakamatsu-shi,_Fukushima-ken_965-0873,_Japan_-_panoramio_(18).jpg
 image_license: CC BY 3.0
 image_attribution: Fumihiko Ueno
+heritage: 5.371
+vibrancy: 3.373
+nature: 4.914
+off_the_beaten_track: 4.177
 ---
 
 Aizuwakamatsu is the old castle town of the Aizu basin, tucked into inland Fukushima and still marked by the end of the samurai age. It is not as famous as Nikko or Matsumoto, but it has the bones of a serious historical stop: a red-tiled castle, gardens built for feudal lords, sake breweries, lacquerware shops, and a local memory shaped by defeat in the Boshin War.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Santarem1.jpg
 latitude: 39.2364
 loc_type: city
 longitude: -8.6867
-score: 7.55
+score: 5.026
 snippet: Central Portuguese city above the Tagus River, known for Gothic churches
   and royal history.
 title: Santarém
 type: location
+heritage: 5.331
+vibrancy: 4.17
+nature: 5.53
+off_the_beaten_track: 3.935
 ---
 
 Santarém sits on a bluff above the Tagus river in central [Portugal](/europe/portugal), about an hour's drive northeast of [Lisbon](/europe/portugal/lisbon). It was once one of the most important cities in the country — a Moorish stronghold taken by Afonso Henriques in 1147, and later a favoured residence of medieval Portuguese kings. The city still has a remarkable concentration of Gothic churches for its size.

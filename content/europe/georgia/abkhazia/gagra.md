@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 43.2786
 longitude: 40.2712
-score: 6.9
-snippet: Abkhaz Black Sea resort where subtropical parkland meets old fort walls and Caucasus foothills.
+score: 5.609
+snippet: Abkhaz Black Sea resort where subtropical parkland meets old fort walls and
+  Caucasus foothills.
 sources:
-  - https://en.wikivoyage.org/wiki/Gagra
-  - https://en.wikipedia.org/wiki/Gagra
-  - https://en.wikipedia.org/wiki/Gagra_church
+- https://en.wikivoyage.org/wiki/Gagra
+- https://en.wikipedia.org/wiki/Gagra
+- https://en.wikipedia.org/wiki/Gagra_church
+heritage: 4.502
+vibrancy: 4.598
+nature: 6.409
+off_the_beaten_track: 7.487
 ---
 
 Gagra is the old resort face of [Abkhazia](/europe/georgia/abkhazia): a narrow Black Sea strip backed almost immediately by the Caucasus foothills. Palms, cypresses, sea air, and decaying imperial-resort architecture give it a mood very different from inland Georgia. Old Gagra, around the park and fortress, is the part worth your time.

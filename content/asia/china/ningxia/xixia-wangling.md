@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Western_Xia_mausoleums_2.j
 latitude: 38.435
 loc_type: feature
 longitude: 105.9872
-score: 7.12
+score: 5.988
 snippet: Desert-edge imperial cemetery of Western Xia tombs at the foot of the Helan
   Mountains.
 sources:
 - https://en.wikivoyage.org/wiki/Ningxia
 title: Xixia Wangling National Park
 type: location
+heritage: 2.798
+vibrancy: 1.175
+nature: 7.702
+off_the_beaten_track: 5.178
 ---
 
 The Western Xia Mausoleum — known in Chinese as Xixia Wangling — is one of the strangest and most evocative sites in the northwest: an imperial cemetery of 193 tombs belonging to the Western Xia kingdom, a civilisation that flourished for about two centuries before being annihilated by the Mongols in 1227. The [imperial tomb mounds](/asia/china/ningxia/xixia-wangling/imperial_tomb_mounds) stand at the foot of the Helan Mountains, about 25 kilometres west of Yinchuan, in a landscape of desert scrub and alkaline flats.

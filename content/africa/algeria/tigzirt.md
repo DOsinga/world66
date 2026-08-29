@@ -5,11 +5,15 @@ done:
 latitude: 36.892661
 loc_type: city
 longitude: 4.126179
-score: 6.54
+score: 4.841
 snippet: Kabyle coastal town where Roman Iomnium's ruins stand beside a sheltered
   stony Mediterranean beach
 title: Tigzirt
 type: location
+heritage: 3.962
+vibrancy: 2.693
+nature: 5.825
+off_the_beaten_track: 4.039
 ---
 
 Tigzirt is a small coastal town in [Algeria](/africa/algeria), close to Tizi Ouzou in the Kabyle region. It used to be a popular seaside getaway for Kabyle families, and the stony beach and relaxed atmosphere still draw visitors in summer.

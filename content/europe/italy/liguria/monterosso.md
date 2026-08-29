@@ -14,7 +14,7 @@ quick_facts:
   Cinque Terre: One of five villages
   Population: ~1,400
   Sand Beach: The only one of the five
-score: 9.41
+score: 5.879
 snippet: Largest Cinque Terre village, with sandy beaches, a fishing old town, and
   local anchovies and Sciacchetrà wine.
 tags:
@@ -26,6 +26,10 @@ tip: Monterosso is the largest and only real beach town of the Cinque Terre — 
   car.
 title: Monterosso al Mare
 type: location
+heritage: 5.418
+vibrancy: 4.662
+nature: 6.816
+off_the_beaten_track: 1.958
 ---
 
 Monterosso al Mare is the largest and most westerly of the five Cinque Terre villages, and the one most geared to visitors. Unlike its more vertical neighbours, it spreads out along a proper sandy beach — two beaches, in fact, separated by a rocky headland — which makes it a genuine resort as well as a historic fishing village. The old town, huddled behind the headland, has narrow caruggi lanes, a medieval tower, and a handful of good restaurants serving anchovies caught right off the coast.

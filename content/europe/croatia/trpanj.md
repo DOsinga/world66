@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:House_of_Ghetaldic-Gonduli
 latitude: 43.008044
 loc_type: city
 longitude: 17.273354
-score: 7.89
+score: 4.775
 snippet: Quiet Pelješac harbour town with pebbly beaches, sulphurous sea mud, and
   nearby wine country
 tags:
 - peljesac
 title: Trpanj
 type: location
+heritage: 2.997
+vibrancy: 1.779
+nature: 6.131
+off_the_beaten_track: 4.11
 ---
 
 Trpanj is a quiet little harbour town on the north-western tip of the [Pelješac peninsula](/europe/croatia/peljesac), facing the mainland across a narrow channel. It has managed to stay out of the mass-tourism circuit — there is one proper hotel, a handful of konobas, and a [waterfront](/europe/croatia/trpanj/trpanj_harbour) that fills up with fishing boats and small ferries rather than cruise-ship crowds.

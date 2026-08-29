@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Almere_Leeghwaterplas_Leks
 latitude: 52.3723
 loc_type: city
 longitude: 5.2177
-score: 6.05
+score: 3.761
 snippet: Reclaimed Flevoland city built on former seabed, used as a laboratory for
   modern Dutch urban planning.
 title: Almere
 type: location
+heritage: 3.127
+vibrancy: 3.855
+nature: 3.519
+off_the_beaten_track: 0.67
 ---
 
 Almere sits on land that did not exist before 1968 — it was built on the reclaimed seabed of the former Zuiderzee, in the province of Flevoland. The city was founded in 1975 and has grown to over 200,000 inhabitants, making it one of the [Netherlands](/europe/netherlands)' larger cities despite having no history at all.

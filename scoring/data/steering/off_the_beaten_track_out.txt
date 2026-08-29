@@ -1,0 +1,49 @@
+australiaandpacific/marshallislands/jaluitatoll	9.015	1	Jaluit Atoll	Australia, Pacific & Antarctica, Marshall Islands
+africa/libya/agedabia	8.977	2	Agedabia	Africa, Libya
+africa/mali/kidal	8.977	3	Kidal	Africa, Mali
+africa/libya/sebha	8.907	4	Sebha	Africa, Libya
+africa/libya/derna	8.848	5	Derna	Africa, Libya
+africa/somalia/hobyo	8.779	6	Hobyo	Africa, Somalia
+australiaandpacific/marshallislands/enewetokatoll	8.759	7	Enewetak Atoll	Australia, Pacific & Antarctica, Marshall Islands
+africa/somaliland/burao	8.748	8	Burao	Africa, Somaliland
+asia/yemen/socotra	8.682	16	Socotra	Asia, Yemen
+africa/somalia/dusa_mareb	8.740	9	Dhuusamarreeb	Africa, Somalia
+asia/pakistan/skardu	8.726	10	Skardu	Asia, Pakistan
+africa/libya/kufra	8.724	11	Kufra	Africa, Libya
+australiaandpacific/marshallislands/majuro	8.702	12	Majuro	Australia, Pacific & Antarctica, Marshall Islands
+africa/somaliland/erigavo	8.699	13	Erigavo	Africa, Somaliland
+africa/libya/germa	8.697	14	Germa	Africa, Libya
+africa/somalia/mogadishu	8.687	15	Mogadishu	Africa, Somalia
+australiaandpacific/tuvalu/nukufetauatoll	8.621	17	Nukufetau Atoll	Australia, Pacific & Antarctica, Tuvalu
+africa/libya/alqatrun	8.619	18	Al Qatrun	Africa, Libya
+africa/libya/al_khums	8.614	19	Al Khums	Africa, Libya
+africa/somalia/kismayu	8.605	20	Kismayu	Africa, Somalia
+africa/libya/shahhat	8.600	21	Shahhat	Africa, Libya
+africa/congokinshasa/epulu	8.595	24	Epulu	Africa, Congo Kinshasa
+asia/afghanistan/kandahar	8.594	25	Kandahar	Asia, Afghanistan
+africa/libya/benghazi	8.591	26	Benghazi	Africa, Libya
+asia/pakistan/chitral	8.580	27	Chitral	Asia, Pakistan
+africa/liberia/sanniquellie	8.553	28	Sanniquellie	Africa, Liberia
+australiaandpacific/tuvalu/nukulaelaeatoll	8.553	29	Nukulaelae atoll	Australia, Pacific & Antarctica, Tuvalu
+africa/libya/apollonia	8.549	30	Apollonia	Africa, Libya
+australiaandpacific/tuvalu/vaitupuisland	8.535	31	Vaitupu Island	Australia, Pacific & Antarctica, Tuvalu
+africa/mauritania/oulata	8.534	32	Oualata	Africa, Mauritania
+australiaandpacific/cookislands/manihiki	8.533	33	Manihiki	Australia, Pacific & Antarctica, Cook Islands
+australiaandpacific/marshallislands/miliatoll	8.529	34	Mili Atoll	Australia, Pacific & Antarctica, Marshall Islands
+africa/eritrea/dahlakislands	8.525	35	Dahlak Islands	Africa, Eritrea
+africa/liberia/harper	8.520	36	Harper	Africa, Liberia
+africa/chad/lakechad	8.519	37	Lake Chad	Africa, Chad
+africa/libya/awjila	8.506	38	Awjila	Africa, Libya
+africa/eritrea/massawa	8.502	39	Massawa	Africa, Eritrea
+australiaandpacific/marshallislands/maloelapatoll	8.501	40	Maloelap Atoll	Australia, Pacific & Antarctica, Marshall Islands
+asia/iraq/duhok	8.500	41	Duhok	Asia, Iraq
+asia/yemen/marib	8.499	42	Marib	Asia, Yemen
+africa/centralafricanrepublic/bangui	8.497	43	Bangui	Africa, Central African Republic
+asia/afghanistan/jalalabad	8.495	44	Jalalabad	Asia, Afghanistan
+asia/pakistan/hunzavalley/gojal_valley/moorkhoun	8.465	45	Moorkhoun	Asia, Pakistan, Hunza valley, Gojal Valley
+africa/somaliland/lasanod	8.455	46	Lasanod	Africa, Somaliland
+africa/somaliland/dacarbudhuq	8.429	47	Dacarbudhuq	Africa, Somaliland
+australiaandpacific/marshallislands/wotjeatoll	8.423	48	Wotje Atoll	Australia, Pacific & Antarctica, Marshall Islands
+asia/yemen/baraqish	8.422	49	Baraqish	Asia, Yemen
+africa/libya/sabratha	8.415	50	Sabratha	Africa, Libya
+asia/northkorea/wonsan	8.402	51	Wonsan	Asia, North Korea

@@ -10,13 +10,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Canteras_EM1B2907_(4064275
 latitude: 28.1008
 loc_type: city
 longitude: -15.4147
-score: 8.66
+score: 5.322
 sources:
 - https://en.wikipedia.org/wiki/Las_Palmas
 title: Las Palmas de Gran Canaria
 type: location
 snippet: Gran Canaria's capital, with Vegueta's 16th-century streets and the city
   beach of Playa de las Canteras.
+heritage: 3.518
+vibrancy: 4.987
+nature: 5.84
+off_the_beaten_track: 1.439
 ---
 
 Las Palmas is the capital of Gran Canaria and one of Spain's largest cities, with around 400,000 people. Most visitors staying in the southern resorts never bother making the 50-kilometre trip north, which is their loss.

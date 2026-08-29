@@ -4,7 +4,7 @@ done:
 latitude: 10.4626
 loc_type: feature
 longitude: -84.7033
-score: 9.09
+score: 5.652
 snippet: Volcanic Costa Rican region around Arenal’s cone, with rainforest trails,
   lava fields, and natural hot springs.
 title: Arenal
@@ -13,6 +13,10 @@ image: arenal.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Arenal_volcano_(70785p)_(cropped).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Rhododendrites
+heritage: 1.802
+vibrancy: 3.935
+nature: 6.86
+off_the_beaten_track: 3.125
 ---
 
 Arenal Volcano is the most famous natural attraction in Costa Rica. The cone-shaped volcano erupted spectacularly in 1968 after 400 years of dormancy, and until 2010 it was constantly active — producing ash columns, explosions, and glowing red lava almost daily. It has been quiet since then, but the landscape of lava fields and rainforest around its base remains dramatic.

@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 59.22861
 longitude: -135.44417
-score: 8.05
-snippet: Small Lynn Canal port with Tlingit history, mountain scenery, and winter bald eagles.
+score: 6.18
+snippet: Small Lynn Canal port with Tlingit history, mountain scenery, and winter
+  bald eagles.
 sources:
 - https://en.wikivoyage.org/wiki/Haines
 - https://en.wikipedia.org/wiki/Haines,_Alaska
+heritage: 4.934
+vibrancy: 1.786
+nature: 7.487
+off_the_beaten_track: 5.864
 ---
 
 Haines is a small port town on the Lynn Canal in [Southeast Alaska](/northamerica/unitedstates/alaska/inside_passage), surrounded by steep mountains, tidal water, and river valleys. It has road access to the Yukon, ferry links to Juneau and Skagway, and far fewer cruise calls than most Inside Passage towns of similar beauty.

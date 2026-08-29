@@ -2,7 +2,7 @@
 latitude: 7.3747
 longitude: 99.299
 loc_type: island
-score: 8.6
+score: 5.714
 snippet: Quiet Trang island known for Emerald Cave, fishing-village lanes, and two
   very different beaches.
 sources:
@@ -14,6 +14,10 @@ image: ko_muk.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2016_Prowincja_Trang,_Ko_Muk_(03).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Marcin Konsek
+heritage: 1.737
+vibrancy: 1.355
+nature: 7.395
+off_the_beaten_track: 4.79
 ---
 
 Ko Muk is the Trang island with one famous trick and a lot of quiet charm around it. The trick is [Emerald Cave](/asia/thailand/andamancoast/ko_muk/emerald_cave), a sea cave that opens into a hidden beach inside a collapsed limestone chamber. It is one of the best day trips in the Trang islands, but Ko Muk is better if you stay long enough to see it after the tour boats leave.

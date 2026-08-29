@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Labuan_Bajo,_Flores,_Indon
 latitude: -8.5
 loc_type: city
 longitude: 119.883333
-score: 7.85
+score: 6.19
 snippet: Western Flores harbour town and busy gateway to Komodo's dragons, reefs,
   and island liveaboards.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Komodo_International_Airport
 title: Labuan Bajo
 type: location
+heritage: 3.759
+vibrancy: 0.797
+nature: 7.508
+off_the_beaten_track: 6.836
 ---
 
 Labuan Bajo used to be a dusty fishing town at the western tip of [Flores](/asia/indonesia/flores). It is still dusty in places, but the harbour now has dive shops, rooftop bars, tour offices, and more boat traffic than the old streets were built to handle. This is the gateway to [Komodo National Park](/asia/indonesia/flores/komodo), and almost everyone passing through is here for dragons, reefs, or a few nights on a liveaboard.

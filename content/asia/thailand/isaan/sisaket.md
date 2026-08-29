@@ -6,11 +6,15 @@ type: location
 loc_type: city
 latitude: 15.1167
 longitude: 104.3333
-score: 6.62
+score: 3.388
 image: sisaket.jpg
 image_source: https://commons.wikimedia.org/wiki/File:SI_SA_KET_CIRCLE_-_panoramio.jpg
 image_license: CC BY 3.0
 image_attribution: Sujeong
+heritage: 3.978
+vibrancy: 2.797
+nature: 2.831
+off_the_beaten_track: 3.063
 ---
 
 Sisaket is a provincial capital in the Isan region of northeastern Thailand, sitting on the Khmer-influenced plateau near the Cambodian border. It is not a heavily visited city, but it serves as a base for reaching some interesting Khmer ruins and, most notably, Khao Phra Viharn National Park.

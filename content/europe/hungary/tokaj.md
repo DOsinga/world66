@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Tokajcivertanlegi1.jpg
 latitude: 48.123553
 loc_type: city
 longitude: 21.411389
-score: 8.13
+score: 5.915
 snippet: Small Hungarian wine town where the Bodrog and Tisza meet in Tokaji Aszú
   country
 title: Tokaj
 type: location
+heritage: 7.191
+vibrancy: 4.384
+nature: 3.774
+off_the_beaten_track: 2.219
 ---
 
 Tokaj is a small town in northeastern Hungary where the Bodrog and Tisza rivers meet, and the centre of the Tokaj wine region — a UNESCO World Heritage cultural landscape. Tokaji Aszú, the region's legendary sweet wine made from botrytised grapes, has been called "the wine of kings and the king of wines" since Louis XIV declared it so.

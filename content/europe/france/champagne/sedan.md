@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sedan,_Ch%C3%A2teau_de_Sed
 latitude: 49.7034
 loc_type: city
 longitude: 4.9433
-score: 6.82
+score: 4.582
 snippet: Ardennes town on the Meuse, dominated by one of Europe’s largest medieval
   fortified castles.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Sedan_Castle
 title: Sedan
 type: location
+heritage: 6.053
+vibrancy: 2.235
+nature: 2.703
+off_the_beaten_track: 1.954
 ---
 
 Sedan sits on the Meuse river in the Ardennes, close to the Belgian border — best known for the [Château Fort de Sedan](/europe/france/champagne/sedan/chateau_fort_de_sedan), which claims to be the largest medieval fortified castle in Europe. The castle is genuinely impressive: 35,000 square metres spread across seven levels, from medieval dungeons up to the Princes' Palace, with ramparts offering sweeping views over the town and the Meuse below. It doubles as a hotel, if you want to sleep inside the walls.

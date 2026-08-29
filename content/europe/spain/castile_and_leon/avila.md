@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Avila_001.jpg
 latitude: 40.6565
 loc_type: city
 longitude: -4.7002
-score: 8.57
+score: 6.515
 snippet: High Castilian city encircled by intact medieval walls with 88 towers and
   nine gates.
 title: Ávila
 type: location
+heritage: 8.083
+vibrancy: 4.5
+nature: 4.908
+off_the_beaten_track: 2.1
 ---
 
 Ávila is one of the best-preserved medieval cities in Spain — a UNESCO World Heritage Site perched on a granite plateau at over 1,100 metres, making it the highest provincial capital in the country. Its defining feature is [the wall](/europe/spain/castile_and_leon/avila/walls_of_avila): two and a half kilometres of perfectly intact 11th-century ramparts with 88 towers and nine gates, encircling the entire old town. You can walk along the top of much of it.

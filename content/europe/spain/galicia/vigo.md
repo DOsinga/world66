@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Barrio_Viejo,_Vigo_(croppe
 latitude: 42.2377
 loc_type: city
 longitude: -8.7247
-score: 7.81
+score: 4.545
 snippet: Galician port city on the Ría de Vigo, known for seafood, granite old streets,
   and the Islas Cíes.
 title: Vigo
 type: location
+heritage: 4.865
+vibrancy: 4.05
+nature: 4.983
+off_the_beaten_track: 3.141
 ---
 
 Vigo is the largest city in Galicia and one of the great fishing ports of Europe, spread around a deep natural harbour (the [Ría de Vigo](/europe/spain/galicia/vigo/ria_de_vigo)) on Spain's Atlantic coast, just north of Portugal. It is a working city rather than a tourist one, but the setting is dramatic, the seafood is extraordinary, and the [Islas Cíes](/europe/spain/galicia/vigo/islas_cies) offshore are among the most beautiful beaches in Spain.

@@ -5,7 +5,7 @@ done:
 latitude: 56.470602
 loc_type: city
 longitude: -132.382943
-score: 7.02
+score: 6.502
 snippet: Inside Passage town with Tlingit roots, three colonial flags, and access
   to the wild Stikine River.
 sources:
@@ -14,6 +14,10 @@ sources:
 - https://travelwrangell.com/petroglyph-beach
 title: Wrangell
 type: location
+heritage: 5.891
+vibrancy: 2.544
+nature: 7.581
+off_the_beaten_track: 5.283
 ---
 
 Wrangell is one of Alaska's oldest and least-visited towns, sitting on the northern tip of Wrangell Island in the Inside Passage. It is the only place in Alaska to have flown three flags — Russian, British, and American — and it was built on land the Tlingit people had occupied for centuries before any of them arrived. The [Stikine River](/northamerica/unitedstates/alaska/wrangell/stikine_river), one of the fastest-flowing navigable rivers in North America, empties into the sea nearby and provides access deep into the wilderness interior of British Columbia.

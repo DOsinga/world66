@@ -2,7 +2,7 @@
 latitude: 43.517
 loc_type: city
 longitude: -5.267
-score: 7.1
+score: 5.284
 snippet: Asturian fishing village stacked above a small harbour on Spain's dinosaur
   coast.
 sources:
@@ -16,6 +16,10 @@ image: llastres.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lastres_of_Asturias,_Spain_at_daybreak.jpg
 image_license: CC BY 2.0
 image_attribution: Tim Adams
+heritage: 4.624
+vibrancy: 3.067
+nature: 6.231
+off_the_beaten_track: 3.408
 ---
 
 Llastres is a steep little fishing village on the Asturian coast, with houses climbing the slope above a working harbour and the Cantabrian Sea below. It is small enough to walk in an hour, but it has the look of a place that has been shaped slowly: whaling, fishing, cider bars, stone lanes, and a port that still feels like the centre of local life.

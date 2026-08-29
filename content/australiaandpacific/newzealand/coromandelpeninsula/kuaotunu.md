@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -36.7235
 longitude: 175.7242
-score: 6.42
+score: 5.704
 snippet: Small Coromandel beach village with white sand, quiet coves, and dark-sky
   astronomy.
 wikidata: Q14221463
@@ -17,6 +17,10 @@ image: kuaotunu.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Otama_Beach_130628_-_01.JPG
 image_license: CC BY-SA 4.0
 image_attribution: L-Bit
+heritage: 2.93
+vibrancy: 1.327
+nature: 7.415
+off_the_beaten_track: 4.673
 ---
 
 Kūaotunu is a small beach village on the east coast of the [Coromandel Peninsula](/australiaandpacific/newzealand/coromandelpeninsula), north of Whitianga. It is not a resort strip, and that is the point: a line of sand, a few houses, a campground, a good local food scene, and back roads leading over the hill to quieter coves.

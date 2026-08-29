@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 20.2758
 longitude: -98.1503
-score: 6.4
-snippet: Sierra Norte de Puebla village known for Otomi amate paper, mountain air, and festival traditions.
+score: 5.369
+snippet: Sierra Norte de Puebla village known for Otomi amate paper, mountain air,
+  and festival traditions.
 sources:
-  - https://en.wikivoyage.org/wiki/Pahuatl%C3%A1n
-  - https://en.wikipedia.org/wiki/Pahuatl%C3%A1n
-  - https://en.wikipedia.org/wiki/San_Pablito,_Puebla
+- https://en.wikivoyage.org/wiki/Pahuatl%C3%A1n
+- https://en.wikipedia.org/wiki/Pahuatl%C3%A1n
+- https://en.wikipedia.org/wiki/San_Pablito,_Puebla
+heritage: 4.448
+vibrancy: 3.25
+nature: 6.436
+off_the_beaten_track: 5.398
 ---
 
 Pahuatlán is a small mountain town in the Sierra Norte de Puebla, far enough from the main colonial-city circuit to feel like its own world. The centre has a tidy plaza and steep streets, but the reason to come is the culture around it: Otomi and Nahua communities, coffee-growing hills, huapango music, and the bark paper known as *amate*.

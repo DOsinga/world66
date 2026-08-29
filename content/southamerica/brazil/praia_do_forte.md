@@ -2,11 +2,15 @@
 latitude: -12.5667
 loc_type: city
 longitude: -37.9833
-score: 8.0
+score: 6.391
 snippet: Bahian beach village on the Coconut Coast, known for calm water and the Projeto
   TAMAR turtle station
 title: Praia do Forte
 type: location
+heritage: 3.956
+vibrancy: 5.274
+nature: 7.358
+off_the_beaten_track: 2.422
 ---
 
 Praia do Forte is a small resort village on the Coconut Coast of Bahia, about 70 kilometres north of Salvador. For much of the year it is a quiet fishing settlement, but it has become one of Bahia's most visited beach destinations thanks to its long stretch of calm, clear water, its well-preserved old village centre, and the turtle conservation project that put it on the map.

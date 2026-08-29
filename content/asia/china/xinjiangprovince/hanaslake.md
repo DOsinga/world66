@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Lake_Kanas.jpg
 latitude: 48.72
 loc_type: feature
 longitude: 87.02
-score: 8.35
+score: 6.068
 snippet: Altay mountain lake in Xinjiang, set in a glacial valley of taiga forest
   and Tuvan legend.
 title: Hanas Lake
 type: location
+heritage: 1.759
+vibrancy: 1.303
+nature: 7.487
+off_the_beaten_track: 6.286
 ---
 
 Kanas Lake (also written Hanas Lake) is one of the most striking landscapes in all of [Xinjiang](/asia/china/xinjiangprovince). Tucked into the southern Altay Mountains at 1,374 meters above sea level, the lake sits in a deep glacial valley surrounded by dense taiga forest — Siberian larch, spruce, and birch stretching unbroken to the ridgelines. The water shifts between vivid turquoise and deep blue depending on the season, fed by snowmelt and glacial runoff from the Friendship Peak area on the border with Kazakhstan, Russia, and Mongolia.

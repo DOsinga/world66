@@ -3,7 +3,7 @@ country: Japan
 latitude: 38.0675
 loc_type: feature
 longitude: 138.3975
-score: 8.7
+score: 5.681
 snippet: Sea of Japan island of gold mines, toki conservation, taiko, and old port
   villages.
 sources:
@@ -19,6 +19,10 @@ image: sado_island.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Sado_Shukunegi.jpg
 image_license: Public domain
 image_attribution: JH0WJF
+heritage: 1.919
+vibrancy: 1.956
+nature: 7.031
+off_the_beaten_track: 5.814
 ---
 
 Sado Island sits off the coast of Niigata in the Sea of Japan, far enough from the mainland to feel like its own small country. It has mountains, rice fields, fishing villages, rocky coasts, and a history shaped by exile, gold, and sea routes. The island is large enough that a car helps; trying to "pop over" for a few hours misses the point.

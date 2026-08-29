@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Harris_Museum_(_Preston_)_
 latitude: 53.759336
 loc_type: city
 longitude: -2.699272
-score: 6.32
+score: 3.915
 snippet: Lancashire city on the Ribble, with Victorian civic buildings and deep textile-era
   roots.
 title: Preston
 type: location
+heritage: 3.156
+vibrancy: 3.863
+nature: 4.049
+off_the_beaten_track: 0.997
 ---
 
 Preston sits on the River Ribble in central Lancashire and received city status in 2002 as part of Queen Elizabeth's Golden Jubilee celebrations — one of England's newest cities, though its history stretches back considerably further. The name derives from "Priest's Town" and the city played a role in both the English Civil War and the Jacobite risings.

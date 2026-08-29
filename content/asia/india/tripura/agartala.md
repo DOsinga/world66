@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 23.8337
 longitude: 91.2828
-score: 6.7
+score: 4.814
 snippet: Tripura's riverplain capital, mixing royal Manikya palaces, temples, markets,
   and Bangladesh-border bustle.
 sources:
@@ -14,6 +14,10 @@ image: agartala.jpg
 image_source: https://commons.wikimedia.org/wiki/File:1487239146-tripura-assembly-fb.jpg
 image_license: CC BY-SA 4.0
 image_attribution: The Statesman
+heritage: 4.817
+vibrancy: 4.85
+nature: 3.976
+off_the_beaten_track: 3.868
 ---
 
 Agartala is the capital of [Tripura](/asia/india/tripura), set on the Haora River close to the Bangladesh border. It is one of northeastern India's more accessible capitals, with flights, trains, and road links, and it makes the practical base for exploring Tripura's palaces, temples, wildlife sanctuaries, and archaeological sites.

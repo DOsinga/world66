@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gaziantep.jpg
 latitude: 37.0642
 loc_type: city
 longitude: 37.3754
-score: 8.35
+score: 4.57
 snippet: Southeastern Turkish city known for its food culture, especially baklava,
   pistachios, and kebabs.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Gaziantep
 title: Gaziantep
 type: location
+heritage: 5.087
+vibrancy: 4.337
+nature: 2.231
+off_the_beaten_track: 4.578
 ---
 
 *Asia > Turkey > Gaziantep*

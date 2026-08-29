@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 6.1183
 longitude: 100.3694
-score: 7.4
-snippet: Kedah's rice-bowl capital, with royal halls, black-domed mosques, and paddy-field horizons.
+score: 4.698
+snippet: Kedah's rice-bowl capital, with royal halls, black-domed mosques, and paddy-field
+  horizons.
 sources:
 - https://en.wikivoyage.org/wiki/Alor_Setar
 - https://en.wikipedia.org/wiki/Alor_Setar
 - https://en.wikipedia.org/wiki/Zahir_Mosque
 - https://en.wikipedia.org/wiki/Paddy_Museum
+heritage: 4.218
+vibrancy: 4.916
+nature: 3.886
+off_the_beaten_track: 2.416
 ---
 
 Alor Setar is the capital of Kedah, but it feels less like a hard-edged administrative city than a Malay royal town set in rice country. Paddy fields press close to the outskirts, while the centre gathers mosques, royal buildings, markets, and a tall viewing tower into a walkable cluster.

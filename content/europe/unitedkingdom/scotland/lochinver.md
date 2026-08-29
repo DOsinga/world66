@@ -7,13 +7,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Lochinver_harbour.jpg
 latitude: 58.152391
 loc_type: city
 longitude: -5.240577
-score: 7.73
+score: 6.281
 snippet: Northwest Scottish fishing village beneath Assynt peaks, known for Loch Inver
   harbour and legendary pies.
 sources:
 - https://en.wikipedia.org/wiki/Lochinver
 title: Lochinver
 type: location
+heritage: 4.291
+vibrancy: 1.652
+nature: 7.917
+off_the_beaten_track: 5.715
 ---
 
 Lochinver is a small fishing village at the head of Loch Inver, in the Assynt district of Sutherland in the far northwest of Scotland. Although it amounts to little more than a cluster of houses, a harbour, and a few shops, it functions as the main settlement across a huge, thinly peopled stretch of coast. Every approach is spectacular — the roads wind between savage quartzite peaks rising straight from moorland, with views over the sea to the Summer Isles.

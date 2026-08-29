@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 35.6
 longitude: 140.1
-score: 7.1
+score: 3.925
 snippet: Tokyo Bay city with Jomon archaeology, port views, and a monorail threading
   through modern Chiba.
 sources:
@@ -16,6 +16,10 @@ image: chiba.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Chiba_monorail,_Japan;_September_2016_(03).jpg
 image_license: CC0
 image_attribution: Gary Lee Todd, Ph.D.
+heritage: 4.097
+vibrancy: 3.889
+nature: 2.589
+off_the_beaten_track: 0.796
 ---
 
 Chiba is often treated as the space between Tokyo and Narita Airport, which is unfair. It is a working Tokyo Bay city with its own history, a useful monorail, and one of Japan's most important Jomon archaeological sites. It will not replace [Tokyo](/asia/japan/kanto/tokyo), but it can make a good low-pressure day when you want something close and less crowded.

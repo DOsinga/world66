@@ -14,9 +14,13 @@ sources:
 - https://commons.wikimedia.org/wiki/Category:Lama_Monachile_(Polignano_a_Mare)
 title: Polignano a Mare
 type: location
-score: 9.07
+score: 5.678
 snippet: Puglian cliff town balanced above the Adriatic, with white lanes overlooking
   Lama Monachile.
+heritage: 4.905
+vibrancy: 5.419
+nature: 6.183
+off_the_beaten_track: 1.855
 ---
 
 Polignano a Mare is Puglia’s cliff-edge showpiece, a white old town balanced above the Adriatic with balconies, terraces, and houses leaning over blue water. It is famous for the view down into [Lama Monachile](/europe/italy/puglia/polignano_a_mare/lama_monachile), and yes, that view is as good as the photographs suggest.

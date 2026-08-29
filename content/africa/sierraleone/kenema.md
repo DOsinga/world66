@@ -5,11 +5,15 @@ done:
 latitude: 7.885972
 loc_type: city
 longitude: -11.186383
-score: 4.79
+score: 5.034
 snippet: Eastern Sierra Leone city at the edge of Gola Rainforest and gateway to diamond
   country.
 title: Kenema
 type: location
+heritage: 4.131
+vibrancy: 2.954
+nature: 5.523
+off_the_beaten_track: 7.471
 ---
 
 Kenema is the third-largest city in [Sierra Leone](/africa/sierraleone), capital of the Eastern Province, and the gateway to the country's diamond country. Sitting at the edge of the Gola Rainforest, it has a different feel from the coastal capital [Freetown](/africa/sierraleone/freetown) — greener, quieter, and more deeply connected to the interior.

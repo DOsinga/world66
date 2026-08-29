@@ -13,6 +13,11 @@ image: mae_sot.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Thai-Myanmar_friendship_bridge.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Lerdsuwa
+score: 3.742
+heritage: 2.309
+vibrancy: 2.118
+nature: 4.482
+off_the_beaten_track: 4.321
 ---
 
 **Mae Sot** sits in western Thailand, close to the Moei River and the border with Myanmar. Many people pass through on their way to Myawaddy, but the town is more than a crossing point. Its markets, food, languages, and temples all show how long this border has pulled people and goods in both directions.

@@ -9,13 +9,17 @@ loc_type: city
 snippet: Progressive Humboldt Bay university town, known for Cal Poly Humboldt, redwood
   access, and ecological wetlands.
 longitude: -124.08284
-score: 6.73
+score: 5.775
 title: Arcata
 type: location
 image: arcata.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Arcata_McKinley_Statue_Wide.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Jss3255
+heritage: 3.176
+vibrancy: 3.804
+nature: 7.113
+off_the_beaten_track: 4.43
 ---
 
 Arcata is a small university town on Humboldt Bay — progressive, a little quirky, and genuinely pleasant to spend time in. It's home to [Cal Poly Humboldt](/northamerica/unitedstates/california/northcoast/arcata/cal_poly_humboldt) (formerly Humboldt State University), which gives the town its energy and its politics: Arcata has been governed by the Green Party and has declared itself a sanctuary city, banned Styrofoam, and built one of the country's first ecological wastewater treatment wetlands. For a place of 18,000 people, it has an outsized sense of itself, and mostly lives up to it.

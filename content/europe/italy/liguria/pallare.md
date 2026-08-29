@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Pallare-chiesa_san_marco-f
 latitude: 44.3273
 loc_type: city
 longitude: 8.2754
-score: 6.27
+score: 4.234
 snippet: Small Val Bormida village in wooded Ligurian hills, with churches in Pallare
   and Biestro.
 tags:
 - rivieradellepalme
 title: Pallare
 type: location
+heritage: 3.197
+vibrancy: 1.576
+nature: 5.207
+off_the_beaten_track: 3.255
 ---
 
 Pallare is a small village in the upper Val Bormida, inland from the Ligurian coast in the heavily wooded hills between Savona and Piedmont. It is a quiet, rural place — forestry and a handful of gravel quarries make up most of the local economy.

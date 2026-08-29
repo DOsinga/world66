@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/84292292@N00/8597739606
 latitude: 40.1003
 loc_type: city
 longitude: 65.3792
-score: 5.78
+score: 5.045
 snippet: Soviet-planned Uzbek industrial city in the desert between Samarkand and
   Bukhara, built around geometric boulevards.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Karmana
 title: Navoi
 type: location
+heritage: 6.304
+vibrancy: 2.359
+nature: 2.617
+off_the_beaten_track: 5.373
 ---
 
 Navoi is the most Soviet city in Uzbekistan — and that is saying something. Built from scratch in the 1950s as an industrial centre, it was administered directly from Moscow rather than Tashkent, and supplied with goods unavailable anywhere else in Central Asia. The [Soviet town centre](/asia/uzbekistan/navoi/soviet_town_centre) — wide boulevards, rectangular apartment blocks, and geometrically perfect parks — is a textbook of Soviet urban planning, dropped into the desert between [Samarkand](/asia/uzbekistan/samarkand) and [Bukhara](/asia/uzbekistan/bukhara).

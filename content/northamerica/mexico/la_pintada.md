@@ -2,8 +2,9 @@
 latitude: 29.25
 loc_type: feature
 longitude: -110.8
-score: 8.6
-snippet: Sonoran desert canyon holding more than 1,500 Seri and Pima petroglyphs and pictographs.
+score: 3.996
+snippet: Sonoran desert canyon holding more than 1,500 Seri and Pima petroglyphs and
+  pictographs.
 tags:
 - sight
 - archaeology
@@ -13,6 +14,10 @@ image: la_pintada.jpg
 image_source: https://commons.wikimedia.org/wiki/File:1_of_the_rock_shelter_caves_at_Bhimbetka,_Madhya_Pradesh.jpg
 image_license: CC BY-SA 2.0
 image_attribution: solarisgirl from Pune, India
+heritage: 4.292
+vibrancy: 1.548
+nature: 4.374
+off_the_beaten_track: 5.352
 ---
 
 La Pintada is one of the most important rock art sites in Mexico, located in a canyon about 60 kilometres southeast of Hermosillo. The site contains over 1,500 petroglyphs and pictographs painted and carved by the Seri and Pima peoples over a period stretching back at least 2,000 years. The images include human figures, geometric designs, deer, and serpents, spread across canyon walls in a setting of rugged desert beauty.

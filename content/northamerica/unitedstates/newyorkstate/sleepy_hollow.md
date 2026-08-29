@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 41.0919
 longitude: -73.8644
-score: 7.2
+score: 4.419
 snippet: Hudson Valley village where Washington Irving's ghost story meets Dutch colonial
   churches and Rockefeller estates.
 wikidata: Q1025065
@@ -18,6 +18,10 @@ image: sleepy_hollow.jpg
 image_source: https://commons.wikimedia.org/wiki/File:SleepyHollowRiverWalk.jpg
 image_license: CC BY 4.0
 image_attribution: Irina S.B.
+heritage: 5.281
+vibrancy: 2.217
+nature: 3.866
+off_the_beaten_track: 1.262
 ---
 
 Sleepy Hollow sits on the east bank of the Hudson River, just north of Tarrytown and close enough to [New York City](/northamerica/unitedstates/newyorkstate/newyork) for an easy day trip. Its name is doing a lot of work: Washington Irving set **The Legend of Sleepy Hollow** in this low valley of old Dutch farms, churchyards, and wooded roads.

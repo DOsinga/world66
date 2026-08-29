@@ -4,7 +4,7 @@ done:
 latitude: 34.5047
 loc_type: city
 longitude: -97.1086
-score: 6.72
+score: 1.882
 snippet: Small Arbuckle Mountains gateway town best known for Turner Falls and easy
   access to Chickasaw country.
 sources:
@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Turner_Falls
 title: Davis
 type: location
+heritage: 1.914
+vibrancy: 1.672
+nature: 2.106
+off_the_beaten_track: 2.25
 ---
 
 Davis is a small town in south-central Oklahoma, close enough to I-35 to be easy and close enough to the Arbuckle Mountains to feel like a break from the plains. It is the natural base for [Turner Falls](/northamerica/unitedstates/oklahoma/davis/turner_falls), Oklahoma's tallest waterfall, and for a wider loop through the spring-fed creeks, limestone hills, and Chickasaw history around Sulphur.

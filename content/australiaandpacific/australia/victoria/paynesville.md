@@ -2,7 +2,7 @@
 latitude: -37.91
 loc_type: city
 longitude: 147.71
-score: 6.92
+score: 4.011
 snippet: Gippsland Lakes boating town facing Raymond Island, with koalas a four-minute
   ferry ride away
 sources:
@@ -17,6 +17,10 @@ image: paynesville.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Raymond_Island_(Gippsland,_Viictoria,_Australia)_Chain_Ferry.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Brycewhite
+heritage: 2.13
+vibrancy: 2.644
+nature: 4.94
+off_the_beaten_track: 1.602
 ---
 
 Paynesville is a low-key boating town on the Gippsland Lakes in eastern [Victoria](/australiaandpacific/australia/victoria). Its waterfront faces Raymond Island across a narrow channel, so the town's daily rhythm is half mainland marina, half island ferry crossing. Boats nose through the canals, pelicans work the jetties, and almost every useful walk ends up back at the water.

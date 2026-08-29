@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Angus_Moon_Farm,_Vanderhoo
 latitude: 54.017529
 loc_type: city
 longitude: -124.007663
-score: 5.88
+score: 5.263
 title: Vanderhoof
 type: location
 snippet: Small Nechako River town at British Columbia's geographic centre, surrounded
   by ranchland and bird-rich river flats.
+heritage: 3.078
+vibrancy: 2.164
+nature: 6.689
+off_the_beaten_track: 4.814
 ---
 
 Vanderhoof sits at the geographical centre of British Columbia, a small ranching and forestry town on the Nechako River. It is not a destination in itself, but it makes a useful stop on the drive between Prince George and the lakes district to the west.

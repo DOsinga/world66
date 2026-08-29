@@ -2,15 +2,20 @@
 title: Slavonice
 type: location
 loc_type: city
-latitude: 48.9980
-longitude: 15.3520
-score: 7.1
-snippet: Small South Bohemian border town with a remarkably intact Renaissance sgraffito centre.
+latitude: 48.998
+longitude: 15.352
+score: 4.971
+snippet: Small South Bohemian border town with a remarkably intact Renaissance sgraffito
+  centre.
 wikidata: Q1727398
 sources:
-  - https://en.wikivoyage.org/wiki/Slavonice
-  - https://whc.unesco.org/en/tentativelists/1507/
-  - https://www.visitczechia.com/en-us/things-to-do/places/landmarks/cities/t-slavonice
+- https://en.wikivoyage.org/wiki/Slavonice
+- https://whc.unesco.org/en/tentativelists/1507/
+- https://www.visitczechia.com/en-us/things-to-do/places/landmarks/cities/t-slavonice
+heritage: 6.098
+vibrancy: 2.758
+nature: 3.995
+off_the_beaten_track: 3.975
 ---
 
 Slavonice is a small town near the Austrian border with one big gift: its Renaissance centre survived. The two main squares are lined with sgraffito houses, Gothic and Renaissance vaults, narrow frontages, and facades that look far too rich for a town this quiet.

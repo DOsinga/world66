@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Coll.jpg
 latitude: 56.623511
 loc_type: city
 longitude: -6.527204
-score: 7.7
+score: 6.122
 snippet: Low-key Inner Hebridean island of sandy beaches, dark skies, and a tiny crofting
   community
 title: Isle of Coll
 type: location
+heritage: 3.262
+vibrancy: 1.842
+nature: 7.669
+off_the_beaten_track: 5.965
 ---
 
 Coll is one of Scotland's Inner Hebrides — thirteen miles long, three miles wide, and home to about 150 people. It sits northwest of [Mull](/europe/unitedkingdom/scotland/isle_of_mull), just north of neighbouring Tiree, and is rockier and wilder than its flatter sibling.

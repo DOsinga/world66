@@ -4,12 +4,17 @@ type: location
 loc_type: feature
 latitude: 36.2667
 longitude: 136.9
-score: 8.8
-snippet: Mountain village of steep thatched gassho-zukuri farmhouses in the snowy Shokawa Valley.
+score: 6.669
+snippet: Mountain village of steep thatched gassho-zukuri farmhouses in the snowy
+  Shokawa Valley.
 sources:
-  - https://en.wikivoyage.org/wiki/Shirakawa-go
-  - https://en.wikipedia.org/wiki/Historic_Villages_of_Shirakawa-g%C5%8D_and_Gokayama
+- https://en.wikivoyage.org/wiki/Shirakawa-go
+- https://en.wikipedia.org/wiki/Historic_Villages_of_Shirakawa-g%C5%8D_and_Gokayama
 wikidata: Q1002193
+heritage: 7.767
+vibrancy: 2.339
+nature: 6.295
+off_the_beaten_track: 3.354
 ---
 
 Shirakawa-go is the place most travellers picture when they imagine old rural Japan under heavy snow: steep thatched farmhouses, mountain air, rice fields, and a village plan still shaped by winters that can bury the valley. The main village, Ogimachi, is part of the UNESCO-listed historic villages of Shirakawa-go and Gokayama.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Imensid%C3%A3o_do_mar_vist
 latitude: -2.7975
 loc_type: feature
 longitude: -40.5137
-score: 8.82
+score: 6.271
 snippet: Ceará beach village behind dunes, where sandy tracks lead to lagoons, wind,
   and sunset dunes.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Jericoacoara_National_Park
 title: Jericoacoara
 type: location
+heritage: 0.076
+vibrancy: 5.152
+nature: 7.23
+off_the_beaten_track: 5.965
 ---
 
 Jericoacoara — "Jeri" to everyone who has been there — is a beach village in the far northeast of Brazil, tucked behind dunes on the Ceará coast. It shouldn't work as a destination: the roads leading here are arduous, the last stretch requires a 4x4 taxi or dune buggy through sandy tracks, the village has no cars, and the infrastructure is basic by any resort standard. And yet Jeri has been pulling travellers for decades, drawn by one of the most beautiful combinations of landscapes in Brazil: a vast dune, a turquoise lagoon, a windswept beach, and a village that has held onto its fishing community soul despite years of tourism pressure.

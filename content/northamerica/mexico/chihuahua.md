@@ -8,12 +8,16 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Chihuahua,_Pla
 latitude: 28.6353
 loc_type: city
 longitude: -106.0889
-score: 6.98
+score: 4.589
 snippet: Northern Mexican state capital and desert gateway to the Copper Canyon railway.
 sources:
 - https://en.wikipedia.org/wiki/Chihuahua_City
 title: Chihuahua
 type: location
+heritage: 5.176
+vibrancy: 4.218
+nature: 3.701
+off_the_beaten_track: 3.729
 ---
 
 The dog is probably more famous than the city, but Chihuahua rewards the traveler who makes the effort to get here. As the capital of Mexico's largest state — a vast territory of desert, sierra, and canyon — it is the natural gateway to the [Copper Canyon](/northamerica/mexico/coppercanyon), one of the great natural spectacles of North America. The canyon system is deeper and longer than the Grand Canyon, and [the train ride](/northamerica/mexico/chihuahua/chepe_train) down into it from Chihuahua is one of the finest rail journeys on the continent.

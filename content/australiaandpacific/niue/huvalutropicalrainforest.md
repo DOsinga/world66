@@ -4,11 +4,15 @@ done:
 latitude: -19.087
 loc_type: feature
 longitude: -169.803
-score: 7.32
+score: 6.363
 snippet: Protected rainforest reserve in southeastern Niue, where jungle paths lead
   to limestone chasms and coastal forest.
 title: Huvalu Forest Conservation Area
 type: location
+heritage: 2.022
+vibrancy: 0.788
+nature: 7.989
+off_the_beaten_track: 6.139
 ---
 
 The Huvalu Forest Conservation Area covers roughly 54 square kilometres of the island's southeastern corner — the largest remaining area of primary forest in Niue. It was established in 1992 and protects tropical rainforest, coastal forest, and the jagged limestone formations of the east coast.

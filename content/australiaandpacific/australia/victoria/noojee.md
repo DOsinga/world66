@@ -3,14 +3,19 @@ title: Noojee
 type: location
 loc_type: city
 latitude: -37.8833
-longitude: 146.0000
+longitude: 146.0
 wikidata: Q7049694
-score: 6.6
-snippet: Tiny Gippsland forest town with waterfalls, a great timber trestle bridge, and mountain-ash walks.
+score: 4.768
+snippet: Tiny Gippsland forest town with waterfalls, a great timber trestle bridge,
+  and mountain-ash walks.
 sources:
-  - https://en.wikivoyage.org/wiki/Noojee
-  - https://www.visitgippsland.com.au/news/marvel-at-the-noojee-trestle-bridge
-  - https://www.exploreoutdoors.vic.gov.au/regions/gippsland/noojee-erica-and-walhalla
+- https://en.wikivoyage.org/wiki/Noojee
+- https://www.visitgippsland.com.au/news/marvel-at-the-noojee-trestle-bridge
+- https://www.exploreoutdoors.vic.gov.au/regions/gippsland/noojee-erica-and-walhalla
+heritage: 3.129
+vibrancy: 1.664
+nature: 6.065
+off_the_beaten_track: 3.931
 ---
 
 Noojee is a tiny Gippsland town on the road toward Mount Baw Baw, wrapped in wet forest, fern gullies, and old timber-country history. It is too small to pretend to be a full resort town, and that is part of the appeal.

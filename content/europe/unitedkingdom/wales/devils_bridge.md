@@ -4,14 +4,19 @@ type: location
 loc_type: feature
 latitude: 52.3664
 longitude: -3.8464
-score: 6.8
+score: 5.217
 wikidata: Q3398339
-snippet: Wooded Ceredigion gorge where three bridges stack above waterfalls and steam trains climb from Aberystwyth.
+snippet: Wooded Ceredigion gorge where three bridges stack above waterfalls and steam
+  trains climb from Aberystwyth.
 sources:
-  - https://en.wikivoyage.org/wiki/Devil%27s_Bridge
-  - https://devilsbridgefalls.co.uk/
-  - https://www.rheidolrailway.co.uk/
-  - https://www.hafod.org/
+- https://en.wikivoyage.org/wiki/Devil%27s_Bridge
+- https://devilsbridgefalls.co.uk/
+- https://www.rheidolrailway.co.uk/
+- https://www.hafod.org/
+heritage: 4.716
+vibrancy: 1.513
+nature: 6.087
+off_the_beaten_track: 3.766
 ---
 
 *Europe > United Kingdom > Wales > Devil's Bridge*

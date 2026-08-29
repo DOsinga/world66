@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bear_Lake,_Bear_Lake_Count
 latitude: 41.9634
 loc_type: feature
 longitude: -111.3221
-score: 7.59
+score: 5.356
 snippet: High mountain lake on the Utah-Idaho border, famous for its vivid turquoise
   water.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://www.fs.usda.gov/r04/uinta-wasatch-cache/recreation/trails/limber-pine-nature-trail-004
 title: Bear Lake
 type: location
+heritage: 2.019
+vibrancy: 2.296
+nature: 7.193
+off_the_beaten_track: 2.726
 ---
 
 Bear Lake is Utah's turquoise surprise, a high mountain lake straddling the Idaho border and glowing a strange, almost Caribbean blue against the sagebrush hills. Locals call it the "Caribbean of the Rockies," which sounds like chamber-of-commerce nonsense until you see the water on a clear afternoon.

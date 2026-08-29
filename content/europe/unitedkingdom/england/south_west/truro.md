@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1_Prince%27s_Street,_Truro
 latitude: 50.263335
 loc_type: city
 longitude: -5.051078
-score: 7.82
+score: 5.825
 snippet: Cornwall's only city, set on a tidal river and anchored by a three-spired
   cathedral
 sources:
@@ -19,6 +19,10 @@ tags:
 - cornwall
 title: Truro
 type: location
+heritage: 4.636
+vibrancy: 5.317
+nature: 6.46
+off_the_beaten_track: 1.997
 ---
 
 Truro is the only city in Cornwall and its administrative, commercial, and cultural centre. It sits at the head of the [Truro River](/europe/unitedkingdom/england/south_west/truro/truro_river), a tidal estuary that eventually opens into the Carrick Roads, one of the world's largest natural harbours.

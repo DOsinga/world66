@@ -5,7 +5,7 @@ done:
 latitude: 54.666667
 loc_type: city
 longitude: -1.75
-score: 8.07
+score: 6.099
 snippet: English cathedral city on a river bend, dominated by its Norman cathedral,
   castle, and university.
 title: Durham
@@ -14,6 +14,10 @@ image: durham.jpg
 image_source: https://commons.wikimedia.org/wiki/File:At_Durham_2025_093_-_Gravestones_at_St_Oswald%27s_Churchyard.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Photograph by Mike Peel (www.mikepeel.net).
+heritage: 6.75
+vibrancy: 5.869
+nature: 4.049
+off_the_beaten_track: 1.464
 ---
 
 It is surprising how many visitors to the UK rush from [London](/europe/unitedkingdom/england/london) to [Scotland](/europe/unitedkingdom/scotland) via [York](/europe/unitedkingdom/england/yorkshire/york) without a thought of Durham. Yet it is a lovely city with a magnificent castle and cathedral and is home to England's third oldest university.

@@ -5,13 +5,17 @@ done:
 latitude: 37.7236
 loc_type: city
 longitude: 20.872
-score: 8.39
+score: 5.91
 snippet: Quieter Zakynthos beach resort on a loggerhead turtle nesting shore south
   of the airport.
 sources:
 - https://en.wikipedia.org/wiki/Kalamaki,_Zakynthos
 title: Kalamaki
 type: location
+heritage: 2.666
+vibrancy: 4.54
+nature: 6.967
+off_the_beaten_track: 2.649
 ---
 
 Kalamaki sits on the southern coast of [Zakynthos](/europe/greece/zakinthos), a quieter alternative to the party strip of neighbouring Laganas. The beach here is part of the nesting ground for loggerhead sea turtles, which means sunbeds are cleared at dusk and lights are kept low at night — a rule that keeps the resort pleasantly low-key.

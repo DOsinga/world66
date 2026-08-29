@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Rheinsberg_Schloss_und_Par
 latitude: 53.098318
 loc_type: city
 longitude: 12.891012
-score: 7.53
+score: 5.221
 snippet: Northern Brandenburg lakeside town known for Schloss Rheinsberg and its Frederick
   the Great and Tucholsky associations.
 title: Rheinsberg
 type: location
+heritage: 5.955
+vibrancy: 3.011
+nature: 5.213
+off_the_beaten_track: 2.246
 ---
 
 Rheinsberg is a small town in northern Brandenburg, set on the shore of the [Grienericksee](/europe/germany/brandenburg/rheinsberg/grienericksee) and surrounded by forests and lakes. It is best known for [Schloss Rheinsberg](/europe/germany/brandenburg/rheinsberg/schloss_rheinsberg), a graceful palace where the young Frederick the Great spent his happiest years before ascending the Prussian throne. The writer Kurt Tucholsky later immortalised the town in his novella *Rheinsberg: A Picture Book for Lovers*, and Tucholsky fans still make the pilgrimage to see the [Tucholsky Literaturmuseum](/europe/germany/brandenburg/rheinsberg/tucholsky_museum) inside the palace.

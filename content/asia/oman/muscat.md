@@ -11,11 +11,15 @@ image_source: https://www.flickr.com/photos/92889888@N08/37977641142
 latitude: 23.612363
 loc_type: city
 longitude: 58.593813
-score: 8.86
+score: 5.357
 snippet: Omani capital stretched between mountains and the Gulf, with Old Muscat,
   Muttrah, and Portuguese forts.
 title: Muscat
 type: location
+heritage: 5.098
+vibrancy: 4.101
+nature: 6.143
+off_the_beaten_track: 3.234
 ---
 
 Muscat is the capital of Oman, strung along forty kilometres of coast between the Gulf of Oman and a wall of bare, dramatic mountains. It is not a single centre but a chain of quarters — Old Muscat, Muttrah, Ruwi, Qurum, Shatti Al Qurum, Al Khuwair — each separated from the next by a mountain spur. The result is a city that feels smaller and more villagey than its 1.5 million people would suggest, punctuated by white low-rise architecture that the government requires by planning law.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 36.4667
 longitude: 140.1
-score: 7.2
+score: 4.788
 snippet: Tochigi pottery town shaped by Mashiko ware, folk craft, kilns, and wooded
   temple hills.
 sources:
@@ -15,6 +15,10 @@ image: mashiko.jpg
 image_source: https://commons.wikimedia.org/wiki/File:MashikoDaiseiGama202410.jpg
 image_license: CC BY 4.0
 image_attribution: FukuroWaraw
+heritage: 5.322
+vibrancy: 1.515
+nature: 5.098
+off_the_beaten_track: 3.177
 ---
 
 Mashiko is one of Japan's most approachable pottery towns. It sits in rural Tochigi, close enough to Tokyo for a long day, but the mood is slower: clay workshops, kiln yards, small galleries, and wooded hills rather than a polished museum district.

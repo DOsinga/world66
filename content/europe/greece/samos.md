@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/63005367@N02/24063187345
 latitude: 37.7561
 loc_type: city
 longitude: 26.9773
-score: 8.74
+score: 5.469
 snippet: Green eastern Aegean island of Muscat vineyards, mountain villages, and ancient
   links to Pythagoras.
 title: Samos
 type: location
+heritage: 5.656
+vibrancy: 5.439
+nature: 5.36
+off_the_beaten_track: 1.527
 ---
 
 Samos is a green, mountainous island in the eastern Aegean, sitting less than two kilometres off the Turkish coast at its closest point — on a clear day you can see Kuşadası across the narrow strait. It is one of the lushest of the Greek islands: pine forests, olive groves, vineyards producing the sweet Samos Muscat wine, and waterfalls in the hills above the coast. That greenness, combined with some genuinely ancient history, makes Samos feel more substantial than a summer-sunshine island.

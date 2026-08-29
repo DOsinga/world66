@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Alpharetta,_Georg
 latitude: 34.075596
 loc_type: city
 longitude: -84.294596
-score: 6.1
+score: 4.681
 title: Alpharetta
 type: location
 snippet: North Fulton suburb of Atlanta with a walkable centre and a substantial technology-office
   base.
+heritage: 3.04
+vibrancy: 4.836
+nature: 4.279
+off_the_beaten_track: 0.651
 ---
 
 Alpharetta is an affluent suburb of Atlanta in north Fulton County, about 26 miles north of downtown. It's a significant tech hub — dozens of major technology companies have offices here — and has developed a pleasant, walkable town center around [Alpharetta City Center](/northamerica/unitedstates/georgia/alpharetta/alpharetta_city_center) in recent years.

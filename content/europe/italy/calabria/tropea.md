@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Tropea_-_Veduta_da_Via_Car
 latitude: 38.6753
 loc_type: city
 longitude: 15.8949
-score: 8.86
+score: 5.907
 title: Tropea
 type: location
 snippet: Calabrian cliff town above turquoise beaches, watched over by Santa Maria
   dell'Isola.
+heritage: 4.833
+vibrancy: 5.809
+nature: 6.162
+off_the_beaten_track: 1.953
 ---
 
 Tropea is perhaps the most famous destination in all of Calabria, and for good reason. The town perches on cliffs above a sandy beach, with the church of [Santa Maria dell'Isola](/europe/italy/calabria/tropea/santa_maria_dellisola) built on a rock with sea on three sides. The old town above is a tangle of steep streets, crumbling palaces, and old churches. The [cathedral](/europe/italy/calabria/tropea/tropea_cathedral) — Norman in origin, rebuilt after earthquakes — houses a venerated icon and two unexploded World War II bombs embedded in its outer wall, left as a votive offering.

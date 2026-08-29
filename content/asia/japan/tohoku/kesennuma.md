@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 38.9086
 longitude: 141.57
-score: 7.1
+score: 4.549
 snippet: Sanriku fishing port known for sharks, tsunami memory, and a rias coastline
   of islands and coves.
 wikidata: Q235746
@@ -17,6 +17,10 @@ image: kesennuma.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kesennnuma_gyokou.jpg
 image_license: Public domain
 image_attribution: EMPEX
+heritage: 4.258
+vibrancy: 3.654
+nature: 5.246
+off_the_beaten_track: 5.021
 ---
 
 Kesennuma is a working fishing port on the Sanriku Coast, in the far northeast of Miyagi Prefecture. It is not a polished resort town. Its strength is stranger and more serious: a harbour full of seafood, a coast of steep inlets and islands, and a direct memory of the 2011 tsunami that reshaped the city.

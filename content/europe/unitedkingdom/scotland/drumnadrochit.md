@@ -13,9 +13,13 @@ image: drumnadrochit.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cottages_in_Drumnadrochit_-_geograph.org.uk_-_2443303.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Trevor Littlewood
-score: 8.1
+score: 5.922
 snippet: Loch Ness village where monster lore meets Glen Urquhart walks and ruined
   Urquhart Castle.
+heritage: 5.331
+vibrancy: 2.042
+nature: 6.919
+off_the_beaten_track: 4.251
 ---
 
 *Europe > United Kingdom > Scotland > Drumnadrochit*

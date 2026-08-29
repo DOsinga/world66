@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tlos_ruins_Turkey.jpg
 latitude: 36.5381
 loc_type: feature
 longitude: 29.4193
-score: 8.6
+score: 5.655
 snippet: One of the largest and most dramatic Lycian cities, set on a steep rocky
   crag
 story: Tlos was one of the six principal cities of the Lycian League and is mentioned
@@ -18,6 +18,10 @@ tags:
 - sight
 title: Tlos
 type: location
+heritage: 6.871
+vibrancy: 1.849
+nature: 4.692
+off_the_beaten_track: 4.248
 ---
 
 Tlos is one of the great Lycian sites and one of the most visually impressive — a massive acropolis rising from a crag above a wide valley, scattered with rock-cut tombs, an agora, baths, a theatre, and the remains of an Ottoman fortress built over the ancient citadel. The site is large and requires some scrambling to explore properly.

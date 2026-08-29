@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:A_wild_elephant_in_Kui_Bur
 latitude: 12.069553
 loc_type: city
 longitude: 99.872073
-score: 7.03
+score: 4.953
 snippet: Quiet Thai coastal district where wild elephants feed near pineapple fields
   inland from empty Gulf beaches.
 title: Kui Buri
 type: location
+heritage: 1.881
+vibrancy: 3.371
+nature: 6.049
+off_the_beaten_track: 1.686
 ---
 
 Kui Buri is a quiet coastal district south of [Hua Hin](/asia/thailand/royalcoast/huahin), well off the main tourist trail along the Gulf of Thailand. The town itself is small and unremarkable, but the area draws visitors for two reasons: the wild elephants of [Kui Buri National Park](/asia/thailand/royalcoast/kui_buri/kui_buri_national_park) and the empty beaches along the so-called Sunrise Coast.

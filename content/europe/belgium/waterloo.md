@@ -8,7 +8,7 @@ snippet: Belgian commuter town south of Brussels, defined by the battlefield tha
   ended Napoleon's rule.
 title: Waterloo
 type: location
-score: 7.94
+score: 6.195
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Battle_of_Waterloo
@@ -17,6 +17,10 @@ image: waterloo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Belgique_Butte_du_Lion_dit_de_Waterloo.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Myrabella
+heritage: 7.283
+vibrancy: 5.096
+nature: 2.798
+off_the_beaten_track: 1.82
 ---
 
 Waterloo is famous for a single day: 18 June 1815, when Napoleon's army met the Duke of Wellington's forces on the rolling farmland south of this small [Belgian](/europe/belgium) town. The battle ended Napoleon's rule and reshaped Europe. Today Waterloo is a prosperous commuter suburb of [Brussels](/europe/belgium/brussels), but the battlefield remains largely unchanged.

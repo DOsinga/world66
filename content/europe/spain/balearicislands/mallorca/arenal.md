@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Mallorca_S%27Arenal_beach_
 latitude: 39.5167
 loc_type: city
 longitude: 2.75
-score: 8.03
+score: 5.246
 snippet: Mallorca beach resort at Platja de Palma’s eastern end, known for Ballermann
   nightlife and German crowds.
 title: S'Arenal
 type: location
+heritage: 1.818
+vibrancy: 6.586
+nature: 1.766
+off_the_beaten_track: 0.527
 ---
 
 S'Arenal (also known as El Arenal) is a beach resort on the southern coast of [Mallorca](/europe/spain/balearicislands/mallorca), straddling the boundary between the municipalities of Palma and Llucmajor. It sits at the eastern end of the [Platja de Palma](/europe/spain/balearicislands/mallorca/playa_de_palma), a wide sandy beach stretching some seven kilometres to Ca'n Pastilla, backed by a flat promenade ideal for walking and cycling.

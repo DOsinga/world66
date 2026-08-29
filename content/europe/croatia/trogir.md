@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Trogir_(20611290808).jpg
 latitude: 43.516414
 loc_type: city
 longitude: 16.249716
-score: 9.1
+score: 6.848
 snippet: UNESCO-listed Adriatic town with a preserved Romanesque-Gothic core on a
   small island near Split.
 tags:
 - dalmatia
 title: Trogir
 type: location
+heritage: 8.323
+vibrancy: 5.076
+nature: 5.676
+off_the_beaten_track: 1.655
 ---
 
 Trogir is not as well known as [Split](/europe/croatia/split) or [Dubrovnik](/europe/croatia/dubrovnik) but rivals these cities in beauty. The town was founded by Greek colonists from the Island of Vis in the 3rd century BC. On this ancient matrix lies the historical core of Trogir, which is the best-preserved Romanesque-Gothic complex not only in the Adriatic but in all of Central Europe. The entire old town is a UNESCO World Heritage Site.

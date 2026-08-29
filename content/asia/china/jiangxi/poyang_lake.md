@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Birds_on_Poyang_Lake_(1527
 latitude: 29.083
 loc_type: feature
 longitude: 116.283
-score: 6.87
+score: 4.9
 snippet: Northern Jiangxi freshwater lake whose seasonal wetlands hold East Asia's
   great winter bird migrations.
 sources:
 - https://en.wikipedia.org/wiki/Poyang_Lake
 title: Poyang Lake
 type: location
+heritage: 3.421
+vibrancy: 1.535
+nature: 6.145
+off_the_beaten_track: 4.319
 ---
 
 Poyang Lake is China's largest freshwater lake and one of the most important wetland ecosystems in East Asia. Fed by five major river systems and draining northward into the Yangtze, it occupies a basin in northern Jiangxi that expands dramatically during the summer flood season and contracts to a fraction of its peak size in winter droughts — a fluctuation that creates a mosaic of open water, exposed mudflats, and reed beds that shifts with the seasons. In normal wet years the lake stretches over 3,200 square kilometers; in severe drought years it has fallen below 200.

@@ -5,11 +5,15 @@ done:
 latitude: 38.7076
 loc_type: city
 longitude: -76.3382
-score: 6.86
+score: 4.707
 snippet: Chesapeake watermen's village on Maryland's Eastern Shore, known for skipjacks
   and wide bay horizons.
 title: Tilghman Island
 type: location
+heritage: 3.779
+vibrancy: 2.791
+nature: 5.694
+off_the_beaten_track: 3.468
 ---
 
 Tilghman Island is a small working watermen's village on Maryland's Eastern Shore, separated from the mainland by Knapps Narrows and reached by drawbridge. It's genuinely unspoiled — no resort sprawl, no chain restaurants, just crab boats, skipjacks, and the wide Chesapeake sky.

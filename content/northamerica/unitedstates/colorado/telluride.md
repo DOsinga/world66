@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Grassy_mountainside_in_Tel
 latitude: 37.937494
 loc_type: city
 longitude: -107.812285
-score: 9.2
+score: 6.86
 snippet: Colorado mountain town in a San Juan box canyon, with mining streets below
   steep ski terrain.
 title: Telluride
 type: location
+heritage: 1.283
+vibrancy: 5.199
+nature: 8.121
+off_the_beaten_track: 3.93
 ---
 
 Telluride sits in a dramatic box canyon in the San Juan Mountains of southwestern Colorado, ringed on three sides by steep peaks that rise to over 13,000 feet. The setting is extraordinary — waterfalls cascade down the cliffs at the end of town, and the peaks close in so tightly that the town gets very little direct sun in winter. It started as a rough mining camp in the 1870s and has since evolved into one of Colorado's most beautiful mountain towns.

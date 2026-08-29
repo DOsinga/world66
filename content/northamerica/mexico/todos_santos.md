@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Todos_Santos_(8776696032).
 latitude: 23.4501
 loc_type: city
 longitude: -110.2254
-score: 8.11
+score: 6.027
 snippet: Baja California Sur arts town near Pacific surf breaks, with galleries in
   colonial streets
 title: Todos Santos
 type: location
+heritage: 4.408
+vibrancy: 6.263
+nature: 5.417
+off_the_beaten_track: 4.431
 ---
 
 Todos Santos is a small town on the Pacific coast of Baja California Sur, about 80 kilometres north of Cabo San Lucas. It has developed a reputation as an arts colony — the [gallery district](/northamerica/mexico/todos_santos/gallery_district) along Calle Topete has studios and fine art galleries tucked into colonial buildings — while staying considerably more relaxed than Cabo. The town sits just inland from some powerful [Pacific surf breaks](/northamerica/mexico/todos_santos/todos_santos_beaches).

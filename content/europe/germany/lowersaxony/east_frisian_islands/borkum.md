@@ -11,9 +11,13 @@ loc_type: city
 snippet: Largest East Frisian Island, a North Sea resort of wide beaches, dunes, and
   faded seaside grandeur.
 longitude: 6.691745
-score: 7.56
+score: 4.709
 title: Borkum
 type: location
+heritage: 3.017
+vibrancy: 2.827
+nature: 5.933
+off_the_beaten_track: 2.892
 ---
 
 Borkum is the largest and westernmost of the East Frisian Islands, sitting where the Ems estuary meets the North Sea. It feels different from its neighbours — more spacious, more varied, and with a certain faded grandeur that comes from over 150 years as a seaside resort. The island is roughly 30 square kilometres, big enough to have distinct landscapes: wide sandy beaches along the [north coast](/europe/germany/lowersaxony/east_frisian_islands/borkum/north_beach), grassy dunes in the interior, and salt marshes on the sheltered southern side facing the Wadden Sea.

@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Zutphen,_Walburgkerk_met_s
 latitude: 52.1387
 loc_type: city
 longitude: 6.1952
-score: 7.52
+score: 4.829
 snippet: Hanseatic town on the IJssel, with cobbled streets, Gothic churches, medieval
   towers, and merchant houses.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Drogenapstoren
 title: Zutphen
 type: location
+heritage: 6.186
+vibrancy: 2.938
+nature: 3.057
+off_the_beaten_track: 2.238
 ---
 
 Zutphen is one of the best-preserved medieval towns in the Netherlands, a former Hanseatic trading city on the IJssel river that somehow escaped both wartime destruction and post-war redevelopment. The result is a compact old centre of cobbled streets, Gothic churches, medieval towers, and merchants' houses that looks much as it did 500 years ago.

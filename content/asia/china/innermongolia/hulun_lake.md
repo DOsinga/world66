@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:HulunLake2.jpg
 latitude: 48.9731
 loc_type: feature
 longitude: 117.4358
-score: 7.43
+score: 6.159
 snippet: Huge Inner Mongolian freshwater lake where steppe, reed beds, and migratory
   waterfowl meet.
 sources:
 - https://en.wikivoyage.org/wiki/Inner_Mongolia
 title: Hulun Lake
 type: location
+heritage: 1.427
+vibrancy: 1.108
+nature: 7.702
+off_the_beaten_track: 6.046
 ---
 
 Hulun Lake — also called Dalai Lake, from the Mongolian word for "sea" — is one of the five largest freshwater lakes in China, a vast body of water spread across 2,339 square kilometres of the Hulunbuir steppe in northeastern Inner Mongolia. It lies about 30 kilometres from Manzhouli, making it easily accessible from that city, and the combination of open water, surrounding grassland, and the long light of summer evenings makes it one of the most compelling natural sites in the region.

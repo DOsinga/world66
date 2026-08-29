@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:The_coast_of_South_China_S
 latitude: 16.26927
 loc_type: city
 longitude: 108.062178
-score: 8.08
+score: 4.788
 snippet: Central Vietnamese beach village on a sheltered bay between the Hai Van Pass
   and An Cu Lagoon.
 title: Lang Co Beach
 type: location
+heritage: 1.778
+vibrancy: 2.072
+nature: 6.421
+off_the_beaten_track: 2.539
 ---
 
 [Lang Co Beach](/asia/vietnam/aroundhue/langcobeach/lang_co_beach) stretches 10 kilometres along a sheltered bay at the foot of the [Hai Van Pass](/asia/vietnam/aroundhue/langcobeach/hai_van_pass), about 60 kilometres north of Hue. The beach sits on a narrow spit of land with calm, clear water on one side and the [An Cu Lagoon](/asia/vietnam/aroundhue/langcobeach/an_cu_lagoon) on the other, making it one of the most scenic spots on the central Vietnamese coast.

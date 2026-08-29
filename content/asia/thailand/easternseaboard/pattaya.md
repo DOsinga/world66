@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Pattaya_Bay,_Pattaya_Beach
 latitude: 12.9367
 loc_type: city
 longitude: 100.8865
-score: 8.29
+score: 5.968
 snippet: Busy Thai beach resort on the Gulf of Thailand, with dense nightlife and
   offshore island trips.
 title: Pattaya
 type: location
+heritage: 5.718
+vibrancy: 6.108
+nature: 3.911
+off_the_beaten_track: 1.497
 ---
 
 Pattaya is Thailand's original beach resort, 147km southeast of [Bangkok](/asia/thailand/bangkok) on the Gulf of Thailand. It has an enormous amount of infrastructure built up around tourism — sprawling beach road, shopping malls, seafood restaurants, bars — and a reputation it has been working hard to move past. The city is brash and busy, and it delivers what it promises: reliable beaches, good food at every price point, and easy transport to offshore islands and the surrounding Chonburi province.

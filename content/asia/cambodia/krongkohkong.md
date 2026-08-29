@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2015_0319_174425_KohKongIs
 latitude: 11.611009
 loc_type: city
 longitude: 102.981859
-score: 6.85
+score: 5.541
 snippet: Southwestern Cambodian coastal town between the Cardamom Mountains and Gulf
   of Thailand, near mangroves and islands.
 title: Krong Koh Kong
 type: location
+heritage: 2.444
+vibrancy: 2.304
+nature: 7.119
+off_the_beaten_track: 4.814
 ---
 
 Krong Koh Kong is a small coastal town in Cambodia's far southwest, tucked between the Cardamom Mountains and the Gulf of Thailand. It sits just 80 km from Thailand's [Koh Chang](/asia/thailand/easternseaboard/kohchang), and the border crossing at Cham Yeam makes it a common entry point for travellers coming overland from the Thai side.

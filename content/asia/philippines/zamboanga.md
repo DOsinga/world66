@@ -11,9 +11,13 @@ loc_type: city
 snippet: Mindanao port city where Spanish fortifications, Muslim tradition, and Chavacano
   culture meet near Basilan Strait
 longitude: 122.0739
-score: 6.45
+score: 4.725
 title: Zamboanga
 type: location
+heritage: 4.71
+vibrancy: 4.381
+nature: 5.207
+off_the_beaten_track: 4.521
 ---
 
 Zamboanga City sits at the southwestern tip of Mindanao, closer to Malaysia than to Manila, and it feels like it. The city is a place where Spanish colonial history, Muslim tradition, and Filipino culture have been layered on top of each other for four centuries — and where the result is unlike anywhere else in the Philippines.

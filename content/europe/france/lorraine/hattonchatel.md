@@ -6,7 +6,7 @@ image: hattonchatel.jpg
 latitude: 48.994407
 loc_type: city
 longitude: 5.677904
-score: 7.13
+score: 4.842
 snippet: Fortified Lorraine village restored after World War I, overlooking the Woëvre
   plain from a rocky promontory.
 sources:
@@ -17,6 +17,10 @@ type: location
 image_source: https://commons.wikimedia.org/wiki/File:Hattonch%C3%A2tel_(55).jpg
 image_license: CC BY 4.0
 image_attribution: Mislep
+heritage: 5.866
+vibrancy: 1.405
+nature: 4.058
+off_the_beaten_track: 2.997
 ---
 
 Hattonchâtel is a fortified village perched on a rocky promontory overlooking the Woëvre plain in [Lorraine](/europe/france/lorraine). It is named after Hatton, a 9th-century Bishop of Verdun who built a palace here. Cardinal Richelieu had the buildings destroyed in 1634, and the village fell into ruin.

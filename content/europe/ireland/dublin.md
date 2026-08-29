@@ -15,7 +15,7 @@ quick_facts:
   Founded: ~841, by Vikings
   Guinness: Brewed at St James's Gate since 1759
   Population: ~1.2 million
-score: 9.11
+score: 8.333
 snippet: Compact Irish capital on the Liffey, where literary history still shapes
   the pubs and Georgian streets.
 tip: Dublin is compact and walkable, best explored on foot between its literary pubs
@@ -25,6 +25,10 @@ tip: Dublin is compact and walkable, best explored on foot between its literary 
   Bring a rain jacket, always.
 title: Dublin
 type: location
+heritage: 7.523
+vibrancy: 8.703
+nature: 3.774
+off_the_beaten_track: 0.976
 ---
 
 Dublin is a compact, walkable capital that is easy to underestimate. The city itself is smaller than most European capitals — the old centre can be crossed on foot in twenty minutes — but it has produced four Nobel laureates in literature, three of the most famous pubs in the world, and a cultural life that punches well above its weight. You come for the pubs, the books, and the people; most visitors leave wanting to come back.

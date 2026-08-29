@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 40.6
 longitude: 33.6167
-score: 6.7
+score: 2.623
 snippet: Conservative Central Anatolian city with Seljuk monuments and a vast underground
   salt mine.
 wikidata: Q209925
@@ -17,6 +17,10 @@ image: cankiri.jpg
 image_source: https://commons.wikimedia.org/wiki/File:General_view_of_%C3%87ank%C4%B1r%C4%B1.jpeg
 image_license: Public domain
 image_attribution: XperfectTR
+heritage: 2.912
+vibrancy: 2.224
+nature: 1.895
+off_the_beaten_track: 3.968
 ---
 
 Çankırı sits north of Ankara on the road toward the Black Sea, a modern provincial city with older streets climbing toward a castle hill. It is not polished, and that is part of its use: you get a conservative Central Anatolian town with real daily life, a handful of Seljuk and Ottoman buildings, and one strange underground sight that is worth the detour.

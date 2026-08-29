@@ -5,11 +5,15 @@ done:
 latitude: 50.544391
 loc_type: city
 longitude: -3.991498
-score: 7.24
+score: 6.233
 snippet: High Dartmoor village near open moorland, prison history, and walks to ancient
   stone rows.
 title: Princetown
 type: location
+heritage: 5.971
+vibrancy: 2.532
+nature: 7.13
+off_the_beaten_track: 4.471
 ---
 
 Princetown is the highest town on Dartmoor, sitting at around 430 metres on the open moor in the heart of Dartmoor National Park. It is a bleak place, frequently in cloud, regularly battered by wind, and entirely without pretension — and its setting is spectacular for exactly those reasons. The great granite tors rise in every direction, and on a clear day the views extend across half of Devon.

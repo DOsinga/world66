@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Attabad_Lake,_Shishkat_Hun
 latitude: 36.373
 loc_type: city
 longitude: 74.849
-score: 6.03
+score: 6.114
 snippet: Gojal Valley village on the Karakoram Highway, marking the threshold to upper
   Hunza.
 title: Shishkat
 type: location
+heritage: 5.179
+vibrancy: 0.33
+nature: 7.281
+off_the_beaten_track: 7.179
 ---
 
 Shishkat — also known as Nazimabad Shishkat — is the first village of the [Gojal Valley](/asia/pakistan/hunzavalley/gojal_valley) that travellers encounter when coming north from Central Hunza along the Karakoram Highway. It is a compact community of around 2,160 people in some 220 households, sitting at the threshold between the more densely settled middle Hunza and the wilder upper reaches of Gojal.

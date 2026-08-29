@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rab1.jpg
 latitude: 44.775687
 loc_type: island
 longitude: 14.734712
-score: 8.83
+score: 5.834
 snippet: Kvarner Gulf island with rare sandy beaches, pine forests, and a medieval
   town skyline of four bell towers.
 sources:
@@ -20,6 +20,10 @@ tags:
 - kvarner
 title: Rab Island
 type: location
+heritage: 5.057
+vibrancy: 4.112
+nature: 6.899
+off_the_beaten_track: 3.435
 ---
 
 Rab is one of the most beautiful islands in the Kvarner Gulf, a green, forested island with sandy beaches — a rarity on the Croatian coast — and a perfectly preserved medieval old town. The town of [Rab](/europe/croatia/rab) sits on a narrow peninsula, its skyline defined by four bell towers rising above terracotta roofs, and its streets lined with Renaissance palaces, churches dating from the eleventh to the sixteenth century, and quiet stone lanes. Quieter and less expensive than Hvar or Korčula, it is one of the underrated islands of the northern Adriatic.

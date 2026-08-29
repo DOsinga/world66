@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/181920661@N03/51665040339
 latitude: 45.51904
 loc_type: city
 longitude: -123.111055
-score: 6.34
+score: 3.894
 snippet: Small Oregon college town where Pacific University anchors the Tualatin Valley’s
   western edge
 title: Forest Grove
 type: location
+heritage: 2.776
+vibrancy: 2.472
+nature: 4.841
+off_the_beaten_track: 1.519
 ---
 
 Forest Grove is a small town on the western edge of the Portland metro area in [Oregon](/northamerica/unitedstates/oregon), where the Tualatin Valley meets the foothills of the Coast Range. It is home to [Pacific University](/northamerica/unitedstates/oregon/forestgrove/pacific_university), founded in 1849, which gives the town a bit more life than its size would suggest.

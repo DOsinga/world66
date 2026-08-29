@@ -2,7 +2,7 @@
 latitude: 11.8074
 loc_type: city
 longitude: 104.7411
-score: 7.0
+score: 4.59
 snippet: Former royal capital north of Phnom Penh, known for its hilltop string of
   royal stupas and shrines.
 sources:
@@ -13,6 +13,10 @@ image: udong.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Oudong_Cambodia_November_1964_01.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Don Christie
+heritage: 3.449
+vibrancy: 2.838
+nature: 5.602
+off_the_beaten_track: 4.958
 ---
 
 Udong (also spelled Oudong) was the royal capital of Cambodia for more than 250 years, from the early 17th century until the court moved to Phnom Penh in 1866. Today it is a modest market town about 40km north of the capital, easily reached on a half-day trip and well worth the drive for anyone interested in the country's pre-colonial history.

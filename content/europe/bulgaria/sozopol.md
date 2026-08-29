@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:8130_Sozopol,_Bulgaria_-_p
 latitude: 42.4182
 loc_type: city
 longitude: 27.6943
-score: 8.21
+score: 5.025
 snippet: Black Sea headland town founded as ancient Apollonia Pontica, with a preserved
   wooden old town.
 title: Sozopol
 type: location
+heritage: 4.773
+vibrancy: 4.458
+nature: 5.634
+off_the_beaten_track: 3.111
 ---
 
 Sozopol is one of the most characterful towns on Bulgaria's Black Sea coast, sitting on a rocky headland about 35 kilometres south of Burgas. It's one of the oldest settlements in the region — the ancient Greek colony of Apollonia Pontica was founded here around 610 BC, named after Apollo as patron of seafarers — and the old town on the peninsula still has the feel of a fishing village, with wooden 19th-century houses crowding narrow lanes and cats sleeping on stone walls.

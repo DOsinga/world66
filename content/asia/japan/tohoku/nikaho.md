@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 39.203
 longitude: 139.9077
-score: 6.7
+score: 3.965
 snippet: Sea of Japan town below Mount Chokai, known for mossy waterfalls and landlocked
   islets.
 wikidata: Q847550
@@ -18,6 +18,10 @@ image: nikaho.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Takeshimagata_and_Mt.Chokai_20190420.jpg
 image_license: CC BY-SA 4.0
 image_attribution: 掬茶
+heritage: 2.793
+vibrancy: 2.23
+nature: 4.602
+off_the_beaten_track: 5.057
 ---
 
 Nikaho is a small Sea of Japan city at the foot of Mount Chokai, where Akita begins to tilt toward Yamagata. It is not a big-ticket city, but it has a distinct landscape: a lone volcanic mountain, cold spring water pouring through moss, old lava coasts, and the odd sight of former islands now marooned in rice fields.

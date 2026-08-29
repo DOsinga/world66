@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Saipan_at_Night.jpg
 latitude: 15.185
 loc_type: city
 longitude: 145.75
-score: 8.0
+score: 5.92
 snippet: Largest Northern Mariana island, with Pacific War memorial cliffs, reef diving,
   beaches, and Garapan as its hub.
 title: Saipan
 type: location
+heritage: 4.653
+vibrancy: 1.53
+nature: 7.204
+off_the_beaten_track: 6.035
 ---
 
 Saipan is the largest and most populous island in the Northern Mariana Islands, an American commonwealth in the western Pacific about three hours by air from Tokyo. The island saw some of the fiercest fighting of the Pacific War in 1944 — the Battle of Saipan effectively ended Japanese civilian control of the island chain, and the cliffs at the north of the island, known as [Suicide Cliff](/australiaandpacific/northernmarianaislands/saipan/suicide_cliff) and [Banzai Cliff](/australiaandpacific/northernmarianaislands/saipan/banzai_cliff), are poignant memorial sites.

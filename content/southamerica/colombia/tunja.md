@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:CatedralTunja1.jpg
 latitude: 5.5353
 loc_type: city
 longitude: -73.3678
-score: 7.12
+score: 4.801
 snippet: High Andean colonial capital of Boyacá, layered with Muisca history, churches,
   and cold mountain air
 title: Tunja
 type: location
+heritage: 5.592
+vibrancy: 4.053
+nature: 3.808
+off_the_beaten_track: 2.04
 ---
 
 Tunja is the cold, colonial capital of Boyacá department, sitting at 2,820 metres on the eastern Andes about three hours north of Bogotá. Most travellers blow through without stopping, which is a mistake — this is one of Colombia's most historically layered cities, founded in 1539 on the site of a Muisca settlement and still wearing its colonial bones with some pride.

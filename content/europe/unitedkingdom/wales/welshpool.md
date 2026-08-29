@@ -5,7 +5,7 @@ loc_type: city
 latitude: 52.6597
 longitude: -3.1473
 wikidata: Q1024911
-score: 7.0
+score: 4.447
 snippet: Mid Wales market town with Powis Castle, a canal wharf, and a narrow-gauge
   steam railway.
 sources:
@@ -17,6 +17,10 @@ image: welshpool.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Powis_castle_terraces.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Sjwells53
+heritage: 4.948
+vibrancy: 3.54
+nature: 4.723
+off_the_beaten_track: 3.124
 ---
 
 *Europe > United Kingdom > Wales > Welshpool*

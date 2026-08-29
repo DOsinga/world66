@@ -3,10 +3,14 @@ title: Sariska National Park
 type: location
 latitude: 27.3122
 longitude: 76.395
-score: 7.92
+score: 5.699
 loc_type: feature
 snippet: Aravalli Hills tiger reserve with dry forest, quieter jeep safaris, and Kankwari
   Fort ruins.
+heritage: 2.667
+vibrancy: 1.124
+nature: 7.288
+off_the_beaten_track: 5.063
 ---
 
 Sariska Tiger Reserve sits in the Aravalli Hills about 35 km from [Alwar](/asia/india/rajasthan/alwar) and 200 km from Delhi. It is smaller and far less visited than Ranthambore, which means quieter jeep safaris and a more authentic wilderness feel, though tiger sightings are less predictable.

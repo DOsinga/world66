@@ -5,11 +5,15 @@ done:
 latitude: 35.8238
 loc_type: city
 longitude: 127.1473
-score: 7.58
+score: 4.759
 snippet: South Korean city known for bibimbap and a preserved Hanok Village of traditional
   tile-roofed houses.
 title: Chonju
 type: location
+heritage: 5.717
+vibrancy: 3.667
+nature: 4.046
+off_the_beaten_track: 2.334
 ---
 
 Chonju (Jeonju) is one of South Korea's most rewarding cities for travelers — the birthplace of bibimbap, the country's most famous rice dish, and home to a beautifully preserved [Hanok Village](/asia/southkorea/chonju/jeonju_hanok_village) where hundreds of traditional tile-roofed houses have survived intact.

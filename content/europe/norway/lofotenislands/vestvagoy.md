@@ -7,11 +7,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ballstad.jpg
 latitude: 68.1607
 loc_type: city
 longitude: 13.7841
-score: 8.88
+score: 5.328
 title: Vestvagoy
 snippet: Agricultural Lofoten island of green farmland, lamb, cheese, and Scandinavia's
   largest Viking longhouse site
 type: location
+heritage: 3.963
+vibrancy: 1.31
+nature: 6.579
+off_the_beaten_track: 4.648
 ---
 
 Vestvagoy is the agricultural heart of the [Lofoten Islands](/europe/norway/lofotenislands), a place where steep mountains frame a wide central valley of green farmland — unusual in an archipelago better known for fishing. The island produces some of Norway's best lamb and cheese, and the Vestvagoy dairy is a major producer of butter sold nationwide.

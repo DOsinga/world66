@@ -5,7 +5,7 @@ done:
 latitude: 10.953376
 loc_type: city
 longitude: 108.247176
-score: 8.47
+score: 4.638
 snippet: Vietnamese beach resort strip where grey sand, fishing boats, and red dunes
   meet the South China Sea
 title: Mui Ne - Phan Thiet
@@ -14,6 +14,10 @@ image: muine__phan_thiet.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mui_Ne_-_Dune_shades.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Tomaswikip
+heritage: 1.181
+vibrancy: 3.176
+nature: 5.654
+off_the_beaten_track: 2.188
 ---
 
 Mui Ne Beach stretches along the coast about 300 km northeast of [Ho Chi Minh City](/asia/vietnam/hochiminhcity), reachable only by road. A long strip of soft grey sand backed by low-rise hotels, bamboo bungalows, and coconut palms, it has been developed with more restraint than most Vietnamese beach resorts — good gardens and tree screening give each place a sense of seclusion.

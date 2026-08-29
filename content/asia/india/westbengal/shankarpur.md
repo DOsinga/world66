@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Sankarpur_Beach_-_East_Mid
 latitude: 21.634065
 loc_type: city
 longitude: 87.582665
-score: 5.9
+score: 4.961
 snippet: Small Bay of Bengal fishing village with an unspoiled beach and working harbour
   east of Digha.
 title: Shankarpur
 type: location
+heritage: 3.381
+vibrancy: 2.252
+nature: 6.256
+off_the_beaten_track: 3.852
 ---
 
 *Asia > India > West Bengal > Shankarpur*

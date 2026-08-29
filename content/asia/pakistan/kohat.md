@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kohat_Velly.jpg
 latitude: 33.596714
 loc_type: city
 longitude: 71.439994
-score: 4.83
+score: 4.507
 title: Kohat
 type: location
 snippet: Khyber Pakhtunkhwa city at the Kohat Pass, with the feel of a frontier market
   town.
+heritage: 5.007
+vibrancy: 1.678
+nature: 2.086
+off_the_beaten_track: 6.805
 ---
 
 Kohat is a small city in the **Khyber Pakhtunkhwa** province of Pakistan, about 60 km south of **Peshawar** at the foot of the Kohat Pass. It was an important British garrison town during the Raj and still has the feel of a frontier outpost — a working administrative and market centre for the surrounding Pashtun districts, with dusty streets, a brisk bazaar, and little in the way of tourism. Kohat sits at the mouth of the historic **Kohat Pass** over the Kohat Range, the old trade and military route between the Peshawar valley and the tribal districts of Waziristan; for travellers, this historical position is most of what makes the town interesting.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 14.0711
 longitude: 103.1092
-score: 7.2
+score: 3.844
 snippet: Remote Cambodian temple village around a vast Angkorian complex near the
   Thai border.
 sources:
@@ -14,6 +14,10 @@ image: banteay_chhmar.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Banteay_Chhmar_-_013_Causeway_(8594278758).jpg
 image_license: CC BY 2.0
 image_attribution: Photo Dharma from Penang, Malaysia
+heritage: 4.225
+vibrancy: 1.456
+nature: 4.018
+off_the_beaten_track: 5.904
 ---
 
 Banteay Chhmar is a village and temple complex in northwestern [Cambodia](/asia/cambodia), close to the Thai border and well beyond the easy Angkor circuit. The ruins date from the Angkorian period, but the mood is very different from [Siem Reap](/asia/cambodia/siemreap): fewer visitors, more silence, and a stronger sense that the jungle is still negotiating with the stone.

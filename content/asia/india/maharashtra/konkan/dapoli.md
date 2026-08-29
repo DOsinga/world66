@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Anjarle_beach_in_Konkan_ne
 latitude: 17.758046
 loc_type: city
 longitude: 73.188708
-score: 6.55
+score: 4.772
 title: Dapoli
 snippet: Konkan coastal town above the sea, with nearby beaches and Suvarnadurg fort
   offshore from Murud.
 type: location
+heritage: 4.204
+vibrancy: 2.621
+nature: 5.614
+off_the_beaten_track: 4.298
 ---
 
 Dapoli is a small coastal town in the Ratnagiri district of Maharashtra, in the heart of the Konkan coast. Sitting at about 300 metres above sea level yet only a few kilometres from the sea, it has a pleasant climate year-round — cooler than the coast but with easy access to beaches.

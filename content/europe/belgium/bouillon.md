@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bouillon_(Belgique);_le_vi
 latitude: 49.795
 loc_type: city
 longitude: 5.0673
-score: 8.03
+score: 5.555
 snippet: Ardennes river town wrapped by the Semois and watched over by a medieval
   castle.
 title: Bouillon
 type: location
+heritage: 6.044
+vibrancy: 2.02
+nature: 6.049
+off_the_beaten_track: 3.142
 ---
 
 Bouillon is a small town in the Belgian Ardennes, tucked into a deep loop of the Semois River. The landscape does most of the work: dense forest, steep valley walls, and a river that doubles back on itself so tightly that the old town sits on a narrow peninsula, almost entirely surrounded by water.

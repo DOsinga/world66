@@ -2,7 +2,7 @@
 latitude: 35.1417
 loc_type: city
 longitude: -114.6186
-score: 6.2
+score: 3.889
 snippet: Colorado River resort town with desert trails, petroglyphs, and dam-country
   scenery.
 sources:
@@ -18,6 +18,10 @@ image: laughlin.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Laughlin_Nevada_from_Spirit_Mountain_2.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Stan Shebs
+heritage: 1.6
+vibrancy: 2.976
+nature: 4.59
+off_the_beaten_track: 1.558
 ---
 
 Laughlin sits at Nevada's far southern tip, where the Colorado River bends below Davis Dam and Arizona lies just across the water. It is a casino resort town, and there is no point pretending otherwise, but the useful reason to stop here is the river and the desert around it rather than the gaming floor.

@@ -2,7 +2,7 @@
 latitude: -12.2569
 loc_type: feature
 longitude: -76.8989
-score: 8.9
+score: 5.059
 snippet: The most important religious site of the central Andes, half an hour south
   of Lima
 story: Pachacámac was the oracle of the central Andes — pilgrims travelled from as
@@ -18,6 +18,10 @@ image: pachacamac.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Adobitos_en_Pachacamac.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Wasiwatana
+heritage: 6.305
+vibrancy: 1.529
+nature: 3.839
+off_the_beaten_track: 3.765
 ---
 
 Forty kilometres south of central Lima on the dry coastal plain, **Pachacámac** is a vast sanctuary that served as the central Andes' most important oracle for more than a thousand years before the arrival of the Spanish. The site stretches over 600 hectares and contains the **Temple of Pachacámac** (the painted pyramid), the Inca **Temple of the Sun**, the **Acllawasi** ("House of the Chosen Women"), the great plaza of pilgrims, and a string of lesser shrines.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Algar_do_Carvao,_isla_de_T
 latitude: 38.7207
 loc_type: city
 longitude: -27.22
-score: 8.76
+score: 5.781
 snippet: Azorean volcanic island anchored by Angra do Heroísmo, with lava caves, pastures,
   and Atlantic history
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Angra_do_Hero%C3%ADsmo
 title: Terceira
 type: location
+heritage: 5.122
+vibrancy: 2.534
+nature: 6.79
+off_the_beaten_track: 3.819
 ---
 
 Terceira is the third-largest island of the Azores and, in many ways, the most layered. Its capital, [Angra do Heroísmo](/europe/portugal/theazores/angra_do_heroismo), is a UNESCO World Heritage city — the streets of 15th and 16th century merchant houses, convents, and fortresses were designated in 1983, making Angra one of the earliest World Heritage cities on Atlantic soil. The island itself is a volcanic plateau ringed by dramatic sea cliffs, with a green interior punctuated by calderas, lava caves, and pasture.

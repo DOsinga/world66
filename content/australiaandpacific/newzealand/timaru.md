@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Caroline_Bay_Timaru.jpg
 latitude: -44.393025
 loc_type: city
 longitude: 171.250979
-score: 6.84
+score: 4.037
 snippet: Canterbury port town between Christchurch and Dunedin, centred on sheltered
   Caroline Bay.
 title: Timaru
 type: location
+heritage: 2.354
+vibrancy: 2.458
+nature: 5.069
+off_the_beaten_track: 1.561
 ---
 
 Timaru is a port town on the Canterbury coast of New Zealand's South Island, roughly halfway between [Christchurch](/australiaandpacific/newzealand/christchurch) and [Dunedin](/australiaandpacific/newzealand/dunedin). It is a working town rather than a tourist destination, but it has a pleasant centre and a good beach, and it makes a useful stop on a South Island road trip.

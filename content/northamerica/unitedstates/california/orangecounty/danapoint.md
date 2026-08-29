@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Dana_Point_Harbor.jpg
 latitude: 33.467
 loc_type: city
 longitude: -117.6981
-score: 7.51
+score: 5.627
 snippet: Orange County harbour town named for Richard Henry Dana Jr., with surf breaks
   and whale-watching boats.
 title: Dana Point
 type: location
+heritage: 2.348
+vibrancy: 4.369
+nature: 6.61
+off_the_beaten_track: 1.107
 ---
 
 Dana Point sits on the southern [Orange County](/northamerica/unitedstates/california/orangecounty) coast between [Laguna Beach](/northamerica/unitedstates/california/orangecounty/lagunabeach) and [San Clemente](/northamerica/unitedstates/california/orangecounty/sanclemente), built around one of the few harbors in the region. Named after Richard Henry Dana Jr., who described the headlands in his 1840 memoir *Two Years Before the Mast*, the town today revolves around its harbor, its surf breaks, and its whale-watching boats.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bluefields,_Nicaragua_08.j
 latitude: 12.0136
 loc_type: city
 longitude: -83.7633
-score: 6.3
+score: 5.346
 title: Bluefields
 type: location
 snippet: Caribbean port city in Nicaragua, shaped by Creole, Miskito, Rama, Garifuna,
   and Mestizo cultures.
+heritage: 2.043
+vibrancy: 2.765
+nature: 6.641
+off_the_beaten_track: 5.391
 ---
 
 Bluefields is the main city on Nicaragua's Caribbean coast, and it feels like a different country from the Pacific side. The British dominated this coast from the 1600s until the mid-19th century, and the legacy is still visible: most people speak Creole English as well as Spanish, the culture is Caribbean rather than Latin American, and reggae plays in every bar. The town takes its name from the Dutch pirate Blauwveld, who used the bay as a base.

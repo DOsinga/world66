@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:St_Ives_,_St_Ives_Harbour_
 latitude: 50.214906
 loc_type: city
 longitude: -5.479508
-score: 8.75
+score: 5.556
 snippet: Cornish seaside artists' town, known for Atlantic light, Tate St Ives, and
   Porthmeor beach.
 tags:
 - cornwall
 title: St Ives
 type: location
+heritage: 4.072
+vibrancy: 4.287
+nature: 6.54
+off_the_beaten_track: 2.174
 ---
 
 St Ives is an artists' town that happens to be one of the most beautiful seaside places in England. The light here — clear, constantly changing as clouds race in off the Atlantic — has drawn painters since the late nineteenth century, and the tradition continues. [Tate St Ives](/europe/unitedkingdom/england/south_west/st_ives/tate_st_ives), opened in 1993 on the site of a former gasworks above Porthmeor beach, is one of the best galleries outside London, focusing on modern and contemporary art with a particular emphasis on the St Ives School. Nearby, the [Barbara Hepworth Sculpture Garden](/europe/unitedkingdom/england/south_west/st_ives/barbara_hepworth_museum) preserves the studio where Hepworth worked until her death in 1975. The [Leach Pottery](/europe/unitedkingdom/england/south_west/st_ives/leach_pottery), founded by Bernard Leach and Shoji Hamada in 1920, is an important stop for anyone interested in British studio ceramics.

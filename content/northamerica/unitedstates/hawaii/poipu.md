@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial-Poipu-Beach-Park-Ka
 latitude: 21.8767
 loc_type: city
 longitude: -159.4539
-score: 7.08
+score: 5.99
 snippet: Sunny Kauai south-shore resort village built around calm beaches and lava-rock
   coast.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://ntbg.org/gardens/visitorinfo/
 title: Poipu
 type: location
+heritage: 2.864
+vibrancy: 4.152
+nature: 7.278
+off_the_beaten_track: 1.909
 ---
 
 Poipu is the sunny, polished face of south Kauai. The coast here is drier than the north shore, the beaches are easy to reach, and the resort strip never quite erases the lava shelves, monk seals, and red dirt that make Kauai feel like Kauai.

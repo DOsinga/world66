@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:South_Tarawa_from_the_air.
 latitude: 1.484554
 loc_type: city
 longitude: 172.968965
-score: 6.46
+score: 5.582
 snippet: Kiribati capital atoll where crowded South Tarawa stretches along causeways
   beside a turquoise lagoon.
 title: Tarawa
 type: location
+heritage: 4.701
+vibrancy: 1.423
+nature: 6.656
+off_the_beaten_track: 6.54
 ---
 
 *[Australia and Pacific](/australiaandpacific) > [Kiribati](/australiaandpacific/kiribati) > Tarawa*

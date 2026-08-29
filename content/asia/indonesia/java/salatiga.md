@@ -5,11 +5,15 @@ done:
 latitude: -7.3303
 loc_type: city
 longitude: 110.4995
-score: 6.52
+score: 3.907
 snippet: Cool Javanese university town below Mount Merbabu, long valued as a relaxed
   break from lowland heat.
 title: Salatiga
 type: location
+heritage: 4.437
+vibrancy: 3.531
+nature: 3.853
+off_the_beaten_track: 2.538
 ---
 
 Salatiga sits about 40km south of [Semarang](/asia/indonesia/java/semarang) on the road to [Solo](/asia/indonesia/java/solo), at the foot of [Mount Merbabu](/asia/indonesia/java/salatiga/mount_merbabu). Known since Dutch colonial times as a city of relaxation thanks to its cool mountain climate, it is now a quiet university town — about 40% of its 150,000 residents are students at its three private universities, most notably [Satya Wacana Christian University](/asia/indonesia/java/salatiga/satya_wacana_university). A pleasant place to break a journey, escape the heat of the lowland cities, or use as a base for trekking Merbabu.

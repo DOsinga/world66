@@ -16,7 +16,11 @@ sources:
 - https://www.tourismthailand.org/Attraction/pran-buri-beach
 title: Pranburi
 type: location
-score: 7.0
+score: 4.526
+heritage: 2.254
+vibrancy: 2.709
+nature: 5.707
+off_the_beaten_track: 2.053
 ---
 
 Pranburi is the quieter answer to [Hua Hin](/asia/thailand/royalcoast/huahin), 25 km farther down Thailand's upper Gulf coast. The town itself sits slightly inland on the railway and main road, while the coast around Pak Nam Pran has fishing boats, seafood restaurants, and a long, open beach without the resort-town bustle.

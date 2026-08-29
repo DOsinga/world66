@@ -2,7 +2,7 @@
 latitude: 32.0328
 loc_type: city
 longitude: -93.7025
-score: 6.65
+score: 3.54
 snippet: Northwest Louisiana town tied to the Red River Campaign and an early women's
   college.
 sources:
@@ -15,6 +15,10 @@ image: mansfield.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Episcopal_Church_in_Mansfield,_Louisiana,_2009.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Wikified
+heritage: 3.157
+vibrancy: 1.472
+nature: 4.149
+off_the_beaten_track: 2.791
 ---
 
 Mansfield is a small northwest Louisiana town whose travel interest is tightly focused on history. It is not a broad destination, but Civil War travellers and anyone tracing the Red River Campaign will find one of Louisiana's more important battlefield sites just outside town.

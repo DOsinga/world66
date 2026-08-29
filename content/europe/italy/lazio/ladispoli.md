@@ -13,7 +13,11 @@ tags:
 - beaches
 title: Ladispoli
 type: location
-score: 6.69
+score: 3.687
+heritage: 3.02
+vibrancy: 2.551
+nature: 4.435
+off_the_beaten_track: 1.371
 ---
 
 Ladispoli is a small coastal town about 45 minutes from central Rome by regional train, popular with Romans looking for a beach day away from the more crowded Ostia. The town is known for its distinctive black volcanic sand, a reminder that this stretch of coast sits on ancient Etruscan territory shaped by volcanic activity.

@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Casa_Botines._Le%C3%B3n_60
 latitude: 42.5987
 loc_type: city
 longitude: -5.5671
-score: 8.5
+score: 6.494
 snippet: Castilian city on the Camino de Santiago, known for its cathedral, Roman
   walls, and tapas quarter.
 title: León
 type: location
+heritage: 7.702
+vibrancy: 2.861
+nature: 5.817
+off_the_beaten_track: 3.175
 ---
 
 León sits at the edge of the Castilian meseta where the pilgrimage road to Santiago de Compostela descends from the mountains. It's a city that punches above its size: the cathedral alone would justify a detour, and the old quarter has enough Roman walls, Romanesque churches, and tapas bars to fill a proper few days.

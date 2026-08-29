@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 36.0609
 longitude: 136.5006
-score: 7.0
+score: 3.186
 snippet: Fukui mountain city known for dinosaurs, Hakusan worship, and Hokuriku ski
   slopes.
 sources:
@@ -15,6 +15,10 @@ image: katsuyama.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Katsuyama_2016-07-18.jpg
 image_license: CC BY-SA 2.0
 image_attribution: papatomom
+heritage: 1.834
+vibrancy: 1.577
+nature: 4.136
+off_the_beaten_track: 2.627
 ---
 
 Katsuyama is a small city in Fukui Prefecture, inland from the Sea of Japan and close to the mountains that rise toward Hakusan. It is not a polished old capital, but it has a surprisingly strong set of sights for its size.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 36.69591666666667
 longitude: 137.21369444444446
-score: 7.1
+score: 5.512
 snippet: Hokuriku city of glass craft, canal walks, trams, and Tateyama mountain views.
 wikidata: Q204266
 sources:
@@ -16,6 +16,10 @@ image: toyama.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Toyama_city_%26_Alps.jpg
 image_license: CC BY-SA 3.0
 image_attribution: 名古屋太郎
+heritage: 3.545
+vibrancy: 4.793
+nature: 6.228
+off_the_beaten_track: 1.745
 ---
 
 Toyama sits between Toyama Bay and the mountains of the Northern Alps, and it works best when you treat it as more than a transfer point for the Tateyama Kurobe Alpine Route. The city has a neat tram system, a serious glass-art scene, canals, old port streets, and some of the best mountain backdrops of any city on the Sea of Japan coast.

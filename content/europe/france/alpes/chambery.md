@@ -6,8 +6,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Chamb%C3%A9ry_depuis_les_M
 latitude: 45.566389
 loc_type: city
 longitude: 5.920833
-score: 7.0
-snippet: Historic Savoyard city between the Bauges and Chartreuse, with ducal streets and Alpine views.
+score: 6.358
+snippet: Historic Savoyard city between the Bauges and Chartreuse, with ducal streets
+  and Alpine views.
 sources:
 - https://en.wikivoyage.org/wiki/Chamb%C3%A9ry
 - https://www.wikidata.org/wiki/Q165090
@@ -17,6 +18,10 @@ sources:
 title: Chambéry
 type: location
 wikidata: Q165090
+heritage: 4.552
+vibrancy: 5.659
+nature: 7.12
+off_the_beaten_track: 4.151
 ---
 
 Chambéry is the old capital of Savoy, set in a valley between the Bauges and Chartreuse massifs. It is often treated as a gateway to ski resorts and Alpine lakes, but the city itself has enough history and street life for a rewarding day.

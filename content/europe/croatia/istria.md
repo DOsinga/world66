@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_to_Motovun.jpg
 latitude: 45.2611
 loc_type: feature
 longitude: 13.9044
-score: 8.9
+score: 4.714
 snippet: Croatian Adriatic peninsula of Venetian harbour towns, hill villages, vineyards,
   and bilingual Italian-Croatian culture
 title: Istria
 type: location
+heritage: 4.443
+vibrancy: 4.35
+nature: 5.205
+off_the_beaten_track: 3.595
 ---
 
 Istria is the large triangular peninsula at the northern end of the Croatian Adriatic — a landscape of small hill towns, vineyards, oak forest, and a 450-kilometre indented coastline. It is the closest piece of Croatia to Italy, and the relationship shows: bilingual road signs, Italianate cuisine, and a string of Venetian-era towns along the western coast.

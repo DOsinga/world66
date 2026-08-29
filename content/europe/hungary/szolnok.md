@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 47.1747
 longitude: 20.1961
-score: 6.5
+score: 3.713
 snippet: Tisza River city with a long art colony and a serious aviation museum.
 wikidata: Q181276
 sources:
@@ -12,6 +12,10 @@ sources:
 - https://www.wikidata.org/wiki/Q181276
 - https://en.wikipedia.org/wiki/Szolnok
 - https://www.reptar.hu/en/muzeumunk.html
+heritage: 4.145
+vibrancy: 2.816
+nature: 3.911
+off_the_beaten_track: 1.688
 ---
 
 Szolnok sits where the Zagyva meets the Tisza, out on the Great Hungarian Plain. It is a county seat and a railway town, but it has more character than that sounds: river walks, an old artists' colony, a former synagogue used as a gallery, and one of Hungary's best aviation museums.

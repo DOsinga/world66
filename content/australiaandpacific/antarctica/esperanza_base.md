@@ -6,14 +6,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Hope_Bay-2016-Trinity_Peni
 latitude: -63.4
 loc_type: feature
 longitude: -56.983
-score: 7.42
-snippet: Argentine Antarctic base at Hope Bay, with a civilian settlement, penguins, and polar history.
+score: 6.279
+snippet: Argentine Antarctic base at Hope Bay, with a civilian settlement, penguins,
+  and polar history.
 sources:
-  - https://en.wikivoyage.org/wiki/Esperanza_Base
-  - https://en.wikipedia.org/wiki/Esperanza_Base
-  - https://www.wikidata.org/wiki/Q587023
+- https://en.wikivoyage.org/wiki/Esperanza_Base
+- https://en.wikipedia.org/wiki/Esperanza_Base
+- https://www.wikidata.org/wiki/Q587023
 title: Esperanza Base
 type: location
+heritage: 2.356
+vibrancy: 0.865
+nature: 7.647
+off_the_beaten_track: 6.836
 ---
 
 Esperanza Base is an Argentine research station and civilian settlement on Hope Bay, near the northern tip of the Antarctic Peninsula. It is not a normal destination. You visit only if your expedition ship gets permission and the weather allows a landing.

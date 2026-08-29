@@ -13,7 +13,7 @@ quick_facts:
   Bombed: 6 August 1945
   Miyajima: '''Floating'' torii gate'
   Population: 1.2 million
-score: 9.41
+score: 4.31
 snippet: Western Honshu city rebuilt around peace memorials, with Mazda industry and
   nearby Miyajima excursions.
 tip: Hiroshima is sober and moving — the Peace Memorial Park and Museum around the
@@ -23,6 +23,10 @@ tip: Hiroshima is sober and moving — the Peace Memorial Park and Museum around
   with noodles.
 title: Hiroshima
 type: location
+heritage: 4.674
+vibrancy: 4.205
+nature: 2.891
+off_the_beaten_track: 2.452
 ---
 
 When the first atomic bomb exploded over Hiroshima on 6 August 1945, the city became an immediate symbol of the horrors of war. Today, with a population of over a million, Hiroshima has rebuilt itself into a modern industrial city — Mazda's headquarters and main factory are here — but it has not let the world forget what happened.

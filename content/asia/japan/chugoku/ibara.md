@@ -2,14 +2,19 @@
 latitude: 34.597778
 loc_type: city
 longitude: 133.463889
-score: 6.55
-snippet: Rural Okayama city known for dark skies, wood sculpture, and Bisei's star country.
+score: 3.863
+snippet: Rural Okayama city known for dark skies, wood sculpture, and Bisei's star
+  country.
 sources:
 - https://en.wikivoyage.org/wiki/Ibara
 - https://www.ibarakankou.jp/
 - https://www.biseikankou.jp/
 title: Ibara
 type: location
+heritage: 3.011
+vibrancy: 2.668
+nature: 4.698
+off_the_beaten_track: 3.038
 ---
 
 Ibara is a small city in western Okayama Prefecture, easy to overlook between Kurashiki, Fukuyama, and the mountain towns farther north. Its best reason to come is Bisei, the hill district whose name means "beautiful stars" and whose light-pollution rules made it one of Japan's serious stargazing places.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Netanya_Netanya_coast_0502
 latitude: 32.3215
 loc_type: city
 longitude: 34.8532
-score: 7.11
+score: 5.295
 title: Netanya
 type: location
 snippet: Israeli coastal resort city on sandstone cliffs above long Mediterranean
   beaches between Tel Aviv and Haifa.
+heritage: 5.176
+vibrancy: 5.349
+nature: 5.154
+off_the_beaten_track: 1.862
 ---
 
 Netanya is Israel's largest coastal resort city, perched on sandstone cliffs above a long stretch of Mediterranean beaches. Sitting roughly halfway between [Tel Aviv](/asia/israel/telaviv) and [Haifa](/asia/israel/haifa), it draws both Israeli weekenders and international visitors who want sun and sand without Tel Aviv's intensity.

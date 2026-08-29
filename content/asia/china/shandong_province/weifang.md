@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:German_train_station_1898.
 latitude: 36.7167
 loc_type: city
 longitude: 119.1
-score: 6.52
+score: 4.616
 snippet: Shandong city long known for kite-making, with a dedicated museum and international
   kite festival.
 sources:
 - https://en.wikivoyage.org/wiki/Weifang
 title: Weifang
 type: location
+heritage: 4.029
+vibrancy: 4.873
+nature: 2.669
+off_the_beaten_track: 2.494
 ---
 
 Weifang has been the kite-making capital of China for at least five centuries, and the claim is not merely promotional: the city's craftspeople developed distinctive painting styles and structural techniques that influenced kite design across East Asia, and the tradition remains a genuine industry here rather than a heritage performance for tourists. The [World Kite Museum](/asia/china/shandong_province/weifang/world_kite_museum) holds examples from dozens of countries alongside a deep collection of Weifang's own traditional forms. Every April, around the 20th, the [International Kite Festival](/asia/china/shandong_province/weifang/international_kite_festival) draws enthusiasts from across the world to fly kites on a designated field east of the city — an event that manages to be both authentically local and genuinely international.

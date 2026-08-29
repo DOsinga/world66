@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -34.3833
 longitude: -72.0
-score: 7.1
+score: 4.647
 snippet: Chilean surf town on the O'Higgins coast, built around dark beaches and Punta
   de Lobos.
 sources:
@@ -19,6 +19,10 @@ image: pichilemu.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Antiguo_Casino_Ross_02-2013_1.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Warko
+heritage: 2.043
+vibrancy: 3.163
+nature: 5.674
+off_the_beaten_track: 2.495
 ---
 
 Pichilemu is Chile's best-known surf town, a low-key Pacific resort three to four hours south-west of [Santiago](/southamerica/chile/santiago). It has dark sand beaches, wind, seafood, and a relaxed mix of Chilean families, surfers, and weekenders from the capital.

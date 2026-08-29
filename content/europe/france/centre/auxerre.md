@@ -10,10 +10,14 @@ latitude: 47.796129
 longitude: 3.570579
 title: Auxerre
 type: location
-score: 7.7
+score: 4.527
 loc_type: city
 snippet: Burgundy river town with medieval church towers, half-timbered lanes, and
   Chablis vineyards nearby.
+heritage: 5.418
+vibrancy: 3.528
+nature: 2.984
+off_the_beaten_track: 1.914
 ---
 
 Auxerre is a handsome old town on the river Yonne in northern Burgundy, best known for its skyline of medieval church towers and its proximity to the Chablis wine region. The old centre is compact and walkable, with half-timbered houses, a Gothic cathedral (Saint-Étienne, with fine stained glass), and a clock tower spanning the main street.

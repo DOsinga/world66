@@ -5,11 +5,15 @@ done:
 latitude: 42.460023
 loc_type: city
 longitude: 59.61766
-score: 5.97
+score: 5.273
 title: Nukus
 snippet: Karakalpakstan capital in arid western Uzbekistan, home to the Savitsky Museum's
   rescued avant-garde art.
 type: location
+heritage: 6.407
+vibrancy: 3.694
+nature: 4.199
+off_the_beaten_track: 6.197
 ---
 
 Nukus is the capital of Karakalpakstan, an autonomous republic that makes up the western third of Uzbekistan. It is a Soviet-built city in a flat, arid landscape, not conventionally attractive, but it houses one of the most remarkable art collections in Central Asia.

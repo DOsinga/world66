@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 33.735
 longitude: 113.2999
-score: 6.1
+score: 3.43
 snippet: Henan coal city named for a flat-topped hill, with Buddhist sites in the
   Funiu foothills.
 sources:
@@ -14,6 +14,10 @@ image: pingdingshan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:%E6%B2%B3%E5%8D%97_%E9%B2%81%E5%B1%B1%E5%8E%BF_%E4%B8%96%E7%95%8C%E6%9C%80%E9%AB%98%E7%9A%84%E4%BD%9B%E6%95%99%E9%80%A0%E5%83%8F_-_panoramio.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Nyx Ning
+heritage: 4.206
+vibrancy: 1.914
+nature: 2.761
+off_the_beaten_track: 2.127
 ---
 
 Pingdingshan is a working city in central Henan, built around coal and named for the flat-topped hill on its northeastern edge. It is not pretty in the way Luoyang or Kaifeng can be, and the centre feels more industrial than ancient. The reason to come is the wider prefecture: old Buddhist temples, mountain scenery on the Funiu edge, and one of China's more startling modern religious monuments.

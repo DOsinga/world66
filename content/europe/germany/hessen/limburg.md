@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Limburg_an_der_Lahn,_resta
 latitude: 50.388045
 loc_type: city
 longitude: 8.063531
-score: 7.7
+score: 5.463
 snippet: Lahn River town crowned by a red-and-white Romanesque-Gothic cathedral above
   the old centre
 title: Limburg an der Lahn
 type: location
+heritage: 6.87
+vibrancy: 3.028
+nature: 4.008
+off_the_beaten_track: 2.078
 ---
 
 Limburg an der Lahn is one of those small German towns that make you stop the car and reach for your camera. The [cathedral](/europe/germany/hessen/limburg/limburg_cathedral), perched dramatically on a rocky outcrop above the River Lahn, is visible for miles and looks almost too picturesque to be real. Built in the thirteenth century in a striking combination of Romanesque and early Gothic styles, it is painted in its original red and white color scheme, which gives it an appearance quite unlike the somber grey stone cathedrals you find elsewhere in Germany.

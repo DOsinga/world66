@@ -1,12 +1,16 @@
 ---
-latitude: 46.4540
+latitude: 46.454
 loc_type: feature
-longitude: 33.8760
-score: 8.0
+longitude: 33.876
+score: 5.858
 snippet: Europe's largest surviving virgin steppe, with an arboretum and a zoo of
   steppe and savanna animals on the Kherson plains
 title: Askania-Nova Biosphere Reserve
 type: location
+heritage: 2.163
+vibrancy: 1.377
+nature: 7.583
+off_the_beaten_track: 4.903
 ---
 
 Askania-Nova is one of the most important nature reserves in Europe — an 11,000-hectare island of virgin feather-grass steppe that has never been ploughed, the largest such area remaining on the continent. The reserve protects a complete steppe ecosystem that once stretched from Hungary to Mongolia and now survives only in fragments. Over 600 plant species and dozens of bird species have been recorded here, and in spring the wildflower display across the open grassland is extraordinary.

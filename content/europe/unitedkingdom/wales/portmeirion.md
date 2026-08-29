@@ -2,15 +2,19 @@
 latitude: 52.9178
 loc_type: feature
 longitude: -4.0929
-score: 7.7
+score: 6.183
 snippet: Italianate fantasy village on the Dwyryd estuary, designed by Clough Williams-Ellis.
 sources:
-  - https://en.wikivoyage.org/wiki/Portmeirion
-  - https://portmeirion.wales/visit/explore/the-village
-  - https://en.wikipedia.org/wiki/Portmeirion
+- https://en.wikivoyage.org/wiki/Portmeirion
+- https://portmeirion.wales/visit/explore/the-village
+- https://en.wikipedia.org/wiki/Portmeirion
 title: Portmeirion
 type: location
 wikidata_id: Q737888
+heritage: 5.993
+vibrancy: 4.496
+nature: 7.043
+off_the_beaten_track: 1.932
 ---
 
 Portmeirion is a deliberate fantasy on the north Wales coast: an Italianate village of coloured facades, domes, terraces, and theatrical views over the Dwyryd estuary. Architect Clough Williams-Ellis built it through much of the 20th century as proof that development could be beautiful rather than brutal.

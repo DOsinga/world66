@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 52.95
 longitude: 0.85
-score: 7.85
+score: 5.244
 snippet: North Norfolk harbour town with tidal creeks, pine-backed beach, and Holkham
   estate.
 sources:
@@ -14,6 +14,10 @@ image: wells_next_the_sea.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Beach_huts_at_Wells-next-the-Sea.jpg
 image_license: CC BY-SA 4.0
 image_attribution: DeFacto
+heritage: 5.008
+vibrancy: 3.913
+nature: 6.005
+off_the_beaten_track: 4.103
 ---
 
 Wells-next-the-Sea is a small harbour town on the [North Norfolk Coast](/europe/unitedkingdom/england/east_of_england/the_north_norfolk_coast), set behind a tidal creek rather than directly on the open sea. The quay, salt marsh, beach road, and big sky give it a different feel from the busier resort towns further east.

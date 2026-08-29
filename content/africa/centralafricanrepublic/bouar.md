@@ -5,11 +5,15 @@ done:
 latitude: 5.95
 loc_type: city
 longitude: 15.6
-score: 4.35
+score: 4.701
 snippet: Central African town near Cameroon, noted for ancient granite megaliths in
   surrounding grasslands.
 title: Bouar
 type: location
+heritage: 2.719
+vibrancy: 1.126
+nature: 2.435
+off_the_beaten_track: 8.69
 ---
 
 Located close to the major border crossing with Cameroon, Bouar is a common stop for overland travellers passing through the [Central African Republic](/africa/centralafricanrepublic). The town is a bit run down, but thanks to its altitude — around 1,000 metres — the climate is more pleasant than in the lowlands.

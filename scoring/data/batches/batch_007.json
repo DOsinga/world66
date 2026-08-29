@@ -1,0 +1,784 @@
+[
+  {
+    "embedding_text": "Las Medulas, Galicia, Spain, Europe",
+    "lat": 42.454439,
+    "latitude": 42.454439,
+    "lng": -6.762921,
+    "longitude": -6.762921,
+    "name": "Las Medulas",
+    "parent": "Europe, Spain, Galicia",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Galicia"
+    ],
+    "path": "europe/spain/galicia/las_medulas",
+    "url": "/europe/spain/galicia/las_medulas/"
+  },
+  {
+    "embedding_text": "Negara, Bali, Indonesia, Asia",
+    "lat": -8.3569,
+    "latitude": -8.3569,
+    "lng": 114.6169,
+    "longitude": 114.6169,
+    "name": "Negara",
+    "parent": "Asia, Indonesia, Bali",
+    "parent_chain": [
+      "Asia",
+      "Indonesia",
+      "Bali"
+    ],
+    "path": "asia/indonesia/bali/negara",
+    "url": "/asia/indonesia/bali/negara/"
+  },
+  {
+    "embedding_text": "Newry, Northern Ireland, United Kingdom, Europe",
+    "lat": 54.177528,
+    "latitude": 54.177528,
+    "lng": -6.337506,
+    "longitude": -6.337506,
+    "name": "Newry",
+    "parent": "Europe, United Kingdom, Northern Ireland",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Northern Ireland"
+    ],
+    "path": "europe/unitedkingdom/northernireland/newry",
+    "url": "/europe/unitedkingdom/northernireland/newry/"
+  },
+  {
+    "embedding_text": "Ch\u00e2teau de Val, Centre, France, Europe",
+    "lat": 45.442681,
+    "latitude": 45.442681,
+    "lng": 2.505324,
+    "longitude": 2.505324,
+    "name": "Ch\u00e2teau de Val",
+    "parent": "Europe, France, Centre",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Centre"
+    ],
+    "path": "europe/france/centre/chateaudeval",
+    "url": "/europe/france/centre/chateaudeval/"
+  },
+  {
+    "embedding_text": "Asago, Kansai, Japan, Asia",
+    "lat": 35.3396,
+    "latitude": 35.3396,
+    "lng": 134.853,
+    "longitude": 134.853,
+    "name": "Asago",
+    "parent": "Asia, Japan, Kansai",
+    "parent_chain": [
+      "Asia",
+      "Japan",
+      "Kansai"
+    ],
+    "path": "asia/japan/kansai/asago",
+    "url": "/asia/japan/kansai/asago/"
+  },
+  {
+    "embedding_text": "San Luis Obispo, Central Coast, California, United States, North America",
+    "lat": 35.2828,
+    "latitude": 35.2828,
+    "lng": -120.6596,
+    "longitude": -120.6596,
+    "name": "San Luis Obispo",
+    "parent": "North America, United States, California, Central Coast",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California",
+      "Central Coast"
+    ],
+    "path": "northamerica/unitedstates/california/centralcoast/sanluisobispo",
+    "url": "/northamerica/unitedstates/california/centralcoast/sanluisobispo/"
+  },
+  {
+    "embedding_text": "Kumasi, Ghana, Africa",
+    "lat": 6.698561,
+    "latitude": 6.698561,
+    "lng": -1.623309,
+    "longitude": -1.623309,
+    "name": "Kumasi",
+    "parent": "Africa, Ghana",
+    "parent_chain": [
+      "Africa",
+      "Ghana"
+    ],
+    "path": "africa/ghana/kumasi",
+    "url": "/africa/ghana/kumasi/"
+  },
+  {
+    "embedding_text": "Hasti\u00e8re, Belgium, Europe",
+    "lat": 50.2158,
+    "latitude": 50.2158,
+    "lng": 4.826825,
+    "longitude": 4.826825,
+    "name": "Hasti\u00e8re",
+    "parent": "Europe, Belgium",
+    "parent_chain": [
+      "Europe",
+      "Belgium"
+    ],
+    "path": "europe/belgium/hastiere",
+    "url": "/europe/belgium/hastiere/"
+  },
+  {
+    "embedding_text": "Peterhead, Scotland, United Kingdom, Europe",
+    "lat": 57.5048,
+    "latitude": 57.5048,
+    "lng": -1.7833,
+    "longitude": -1.7833,
+    "name": "Peterhead",
+    "parent": "Europe, United Kingdom, Scotland",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Scotland"
+    ],
+    "path": "europe/unitedkingdom/scotland/peterhead",
+    "url": "/europe/unitedkingdom/scotland/peterhead/"
+  },
+  {
+    "embedding_text": "Nyangshwe, Myanmar, Asia",
+    "lat": 20.632,
+    "latitude": 20.632,
+    "lng": 96.901,
+    "longitude": 96.901,
+    "name": "Nyangshwe",
+    "parent": "Asia, Myanmar",
+    "parent_chain": [
+      "Asia",
+      "Myanmar"
+    ],
+    "path": "asia/myanmar/nyangshwe",
+    "url": "/asia/myanmar/nyangshwe/"
+  },
+  {
+    "embedding_text": "Qrendi, Malta, Europe",
+    "lat": 35.834359,
+    "latitude": 35.834359,
+    "lng": 14.45787,
+    "longitude": 14.45787,
+    "name": "Qrendi",
+    "parent": "Europe, Malta",
+    "parent_chain": [
+      "Europe",
+      "Malta"
+    ],
+    "path": "europe/malta/qrendi",
+    "url": "/europe/malta/qrendi/"
+  },
+  {
+    "embedding_text": "St Peter Port, Guernsey, Channel Islands, Europe",
+    "lat": 49.457841,
+    "latitude": 49.457841,
+    "lng": -2.534967,
+    "longitude": -2.534967,
+    "name": "St Peter Port",
+    "parent": "Europe, Channel Islands, Guernsey",
+    "parent_chain": [
+      "Europe",
+      "Channel Islands",
+      "Guernsey"
+    ],
+    "path": "europe/channelislands/guernsey/st_peter_port",
+    "url": "/europe/channelislands/guernsey/st_peter_port/"
+  },
+  {
+    "embedding_text": "Wexford Town, Ireland, Europe",
+    "lat": 52.3383,
+    "latitude": 52.3383,
+    "lng": -6.4617,
+    "longitude": -6.4617,
+    "name": "Wexford Town",
+    "parent": "Europe, Ireland",
+    "parent_chain": [
+      "Europe",
+      "Ireland"
+    ],
+    "path": "europe/ireland/wexford_town",
+    "url": "/europe/ireland/wexford_town/"
+  },
+  {
+    "embedding_text": "Cagayan de Oro City, Philippines, Asia",
+    "lat": 8.486071,
+    "latitude": 8.486071,
+    "lng": 124.656805,
+    "longitude": 124.656805,
+    "name": "Cagayan de Oro City",
+    "parent": "Asia, Philippines",
+    "parent_chain": [
+      "Asia",
+      "Philippines"
+    ],
+    "path": "asia/philippines/cagayan_de_oro_city",
+    "url": "/asia/philippines/cagayan_de_oro_city/"
+  },
+  {
+    "embedding_text": "Dera Ismail Khan, Pakistan, Asia",
+    "lat": 31.8275,
+    "latitude": 31.8275,
+    "lng": 70.9091,
+    "longitude": 70.9091,
+    "name": "Dera Ismail Khan",
+    "parent": "Asia, Pakistan",
+    "parent_chain": [
+      "Asia",
+      "Pakistan"
+    ],
+    "path": "asia/pakistan/dera_ismail_khan",
+    "url": "/asia/pakistan/dera_ismail_khan/"
+  },
+  {
+    "embedding_text": "Troyes, Champagne, France, Europe",
+    "lat": 48.297163,
+    "latitude": 48.297163,
+    "lng": 4.074626,
+    "longitude": 4.074626,
+    "name": "Troyes",
+    "parent": "Europe, France, Champagne",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Champagne"
+    ],
+    "path": "europe/france/champagne/troyes",
+    "url": "/europe/france/champagne/troyes/"
+  },
+  {
+    "embedding_text": "Opi, Abruzzo, Italy, Europe",
+    "lat": 41.780873,
+    "latitude": 41.780873,
+    "lng": 13.829524,
+    "longitude": 13.829524,
+    "name": "Opi",
+    "parent": "Europe, Italy, Abruzzo",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Abruzzo"
+    ],
+    "path": "europe/italy/abruzzo/opi",
+    "url": "/europe/italy/abruzzo/opi/"
+  },
+  {
+    "embedding_text": "Jinju, South Korea, Asia",
+    "lat": 35.18,
+    "latitude": 35.18,
+    "lng": 128.1076,
+    "longitude": 128.1076,
+    "name": "Jinju",
+    "parent": "Asia, South Korea",
+    "parent_chain": [
+      "Asia",
+      "South Korea"
+    ],
+    "path": "asia/southkorea/jinju",
+    "url": "/asia/southkorea/jinju/"
+  },
+  {
+    "embedding_text": "Rawalakot, Azad Kashmir, Pakistan, Asia",
+    "lat": 33.8577,
+    "latitude": 33.8577,
+    "lng": 73.7615,
+    "longitude": 73.7615,
+    "name": "Rawalakot",
+    "parent": "Asia, Pakistan, Azad Kashmir",
+    "parent_chain": [
+      "Asia",
+      "Pakistan",
+      "Azad Kashmir"
+    ],
+    "path": "asia/pakistan/azad_kashmir/rawala_kot",
+    "url": "/asia/pakistan/azad_kashmir/rawala_kot/"
+  },
+  {
+    "embedding_text": "Belgorod, Russia, Europe",
+    "lat": 50.59556,
+    "latitude": 50.59556,
+    "lng": 36.587339,
+    "longitude": 36.587339,
+    "name": "Belgorod",
+    "parent": "Europe, Russia",
+    "parent_chain": [
+      "Europe",
+      "Russia"
+    ],
+    "path": "europe/russia/belgorod_1",
+    "url": "/europe/russia/belgorod_1/"
+  },
+  {
+    "embedding_text": "Woomera, South Australia, Australia, Australia, Pacific & Antarctica",
+    "lat": -31.1998,
+    "latitude": -31.1998,
+    "lng": 136.8261,
+    "longitude": 136.8261,
+    "name": "Woomera",
+    "parent": "Australia, Pacific & Antarctica, Australia, South Australia",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "South Australia"
+    ],
+    "path": "australiaandpacific/australia/southaustralia/woomera",
+    "url": "/australiaandpacific/australia/southaustralia/woomera/"
+  },
+  {
+    "embedding_text": "Didim, Turkey, Asia",
+    "lat": 37.3756,
+    "latitude": 37.3756,
+    "lng": 27.2678,
+    "longitude": 27.2678,
+    "name": "Didim",
+    "parent": "Asia, Turkey",
+    "parent_chain": [
+      "Asia",
+      "Turkey"
+    ],
+    "path": "asia/turkey/didim",
+    "url": "/asia/turkey/didim/"
+  },
+  {
+    "embedding_text": "Dire dawa, Ethiopia, Africa",
+    "lat": 9.6,
+    "latitude": 9.6,
+    "lng": 41.8667,
+    "longitude": 41.8667,
+    "name": "Dire dawa",
+    "parent": "Africa, Ethiopia",
+    "parent_chain": [
+      "Africa",
+      "Ethiopia"
+    ],
+    "path": "africa/ethiopia/diredawa",
+    "url": "/africa/ethiopia/diredawa/"
+  },
+  {
+    "embedding_text": "Zvornik, Bosnia and Herzegovina, Europe",
+    "lat": 44.3864,
+    "latitude": 44.3864,
+    "lng": 19.1025,
+    "longitude": 19.1025,
+    "name": "Zvornik",
+    "parent": "Europe, Bosnia and Herzegovina",
+    "parent_chain": [
+      "Europe",
+      "Bosnia and Herzegovina"
+    ],
+    "path": "europe/bosniaandherzegovina/zvornik",
+    "url": "/europe/bosniaandherzegovina/zvornik/"
+  },
+  {
+    "embedding_text": "Rueil-Malmaison, \u00cele-de-France, France, Europe",
+    "lat": 48.8778,
+    "latitude": 48.8778,
+    "lng": 2.1803,
+    "longitude": 2.1803,
+    "name": "Rueil-Malmaison",
+    "parent": "Europe, France, \u00cele-de-France",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "\u00cele-de-France"
+    ],
+    "path": "europe/france/ile_de_france/rueilmalmaison",
+    "url": "/europe/france/ile_de_france/rueilmalmaison/"
+  },
+  {
+    "embedding_text": "Takachiho, Japan, Asia",
+    "lat": 32.7167,
+    "latitude": 32.7167,
+    "lng": 131.3,
+    "longitude": 131.3,
+    "name": "Takachiho",
+    "parent": "Asia, Japan",
+    "parent_chain": [
+      "Asia",
+      "Japan"
+    ],
+    "path": "asia/japan/takachiho",
+    "url": "/asia/japan/takachiho/"
+  },
+  {
+    "embedding_text": "Porsgrunn, Norway, Europe",
+    "lat": 59.1037,
+    "latitude": 59.1037,
+    "lng": 9.7364,
+    "longitude": 9.7364,
+    "name": "Porsgrunn",
+    "parent": "Europe, Norway",
+    "parent_chain": [
+      "Europe",
+      "Norway"
+    ],
+    "path": "europe/norway/porsgrunn",
+    "url": "/europe/norway/porsgrunn/"
+  },
+  {
+    "embedding_text": "Orillia, Ontario, Canada, North America",
+    "lat": 44.6,
+    "latitude": 44.6,
+    "lng": -79.416667,
+    "longitude": -79.416667,
+    "name": "Orillia",
+    "parent": "North America, Canada, Ontario",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "Ontario"
+    ],
+    "path": "northamerica/canada/ontario/orillia",
+    "url": "/northamerica/canada/ontario/orillia/"
+  },
+  {
+    "embedding_text": "Warrenpoint, Northern Ireland, United Kingdom, Europe",
+    "lat": 54.099992,
+    "latitude": 54.099992,
+    "lng": -6.251283,
+    "longitude": -6.251283,
+    "name": "Warrenpoint",
+    "parent": "Europe, United Kingdom, Northern Ireland",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Northern Ireland"
+    ],
+    "path": "europe/unitedkingdom/northernireland/warrenpoint",
+    "url": "/europe/unitedkingdom/northernireland/warrenpoint/"
+  },
+  {
+    "embedding_text": "Punakaiki, West Coast, South Island, New Zealand, Australia, Pacific & Antarctica",
+    "lat": -42.1084,
+    "latitude": -42.1084,
+    "lng": 171.3362,
+    "longitude": 171.3362,
+    "name": "Punakaiki",
+    "parent": "Australia, Pacific & Antarctica, New Zealand, South Island, West Coast",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "New Zealand",
+      "South Island",
+      "West Coast"
+    ],
+    "path": "australiaandpacific/newzealand/south_island/west_coast/punakaiki",
+    "url": "/australiaandpacific/newzealand/south_island/west_coast/punakaiki/"
+  },
+  {
+    "embedding_text": "\u010cesk\u00e9 Bud\u011bjovice, Czech Republic, Europe",
+    "lat": 48.974736,
+    "latitude": 48.974736,
+    "lng": 14.474285,
+    "longitude": 14.474285,
+    "name": "\u010cesk\u00e9 Bud\u011bjovice",
+    "parent": "Europe, Czech Republic",
+    "parent_chain": [
+      "Europe",
+      "Czech Republic"
+    ],
+    "path": "europe/czechrepublic/ceskebudejovice",
+    "url": "/europe/czechrepublic/ceskebudejovice/"
+  },
+  {
+    "embedding_text": "Druskininkai, Lithuania, Europe",
+    "lat": 54.017193,
+    "latitude": 54.017193,
+    "lng": 23.977228,
+    "longitude": 23.977228,
+    "name": "Druskininkai",
+    "parent": "Europe, Lithuania",
+    "parent_chain": [
+      "Europe",
+      "Lithuania"
+    ],
+    "path": "europe/lithuania/druskininkai",
+    "url": "/europe/lithuania/druskininkai/"
+  },
+  {
+    "embedding_text": "Hiwasa, Shikoku, Japan, Asia",
+    "lat": 33.7284,
+    "latitude": 33.7284,
+    "lng": 134.5353,
+    "longitude": 134.5353,
+    "name": "Hiwasa",
+    "parent": "Asia, Japan, Shikoku",
+    "parent_chain": [
+      "Asia",
+      "Japan",
+      "Shikoku"
+    ],
+    "path": "asia/japan/shikoku/hiwasa_tokushima",
+    "url": "/asia/japan/shikoku/hiwasa_tokushima/"
+  },
+  {
+    "embedding_text": "Salina, Kansas, United States, North America",
+    "lat": 38.8403,
+    "latitude": 38.8403,
+    "lng": -97.6114,
+    "longitude": -97.6114,
+    "name": "Salina",
+    "parent": "North America, United States, Kansas",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Kansas"
+    ],
+    "path": "northamerica/unitedstates/kansas/salina",
+    "url": "/northamerica/unitedstates/kansas/salina/"
+  },
+  {
+    "embedding_text": "M'Hamid, Morocco, Africa",
+    "lat": 29.825084,
+    "latitude": 29.825084,
+    "lng": -5.719808,
+    "longitude": -5.719808,
+    "name": "M'Hamid",
+    "parent": "Africa, Morocco",
+    "parent_chain": [
+      "Africa",
+      "Morocco"
+    ],
+    "path": "africa/morocco/mhamid",
+    "url": "/africa/morocco/mhamid/"
+  },
+  {
+    "embedding_text": "Sainshand, Mongolia, Asia",
+    "lat": 44.8917,
+    "latitude": 44.8917,
+    "lng": 110.1367,
+    "longitude": 110.1367,
+    "name": "Sainshand",
+    "parent": "Asia, Mongolia",
+    "parent_chain": [
+      "Asia",
+      "Mongolia"
+    ],
+    "path": "asia/mongolia/sainshand",
+    "url": "/asia/mongolia/sainshand/"
+  },
+  {
+    "embedding_text": "Svolv\u00e6r, Lofoten islands, Norway, Europe",
+    "lat": 68.2321,
+    "latitude": 68.2321,
+    "lng": 14.5646,
+    "longitude": 14.5646,
+    "name": "Svolv\u00e6r",
+    "parent": "Europe, Norway, Lofoten islands",
+    "parent_chain": [
+      "Europe",
+      "Norway",
+      "Lofoten islands"
+    ],
+    "path": "europe/norway/lofotenislands/svolvr_the_capi",
+    "url": "/europe/norway/lofotenislands/svolvr_the_capi/"
+  },
+  {
+    "embedding_text": "Mudgee, New South Wales, Australia, Australia, Pacific & Antarctica",
+    "lat": -32.6125,
+    "latitude": -32.6125,
+    "lng": 149.587222,
+    "longitude": 149.587222,
+    "name": "Mudgee",
+    "parent": "Australia, Pacific & Antarctica, Australia, New South Wales",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "New South Wales"
+    ],
+    "path": "australiaandpacific/australia/newsouthwales/mudgee",
+    "url": "/australiaandpacific/australia/newsouthwales/mudgee/"
+  },
+  {
+    "embedding_text": "Oporto, Portugal, Europe",
+    "lat": 41.150219,
+    "latitude": 41.150219,
+    "lng": -8.61035,
+    "longitude": -8.61035,
+    "name": "Oporto",
+    "parent": "Europe, Portugal",
+    "parent_chain": [
+      "Europe",
+      "Portugal"
+    ],
+    "path": "europe/portugal/oporto",
+    "url": "/europe/portugal/oporto/"
+  },
+  {
+    "embedding_text": "\u0160kofja Loka, Slovenia, Europe",
+    "lat": 46.1672,
+    "latitude": 46.1672,
+    "lng": 14.303,
+    "longitude": 14.303,
+    "name": "\u0160kofja Loka",
+    "parent": "Europe, Slovenia",
+    "parent_chain": [
+      "Europe",
+      "Slovenia"
+    ],
+    "path": "europe/slovenia/skofjaloka",
+    "url": "/europe/slovenia/skofjaloka/"
+  },
+  {
+    "embedding_text": "Plattsburgh, Adirondacks, New York State, United States, North America",
+    "lat": 44.696086,
+    "latitude": 44.696086,
+    "lng": -73.454291,
+    "longitude": -73.454291,
+    "name": "Plattsburgh",
+    "parent": "North America, United States, New York State, Adirondacks",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "New York State",
+      "Adirondacks"
+    ],
+    "path": "northamerica/unitedstates/newyorkstate/adirondacks/plattsburgh",
+    "url": "/northamerica/unitedstates/newyorkstate/adirondacks/plattsburgh/"
+  },
+  {
+    "embedding_text": "Augusta, Georgia, United States, North America",
+    "lat": 33.470971,
+    "latitude": 33.470971,
+    "lng": -81.974843,
+    "longitude": -81.974843,
+    "name": "Augusta",
+    "parent": "North America, United States, Georgia",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Georgia"
+    ],
+    "path": "northamerica/unitedstates/georgia/augusta",
+    "url": "/northamerica/unitedstates/georgia/augusta/"
+  },
+  {
+    "embedding_text": "Angel Fire, New Mexico, United States, North America",
+    "lat": 36.3931,
+    "latitude": 36.3931,
+    "lng": -105.285,
+    "longitude": -105.285,
+    "name": "Angel Fire",
+    "parent": "North America, United States, New Mexico",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "New Mexico"
+    ],
+    "path": "northamerica/unitedstates/newmexico/angelfire",
+    "url": "/northamerica/unitedstates/newmexico/angelfire/"
+  },
+  {
+    "embedding_text": "Albarrac\u00edn, Aragon, Spain, Europe",
+    "lat": 40.407283,
+    "latitude": 40.407283,
+    "lng": -1.444279,
+    "longitude": -1.444279,
+    "name": "Albarrac\u00edn",
+    "parent": "Europe, Spain, Aragon",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Aragon"
+    ],
+    "path": "europe/spain/aragon/albarracin",
+    "url": "/europe/spain/aragon/albarracin/"
+  },
+  {
+    "embedding_text": "Troy, Turkey, Asia",
+    "lat": 39.9574,
+    "latitude": 39.9574,
+    "lng": 26.2385,
+    "longitude": 26.2385,
+    "name": "Troy",
+    "parent": "Asia, Turkey",
+    "parent_chain": [
+      "Asia",
+      "Turkey"
+    ],
+    "path": "asia/turkey/troy",
+    "url": "/asia/turkey/troy/"
+  },
+  {
+    "embedding_text": "Sherborne, South West England, England, United Kingdom, Europe",
+    "lat": 50.9491,
+    "latitude": 50.9491,
+    "lng": -2.5183,
+    "longitude": -2.5183,
+    "name": "Sherborne",
+    "parent": "Europe, United Kingdom, England, South West England",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "South West England"
+    ],
+    "path": "europe/unitedkingdom/england/south_west/sherborne",
+    "url": "/europe/unitedkingdom/england/south_west/sherborne/"
+  },
+  {
+    "embedding_text": "Idaho Falls, Idaho, United States, North America",
+    "lat": 43.5006,
+    "latitude": 43.5006,
+    "lng": -112.0278,
+    "longitude": -112.0278,
+    "name": "Idaho Falls",
+    "parent": "North America, United States, Idaho",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Idaho"
+    ],
+    "path": "northamerica/unitedstates/idaho/idaho_falls",
+    "url": "/northamerica/unitedstates/idaho/idaho_falls/"
+  },
+  {
+    "embedding_text": "Rudk\u00f8bing, Denmark, Europe",
+    "lat": 54.9414,
+    "latitude": 54.9414,
+    "lng": 10.7136,
+    "longitude": 10.7136,
+    "name": "Rudk\u00f8bing",
+    "parent": "Europe, Denmark",
+    "parent_chain": [
+      "Europe",
+      "Denmark"
+    ],
+    "path": "europe/denmark/rudkoebing",
+    "url": "/europe/denmark/rudkoebing/"
+  },
+  {
+    "embedding_text": "Dothan, Alabama, United States, North America",
+    "lat": 31.227222,
+    "latitude": 31.227222,
+    "lng": -85.407222,
+    "longitude": -85.407222,
+    "name": "Dothan",
+    "parent": "North America, United States, Alabama",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Alabama"
+    ],
+    "path": "northamerica/unitedstates/alabama/dothan",
+    "url": "/northamerica/unitedstates/alabama/dothan/"
+  },
+  {
+    "embedding_text": "Pingyang, Zhejiang, China, Asia",
+    "lat": 27.629,
+    "latitude": 27.629,
+    "lng": 120.545,
+    "longitude": 120.545,
+    "name": "Pingyang",
+    "parent": "Asia, China, Zhejiang",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Zhejiang"
+    ],
+    "path": "asia/china/zhejiang/pingyang",
+    "url": "/asia/china/zhejiang/pingyang/"
+  }
+]

@@ -11,9 +11,13 @@ loc_type: city
 snippet: South Sumatra river city and former Srivijaya capital, centred on the broad
   Musi River
 longitude: 104.756851
-score: 6.58
+score: 5.097
 title: Palembang
 type: location
+heritage: 5.661
+vibrancy: 4.865
+nature: 3.953
+off_the_beaten_track: 2.278
 ---
 
 Palembang is the oldest city in Indonesia and the capital of South Sumatra, sprawling along both banks of the Musi River. It was once the centre of the Srivijaya maritime empire, which controlled trade across Southeast Asia from the seventh to the thirteenth century. That history is largely invisible today — Palembang is a modern, noisy, traffic-choked Indonesian city of nearly two million people — but dig a little and the layers appear.

@@ -9,10 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Mand%C3%B8.Kirkevej_1-3.jp
 latitude: 55.281233
 loc_type: city
 longitude: 8.555332
-score: 6.94
+score: 5.997
 snippet: Tiny Danish Wadden Sea island reached by a tidal road that floods twice daily.
 title: Mandø
 type: location
+heritage: 3.818
+vibrancy: 1.214
+nature: 7.495
+off_the_beaten_track: 5.9
 ---
 
 Mandø is a tiny island in the Danish Wadden Sea, near [Ribe](/europe/denmark/ribe). It is probably Denmark's most peaceful island — and bears little resemblance to the busier holiday islands of the region. Mandø has been left almost untouched by tourism because at high tide there is no road connecting it to the mainland. You drive (or take [the tractor bus across the tidal flats](/europe/denmark/mand/tidal_crossing)) on a route that floods twice a day.

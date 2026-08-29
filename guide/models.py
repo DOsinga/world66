@@ -18,6 +18,9 @@ and a page `de_pijp.md` exists with `type: neighbourhood`, that POI appears unde
 A nav page's query tag defaults to its slug; set `tag: <value>` in frontmatter to override.
 """
 
+import bisect
+import math
+import sqlite3
 from dataclasses import dataclass, field
 from functools import lru_cache
 from pathlib import Path
@@ -28,6 +31,7 @@ from django.conf import settings
 from . import github
 
 CONTENT_DIR = Path(settings.BASE_DIR) / "content"
+SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
 
 # Page types that participate in city navigation and collect POIs by tag.
 NAV_TYPES = {"section", "section_group", "neighbourhood", "theme"}
@@ -49,6 +53,15 @@ DISPLAY_PROPERTIES = {
     "zipcode": "Zip Code",
     "price_per_night": "Price/Night",
 }
+
+DIMENSION_FIELDS = ("heritage", "vibrancy", "nature", "off_the_beaten_track")
+DIMENSION_LABELS = {
+    "heritage": "Heritage",
+    "vibrancy": "Vibrancy",
+    "nature": "Nature",
+    "off_the_beaten_track": "Off The Beaten Track",
+}
+_MAX_HIDDEN_DISTANCE = (12 * 2 ** 2) ** 0.5
 
 
 def _score_desc_title_key(page):
@@ -859,3 +872,158 @@ def load_continents():
                 _, locations, _ = loc.children()
                 continents.append((loc, locations))
     return continents
+
+
+@lru_cache(maxsize=1)
+def load_dimension_index():
+    if SEARCH_DB.is_file():
+        conn = sqlite3.connect(f"file:{SEARCH_DB}?mode=ro", uri=True)
+        try:
+            rows = conn.execute(
+                f"SELECT path, {', '.join(DIMENSION_FIELDS)} FROM location_scores"
+            ).fetchall()
+            if rows:
+                return {row[0]: tuple(float(value) for value in row[1:]) for row in rows}
+        except sqlite3.Error:
+            pass
+        finally:
+            conn.close()
+
+    index = {}
+    for md_file in sorted(CONTENT_DIR.rglob("*.md")):
+        result = _load_md(md_file)
+        if not result:
+            continue
+        meta, _ = result
+        if meta.get("type", "location") != "location":
+            continue
+        vector = []
+        for field_name in DIMENSION_FIELDS:
+            try:
+                vector.append(float(meta[field_name]))
+            except (KeyError, TypeError, ValueError):
+                break
+        else:
+            index[str(md_file.relative_to(CONTENT_DIR).with_suffix(""))] = tuple(vector)
+    return index
+
+
+@lru_cache(maxsize=1)
+def _sorted_dimension_scores():
+    index = load_dimension_index()
+    return {
+        field_name: sorted(vector[i] for vector in index.values())
+        for i, field_name in enumerate(DIMENSION_FIELDS)
+    }
+
+
+def dimension_percentile(field_name, value):
+    scores = _sorted_dimension_scores()[field_name]
+    rank_from_bottom = bisect.bisect_left(scores, value)
+    return 100 * (len(scores) - rank_from_bottom) / len(scores)
+
+
+def _country_path(path):
+    parts = path.split("/")
+    return "/".join(parts[:2]) if len(parts) >= 2 else path
+
+
+def _parent_path(path):
+    return path.rsplit("/", 1)[0] if "/" in path else ""
+
+
+@lru_cache(maxsize=1)
+def _country_dimension_ranks():
+    by_country = {}
+    for path, vector in load_dimension_index().items():
+        by_country.setdefault(_country_path(path), []).append((path, vector))
+
+    ranks = {}
+    for rows in by_country.values():
+        total = len(rows)
+        for i, field_name in enumerate(DIMENSION_FIELDS):
+            sorted_rows = sorted(rows, key=lambda row: row[1][i], reverse=True)
+            for rank, (path, _) in enumerate(sorted_rows, 1):
+                ranks.setdefault(path, {})[field_name] = (rank, total)
+    return ranks
+
+
+def dimension_country_rank(path, field_name):
+    return _country_dimension_ranks().get(path, {}).get(field_name, (None, 0))
+
+
+def find_dimension_alternatives(path, k=3):
+    index = load_dimension_index()
+    vector = index.get(path)
+    if not vector:
+        return {field_name: [] for field_name in DIMENSION_FIELDS}
+
+    parent_path = _parent_path(path)
+    result = {}
+    for i, field_name in enumerate(DIMENSION_FIELDS):
+        candidates = []
+        for other_path, other_vector in index.items():
+            if other_path == path or _parent_path(other_path) != parent_path:
+                continue
+            if other_vector[i] > vector[i]:
+                candidates.append((other_path, other_vector[i]))
+        result[field_name] = sorted(candidates, key=lambda row: row[1], reverse=True)[:k]
+    return result
+
+
+def _hidden_columns():
+    return ", ".join(f"hidden_{i}" for i in range(12))
+
+
+def _similar_query(conn, path, country_path, same_country, k):
+    row = conn.execute(
+        f"SELECT {_hidden_columns()} FROM location_scores WHERE path = ?",
+        (path,),
+    ).fetchone()
+    if not row:
+        return []
+
+    expr_parts = []
+    params = []
+    for i, value in enumerate(row):
+        expr_parts.append(f"((hidden_{i} - ?) * (hidden_{i} - ?))")
+        params.extend((value, value))
+    country_op = "=" if same_country else "!="
+    params.extend((path, country_path, k))
+    rows = conn.execute(
+        f"""
+        SELECT path, {' + '.join(expr_parts)} AS distance_sq
+        FROM location_scores
+        WHERE path != ? AND country_path {country_op} ?
+        ORDER BY distance_sq
+        LIMIT ?
+        """,
+        params,
+    ).fetchall()
+    result = []
+    for other_path, distance_sq in rows:
+        distance = math.sqrt(distance_sq)
+        match_pct = round(100 * (1 - distance / _MAX_HIDDEN_DISTANCE))
+        result.append((other_path, max(0, min(100, match_pct))))
+    return result
+
+
+def find_similar_with_match_grouped(path, k=3):
+    if not SEARCH_DB.is_file():
+        return [], []
+    conn = sqlite3.connect(f"file:{SEARCH_DB}?mode=ro", uri=True)
+    try:
+        row = conn.execute(
+            "SELECT country_path FROM location_scores WHERE path = ?",
+            (path,),
+        ).fetchone()
+        if not row:
+            return [], []
+        country_path = row[0]
+        same = _similar_query(conn, path, country_path, True, k)
+        other = _similar_query(conn, path, country_path, False, k)
+        return same, other
+    except sqlite3.Error:
+        return [], []
+    finally:
+        conn.close()

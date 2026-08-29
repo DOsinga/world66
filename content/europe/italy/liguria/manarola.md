@@ -14,7 +14,7 @@ quick_facts:
   Dry-Stone Walls: 7,000 km region-wide
   Population: ~350
   Sciacchetrà: Sweet cliff-grown wine
-score: 9.43
+score: 5.677
 snippet: Cinque Terre village where pastel houses descend a steep Ligurian ravine
   to a tiny harbour.
 tags:
@@ -25,6 +25,10 @@ tip: Manarola is the prettiest of the Cinque Terre five for photos — shoot it 
   up by dry-stone walls. Take the train between the villages rather than driving.
 title: Manarola
 type: location
+heritage: 5.119
+vibrancy: 5.619
+nature: 5.826
+off_the_beaten_track: 1.947
 ---
 
 Manarola is the most photogenic of the five Cinque Terre villages — the one you have seen on every postcard, with stacked pastel houses tumbling down a steep ravine to a tiny harbour. It sits between [Riomaggiore](/europe/italy/liguria/riomaggiore) and [Corniglia](/europe/italy/liguria/corniglia) on the Ligurian coast, connected to both by train and by the coastal hiking path.

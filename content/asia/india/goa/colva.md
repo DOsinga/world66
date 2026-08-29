@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Colv%C3%A1_beach.jpg
 latitude: 15.277304
 loc_type: city
 longitude: 73.920203
-score: 7.9
+score: 5.367
 snippet: South Goa beach village with white sand, coconut palms, and a calmer mood
   than the northern party coast
 title: Colva
 type: location
+heritage: 2.691
+vibrancy: 4.548
+nature: 6.121
+off_the_beaten_track: 1.204
 ---
 
 Colva is one of the most popular beaches in South Goa, a long stretch of white sand backed by coconut palms and a scattering of beach shacks. It draws a mix of domestic tourists and longer-stay visitors looking for something more relaxed than the North Goa party beaches.

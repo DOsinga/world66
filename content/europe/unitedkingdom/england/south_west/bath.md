@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bath_2014_02_-_Pulteney_Br
 latitude: 51.381386
 loc_type: city
 longitude: -2.359696
-score: 8.89
+score: 5.83
 snippet: Georgian spa city in Somerset, built from honey-coloured limestone around
   ancient hot springs.
 title: Bath
 type: location
+heritage: 6.331
+vibrancy: 5.684
+nature: 4.285
+off_the_beaten_track: 1.479
 ---
 
 Bath is one of England's most beautiful cities — a UNESCO World Heritage Site built from honey-coloured limestone, set in a bowl of green hills in Somerset. The city takes its name from the [Roman baths](/europe/unitedkingdom/england/south_west/bath/roman_baths) built here between the first and fourth centuries AD around the natural hot springs that still bubble up at 46°C.

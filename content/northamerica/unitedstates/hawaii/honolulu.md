@@ -15,7 +15,7 @@ quick_facts:
   Pearl Harbor: USS Arizona memorial
   Population: 350,000
   ʻIolani Palace: Only US royal palace
-score: 9.7
+score: 5.764
 snippet: Hawaiian capital on Oahu's south shore, where Waikiki high-rises sit beneath
   the Ko'olau mountains.
 tip: Most visitors never leave Waikīkī, but the best of Oʻahu is a cheap circle-island
@@ -24,6 +24,10 @@ tip: Most visitors never leave Waikīkī, but the best of Oʻahu is a cheap circ
   hike is short, steep and best at dawn before the heat.
 title: Honolulu
 type: location
+heritage: 4.187
+vibrancy: 5.626
+nature: 6.12
+off_the_beaten_track: 1.047
 ---
 
 Honolulu is the capital of Hawaii and the only major city in the state, spread along the southern shore of [Oahu](/northamerica/unitedstates/hawaii/oahu) between the Ko'olau mountains and the Pacific. For most visitors it will be the first place they arrive, and first impressions can be misleading — the high-rise sprawl along Waikiki looks like any resort strip, but the city has real depth and character once you get past the tourist corridor.

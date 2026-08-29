@@ -5,13 +5,17 @@ done:
 latitude: 25.4052
 loc_type: city
 longitude: 55.5136
-score: 6.75
+score: 3.04
 snippet: Smallest UAE emirate, a quieter Gulf base with a public corniche, old fort,
   and working dhow yard.
 sources:
 - https://en.wikipedia.org/wiki/Emirate_of_Ajman
 title: Ajman
 type: location
+heritage: 2.159
+vibrancy: 3.219
+nature: 2.578
+off_the_beaten_track: 0.901
 ---
 
 Ajman is the smallest of the seven [UAE](/asia/unitedarabemirates) emirates, squeezed between Sharjah and Umm Al Quwain along the Gulf coast. It has a fraction of the glitz of [Dubai](/asia/unitedarabemirates/dubai) — no towering skyscrapers or mega-malls — and that is precisely its appeal for visitors looking for a quieter, more affordable base.

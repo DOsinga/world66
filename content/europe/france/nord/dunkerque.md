@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Dunkerque_postcard_NG.jpg
 latitude: 51.034771
 loc_type: city
 longitude: 2.377252
-score: 6.6
+score: 4.417
 snippet: Flemish North Sea port city remembered for 1940, with carnival culture and
   working docks.
 title: Dunkerque
 type: location
+heritage: 5.166
+vibrancy: 3.687
+nature: 3.152
+off_the_beaten_track: 2.155
 ---
 
 Dunkerque sits at the northernmost tip of France, on the shores of the North Sea and just a few kilometres from the Belgian border. It is best known in the English-speaking world for the 1940 evacuation, but the town has a strong Flemish identity and a cultural life that is very much its own.

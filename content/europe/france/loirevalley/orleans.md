@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Rue_Jeanne_dArc_Tramway_Or
 latitude: 47.902734
 loc_type: city
 longitude: 1.908607
-score: 8.12
+score: 5.991
 snippet: Loire city shaped by Joan of Arc, with a Gothic cathedral and rebuilt old
   town
 title: Orleans
 type: location
+heritage: 7.108
+vibrancy: 4.797
+nature: 3.796
+off_the_beaten_track: 2.048
 ---
 
 Orléans sits at the northernmost bend of the Loire, where the river makes its great arc southward before heading to the Atlantic. It is a city that wears its history openly — most visibly in the figure of Joan of Arc, who broke the English siege here in 1429 and gave Orléans its defining moment. Statues, streets, and an entire festival keep her memory very much alive.

@@ -6,10 +6,14 @@ latitude: 54.177904
 longitude: 12.081288
 title: Warnemünde
 type: location
-score: 7.61
+score: 5.372
 loc_type: city
 snippet: Rostock seaside district on the Baltic, with a wide beach, fishing channel,
   and cruise port.
+heritage: 4.097
+vibrancy: 5.352
+nature: 5.423
+off_the_beaten_track: 1.97
 ---
 
 Warnemünde is [Rostock](/europe/germany/mecklenburgwesternpomerania/rostock)'s seaside district, a fishing village turned beach resort that has been part of the city since 1323. It is one of the most popular seaside resorts on the Baltic Sea, with a wide sandy beach stretching for kilometres along the coast.

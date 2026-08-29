@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Wilmington,_Delaware,_USA.
 latitude: 39.745947
 loc_type: city
 longitude: -75.546589
-score: 6.18
+score: 5.402
 title: Wilmington
 type: location
 snippet: Delaware river city shaped by colonial shipping, Brandywine mills, and two
   centuries of DuPont history.
+heritage: 6.619
+vibrancy: 3.899
+nature: 2.931
+off_the_beaten_track: 2.007
 ---
 
 Wilmington is Delaware's largest city, sitting along the I-95 corridor roughly equidistant from Philadelphia, Baltimore, and Washington, DC. Founded in 1731 as Willingtown, it grew around the confluence of the Delaware, Christina, and Brandywine rivers — first as a colonial shipping port, then as a milling centre. The rapid flow of the Brandywine attracted E.I. du Pont, who established his gunpowder mills here in 1802, launching the DuPont company that shaped the city's fortunes for two centuries.

@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 13.8933
 longitude: -90.4783
-score: 7.1
-snippet: Guatemala Pacific beach town of black volcanic sand, turtle releases, and mangrove canals.
+score: 5.491
+snippet: Guatemala Pacific beach town of black volcanic sand, turtle releases, and
+  mangrove canals.
 sources:
-  - https://en.wikivoyage.org/wiki/Monterrico
-  - https://en.wikipedia.org/wiki/Monterrico
-  - https://www.anywhere.com/guatemala/attractions/tortugario-monterrico-national-reserve
+- https://en.wikivoyage.org/wiki/Monterrico
+- https://en.wikipedia.org/wiki/Monterrico
+- https://www.anywhere.com/guatemala/attractions/tortugario-monterrico-national-reserve
+heritage: 2.259
+vibrancy: 2.232
+nature: 7.184
+off_the_beaten_track: 4.347
 ---
 
 Monterrico is Guatemala's easiest Pacific beach escape from [Guatemala City](/northamerica/guatemala/guatemalacity) and [Antigua Guatemala](/northamerica/guatemala/antiguaguatemala), but it is not a soft resort strip. The beach is black volcanic sand, the surf breaks hard, and the undertow deserves respect.

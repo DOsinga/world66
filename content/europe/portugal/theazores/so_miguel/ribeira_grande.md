@@ -6,11 +6,15 @@ done:
 latitude: 37.822523
 loc_type: city
 longitude: -25.519491
-score: 8.26
+score: 6.028
 snippet: North-coast São Miguel town with baroque churches, manor houses, and an eight-arched
   bridge.
 title: Ribeira Grande
 type: location
+heritage: 4.778
+vibrancy: 3.517
+nature: 7.319
+off_the_beaten_track: 2.634
 ---
 
 Ribeira Grande is the second largest town on [São Miguel](/europe/portugal/theazores/so_miguel), set on the island's north coast about 15 minutes by car from [Ponta Delgada](/europe/portugal/theazores/so_miguel/ponta_delgada). The town has a handsome historic centre with baroque churches and manor houses, centred on a striking [eight-arched bridge](/europe/portugal/theazores/so_miguel/ribeira_grande/ponte_dos_oito_arcos) over the Ribeira Grande river, with the [Igreja Matriz](/europe/portugal/theazores/so_miguel/ribeira_grande/igreja_matriz) and the basalt-arcaded [city hall](/europe/portugal/theazores/so_miguel/ribeira_grande/city_hall) anchoring the small square nearby.

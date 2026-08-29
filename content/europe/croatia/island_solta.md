@@ -4,7 +4,7 @@ done:
   location_cleanup: '2026-04-07'
 latitude: 43.369525
 longitude: 16.324983
-score: 7.9
+score: 5.259
 snippet: Quiet Dalmatian island near Split, with olive groves, stone villages, and
   a slower local summer rhythm.
 tags:
@@ -16,6 +16,10 @@ image: island_solta.jpg
 image_source: https://commons.wikimedia.org/wiki/File:%C5%A0olta_Maslinica_Hrvatska_Hafen_2012_d.jpg
 image_license: CC BY-SA 3.0 at
 image_attribution: Joadl
+heritage: 4.987
+vibrancy: 3.961
+nature: 6.037
+off_the_beaten_track: 3.798
 ---
 
 Šolta is a quiet Dalmatian island just a short ferry ride from Split, yet it sees a fraction of the crowds that descend on Hvar or Brač. That relative obscurity is precisely the point: this is where Dalmatians themselves go for summer, and the pace of life reflects it.

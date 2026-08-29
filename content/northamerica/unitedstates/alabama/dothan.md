@@ -5,13 +5,18 @@ loc_type: city
 latitude: 31.227222
 longitude: -85.407222
 wikidata: Q79519
-score: 6.18
-snippet: Wiregrass city with peanut culture, agricultural history, downtown murals, and a few solid museums.
+score: 2.834
+snippet: Wiregrass city with peanut culture, agricultural history, downtown murals,
+  and a few solid museums.
 sources:
 - https://en.wikivoyage.org/wiki/Dothan
 - https://encyclopediaofalabama.org/article/landmark-park/
 - https://visitdothan.com/things-to-do/murals/
 - https://www.nationalpeanutfestival.com/
+heritage: 1.97
+vibrancy: 2.914
+nature: 2.629
+off_the_beaten_track: 1.132
 ---
 
 *North America > United States > Alabama > Dothan*

@@ -17,7 +17,7 @@ quick_facts:
   Michelin Stars: Most of any city
   Renamed from Edo: '1868'
   Shinjuku Station: 3.5M passengers a day
-score: 9.99
+score: 8.934
 snippet: Vast Japanese capital where distinct neighbourhoods, rail networks, shrines,
   and neon districts interlock.
 tip: Grab a Suica or Pasmo IC card the moment you land and stop thinking about fares
@@ -26,6 +26,10 @@ tip: Grab a Suica or Pasmo IC card the moment you land and stop thinking about f
   line unless you want to be wedged onto a train by a white-gloved attendant.
 title: Tokyo
 type: location
+heritage: 6.38
+vibrancy: 9.97
+nature: 4.144
+off_the_beaten_track: 1.291
 ---
 
 Tokyo is the largest city on earth and one of the most rewarding to visit: dense, efficient, safe, endlessly inventive in food and design, and capable of surprising you every few blocks. The scale is overwhelming at first — roughly 37 million people in the greater metropolitan area — but the city is organized around distinct neighbourhoods, each with its own character, and the subway system is good enough that you can move between them quickly.

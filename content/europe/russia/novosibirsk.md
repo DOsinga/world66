@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Arnold_Kats_State_Concert_
 latitude: 55.0288
 loc_type: city
 longitude: 82.9227
-score: 6.14
+score: 4.712
 snippet: Siberian metropolis born at the Trans-Siberian Railway's Ob River crossing,
   with opera and Constructivist architecture.
 title: Novosibirsk
 type: location
+heritage: 4.12
+vibrancy: 4.491
+nature: 5.134
+off_the_beaten_track: 4.638
 ---
 
 Novosibirsk is the heart of Siberia and its largest city, home to around 1.6 million people. By any standard it is young — founded in 1893 as Novonikolaevsk, a settlement at the point where the Trans-Siberian Railway crossed the River Ob. It grew explosively through the 20th century and is now the business, transport, and cultural hub of the entire region.

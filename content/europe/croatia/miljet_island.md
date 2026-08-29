@@ -4,13 +4,17 @@ done:
 latitude: 42.7485
 loc_type: island
 longitude: 17.0532
-score: 8.4
+score: 5.962
 snippet: Croatian island whose western end is a national park around two inland saltwater
   lakes.
 tags:
 - dalmatia
 title: Mljet Island
 type: location
+heritage: 2.631
+vibrancy: 1.373
+nature: 7.539
+off_the_beaten_track: 5.579
 ---
 
 Mljet is one of the most appealing day trips from [Dubrovnik](/europe/croatia/dubrovnik), though it deserves more time if you can spare it. The western end of the island is [Mljet National Park](/europe/croatia/miljet_island/veliko_jezero), built around two interconnected saltwater lakes — the larger [Veliko Jezero](/europe/croatia/miljet_island/veliko_jezero) and the smaller, warmer [Malo Jezero](/europe/croatia/miljet_island/malo_jezero) — with a [Benedictine monastery](/europe/croatia/miljet_island/st_mary_monastery) on an islet in the middle of the Great Lake.

@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Divri%C4%9Fi_Great_Mosque_
 latitude: 39.371111
 loc_type: city
 longitude: 38.113611
-score: 7.05
+score: 5.218
 snippet: Remote Anatolian town below a castle, home to a superb UNESCO mosque and
   hospital.
 sources:
@@ -17,6 +17,10 @@ sources:
 title: Divriği
 type: location
 wikidata: Q743587
+heritage: 6.779
+vibrancy: 1.722
+nature: 2.668
+off_the_beaten_track: 4.726
 ---
 
 Divriği is a small, remote town in the mountains of Sivas province, on the railway between central Anatolia and the upper Euphrates country. It would be easy to pass it off as an old mining town if it did not hold one of Turkey's great medieval buildings.

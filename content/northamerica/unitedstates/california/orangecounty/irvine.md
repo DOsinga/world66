@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Irvine_Civic_Center.jpg
 latitude: 33.685697
 loc_type: city
 longitude: -117.825981
-score: 6.02
+score: 4.193
 title: Irvine
 type: location
 snippet: Master-planned Orange County city built on former Irvine Ranch, with broad
   green space and UC Irvine.
+heritage: 2.321
+vibrancy: 4.73
+nature: 2.805
+off_the_beaten_track: 0.666
 ---
 
 Irvine is a master-planned city in central [Orange County](/northamerica/unitedstates/california/orangecounty), [California](/northamerica/unitedstates/california), built largely on the former Irvine Ranch. It is one of the safest and most meticulously organized cities in the United States — wide boulevards, tidy village centres, and an unusual amount of green space for suburban Southern California.

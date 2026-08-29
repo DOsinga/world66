@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Japanese_Gardens,_Tully,_C
 latitude: 53.156847
 loc_type: city
 longitude: -6.91172
-score: 7.63
+score: 4.356
 snippet: Irish county west of Dublin, defined by Curragh grassland and thoroughbred
   horse country.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Irish_National_Stud
 title: Kildare
 type: location
+heritage: 4.958
+vibrancy: 2.132
+nature: 4.375
+off_the_beaten_track: 2.208
 ---
 
 County Kildare sits just west of [Dublin](/europe/ireland/dublin), close enough to be commuter territory but with a distinctly rural character of its own. This is horse country — the Curragh, a vast expanse of open grassland, is home to Ireland's premier racecourse and the heart of the Irish thoroughbred industry. The Irish National Stud and its beautiful Japanese Gardens in Kildare town are well worth a visit.

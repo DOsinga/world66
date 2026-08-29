@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hikkaduwa_beach_beauty.jpg
 latitude: 6.1407
 loc_type: city
 longitude: 80.1012
-score: 7.46
+score: 6.927
 snippet: Lively southwest Sri Lankan beach town known for coral reefs, surf breaks,
   turtles, and nightlife.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Hikkaduwa_National_Park
 title: Hikkaduwa
 type: location
+heritage: 4.62
+vibrancy: 5.898
+nature: 7.887
+off_the_beaten_track: 3.206
 ---
 
 Hikkaduwa is one of Sri Lanka's original beach towns, stretched along the southwest coast between Colombo and Galle. It is busier and brasher than [Unawatuna](/asia/srilanka/unawatuna), with surf schools, dive shops, beach bars, guesthouses, and traffic all pressed close to the sand.

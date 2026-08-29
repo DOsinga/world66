@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cook_Islands._Mangaia._Fro
 latitude: -21.925029
 loc_type: city
 longitude: -157.918069
-score: 7.67
+score: 5.786
 snippet: Ancient Cook Islands island ringed by jagged makatea cliffs and honeycombed
   with caves.
 title: Mangaia
 type: location
+heritage: 4.124
+vibrancy: 1.184
+nature: 6.682
+off_the_beaten_track: 7.489
 ---
 
 Mangaia is the southernmost and oldest island in the Cook Islands — geologically, one of the oldest islands in the Pacific. Like Atiu, it is ringed by a dramatic belt of makatea (raised coral limestone) that gives the coastline a jagged, fortress-like appearance. Inside the makatea is a central plateau with a small population spread across several villages.

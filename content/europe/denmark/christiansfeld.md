@@ -2,7 +2,7 @@
 latitude: 55.3558
 longitude: 9.4856
 loc_type: city
-score: 7.11
+score: 4.977
 snippet: UNESCO-listed Moravian Brethren settlement of 1773, with uniform ochre buildings,
   an egalitarian cemetery, and the original honey cake.
 title: Christiansfeld
@@ -11,6 +11,10 @@ image: christiansfeld.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Christiansfeld_br%C3%B8dremenighedskirken_31_maj_2015_crop.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Villy Fink Isaksen
+heritage: 6.994
+vibrancy: 1.769
+nature: 1.985
+off_the_beaten_track: 2.645
 ---
 
 Christiansfeld is a planned town founded in 1773 by the Moravian Brethren — the Herrnhuter Brüdergemeine — a Protestant community with roots in Bohemia that spread across Europe in the 18th century. The settlement was listed as a UNESCO World Heritage Site in 2015, one of seven Moravian settlements worldwide to receive the designation.

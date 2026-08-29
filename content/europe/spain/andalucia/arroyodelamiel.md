@@ -4,7 +4,7 @@ done:
 latitude: 36.631099
 loc_type: city
 longitude: -4.56749
-score: 7.11
+score: 4.678
 snippet: Working Benalmádena town below the Sierra de Mijas, named for its old Honey
   Stream.
 sources:
@@ -15,6 +15,10 @@ tags:
 - costa_del_sol
 title: Arroyo de la Miel
 type: location
+heritage: 2.93
+vibrancy: 3.455
+nature: 5.582
+off_the_beaten_track: 1.152
 ---
 
 Arroyo de la Miel is the working heart of Benalmádena municipality — a real Spanish town sitting at the foot of the Sierra de Mijas, just inland from the holiday apartments and beach bars of the coast. Locals outnumber tourists, the tapas bars fill up after nine in the evening, and the Friday market on Avenida de la Constitución draws people from across the surrounding area.

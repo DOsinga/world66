@@ -4,13 +4,17 @@ done:
 latitude: 35.49
 loc_type: city
 longitude: 112.85
-score: 5.86
+score: 2.581
 snippet: Southeastern Shanxi city near Taihang fortified villages and the Huangcheng
   Chancellor's Residence
 sources:
 - https://en.wikivoyage.org/wiki/Jincheng
 title: Jincheng
 type: location
+heritage: 2.99
+vibrancy: 1.979
+nature: 2.473
+off_the_beaten_track: 2.863
 ---
 
 Jincheng occupies the southeastern corner of Shanxi, squeezed between the Taihang Mountains and the provincial borders with Henan. It is not on most travellers' itineraries, which is partly its appeal — the area around the city contains a cluster of remarkably intact Ming and Qing fortified villages that receive far fewer visitors than the more famous courtyard architecture of Pingyao. The high-speed rail connection to Taiyuan (about 90 minutes) and Zhengzhou makes it accessible as either a day trip or an overnight stop.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Medora,_North_Dakota_01.jp
 latitude: 46.9144
 loc_type: city
 longitude: -103.5291
-score: 7.07
+score: 3.104
 snippet: Tiny Badlands gateway town beside Theodore Roosevelt National Park, rich
   in frontier history and walkable streets.
 title: Medora
 type: location
+heritage: 3.497
+vibrancy: 1.456
+nature: 3.199
+off_the_beaten_track: 4.146
 ---
 
 Medora is a tiny town of a few hundred people in the western Badlands, about 140 km west of [Bismarck](/northamerica/unitedstates/northdakota/bismarck), and the main gateway to [Theodore Roosevelt National Park](/northamerica/unitedstates/northdakota/medora/theodore_roosevelt_national_park). It's small enough to walk across in ten minutes, but it packs in more history than most towns ten times its size.

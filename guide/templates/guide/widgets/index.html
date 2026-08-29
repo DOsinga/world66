@@ -65,5 +65,33 @@
       <iframe id="photo-map-widget-preview" src="{{ photo_map_embed_url }}" width="100%" height="520" style="border:0" loading="lazy"></iframe>
     </div>
   </section>
+
+  <section class="widget-builder" aria-labelledby="scoring-explorer-title">
+    <div class="widget-builder-copy">
+      <h2 id="scoring-explorer-title">Scoring explorer</h2>
+      <p>Play with heritage, vibrancy, nature, and off-the-beaten-track weights on a world map.</p>
+
+      <label class="widget-embed-label" for="scoring-explorer-code">Embed code</label>
+      <textarea id="scoring-explorer-code" class="widget-embed-code" readonly>{{ scoring_explorer_iframe }}</textarea>
+    </div>
+
+    <div class="widget-preview">
+      <iframe id="scoring-explorer-preview" src="{{ scoring_explorer_embed_url }}" width="100%" height="640" style="border:0" loading="lazy" allow="fullscreen"></iframe>
+    </div>
+  </section>
+
+  <section class="widget-builder" aria-labelledby="score-composer-title">
+    <div class="widget-builder-copy">
+      <h2 id="score-composer-title">Score composer</h2>
+      <p>Tune the four public scores from the 12 latent travel dimensions.</p>
+
+      <label class="widget-embed-label" for="score-composer-code">Embed code</label>
+      <textarea id="score-composer-code" class="widget-embed-code" readonly>{{ score_composer_iframe }}</textarea>
+    </div>
+
+    <div class="widget-preview">
+      <iframe id="score-composer-preview" src="{{ score_composer_embed_url }}" width="100%" height="720" style="border:0" loading="lazy" allow="fullscreen"></iframe>
+    </div>
+  </section>
 </div>
 {% endblock %}

@@ -15,7 +15,7 @@ quick_facts:
   Birthplace Of: Democracy
   Inhabited: 3,400+ years
   Metro: A museum of dug-up finds
-score: 9.58
+score: 7.893
 snippet: Ancient Greek capital where the Acropolis rises above hot streets, concrete
   districts, and layered neighbourhoods
 tags:
@@ -30,6 +30,10 @@ tip: Climb the Acropolis at opening or in the last hour — midday sun on the ma
   instead. The metro doubles as a museum of finds dug up during construction.
 title: Athens
 type: location
+heritage: 6.188
+vibrancy: 8.599
+nature: 4.384
+off_the_beaten_track: 1.154
 ---
 
 Athens is one of the oldest continuously inhabited cities in the world — people have lived here for at least 7,000 years, and for 2,500 of them the city has been important. It is also one of Europe's most confusing capitals: a sprawling, hot, noisy metropolis of over 3 million people, blanketed by low concrete apartment blocks, crossed by chaotic traffic, and centred on a small rocky hill that happens to hold the most important set of ruins in the western world. First-time visitors often hate it at first sight and then find themselves captivated by the time they leave. It rewards patience.

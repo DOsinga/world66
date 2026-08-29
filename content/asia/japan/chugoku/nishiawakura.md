@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 35.1714
 longitude: 134.3364
-score: 6.7
+score: 3.779
 snippet: Mountain village in northern Okayama built around forest walks, hot springs,
   and local woodcraft.
 wikidata: Q1156206
@@ -17,6 +17,10 @@ image: nishiawakura.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mossy_Rocks_in_Wakasugi_Primeval_Forest_01.jpg
 image_license: CC BY-SA 4.0
 image_attribution: ChubbyWimbus
+heritage: 3.535
+vibrancy: 2.575
+nature: 4.359
+off_the_beaten_track: 2.148
 ---
 
 Nishiawakura is a small mountain village at the northern edge of Okayama Prefecture, where the Chugoku hills push toward Tottori. It is not a checklist town, and that is the point: the best reasons to come are forest paths, a simple onsen, and the sense of a rural community trying to make its woods matter again.

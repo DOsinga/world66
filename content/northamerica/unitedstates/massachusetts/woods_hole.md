@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eel_Pond_Bridge,_Woods_Hol
 latitude: 41.5239
 loc_type: city
 longitude: -70.6694
-score: 6.98
+score: 5.273
 snippet: Cape Cod village where marine research docks share the harbour with Martha's
   Vineyard ferries.
 sources:
@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Marine_Biological_Laboratory
 title: Woods Hole
 type: location
+heritage: 3.298
+vibrancy: 3.817
+nature: 6.329
+off_the_beaten_track: 1.81
 ---
 
 Woods Hole is a small village at the southwestern tip of Cape Cod where two very different worlds overlap without friction: the [Woods Hole Oceanographic Institution](/northamerica/unitedstates/massachusetts/woods_hole/whoi) (WHOI) — one of the world's foremost marine research centres — shares the waterfront with the ferry terminal that dispatches thousands of summer visitors to Martha's Vineyard. Nobel laureates and lobstermen coexist here, and somehow both feel at home.

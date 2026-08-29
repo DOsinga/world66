@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Waitomo_Cave_Entrance_n.jp
 latitude: -38.2611
 loc_type: city
 longitude: 175.1103
-score: 8.97
+score: 5.82
 snippet: Rural Waikato cave area famed for limestone systems and glowworm-lit underground
   boat rides.
 title: Waitomo
 type: location
+heritage: 3.826
+vibrancy: 2.111
+nature: 7.399
+off_the_beaten_track: 3.565
 ---
 
 Waitomo is a small rural area in the [Waikato](/australiaandpacific/newzealand/north_island/waikato) region of New Zealand's North Island, famous for its network of limestone caves. The [Waitomo Glowworm Cave](/australiaandpacific/newzealand/north_island/waikato/waitomo/waitomo_glowworm_cave) is the main draw — a boat ride through an underground grotto lit by thousands of bioluminescent larvae clinging to the ceiling is one of New Zealand's most iconic experiences. The [Waitomo Caves Discovery Centre](/australiaandpacific/newzealand/north_island/waikato/waitomo/waitomo_caves_discovery_centre) in the village explains the geology and ecology of the cave systems and is a good first stop.

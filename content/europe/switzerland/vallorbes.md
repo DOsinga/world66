@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Orbe_@_Vallorbe_01.jpg
 latitude: 46.717
 loc_type: city
 longitude: 6.3783
-score: 6.93
+score: 4.742
 snippet: Jura border town on the Swiss-French rail route, known for its disguised
   mountain fortress.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Vallorbe_railway_station
 title: Vallorbes
 type: location
+heritage: 3.301
+vibrancy: 1.754
+nature: 5.951
+off_the_beaten_track: 2.922
 ---
 
 Vallorbes is a small town in the Jura mountains northwest of [Lausanne](/europe/switzerland/lausanne), sitting right on the French border. It has long been a crossing point between the two countries, and the [railway tunnel](/europe/switzerland/vallorbes/mont_dor_tunnel) linking Switzerland to France through the Mont d'Or mountain emerges here on the TGV Lyria Paris-Lausanne line.

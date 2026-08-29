@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 58.12
 longitude: -3.66
-score: 6.8
+score: 5.514
 snippet: Sutherland fishing village shaped by the Highland Clearances, a brief gold
   rush, and the north-east coast road.
 sources:
@@ -14,6 +14,10 @@ image: helmsdale.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Helmsdale,_Telford_Bridge_-_geograph.org.uk_-_7080146.jpg
 image_license: CC BY-SA 2.0
 image_attribution: David Dixon
+heritage: 3.118
+vibrancy: 1.645
+nature: 6.572
+off_the_beaten_track: 6.472
 ---
 
 Helmsdale is a small fishing village on the east coast of Sutherland, two hours north of [Inverness](/europe/unitedkingdom/scotland/inverness) by road or rail. It is a quiet place now, with a harbour, a river mouth, stone cottages and the A9 sweeping past, but its history is unusually heavy for a village of this size.

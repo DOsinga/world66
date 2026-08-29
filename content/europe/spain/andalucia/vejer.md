@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Plaza_de_Espa%C3%B1a,_Veje
 latitude: 36.2521
 loc_type: city
 longitude: -5.9636
-score: 8.45
+score: 4.386
 snippet: White hilltop town in Cádiz province, where Moorish walls overlook La Janda
   and the Atlantic plain.
 sources:
@@ -20,6 +20,10 @@ tags:
 - whitevillages
 title: Vejer de la Frontera
 type: location
+heritage: 4.815
+vibrancy: 4.257
+nature: 3.72
+off_the_beaten_track: 3.37
 ---
 
 Vejer de la Frontera is one of the great white towns of Cádiz province, a walled hilltop maze above the La Janda countryside and close enough to the Atlantic to smell the sea on a windy day. It is beautiful in the expected Andalusian way - white walls, geraniums, steep alleys - but it also has a strong Moorish shape that makes the old town feel older and tighter than many of its neighbours.

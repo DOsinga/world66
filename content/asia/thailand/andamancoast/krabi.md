@@ -9,12 +9,16 @@ image_license: CC BY 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Krabi,_Limestone_landscape,_Thailand.jpg
 latitude: 8.111165
 longitude: 99.10973
-score: 8.8
+score: 6.632
 title: Krabi
 type: location
 loc_type: feature
 snippet: Andaman coast province of limestone karsts, beach resorts, mangrove estuaries,
   and island gateways.
+heritage: 2.574
+vibrancy: 6.59
+nature: 6.739
+off_the_beaten_track: 3.35
 ---
 
 Krabi is a province on the Andaman coast of southern Thailand, roughly opposite Phuket across the bay, where limestone karsts rise straight out of the sea and a scattering of beaches, islands and mangrove estuaries make up some of the most photographed landscapes in South-east Asia. The name refers to a whole province — the small provincial capital, **Krabi Town**, is unremarkable — but in traveller's shorthand "Krabi" almost always means the beach resorts and islands strung along the coast nearby.

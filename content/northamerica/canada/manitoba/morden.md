@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 49.1919
 longitude: -98.1006
-score: 6.2
-snippet: Southern Manitoba prairie city known for marine fossils, Mennonite farm country, and summer festivals.
+score: 2.17
+snippet: Southern Manitoba prairie city known for marine fossils, Mennonite farm country,
+  and summer festivals.
 sources:
-  - https://en.wikivoyage.org/wiki/Morden
-  - https://en.wikipedia.org/wiki/Morden,_Manitoba
-  - https://www.latlong.net/place/morden-mb-canada-29202.html
+- https://en.wikivoyage.org/wiki/Morden
+- https://en.wikipedia.org/wiki/Morden,_Manitoba
+- https://www.latlong.net/place/morden-mb-canada-29202.html
+heritage: 1.574
+vibrancy: 1.658
+nature: 2.563
+off_the_beaten_track: 1.752
 ---
 
 Morden sits in southern Manitoba's Pembina Valley, west of Winkler and close enough to Winnipeg for a long day trip. It is a prairie service centre first, but it has a stronger identity than many towns its size: Cretaceous sea monsters, Mennonite farm country, and a downtown that fills with corn, apple juice, and music each August.

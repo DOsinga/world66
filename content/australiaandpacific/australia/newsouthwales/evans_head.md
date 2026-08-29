@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -29.1167
 longitude: 153.4333
-score: 6.5
+score: 4.333
 snippet: Northern Rivers beach town between national parks, known for headlands, surf,
   and wartime aviation history.
 wikidata: Q14208816
@@ -18,6 +18,10 @@ image: evans_head.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Evans_Head.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Gladiator-Citizen
+heritage: 2.337
+vibrancy: 1.865
+nature: 5.726
+off_the_beaten_track: 2.714
 ---
 
 Evans Head is a small Northern Rivers beach town south of Ballina, quieter and less polished than [Byron Bay](/australiaandpacific/australia/newsouthwales/byronbay). Its appeal is the setting: the Evans River, a surf coast, broad beaches, and national park land pressing close on both sides.

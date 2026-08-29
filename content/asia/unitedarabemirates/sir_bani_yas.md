@@ -2,7 +2,7 @@
 latitude: 24.3225
 loc_type: feature
 longitude: 52.5747
-score: 8.0
+score: 5.692
 snippet: Desert island wildlife reserve off Abu Dhabi's western coast, with free-roaming
   oryx, cheetahs, and a 7th-century monastery.
 title: Sir Bani Yas Island
@@ -11,6 +11,10 @@ image: sir_bani_yas.jpg
 image_source: https://commons.wikimedia.org/wiki/File:SirBaniYas_Island_UAE_cruise_beach_2.jpg
 image_license: CC BY-SA 4.0
 image_attribution: OasisTravelCruise
+heritage: 3.764
+vibrancy: 2.157
+nature: 7.153
+off_the_beaten_track: 5.469
 ---
 
 **Sir Bani Yas** is a 90 km² desert island off the western coast of the emirate of Abu Dhabi, about three hours' drive from the city plus a short ferry crossing. It was the personal nature reserve of **Sheikh Zayed**, the founding father of the [UAE](/asia/unitedarabemirates), who from the 1970s introduced Arabian oryx, gazelles, giraffes, cheetahs, and more than 40 other species to the island — a Noah's Ark experiment that has grown into one of the largest wildlife reserves in Arabia.

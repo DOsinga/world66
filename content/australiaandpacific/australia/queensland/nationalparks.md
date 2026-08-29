@@ -4,11 +4,15 @@ done:
 latitude: -25.2744
 loc_type: feature
 longitude: 152.7093
-score: 8.34
+score: 6.197
 snippet: Queensland wilderness network spanning Wet Tropics rainforest, Carnarvon
   gorges, K'gari dunes, and Cape York rivers
 title: National Parks
 type: location
+heritage: 1.873
+vibrancy: 1.419
+nature: 8.026
+off_the_beaten_track: 5.176
 ---
 
 Queensland has some of the most varied national parks in Australia — from the ancient rainforest of the Wet Tropics World Heritage Area to the red sandstone gorges of Carnarvon, and from the dune lakes of Fraser Island to the remote river country of the Cape York Peninsula. Taken together they cover an enormous range of ecosystems and experiences, and several rank among the best wilderness destinations on the continent.

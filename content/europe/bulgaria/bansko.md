@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Vihren
 title: Bansko
 type: location
+score: 5.661
+heritage: 4.197
+vibrancy: 4.353
+nature: 6.671
+off_the_beaten_track: 4.404
 ---
 
 Bansko is the rare Bulgarian town that does two completely different things well. From December to April it is the country's biggest and most serious ski resort, with the [Bansko Gondola](/europe/bulgaria/bansko/bansko_gondola) lifting skiers from a sleepy stone town into a 75-kilometre marked-piste network on the slopes of [Todorka and Vihren](/europe/bulgaria/bansko/vihren_peak). From June to October it turns into the gateway for [Pirin National Park](/europe/bulgaria/bansko/pirin_national_park) — a UNESCO World Heritage Site full of glacial lakes, granite peaks and old-growth forest, with some of the best mountain hiking anywhere in the Balkans.

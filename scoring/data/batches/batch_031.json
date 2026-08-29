@@ -1,0 +1,788 @@
+[
+  {
+    "embedding_text": "Wenzhou, Zhejiang, China, Asia",
+    "lat": 27.99639,
+    "latitude": 27.99639,
+    "lng": 120.695345,
+    "longitude": 120.695345,
+    "name": "Wenzhou",
+    "parent": "Asia, China, Zhejiang",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Zhejiang"
+    ],
+    "path": "asia/china/zhejiang/wenzhou",
+    "url": "/asia/china/zhejiang/wenzhou/"
+  },
+  {
+    "embedding_text": "Coddu Vecchiu Giants' Tomb, Sardinia, Italy, Europe",
+    "lat": 41.0225,
+    "latitude": 41.0225,
+    "lng": 9.3675,
+    "longitude": 9.3675,
+    "name": "Coddu Vecchiu Giants' Tomb",
+    "parent": "Europe, Italy, Sardinia",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Sardinia"
+    ],
+    "path": "europe/italy/sardinia/coddu_vecchiu_tomb",
+    "url": "/europe/italy/sardinia/coddu_vecchiu_tomb/"
+  },
+  {
+    "embedding_text": "Villahermosa, Mexico, North America",
+    "lat": 17.988466,
+    "latitude": 17.988466,
+    "lng": -92.936633,
+    "longitude": -92.936633,
+    "name": "Villahermosa",
+    "parent": "North America, Mexico",
+    "parent_chain": [
+      "North America",
+      "Mexico"
+    ],
+    "path": "northamerica/mexico/villahermosa",
+    "url": "/northamerica/mexico/villahermosa/"
+  },
+  {
+    "embedding_text": "Rothenburg ob der Tauber, Bavaria, Germany, Europe",
+    "lat": 49.3779,
+    "latitude": 49.3779,
+    "lng": 10.1808,
+    "longitude": 10.1808,
+    "name": "Rothenburg ob der Tauber",
+    "parent": "Europe, Germany, Bavaria",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Bavaria"
+    ],
+    "path": "europe/germany/bavaria/rothenburg",
+    "url": "/europe/germany/bavaria/rothenburg/"
+  },
+  {
+    "embedding_text": "Mount Etna Park, Sicily, Italy, Europe",
+    "lat": 37.7488,
+    "latitude": 37.7488,
+    "lng": 14.9669,
+    "longitude": 14.9669,
+    "name": "Mount Etna Park",
+    "parent": "Europe, Italy, Sicily",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Sicily"
+    ],
+    "path": "europe/italy/sicily/mount_etna_park",
+    "url": "/europe/italy/sicily/mount_etna_park/"
+  },
+  {
+    "embedding_text": "Puerto L\u00f3pez, Ecuador, South America",
+    "lat": -1.5589,
+    "latitude": -1.5589,
+    "lng": -80.8106,
+    "longitude": -80.8106,
+    "name": "Puerto L\u00f3pez",
+    "parent": "South America, Ecuador",
+    "parent_chain": [
+      "South America",
+      "Ecuador"
+    ],
+    "path": "southamerica/ecuador/puerto_lopez",
+    "url": "/southamerica/ecuador/puerto_lopez/"
+  },
+  {
+    "embedding_text": "Avebury, South West England, England, United Kingdom, Europe",
+    "lat": 51.42861,
+    "latitude": 51.42861,
+    "lng": -1.851705,
+    "longitude": -1.851705,
+    "name": "Avebury",
+    "parent": "Europe, United Kingdom, England, South West England",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "South West England"
+    ],
+    "path": "europe/unitedkingdom/england/south_west/avebury",
+    "url": "/europe/unitedkingdom/england/south_west/avebury/"
+  },
+  {
+    "embedding_text": "Mahdishar, Iran, Asia",
+    "lat": 35.708,
+    "latitude": 35.708,
+    "lng": 53.348,
+    "longitude": 53.348,
+    "name": "Mahdishar",
+    "parent": "Asia, Iran",
+    "parent_chain": [
+      "Asia",
+      "Iran"
+    ],
+    "path": "asia/iran/mahdishar",
+    "url": "/asia/iran/mahdishar/"
+  },
+  {
+    "embedding_text": "New Aberdour, Scotland, United Kingdom, Europe",
+    "lat": 57.658793,
+    "latitude": 57.658793,
+    "lng": -2.195062,
+    "longitude": -2.195062,
+    "name": "New Aberdour",
+    "parent": "Europe, United Kingdom, Scotland",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Scotland"
+    ],
+    "path": "europe/unitedkingdom/scotland/new_aberdour",
+    "url": "/europe/unitedkingdom/scotland/new_aberdour/"
+  },
+  {
+    "embedding_text": "\u00d6lgii, Mongolia, Asia",
+    "lat": 48.965636,
+    "latitude": 48.965636,
+    "lng": 89.963208,
+    "longitude": 89.963208,
+    "name": "\u00d6lgii",
+    "parent": "Asia, Mongolia",
+    "parent_chain": [
+      "Asia",
+      "Mongolia"
+    ],
+    "path": "asia/mongolia/olgii",
+    "url": "/asia/mongolia/olgii/"
+  },
+  {
+    "embedding_text": "Wonsan, North Korea, Asia",
+    "lat": 39.1527,
+    "latitude": 39.1527,
+    "lng": 127.4435,
+    "longitude": 127.4435,
+    "name": "Wonsan",
+    "parent": "Asia, North Korea",
+    "parent_chain": [
+      "Asia",
+      "North Korea"
+    ],
+    "path": "asia/northkorea/wonsan",
+    "url": "/asia/northkorea/wonsan/"
+  },
+  {
+    "embedding_text": "Mallare, Liguria, Italy, Europe",
+    "lat": 44.291,
+    "latitude": 44.291,
+    "lng": 8.2966,
+    "longitude": 8.2966,
+    "name": "Mallare",
+    "parent": "Europe, Italy, Liguria",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Liguria"
+    ],
+    "path": "europe/italy/liguria/mallare",
+    "url": "/europe/italy/liguria/mallare/"
+  },
+  {
+    "embedding_text": "Palm Desert, Deserts, California, United States, North America",
+    "lat": 33.7228,
+    "latitude": 33.7228,
+    "lng": -116.3826,
+    "longitude": -116.3826,
+    "name": "Palm Desert",
+    "parent": "North America, United States, California, Deserts",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California",
+      "Deserts"
+    ],
+    "path": "northamerica/unitedstates/california/deserts/palmdesert",
+    "url": "/northamerica/unitedstates/california/deserts/palmdesert/"
+  },
+  {
+    "embedding_text": "\u00c7avu\u015fin, Cappadocia, Turkey, Asia",
+    "lat": 38.670828,
+    "latitude": 38.670828,
+    "lng": 34.839455,
+    "longitude": 34.839455,
+    "name": "\u00c7avu\u015fin",
+    "parent": "Asia, Turkey, Cappadocia",
+    "parent_chain": [
+      "Asia",
+      "Turkey",
+      "Cappadocia"
+    ],
+    "path": "asia/turkey/cappadocia/cavusin",
+    "url": "/asia/turkey/cappadocia/cavusin/"
+  },
+  {
+    "embedding_text": "Bracieux, Loire valley, France, Europe",
+    "lat": 47.548913,
+    "latitude": 47.548913,
+    "lng": 1.542704,
+    "longitude": 1.542704,
+    "name": "Bracieux",
+    "parent": "Europe, France, Loire valley",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Loire valley"
+    ],
+    "path": "europe/france/loirevalley/bracieux",
+    "url": "/europe/france/loirevalley/bracieux/"
+  },
+  {
+    "embedding_text": "Eilat, Israel, Asia",
+    "lat": 29.5577,
+    "latitude": 29.5577,
+    "lng": 34.9519,
+    "longitude": 34.9519,
+    "name": "Eilat",
+    "parent": "Asia, Israel",
+    "parent_chain": [
+      "Asia",
+      "Israel"
+    ],
+    "path": "asia/israel/eilat",
+    "url": "/asia/israel/eilat/"
+  },
+  {
+    "embedding_text": "South Bend, Indiana, United States, North America",
+    "lat": 41.683381,
+    "latitude": 41.683381,
+    "lng": -86.250007,
+    "longitude": -86.250007,
+    "name": "South Bend",
+    "parent": "North America, United States, Indiana",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Indiana"
+    ],
+    "path": "northamerica/unitedstates/indiana/south_bend",
+    "url": "/northamerica/unitedstates/indiana/south_bend/"
+  },
+  {
+    "embedding_text": "Szombathely, Hungary, Europe",
+    "lat": 47.229118,
+    "latitude": 47.229118,
+    "lng": 16.618762,
+    "longitude": 16.618762,
+    "name": "Szombathely",
+    "parent": "Europe, Hungary",
+    "parent_chain": [
+      "Europe",
+      "Hungary"
+    ],
+    "path": "europe/hungary/szombathely",
+    "url": "/europe/hungary/szombathely/"
+  },
+  {
+    "embedding_text": "Dorset, England, United Kingdom, Europe",
+    "lat": 50.796837,
+    "latitude": 50.796837,
+    "lng": -2.344732,
+    "longitude": -2.344732,
+    "name": "Dorset",
+    "parent": "Europe, United Kingdom, England",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England"
+    ],
+    "path": "europe/unitedkingdom/england/dorset",
+    "url": "/europe/unitedkingdom/england/dorset/"
+  },
+  {
+    "embedding_text": "Ingolstadt, Bavaria, Germany, Europe",
+    "lat": 48.763016,
+    "latitude": 48.763016,
+    "lng": 11.42504,
+    "longitude": 11.42504,
+    "name": "Ingolstadt",
+    "parent": "Europe, Germany, Bavaria",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Bavaria"
+    ],
+    "path": "europe/germany/bavaria/ingolstadt",
+    "url": "/europe/germany/bavaria/ingolstadt/"
+  },
+  {
+    "embedding_text": "Des Moines, Iowa, United States, North America",
+    "lat": 41.586865,
+    "latitude": 41.586865,
+    "lng": -93.624949,
+    "longitude": -93.624949,
+    "name": "Des Moines",
+    "parent": "North America, United States, Iowa",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Iowa"
+    ],
+    "path": "northamerica/unitedstates/iowa/desmoines",
+    "url": "/northamerica/unitedstates/iowa/desmoines/"
+  },
+  {
+    "embedding_text": "Curtea de Arges, Romania, Europe",
+    "lat": 45.1403,
+    "latitude": 45.1403,
+    "lng": 24.6739,
+    "longitude": 24.6739,
+    "name": "Curtea de Arges",
+    "parent": "Europe, Romania",
+    "parent_chain": [
+      "Europe",
+      "Romania"
+    ],
+    "path": "europe/romania/curtea_de_arges",
+    "url": "/europe/romania/curtea_de_arges/"
+  },
+  {
+    "embedding_text": "Hachinohe, Honshu, Japan, Asia",
+    "lat": 40.5123,
+    "latitude": 40.5123,
+    "lng": 141.4884,
+    "longitude": 141.4884,
+    "name": "Hachinohe",
+    "parent": "Asia, Japan, Honshu",
+    "parent_chain": [
+      "Asia",
+      "Japan",
+      "Honshu"
+    ],
+    "path": "asia/japan/honshu/hachinohe",
+    "url": "/asia/japan/honshu/hachinohe/"
+  },
+  {
+    "embedding_text": "Huangshi, Hubei Province, China, Asia",
+    "lat": 30.202,
+    "latitude": 30.202,
+    "lng": 115.033,
+    "longitude": 115.033,
+    "name": "Huangshi",
+    "parent": "Asia, China, Hubei Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Hubei Province"
+    ],
+    "path": "asia/china/hubei/huangshi",
+    "url": "/asia/china/hubei/huangshi/"
+  },
+  {
+    "embedding_text": "Bochnia, Poland, Europe",
+    "lat": 49.969356,
+    "latitude": 49.969356,
+    "lng": 20.430541,
+    "longitude": 20.430541,
+    "name": "Bochnia",
+    "parent": "Europe, Poland",
+    "parent_chain": [
+      "Europe",
+      "Poland"
+    ],
+    "path": "europe/poland/bochnia",
+    "url": "/europe/poland/bochnia/"
+  },
+  {
+    "embedding_text": "Invercargill, Otago, South Island, New Zealand, Australia, Pacific & Antarctica",
+    "lat": -46.4132,
+    "latitude": -46.4132,
+    "lng": 168.3538,
+    "longitude": 168.3538,
+    "name": "Invercargill",
+    "parent": "Australia, Pacific & Antarctica, New Zealand, South Island, Otago",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "New Zealand",
+      "South Island",
+      "Otago"
+    ],
+    "path": "australiaandpacific/newzealand/south_island/otago/invercargill",
+    "url": "/australiaandpacific/newzealand/south_island/otago/invercargill/"
+  },
+  {
+    "embedding_text": "Pedro Bernardo, Central Spain, Spain, Europe",
+    "lat": 40.243931,
+    "latitude": 40.243931,
+    "lng": -4.910847,
+    "longitude": -4.910847,
+    "name": "Pedro Bernardo",
+    "parent": "Europe, Spain, Central Spain",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Central Spain"
+    ],
+    "path": "europe/spain/centralspain/pedro_bernardo",
+    "url": "/europe/spain/centralspain/pedro_bernardo/"
+  },
+  {
+    "embedding_text": "Boracay, Philippines, Asia",
+    "lat": 11.969369,
+    "latitude": 11.969369,
+    "lng": 121.922734,
+    "longitude": 121.922734,
+    "name": "Boracay",
+    "parent": "Asia, Philippines",
+    "parent_chain": [
+      "Asia",
+      "Philippines"
+    ],
+    "path": "asia/philippines/boracay",
+    "url": "/asia/philippines/boracay/"
+  },
+  {
+    "embedding_text": "Buraimi, Oman, Asia",
+    "lat": 24.249,
+    "latitude": 24.249,
+    "lng": 55.793,
+    "longitude": 55.793,
+    "name": "Buraimi",
+    "parent": "Asia, Oman",
+    "parent_chain": [
+      "Asia",
+      "Oman"
+    ],
+    "path": "asia/oman/buraimi",
+    "url": "/asia/oman/buraimi/"
+  },
+  {
+    "embedding_text": "Lothal, Gujarat, India, Asia",
+    "lat": 22.522677,
+    "latitude": 22.522677,
+    "lng": 72.249308,
+    "longitude": 72.249308,
+    "name": "Lothal",
+    "parent": "Asia, India, Gujarat",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Gujarat"
+    ],
+    "path": "asia/india/gujarat/lothal",
+    "url": "/asia/india/gujarat/lothal/"
+  },
+  {
+    "embedding_text": "Pisa, Tuscany, Italy, Europe",
+    "lat": 43.471472,
+    "latitude": 43.471472,
+    "lng": 10.679791,
+    "longitude": 10.679791,
+    "name": "Pisa",
+    "parent": "Europe, Italy, Tuscany",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Tuscany"
+    ],
+    "path": "europe/italy/tuscany/pisa",
+    "url": "/europe/italy/tuscany/pisa/"
+  },
+  {
+    "embedding_text": "Kandahar, Afghanistan, Asia",
+    "lat": 31.6205,
+    "latitude": 31.6205,
+    "lng": 65.7158,
+    "longitude": 65.7158,
+    "name": "Kandahar",
+    "parent": "Asia, Afghanistan",
+    "parent_chain": [
+      "Asia",
+      "Afghanistan"
+    ],
+    "path": "asia/afghanistan/kandahar",
+    "url": "/asia/afghanistan/kandahar/"
+  },
+  {
+    "embedding_text": "Chiang mai, Thailand, Asia",
+    "lat": 18.788278,
+    "latitude": 18.788278,
+    "lng": 98.98588,
+    "longitude": 98.98588,
+    "name": "Chiang mai",
+    "parent": "Asia, Thailand",
+    "parent_chain": [
+      "Asia",
+      "Thailand"
+    ],
+    "path": "asia/thailand/chiangmai",
+    "url": "/asia/thailand/chiangmai/"
+  },
+  {
+    "embedding_text": "Cripple Creek, Colorado, United States, North America",
+    "lat": 38.746656,
+    "latitude": 38.746656,
+    "lng": -105.178315,
+    "longitude": -105.178315,
+    "name": "Cripple Creek",
+    "parent": "North America, United States, Colorado",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Colorado"
+    ],
+    "path": "northamerica/unitedstates/colorado/cripple_creek",
+    "url": "/northamerica/unitedstates/colorado/cripple_creek/"
+  },
+  {
+    "embedding_text": "La Marsa, Tunisia, Africa",
+    "lat": 36.8775,
+    "latitude": 36.8775,
+    "lng": 10.3247,
+    "longitude": 10.3247,
+    "name": "La Marsa",
+    "parent": "Africa, Tunisia",
+    "parent_chain": [
+      "Africa",
+      "Tunisia"
+    ],
+    "path": "africa/tunisia/lamarsa",
+    "url": "/africa/tunisia/lamarsa/"
+  },
+  {
+    "embedding_text": "Koh Mak, Koh Chang, Thailand, Asia",
+    "lat": 11.816,
+    "latitude": 11.816,
+    "lng": 102.492633,
+    "longitude": 102.492633,
+    "name": "Koh Mak",
+    "parent": "Asia, Thailand, Koh Chang",
+    "parent_chain": [
+      "Asia",
+      "Thailand",
+      "Koh Chang"
+    ],
+    "path": "asia/thailand/kohchang/koh_mak",
+    "url": "/asia/thailand/kohchang/koh_mak/"
+  },
+  {
+    "embedding_text": "Jingzhou, Hubei Province, China, Asia",
+    "lat": 30.3363,
+    "latitude": 30.3363,
+    "lng": 112.2414,
+    "longitude": 112.2414,
+    "name": "Jingzhou",
+    "parent": "Asia, China, Hubei Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Hubei Province"
+    ],
+    "path": "asia/china/hubei/jingzhou",
+    "url": "/asia/china/hubei/jingzhou/"
+  },
+  {
+    "embedding_text": "Famagusta (Gazima\u011fusa), Northern Cyprus, Cyprus, Asia",
+    "lat": 35.125,
+    "latitude": 35.125,
+    "lng": 33.9417,
+    "longitude": 33.9417,
+    "name": "Famagusta (Gazima\u011fusa)",
+    "parent": "Asia, Cyprus, Northern Cyprus",
+    "parent_chain": [
+      "Asia",
+      "Cyprus",
+      "Northern Cyprus"
+    ],
+    "path": "asia/cyprus/northerncyprus/famagustagazimaguza",
+    "url": "/asia/cyprus/northerncyprus/famagustagazimaguza/"
+  },
+  {
+    "embedding_text": "Bear Lake, Utah, United States, North America",
+    "lat": 41.9634,
+    "latitude": 41.9634,
+    "lng": -111.3221,
+    "longitude": -111.3221,
+    "name": "Bear Lake",
+    "parent": "North America, United States, Utah",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Utah"
+    ],
+    "path": "northamerica/unitedstates/utah/bearlake",
+    "url": "/northamerica/unitedstates/utah/bearlake/"
+  },
+  {
+    "embedding_text": "Sorell, Tasmania, Australia, Australia, Pacific & Antarctica",
+    "lat": -42.7886,
+    "latitude": -42.7886,
+    "lng": 147.6671,
+    "longitude": 147.6671,
+    "name": "Sorell",
+    "parent": "Australia, Pacific & Antarctica, Australia, Tasmania",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "Tasmania"
+    ],
+    "path": "australiaandpacific/australia/tasmania/sorell",
+    "url": "/australiaandpacific/australia/tasmania/sorell/"
+  },
+  {
+    "embedding_text": "Barmera, South Australia, Australia, Australia, Pacific & Antarctica",
+    "lat": -34.25,
+    "latitude": -34.25,
+    "lng": 140.4667,
+    "longitude": 140.4667,
+    "name": "Barmera",
+    "parent": "Australia, Pacific & Antarctica, Australia, South Australia",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "South Australia"
+    ],
+    "path": "australiaandpacific/australia/southaustralia/barmera",
+    "url": "/australiaandpacific/australia/southaustralia/barmera/"
+  },
+  {
+    "embedding_text": "Magaliesburg, Gauteng, South Africa, Africa",
+    "lat": -26.0003,
+    "latitude": -26.0003,
+    "lng": 27.5478,
+    "longitude": 27.5478,
+    "name": "Magaliesburg",
+    "parent": "Africa, South Africa, Gauteng",
+    "parent_chain": [
+      "Africa",
+      "South Africa",
+      "Gauteng"
+    ],
+    "path": "africa/southafrica/gauteng/magaliesburg",
+    "url": "/africa/southafrica/gauteng/magaliesburg/"
+  },
+  {
+    "embedding_text": "Trichy, Tamil Nadu, India, Asia",
+    "lat": 10.7903,
+    "latitude": 10.7903,
+    "lng": 78.7047,
+    "longitude": 78.7047,
+    "name": "Trichy",
+    "parent": "Asia, India, Tamil Nadu",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Tamil Nadu"
+    ],
+    "path": "asia/india/tamilnadu/trichy",
+    "url": "/asia/india/tamilnadu/trichy/"
+  },
+  {
+    "embedding_text": "Braunschweig, Lower Saxony, Germany, Europe",
+    "lat": 52.264658,
+    "latitude": 52.264658,
+    "lng": 10.523607,
+    "longitude": 10.523607,
+    "name": "Braunschweig",
+    "parent": "Europe, Germany, Lower Saxony",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Lower Saxony"
+    ],
+    "path": "europe/germany/lowersaxony/braunschweig",
+    "url": "/europe/germany/lowersaxony/braunschweig/"
+  },
+  {
+    "embedding_text": "Forte dei Marmi, Tuscany, Italy, Europe",
+    "lat": 43.959589,
+    "latitude": 43.959589,
+    "lng": 10.169939,
+    "longitude": 10.169939,
+    "name": "Forte dei Marmi",
+    "parent": "Europe, Italy, Tuscany",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Tuscany"
+    ],
+    "path": "europe/italy/tuscany/forte_dei_marmi",
+    "url": "/europe/italy/tuscany/forte_dei_marmi/"
+  },
+  {
+    "embedding_text": "Braga, Portugal, Europe",
+    "lat": 41.551058,
+    "latitude": 41.551058,
+    "lng": -8.428005,
+    "longitude": -8.428005,
+    "name": "Braga",
+    "parent": "Europe, Portugal",
+    "parent_chain": [
+      "Europe",
+      "Portugal"
+    ],
+    "path": "europe/portugal/braga",
+    "url": "/europe/portugal/braga/"
+  },
+  {
+    "embedding_text": "Iligan, Philippines, Asia",
+    "lat": 8.228,
+    "latitude": 8.228,
+    "lng": 124.2452,
+    "longitude": 124.2452,
+    "name": "Iligan",
+    "parent": "Asia, Philippines",
+    "parent_chain": [
+      "Asia",
+      "Philippines"
+    ],
+    "path": "asia/philippines/iligan",
+    "url": "/asia/philippines/iligan/"
+  },
+  {
+    "embedding_text": "Marco Island, Florida, United States, North America",
+    "lat": 25.937251,
+    "latitude": 25.937251,
+    "lng": -81.71573,
+    "longitude": -81.71573,
+    "name": "Marco Island",
+    "parent": "North America, United States, Florida",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Florida"
+    ],
+    "path": "northamerica/unitedstates/florida/marcoisland",
+    "url": "/northamerica/unitedstates/florida/marcoisland/"
+  },
+  {
+    "embedding_text": "Freudenstadt, Baden-W\u00fcrttemberg, Germany, Europe",
+    "lat": 48.4638,
+    "latitude": 48.4638,
+    "lng": 8.4112,
+    "longitude": 8.4112,
+    "name": "Freudenstadt",
+    "parent": "Europe, Germany, Baden-W\u00fcrttemberg",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Baden-W\u00fcrttemberg"
+    ],
+    "path": "europe/germany/badenwrttemberg/freudenstadt",
+    "url": "/europe/germany/badenwrttemberg/freudenstadt/"
+  },
+  {
+    "embedding_text": "Van, Turkey, Asia",
+    "lat": 38.32496,
+    "latitude": 38.32496,
+    "lng": 43.658983,
+    "longitude": 43.658983,
+    "name": "Van",
+    "parent": "Asia, Turkey",
+    "parent_chain": [
+      "Asia",
+      "Turkey"
+    ],
+    "path": "asia/turkey/van",
+    "url": "/asia/turkey/van/"
+  }
+]

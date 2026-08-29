@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 35.6167
 longitude: 134.45
-score: 7.2
+score: 3.344
 snippet: Northern Hyogo hot-spring town where onsen villages meet the San'in Coast.
 wikidata: Q1154955
 sources:
@@ -15,6 +15,10 @@ image: shinonsen.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Yumura_onsen11s1920.jpg
 image_license: CC BY 2.5
 image_attribution: 663highland
+heritage: 3.348
+vibrancy: 2.31
+nature: 3.764
+off_the_beaten_track: 2.713
 ---
 
 Shinonsen is a scattered town on the Sea of Japan side of Hyogo, stitched together from hot-spring villages, small ports, mountains, and river valleys. The name sounds like a tourist slogan, but the onsen history is real: Yumura has been a hot-spring settlement since the ninth century, and its boiling source still sits in the middle of town.

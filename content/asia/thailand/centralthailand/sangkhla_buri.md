@@ -4,17 +4,22 @@ type: location
 loc_type: city
 latitude: 15.1556
 longitude: 98.4533
-score: 7.2
-snippet: Thai-Mon lakeside border town known for its wooden bridge, sunken temple, and Myanmar frontier.
+score: 3.329
+snippet: Thai-Mon lakeside border town known for its wooden bridge, sunken temple,
+  and Myanmar frontier.
 wikidata: Q476635
 sources:
-  - https://en.wikivoyage.org/wiki/Sangkhla_Buri
-  - https://www.thailandee.com/en/cities/to-see-to-visit-in-sangkhlaburi?name=Three+Pagoda+Pass
-  - https://www.travelfish.org/location/thailand/central_thailand/kanchanaburi/sangkhlaburi
+- https://en.wikivoyage.org/wiki/Sangkhla_Buri
+- https://www.thailandee.com/en/cities/to-see-to-visit-in-sangkhlaburi?name=Three+Pagoda+Pass
+- https://www.travelfish.org/location/thailand/central_thailand/kanchanaburi/sangkhlaburi
 image: sangkhla_buri.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mon-bridge_Sangkhlaburi.JPG
 image_license: CC0
 image_attribution: Mammalwatcher
+heritage: 4.036
+vibrancy: 2.021
+nature: 2.781
+off_the_beaten_track: 3.561
 ---
 
 Sangkhla Buri sits far up in Kanchanaburi province, where Khao Laem Reservoir reaches toward the Myanmar border and Thai, Mon, Karen, and Burmese worlds overlap. It is a long ride from [Kanchanaburi](/asia/thailand/centralthailand/kanchanaburi), but the reward is a town with a mood of its own rather than another river stop.

@@ -4,11 +4,15 @@ done:
 latitude: 44.773
 loc_type: city
 longitude: 17.196
-score: 7.24
+score: 4.773
 snippet: Riverside Bosnian city on the Vrbas, with Ottoman, Orthodox, and Habsburg
   landmarks close together.
 title: Banja Luka
 type: location
+heritage: 5.477
+vibrancy: 4.199
+nature: 4.594
+off_the_beaten_track: 3.502
 ---
 
 Banja Luka is the second-largest city in Bosnia and Herzegovina and the administrative centre of Republika Srpska, located on the Vrbas River in the north of the country. It is a city that surprises: more relaxed than Sarajevo, greener than expected, and with a riverside character defined by the fast, clear water of the Vrbas flowing through its centre.

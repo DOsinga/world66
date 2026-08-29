@@ -1,15 +1,20 @@
 ---
-latitude: 38.4400
+latitude: 38.44
 loc_type: city
 longitude: -0.6384
-score: 6.3
-snippet: Inland Alicante pottery town with working ceramic traditions and quiet local character.
+score: 5.692
+snippet: Inland Alicante pottery town with working ceramic traditions and quiet local
+  character.
 sources:
-  - https://en.wikivoyage.org/wiki/Agost
-  - https://www.wikidata.org/wiki/Q23990919
-  - https://en.wikipedia.org/wiki/Agost
+- https://en.wikivoyage.org/wiki/Agost
+- https://www.wikidata.org/wiki/Q23990919
+- https://en.wikipedia.org/wiki/Agost
 title: Agost
 type: location
+heritage: 4.603
+vibrancy: 5.58
+nature: 5.982
+off_the_beaten_track: 2.704
 ---
 
 Agost is a small inland town just outside Alicante, but it has one clear identity: ceramics. For centuries its clay, kilns, and workshops supplied everyday pottery, and the town still feels more local than the busy Costa Blanca coast.

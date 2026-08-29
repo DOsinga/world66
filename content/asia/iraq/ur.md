@@ -4,11 +4,15 @@ done:
 latitude: 30.961335
 loc_type: feature
 longitude: 46.105388
-score: 6.65
+score: 5.782
 snippet: Ancient Sumerian city site near Nasiriyah, dominated by Ur-Nammu's monumental
   brick ziggurat
 title: Ur
 type: location
+heritage: 6.863
+vibrancy: 1.709
+nature: 3.114
+off_the_beaten_track: 7.32
 ---
 
 Ur of the Chaldees is mentioned in the Bible as the birthplace of Abraham and was the capital of Sumeria during its greatest period of power. The site was first excavated between 1922 and 1934 by the British archaeologist Sir Leonard Woolley, whose discoveries — particularly the Royal Tombs — transformed understanding of the ancient world.

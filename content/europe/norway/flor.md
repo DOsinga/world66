@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Flor%C3%B8_city_view_(HDR,
 latitude: 61.600258
 loc_type: city
 longitude: 5.03496
-score: 7.25
+score: 5.006
 title: Florø
 type: location
 snippet: Norway's westernmost city, a working coastal harbour founded during the 19th-century
   herring boom.
+heritage: 2.724
+vibrancy: 1.847
+nature: 6.568
+off_the_beaten_track: 3.904
 ---
 
 Florø is Norway's westernmost city, sitting on a peninsula at the edge of the Sognefjord coast in western Norway. Founded in 1860 to serve the booming herring fisheries, it's a modest, genuine place with a working harbour, a compact town centre, and direct access to some extraordinary coastal scenery. It never made it onto the standard Norwegian tourist circuit, which is part of its appeal.

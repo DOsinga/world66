@@ -3,14 +3,19 @@ title: Kasaoka
 type: location
 loc_type: city
 latitude: 34.5039
-longitude: 133.5100
-score: 6.9
-snippet: Okayama port city for Seto Inland Sea islands, horseshoe crabs, flowers, and ramen.
+longitude: 133.51
+score: 3.69
+snippet: Okayama port city for Seto Inland Sea islands, horseshoe crabs, flowers,
+  and ramen.
 sources:
-  - https://en.wikivoyage.org/wiki/Kasaoka
-  - https://en.wikipedia.org/wiki/Shiraishi_Island
-  - https://www.kasaoka-kankou.jp/en/island/shiraishijima/
-  - https://www.kasaoka-kankou.jp/en/spot/2651/
+- https://en.wikivoyage.org/wiki/Kasaoka
+- https://en.wikipedia.org/wiki/Shiraishi_Island
+- https://www.kasaoka-kankou.jp/en/island/shiraishijima/
+- https://www.kasaoka-kankou.jp/en/spot/2651/
+heritage: 2.621
+vibrancy: 1.88
+nature: 4.609
+off_the_beaten_track: 3.25
 ---
 
 Kasaoka is a small port city on the western edge of Okayama Prefecture, useful for one clear reason: it opens onto the Kasaoka Islands. Shiraishi Island is the usual target, with beaches, walking paths, and Seto Inland Sea views close enough for a day but slow enough to feel removed from the main rail corridor.

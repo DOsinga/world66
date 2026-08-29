@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kasungu_lifupa2.jpg
 latitude: -12.992179
 loc_type: city
 longitude: 33.472454
-score: 5.55
+score: 5.916
 snippet: Central Malawi market town on tobacco plains, linked to Kamuzu Banda and
   Kasungu National Park.
 title: Kasungu
 type: location
+heritage: 2.649
+vibrancy: 1.296
+nature: 7.592
+off_the_beaten_track: 5.169
 ---
 
 Kasungu is a market town in central Malawi, 124km north of [Lilongwe](/africa/malawi/lilongwe) on the M1 highway. It sits on the fertile Kasungu-Lilongwe plain, surrounded by tobacco farms — tobacco has long been the economic engine here.

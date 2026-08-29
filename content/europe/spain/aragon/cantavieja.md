@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cantavieja_(Teruel,_Arag%C
 latitude: 40.525272
 loc_type: city
 longitude: -0.406213
-score: 7.37
+score: 5.338
 snippet: Fortified Maestrazgo hill village in Teruel, perched on a windy rocky spur
   above mountain country
 title: Cantavieja
 type: location
+heritage: 5.85
+vibrancy: 2.063
+nature: 5.794
+off_the_beaten_track: 4.318
 ---
 
 Cantavieja is a fortified hilltop village in Teruel province, perched on a rocky spur above the wild Maestrazgo mountains. It sits at over 1,300 metres and the winds that tear across its streets are a constant reminder of just how exposed the position is — yet that same position gives it a drama that stays with you.

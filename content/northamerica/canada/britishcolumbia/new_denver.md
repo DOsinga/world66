@@ -3,14 +3,19 @@ title: New Denver
 type: location
 loc_type: city
 latitude: 49.9917
-longitude: -117.3710
-score: 7.0
-snippet: Small Slocan Lake village with Japanese Canadian internment history and Selkirk mountain trails.
+longitude: -117.371
+score: 6.229
+snippet: Small Slocan Lake village with Japanese Canadian internment history and Selkirk
+  mountain trails.
 wikidata: Q2957439
 sources:
-  - https://en.wikivoyage.org/wiki/New_Denver
-  - https://newdenver.ca/nikkei/
-  - https://www.travel-british-columbia.com/kootenay-rockies/arrow-lakes-and-slocan-valley/new-denver/
+- https://en.wikivoyage.org/wiki/New_Denver
+- https://newdenver.ca/nikkei/
+- https://www.travel-british-columbia.com/kootenay-rockies/arrow-lakes-and-slocan-valley/new-denver/
+heritage: 5.111
+vibrancy: 1.861
+nature: 7.488
+off_the_beaten_track: 5.212
 ---
 
 New Denver is a small village on Slocan Lake in British Columbia's West Kootenays, quiet enough that it can look like a pause between more famous mountain towns. Stay a little longer and it becomes more distinct: lake shore, old mining country, Japanese Canadian internment history, and access to some fine Selkirk hiking.

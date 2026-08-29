@@ -2,7 +2,7 @@
 latitude: 35.9333
 loc_type: city
 longitude: 139.4833
-score: 7.72
+score: 6.172
 snippet: Edo-period warehouse town north of Tokyo, known for clay-walled merchants'
   houses and festival floats
 sources:
@@ -15,6 +15,10 @@ image: kawagoe.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Alley_in_Kawagoe.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Collin Grady
+heritage: 7.023
+vibrancy: 5.549
+nature: 4.259
+off_the_beaten_track: 1.271
 ---
 
 Kawagoe is a compact old merchant city in [Saitama](/asia/japan), close enough to [Tokyo](/asia/japan/kanto/tokyo) for an easy day trip but different enough to feel like a break from the capital. It made its money supplying Edo, and its best streets still carry the heavy clay-walled storehouses, tiled roofs, and wooden shop fronts that gave it the nickname **Koedo**, or Little Edo.

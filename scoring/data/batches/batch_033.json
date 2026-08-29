@@ -1,0 +1,786 @@
+[
+  {
+    "embedding_text": "Jun\u00edn de los Andes, Argentina, South America",
+    "lat": -39.950866,
+    "latitude": -39.950866,
+    "lng": -71.070888,
+    "longitude": -71.070888,
+    "name": "Jun\u00edn de los Andes",
+    "parent": "South America, Argentina",
+    "parent_chain": [
+      "South America",
+      "Argentina"
+    ],
+    "path": "southamerica/argentina/junindelosandes",
+    "url": "/southamerica/argentina/junindelosandes/"
+  },
+  {
+    "embedding_text": "Tapalpa, Mexico, North America",
+    "lat": 19.945,
+    "latitude": 19.945,
+    "lng": -103.7578,
+    "longitude": -103.7578,
+    "name": "Tapalpa",
+    "parent": "North America, Mexico",
+    "parent_chain": [
+      "North America",
+      "Mexico"
+    ],
+    "path": "northamerica/mexico/tapalpa",
+    "url": "/northamerica/mexico/tapalpa/"
+  },
+  {
+    "embedding_text": "Argassi, Zakinthos, Greece, Europe",
+    "lat": 37.7667,
+    "latitude": 37.7667,
+    "lng": 20.9167,
+    "longitude": 20.9167,
+    "name": "Argassi",
+    "parent": "Europe, Greece, Zakinthos",
+    "parent_chain": [
+      "Europe",
+      "Greece",
+      "Zakinthos"
+    ],
+    "path": "europe/greece/zakinthos/argassi",
+    "url": "/europe/greece/zakinthos/argassi/"
+  },
+  {
+    "embedding_text": "Old Mission Peninsula, Michigan, United States, North America",
+    "lat": 44.86,
+    "latitude": 44.86,
+    "lng": -85.52,
+    "longitude": -85.52,
+    "name": "Old Mission Peninsula",
+    "parent": "North America, United States, Michigan",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Michigan"
+    ],
+    "path": "northamerica/unitedstates/michigan/old_mission_peninsula",
+    "url": "/northamerica/unitedstates/michigan/old_mission_peninsula/"
+  },
+  {
+    "embedding_text": "Millesimo, Liguria, Italy, Europe",
+    "lat": 44.367536,
+    "latitude": 44.367536,
+    "lng": 8.201746,
+    "longitude": 8.201746,
+    "name": "Millesimo",
+    "parent": "Europe, Italy, Liguria",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Liguria"
+    ],
+    "path": "europe/italy/liguria/millesimo",
+    "url": "/europe/italy/liguria/millesimo/"
+  },
+  {
+    "embedding_text": "Gorontalo, Sulawesi, Indonesia, Asia",
+    "lat": 0.5411,
+    "latitude": 0.5411,
+    "lng": 123.0594,
+    "longitude": 123.0594,
+    "name": "Gorontalo",
+    "parent": "Asia, Indonesia, Sulawesi",
+    "parent_chain": [
+      "Asia",
+      "Indonesia",
+      "Sulawesi"
+    ],
+    "path": "asia/indonesia/sulawesi/gorontalo",
+    "url": "/asia/indonesia/sulawesi/gorontalo/"
+  },
+  {
+    "embedding_text": "Knighton, Wales, United Kingdom, Europe",
+    "lat": 52.344,
+    "latitude": 52.344,
+    "lng": -3.05,
+    "longitude": -3.05,
+    "name": "Knighton",
+    "parent": "Europe, United Kingdom, Wales",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Wales"
+    ],
+    "path": "europe/unitedkingdom/wales/knighton",
+    "url": "/europe/unitedkingdom/wales/knighton/"
+  },
+  {
+    "embedding_text": "Racine, Wisconsin, United States, North America",
+    "lat": 42.726111,
+    "latitude": 42.726111,
+    "lng": -87.805833,
+    "longitude": -87.805833,
+    "name": "Racine",
+    "parent": "North America, United States, Wisconsin",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Wisconsin"
+    ],
+    "path": "northamerica/unitedstates/wisconsin/racine",
+    "url": "/northamerica/unitedstates/wisconsin/racine/"
+  },
+  {
+    "embedding_text": "Glendive, Montana, United States, North America",
+    "lat": 47.1053,
+    "latitude": 47.1053,
+    "lng": -104.7125,
+    "longitude": -104.7125,
+    "name": "Glendive",
+    "parent": "North America, United States, Montana",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Montana"
+    ],
+    "path": "northamerica/unitedstates/montana/glendive",
+    "url": "/northamerica/unitedstates/montana/glendive/"
+  },
+  {
+    "embedding_text": "Lower Hutt, Greater Wellington, North Island, New Zealand, Australia, Pacific & Antarctica",
+    "lat": -41.212575,
+    "latitude": -41.212575,
+    "lng": 174.905763,
+    "longitude": 174.905763,
+    "name": "Lower Hutt",
+    "parent": "Australia, Pacific & Antarctica, New Zealand, North Island, Greater Wellington",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "New Zealand",
+      "North Island",
+      "Greater Wellington"
+    ],
+    "path": "australiaandpacific/newzealand/north_island/greater_wellington/lowerhutt",
+    "url": "/australiaandpacific/newzealand/north_island/greater_wellington/lowerhutt/"
+  },
+  {
+    "embedding_text": "Mytilini, Lesbos, Greece, Europe",
+    "lat": 39.103735,
+    "latitude": 39.103735,
+    "lng": 26.554788,
+    "longitude": 26.554788,
+    "name": "Mytilini",
+    "parent": "Europe, Greece, Lesbos",
+    "parent_chain": [
+      "Europe",
+      "Greece",
+      "Lesbos"
+    ],
+    "path": "europe/greece/lesbos/mytilini",
+    "url": "/europe/greece/lesbos/mytilini/"
+  },
+  {
+    "embedding_text": "Haghpat, Armenia, Europe",
+    "lat": 41.094419,
+    "latitude": 41.094419,
+    "lng": 44.711056,
+    "longitude": 44.711056,
+    "name": "Haghpat",
+    "parent": "Europe, Armenia",
+    "parent_chain": [
+      "Europe",
+      "Armenia"
+    ],
+    "path": "europe/armenia/haghpat",
+    "url": "/europe/armenia/haghpat/"
+  },
+  {
+    "embedding_text": "Luton, East of England, England, United Kingdom, Europe",
+    "lat": 51.891073,
+    "latitude": 51.891073,
+    "lng": -0.42303,
+    "longitude": -0.42303,
+    "name": "Luton",
+    "parent": "Europe, United Kingdom, England, East of England",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "East of England"
+    ],
+    "path": "europe/unitedkingdom/england/east_of_england/luton",
+    "url": "/europe/unitedkingdom/england/east_of_england/luton/"
+  },
+  {
+    "embedding_text": "Valle de Guadalupe, Baja California, Mexico, North America",
+    "lat": 32.097778,
+    "latitude": 32.097778,
+    "lng": -116.566944,
+    "longitude": -116.566944,
+    "name": "Valle de Guadalupe",
+    "parent": "North America, Mexico, Baja California",
+    "parent_chain": [
+      "North America",
+      "Mexico",
+      "Baja California"
+    ],
+    "path": "northamerica/mexico/bajacalifornia/valle_de_guadalupe",
+    "url": "/northamerica/mexico/bajacalifornia/valle_de_guadalupe/"
+  },
+  {
+    "embedding_text": "Cave Creek, Arizona, United States, North America",
+    "lat": 33.833,
+    "latitude": 33.833,
+    "lng": -111.946,
+    "longitude": -111.946,
+    "name": "Cave Creek",
+    "parent": "North America, United States, Arizona",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Arizona"
+    ],
+    "path": "northamerica/unitedstates/arizona/cave_creek",
+    "url": "/northamerica/unitedstates/arizona/cave_creek/"
+  },
+  {
+    "embedding_text": "Blumenau, Brazil, South America",
+    "lat": -26.9194,
+    "latitude": -26.9194,
+    "lng": -49.0661,
+    "longitude": -49.0661,
+    "name": "Blumenau",
+    "parent": "South America, Brazil",
+    "parent_chain": [
+      "South America",
+      "Brazil"
+    ],
+    "path": "southamerica/brazil/blumenal",
+    "url": "/southamerica/brazil/blumenal/"
+  },
+  {
+    "embedding_text": "Rochester, South East England, England, United Kingdom, Europe",
+    "lat": 51.3884,
+    "latitude": 51.3884,
+    "lng": 0.5049,
+    "longitude": 0.5049,
+    "name": "Rochester",
+    "parent": "Europe, United Kingdom, England, South East England",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "South East England"
+    ],
+    "path": "europe/unitedkingdom/england/south_east/rochester",
+    "url": "/europe/unitedkingdom/england/south_east/rochester/"
+  },
+  {
+    "embedding_text": "Kenmare, Ireland, Europe",
+    "lat": 51.8791,
+    "latitude": 51.8791,
+    "lng": -9.584,
+    "longitude": -9.584,
+    "name": "Kenmare",
+    "parent": "Europe, Ireland",
+    "parent_chain": [
+      "Europe",
+      "Ireland"
+    ],
+    "path": "europe/ireland/kenmare",
+    "url": "/europe/ireland/kenmare/"
+  },
+  {
+    "embedding_text": "Ilmenau, Thuringia, Germany, Europe",
+    "lat": 50.6839,
+    "latitude": 50.6839,
+    "lng": 10.9194,
+    "longitude": 10.9194,
+    "name": "Ilmenau",
+    "parent": "Europe, Germany, Thuringia",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Thuringia"
+    ],
+    "path": "europe/germany/thuringia/ilmenau",
+    "url": "/europe/germany/thuringia/ilmenau/"
+  },
+  {
+    "embedding_text": "Islas del Rosario, Colombia, South America",
+    "lat": 10.1767,
+    "latitude": 10.1767,
+    "lng": -75.7721,
+    "longitude": -75.7721,
+    "name": "Islas del Rosario",
+    "parent": "South America, Colombia",
+    "parent_chain": [
+      "South America",
+      "Colombia"
+    ],
+    "path": "southamerica/colombia/islasdelrosario",
+    "url": "/southamerica/colombia/islasdelrosario/"
+  },
+  {
+    "embedding_text": "Schiers, Switzerland, Europe",
+    "lat": 46.9689,
+    "latitude": 46.9689,
+    "lng": 9.69,
+    "longitude": 9.69,
+    "name": "Schiers",
+    "parent": "Europe, Switzerland",
+    "parent_chain": [
+      "Europe",
+      "Switzerland"
+    ],
+    "path": "europe/switzerland/schiers",
+    "url": "/europe/switzerland/schiers/"
+  },
+  {
+    "embedding_text": "Hancheng, Shaanxi Province, China, Asia",
+    "lat": 35.4769,
+    "latitude": 35.4769,
+    "lng": 110.4419,
+    "longitude": 110.4419,
+    "name": "Hancheng",
+    "parent": "Asia, China, Shaanxi Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Shaanxi Province"
+    ],
+    "path": "asia/china/shaanxi/hancheng",
+    "url": "/asia/china/shaanxi/hancheng/"
+  },
+  {
+    "embedding_text": "Abeokuta, Nigeria, Africa",
+    "lat": 7.161,
+    "latitude": 7.161,
+    "lng": 3.348,
+    "longitude": 3.348,
+    "name": "Abeokuta",
+    "parent": "Africa, Nigeria",
+    "parent_chain": [
+      "Africa",
+      "Nigeria"
+    ],
+    "path": "africa/nigeria/abeokuta",
+    "url": "/africa/nigeria/abeokuta/"
+  },
+  {
+    "embedding_text": "Cons-la-Grandville, Lorraine, France, Europe",
+    "lat": 49.485,
+    "latitude": 49.485,
+    "lng": 5.7019,
+    "longitude": 5.7019,
+    "name": "Cons-la-Grandville",
+    "parent": "Europe, France, Lorraine",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Lorraine"
+    ],
+    "path": "europe/france/lorraine/conslagrandville",
+    "url": "/europe/france/lorraine/conslagrandville/"
+  },
+  {
+    "embedding_text": "Carcross, The Yukon Territory, Canada, North America",
+    "lat": 60.166789,
+    "latitude": 60.166789,
+    "lng": -134.708665,
+    "longitude": -134.708665,
+    "name": "Carcross",
+    "parent": "North America, Canada, The Yukon Territory",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "The Yukon Territory"
+    ],
+    "path": "northamerica/canada/the_yukon_territory/carcross",
+    "url": "/northamerica/canada/the_yukon_territory/carcross/"
+  },
+  {
+    "embedding_text": "Pag Island, Croatia, Europe",
+    "lat": 44.45,
+    "latitude": 44.45,
+    "lng": 15.05,
+    "longitude": 15.05,
+    "name": "Pag Island",
+    "parent": "Europe, Croatia",
+    "parent_chain": [
+      "Europe",
+      "Croatia"
+    ],
+    "path": "europe/croatia/pag_island",
+    "url": "/europe/croatia/pag_island/"
+  },
+  {
+    "embedding_text": "Bacalar, Mexico, North America",
+    "lat": 18.6769,
+    "latitude": 18.6769,
+    "lng": -88.3953,
+    "longitude": -88.3953,
+    "name": "Bacalar",
+    "parent": "North America, Mexico",
+    "parent_chain": [
+      "North America",
+      "Mexico"
+    ],
+    "path": "northamerica/mexico/bacalar",
+    "url": "/northamerica/mexico/bacalar/"
+  },
+  {
+    "embedding_text": "San Ignacio, Belize, North America",
+    "lat": 17.1562,
+    "latitude": 17.1562,
+    "lng": -89.0706,
+    "longitude": -89.0706,
+    "name": "San Ignacio",
+    "parent": "North America, Belize",
+    "parent_chain": [
+      "North America",
+      "Belize"
+    ],
+    "path": "northamerica/belize/sanignacio",
+    "url": "/northamerica/belize/sanignacio/"
+  },
+  {
+    "embedding_text": "Thimphu, Bhutan, Asia",
+    "lat": 27.471355,
+    "latitude": 27.471355,
+    "lng": 89.633673,
+    "longitude": 89.633673,
+    "name": "Thimphu",
+    "parent": "Asia, Bhutan",
+    "parent_chain": [
+      "Asia",
+      "Bhutan"
+    ],
+    "path": "asia/bhutan/thimphu",
+    "url": "/asia/bhutan/thimphu/"
+  },
+  {
+    "embedding_text": "Kilimanjaro, Tanzania, Africa",
+    "lat": -3.078653,
+    "latitude": -3.078653,
+    "lng": 37.419856,
+    "longitude": 37.419856,
+    "name": "Kilimanjaro",
+    "parent": "Africa, Tanzania",
+    "parent_chain": [
+      "Africa",
+      "Tanzania"
+    ],
+    "path": "africa/tanzania/kilimanjaro",
+    "url": "/africa/tanzania/kilimanjaro/"
+  },
+  {
+    "embedding_text": "Joshua Tree, Deserts, California, United States, North America",
+    "lat": 34.135,
+    "latitude": 34.135,
+    "lng": -116.3153,
+    "longitude": -116.3153,
+    "name": "Joshua Tree",
+    "parent": "North America, United States, California, Deserts",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California",
+      "Deserts"
+    ],
+    "path": "northamerica/unitedstates/california/deserts/joshuatree",
+    "url": "/northamerica/unitedstates/california/deserts/joshuatree/"
+  },
+  {
+    "embedding_text": "Peshawar, Pakistan, Asia",
+    "lat": 34.012385,
+    "latitude": 34.012385,
+    "lng": 71.578746,
+    "longitude": 71.578746,
+    "name": "Peshawar",
+    "parent": "Asia, Pakistan",
+    "parent_chain": [
+      "Asia",
+      "Pakistan"
+    ],
+    "path": "asia/pakistan/peshawar",
+    "url": "/asia/pakistan/peshawar/"
+  },
+  {
+    "embedding_text": "Jericoacoara, Brazil, South America",
+    "lat": -2.7975,
+    "latitude": -2.7975,
+    "lng": -40.5137,
+    "longitude": -40.5137,
+    "name": "Jericoacoara",
+    "parent": "South America, Brazil",
+    "parent_chain": [
+      "South America",
+      "Brazil"
+    ],
+    "path": "southamerica/brazil/jericoacoara",
+    "url": "/southamerica/brazil/jericoacoara/"
+  },
+  {
+    "embedding_text": "Puhoi, Auckland Region, North Island, New Zealand, Australia, Pacific & Antarctica",
+    "lat": -36.512,
+    "latitude": -36.512,
+    "lng": 174.661,
+    "longitude": 174.661,
+    "name": "Puhoi",
+    "parent": "Australia, Pacific & Antarctica, New Zealand, North Island, Auckland Region",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "New Zealand",
+      "North Island",
+      "Auckland Region"
+    ],
+    "path": "australiaandpacific/newzealand/north_island/auckland_region/puhoi",
+    "url": "/australiaandpacific/newzealand/north_island/auckland_region/puhoi/"
+  },
+  {
+    "embedding_text": "Black Rock City, Nevada, United States, North America",
+    "lat": 40.793249,
+    "latitude": 40.793249,
+    "lng": -119.202879,
+    "longitude": -119.202879,
+    "name": "Black Rock City",
+    "parent": "North America, United States, Nevada",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Nevada"
+    ],
+    "path": "northamerica/unitedstates/nevada/blackrockcity",
+    "url": "/northamerica/unitedstates/nevada/blackrockcity/"
+  },
+  {
+    "embedding_text": "Cumberland, Maryland, United States, North America",
+    "lat": 39.6529,
+    "latitude": 39.6529,
+    "lng": -78.7625,
+    "longitude": -78.7625,
+    "name": "Cumberland",
+    "parent": "North America, United States, Maryland",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Maryland"
+    ],
+    "path": "northamerica/unitedstates/maryland/cumberland",
+    "url": "/northamerica/unitedstates/maryland/cumberland/"
+  },
+  {
+    "embedding_text": "Sterling, Utah, United States, North America",
+    "lat": 39.2083,
+    "latitude": 39.2083,
+    "lng": -111.693,
+    "longitude": -111.693,
+    "name": "Sterling",
+    "parent": "North America, United States, Utah",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Utah"
+    ],
+    "path": "northamerica/unitedstates/utah/sterling",
+    "url": "/northamerica/unitedstates/utah/sterling/"
+  },
+  {
+    "embedding_text": "Wadi Shab, Oman, Asia",
+    "lat": 22.3558,
+    "latitude": 22.3558,
+    "lng": 59.3006,
+    "longitude": 59.3006,
+    "name": "Wadi Shab",
+    "parent": "Asia, Oman",
+    "parent_chain": [
+      "Asia",
+      "Oman"
+    ],
+    "path": "asia/oman/wadi_shab",
+    "url": "/asia/oman/wadi_shab/"
+  },
+  {
+    "embedding_text": "Nonthaburi, Thailand, Asia",
+    "lat": 13.8611,
+    "latitude": 13.8611,
+    "lng": 100.5147,
+    "longitude": 100.5147,
+    "name": "Nonthaburi",
+    "parent": "Asia, Thailand",
+    "parent_chain": [
+      "Asia",
+      "Thailand"
+    ],
+    "path": "asia/thailand/nonthaburi_2",
+    "url": "/asia/thailand/nonthaburi_2/"
+  },
+  {
+    "embedding_text": "Sakakah, Saudi Arabia, Asia",
+    "lat": 29.978401,
+    "latitude": 29.978401,
+    "lng": 40.20477,
+    "longitude": 40.20477,
+    "name": "Sakakah",
+    "parent": "Asia, Saudi Arabia",
+    "parent_chain": [
+      "Asia",
+      "Saudi Arabia"
+    ],
+    "path": "asia/saudiarabia/sakakah",
+    "url": "/asia/saudiarabia/sakakah/"
+  },
+  {
+    "embedding_text": "Lamu, The Coast, Kenya, Africa",
+    "lat": -2.2675,
+    "latitude": -2.2675,
+    "lng": 40.9011,
+    "longitude": 40.9011,
+    "name": "Lamu",
+    "parent": "Africa, Kenya, The Coast",
+    "parent_chain": [
+      "Africa",
+      "Kenya",
+      "The Coast"
+    ],
+    "path": "africa/kenya/thecoast/lamu",
+    "url": "/africa/kenya/thecoast/lamu/"
+  },
+  {
+    "embedding_text": "Ajman, United Arab Emirates, Asia",
+    "lat": 25.4052,
+    "latitude": 25.4052,
+    "lng": 55.5136,
+    "longitude": 55.5136,
+    "name": "Ajman",
+    "parent": "Asia, United Arab Emirates",
+    "parent_chain": [
+      "Asia",
+      "United Arab Emirates"
+    ],
+    "path": "asia/unitedarabemirates/ajman",
+    "url": "/asia/unitedarabemirates/ajman/"
+  },
+  {
+    "embedding_text": "Anantapur, Andhra Pradesh, India, Asia",
+    "lat": 14.6819,
+    "latitude": 14.6819,
+    "lng": 77.6006,
+    "longitude": 77.6006,
+    "name": "Anantapur",
+    "parent": "Asia, India, Andhra Pradesh",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Andhra Pradesh"
+    ],
+    "path": "asia/india/andhrapradesh/ananthapur",
+    "url": "/asia/india/andhrapradesh/ananthapur/"
+  },
+  {
+    "embedding_text": "Kufstein, Austria, Europe",
+    "lat": 47.583,
+    "latitude": 47.583,
+    "lng": 12.1692,
+    "longitude": 12.1692,
+    "name": "Kufstein",
+    "parent": "Europe, Austria",
+    "parent_chain": [
+      "Europe",
+      "Austria"
+    ],
+    "path": "europe/austria/kufstein",
+    "url": "/europe/austria/kufstein/"
+  },
+  {
+    "embedding_text": "General Santos City, Philippines, Asia",
+    "lat": 6.1119,
+    "latitude": 6.1119,
+    "lng": 125.1716,
+    "longitude": 125.1716,
+    "name": "General Santos City",
+    "parent": "Asia, Philippines",
+    "parent_chain": [
+      "Asia",
+      "Philippines"
+    ],
+    "path": "asia/philippines/generalsantoscity",
+    "url": "/asia/philippines/generalsantoscity/"
+  },
+  {
+    "embedding_text": "Limon, Costa Rica, North America",
+    "lat": 9.9907,
+    "latitude": 9.9907,
+    "lng": -83.036,
+    "longitude": -83.036,
+    "name": "Limon",
+    "parent": "North America, Costa Rica",
+    "parent_chain": [
+      "North America",
+      "Costa Rica"
+    ],
+    "path": "northamerica/costarica/limon",
+    "url": "/northamerica/costarica/limon/"
+  },
+  {
+    "embedding_text": "Wymondham, East of England, England, United Kingdom, Europe",
+    "lat": 52.57,
+    "latitude": 52.57,
+    "lng": 1.116,
+    "longitude": 1.116,
+    "name": "Wymondham",
+    "parent": "Europe, United Kingdom, England, East of England",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "East of England"
+    ],
+    "path": "europe/unitedkingdom/england/east_of_england/wymondham",
+    "url": "/europe/unitedkingdom/england/east_of_england/wymondham/"
+  },
+  {
+    "embedding_text": "Morella, Castell\u00f3n, Spain, Europe",
+    "lat": 40.618828,
+    "latitude": 40.618828,
+    "lng": -0.099803,
+    "longitude": -0.099803,
+    "name": "Morella",
+    "parent": "Europe, Spain, Castell\u00f3n",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Castell\u00f3n"
+    ],
+    "path": "europe/spain/castellon/morella",
+    "url": "/europe/spain/castellon/morella/"
+  },
+  {
+    "embedding_text": "Stirling, Scotland, United Kingdom, Europe",
+    "lat": 56.1165,
+    "latitude": 56.1165,
+    "lng": -3.9369,
+    "longitude": -3.9369,
+    "name": "Stirling",
+    "parent": "Europe, United Kingdom, Scotland",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Scotland"
+    ],
+    "path": "europe/unitedkingdom/scotland/stirling",
+    "url": "/europe/unitedkingdom/scotland/stirling/"
+  },
+  {
+    "embedding_text": "Lockhart, New South Wales, Australia, Australia, Pacific & Antarctica",
+    "lat": -35.2167,
+    "latitude": -35.2167,
+    "lng": 146.7167,
+    "longitude": 146.7167,
+    "name": "Lockhart",
+    "parent": "Australia, Pacific & Antarctica, Australia, New South Wales",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "New South Wales"
+    ],
+    "path": "australiaandpacific/australia/newsouthwales/lockhart",
+    "url": "/australiaandpacific/australia/newsouthwales/lockhart/"
+  }
+]

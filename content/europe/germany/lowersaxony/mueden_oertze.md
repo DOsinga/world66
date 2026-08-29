@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 52.8767
 longitude: 10.1194
-score: 6.7
-snippet: Lüneburg Heath village where two small rivers meet beside woods, heath, and old brick church walls.
+score: 4.156
+snippet: Lüneburg Heath village where two small rivers meet beside woods, heath, and
+  old brick church walls.
 sources:
-  - https://en.wikivoyage.org/wiki/M%C3%BCden_(%C3%96rtze)
-  - https://en.wikipedia.org/wiki/M%C3%BCden_(%C3%96rtze)
+- https://en.wikivoyage.org/wiki/M%C3%BCden_(%C3%96rtze)
+- https://en.wikipedia.org/wiki/M%C3%BCden_(%C3%96rtze)
+heritage: 3.358
+vibrancy: 1.413
+nature: 5.019
+off_the_beaten_track: 3.069
 ---
 
 Müden (Örtze) is a small heath village in Lower Saxony, set where the Wietze and Örtze rivers meet on the southern edge of the Lüneburg Heath. It is quiet, old-fashioned, and best approached as a walking base rather than a town of big sights.

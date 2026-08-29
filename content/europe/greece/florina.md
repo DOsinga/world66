@@ -5,11 +5,15 @@ done:
 latitude: 40.7794
 loc_type: city
 longitude: 21.4075
-score: 7.18
+score: 4.554
 snippet: Northwestern Greek city near the Prespa Lakes, surrounded by rugged mountains
   and forested valleys.
 title: Florina
 type: location
+heritage: 4.17
+vibrancy: 2.719
+nature: 5.291
+off_the_beaten_track: 3.528
 ---
 
 Florina is a small city in the northwest corner of Greece, close to the borders with North Macedonia and Albania. The surrounding area is one of Greece's most scenically beautiful — rugged mountain terrain, forested valleys, and two remarkable lakes: the [Prespa Lakes National Park](/europe/greece/florina/prespa_lakes) — Mikri Prespa and Megali Prespa — shared between Greece, North Macedonia, and Albania.

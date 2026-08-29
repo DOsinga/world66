@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 55.674903
 longitude: -3.777019
-score: 7.0
-snippet: Scottish market town above New Lanark, the Clyde falls, and wooded sandstone ravines
+score: 5.287
+snippet: Scottish market town above New Lanark, the Clyde falls, and wooded sandstone
+  ravines
 sources:
-  - https://en.wikivoyage.org/wiki/Lanark
-  - https://newlanark.org/
+- https://en.wikivoyage.org/wiki/Lanark
+- https://newlanark.org/
+heritage: 4.819
+vibrancy: 1.766
+nature: 6.152
+off_the_beaten_track: 4.684
 ---
 
 Lanark is a modest market town in the upper Clyde Valley, and by itself it would be easy to pass over. Its strength is what lies just below and around it: [New Lanark](/europe/unitedkingdom/scotland/new_lanark), a preserved 18th-century mill village and UNESCO World Heritage Site, and the [Falls of Clyde](/europe/unitedkingdom/scotland/new_lanark/falls_of_clyde), where the river drops through wooded ravines.

@@ -6,11 +6,15 @@ done:
 latitude: 42.9317
 loc_type: city
 longitude: -76.5661
-score: 6.05
+score: 4.233
 snippet: Finger Lakes city with Harriet Tubman's home, Owasco Lake, and handsome nineteenth-century
   brick streets.
 title: Auburn
 type: location
+heritage: 4.132
+vibrancy: 2.917
+nature: 4.81
+off_the_beaten_track: 1.249
 ---
 
 Auburn sits at the north end of [Owasco Lake](/northamerica/unitedstates/newyorkstate/auburn/owasco_lake) in the Finger Lakes region of central New York. It is a small city with an outsized place in American history — most notably as the home of Harriet Tubman, who settled here after escaping slavery and continued her work for freedom and justice until her death in 1913.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Prescott,_Arizona_(1013093
 latitude: 34.539984
 loc_type: city
 longitude: -112.468812
-score: 7.5
+score: 4.892
 snippet: Former Arizona territorial capital in pine-covered high country, centred
   on Courthouse Plaza and Whiskey Row.
 title: Prescott
 type: location
+heritage: 3.651
+vibrancy: 3.866
+nature: 5.715
+off_the_beaten_track: 3.228
 ---
 
 Prescott (locals say PRESS-kit) is a former territorial capital in the mountains of central Arizona, about 100 miles north of Phoenix. At 1,600 metres it escapes the worst of the desert heat, and its pine-covered hills and mild summers have made it a popular retreat for Arizonans.

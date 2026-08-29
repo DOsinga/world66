@@ -5,13 +5,18 @@ loc_type: city
 latitude: 47.692845
 longitude: -116.77991
 wikidata: Q499681
-score: 7.2
-snippet: North Idaho lake city where forested hills, public beaches, and a walkable downtown meet.
+score: 5.398
+snippet: North Idaho lake city where forested hills, public beaches, and a walkable
+  downtown meet.
 sources:
-  - https://en.wikivoyage.org/wiki/Coeur_d'Alene
-  - https://visitnorthidaho.com/activity/lake-coeur-dalene/
-  - https://www.cdaid.org/tubbs-hill
-  - https://museumni.org/
+- https://en.wikivoyage.org/wiki/Coeur_d'Alene
+- https://visitnorthidaho.com/activity/lake-coeur-dalene/
+- https://www.cdaid.org/tubbs-hill
+- https://museumni.org/
+heritage: 3.928
+vibrancy: 5.02
+nature: 5.941
+off_the_beaten_track: 1.823
 ---
 
 Coeur d'Alene sits on the north shore of Lake Coeur d'Alene, close enough to [Spokane](/northamerica/unitedstates/washington/spokane) to be easy, but with a clearer holiday mood than most cities its size. The lake is the point: a long blue sheet of water edged by forested hills, beaches, marinas, and trails.

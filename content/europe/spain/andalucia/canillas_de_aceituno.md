@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Vista_de_Canillas_de_Aceit
 latitude: 36.873167
 loc_type: city
 longitude: -4.082126
-score: 6.95
+score: 4.023
 snippet: White Axarquía village below the Sierra de Tejeda, used as a base for La
   Maroma walks.
 title: Canillas de Aceituno
 type: location
+heritage: 3.318
+vibrancy: 1.751
+nature: 4.829
+off_the_beaten_track: 2.874
 ---
 
 Canillas de Aceituno is a small white village in the Axarquía region of Málaga province, in the foothills of the Sierra de Tejeda. The road up from the coast winds through olive and almond groves before the village appears as a cluster of white-walled houses around a church and a couple of small squares.

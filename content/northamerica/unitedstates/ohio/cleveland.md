@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2024_Solar_Eclipse_over_Cl
 latitude: 41.499657
 loc_type: city
 longitude: -81.693677
-score: 6.72
+score: 5.691
 snippet: Lake Erie city of music museums, serious cultural institutions, and neighborhood
   food scenes from Ohio City to Little Italy.
 title: Cleveland
 type: location
+heritage: 4.681
+vibrancy: 6.117
+nature: 2.464
+off_the_beaten_track: 0.6
 ---
 
 Cleveland sits on the southern shore of Lake Erie, a city that punches well above its weight in culture, food, and music. It is home to the **Rock and Roll Hall of Fame**, one of the most visited museums in the Midwest, and its cultural institutions in University Circle rival those of cities twice its size.

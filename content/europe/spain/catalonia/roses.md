@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Roses_mit_Sporthafen.jpg
 latitude: 42.263202
 loc_type: city
 longitude: 3.175533
-score: 8.16
+score: 4.585
 snippet: Northern Costa Brava resort on a wide sandy bay, with fishing harbour, beaches,
   and Greek-Roman remains.
 tags:
 - costa_brava
 title: Roses
 type: location
+heritage: 4.856
+vibrancy: 4.446
+nature: 4.944
+off_the_beaten_track: 3.143
 ---
 
 Roses is the largest resort on the northern stretch of the Costa Brava, sitting on a wide sandy bay just 30 kilometres south of the French border. It is less exclusive than nearby [Cadaqués](/europe/spain/catalonia/cadaqus) and less hectic than the southern Costa Brava mega-resorts — a family-friendly town with good [beaches](/europe/spain/catalonia/roses/playa_de_roses), a [fishing harbour](/europe/spain/catalonia/roses/port_de_roses) that still functions, and the [ruined 16th-century Ciutadella](/europe/spain/catalonia/roses/ciutadella_de_roses) overlooking it all.

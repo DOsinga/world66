@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Banco_Naci%C3%B3n_de_Bah%C
 latitude: -38.717652
 loc_type: city
 longitude: -62.265487
-score: 6.37
+score: 4.98
 snippet: Working Argentine port city and Patagonia gateway with a lively university
   centre around Plaza Rivadavia.
 title: Bahía Blanca
 type: location
+heritage: 2.495
+vibrancy: 4.415
+nature: 5.585
+off_the_beaten_track: 1.642
 ---
 
 Bahía Blanca is a major port city in southern Buenos Aires province, the gateway to Patagonia and the largest urban centre between [Buenos Aires](/southamerica/argentina/buenosaires) and the south. It is a working city rather than a tourist destination, but it has a lively university atmosphere thanks to the [Universidad Nacional del Sur](/southamerica/argentina/bahiablanca/universidad_nacional_del_sur), and serves as a practical base for exploring the surrounding coast and mountains.

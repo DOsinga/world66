@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Llanes_12_26_07_019000.jpe
 latitude: 43.421121
 loc_type: city
 longitude: -4.753083
-score: 8.09
+score: 6.161
 title: Llanes
 type: location
 snippet: Asturian coastal town between the Cantabrian Sea and Picos de Europa, with
   beaches and blowholes.
+heritage: 4.99
+vibrancy: 3.992
+nature: 7.434
+off_the_beaten_track: 2.433
 ---
 
 Llanes is a small coastal town in eastern Asturias, wedged between the Cantabrian Sea and the Picos de Europa mountains. The combination is extraordinary — you can swim on a beach in the morning and be hiking in serious mountain country by lunch. The old town, built around a medieval harbour, still has its walls and towers, and the port fills with fishing boats that supply the restaurants along the waterfront.

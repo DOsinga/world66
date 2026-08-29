@@ -4,7 +4,7 @@ done:
 latitude: -12.776667
 loc_type: city
 longitude: 15.734722
-score: 5.92
+score: 4.775
 snippet: Angolan highland city planned as Nova Lisboa, still shaped by railways and
   civil-war scars.
 sources:
@@ -18,6 +18,10 @@ image: huambo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Huambo,_Pal%C3%A1cio_do_Governador_(cropped2).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Abanul
+heritage: 4.761
+vibrancy: 2.966
+nature: 5.348
+off_the_beaten_track: 6.729
 ---
 
 Huambo sits high on Angola's central plateau, a cooler, greener city once planned by the Portuguese as Nova Lisboa. That ambition is still visible in the broad civic spaces around [Praça de Agostinho Neto](/africa/angola/huambo/praca_de_agostinho_neto), though the civil war left the city battered and recovery is still uneven.

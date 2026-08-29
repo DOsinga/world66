@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bremgarten,_Aargau_Switzer
 latitude: 47.3528
 loc_type: city
 longitude: 8.3336
-score: 7.22
+score: 4.888
 snippet: Medieval Aargau town wrapped by the Reuss River, with half-timbered houses
   and a covered bridge.
 title: Bremgarten
 type: location
+heritage: 3.824
+vibrancy: 2.232
+nature: 5.956
+off_the_beaten_track: 2.291
 ---
 
 Bremgarten is a small medieval town in canton Aargau, wrapped on three sides by a wide loop of the Reuss river. The [old town](/europe/switzerland/bremgarten/altstadt) is remarkably well preserved — a tight cluster of half-timbered buildings, a covered wooden bridge, and a hilltop church that overlooks the river bend. It's the kind of town that photographers find immediately and tourists mostly miss, sitting just 20 kilometres west of [Zurich](/europe/switzerland/zurich).

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 47.3141
 longitude: 18.7887
-score: 6.4
+score: 3.51
 snippet: Beethoven-linked Hungarian town centred on the Brunszvik palace and its park.
 sources:
 - https://en.wikivoyage.org/wiki/Martonv%C3%A1s%C3%A1r
@@ -15,6 +15,10 @@ image: martonvasar.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Martonv%C3%A1s%C3%A1r,_Brunszvik-kast%C3%A9ly_2020_10.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Pasztilla aka Attila Terbócs
+heritage: 4.14
+vibrancy: 2.066
+nature: 3.196
+off_the_beaten_track: 2.637
 ---
 
 Martonvásár is a small town in Fejér County, about half an hour southwest of [Budapest](/europe/hungary/budapest) by train. Its reason to stop is clear: the Brunszvik estate, where a white neo-Gothic palace stands in a protected park and keeps the memory of Ludwig van Beethoven's friendship with the Brunszvik family.

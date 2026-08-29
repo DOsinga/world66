@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Brandaris,_Terschelling_-_
 latitude: 53.394717
 loc_type: feature
 longitude: 5.28768
-score: 0.55
+score: 5.929
 snippet: Dutch Wadden island of dunes, salt marshes, cycling paths, and the Brandaris
   lighthouse.
 tags:
 - waddenislands
 title: Terschelling
 type: location
+heritage: 3.817
+vibrancy: 3.516
+nature: 7.491
+off_the_beaten_track: 3.713
 ---
 
 Terschelling is the second-largest of the Dutch [Wadden Islands](/europe/netherlands/waddenislands), a long, narrow strip of dunes, forests, and salt marshes between the North Sea and the Wadden Sea. The island is about 30 km long but rarely more than 4 km wide, and most of it is nature reserve.

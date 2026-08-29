@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Plaza_del_Torico_(Teruel).
 latitude: 40.6005
 loc_type: city
 longitude: -0.9229
-score: 7.74
+score: 4.075
 snippet: High Aragonese provincial capital whose Mudéjar towers form a compact UNESCO-listed
   old centre
 title: Teruel
 type: location
+heritage: 4.856
+vibrancy: 2.782
+nature: 3.597
+off_the_beaten_track: 3.319
 ---
 
 Teruel is a small provincial capital in Aragon, perched on a high plateau between Madrid and Valencia. It's not large and its sights aren't far apart — you can cover the highlights on foot in a day. What makes it remarkable is its collection of Mudéjar architecture: four towers decorated in elaborate geometric brickwork and glazed ceramic tiles, all dating from the 13th to 16th centuries and collectively named a UNESCO World Heritage Site. The finest is [El Salvador Tower](/europe/spain/aragon/teruel/torre_el_salvador), which you can climb for views across the city; [San Martín Tower](/europe/spain/aragon/teruel/torre_san_martin), the [Cathedral](/europe/spain/aragon/teruel/teruel_cathedral), and the tower of [San Pedro](/europe/spain/aragon/teruel/san_pedro_los_amantes) complete the quartet.

@@ -8,11 +8,15 @@ image_source: https://www.flickr.com/photos/64073077@N06/54190330743
 latitude: -34.1834
 loc_type: city
 longitude: 142.1628
-score: 6.73
+score: 4.096
 snippet: Murray River city where outback edges meet irrigated citrus, vineyards, and
   a multicultural food scene.
 title: Mildura
 type: location
+heritage: 4.292
+vibrancy: 2.795
+nature: 4.53
+off_the_beaten_track: 1.938
 ---
 
 Mildura sits on the Murray River in Victoria's far northwest, where the outback meets irrigated orchards and vineyards. The region has a warm, dry climate and a surprisingly cosmopolitan feel thanks to its multicultural population and thriving food and wine scene. The surrounding towns of Red Cliffs, Irymple, and Merbein are part of a productive agricultural belt known for citrus, dried fruits, and wine grapes.

@@ -15,7 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Dove_Lake_(Tasmania)
 title: Cradle Mountain
 type: location
-score: 8.7
+score: 5.788
+heritage: 2.145
+vibrancy: 1.267
+nature: 7.475
+off_the_beaten_track: 4.905
 ---
 
 Cradle Mountain is Tasmania's postcard wilderness, but it is not tame scenery. The mountain rises above glacial lakes, button grass moorland, pencil-pine forest, and weather that can switch from sun to sleet in a single walk. It is the northern gateway to Cradle Mountain-Lake St Clair National Park and the start of the Overland Track, one of Australia's classic multi-day hikes.

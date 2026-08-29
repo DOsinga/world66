@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 48.5569
 longitude: -113.0144
-score: 6.65
-snippet: Blackfeet Reservation town east of Glacier, with Plains Indian art, bison, and powwow culture.
+score: 5.672
+snippet: Blackfeet Reservation town east of Glacier, with Plains Indian art, bison,
+  and powwow culture.
 sources:
-  - https://en.wikivoyage.org/wiki/Browning
-  - https://en.wikipedia.org/wiki/Browning,_Montana
-  - https://en.wikipedia.org/wiki/Blackfeet_Nation
+- https://en.wikivoyage.org/wiki/Browning
+- https://en.wikipedia.org/wiki/Browning,_Montana
+- https://en.wikipedia.org/wiki/Blackfeet_Nation
+heritage: 3.998
+vibrancy: 2.285
+nature: 7.097
+off_the_beaten_track: 4.711
 ---
 
 Browning is the main town of the Blackfeet Reservation, just east of Glacier National Park. Many travellers pass through it on the way to the mountains, but the town is not only a service stop. Its strongest reason to pause is Blackfeet culture: museum collections, art, bison, and one of the major Native gatherings in the northern Rockies.

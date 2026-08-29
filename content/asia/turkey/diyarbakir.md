@@ -6,7 +6,7 @@ done:
 latitude: 37.9162
 loc_type: city
 longitude: 40.2363
-score: 7.46
+score: 6.446
 snippet: Kurdish-majority city enclosed by black basalt walls above the Tigris and
   Hevsel gardens.
 sources:
@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Hevsel_Gardens
 title: Diyarbakir
 type: location
+heritage: 7.232
+vibrancy: 6.004
+nature: 4.137
+off_the_beaten_track: 6.077
 ---
 
 Diyarbakır is defined by its walls — a nearly continuous 6km circuit of black basalt built by the Romans and extended by successive rulers over two millennia. Walk stretches of the top for views over the old city rooftops, the Tigris valley below, and the flat steppe stretching south toward Syria. The walls were inscribed as a UNESCO World Heritage Site in 2015, together with the hevsel bahçeleri — seven hundred hectares of market gardens in the flood plain below the walls, cultivated since the Neolithic.

@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/66261544@N06/7170226339
 latitude: 60.86
 loc_type: city
 longitude: 8.3835
-score: 8.28
+score: 5.409
 snippet: Norwegian mountain village built around reliable skiing, high valley scenery,
   and summer trails.
 title: Hemsedal
 type: location
+heritage: 2.622
+vibrancy: 2.268
+nature: 7.273
+off_the_beaten_track: 3.474
 ---
 
 Hemsedal calls itself the Scandinavian Alps, which is marketing, but not entirely wrong. The [ski area](/europe/norway/hemsedal/hemsedal_ski_area) is one of Norway's largest and most reliable for snow, with terrain that ranges from gentle family slopes to serious off-piste above the treeline. It draws skiers from [Oslo](/europe/norway/oslo) (three hours by car) and increasingly from abroad, though it remains far less crowded than the big Alpine resorts.

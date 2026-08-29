@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:PALACIO_LEGISLATIVO_01.JPG
 latitude: -34.905892
 loc_type: city
 longitude: -56.19131
-score: 8.17
+score: 5.665
 title: Montevideo
 snippet: Uruguay's walkable Río de la Plata capital, mixing faded grandeur, café culture,
   and waterfront promenades
 type: location
+heritage: 5.761
+vibrancy: 5.671
+nature: 3.767
+off_the_beaten_track: 1.647
 ---
 
 Montevideo is the capital of Uruguay and home to about half the country's population — a compact, walkable city on a promontory between the Río de la Plata and an inner bay. It has a strong European character, the result of large-scale immigration from Spain, Italy, and later central Europe, but it also has something distinctly Rioplatense: the same mix of faded grandeur, café culture, and waterfront promenades that defines Buenos Aires across the water, but quieter and less frantic.

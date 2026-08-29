@@ -6,7 +6,7 @@ done:
 latitude: 16.720456
 loc_type: city
 longitude: -22.938676
-score: 8.44
+score: 5.133
 snippet: Flat Cape Verdean island of salt flats, trade winds, resort beaches, and
   warm Atlantic water
 title: Sal
@@ -15,6 +15,10 @@ image: sal.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2014_Cape_Verde._Sal._Saltkratern_(2).JPEG
 image_license: CC BY-SA 3.0
 image_attribution: Daniel Åhs Karlsson
+heritage: 2.915
+vibrancy: 1.79
+nature: 6.62
+off_the_beaten_track: 4.377
 ---
 
 Sal is the flattest and most arid island in Cape Verde — a disc of volcanic rock and sand in the middle of the Atlantic with barely a tree in sight. It is also the most visited, thanks almost entirely to its international airport, which deposits European package tourists directly into the resort village of [Santa Maria](/africa/capeverde/sal/santa_maria_beach) on the south coast.

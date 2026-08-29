@@ -7,7 +7,7 @@ done:
 latitude: 14.3561
 loc_type: city
 longitude: 100.5688
-score: 9.22
+score: 5.48
 snippet: Former Siamese capital of island ruins, brick prangs, and riverbank monasteries
   north of Bangkok
 title: Ayutthaya
@@ -16,6 +16,10 @@ image: ayutthaya.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ayutthaya,_Elephant_festival,_Thailand.jpg
 image_license: CC BY 4.0
 image_attribution: Vyacheslav Argenberg
+heritage: 7.312
+vibrancy: 2.742
+nature: 2.415
+off_the_beaten_track: 2.847
 ---
 
 For over four centuries, Ayutthaya was the capital of Siam and one of the largest cities in the world. Founded in 1350 on an island at the confluence of three rivers, it grew into a cosmopolitan trading hub that hosted merchants from China, Japan, India, Persia, and Europe. In 1767, Burmese armies burned it to the ground.

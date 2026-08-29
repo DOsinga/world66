@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:20250410_View_of_Ventura_0
 latitude: 34.2746
 loc_type: city
 longitude: -119.229
-score: 7.23
+score: 4.712
 snippet: Low-key Central Coast city with Mission San Buenaventura, a working harbour,
   and Channel Islands boats
 title: Ventura
 type: location
+heritage: 2.164
+vibrancy: 3.735
+nature: 5.499
+off_the_beaten_track: 1.871
 ---
 
 Ventura (officially San Buenaventura) is a low-key coastal city between Los Angeles and Santa Barbara, with a long beach, a revitalised downtown, and a working harbour. It has much of the appeal of Santa Barbara at lower prices and without the crowds.

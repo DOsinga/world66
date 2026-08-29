@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Alexandria_-_Egypt.jpg
 latitude: 31.199181
 loc_type: city
 longitude: 29.895172
-score: 8.58
+score: 5.997
 snippet: Mediterranean Egyptian port city where ancient scholarship, faded European
   architecture, and modern corniche life meet.
 title: Alexandria
 type: location
+heritage: 7.411
+vibrancy: 4.2
+nature: 1.903
+off_the_beaten_track: 4.232
 ---
 
 Alexandria is Egypt's great Mediterranean city -- a place where ancient history, faded European elegance, and modern Egyptian life collide along a curving seafront corniche. While most visitors to Egypt head south to the temples and tombs, Alexandria rewards those who turn north.

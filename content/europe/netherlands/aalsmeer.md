@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/68359921@N08/45928347571
 latitude: 52.266944
 loc_type: city
 longitude: 4.749338
-score: 6.93
+score: 4.295
 snippet: Dutch town near Amsterdam known for Royal FloraHolland, the world's largest
   flower auction complex.
 title: Aalsmeer
 type: location
+heritage: 1.955
+vibrancy: 3.052
+nature: 5.182
+off_the_beaten_track: 1.303
 ---
 
 Aalsmeer is a small Dutch town about 20 km southwest of Amsterdam, best known for one extraordinary fact: the [Royal FloraHolland flower auction](/europe/netherlands/aalsmeer/royal_floraholland) located here is the largest flower auction — and one of the largest buildings by footprint — in the world. On a typical morning, some 12 to 20 million cut flowers and plants change hands in its vast halls before being trucked to nearby Schiphol Airport and flown to destinations across Europe and beyond. Roses from Kenya and tulips from Dutch greenhouses are auctioned, packed, and gone within a few hours of arrival.

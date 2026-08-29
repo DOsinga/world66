@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/22490717@N02/43856423895
 latitude: 45.3953
 loc_type: city
 longitude: -75.8478
-score: 6.26
+score: 4.477
 snippet: Historic Gatineau neighbourhood on Lac Deschênes, with Ottawa River cycling
   and a small-town main street.
 title: Aylmer
 type: location
+heritage: 3.623
+vibrancy: 2.999
+nature: 5.404
+off_the_beaten_track: 1.964
 ---
 
 Aylmer is a historic neighbourhood in the western part of [Gatineau](/northamerica/canada/quebec/gatineau), across the Ottawa River from Canada's capital. It was an independent town until 2002, when it was merged into Gatineau, but it still keeps its own character — quieter and more anglophone than the rest of the city, with tree-lined residential streets and a distinct small-town feel despite being minutes from downtown Ottawa.

@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 39.3886
 longitude: 141.1169
-score: 6.8
-snippet: Iwate onsen town and birthplace of poet and author Kenji Miyazawa, with hot springs and museums devoted to his work.
+score: 4.024
+snippet: Iwate onsen town and birthplace of poet and author Kenji Miyazawa, with hot
+  springs and museums devoted to his work.
 sources:
-  - https://en.wikivoyage.org/wiki/Hanamaki
-  - https://en.wikipedia.org/wiki/Hanamaki
+- https://en.wikivoyage.org/wiki/Hanamaki
+- https://en.wikipedia.org/wiki/Hanamaki
+heritage: 3.761
+vibrancy: 3.501
+nature: 4.546
+off_the_beaten_track: 3.792
 ---
 
 Hanamaki is a quiet city in central Iwate best known as the birthplace of Kenji Miyazawa (1896–1933), the poet, children's author, and agricultural teacher whose stories — *Night on the Galactic Railroad* chief among them — are woven deep into Japanese childhood. The city has turned his legacy into a cluster of thoughtful museums and gardens, and it makes an easy and rewarding stop between Morioka and Hiraizumi.

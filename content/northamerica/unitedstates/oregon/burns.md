@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 43.586944
 longitude: -119.06
-score: 7.0
+score: 5.437
 snippet: Eastern Oregon high-desert base for Malheur wetlands, volcanic craters, and
   ranch history.
 wikidata: Q6178257
@@ -15,6 +15,10 @@ image: burns.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Buena_Vista_Overlook,_Jeff_Sorn_(5352564568).jpg
 image_license: CC BY 2.0
 image_attribution: Oregon Department of Transportation
+heritage: 2.544
+vibrancy: 1.309
+nature: 6.896
+off_the_beaten_track: 5.016
 ---
 
 Burns is the main service town in Oregon's far southeast, a high-desert place where highways meet before heading into bigger country. The town is plain and spread out, but the setting is not: sagebrush basins, migratory bird wetlands, old ranch roads, and volcanic scars begin just beyond the edge of town.

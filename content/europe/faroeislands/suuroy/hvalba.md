@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Hvalba.jpg
 latitude: 61.600628
 loc_type: city
 longitude: -6.956834
-score: 6.75
+score: 6.374
 snippet: Suðuroy village with Faroese coal-mining history, old pirate stories, and
   early Norse remains
 title: Hvalba
 type: location
+heritage: 2.816
+vibrancy: 1.306
+nature: 7.891
+off_the_beaten_track: 6.519
 ---
 
 Hvalba is a village of around 620 people on the northern part of Suðuroy, the southernmost island of the Faroe Islands, tucked between Trongisvágur and Sandvík. It was once the largest village in Suðuroy — today it's the third largest — and it has a history that sets it apart from most Faroese settlements.

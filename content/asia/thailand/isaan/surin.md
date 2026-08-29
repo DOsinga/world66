@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Surin_City_Pillar_Shrine_-
 latitude: 14.882973
 loc_type: city
 longitude: 103.493355
-score: 7.12
+score: 3.699
 snippet: Isan provincial city near Cambodia, known for elephant traditions, jasmine
   rice, and Khmer temple ruins
 sources:
 - https://en.wikipedia.org/wiki/Surin,_Surin
 title: Surin
 type: location
+heritage: 4.331
+vibrancy: 3.078
+nature: 3.066
+off_the_beaten_track: 3.227
 ---
 
 Surin is a medium-sized city in the Isan region of northeastern [Thailand](/asia/thailand), and the capital of the province that bears its name. It sits on the flat, dry plateau of lower Isan, closer to the Cambodian border than to Bangkok.

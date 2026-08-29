@@ -5,10 +5,14 @@ done:
 latitude: 5.859166
 loc_type: city
 longitude: 48.25409
-score: 1.28
+score: 5.332
 title: Hobyo
 type: location
 snippet: Somali coastal town on the Indian Ocean, once a port of the Hobyo Sultanate.
+heritage: 3.594
+vibrancy: 1.861
+nature: 3.186
+off_the_beaten_track: 9.551
 ---
 
 Hobyo is a small historic port town on the Indian Ocean coast, in the Galmudug region of central Somalia. It was once the capital of the [Sultanate of Hobyo](/africa/somalia/hobyo/sultanate_ruins), a 19th-century polity that controlled trade along this stretch of coast, and ruins of the sultanate's infrastructure survive in the town.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:V%C3%A4nersborg_22_juli_20
 latitude: 58.3812
 loc_type: city
 longitude: 12.3227
-score: 7.1
+score: 4.197
 snippet: Small city on Lake Vänern's southern shore, noted for preserved wooden streets
   and lakeside views.
 title: Vänersborg
 type: location
+heritage: 3.686
+vibrancy: 3.509
+nature: 4.81
+off_the_beaten_track: 1.677
 ---
 
 Vänersborg is a small city of around 40,000 people perched on the southernmost shore of [Lake Vänern](/europe/sweden/vnersborg/lake_vanern_waterfront), Sweden's largest lake. The city is often paired with the nearby industrial city of [Trollhättan](/europe/sweden/trollhttan) — together they are known as "Tvåstad" ("Two Cities") — but Vänersborg has its own quieter, more intimate character.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 34.1783
 longitude: 131.4739
-score: 7.2
+score: 4.532
 snippet: Western Honshu city of Ouchi culture, temple gardens, hot springs, and a
   national-treasure pagoda.
 wikidata: Q207876
@@ -19,6 +19,10 @@ image: yamaguchi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:140720_Jouei-ji_Yamaguchi_Yamaguchi_pref_Japan13s3.jpg
 image_license: CC BY-SA 4.0
 image_attribution: 663highland
+heritage: 3.677
+vibrancy: 3.143
+nature: 5.466
+off_the_beaten_track: 2.823
 ---
 
 Yamaguchi is an understated city at the western end of [Honshu](/asia/japan), once rich enough under the Ouchi clan to be called the Kyoto of the West. It still has that older cultural thread: temple precincts, garden stones, quiet streets, and a famous pagoda that feels far removed from the faster cities on the Sanyo corridor.

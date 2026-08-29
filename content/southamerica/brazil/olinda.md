@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Apr2024._Olinda,_Recife,_P
 latitude: -7.99864
 loc_type: city
 longitude: -34.845955
-score: 8.09
+score: 5.128
 snippet: Brazilian colonial hill town above the Atlantic, with UNESCO-listed churches,
   pastel mansions, and frevo music.
 title: “Olinda”
 type: location
+heritage: 5.233
+vibrancy: 4.261
+nature: 5.73
+off_the_beaten_track: 3.169
 ---
 
 Olinda is a gem. Perched on a cluster of green hills overlooking the Atlantic, this small city just north of [Recife](/southamerica/brazil/recife) has some of the best-preserved colonial architecture in Brazil — enough to earn it UNESCO World Heritage status.

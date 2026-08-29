@@ -17,7 +17,7 @@ quick_facts:
   Population: 7.5 million
   Protected Land: 40% country parks
   Skyscrapers: 500+, most on Earth
-score: 9.5
+score: 7.921
 snippet: Vertical harbour city where dense towers, dim sum, and ferries frame Hong
   Kong Island and Kowloon
 sources:
@@ -28,6 +28,10 @@ tip: Get an Octopus card — it pays for the metro, ferries, buses and even conv
   ding' tram along Hong Kong Island. Dodge the Peak Tram queue by taking a bus up.
 title: Hong Kong
 type: location
+heritage: 8.001
+vibrancy: 7.951
+nature: 5.323
+off_the_beaten_track: 1.736
 ---
 
 Hong Kong is one of the most exhilarating cities on earth — a vertical, electric, relentless place where East and West collide in the most productive possible way. For 156 years a British colony, it was handed back to China in 1997 under a "one country, two systems" arrangement that preserved its common law courts, free press, and capitalist economy. The neon, the harbour, the dim sum, the frantic energy: all of it still very much in place.

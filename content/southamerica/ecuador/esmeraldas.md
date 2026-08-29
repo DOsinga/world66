@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Las_Palmas.JPG
 latitude: 0.734362
 loc_type: city
 longitude: -79.385887
-score: 6.17
+score: 6.008
 snippet: Afro-Ecuadorian port city at the Esmeraldas River mouth, known for marimba
   culture and coastal food.
 title: Esmeraldas
 type: location
+heritage: 4.115
+vibrancy: 4.818
+nature: 6.985
+off_the_beaten_track: 4.908
 ---
 
 Esmeraldas is both the capital of the province of the same name and the centre of Afro-Ecuadorian culture — music, dance, and a cuisine that owes more to the Caribbean than to the Andes. The city itself is a working port at the mouth of the Esmeraldas River, gritty rather than picturesque, with [a long grey-sand beach at Las Palmas](/southamerica/ecuador/esmeraldas/las_palmas_beach), a small but excellent [pre-Columbian museum](/southamerica/ecuador/esmeraldas/museo_y_centro_cultural), and a vibrant [marimba-and-drum musical tradition](/southamerica/ecuador/esmeraldas/marimba_culture) that UNESCO has put on its intangible heritage list. Most travellers move through quickly on the way to the resort beaches, but the city rewards a day or two for the food and the music.

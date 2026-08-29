@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:The_gate_of_the_Gonio_cast
 latitude: 41.559165
 loc_type: city
 longitude: 41.569467
-score: 7.4
+score: 5.066
 snippet: Georgian coastal village south of Batumi, known for Gonio-Apsaros fortress
   and a clean pebble beach
 title: Gonio
 type: location
+heritage: 4.659
+vibrancy: 2.115
+nature: 5.878
+off_the_beaten_track: 5.577
 ---
 
 Located just a few kilometres south of [Batumi](/europe/georgia/batumi), Gonio is home to the [Gonio-Apsaros fortress](/europe/georgia/gonio/gonio_fortress), a Roman-Byzantine fort that impresses by its sheer size. There is not much to see inside — fruit trees, mostly — so it is not strictly necessary to go in. The [pebble beach](/europe/georgia/gonio/gonio_beach) south of the fortress is the cleanest swimming on the Adjaran coast.

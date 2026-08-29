@@ -4,12 +4,17 @@ type: location
 loc_type: feature
 latitude: 26.2134
 longitude: 127.3019
-score: 8.9
-snippet: Island group 40 km west of Naha famous for "Kerama Blue" water — some of Japan's best diving, snorkelling, and empty beaches.
+score: 5.396
+snippet: Island group 40 km west of Naha famous for "Kerama Blue" water — some of
+  Japan's best diving, snorkelling, and empty beaches.
 image_source: https://commons.wikimedia.org/wiki/File:Furuzamami_beach_Okinawa_Zamami.jpg
 sources:
-  - https://en.wikivoyage.org/wiki/Kerama_Islands
-  - https://en.wikipedia.org/wiki/Kerama_Islands
+- https://en.wikivoyage.org/wiki/Kerama_Islands
+- https://en.wikipedia.org/wiki/Kerama_Islands
+heritage: 2.8
+vibrancy: 1.772
+nature: 6.446
+off_the_beaten_track: 6.285
 ---
 
 The Kerama Islands lie about 40 kilometres west of Naha, accessible by high-speed ferry in 35 minutes or slow ferry in about 70. The four main inhabited islands — [Zamami](/asia/japan/okinawa/zamamiisland), Aka, [Tokashiki](/asia/japan/okinawa/tokashikiisland), and Geruma — are where Okinawa's reputation for outstanding diving and snorkelling is most fully justified. Visibility of 30 to 50 metres is common; in winter, humpback whales pass through the waters between the islands.

@@ -7,13 +7,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Mali_Losinj_01.jpg
 latitude: 44.5107
 loc_type: island
 longitude: 14.5037
-score: 8.2
+score: 4.854
 snippet: Long Kvarner Gulf island linked to Cres, known for mild climate, clean air,
   and harbour towns.
 tags:
 - kvarner
 title: Lošinj
 type: location
+heritage: 3.761
+vibrancy: 3.716
+nature: 5.728
+off_the_beaten_track: 2.812
 ---
 
 Lošinj is a long, narrow island in the Kvarner Gulf off [Croatia](/europe/croatia)'s northern Adriatic coast, connected by bridge to the neighbouring island of Cres. The island has been known for its mild climate and clean air since the nineteenth century, when the Habsburgs designated it a health resort.

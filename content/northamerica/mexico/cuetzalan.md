@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 20.0188
 longitude: -97.5206
-score: 7.8
+score: 5.731
 snippet: Sierra Norte Pueblo Magico of misty cobbled streets, Totonac ruins, coffee,
   caves, and waterfalls.
 wikidata: Q2651808
@@ -18,6 +18,10 @@ image: cuetzalan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ciudad_de_Cuetzalan_v2.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Connorlong90
+heritage: 5.572
+vibrancy: 2.867
+nature: 6.522
+off_the_beaten_track: 3.754
 ---
 
 Cuetzalan is a mountain town in Puebla's Sierra Norte, all steep cobbled lanes, whitewashed walls, damp air, and coffee country. It is not a quick urban side trip from [Puebla](/northamerica/mexico/puebla); the road takes time. The reward is that Cuetzalan feels like its own world, with Nahua and Totonac traditions still visible in the market, language, food, and festival life.

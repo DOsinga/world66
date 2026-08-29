@@ -5,11 +5,15 @@ done:
 latitude: 21.333
 loc_type: city
 longitude: -71.2
-score: 8.1
+score: 5.688
 snippet: Tiny Turks and Caicos island where old salt salinas and windmill ruins shape
   the landscape.
 title: Salt Cay
 type: location
+heritage: 2.101
+vibrancy: 1.227
+nature: 7.249
+off_the_beaten_track: 5.136
 ---
 
 Salt Cay is a tiny island in the Turks and Caicos — just over 6 square kilometres, with a permanent population of around 100 people. For centuries the island's economy was built on salt, raked from shallow ponds and exported to North America. The salt industry collapsed in the 1960s, and today the island moves at a pace that makes the rest of the Turks and Caicos look busy.

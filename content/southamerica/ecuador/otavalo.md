@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Mercado_Otavalo.jpg
 latitude: 0.222764
 loc_type: city
 longitude: -78.245427
-score: 8.45
+score: 4.873
 snippet: Andean town north of Quito, famous for its Otavaleño textile market and nearby
   volcanic landscapes.
 title: Otavalo
 type: location
+heritage: 4.388
+vibrancy: 4.589
+nature: 5.335
+off_the_beaten_track: 4.324
 ---
 
 Otavalo is one of the most visited towns in Ecuador, and for good reason. Situated in the Andes about two hours north of [Quito](/southamerica/ecuador/quito) by bus, it is home to the largest and most famous indigenous market in South America. The Saturday market — and a smaller daily one at the Plaza de los Ponchos — draws vendors and buyers from across the region selling textiles, weavings, jewelry, and crafts. Bargaining is expected and the quality is high.

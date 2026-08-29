@@ -5,11 +5,16 @@ loc_type: city
 latitude: -1.6056
 longitude: -79.0031
 wikidata: Q264464
-score: 6.3
-snippet: Small Ecuadorian highland capital known for Carnival, seven hills, Pájaro Azul, and Chimborazo views.
+score: 4.537
+snippet: Small Ecuadorian highland capital known for Carnival, seven hills, Pájaro
+  Azul, and Chimborazo views.
 sources:
-  - https://en.wikivoyage.org/wiki/Guaranda
-  - https://guidecuador.com/guaranda-carnival-festival/
+- https://en.wikivoyage.org/wiki/Guaranda
+- https://guidecuador.com/guaranda-carnival-festival/
+heritage: 4.14
+vibrancy: 4.23
+nature: 4.988
+off_the_beaten_track: 4.612
 ---
 
 Guaranda is the small capital of Bolívar province, sitting high in the Ecuadorian Andes between [Riobamba](/southamerica/ecuador/riobamba), Ambato, and the road down toward the coast. It calls itself the City of the Seven Hills, and on clear days Chimborazo gives the skyline real drama.

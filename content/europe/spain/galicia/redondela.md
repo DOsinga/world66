@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Sim%C3%B3n_08_053.JPG
 latitude: 42.284221
 loc_type: city
 longitude: -8.608599
-score: 7.31
+score: 4.401
 snippet: Galician ría town on the Camino Portugués, known for railway viaducts and
   cuttlefish.
 title: Redondela
 type: location
+heritage: 3.64
+vibrancy: 3.18
+nature: 5.278
+off_the_beaten_track: 2.776
 ---
 
 Redondela is a small town on the inner shore of the Ría de Vigo, in the southwest corner of Galicia. It is best known for its dramatic railway viaducts — the [Viaduct of Madrid](/europe/spain/galicia/redondela/viaduct_de_madrid) and the [Viaduct of Pontevedra](/europe/spain/galicia/redondela/viaduct_de_pontevedra), two 19th-century stone arched bridges that carry the main Vigo–Ourense line high above the town. Their reflection in the ría below is a striking image, and the sound of a train crossing overhead from the streets below is one of those small, memorable travel moments.

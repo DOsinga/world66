@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 36.4
 longitude: 138.25
-score: 7.4
-snippet: Nagano castle town tied to the Sanada clan, with temples and hot-spring villages nearby.
+score: 2.581
+snippet: Nagano castle town tied to the Sanada clan, with temples and hot-spring villages
+  nearby.
 sources:
-  - https://en.wikivoyage.org/wiki/Ueda
-  - https://en.wikipedia.org/wiki/Ueda,_Nagano
+- https://en.wikivoyage.org/wiki/Ueda
+- https://en.wikipedia.org/wiki/Ueda,_Nagano
 wikidata: Q844852
+heritage: 2.87
+vibrancy: 2.456
+nature: 2.629
+off_the_beaten_track: 1.255
 ---
 
 Ueda is a small Nagano city with a sharper identity than its size suggests. It was the castle town of the Sanada clan, whose stubborn defence against Tokugawa forces made the ruined castle more famous than its surviving walls might suggest.

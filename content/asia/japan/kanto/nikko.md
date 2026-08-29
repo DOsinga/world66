@@ -14,7 +14,7 @@ quick_facts:
   Shogun's Tomb: Tokugawa Ieyasu
   Three Wise Monkeys: The original carving
   Tōshō-gū Built: '1617'
-score: 9.42
+score: 7.053
 snippet: Mountain temple town north of Tokyo, centered on the ornate Tokugawa shogun
   shrine complex.
 tip: Nikko's lavishly carved Tōshō-gū shrine — burial place of the shogun Tokugawa
@@ -24,6 +24,10 @@ tip: Nikko's lavishly carved Tōshō-gū shrine — burial place of the shogun T
   early.
 title: Nikkō
 type: location
+heritage: 8.291
+vibrancy: 5.803
+nature: 5.954
+off_the_beaten_track: 1.527
 ---
 
 Nikkō is one of Japan's most celebrated historic sites, set in the mountains of Tochigi Prefecture about 140 km north of Tokyo. The shrine and temple complex here, built to enshrine the Tokugawa shoguns, is the most ornate in the country — extraordinary even by Japanese standards, and a UNESCO World Heritage Site.

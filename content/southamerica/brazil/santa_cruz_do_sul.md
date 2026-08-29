@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: -29.7178
 longitude: -52.4258
-score: 6.8
-snippet: German-Brazilian city in Rio Grande do Sul known for Oktoberfest, tobacco wealth, and a huge cathedral.
+score: 4.342
+snippet: German-Brazilian city in Rio Grande do Sul known for Oktoberfest, tobacco
+  wealth, and a huge cathedral.
 sources:
-  - https://en.wikivoyage.org/wiki/Santa_Cruz_do_Sul
-  - https://en.wikipedia.org/wiki/Santa_Cruz_do_Sul
-  - https://www.wikidata.org/wiki/Q781510
+- https://en.wikivoyage.org/wiki/Santa_Cruz_do_Sul
+- https://en.wikipedia.org/wiki/Santa_Cruz_do_Sul
+- https://www.wikidata.org/wiki/Q781510
+heritage: 3.494
+vibrancy: 4.696
+nature: 2.563
+off_the_beaten_track: 2.243
 ---
 
 Santa Cruz do Sul is a German-Brazilian city in central Rio Grande do Sul, about 150 km from Porto Alegre. It made its money from tobacco and keeps a strong immigrant identity in its churches, festivals, food, and tidy civic spaces.

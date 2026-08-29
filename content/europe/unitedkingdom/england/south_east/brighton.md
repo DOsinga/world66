@@ -8,12 +8,16 @@ image_source: https://commons.wikimedia.org/wiki/File:East_Brighton_Community_Me
 latitude: 50.821463
 loc_type: city
 longitude: -0.140056
-score: 8.58
+score: 5.527
 snippet: English seaside city of Regency terraces, Royal Pavilion fantasy, and a long
   pleasure-pier waterfront
 title: Brighton
 type: location
 image_attribution: Paul Gillett
+heritage: 5.061
+vibrancy: 5.746
+nature: 4.621
+off_the_beaten_track: 1.062
 ---
 
 Brighton is Britain's most exciting seaside city. With its cosmopolitan air, superb restaurants, feverish nightlife and abundance of culture, it defies comparison with anywhere else this side of the English Channel. For centuries it has been regarded as a pleasure dome, and that is not about to change.

@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Mandalay_-_The_worship_of_
 latitude: 21.959683
 loc_type: city
 longitude: 96.094874
-score: 8.22
+score: 6.131
 title: Mandalay
 type: location
 snippet: Former Burmese royal capital on the Irrawaddy, rich in Buddhist monuments
   and traditional craft workshops.
+heritage: 7.105
+vibrancy: 5.25
+nature: 4.165
+off_the_beaten_track: 4.134
 ---
 
 Mandalay is the second largest city in Myanmar, a sprawling, flat, low-rise place that surprises many visitors by feeling less like a city than a very large town. There is no skyline. The Irrawaddy lies to the west and the hazy Shan Hills rise to the east. What Mandalay has, in extraordinary abundance, is Buddhist heritage and the crafts that came with royal patronage.

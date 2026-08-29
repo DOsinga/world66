@@ -13,7 +13,7 @@ quick_facts:
   Michelin Stars: Most per head on Earth
   Pintxos: Eaten bar to bar
   Population: 190,000
-score: 9.46
+score: 6.611
 snippet: Elegant Basque bay city of pintxos bars, crescent beaches, and wooded headlands.
 tip: San Sebastián has one of the highest concentrations of Michelin stars on Earth,
   but the real magic is pintxos — bar snacks eaten standing, hopping from bar to bar
@@ -22,6 +22,10 @@ tip: San Sebastián has one of the highest concentrations of Michelin stars on E
   a reason.
 title: San Sebastián
 type: location
+heritage: 6.779
+vibrancy: 6.597
+nature: 5.813
+off_the_beaten_track: 2.128
 ---
 
 San Sebastián — Donostia in Basque — is a small, impossibly elegant city on the Bay of Biscay in the north-eastern corner of Spain, just 20 kilometres from the French border. It is widely considered one of the most beautiful small cities in Europe, and unlike most of Europe's prettiest places it has earned the reputation on its own terms rather than for any single monument. The setting is extraordinary: a perfect crescent bay (the Bay of La Concha) bounded by two wooded hills and a small island, an elegant 19th-century city wrapping around it, and a medieval old town (the Parte Vieja) tucked at one end that is widely acknowledged as having the best food per square metre of anywhere in the world.

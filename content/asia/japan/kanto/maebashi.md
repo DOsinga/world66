@@ -4,18 +4,23 @@ type: location
 loc_type: city
 latitude: 36.3895
 longitude: 139.0634
-score: 6.75
-snippet: Gunma's low-key capital at the foot of Mount Akagi, with parks, art, and city views.
+score: 2.681
+snippet: Gunma's low-key capital at the foot of Mount Akagi, with parks, art, and
+  city views.
 sources:
-  - https://en.wikivoyage.org/wiki/Maebashi
-  - https://www.japan.travel/en/destinations/kanto/gunma/maebashi-and-akagi/
-  - https://www.visit-gunma.jp/en/discover/stories-and-guides/36-hours-maebashi/
-  - https://en.wikipedia.org/wiki/Maebashi
+- https://en.wikivoyage.org/wiki/Maebashi
+- https://www.japan.travel/en/destinations/kanto/gunma/maebashi-and-akagi/
+- https://www.visit-gunma.jp/en/discover/stories-and-guides/36-hours-maebashi/
+- https://en.wikipedia.org/wiki/Maebashi
 wikidata: Q201613
 image: maebashi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Maebashi20080227.jpg
 image_license: CC BY 3.0
 image_attribution: Javbw
+heritage: 3.054
+vibrancy: 2.402
+nature: 2.381
+off_the_beaten_track: 1.052
 ---
 
 Maebashi is Gunma's prefectural capital, a practical inland city on the Tone River plain with Mount Akagi rising to the northeast. It does not have the instant pull of Kyoto, Nara, or even nearby Takasaki, but it is a real city with a clear setting: government towers and shopping arcades below, volcanic slopes and lakes above.

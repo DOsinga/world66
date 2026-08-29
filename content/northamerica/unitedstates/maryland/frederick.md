@@ -4,12 +4,16 @@ type: location
 loc_type: city
 latitude: 39.4142
 longitude: -77.4105
-score: 7.1
+score: 4.396
 wikidata: Q472675
 sources:
-  - https://en.wikivoyage.org/wiki/Frederick
-  - https://en.wikipedia.org/wiki/Frederick,_Maryland
+- https://en.wikivoyage.org/wiki/Frederick
+- https://en.wikipedia.org/wiki/Frederick,_Maryland
 snippet: Maryland market city with a walkable historic core and strong Civil War sites.
+heritage: 4.725
+vibrancy: 4.305
+nature: 4.249
+off_the_beaten_track: 1.987
 ---
 
 Frederick is one of Maryland's most rewarding inland towns, close enough to Washington, DC, and Baltimore for an easy day trip but with a character of its own. Its old center has brick storefronts, church spires, antique shops, galleries, and a creek walk that makes the city feel more like a real place than a preserved historic district.

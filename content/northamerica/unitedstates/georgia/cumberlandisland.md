@@ -4,11 +4,15 @@ done:
 latitude: 30.855
 loc_type: city
 longitude: -81.471
-score: 7.86
+score: 5.462
 snippet: Georgia barrier island of undeveloped beaches, maritime forest, wild horses,
   and Dungeness ruins
 title: Cumberland Island
 type: location
+heritage: 2.707
+vibrancy: 1.191
+nature: 7.248
+off_the_beaten_track: 3.992
 ---
 
 Cumberland Island is the southernmost and largest of Georgia's barrier islands, accessible only by ferry from St. Marys. Most of the island is National Seashore managed by the National Park Service, and it has been kept intentionally undeveloped. There are no roads open to the public, no cars, and no shops.

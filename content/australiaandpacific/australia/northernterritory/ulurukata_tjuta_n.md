@@ -14,7 +14,7 @@ quick_facts:
   Colour: Glows red at dusk
   Height: 348 m
   Rock Age: ~550 million years
-score: 9.44
+score: 7.374
 snippet: Red Centre national park jointly managed by Anangu owners, centred on Uluru
   and Kata Tjuta.
 tip: Climbing Uluru is now banned out of respect for the Anangu traditional owners
@@ -24,6 +24,10 @@ tip: Climbing Uluru is now banned out of respect for the Anangu traditional owne
   more water than you think.
 title: Uluru-Kata Tjuta National Park
 type: location
+heritage: 7.507
+vibrancy: 0.29
+nature: 8.248
+off_the_beaten_track: 5.138
 ---
 
 Uluru-Kata Tjuta National Park is the spiritual heart of Australia's Red Centre, a UNESCO World Heritage site in the southern Northern Territory. The park is jointly managed by its Anangu traditional owners and Parks Australia — Uluru is a deeply sacred site, and visiting it respectfully is part of the experience.

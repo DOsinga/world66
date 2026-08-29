@@ -11,9 +11,13 @@ loc_type: city
 snippet: Arizona desert town with gold-rush history, dude ranches, and the Vulture
   Mine in its backstory
 longitude: -112.7299
-score: 6.63
+score: 4.188
 title: Wickenburg
 type: location
+heritage: 3.607
+vibrancy: 3.52
+nature: 4.79
+off_the_beaten_track: 3.591
 ---
 
 Wickenburg was founded in 1863 when Henry Wickenburg discovered gold and named his mine the Vulture, which eventually became one of the richest gold-producing mines in [Arizona](/northamerica/unitedstates/arizona). Henry sold 80% of his mine early on because he was afraid it would play out soon. For his 80% interest, Henry received $20,000 in cash and a note for $65,000. The new owners soon claimed that Wickenburg did not have a clear title to the property and refused to pay the remainder. Wickenburg spent most of his $20,000 trying to collect on his note, but never succeeded.

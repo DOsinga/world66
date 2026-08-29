@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Lyon-part-dieu-2023.jpg
 latitude: 45.757814
 loc_type: city
 longitude: 4.832011
-score: 8.98
+score: 5.551
 snippet: French city at the Rhône-Saône confluence, known for Roman roots and a UNESCO-listed
   historic centre.
 title: Lyon
 type: location
+heritage: 3.332
+vibrancy: 4.791
+nature: 6.289
+off_the_beaten_track: 2.199
 ---
 
 Lyon is the second-largest urban area in France and, for many, the country's most satisfying city after Paris — a place with 2,000 years of history stacked in layers, a UNESCO-listed historic centre of extraordinary beauty, and a fanatical devotion to good food that has earned it the widely-held title of **gastronomic capital of France**. It sits at the confluence of the **Rhône** and **Saône**, in the east of the country, halfway between Paris and Marseille, with the Alps rising to the east and the Beaujolais wine country to the north.

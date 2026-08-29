@@ -9,10 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Amphitheatre_of_Tarragona_
 latitude: 41.117236
 loc_type: city
 longitude: 1.254606
-score: 8.75
+score: 5.859
 snippet: Costa Daurada city above the sea, rich in Roman remains from ancient Tarraco.
 title: Tarragona
 type: location
+heritage: 6.151
+vibrancy: 5.793
+nature: 3.805
+off_the_beaten_track: 1.575
 ---
 
 Tarragona, south of [Barcelona](/europe/spain/catalonia/barcelona) along the Costa Daurada, was one of the most important cities in Roman Hispania — the capital of the province of Tarraconensis and a place where emperors Augustus and Hadrian both spent time. The Roman remains are extensive and earned UNESCO World Heritage status.

@@ -12,9 +12,13 @@ sources:
 - https://en.wikivoyage.org/wiki/Guazhou
 title: Guazhou
 type: location
-score: 6.0
+score: 4.428
 snippet: Far-western Gansu oasis town on the Silk Road, used as a base for the Yulin
   Caves.
+heritage: 4.359
+vibrancy: 2.245
+nature: 5.015
+off_the_beaten_track: 4.013
 ---
 
 Guazhou — formerly known as Anxi — is a small oasis town in the far west of Gansu, positioned on the Silk Road roughly halfway between Jiayuguan and Dunhuang. It is not a destination in the conventional sense; it is a repository of Silk Road archaeology that takes serious effort to access and rewards that effort proportionately.

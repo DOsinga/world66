@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Chocolate_Hills_Bohol.JPG
 latitude: 9.798267
 loc_type: city
 longitude: 124.168422
-score: 8.92
+score: 6.174
 title: Chocolate Hills
 type: location
 snippet: Bohol landscape of more than a thousand cone-shaped limestone hills that
   brown in the dry season.
+heritage: 6.145
+vibrancy: 2.102
+nature: 6.965
+off_the_beaten_track: 3.922
 ---
 
 In the dry season the Chocolate Hills are exactly what the name suggests: over a thousand chocolate-brown, cone-shaped mounds spread across the interior of Bohol. In the wet season they turn a vivid green and lose their chocolate resemblance, but they are still a remarkable sight. The hills are probably of karst limestone origin — marine stone uplifted and eroded into near-identical cones — though local legend claims they are the tears of giants who once lived on the island.

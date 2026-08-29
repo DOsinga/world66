@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Mangareva.2006.jpg
 latitude: -23.104536
 loc_type: city
 longitude: -134.969596
-score: 7.57
+score: 6.033
 snippet: Remote Gambier Islands village and pearl-farming centre set inside a vast
   French Polynesian lagoon
 title: Mangareva
 type: location
+heritage: 4.844
+vibrancy: 1.765
+nature: 7.298
+off_the_beaten_track: 5.977
 ---
 
 The Gambier Islands — known collectively as the Mangareva archipelago — lie some 1,600 km southeast of Tahiti, making them one of the most remote inhabited places in French Polynesia. Sixteen volcanic islands and coral atolls are scattered across a vast lagoon, and the largest island, Mangareva, gives the group its name. The capital, Rikitea, is a quiet village of around 1,100 people, presided over by an unexpectedly grand Catholic cathedral that was built by islanders under missionary direction in the nineteenth century.

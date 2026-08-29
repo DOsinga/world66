@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:20190417_Taroko_Gorge-13.j
 latitude: 24.157617
 loc_type: feature
 longitude: 121.617428
-score: 9.41
+score: 6.075
 snippet: Taiwanese marble canyon where the Liwu River cuts through Taroko National
   Park's high mountain walls.
 title: Taroko Gorge
 type: location
+heritage: 3.69
+vibrancy: 3.339
+nature: 7.803
+off_the_beaten_track: 1.926
 ---
 
 Taroko Gorge is Taiwan's most spectacular natural sight — a marble canyon carved by the Liwu River, with walls rising hundreds of metres on either side of the road. The gorge sits at the heart of Taroko National Park, which stretches from sea level up into the high mountains of the Central Range. The name honours the [Truku Indigenous people](/asia/taiwan/torokogorge/truku_culture), who lived in these valleys for centuries before the Japanese colonial period and the construction of the Cross-Island Highway.

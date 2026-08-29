@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 42.078333
 longitude: 22.175
-score: 7.2
+score: 4.178
 snippet: Small Macedonian crater town of stone bridges, medieval towers, and volcanic
   countryside.
 sources:
@@ -17,6 +17,10 @@ image: kratovo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kratovo,_Macedonia_05.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Explorer1940
+heritage: 4.955
+vibrancy: 1.849
+nature: 3.744
+off_the_beaten_track: 3.202
 ---
 
 Kratovo is a small town with a setting that does half the work for it. It sits in the bowl of an extinct volcano in northeastern [Macedonia](/europe/macedonia), where steep lanes, stone bridges, and old towers step up the slopes.

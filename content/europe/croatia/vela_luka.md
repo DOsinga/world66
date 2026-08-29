@@ -2,7 +2,7 @@
 latitude: 42.9614
 loc_type: city
 longitude: 16.7167
-score: 7.7
+score: 5.474
 snippet: Harbour town at the western tip of Korčula island, with an important prehistoric
   cave site
 tags:
@@ -13,6 +13,10 @@ image: vela_luka.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Vela_Luka_(Croatia)_view_from_mountains.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Wojtkow
+heritage: 3.429
+vibrancy: 3.87
+nature: 6.615
+off_the_beaten_track: 3.017
 ---
 
 Vela Luka sits at the western tip of Korčula island, a working harbour town built around one of the deepest natural bays on the Adriatic. It sees far fewer visitors than Korčula town at the island's other end, and has a plainer, more everyday character as a result.

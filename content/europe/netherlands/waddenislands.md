@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/60057960@N06/51600888293
 latitude: 52.592929
 loc_type: feature
 longitude: 5.359097
-score: 0.57
+score: 6.124
 snippet: Dutch island chain of dunes, salt marshes, and tidal mudflats along the Wadden
   Sea.
 title: Wadden islands
 type: location
+heritage: 4.624
+vibrancy: 3.647
+nature: 7.532
+off_the_beaten_track: 3.98
 ---
 
 The **Wadden Islands** (Dutch *Waddeneilanden*) are a string of low, sandy islands off the north coast of the Netherlands, stretching along the Dutch, German, and Danish seaboards of the Wadden Sea. Five are inhabited on the Dutch side: from west to east, **Texel**, **Vlieland**, **Terschelling**, **Ameland**, and **Schiermonnikoog**. The Wadden Sea that separates them from the mainland is a UNESCO World Heritage Site — the largest unbroken system of tidal mudflats on earth — and the islands are mostly nature reserve: dunes, salt marshes, cranberry bogs, pine plantations, and some of Europe's best bird migration stopover sites.

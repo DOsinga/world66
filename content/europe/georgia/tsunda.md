@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2025-05-25_Lake_Tsunda,_Tm
 latitude: 41.409431
 loc_type: city
 longitude: 43.329159
-score: 4.86
+score: 5.128
 snippet: Kura valley hamlet near Vardzia, known for family-run hot mineral baths below
   the cave cliffs.
 title: Tsunda
 type: location
+heritage: 3.502
+vibrancy: 1.721
+nature: 6.392
+off_the_beaten_track: 5.1
 ---
 
 Just before you reach [Vardzia](/europe/georgia/vardzia) coming from Alkhatsikhe, you pass through Tsunda — a hamlet of a handful of houses tucked into the Kura valley. The place is almost entirely off the tourist map, but it deserves a stop for one simple reason: [hot mineral springs](/europe/georgia/tsunda/tsunda_hot_springs).

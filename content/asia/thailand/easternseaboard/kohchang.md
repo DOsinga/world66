@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Panoramic_view_of_the_west
 latitude: 12.054617
 loc_type: island
 longitude: 102.337343
-score: 8.6
+score: 4.74
 snippet: Rugged Thai island of jungled mountains, west-coast beaches, and quieter
   fishing villages near Cambodia.
 title: Koh Chang
 type: location
+heritage: 1.727
+vibrancy: 3.134
+nature: 5.833
+off_the_beaten_track: 3.185
 ---
 
 Thailand's second-largest island sits in the Gulf of Thailand near the Cambodian border, about 300 km southeast of Bangkok. Unlike Phuket or Koh Samui, Koh Chang still has a rugged, jungled interior that takes up most of the island — steep mountains, waterfalls, and thick tropical forest. The Mu Ko Chang National Marine Park protects the island and dozens of smaller ones in the surrounding archipelago.

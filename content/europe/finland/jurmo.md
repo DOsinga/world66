@@ -3,11 +3,16 @@ title: Jurmo
 type: location
 loc_type: feature
 latitude: 59.83
-longitude: 21.60
-score: 7.4
-snippet: Bare outer Archipelago Sea island of heath, migratory birds, stone rings, and ferry-reached isolation.
+longitude: 21.6
+score: 5.795
+snippet: Bare outer Archipelago Sea island of heath, migratory birds, stone rings,
+  and ferry-reached isolation.
 sources:
-  - https://en.wikivoyage.org/wiki/Jurmo
+- https://en.wikivoyage.org/wiki/Jurmo
+heritage: 3.147
+vibrancy: 1.191
+nature: 7.372
+off_the_beaten_track: 5.277
 ---
 
 Jurmo is one of the starkest islands in Finland's Archipelago Sea. It sits far out between [Nagu](/europe/finland/nagu) and [Utö](/europe/finland/uto), with low heath, cobble beaches, a tiny village, and Baltic water all around. The island is reachable by ferry, but it still feels like a place at the edge.

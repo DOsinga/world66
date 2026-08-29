@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Hariyadin_bangka_belitung.
 latitude: -2.308124
 loc_type: city
 longitude: 106.028152
-score: 7.24
+score: 5.636
 snippet: Sumatran island known for tin history, quiet beaches, and a relaxed pace
   beyond Pangkalpinang
 title: Bangka Island
 type: location
+heritage: 3.288
+vibrancy: 2.222
+nature: 7.079
+off_the_beaten_track: 5.429
 ---
 
 Bangka is a large island off the east coast of Sumatra, separated from the mainland by the narrow Bangka Strait. Once one of the world's major tin-producing regions, the island has shifted toward tourism, with clean beaches and a relaxed pace that draws visitors from Jakarta and Singapore.

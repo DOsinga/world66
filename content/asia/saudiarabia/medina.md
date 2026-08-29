@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/43714545@N06/52501731659
 latitude: 24.471153
 loc_type: city
 longitude: 39.611122
-score: 4.65
+score: 5.126
 snippet: Holy city of Islam in the Hejaz, centred on the Prophet's Mosque and early
   Muslim history
 title: Medina
 type: location
+heritage: 5.772
+vibrancy: 4.732
+nature: 3.641
+off_the_beaten_track: 3.973
 ---
 
 Medina is the second holiest city in Islam, after [Mecca](/asia/saudiarabia/mecca). It lies in the Hejaz region of western Saudi Arabia, about 400 kilometres north of Mecca and close to the Red Sea harbour town of [Yanbu](/asia/saudiarabia/yanbu). The name literally means "the city" — short for Madinat al-Nabi, the City of the Prophet.

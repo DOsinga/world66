@@ -2,12 +2,16 @@
 latitude: 45.9217
 loc_type: city
 longitude: -59.9704
-score: 7.1
+score: 6.45
 snippet: Cape Breton harbour village beside Canada's great reconstructed French fortress.
 sources:
-  - https://en.wikivoyage.org/wiki/Louisbourg
+- https://en.wikivoyage.org/wiki/Louisbourg
 title: Louisbourg
 type: location
+heritage: 7.453
+vibrancy: 2.638
+nature: 6.224
+off_the_beaten_track: 2.817
 ---
 
 Louisbourg sits on the southeast coast of Cape Breton, a small fishing harbour with one of Atlantic Canada's strongest historical backdrops. The modern village is modest, but across the water stands the [Fortress of Louisbourg](/northamerica/canada/novascotia/capebreton/fortress_of_louisbourg), the vast reconstruction of the French fortified town that once guarded this ice-free harbour and worried the British colonies to the south.

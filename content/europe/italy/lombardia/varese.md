@@ -5,7 +5,7 @@ done:
 latitude: 45.83972
 loc_type: city
 longitude: 8.754134
-score: 7.8
+score: 5.173
 snippet: Lombard city of villas and parks below the Sacro Monte di Varese pilgrimage
   route.
 title: Varese
@@ -14,6 +14,10 @@ image: varese.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Palazzo_e_giardini_estensi.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Docfra
+heritage: 5.467
+vibrancy: 3.799
+nature: 5.701
+off_the_beaten_track: 3.589
 ---
 
 Varese earns its nickname "the Garden City" from the [Liberty-era villas](/europe/italy/lombardia/varese/villa_liberty) and landscaped parks scattered across its hills, built by Milanese industrialists who escaped the summer heat here. The city sits at the foot of the [Sacro Monte di Varese](/europe/italy/lombardia/varese/sacro_monte), a UNESCO-listed pilgrimage path that climbs through forest past fourteen baroque chapels to a hilltop sanctuary with views across the Po plain to Monte Rosa.

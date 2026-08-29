@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Distant_South_Taza_Morocco
 latitude: 34.230155
 loc_type: city
 longitude: -4.010104
-score: 6.53
+score: 4.939
 snippet: Moroccan market town guarding the Taza Gap between the Rif and Middle Atlas
   mountains.
 title: Taza
 type: location
+heritage: 6.107
+vibrancy: 3.453
+nature: 3.751
+off_the_beaten_track: 3.094
 ---
 
 Taza sits at the narrowest point of the corridor between the Rif mountains and the Middle Atlas — the **Taza Gap** — which made it the strategic key to Morocco's eastern approaches for over a thousand years. Whoever controlled Taza controlled the road from Fez to Tlemcen and, effectively, the whole northeast of the country. The Almohad caliphate used it as their first stronghold in Morocco in the 12th century, before any of the more famous imperial cities were consolidated.

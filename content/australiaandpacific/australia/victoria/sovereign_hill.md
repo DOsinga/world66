@@ -8,11 +8,15 @@ latitude: -37.5749
 loc_type: feature
 longitude: 143.8685
 phone: (03) 5337 1100
-score: 8.3
+score: 5.748
 snippet: Living gold rush museum where you pan for real gold
 title: Sovereign Hill
 type: location
 url: www.sovereignhill.com.au
+heritage: 7.686
+vibrancy: 2.843
+nature: 3.125
+off_the_beaten_track: 2.776
 ---
 
 A superb interactive museum in [Ballarat](/australiaandpacific/australia/victoria/ballarat) that recreates a gold-mining township of the 1850s. You can pan for real gold in the creek, tour underground mines, and wander a main street lined with working blacksmiths, bakers, and period shops staffed by costumed volunteers. The evening sound-and-light show, Blood on the Southern Cross, dramatises the Eureka Rebellion. Allow a full day. About 90 minutes from Melbourne by car or train.

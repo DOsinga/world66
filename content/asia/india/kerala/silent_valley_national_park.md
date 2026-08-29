@@ -5,10 +5,14 @@ latitude: 11.0833
 longitude: 76.4167
 title: Silent Valley National Park
 type: location
-score: 7.71
+score: 6.003
 loc_type: feature
 snippet: Kerala rainforest national park, protecting part of the Nilgiri Biosphere
   Reserve around the Kunthi River.
+heritage: 1.866
+vibrancy: 0.986
+nature: 7.612
+off_the_beaten_track: 5.547
 ---
 
 Silent Valley is one of the last remaining patches of virgin tropical rainforest in southern India. Covering about 90 sq km in the northeastern corner of [Palakkad](/asia/india/kerala/palakkad) district, it forms the core of the Nilgiri Biosphere Reserve and has an almost unbroken ecological history, thanks largely to its difficult terrain and remoteness.

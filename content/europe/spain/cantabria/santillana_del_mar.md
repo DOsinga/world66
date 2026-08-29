@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Colegiata_Santa_Juliana,_S
 latitude: 43.3925
 loc_type: city
 longitude: -4.106
-score: 8.4
+score: 5.737
 snippet: Medieval Cantabrian town of golden sandstone lanes, famous for its intact
   old centre and nearby Altamira cave art.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Santillana_del_Mar
 title: Santillana del Mar
 type: location
+heritage: 7.084
+vibrancy: 4.029
+nature: 3.907
+off_the_beaten_track: 2.099
 ---
 
 Santillana del Mar is arguably the best-preserved medieval town in Cantabria, and possibly in all of northern Spain. The streets are cobbled and car-free in the historic centre, the mansions and arcaded buildings are built from golden sandstone, and the whole place feels genuinely intact rather than restored. The name is famously a triple lie: it is neither holy (*santa*), nor flat (*llana*), nor by the sea (*del mar*) — the coast is a few kilometres away.

@@ -2,7 +2,7 @@
 latitude: 20.0565
 loc_type: city
 longitude: 99.3573
-score: 6.5
+score: 5.982
 snippet: Small northern Thai river town below Wat Thaton, used for Kok River boat
   trips.
 sources:
@@ -17,6 +17,10 @@ image: thaton.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tha_Ton,_Monk,_Thailand.jpg
 image_license: CC BY 4.0
 image_attribution: Vyacheslav Argenberg
+heritage: 7.734
+vibrancy: 2.199
+nature: 3.908
+off_the_beaten_track: 3.655
 ---
 
 Thaton, also written Tha Ton, is a small river town in far northern Chiang Mai province, close to the Myanmar border and west of Chiang Rai. It is not a major destination, but it has a clear identity: a quiet Kok River stop with a large hill temple above the village and boat routes running east through the hills.

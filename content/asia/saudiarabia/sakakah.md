@@ -5,11 +5,15 @@ done:
 latitude: 29.978401
 loc_type: city
 longitude: 40.20477
-score: 5.09
+score: 3.135
 snippet: Northwestern Saudi city in Al-Jawf, surrounded by olive groves, rock inscriptions,
   and oasis ruins
 title: Sakakah
 type: location
+heritage: 2.966
+vibrancy: 2.429
+nature: 2.265
+off_the_beaten_track: 5.103
 ---
 
 Sakakah is the capital of the Al-Jawf region in the far northwest of Saudi Arabia, close to the Jordanian border. The city itself is modern and unremarkable, but the surrounding landscape is worth knowing about: the Al-Jawf region has extensive olive groves (one of the most productive olive-growing areas in the Arab world), ancient rock inscriptions, and ruins of the Nabataean trading town of [Dumat al-Jandal](/asia/saudiarabia/sakakah/dumat_al_jandal), about 50km to the southwest.

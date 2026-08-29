@@ -2,7 +2,7 @@
 latitude: 44.7564
 loc_type: city
 longitude: 14.7606
-score: 9.0
+score: 5.038
 snippet: Medieval Adriatic town on a narrow peninsula, its skyline defined by four
   Romanesque bell towers
 sources:
@@ -15,6 +15,10 @@ image: rab.jpg
 image_source: https://commons.wikimedia.org/wiki/File:RK_2409_2080111_Rab.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Reinhard Kraasch
+heritage: 5.255
+vibrancy: 3.466
+nature: 5.582
+off_the_beaten_track: 3.057
 ---
 
 The old town of Rab occupies a narrow peninsula that juts into the sea, its skyline punctuated by four Romanesque bell towers that have served as a landmark for sailors since the Middle Ages. From the water the silhouette is unmistakable: the towers rise in a line above a tight cluster of terracotta roofs, with the sea on both sides.

@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Connemara_National_Park_Di
 latitude: 53.553595
 loc_type: city
 longitude: -9.948366
-score: 7.1
+score: 6.56
 snippet: Connemara village at the gate of Diamond Hill, Kylemore Abbey, and the national
   park.
 sources:
@@ -17,6 +17,10 @@ sources:
 title: Letterfrack
 type: location
 wikidata: Q1821184
+heritage: 7.309
+vibrancy: 1.781
+nature: 6.943
+off_the_beaten_track: 4.729
 ---
 
 Letterfrack is a tiny Connemara village with an outsized claim on a traveller's day. The houses cluster around the N59 west of the Twelve Bens, but the real reason to stop is what sits within walking or short driving distance: Connemara National Park, the Diamond Hill loop, and Kylemore Abbey.

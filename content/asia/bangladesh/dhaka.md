@@ -16,7 +16,7 @@ quick_facts:
   On the Buriganga: A river-port capital
   Population: ~22 million
   Rickshaws: Hundreds of thousands of them
-score: 6.05
+score: 6.275
 snippet: Dense delta capital where Puran Dhaka's markets and monuments sit beside
   Louis Kahn modernism.
 tip: Dhaka is one of the most densely populated cities on earth — the traffic is legendary,
@@ -25,6 +25,10 @@ tip: Dhaka is one of the most densely populated cities on earth — the traffic 
   River are the highlights. Heat and crowds are intense; pace yourself.
 title: Dhaka
 type: location
+heritage: 5.862
+vibrancy: 6.479
+nature: 5.4
+off_the_beaten_track: 2.724
 ---
 
 Dhaka is one of the most densely populated cities on earth — around 22 million people in a sprawling delta metropolis where traffic moves at a crawl and the streets never fully sleep. It is chaotic, noisy, and genuinely fascinating. Most visitors arriving in Bangladesh pass through Dhaka, and it rewards more time than most people give it.

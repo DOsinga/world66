@@ -5,11 +5,15 @@ done:
 latitude: 47.140208
 loc_type: city
 longitude: 7.243903
-score: 7.14
+score: 4.104
 snippet: Officially bilingual Swiss city on Lake Biel, where Jura foothills meet a
   major watchmaking centre.
 title: Biel-Bienne
 type: location
+heritage: 4.376
+vibrancy: 3.15
+nature: 4.507
+off_the_beaten_track: 1.522
 ---
 
 Biel/Bienne is Switzerland's only officially bilingual city — German and French coexist here on every street sign, in every shop, and in the everyday conversations of its residents. The city sits at the northeastern end of Lake Biel, where the Jura mountains meet the Swiss plateau.

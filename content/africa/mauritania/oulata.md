@@ -5,11 +5,15 @@ done:
 latitude: 17.2967
 loc_type: city
 longitude: -7.0283
-score: 6.55
+score: 5.197
 snippet: Remote Saharan caravan town known for earth-coloured houses painted with
   geometric Oualata designs.
 title: Oualata
 type: location
+heritage: 4.528
+vibrancy: 1.316
+nature: 3.931
+off_the_beaten_track: 8.693
 ---
 
 Oualata is one of the most remote and remarkable towns in West Africa — a UNESCO World Heritage Site sitting at the southeastern edge of the Mauritanian Sahara, once a thriving terminus on the trans-Saharan trade routes. Getting here is the better part of the experience: the nearest real town is Néma, and reaching Oualata means a long, hot jeep ride across open desert, with no marked road for much of it.

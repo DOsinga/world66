@@ -12,8 +12,12 @@ sources:
 - https://en.wikivoyage.org/wiki/Lianyungang
 title: Lianyungang
 type: location
-score: 6.1
+score: 3.044
 snippet: Yellow Sea port city tied to Mount Huaguo and the Monkey King legend.
+heritage: 2.047
+vibrancy: 3.228
+nature: 2.569
+off_the_beaten_track: 1.432
 ---
 
 Lianyungang occupies the far northeastern corner of Jiangsu, where the province meets the Yellow Sea. It is the only genuinely coastal city in the province with accessible beaches, and its port — designated the eastern terminus of the overland New Eurasian Continental Bridge — gives the place an outward-looking, slightly frontier character that distinguishes it from the more inward-looking canal cities to the south. For Chinese visitors, though, Lianyungang is primarily associated with one mountain and one ancient novel.

@@ -2,7 +2,7 @@
 latitude: 45.2
 loc_type: feature
 longitude: 14.5
-score: 8.4
+score: 4.877
 snippet: Northern Adriatic gulf of Habsburg-era resort towns, ferry-linked islands,
   and forested highlands
 title: Kvarner
@@ -11,6 +11,10 @@ image: kvarner.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kvarner,_Croatia.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Croq
+heritage: 3.834
+vibrancy: 3.98
+nature: 5.636
+off_the_beaten_track: 2.11
 ---
 
 The Kvarner Gulf is the northernmost bay of the Croatian Adriatic, sheltered behind the islands of Krk, Cres, Lošinj, and Rab. It was the favoured seaside retreat of the Austro-Hungarian aristocracy in the late nineteenth century, and that history still shows in the grand villas and promenades of [Opatija](/europe/croatia/opatija), just around the headland from the working port city of [Rijeka](/europe/croatia/rijeka).

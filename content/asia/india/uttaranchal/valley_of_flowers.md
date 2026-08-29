@@ -4,7 +4,7 @@ done:
 latitude: 30.70568
 loc_type: feature
 longitude: 79.595855
-score: 8.77
+score: 6.246
 snippet: Himalayan alpine valley and UNESCO site, carpeted with hundreds of wildflower
   species in monsoon season.
 title: Valley of Flowers
@@ -13,6 +13,10 @@ image: valley_of_flowers.jpg
 image_source: https://commons.wikimedia.org/wiki/File:(A)_Valley_of_flowers,_Garhwal_Uttarakhand_India.jpg
 image_license: CC BY 2.0
 image_attribution: Alosh Bennett
+heritage: 2.038
+vibrancy: 1.102
+nature: 7.685
+off_the_beaten_track: 6.543
 ---
 
 The Valley of Flowers is a UNESCO World Heritage Site high in the western Himalayas — a 2 km wide, 10 km long alpine meadow at about 3,500 metres, carpeted with over 300 species of wildflowers from July through September. If you are expecting cultivated roses, think again: these are all wild species, from blue poppies and primulas to saxifrages and orchids, set against a backdrop of snow-capped peaks.

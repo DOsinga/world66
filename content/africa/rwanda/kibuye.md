@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -2.05
 longitude: 29.35
-score: 7.1
+score: 5.635
 snippet: Lake Kivu town of green headlands, island boat trips, and genocide memorials.
 sources:
 - https://en.wikivoyage.org/wiki/Kibuye
@@ -17,6 +17,10 @@ image: kibuye.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kibuye_Rwanda_good_view.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Davyimage
+heritage: 3.852
+vibrancy: 3.561
+nature: 7.014
+off_the_beaten_track: 4.132
 ---
 
 Kibuye, officially Karongi, is Rwanda's most scenic Lake Kivu town. It sits on a broken shoreline of bays, wooded points, and small islands, with water on one side and steep green hills on the other. Gisenyi is busier and more resort-like; Kibuye feels quieter, better for boat rides, lake views, and slow afternoons.

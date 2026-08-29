@@ -5,7 +5,7 @@ loc_type: city
 latitude: -29.6817
 longitude: 152.9344
 wikidata: Q1025587
-score: 6.8
+score: 3.415
 snippet: Clarence River city known for jacaranda streets, old civic buildings, and
   broad country-town avenues.
 sources:
@@ -18,6 +18,10 @@ image: grafton.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Clarence_River_in_Grafton,_New_South_Wales,_Australia,_2021,_06.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Chris Olszewski
+heritage: 2.896
+vibrancy: 3.361
+nature: 3.555
+off_the_beaten_track: 1.405
 ---
 
 Grafton is the Clarence Valley's old river city, set on broad streets and wrapped around the Clarence River. It is most famous in spring, when jacarandas turn the avenues purple and the annual festival gives the town a reason to show off.

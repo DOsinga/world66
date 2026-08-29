@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Hattiesburg_MS_Downtown_20
 latitude: 31.3271
 loc_type: city
 longitude: -89.2903
-score: 5.88
+score: 3.16
 snippet: Southern Mississippi college town in the Pine Belt, energised by two universities
   and local food.
 sources:
 - https://en.wikipedia.org/wiki/Hattiesburg,_Mississippi
 title: Hattiesburg
 type: location
+heritage: 2.748
+vibrancy: 2.961
+nature: 3.467
+off_the_beaten_track: 1.179
 ---
 
 Hattiesburg is a college town in the pine belt of southern Mississippi, home to around 150,000 people in the metro area. Two universities — the University of Southern Mississippi and William Carey University — give the city a younger, more cosmopolitan edge than you might expect from a mid-sized Southern town. The university keeps prices honest and the food scene alive.

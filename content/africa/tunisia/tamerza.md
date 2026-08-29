@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Old_Tamerza.jpg
 latitude: 34.38
 loc_type: city
 longitude: 7.95
-score: 7.22
+score: 6.289
 snippet: Western Tunisian mountain oasis of waterfalls, ruined stone houses, and canyons
   near the Algerian border.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://www.openstreetmap.org/search?query=Tamerza%20waterfall%20Tunisia
 title: Tamerza
 type: location
+heritage: 2.997
+vibrancy: 1.459
+nature: 7.863
+off_the_beaten_track: 6.179
 ---
 
 Tamerza, also written Tamaghza, is the largest of the mountain oases on Tunisia's far western edge. It sits where the Sahara rises into the Atlas foothills, with palms and running water tucked under bare ochre cliffs. The village itself is quiet, but the setting is one of the most dramatic in southern Tunisia.

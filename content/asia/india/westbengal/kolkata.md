@@ -6,11 +6,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Calcutta_ei05-02.jpg
 latitude: 22.5726
 loc_type: city
 longitude: 88.3639
-score: 8.32
+score: 8.804
 snippet: Eastern Indian metropolis on the Hooghly River, known for colonial architecture,
   literature, and Bengali culture.
 title: Kolkata
 type: location
+heritage: 7.17
+vibrancy: 9.49
+nature: 1.644
+off_the_beaten_track: 1.046
 ---
 
 Kolkata (formerly Calcutta) is one of India's great and complicated cities — a former imperial capital that still carries the grandeur and the wounds of that history in equal measure. It sits in the Ganges delta in West Bengal, and its position as the East India Company's main port made it the richest city in Asia for a century before Delhi took over as the British administrative centre in 1911. The old wealth shows in the colonial architecture along the Strand and around Dalhousie Square, and the relative decline since then shows everywhere else.

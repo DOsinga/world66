@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Blandwood_Mansion,_Greensb
 latitude: 36.072635
 loc_type: city
 longitude: -79.791975
-score: 6.07
+score: 4.387
 snippet: North Carolina Piedmont city where textile history meets the Woolworth lunch-counter
   civil rights landmark.
 title: Greensboro
 type: location
+heritage: 2.958
+vibrancy: 4.879
+nature: 3.116
+off_the_beaten_track: 0.982
 ---
 
 Greensboro sits in the central Piedmont of North Carolina, once the textile capital of the state and now increasingly a center for transportation and education, with five universities calling it home.

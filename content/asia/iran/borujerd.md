@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 33.895
 longitude: 48.759
-score: 6.62
-snippet: Zagros valley city in Lorestan, known for old mosques, Lur culture, and mountain views.
+score: 3.607
+snippet: Zagros valley city in Lorestan, known for old mosques, Lur culture, and mountain
+  views.
 wikidata: Q605454
 sources:
-  - https://en.wikivoyage.org/wiki/Borujerd
-  - https://en.wikipedia.org/wiki/Borujerd
+- https://en.wikivoyage.org/wiki/Borujerd
+- https://en.wikipedia.org/wiki/Borujerd
+heritage: 2.666
+vibrancy: 2.834
+nature: 4.206
+off_the_beaten_track: 4.539
 ---
 
 Borujerd sits in the Silakhor plain of western Iran, with the Zagros Mountains close enough to make the horizon feel high. It is not one of Iran's polished showpiece cities, but it has a real old-city core and enough architectural weight to reward a stop between [Tehran](/asia/iran/tehran), Hamadan, and [Khorramabad](/asia/iran/khoram_abad).

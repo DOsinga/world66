@@ -8,12 +8,16 @@ image_source: https://commons.wikimedia.org/wiki/File:Lowestoft_beach_and_outer_
 latitude: 52.476631
 loc_type: city
 longitude: 1.753764
-score: 6.32
+score: 3.97
 snippet: Northeast Suffolk coastal town at the most easterly point of the United Kingdom.
 sources:
 - https://en.wikipedia.org/wiki/Lowestoft
 title: Lowestoft
 type: location
+heritage: 3.659
+vibrancy: 3.314
+nature: 4.552
+off_the_beaten_track: 1.075
 ---
 
 **Lowestoft** is a coastal town in northeast Suffolk and the most easterly point in the United Kingdom. It sits at the very tip of East Anglia, where the North Sea meets the flatlands of the Broads — a position that has shaped its history as a fishing port, a naval base, and now a quiet seaside town.

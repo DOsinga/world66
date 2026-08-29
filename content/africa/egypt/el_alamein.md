@@ -3,12 +3,17 @@ title: El Alamein
 type: location
 loc_type: city
 latitude: 30.8301
-longitude: 28.9550
-score: 7.2
-snippet: Mediterranean Egyptian town known for Second World War cemeteries, memorials, and desert battle history.
+longitude: 28.955
+score: 4.016
+snippet: Mediterranean Egyptian town known for Second World War cemeteries, memorials,
+  and desert battle history.
 sources:
-  - https://en.wikivoyage.org/wiki/El_Alamein
-  - https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/2019000/el-alamein-war-cemetery/
+- https://en.wikivoyage.org/wiki/El_Alamein
+- https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/2019000/el-alamein-war-cemetery/
+heritage: 4.821
+vibrancy: 2.215
+nature: 3.466
+off_the_beaten_track: 4.077
 ---
 
 El Alamein is a small city on Egypt's Mediterranean coast, famous for the 1942 battles that stopped the Axis advance toward Alexandria and the Nile. The modern town is plain, and the new resort developments along the coast can feel detached from the history, but the war cemeteries and memorials make this one of Egypt's most serious and worthwhile stops for twentieth-century history.

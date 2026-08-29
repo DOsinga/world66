@@ -5,11 +5,15 @@ done:
 latitude: 15.90796
 loc_type: city
 longitude: 73.820531
-score: 6.36
+score: 4.889
 snippet: Former princely-state capital in the Sahyadri foothills, centred on Raj Wada
   palace and Moti Talao.
 title: Sawantwadi
 type: location
+heritage: 4.543
+vibrancy: 3.69
+nature: 5.653
+off_the_beaten_track: 4.381
 ---
 
 Sawantwadi is a small former princely-state capital in the far southwestern corner of Maharashtra, tucked into the Sahyadri foothills just 30 km inland from the Konkan coast and the Goa border. The town centres on its ornamented [Raj Wada palace](/asia/india/maharashtra/sawantwadi/raj_wada_palace) and the adjoining [Moti Talao](/asia/india/maharashtra/sawantwadi/moti_talao) lake, where in the evenings families gather on the lakeside promenade for snacks and paddle-boat rides. Sawantwadi is best known across India for its traditional handicrafts: [ganjifa playing cards](/asia/india/maharashtra/sawantwadi/ganjifa_craft_workshop) (hand-painted circular cards once used at Indian courts) and [lacquered wooden toys](/asia/india/maharashtra/sawantwadi/wooden_lacquerware_workshops), still made in small workshops in the lanes behind the palace.

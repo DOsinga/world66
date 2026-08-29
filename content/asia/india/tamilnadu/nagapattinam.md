@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Nagore_Dargah1.JPG
 latitude: 10.60262
 loc_type: city
 longitude: 79.761935
-score: 6.15
+score: 5.494
 snippet: Cauvery Delta coastal town surrounded by major Hindu, Muslim, Christian,
   and Jain pilgrimage sites.
 title: Nagapattinam
 type: location
+heritage: 6.498
+vibrancy: 4.44
+nature: 3.44
+off_the_beaten_track: 2.801
 ---
 
 Nagapattinam is a coastal district town in the Cauvery Delta, 340 km south of Chennai on the Bay of Bengal. It's the main town in a district that contains an unusual concentration of pilgrimage sites across different religions — Hindu, Muslim, Christian, and Jain — within a small area.

@@ -2,8 +2,9 @@
 latitude: 63.5503
 loc_type: city
 longitude: 23.7015
-score: 6.7
-snippet: Central Ostrobothnian village where Finland's living fiddle tradition has UNESCO status.
+score: 5.92
+snippet: Central Ostrobothnian village where Finland's living fiddle tradition has
+  UNESCO status.
 sources:
 - https://en.wikivoyage.org/wiki/Kaustinen
 - https://ich.unesco.org/en/RL/kaustinen-fiddle-playing-and-related-practices-and-expressions-01683
@@ -11,6 +12,10 @@ sources:
 title: Kaustinen
 type: location
 wikidata: Q1009345
+heritage: 2.863
+vibrancy: 3.785
+nature: 7.347
+off_the_beaten_track: 5.54
 ---
 
 Kaustinen is a small Central Ostrobothnian village with an identity much larger than its population. Its fiddle tradition is not museum folklore but a living local practice, strong enough to be inscribed by UNESCO as intangible cultural heritage.

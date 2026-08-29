@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Balai_Pemuda.jpg
 latitude: -7.2463
 loc_type: city
 longitude: 112.7378
-score: 7.2
+score: 5.109
 title: Surabaya
 type: location
 snippet: Java's second city, a busy port with colonial quarters, historic mosques,
   and a deep independence legacy.
+heritage: 4.105
+vibrancy: 5.528
+nature: 2.918
+off_the_beaten_track: 1.742
 ---
 
 Most travelers pass through Surabaya on the way to the ferry for [Bali](/asia/indonesia/bali) or [Sulawesi](/asia/indonesia/sulawesi), but Java's second city has more to offer than just its port. With over 3 million people, it has the bustling energy of an Asian megacity, genuine historic character, and excellent food.

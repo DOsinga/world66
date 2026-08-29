@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Basilica_Palladiana_(Vicen
 latitude: 45.634859
 loc_type: city
 longitude: 11.406354
-score: 8.66
+score: 5.674
 snippet: Veneto city at the foot of the Berici mountains, closely tied to architect
   Andrea Palladio.
 title: Vicenza
 type: location
+heritage: 7.292
+vibrancy: 3.407
+nature: 3.206
+off_the_beaten_track: 2.536
 ---
 
 Vicenza is located at the foot of the Berici mountains, at the confluence of the Retrone and Bacchiglione rivers, on the upper Venetian plain between Verona and Padua.

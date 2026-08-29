@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:1_sarlat_la_caneda_2016.jp
 latitude: 44.8879
 loc_type: city
 longitude: 1.2161
-score: 8.85
+score: 5.902
 snippet: Dordogne market town with a dense medieval centre of honey-coloured stone
   and Renaissance houses.
 tags:
 - dordogne
 title: Sarlat
 type: location
+heritage: 5.084
+vibrancy: 6.257
+nature: 4.558
+off_the_beaten_track: 1.595
 ---
 
 Sarlat-la-Caneda is the capital of the Périgord Noir and one of the best-preserved medieval towns in France. The old centre is a dense cluster of golden sandstone buildings, turrets, and steep slate roofs — so perfectly intact that it is regularly used as a film set. The [Cathédrale Saint-Sacerdos](/europe/france/aquitaine/sarlat/cathedrale_saint_sacerdos) anchors the historic core, and behind it lie the atmospheric Jardin des Enfeux and the twelfth-century [Lanterne des Morts](/europe/france/aquitaine/sarlat/lanterne_des_morts) — a mysterious funerary tower whose original purpose nobody can agree on.

@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Marburg_Schloss.jpg
 latitude: 50.809
 loc_type: city
 longitude: 8.7704
-score: 7.97
+score: 4.512
 snippet: Hessian university town of steep half-timbered lanes climbing from the Lahn
   to a castle.
 title: Marburg
 type: location
+heritage: 5.442
+vibrancy: 2.707
+nature: 3.836
+off_the_beaten_track: 2.424
 ---
 
 Marburg is a university town in the hills of central Hesse, compact and handsome and largely unspoiled — the kind of German town that didn't get bombed flat in the war and still looks like itself. The old town climbs steeply from the River Lahn up to the Landgraviate castle at the top, with half-timbered houses stacked along the lanes in between. It is a pleasure to walk.

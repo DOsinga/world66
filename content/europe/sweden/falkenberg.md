@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Grand_Hotell_Tullbron_Falk
 latitude: 56.904894
 loc_type: city
 longitude: 12.491293
-score: 6.97
+score: 4.537
 title: Falkenberg
 type: location
 snippet: Halland coastal town on the Ätran River, known for salmon, pottery, and Skrea
   strand.
+heritage: 3.741
+vibrancy: 3.039
+nature: 5.446
+off_the_beaten_track: 1.791
 ---
 
 Falkenberg is a pleasant small coastal town in **Halland**, midway along Sweden's south-west coast between Gothenburg and Malmö. The [Ätran river](/europe/sweden/falkenberg/atran_river) runs through the centre and empties into the Kattegat just below the old town, where low wooden houses cluster around the 14th-century [Sankt Laurentii Church](/europe/sweden/falkenberg/sankt_laurentii_church) — one of the best-preserved medieval stone churches in the region. The river is crossed by the 1761 stone [Tullbron](/europe/sweden/falkenberg/tullbron_bridge), the oldest stone bridge still in everyday use on a Swedish public road. The beach at [Skrea strand](/europe/sweden/falkenberg/skrea_strand), a ten-minute drive south of the centre, is one of the longest sandy beaches in Sweden and a popular Swedish summer destination.

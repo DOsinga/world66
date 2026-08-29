@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alnwick_Castle_in_uk.jpg
 latitude: 55.4134
 loc_type: city
 longitude: -1.7069
-score: 8.05
+score: 5.857
 snippet: Northumberland market town dominated by Alnwick Castle, an ambitious garden,
   and Barter Books.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Alnwick
 title: Alnwick
 type: location
+heritage: 7.306
+vibrancy: 3.863
+nature: 4.431
+off_the_beaten_track: 2.4
 ---
 
 Alnwick (pronounced "Annick" — don't say it as written) is the traditional county town of Northumberland, and it punches well above its weight for a market town of 8,000 people. The two great draws are the castle and the garden. [Alnwick Castle](/europe/unitedkingdom/england/north_east/northumberland/alnwick/alnwick_castle) is one of the grandest medieval castles in England — the seat of the Percy family, Dukes of Northumberland, for over 700 years, and familiar to millions as the exterior of Hogwarts in the early Harry Potter films. [The Alnwick Garden](/europe/unitedkingdom/england/north_east/northumberland/alnwick/the_alnwick_garden), created from the late 1990s by the Duchess of Northumberland, is one of the most ambitious new gardens in Britain — and contains, among its features, a Poison Garden planted exclusively with plants that can kill you.

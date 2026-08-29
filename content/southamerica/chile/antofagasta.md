@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Chile_-_43-2548_-_Docks_at
 latitude: -23.646374
 loc_type: city
 longitude: -70.398003
-score: 6.88
+score: 5.522
 snippet: Northern Chilean port city between Pacific cliffs and desert ranges, built
   on copper wealth.
 title: Antofagasta
 type: location
+heritage: 4.16
+vibrancy: 5.239
+nature: 6.027
+off_the_beaten_track: 3.32
 ---
 
 Antofagasta is the largest city in northern Chile and the capital of the region that bears its name. It is a functional, modern port city built on copper wealth — not a destination in itself, but a practical hub for exploring the Atacama Desert and the northern coast.

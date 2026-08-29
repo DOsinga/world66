@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Lancaster_Central_Market.J
 latitude: 40.037875
 loc_type: city
 longitude: -76.305514
-score: 7.04
+score: 4.995
 snippet: Historic Pennsylvania city with colonial capitals, Central Market, and Amish-country
   farmland nearby.
 title: Lancaster City
 type: location
+heritage: 5.681
+vibrancy: 4.496
+nature: 3.712
+off_the_beaten_track: 1.576
 ---
 
 Lancaster is the urban heart of [Lancaster County](/northamerica/unitedstates/pennsylvania/lancastercounty) and has more historical depth than its small size suggests. The city served briefly as the capital of the United States in 1777, and was the state capital of Pennsylvania until 1812. James Buchanan, the country's fifteenth president, lived and is buried here; his home at [Wheatland](/northamerica/unitedstates/pennsylvania/lancastercounty/lancaster_city/wheatland) sits on the western edge of the city.

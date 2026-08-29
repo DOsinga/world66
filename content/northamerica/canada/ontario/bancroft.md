@@ -2,7 +2,7 @@
 latitude: 45.05
 loc_type: city
 longitude: -77.85
-score: 6.7
+score: 5.126
 snippet: Ontario mineral town on the York River, surrounded by Canadian Shield lakes
   and rockhound country.
 sources:
@@ -17,6 +17,10 @@ image: bancroft.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bancroft,_ON_K0L,_Canada_-_panoramio_(12).jpg
 image_license: CC BY-SA 3.0
 image_attribution: Idawriter
+heritage: 3.72
+vibrancy: 1.538
+nature: 6.368
+off_the_beaten_track: 5.111
 ---
 
 Bancroft is a small eastern Ontario town with a stronger identity than its size suggests. It calls itself the mineral capital of Canada, and for once the slogan is not empty: the surrounding Canadian Shield has produced uranium, sodalite, marble, feldspar, and enough collectible stone to support a serious rockhound culture.

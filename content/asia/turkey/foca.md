@@ -2,7 +2,7 @@
 latitude: 38.6667
 loc_type: city
 longitude: 26.7667
-score: 7.42
+score: 5.47
 snippet: Aegean harbour town on ancient Phocaea, with castle walls, seal islands,
   and a relaxed old quay.
 sources:
@@ -15,6 +15,10 @@ image: foca.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Foca_%C4%B0zmir.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Ersoytoptas
+heritage: 5.052
+vibrancy: 4.319
+nature: 6.337
+off_the_beaten_track: 3.809
 ---
 
 Foça is an old Aegean harbour town north of [Izmir](/asia/turkey/izmir), close enough for a long day trip but much quieter in spirit. The old town, usually called Eski Foça, curves around two small bays, with fishing boats, stone houses, seafood restaurants, and the castle walls of ancient Phocaea still holding the headland.

@@ -6,8 +6,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Tsumago_2009_17.JPG
 latitude: 35.5753
 loc_type: city
 longitude: 137.5951
-score: 8.4
-snippet: Preserved Nakasendo post town with dark wooden inns, quiet lanes, and Edo-period pride.
+score: 4.463
+snippet: Preserved Nakasendo post town with dark wooden inns, quiet lanes, and Edo-period
+  pride.
 sources:
 - https://en.wikivoyage.org/wiki/Tsumago
 - https://en.wikivoyage.org/wiki/Magome-Tsumago_Trail
@@ -17,6 +18,10 @@ sources:
 title: Tsumago
 type: location
 wikidata: Q1079904
+heritage: 4.691
+vibrancy: 2.466
+nature: 4.929
+off_the_beaten_track: 2.185
 ---
 
 Tsumago is the quieter, more stubbornly preserved half of the classic Nakasendo pairing with [Magome](/asia/japan/chubu/magome). It was the 42nd post town on the old inland road between Edo and Kyoto, and the village still keeps the road's shape: low wooden houses, lattice fronts, water channels, old inns, and mountains closing in around the valley.

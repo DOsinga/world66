@@ -16,7 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Matara%2C_Eritrea
 title: Senafe
 type: location
-score: 4.76
+score: 4.594
+heritage: 4.733
+vibrancy: 1.665
+nature: 5.114
+off_the_beaten_track: 6.259
 ---
 
 Senafe is a highland market town in southern Eritrea, close to the Ethiopian border and surrounded by some of the country's most important ancient sites. It is not polished, and it is not busy with tourists. That is exactly why it feels so compelling: a quiet town of stone, fields, churches, and upland air, with the ruins of older civilizations scattered just beyond it.

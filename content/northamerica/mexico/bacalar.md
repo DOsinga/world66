@@ -4,7 +4,7 @@ done:
 latitude: 18.6769
 loc_type: city
 longitude: -88.3953
-score: 7.46
+score: 6.555
 snippet: Lakeside Pueblo Mágico on a turquoise freshwater lagoon near Mexico's Belize
   border.
 sources:
@@ -12,6 +12,10 @@ sources:
 - https://www.openstreetmap.org/
 title: Bacalar
 type: location
+heritage: 4.789
+vibrancy: 5.086
+nature: 7.703
+off_the_beaten_track: 4.136
 ---
 
 Bacalar sits beside a long freshwater lagoon in southern Quintana Roo, close enough to [Chetumal](/northamerica/mexico/chetumal) to make an easy escape but different enough to feel like another trip. The water is the reason to come: shallow, clear, and famously streaked with blues and greens where sandbars, cenotes, and deeper channels change the colour under the sun.

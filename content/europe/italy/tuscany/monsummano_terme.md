@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Monsummano_piazza_giusti.J
 latitude: 43.8707
 loc_type: city
 longitude: 10.814
-score: 7.56
+score: 4.8
 snippet: Tuscan spa town centred on Grotta Giusti, a natural thermal cave lined with
   stalactites
 title: Monsummano Terme
 type: location
+heritage: 5.779
+vibrancy: 2.444
+nature: 4.104
+off_the_beaten_track: 1.642
 ---
 
 Monsummano Terme is a small Tuscan spa town that feels far less overrun than its larger cousin Montecatini Terme just a few kilometres away. The main attraction is the Grotta Giusti Terme, a thermal cave spa built inside a natural cavern lined with stalactites and stalagmites, where the air temperature reaches 36°C in the deepest chambers. You receive a robe at the entrance and are advised to spend no more than an hour inside, after which you can bathe in the outdoor thermal pool.

@@ -12,9 +12,13 @@ loc_type: city
 snippet: Secular Israeli beach city of Bauhaus streets, late-night cafes, and the
   old port of Jaffa.
 longitude: 34.7818
-score: 8.82
+score: 8.593
 title: Tel Aviv
 type: location
+heritage: 7.67
+vibrancy: 9.009
+nature: 5.981
+off_the_beaten_track: 2.883
 ---
 
 Tel Aviv is the most modern and westernised city in Israel, and deliberately, defiantly so. Jerusalem is the religious and political capital; Tel Aviv is the party capital, the beach capital, and the capital of Israeli secular life. Walking the streets at night — past sidewalk cafes, bars running until 5am, and the steady thump from clubs on Lilinblum Street — it is difficult to believe you are in the holy land at all.

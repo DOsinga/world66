@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Paisaje_en_el_Parque_de_Do
 latitude: 36.98446
 loc_type: city
 longitude: -6.408603
-score: 8.42
+score: 5.722
 title: Doñana National Park
 type: location
 snippet: UNESCO wetland reserve in southwestern Andalucía, protecting marshes, dunes,
   scrubland, and pine forest.
+heritage: 2.155
+vibrancy: 1.217
+nature: 7.463
+off_the_beaten_track: 4.609
 ---
 
 Doñana is one of Europe's most important wetland reserves and a UNESCO World Heritage Site, straddling the border between Huelva and Cádiz provinces in southwestern Andalucía. It protects an extraordinary mosaic of marshes, dunes, scrubland and pine forest at the mouth of the Guadalquivir river — a critical wintering and staging ground for hundreds of thousands of migratory birds.

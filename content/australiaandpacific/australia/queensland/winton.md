@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -22.3913
 longitude: 143.0381
-score: 7.5
+score: 4.774
 snippet: Remote Outback Queensland town of dinosaurs, Waltzing Matilda, and wide red-dirt
   horizons
 sources:
@@ -14,6 +14,10 @@ image: winton.jpg
 image_source: https://commons.wikimedia.org/wiki/File:A_daytime_photo_of_the_Royal_Theatre_building_fa%C3%A7ade_(it_is_a_traditional_%E2%80%9Copen_air_theatre%E2%80%9D);_located_in_the_main_street_called_Elderslie_Street,_Winton,_2021.jpg
 image_license: CC BY 4.0
 image_attribution: Anonymous
+heritage: 3.059
+vibrancy: 1.42
+nature: 5.956
+off_the_beaten_track: 4.733
 ---
 
 Winton is a small Outback Queensland town with a reach far beyond its size. It sits in red, open country west of [Longreach](/australiaandpacific/australia/queensland/longreach), and it has two strong claims on the Australian imagination: the story of "Waltzing Matilda" and some of the country's richest dinosaur finds.

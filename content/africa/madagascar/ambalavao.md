@@ -4,7 +4,7 @@ done:
 latitude: -21.8333
 loc_type: city
 longitude: 46.9333
-score: 6.56
+score: 6.173
 snippet: Highland Malagasy town on the RN7, known for zebu markets, Antaimoro paper,
   and nearby lemurs.
 sources:
@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Anja_Community_Reserve
 title: Ambalavao
 type: location
+heritage: 1.727
+vibrancy: 1.635
+nature: 7.822
+off_the_beaten_track: 5.723
 ---
 
 Ambalavao is a highland town south of [Fianarantsoa](/africa/madagascar/fianarantsoa), where Madagascar's central plateau begins to tilt toward the drier south. It is a useful stop on the RN7, but it has more personality than a simple road break: Betsileo houses, craft workshops, a lively [zebu market](/africa/madagascar/ambalavao/zebu_market), and mountains rising in the distance.

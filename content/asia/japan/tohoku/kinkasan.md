@@ -6,7 +6,7 @@ country: Japan
 latitude: 38.2846
 longitude: 141.5748
 wikidata: Q6413909
-score: 7.2
+score: 3.964
 snippet: Sacred Miyagi island of gold-shrine pilgrimage, forested mountain paths,
   and tame deer.
 sources:
@@ -20,6 +20,10 @@ image: kinkasan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kinkasan_in_Sanriku_Fukko_National_Park.jpg
 image_license: CC BY-SA 4.0
 image_attribution: ブルーノ・プラス
+heritage: 2.638
+vibrancy: 1.858
+nature: 4.853
+off_the_beaten_track: 4.229
 ---
 
 Kinkasan is a small, steep island off the Oshika Peninsula in Miyagi, sacred enough that the whole island feels like an extension of its shrine. The ferry lands below [Koganeyama Shrine](/asia/japan/tohoku/kinkasan/koganeyama_shrine), a gold-coloured Shinto sanctuary tied to Japan's first gold production and to a stubborn promise of good fortune for anyone who returns three years in a row.

@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 60.7957
 longitude: 10.6916
-score: 5.8
-snippet: Lake Mjøsa town with an Olympic cavern hall, paddle steamer pier, and open-air farm museum.
+score: 4.427
+snippet: Lake Mjøsa town with an Olympic cavern hall, paddle steamer pier, and open-air
+  farm museum.
 sources:
-  - https://en.wikivoyage.org/wiki/Gj%C3%B8vik
-  - https://en.wikipedia.org/wiki/Gj%C3%B8vik
+- https://en.wikivoyage.org/wiki/Gj%C3%B8vik
+- https://en.wikipedia.org/wiki/Gj%C3%B8vik
 wikidata: Q109088
+heritage: 3.38
+vibrancy: 2.411
+nature: 5.429
+off_the_beaten_track: 1.868
 ---
 
 Gjøvik sits on the west shore of Lake Mjøsa, Norway's largest lake, with a compact centre, a working railway station, and a waterfront that looks across to the farms and low hills of Innlandet. It is not one of Norway's showpiece towns, but it has a handful of very specific reasons to stop.

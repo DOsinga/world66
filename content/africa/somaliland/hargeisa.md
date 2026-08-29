@@ -5,11 +5,15 @@ done:
 latitude: 9.5617
 loc_type: city
 longitude: 44.0618
-score: 5.37
+score: 5.568
 title: Hargeisa
 type: location
 snippet: Somaliland capital in the Horn of Africa, rebuilt around a central war memorial
   after civil-war bombing.
+heritage: 3.14
+vibrancy: 5.685
+nature: 4.1
+off_the_beaten_track: 7.458
 ---
 
 Hargeisa is the capital of Somaliland, the self-declared republic in the northwest of the Horn of Africa. With over a million people, it is by far the largest city in the territory and the first point of entry for most visitors. It is a sprawling, dusty, energetic place — not beautiful in any conventional sense, but full of life and surprisingly welcoming to the few travellers who make it here.

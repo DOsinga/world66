@@ -2,15 +2,20 @@
 title: Griffith
 type: location
 loc_type: city
-latitude: -34.2870
-longitude: 146.0500
+latitude: -34.287
+longitude: 146.05
 wikidata: Q14217100
-score: 7.1
-snippet: Riverina city of irrigation, Italian food, big wineries, and red-rock country nearby.
+score: 4.104
+snippet: Riverina city of irrigation, Italian food, big wineries, and red-rock country
+  nearby.
 sources:
-  - https://en.wikivoyage.org/wiki/Griffith
-  - https://en.wikipedia.org/wiki/Griffith%2C_New_South_Wales
-  - https://visitgriffith.com.au/maps-and-guides/hermits-cave-heritage-trail/
+- https://en.wikivoyage.org/wiki/Griffith
+- https://en.wikipedia.org/wiki/Griffith%2C_New_South_Wales
+- https://visitgriffith.com.au/maps-and-guides/hermits-cave-heritage-trail/
+heritage: 2.955
+vibrancy: 1.922
+nature: 5.108
+off_the_beaten_track: 3.627
 ---
 
 Griffith is the Riverina at full scale: irrigation channels, flat farmland, wineries with national labels, and a town centre shaped by Italian migration. It was planned by Walter Burley Griffin and Marion Mahony Griffin, but it feels less like a design exercise than a working food-and-wine city in the middle of dry country.

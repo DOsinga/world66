@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:2014-7-Pelje%C5%A1ac_Vigan
 latitude: 42.982063
 loc_type: city
 longitude: 17.102213
-score: 8.34
+score: 4.804
 snippet: Pelješac village near Orebić, known for reliable channel winds and windsurfing
   beaches.
 tags:
 - peljesac
 title: Viganj
 type: location
+heritage: 3.878
+vibrancy: 3.46
+nature: 5.775
+off_the_beaten_track: 3.218
 ---
 
 Viganj is a small village just west of [Orebić](/europe/croatia/orebic) on the Pelješac peninsula. The Pelješac channel funnels a reliable afternoon wind here, making it one of the best [windsurfing and kitesurfing](/europe/croatia/viganj/windsurfing) spots on the Croatian coast. Several schools rent equipment and offer lessons. Beyond the wind, there is a long pebble beach, a handful of restaurants, the small Franciscan [Our Lady of Angels monastery](/europe/croatia/viganj/franciscan_monastery) on the headland east of the village, and a [short ferry](/europe/croatia/viganj/korcula_ferry) across the channel to Korčula — but not much else, which is exactly the point.

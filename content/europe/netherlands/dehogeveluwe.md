@@ -8,10 +8,14 @@ longitude: 5.8311
 title: De Hoge Veluwe
 todo_location_cleanup: done
 type: location
-score: 8.12
+score: 5.61
 loc_type: feature
 snippet: Dutch national park of heath, sand drifts, woodland, free white bicycles,
   and the Kröller-Müller Museum.
+heritage: 2.972
+vibrancy: 1.213
+nature: 7.436
+off_the_beaten_track: 3.639
 ---
 
 De Hoge Veluwe is one of the Netherlands' largest and finest national parks, covering around 5,400 hectares of heathland, sand drifts, woodland, and lakes about 65 km east of Amsterdam. Red deer, wild boar, foxes, and mouflon roam freely through the park — you are more or less guaranteed to see deer if you spend a few hours walking the trails.

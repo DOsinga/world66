@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Croatia_Krk_BW_2014-10-12_
 latitude: 45.0267
 loc_type: city
 longitude: 14.5756
-score: 8.43
+score: 5.461
 snippet: Historic town on Krk island with Roman roots, medieval walls, Venetian stone,
   and an old cathedral.
 tags:
 - krkisland
 title: Krk
 type: location
+heritage: 4.483
+vibrancy: 5.288
+nature: 5.907
+off_the_beaten_track: 1.732
 ---
 
 Krk is the oldest continuously inhabited town on the island, and one of the oldest in Croatia. It sits on a small promontory on the southwestern coast, its [medieval walls](/europe/croatia/krk/old_town_walls) more or less intact, with a compact old town of Roman foundations and Venetian stone.

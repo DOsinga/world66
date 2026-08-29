@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pamukkale,_Denizli_2026_68
 latitude: 37.92
 loc_type: city
 longitude: 29.1218
-score: 9.23
+score: 6.294
 snippet: Turkish spa village below white travertine terraces and the Greco-Roman ruins
   of Hierapolis.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Ploutonion_at_Hierapolis
 title: Pamukkale
 type: location
+heritage: 8.162
+vibrancy: 2.462
+nature: 4.056
+off_the_beaten_track: 3.021
 ---
 
 Pamukkale — "cotton castle" in Turkish — is one of Turkey's most extraordinary natural sights: a hillside of brilliant white [travertine terraces](/asia/turkey/gallipoli_troy/pamukkale/travertine_terraces) formed over millennia by calcium-rich thermal springs. The warm, mineral-laden water flows down the slope, depositing limestone as it goes, creating a cascade of shallow turquoise pools that look like something from another planet.

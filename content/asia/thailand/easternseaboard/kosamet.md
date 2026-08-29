@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:KoSamet.jpg
 latitude: 12.5523
 loc_type: island
 longitude: 101.4483
-score: 8.47
+score: 3.497
 snippet: Small island southeast of Bangkok, known for white beaches within Khao Laem
   Ya-Mu Ko Samet National Park.
 title: Ko Samet
 type: location
+heritage: 0.751
+vibrancy: 3.515
+nature: 3.452
+off_the_beaten_track: 1.39
 ---
 
 Ko Samet is a small island about 200km southeast of Bangkok, and for that reason it draws more weekend visitors than almost any other beach destination in Thailand. It sits within [Khao Laem Ya–Mu Ko Samet National Park](/asia/thailand/easternseaboard/kosamet/khao_laem_ya_national_park), which means the interior is protected forest and the beaches are kept relatively clean — something you cannot take for granted on more developed Thai islands.

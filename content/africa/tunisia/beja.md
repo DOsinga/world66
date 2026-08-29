@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Beja_agriculture.jpg
 latitude: 36.7333
 loc_type: city
 longitude: 9.1833
-score: 6.42
+score: 4.35
 snippet: Northwestern Tunisian provincial city in wheat country, with Roman Vaga history
   and a hilltop kasbah.
 title: Béja
 type: location
+heritage: 5.423
+vibrancy: 2.95
+nature: 3.173
+off_the_beaten_track: 3.874
 ---
 
 Béja sits in the green, rolling hills of northwestern Tunisia, about 100 km west of Tunis. This is the breadbasket of the country — wheat fields, olive groves, and grazing land spreading out from the town in every direction, a striking contrast to the desert south. The Romans called the place **Vaga** and prized it as a grain depot; the Carthaginians, Numidians, Vandals, Byzantines, and finally the Arabs all in turn took the town for the same reason.

@@ -5,7 +5,7 @@ done:
 latitude: 24.4975
 loc_type: city
 longitude: 93.9836
-score: 5.69
+score: 3.53
 snippet: Southeastern Manipur town with an organized market culture, People's Museum,
   and gardens near Imphal.
 sources:
@@ -13,6 +13,10 @@ sources:
 - https://kakching.nic.in/places-of-interest/
 title: Kakching
 type: location
+heritage: 3.634
+vibrancy: 1.402
+nature: 3.931
+off_the_beaten_track: 4.524
 ---
 
 Kakching is the second largest town in Manipur, situated in the southeastern part of the state about 44 kilometres from [Imphal](/asia/india/manipur/imphal) and 70 kilometres from the border with Myanmar. The town was declared the cleanest city in Northeast India in 2018, and it shows — the streets are unusually well-organized for a town of this size, and the market culture is lively without being chaotic.

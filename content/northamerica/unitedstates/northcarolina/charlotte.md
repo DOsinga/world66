@@ -7,11 +7,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Charlotte,_NC_(49571333468
 latitude: 35.227209
 loc_type: city
 longitude: -80.843083
-score: 6.78
+score: 5.771
 snippet: North Carolina banking city with Southern roots, Revolutionary history, and
   glassy Uptown towers.
 title: Charlotte
 type: location
+heritage: 6.143
+vibrancy: 5.673
+nature: 3.889
+off_the_beaten_track: 1.386
 ---
 
 Charlotte is North Carolina's largest city and the second-largest banking center in the United States after New York. But beyond the glass towers of Uptown, the city has genuine Southern character and a history that stretches back to the eighteenth century.

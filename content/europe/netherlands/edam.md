@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Edam_-_Kwakelsteeg_-_At_th
 latitude: 52.511912
 loc_type: city
 longitude: 5.056285
-score: 7.85
+score: 5.298
 title: Edam
 type: location
 snippet: Canal town north of Amsterdam, quieter than Volendam and known worldwide
   for red-waxed cheese.
+heritage: 6.969
+vibrancy: 2.854
+nature: 2.895
+off_the_beaten_track: 1.391
 ---
 
 Edam is a pretty little town just north of Amsterdam, best known for giving its name to the round, red-waxed Edam cheese — though in town itself there is surprisingly little to remind you of this fact. What it does have are some lovely canals, handsome canal houses, and a quieter, more authentic atmosphere than nearby [Volendam](/europe/netherlands/volendam).

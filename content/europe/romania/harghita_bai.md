@@ -2,10 +2,15 @@
 latitude: 46.4
 loc_type: feature
 longitude: 25.65
-score: 1.2
-snippet: Low-key spa and ski resort in the volcanic Harghita Mountains, a short drive west of Miercurea Ciuc.
+score: 5.402
+snippet: Low-key spa and ski resort in the volcanic Harghita Mountains, a short drive
+  west of Miercurea Ciuc.
 title: Harghita Băi
 type: location
+heritage: 4.921
+vibrancy: 2.301
+nature: 6.287
+off_the_beaten_track: 3.988
 ---
 
 Harghita Băi (Hargitafürdő in Hungarian) is a small spa and ski resort about 30 kilometres west of Miercurea Ciuc, tucked into the volcanic Harghita Mountains at around 1,300 metres. The setting is the draw: pine forest and open meadow, clean cold air, and mineral springs that have been bottled and used in bath treatments since the nineteenth century. It is a place to slow down rather than tick off sights.

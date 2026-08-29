@@ -5,7 +5,7 @@ loc_type: city
 latitude: 53.5407
 longitude: -9.2869
 wikidata: Q1125668
-score: 6.8
+score: 5.099
 snippet: Mayo village between Lough Corrib and Lough Mask, known for abbey ruins and
   The Quiet Man.
 sources:
@@ -16,6 +16,10 @@ image: cong.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bridge_over_the_River_Cong_-_geograph.org.uk_-_5010174.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Alan Reid
+heritage: 5.043
+vibrancy: 2.564
+nature: 5.766
+off_the_beaten_track: 2.327
 ---
 
 *Europe > Ireland > Cong*

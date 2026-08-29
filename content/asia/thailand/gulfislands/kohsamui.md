@@ -5,7 +5,7 @@ done:
 latitude: 9.512
 loc_type: island
 longitude: 100.0136
-score: 9.0
+score: 6.555
 title: Koh Samui
 type: location
 snippet: Koh Samui is Thailand’s third-largest island, with coral-sand beaches around
@@ -14,6 +14,10 @@ image: kohsamui.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bo_Phut_Beach.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Per Meistrup
+heritage: 3.974
+vibrancy: 6.623
+nature: 6.378
+off_the_beaten_track: 1.189
 ---
 
 Koh Samui is Thailand's third-largest island, a ring of coral-sand beaches around a forested interior, sitting in the Gulf of Thailand about 500 kilometres south of Bangkok. For decades it had a backpacker's reputation — bungalows on the sand, full-moon parties on the neighbouring island of Koh Phangan — but the arrival of the airport in 1989 changed it. Today it sits somewhere between mass tourism and the Thailand of twenty years ago: big resorts on the main beaches, quieter coves just around the headland, a strong live-in expat community, and prices that range from backpacker-cheap to Bali-villa-pricey depending on where you land.

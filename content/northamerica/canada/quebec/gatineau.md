@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gatineau_-_QC_-_Museum_of_
 latitude: 45.4765
 loc_type: city
 longitude: -75.7013
-score: 7.26
+score: 5.014
 snippet: Quebec city across from Ottawa, tying Hull museums, Aylmer waterfront, and
   Gatineau Park into one capital-region base.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://ncc-ccn.gc.ca/places/gatineau-park
 title: Gatineau
 type: location
+heritage: 3.068
+vibrancy: 4.438
+nature: 5.627
+off_the_beaten_track: 1.803
 ---
 
 Gatineau is the Quebec city facing [Ottawa](/northamerica/canada/ontario/ottawa) across the river, and it works best when you think of it as several former towns stitched together. [Hull](/northamerica/canada/quebec/hull) is the urban, museum-heavy sector closest to Parliament Hill. [Aylmer](/northamerica/canada/quebec/aylmer) is quieter and older, with a riverfront village feel. The Gatineau sector itself sprawls east, while the green hills of Gatineau Park rise just to the north.

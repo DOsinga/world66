@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 32.4228
 longitude: 131.6239
-score: 7.0
-snippet: Miyazaki port city with surf beaches, basalt cliffs, and an old coastal merchant quarter.
+score: 5.716
+snippet: Miyazaki port city with surf beaches, basalt cliffs, and an old coastal merchant
+  quarter.
 sources:
 - https://en.wikivoyage.org/wiki/Hyuga
 - https://en.wikipedia.org/wiki/Hy%C5%ABga,_Miyazaki
 - https://www.kanko-miyazaki.jp/en/sightseeing/1017
 - https://www.ana.co.jp/en/us/japan-travel-planner/miyazaki/0000007.html
+heritage: 4.243
+vibrancy: 3.857
+nature: 6.996
+off_the_beaten_track: 2.236
 ---
 
 Hyuga sits on the Pacific side of northern Miyazaki, where Kyushu's coast turns rocky, green, and wave-beaten. The city is spread out, but it has a clear reason to stop: surfing beaches south of town, old port streets at Mimitsu, and the black-columned cliffs of Cape Hyuga.

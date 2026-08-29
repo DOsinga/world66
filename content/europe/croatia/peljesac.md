@@ -7,13 +7,17 @@ image_source: https://commons.wikimedia.org/wiki/File:J36_059_Pelje%C5%A1ac.jpg
 latitude: 42.904567
 loc_type: feature
 longitude: 17.47521
-score: 8.2
+score: 5.599
 snippet: Long Dalmatian peninsula near Dubrovnik, with island-like villages, pebble
   coves, and wine country.
 tags:
 - dalmatia
 title: Pelješac
 type: location
+heritage: 4.952
+vibrancy: 2.501
+nature: 6.579
+off_the_beaten_track: 4.347
 ---
 
 The Pelješac peninsula is the second largest in Croatia, stretching 85 kilometres along the south Dalmatian coast in immediate proximity to [Dubrovnik](/europe/croatia/dubrovnik). Although it is attached to the mainland — making it easy to reach — it has all the characteristics of a typical Dalmatian island: unspoiled nature, crystal-clear bays, and traditional stone villages where the pace of life has barely changed.

@@ -4,10 +4,15 @@ done:
 latitude: 14.6167
 loc_type: feature
 longitude: -60.8833
-score: 8.1
-snippet: Shallow sandbars rising from a turquoise lagoon, perfect for wading and boat excursions
+score: 5.74
+snippet: Shallow sandbars rising from a turquoise lagoon, perfect for wading and boat
+  excursions
 title: Les Fonds Blancs
 type: location
+heritage: 4.431
+vibrancy: 1.693
+nature: 7.019
+off_the_beaten_track: 4.261
 ---
 
 Les Fonds Blancs — "the white shallows" — is a stretch of shallow lagoon on Martinique's east coast, between Le François and Le Vauclin. Patches of white sand rise just below the surface of the Caribbean here, creating knee-deep pools of clear turquoise water in the open sea, far from any shore. The effect is disorienting and beautiful: you step off a boat and find yourself standing in the middle of the ocean with the water barely reaching your waist.

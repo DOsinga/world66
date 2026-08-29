@@ -5,7 +5,7 @@ done:
 latitude: 24.3263
 loc_type: city
 longitude: 124.089
-score: 9.01
+score: 6.424
 snippet: Tiny Yaeyama coral island with sandy lanes, red-tiled roofs, shisa statues,
   and star-sand beaches.
 sources:
@@ -18,6 +18,10 @@ image: taketomiisland.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Taketomi_Island.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Jordy Meow
+heritage: 6.01
+vibrancy: 2.023
+nature: 7.41
+off_the_beaten_track: 4.324
 ---
 
 Taketomi is a tiny coral island in the Yaeyama group, ten minutes by ferry from [Ishigaki](/asia/japan/okinawa/ishigakiisland). It covers barely five square kilometres, and the single [village at its centre](/asia/japan/okinawa/taketomiisland/taketomi_village) has been preserved almost unchanged for generations: low coral-stone walls line unpaved sandy lanes, red-tiled roofs are guarded by shisa lion statues, and bougainvillea spills over every gate. The island is small enough to cycle around in an hour and pleasant enough that many visitors wish they had stayed longer.

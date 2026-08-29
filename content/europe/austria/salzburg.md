@@ -16,7 +16,7 @@ quick_facts:
   Mozart: Born here in 1756
   Population: 155,000
   Sound of Music: Filmed here
-score: 9.49
+score: 5.692
 snippet: Baroque Austrian city on an Alpine river, built from salt wealth and Mozart
   history.
 tip: Salzburg is Mozart's birthplace and the Sound of Music city — the official tour
@@ -26,6 +26,10 @@ tip: Salzburg is Mozart's birthplace and the Sound of Music city — the officia
   are wrapped silver and blue.
 title: Salzburg
 type: location
+heritage: 4.151
+vibrancy: 5.985
+nature: 4.933
+off_the_beaten_track: 1.607
 ---
 
 Salzburg is the fourth-largest city in Austria and the country's most improbably perfect baroque ensemble — a UNESCO World Heritage old town of marble fountains, painted churches, and narrow arcaded lanes, wrapped around a fast-flowing Alpine river at the foot of the mountains. For a thousand years, from the 8th century until 1803, Salzburg was not an Austrian city at all but an independent **prince-archbishopric**, ruled by a succession of powerful and ambitious prince-bishops who spent the city's salt revenues on building projects, Italian architects, and the musical establishment that later produced **Mozart**. The name itself means "salt castle", and it was salt mined in the mountains above the city that made the archbishops rich enough to do all this.

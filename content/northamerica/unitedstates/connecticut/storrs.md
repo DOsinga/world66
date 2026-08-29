@@ -2,16 +2,21 @@
 latitude: 41.8083
 loc_type: city
 longitude: -72.2494
-score: 6.2
-snippet: Connecticut university village where UConn's museums, performances, and nearby trails make a focused day out.
+score: 4.235
+snippet: Connecticut university village where UConn's museums, performances, and nearby
+  trails make a focused day out.
 sources:
-  - https://en.wikivoyage.org/wiki/Storrs
-  - https://bimp.uconn.edu/
-  - https://benton.uconn.edu/
-  - https://ctvisit.com/listings/downtown-storrs
-  - https://www.mansfieldct.gov/1524/Explore-things-to-do
+- https://en.wikivoyage.org/wiki/Storrs
+- https://bimp.uconn.edu/
+- https://benton.uconn.edu/
+- https://ctvisit.com/listings/downtown-storrs
+- https://www.mansfieldct.gov/1524/Explore-things-to-do
 title: Storrs
 type: location
+heritage: 3.495
+vibrancy: 4.352
+nature: 3.933
+off_the_beaten_track: 0.792
 ---
 
 Storrs is the village face of the University of Connecticut, set in the rural town of Mansfield. It is not a classic New England sightseeing town, and it does not pretend to be one. Its reason to visit is the UConn cluster: museums, performance spaces, student energy, and a surprisingly strong puppetry tradition.

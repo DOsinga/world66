@@ -2,13 +2,19 @@
 latitude: 39.419444
 loc_type: city
 longitude: -0.790556
-snippet: Inland Valencian town known for La Tomatina, a hill castle, and river swimming holes.
+snippet: Inland Valencian town known for La Tomatina, a hill castle, and river swimming
+  holes.
 sources:
-  - https://en.wikivoyage.org/wiki/Bu%C3%B1ol
-  - https://www.wikidata.org/wiki/Q853762
-  - https://en.wikipedia.org/wiki/Bu%C3%B1ol
+- https://en.wikivoyage.org/wiki/Bu%C3%B1ol
+- https://www.wikidata.org/wiki/Q853762
+- https://en.wikipedia.org/wiki/Bu%C3%B1ol
 title: Buñol
 type: location
+score: 4.07
+heritage: 3.921
+vibrancy: 4.157
+nature: 2.41
+off_the_beaten_track: 3.181
 ---
 
 Buñol sits in the hills west of [Valencia](/europe/spain/valencian_community/valencia), close enough for an easy day trip but very different in feel from the coast. Most visitors know the name because of [La Tomatina](/europe/spain/valencian_community/bunol/la_tomatina), the tomato fight that takes over the town on the last Wednesday of August. Outside that one wild morning, Buñol is a quiet place of steep streets, water, and old stone.

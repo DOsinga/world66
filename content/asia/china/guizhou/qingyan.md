@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Ground_Opera_Troupe_at_Qin
 latitude: 26.375
 loc_type: city
 longitude: 106.658
-score: 8.44
+score: 5.445
 snippet: Ming-era walled town south of Guiyang, with stone gates, flagstone streets,
   and old guild halls.
 sources:
 - https://en.wikivoyage.org/wiki/Guizhou
 title: Qingyan Ancient Town
 type: location
+heritage: 6.132
+vibrancy: 1.801
+nature: 5.616
+off_the_beaten_track: 3.086
 ---
 
 Qingyan Ancient Town lies 29 kilometres south of Guiyang, and the ease of access from the capital has made it one of the most visited heritage sites in the province. What survives is a walled settlement from the Ming Dynasty — stone walls and four gate towers enclosing a grid of flagstone streets lined with temples, guild halls, residences, and shops that retain their wooden facades. The town was established as a military garrison in 1378 to guard the approaches to Guiyang, and the grid street plan and defensive wall reflect that origin.

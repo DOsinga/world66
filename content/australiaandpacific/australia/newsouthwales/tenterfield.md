@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -29.055278
 longitude: 152.017778
-score: 7.0
+score: 4.114
 snippet: New England town where Federation history meets granite parks and waterfall
   country.
 sources:
@@ -19,6 +19,10 @@ image: tenterfield.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tenterfield_(1).JPG
 image_license: CC BY-SA 3.0
 image_attribution: Cgoodwin
+heritage: 4.26
+vibrancy: 2.011
+nature: 4.571
+off_the_beaten_track: 2.229
 ---
 
 Tenterfield is a high-country town on the New England Tablelands, close to the Queensland border and surrounded by granite, waterfalls, and bushranger country. It is also tied to Australia's Federation story: Sir Henry Parkes delivered his 1889 Tenterfield Oration here, helping push the colonies toward union.

@@ -2,7 +2,7 @@
 latitude: 55.0
 longitude: 9.9
 loc_type: feature
-score: 6.97
+score: 4.167
 snippet: Southern Danish island of fjords, ducal estates, and the battlefield landscape
   of 1864, centred on the castle town of Sønderborg.
 title: Als
@@ -11,6 +11,10 @@ image: als.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Augustenborg-Storegade.jpg
 image_license: CC BY 3.0
 image_attribution: Dguendel
+heritage: 4.826
+vibrancy: 2.018
+nature: 3.997
+off_the_beaten_track: 1.513
 ---
 
 Als is an island in southern Denmark, separated from the Jutland peninsula by the narrow Als Strait and connected by bridge at [Sønderborg](/europe/denmark/sonderborg). At 321 square kilometres it is a substantial island — larger than Langeland and Ærø combined — but it sits in the shadow of Sønderborg and is not widely treated as a destination in itself.

@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Recklinghausen,_Alte_Apoth
 latitude: 51.614382
 loc_type: city
 longitude: 7.197855
-score: 6.26
+score: 4.374
 snippet: Ruhr-edge city with a compact old town and an unusually rich museum of Orthodox
   Christian icons.
 title: Recklinghausen
 type: location
+heritage: 4.157
+vibrancy: 4.489
+nature: 2.61
+off_the_beaten_track: 1.231
 ---
 
 Recklinghausen sits on the northern edge of the Ruhr area and has one genuinely unusual claim to fame: the [Ikonen-Museum](/europe/germany/northrhinewestphalia/recklinghausen/ikonen_museum), home to the largest collection of Orthodox Christian icons outside the Eastern Orthodox world. Over a thousand icons from Russia, Greece, and the Balkans fill a converted church, and even if religious art is not normally your thing, the sheer concentration and quality of the collection is impressive. It is one of those niche museums that justifies a detour.

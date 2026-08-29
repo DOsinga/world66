@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Island_in_the_Zambezi_Rive
 latitude: -15.75
 loc_type: feature
 longitude: 29.3333
-score: 7.5
+score: 5.924
 snippet: Wild lower-Zambezi national park of floodplain pools, winterthorn forest,
   elephants, and walking safaris.
 sources:
@@ -18,6 +18,10 @@ sources:
 - https://zimfieldguide.com/mashonaland-west/mana-pools-national-park-unesco-world-heritage-natural-site
 title: Mana Pools National Park
 type: location
+heritage: 1.544
+vibrancy: 1.235
+nature: 7.197
+off_the_beaten_track: 6.507
 ---
 
 Mana Pools is Zimbabwe's great walking-safari wilderness, a lower-Zambezi landscape of floodplain pools, river islands, albida woodland, and the Zambezi escarpment rising blue in the distance. It is remote, hot, and not especially easy to reach, which is part of why it remains so special.

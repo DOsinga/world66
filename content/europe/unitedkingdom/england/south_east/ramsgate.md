@@ -5,7 +5,7 @@ done:
 latitude: 51.333473
 loc_type: city
 longitude: 1.419648
-score: 7.12
+score: 4.382
 title: Ramsgate
 type: location
 snippet: Kentish seaside town with England's only royal harbour and Regency streets
@@ -14,6 +14,10 @@ image: ramsgate.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Marina_Esplanade_at_Ramsgate_Tunnels,_Ramsgate_-_geograph.org.uk_-_6395821.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Ian S
+heritage: 3.519
+vibrancy: 3.656
+nature: 5.026
+off_the_beaten_track: 1.308
 ---
 
 Ramsgate is a Kentish seaside town with more architectural substance than most English coastal resorts. The [Royal Harbour](/europe/unitedkingdom/england/south_east/ramsgate/royal_harbour) — the only royal harbour in the country, a distinction conferred by George IV in 1821 — is lined with Regency and Georgian townhouses climbing the chalk cliffs on both sides, and the inner marina still has working fishing boats alongside the yachts.

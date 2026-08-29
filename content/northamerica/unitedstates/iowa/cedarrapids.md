@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bohemian-Commercial-Histor
 latitude: 41.9759
 loc_type: city
 longitude: -91.6704
-score: 5.94
+score: 4.23
 snippet: Eastern Iowa city on the Cedar River, known for grain processing and Czech
   and Slovak heritage.
 title: Cedar Rapids
 type: location
+heritage: 3.649
+vibrancy: 4.462
+nature: 3.632
+off_the_beaten_track: 0.606
 ---
 
 Cedar Rapids is Iowa's second-largest city, a manufacturing and processing centre on the Cedar River in east-central Iowa. It is best known as a production hub for grain processing — the smell of Quaker Oats cereals has historically been synonymous with parts of the city — and for its large Czech and Slovak immigrant community, which shaped the culture of the surrounding area in the late 19th and early 20th centuries.

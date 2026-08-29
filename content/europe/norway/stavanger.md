@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:00_3266_Stavanger_-_Norweg
 latitude: 58.969968
 loc_type: city
 longitude: 5.73181
-score: 8.59
+score: 5.695
 snippet: Southern Norwegian oil city where white timber lanes overlook a modern North
   Sea energy capital.
 title: Stavanger
 type: location
+heritage: 3.066
+vibrancy: 4.412
+nature: 6.695
+off_the_beaten_track: 2.657
 ---
 
 Stavanger is a charming southern Norwegian city and an exciting mix of old and new. Its proximity to the North Sea oil fields has made it the fast-growing and wealthy oil capital of Norway. But its narrow lanes and white timber houses are all in well-preserved traditional style. It is a modern city with a wide variety of shops, cafes and restaurants — contrast characterises this city, the people who live there, the surrounding landscape, and the weather.

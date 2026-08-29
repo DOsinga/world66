@@ -2,13 +2,17 @@
 latitude: 37.992379
 loc_type: city
 longitude: -1.130543
-score: 7.6
+score: 5.67
 snippet: Provincial capital in a fertile irrigated plain — a Baroque cathedral, riverside
   gardens, and "the market garden of Europe".
 sources:
 - https://en.wikipedia.org/wiki/Murcia
 title: Murcia
 type: location
+heritage: 6.021
+vibrancy: 5.58
+nature: 4.252
+off_the_beaten_track: 1.61
 ---
 
 The city of Murcia has a population of 320,000. It is set in the heart of a rich fertile plain at 43 metres above sea level. Unlike the rest of the region, where the terrain is dry and rugged, the soil here is irrigated by the River Segura and the land has been widely and fruitfully cultivated.

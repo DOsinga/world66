@@ -5,11 +5,15 @@ done:
 latitude: 43.815079
 loc_type: city
 longitude: 28.583031
-score: 6.89
+score: 4.863
 snippet: Black Sea spa town on ancient Callatis, known for mineral mud treatments
   and Greek remains
 title: Mangalia
 type: location
+heritage: 3.408
+vibrancy: 3.699
+nature: 5.75
+off_the_beaten_track: 1.843
 ---
 
 Mangalia sits at the southern end of [Romania](/europe/romania)'s Black Sea coast, on the site of the ancient Greek colony of Callatis, founded in the 6th century BC. Today it is a spa town known for its therapeutic treatments — mineral-rich mud baths, thalassotherapy, and the Romanian Gerovital cure. Clinics and consulting rooms are open year-round, so you can combine treatment with a seaside stay.

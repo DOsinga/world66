@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ingresso_del_porto_canale_
 latitude: 43.998274
 loc_type: city
 longitude: 12.647437
-score: 7.94
+score: 5.28
 title: Riccione
 type: location
 snippet: Adriatic resort town south of Rimini, known for beach clubs, shopping streets,
   and thermal baths.
+heritage: 3.426
+vibrancy: 4.806
+nature: 5.861
+off_the_beaten_track: 1.496
 ---
 
 Riccione, known as the Green Pearl of the Adriatic, is a small but lively resort on the coast south of [Rimini](/europe/italy/emiliaromagna/rimini).

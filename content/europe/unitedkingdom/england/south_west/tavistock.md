@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Tavistock,_Abbey_Chapel_an
 latitude: 50.5499
 loc_type: city
 longitude: -4.1444
-score: 7.29
+score: 4.601
 snippet: Dartmoor market town built on tin and copper wealth, with abbey ruins and
   granite streets
 title: Tavistock
 type: location
+heritage: 4.539
+vibrancy: 2.888
+nature: 5.208
+off_the_beaten_track: 2.696
 ---
 
 Tavistock is a handsome market town on the western edge of Dartmoor, built largely from the proceeds of tin and copper mining. It was one of Devon's four stannary towns, with its own courthouse and laws governing the tin trade, and the wealth shows in the solid granite buildings around the central square. The medieval [Tavistock Abbey](/europe/unitedkingdom/england/south_west/tavistock/tavistock_abbey) once owned half the parish; what remains is scattered around the centre, with [St Eustachius' Church](/europe/unitedkingdom/england/south_west/tavistock/st_eustachius_church) standing on its old chapel site.

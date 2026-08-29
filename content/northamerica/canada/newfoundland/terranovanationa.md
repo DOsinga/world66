@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Terra_Nova_National_Park,_
 latitude: 48.5306
 loc_type: feature
 longitude: -53.9281
-score: 7.29
+score: 5.953
 snippet: Newfoundland east-coast park of sheltered sounds, boreal forest, ponds, and
   gentle coastal trails.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Terra_Nova_National_Park
 title: Terra Nova National Park
 type: location
+heritage: 1.463
+vibrancy: 1.162
+nature: 7.26
+off_the_beaten_track: 6.448
 ---
 
 *North America > Canada > Newfoundland > Terra Nova National Park*

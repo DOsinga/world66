@@ -4,13 +4,17 @@ done:
 latitude: 42.3936
 loc_type: feature
 longitude: 16.265
-score: 6.5
+score: 5.946
 snippet: Remote Adriatic islet with a lighthouse, low scrub, and a position between
   Croatia and Italy.
 tags:
 - korcula
 title: Palagruža
 type: location
+heritage: 2.016
+vibrancy: 0.934
+nature: 7.409
+off_the_beaten_track: 5.924
 ---
 
 Palagruža is Croatia's most remote island — a tiny sliver of rock in the middle of the Adriatic, roughly equidistant between the Croatian and Italian coasts. The island is about 1,400 metres long and 300 metres wide, rising to 90 metres at its highest point, and is covered in low Mediterranean scrub.

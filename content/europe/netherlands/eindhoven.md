@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Centrum_Eindhoven.jpg
 latitude: 51.4416
 loc_type: city
 longitude: 5.4697
-score: 7.4
+score: 5.231
 snippet: Dutch design and technology city shaped by Philips, the High Tech Campus,
   and Design Academy.
 title: Eindhoven
 type: location
+heritage: 2.756
+vibrancy: 6.209
+nature: 1.235
+off_the_beaten_track: 0.56
 ---
 
 Eindhoven is a city that runs on invention. Philips built its first light bulb factory here in 1891, and that spirit of making things never left. Today the fifth-largest city in the Netherlands is the country's design and technology capital, home to the High Tech Campus (nicknamed "the smartest square kilometre in Europe"), the Design Academy, and Dutch Design Week every October.

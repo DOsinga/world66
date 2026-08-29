@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Nha_Trang,_Kh%C3%A1nh_H%C3
 latitude: 12.208499
 loc_type: city
 longitude: 109.28712
-score: 8.79
+score: 4.935
 snippet: Vietnamese beach city wrapped around a mountain-ringed bay, with offshore
   islands and a long urban strand.
 title: Nha Trang
 type: location
+heritage: 2.886
+vibrancy: 4.252
+nature: 5.594
+off_the_beaten_track: 2.738
 ---
 
 Nha Trang is Vietnam's most famous beach resort, a city of around 400,000 people wrapped around one of the finest natural bays on the South China Sea. The [main beach](/asia/vietnam/nhatrang/nha_trang_beach) — a 6 km curve of pale sand backed by coconut palms and, increasingly, a wall of high-rise hotels — is the centre of it all; the water is warm, the bay is ringed by green mountains, and 20 offshore islands shelter some of the best snorkelling and diving in Vietnam. In the past fifteen years Nha Trang has gone from a low-key backpacker town to one of the most developed resort cities in the country, with a direct airport link at Cam Ranh and large numbers of Russian, Chinese and Korean tourists. Love it or hate it, it is the closest thing Vietnam has to a proper beach resort.

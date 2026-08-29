@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Castillo_de_Malbork,_Polon
 latitude: 54.035836
 loc_type: city
 longitude: 19.03685
-score: 8.52
+score: 5.832
 snippet: Polish town dominated by Malbork Castle, the world's largest brick Gothic
   fortress.
 title: Malbork
 type: location
+heritage: 7.932
+vibrancy: 2.202
+nature: 2.922
+off_the_beaten_track: 2.345
 ---
 
 Malbork exists because of its castle, and what a castle it is — the largest brick gothic fortress in the world, a UNESCO World Heritage site, and the former headquarters of the Teutonic Knights. Built in the thirteenth century as a monastic stronghold, it looks far more like a royal palace than anything vowed to poverty, chastity and obedience.

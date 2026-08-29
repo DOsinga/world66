@@ -14,7 +14,7 @@ quick_facts:
   Gardens: Bigger than central Paris
   Hall of Mirrors: 357 mirrors
   Rooms: 2,300
-score: 9.57
+score: 7.077
 snippet: Paris-region town dominated by the Château de Versailles, its formal gardens,
   and royal history.
 tip: Versailles is enormous — the palace is just the start; the gardens, the Grand
@@ -23,6 +23,10 @@ tip: Versailles is enormous — the palace is just the start; the gardens, the G
   so check first. Rent a bike or golf cart for the grounds.
 title: Versailles
 type: location
+heritage: 8.069
+vibrancy: 6.328
+nature: 5.084
+off_the_beaten_track: 1.214
 ---
 
 Versailles is one of those places that earns its reputation. The Château de Versailles — built by Louis XIV, the Sun King, to project the absolute power of the French monarchy — is simply enormous, and walking through it you feel the full weight of that ambition. The Hall of Mirrors alone, 73 metres of gilded grandeur, stops most visitors in their tracks.

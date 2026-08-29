@@ -2,7 +2,7 @@
 latitude: 42.8383
 loc_type: city
 longitude: 17.6972
-score: 8.3
+score: 5.129
 snippet: Pelješac town with the second-longest medieval walls in the world and a celebrated
   oyster bay
 story: Ston's defensive walls, built by the Republic of Ragusa (Dubrovnik) in the
@@ -17,6 +17,10 @@ image: ston.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Ston_(view_from_the_southwest).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Carsten Steger
+heritage: 4.314
+vibrancy: 1.865
+nature: 6.122
+off_the_beaten_track: 3.649
 ---
 
 Ston sits at the base of the Pelješac peninsula, 20 km south of [Drače](/europe/croatia/drace) and worth the drive for a half-day. The town is famous for two things: its extraordinarily long medieval walls, which climb over a rocky ridge and down to the smaller settlement of Mali Ston, and its oysters, farmed in the sheltered Bay of Mali Ston. The combination — fortifications and shellfish — is entirely typical of Dalmatia.

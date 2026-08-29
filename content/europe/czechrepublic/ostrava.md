@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Colours_of_Ostrava.jpg
 latitude: 49.8209
 loc_type: city
 longitude: 18.2625
-score: 6.89
+score: 5.37
 snippet: Czech industrial city of coal and steel heritage, now anchored by the Lower
   Vitkovice cultural complex.
 title: Ostrava
 type: location
+heritage: 5.653
+vibrancy: 5.303
+nature: 3.684
+off_the_beaten_track: 2.162
 ---
 
 Ostrava is not the Czech city you picture first, and that is exactly why it is worth visiting. The country's third-largest city built its identity on coal and steel, and now that the furnaces have gone cold, all that industrial grit has been repurposed into one of Central Europe's most interesting cultural scenes. If Prague is the polished postcard, Ostrava is the city rolling up its sleeves.

@@ -2,9 +2,6 @@
 done:
   location_cleanup: '2026-04-15'
   location_enrich: '2026-05-22'
-image: glasgow.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Glasgow_-_aerial_-_2025-04-17_14.jpg
 latitude: 55.861155
 loc_type: city
 longitude: -4.250169
@@ -13,6 +10,10 @@ snippet: Scottish city defined by Victorian architecture, shipbuilding history, 
   a sharp independent culture
 title: Glasgow
 type: location
+image: glasgow.jpg
+image_source: https://commons.wikimedia.org/wiki/File:(looking_down)_Buchanan_Street,_Glasgow.jpg
+image_license: Attribution
+image_attribution: Kilnburn
 heritage: 5.89
 vibrancy: 7.342
 nature: 5.331

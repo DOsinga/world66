@@ -840,7 +840,9 @@ img { max-width: 100%; height: auto; }
   display: none;
 }
 
+.mobile-facts-slot,
 .mobile-hero-map-slot,
+.mobile-hero-facts-slot,
 .hero-media-switch {
   display: none;
 }
@@ -3422,6 +3424,23 @@ img { max-width: 100%; height: auto; }
     pointer-events: none;
   }
 
+  .mobile-hero-facts-slot {
+    display: block;
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    box-sizing: border-box;
+    padding: 44px 12px 12px;
+    overflow-y: auto;
+    visibility: hidden;
+    pointer-events: none;
+    background: var(--paper-2);
+  }
+
+  .mobile-hero-facts-slot .sidebar-quick-facts {
+    margin: 0;
+  }
+
   .mobile-hero-map-slot .sidebar-map-card {
     height: 100%;
     margin: 0;
@@ -3442,9 +3461,17 @@ img { max-width: 100%; height: auto; }
     pointer-events: auto;
   }
 
+  .hero-card--facts .mobile-hero-facts-slot {
+    visibility: visible;
+    pointer-events: auto;
+  }
+
   .hero-card--map > img,
+  .hero-card--facts > img,
   .hero-card--map .hero-attribution,
-  .hero-card--map .hero-title-block {
+  .hero-card--facts .hero-attribution,
+  .hero-card--map .hero-title-block,
+  .hero-card--facts .hero-title-block {
     visibility: hidden;
   }
 
@@ -3523,6 +3550,15 @@ img { max-width: 100%; height: auto; }
   .mobile-map-slot {
     display: block;
     margin-bottom: 24px;
+  }
+
+  .mobile-facts-slot {
+    display: block;
+    margin-bottom: 24px;
+  }
+
+  .mobile-facts-slot .sidebar-quick-facts {
+    margin: 0;
   }
 
   .mobile-map-slot .sidebar-map-canvas {

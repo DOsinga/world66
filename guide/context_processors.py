@@ -11,3 +11,7 @@ def continents(request):
 def gtm_container_id(request):
     """Make the Google Tag Manager container ID available in all templates."""
     return {"gtm_container_id": settings.GTM_CONTAINER_ID}
+
+
+def carto_basemap_key(request):
+    return {"carto_basemap_key": settings.CARTO_BASEMAP_KEY}

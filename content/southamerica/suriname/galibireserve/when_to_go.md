@@ -3,6 +3,6 @@ title: "When to Go"
 type: section
 ---
 
-The turtle nesting season runs from March to August. Peak activity is in May and June, when leatherback turtles arrive in large numbers — some nights hundreds of females come ashore. Green turtle nesting peaks slightly later, in July and August. Outside the nesting season there is little reason to make the trip.
+Turtle nesting generally falls between February and August, with the mix of species and peak nights changing through the season. Ask a local conservation guide about current activity rather than planning around a guaranteed month.
 
-Nights are warm and humid year-round. Bring insect repellent; mosquitoes are relentless after dark on the beach.
+Galibi is also a Kaliña community and a river-coast destination, so the trip is not worthless outside nesting season. It is, however, a long journey if turtles are your only reason for going. Nights are warm and humid; bring insect repellent and rain protection.

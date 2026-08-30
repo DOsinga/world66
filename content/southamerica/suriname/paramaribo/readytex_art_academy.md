@@ -1,16 +1,18 @@
 ---
-title: "Readytex Art Academy"
+title: Readytex Art Gallery
 type: poi
-snippet: "Art gallery showcasing contemporary Surinamese artists"
+snippet: Four-floor gallery representing established and emerging contemporary artists from Suriname
 tags:
   - things_to_do
   - museum
   - gallery
-latitude: 5.8290
-longitude: -55.1610
+latitude: 5.8253
+longitude: -55.1603
 score: 7.1
+sources:
+  - https://www.readytexartgallery.com/contact-us/
 ---
 
-The Readytex Art Academy gallery is the best place in Paramaribo to encounter contemporary Surinamese art. The country's artistic tradition draws on its multicultural heritage — Maroon woodcarving and textile traditions, Hindustani and Javanese influences, and Dutch colonial aesthetics all feed into a distinctive visual culture. The gallery holds regular exhibitions of work by established and emerging Surinamese artists.
+Readytex is the best straightforward introduction to contemporary Surinamese art. Four floors in a restored building show work by the gallery's group of emerging and established artists, with painting, sculpture, mixed media, and installations changing regularly.
 
-Even if the shows are not to your taste, the gallery provides a useful counterweight to the historical focus of most sightseeing in Paramaribo. Suriname has living cultural production as well as a complex past, and the artists here are engaged with both.
+It provides a useful counterweight to a city itinerary dominated by colonial history. Check the gallery's current hours and exhibition programme; the first-Thursday evening events are especially good when scheduled.

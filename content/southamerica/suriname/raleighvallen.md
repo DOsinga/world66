@@ -9,14 +9,19 @@ snippet: Surinamese rainforest reserve on the Coppename River, known for birdlif
   and Voltzberg's granite dome.
 title: Raleighvallen
 type: location
+tags:
+  - central_suriname_nature_reserve
 heritage: 1.692
 vibrancy: 1.101
 nature: 7.59
 off_the_beaten_track: 5.922
+sources:
+  - https://whc.unesco.org/en/list/1017/
+  - https://gov.sr/ministeries/ministerie-van-grond-en-bosbeheer/stg-natuurbehoud-suriname-stinasu/
 ---
 
-Raleighvallen is a nature reserve of 78,170 hectares in central Suriname, straddling the Coppename River and forming part of the Central Suriname Nature Reserve — a UNESCO World Heritage site covering nearly 1.6 million hectares of pristine Guiana Shield rainforest. This is one of the finest birding destinations in South America, with around 400 recorded species: toucans, scarlet macaws, the flamboyant Guiana cock-of-the-rock, and more parrots than you can count. Primates — spider monkeys, howler monkeys, squirrel monkeys — are a common sight, and the reserve holds one of the region's most important harpy eagle nesting populations.
+Raleighvallen is the practical gateway to the UNESCO-listed [Central Suriname Nature Reserve](/southamerica/suriname/central_suriname_nature_reserve). The Coppename River, Foengoe Island, forest trails, and the granite dome of Voltzberg give a visitor a small but varied sample of a reserve that extends vastly beyond the accessible area.
 
-Trails wind through undisturbed primary forest, and the Coppename River itself is worth time on the water. The surrounding area is wilderness: no roads, no towns, no noise beyond the forest itself.
+Birders come for Guiana cock-of-the-rock, macaws, toucans, and forest species that are difficult near the coast. Primates are often heard or seen, but this is dense forest, not a safari park, and no operator can promise large mammals.
 
-Getting there from [Paramaribo](/southamerica/suriname/paramaribo) means either a short domestic flight to the Raleighvallen airstrip (under an hour) or a drive of around 120 miles followed by a 3–4 hour boat journey on the Coppename. Most visitors arrange the trip through STINASU (the Surinamese nature conservation foundation) or a tour operator. Accommodation is basic but adequate for overnight stays.
+Access is normally by charter flight or a long road-and-river combination from [Paramaribo](/southamerica/suriname/paramaribo). STINASU lists Raleighvallen among the protected areas currently receiving visitors, but facilities and transport remain basic. Confirm the exact itinerary, baggage allowance, sleeping arrangements, and emergency plan before paying.

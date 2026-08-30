@@ -1,18 +1,21 @@
 ---
 title: "When to Go"
 type: section
+sources:
+  - https://suriname.travel/
+  - https://suriname.travel/marowijne/
 ---
 
 Suriname sits close to the equator and is warm and humid year-round, with temperatures in Paramaribo averaging 26–28°C regardless of season. The key variable is rainfall.
 
-**Best time: late August to November.** This is the main dry season, with less rain, lower river levels, and better conditions for hiking and wildlife spotting in the interior. September and October are the driest months.
+**Late August to November** is the main dry period and usually the easiest time for road travel and forest walks. September and October are often the driest months, though equatorial weather does not obey a tidy calendar.
 
-**Also good: February to April.** A shorter dry season, slightly cooler than the August–November window. River levels may be higher, making some boat journeys more interesting though some trails muddier.
+**February to April** brings a shorter, less reliable dry spell. River levels can be useful for boat journeys while trails may still be muddy.
 
-**Avoid if possible: May to mid-August and December to January.** These are the rainy seasons. Rain typically falls in intense afternoon showers rather than all-day drizzle, so travelling during these months is not impossible, but interior trails flood, some roads become impassable, and boat journeys on swollen rivers require more caution.
+**May to mid-August and roughly December to January** are wetter. Travel is still possible, but local flooding and poor road conditions can upset interior plans.
 
-**Turtle season: March to August.** If you want to see leatherback turtles nesting at Galibi, the season runs March through August with peak activity in May and June.
+**Turtle season:** nesting around Galibi generally falls between February and August. Go with a trained local guide, keep lights off the beach, and never touch a turtle or hatchling.
 
-**Carnival: February/March.** Paramaribo's carnival is one of the liveliest in the region, taking over the city with parades, music, and dancing.
+**Keti Koti, 1 July,** is the most important date to experience in Paramaribo, commemorating emancipation from slavery. Phagwa changes date each year and brings colour to streets and public spaces.
 
-The interior is best visited in the dry season when water levels drop and wildlife concentrates around remaining water sources. If you are spending time only in Paramaribo and Commewijne, the time of year matters less.
+For the interior, ask the operator about both river depth and road access: extremely low water can be as disruptive as heavy rain.

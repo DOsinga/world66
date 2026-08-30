@@ -1,28 +1,31 @@
 ---
 title: "Getting Around"
 type: section
+sources:
+  - https://suriname.travel/
+  - https://www.nederlandwereldwijd.nl/reisadvies/suriname
 ---
 
 ## Paramaribo and the Coast
 
-Within [Paramaribo](/southamerica/suriname/paramaribo), taxis are the most practical option — agree on the fare before you get in, as meters are not standard. Minibuses (locally called "wild buses") run on fixed routes and are inexpensive. You flag them down on the roadside and they depart when full rather than on a schedule.
+Within [Paramaribo](/southamerica/suriname/paramaribo), taxis are the simplest option for longer trips; agree on the fare before leaving. Privately run minibuses follow fixed routes but not a useful published timetable. They are cheap once you know the route, confusing when you do not.
 
-The coastal strip between Paramaribo and the border towns is served by shared minibuses and taxis. Travel east towards Albina or west towards Nickerie is straightforward and relatively fast on good roads.
+Shared minibuses and taxis cover the coastal strip east toward Albina and west toward Nieuw Nickerie. Start early: services thin out later in the day, and a missed border connection can mean an overnight stop.
 
 ## Into the Interior
 
 Getting to Suriname's interior takes more planning. The main options are:
 
-**By road and river.** Drive south to Atjoni (around 3–4 hours from Paramaribo), then take a boat upriver into the Upper Suriname. Boats serve Maroon villages and can be chartered for longer journeys. This is the main route to communities like Pokigron, Brownsweg, and deeper into Saramaka territory.
+**By road and river.** The road reaches Pokigron and the Atjoni landing, where boats continue along the [Upper Suriname River](/southamerica/suriname/upper_suriname_river). Public boats are geared to local needs, not sightseeing, so arrange transfers with your host or guide.
 
-**By small aircraft.** Zorg en Hoop Airport, 3 km southwest of central Paramaribo, handles domestic flights to airstrips in the interior. Gum Air and other small operators fly to destinations including Paloemeu, Kabalebo, and various Maroon and Amerindian communities. Flights are expensive by local standards but save considerable travel time.
+**By small aircraft.** Zorg en Hoop Airport handles domestic charters to interior airstrips. They save days of road and river travel, but schedules, baggage limits, and weather disruptions make advance coordination essential. Check current aviation safety advice when choosing an operator.
 
 ## Nature Parks
 
-**Brownsberg Nature Park** is 130 km south of Paramaribo on a paved road — a two-hour drive is enough to get there. This is the one major nature destination that is easily self-drivable.
+[Brownsberg Nature Park](/southamerica/suriname/brownsberg_nature_park) is the easiest major forest destination by road, though the final approach can be rough and a high-clearance vehicle is sensible after rain.
 
-Most other nature reserves require boat transport, aircraft, or both. STINASU (the Foundation for Nature Conservation in Suriname) organises tours and can advise on logistics. Most travellers join organised tours for trips to the interior, as the logistics of independent travel are complicated and local guides add real value.
+Most other reserves require a boat, a flight, or both. Visitor facilities can close for long periods, so confirm access directly with the reserve manager or a reputable local operator before paying for onward transport.
 
 ## Driving
 
-Suriname drives on the left. Roads are paved along the coast and main arteries; dirt tracks take over in the interior, where a 4WD is essential in wet season. An international driving licence is required alongside your national licence.
+Suriname drives on the left. Main coastal roads are paved; interior roads can deteriorate quickly in rain. Check whether your licence is accepted and whether the rental company requires an international driving permit.

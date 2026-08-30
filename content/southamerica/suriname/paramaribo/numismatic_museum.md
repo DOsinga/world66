@@ -4,14 +4,14 @@ type: poi
 latitude: 5.8267
 longitude: -55.1530
 score: 6.4
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Lelydorp"
+sources:
+  - https://www.cbvs.sr/nieuwsartikelen?catid=8&id=1684:numismatisch-museum-van-de-cnvs&view=article
 tags:
   - things_to_do
   - museum
   - history
 ---
 
-The Numismatic Museum is a small specialist museum inside the Bank of Suriname. Its collection traces the money used in Suriname since the 17th century, including coins, banknotes, and odd survivals from the colonial period.
+The Central Bank's small museum traces money in Suriname from barter and colonial coin shortages to modern banknotes. Highlights include the 1679 parrot coin and playing-card money created when conventional currency was scarce.
 
-It is best for travellers who like focused historical collections, but the central location makes it easy to combine with the Waterkant, the cathedral, and the old civic buildings nearby.
+It is a focused collection with limited weekday hours. Check with the bank before visiting, then combine it with the Waterkant and old civic buildings nearby.

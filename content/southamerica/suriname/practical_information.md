@@ -1,35 +1,41 @@
 ---
 title: "Practical Information"
 type: section
+sources:
+  - https://www.cbvs.sr/financieel-systeem/munten-en-biljetten-in-circulatie
+  - https://gov.sr/ministeries/ministerie-van-buitenlandse-zaken-internationale-handel-samenwerking/reizen-naar-suriname/
+  - https://www.who.int/news/item/30-06-2025-suriname-certified-malaria-free-by-who
+  - https://wwwnc.cdc.gov/travel/destinations/traveler/none/suriname
+  - https://www.gov.uk/foreign-travel-advice/suriname/safety-and-security
 ---
 
 ## Currency
 
-The local currency is the Surinamese Dollar (SRD). The euro is widely accepted in hotels, tour operators, and larger businesses, partly because of the strong ties with the Netherlands. US dollars are also accepted in many places. ATMs are available in Paramaribo; outside the capital, cash is essential. Credit cards are accepted in major hotels and upscale restaurants but not reliably elsewhere. Carry SRD for markets, street food, and smaller towns.
+The currency is the **Surinamese dollar (SRD)**. Carry SRD for ordinary purchases and enough cash for the interior; cards and foreign bank cards do not work everywhere. US dollars and euros are useful as backup, but pay day-to-day prices in SRD and check the Central Bank rate before exchanging money. Never change cash with someone who approaches you in the street.
 
 ## Language
 
-Dutch is the official language. Sranang Tongo (also called Sranan or Taki-Taki), a Creole language, is widely spoken as a lingua franca. Hindustani (a dialect of Hindi) and Javanese are spoken within those communities. English is spoken by a reasonable number of people in Paramaribo, particularly in the tourism sector, but don't count on it outside the capital.
+Dutch is the official language. Sranan Tongo is the everyday bridge between communities, while Sarnami, Javanese, Maroon languages, and Indigenous languages are also heard. English often works in tourism, but a few words of Dutch are useful outside that circle.
 
 ## Health
 
-Yellow fever vaccination is required if arriving from a country with yellow fever risk, and recommended for everyone visiting the interior. Malaria is present in rural areas and the jungle interior — take appropriate prophylaxis if you are travelling beyond the coast. Dengue fever is present year-round. Bring strong insect repellent. Tap water in Paramaribo is generally safe to drink; bottled water is advisable elsewhere.
+Suriname was certified malaria-free by the World Health Organization in 2025. That does not make mosquito protection optional: dengue, yellow fever, chikungunya, and other mosquito-borne infections remain relevant. Yellow-fever vaccination is recommended for most travellers aged nine months or older, and proof is required for some arrival routes. Discuss your itinerary with a travel-health clinician and check current outbreak notices before departure.
 
 ## Safety
 
-Paramaribo is generally safe by South American standards, though normal precautions apply: avoid displaying valuables, be aware of your surroundings at night, and use reliable taxis rather than flagging down cars on dark streets. Petty theft occurs but violent crime against tourists is rare. The interior is very safe.
+Do not treat Paramaribo as risk-free. Pickpocketing, burglary, and armed robbery occur, including around quiet streets and parks. Avoid isolated areas after dark, keep phones and jewellery out of sight, and arrange a known taxi. For the interior, use an established operator: distances, communications, and medical access matter as much as crime.
 
 ## Communications
 
-Mobile coverage is reliable in Paramaribo and along the coast, with Telesur and Digicel as the main operators. In the jungle interior, coverage drops off quickly. Prepaid SIM cards are available at the airport and in Paramaribo. Wi-Fi is available in most hotels and many cafés in the capital.
+Mobile coverage is strongest in Paramaribo and along the coast and drops away in the interior. Ask your guide what, if anything, works on your route and leave plans with someone before a remote journey.
 
 ## Electricity
 
-Power sockets are type C and F (European round pins), at 127V/220V, 60Hz. Check your devices before travelling — some may need a voltage converter.
+Both 127V and 220V supplies exist, and sockets are not fully standardised. Bring a universal adapter and check the voltage before plugging in equipment that is not dual-voltage.
 
 ## Opening Hours
 
-Banks and government offices typically open Monday to Friday, 7am–2pm. Shops in Paramaribo open around 7–8am and close in the early evening. The city largely shuts down on Sundays.
+Banks and government offices often close early in the afternoon. Confirm hours for any office you cannot afford to miss.
 
 ## Time Zone
 

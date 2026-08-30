@@ -1,10 +1,12 @@
 ---
 title: "Getting There"
 type: section
+sources:
+  - https://gov.sr/ministeries/ministerie-van-buitenlandse-zaken-internationale-handel-samenwerking/reizen-naar-suriname/
 ---
 
-Paramaribo's Johan Adolf Pengel International Airport (PBM) is around 45 km south of the city — allow at least an hour for the drive. Direct flights connect to Amsterdam (KLM), Miami (Caribbean Airlines), and various Caribbean hubs. There are no direct flights from most European or North American cities other than Amsterdam; travellers from the UK or elsewhere in Europe will usually connect via Amsterdam or Miami.
+Johan Adolf Pengel International Airport (PBM) is about 45 km south of Paramaribo. Allow roughly an hour for the transfer and arrange a known driver before a late arrival. Amsterdam is the main long-haul gateway; regional routes change, so check current airline schedules.
 
-There is no rail connection to Paramaribo. Overland travel from Brazil or Guyana is possible but involves long distances on poor roads. From French Guiana to the east, a ferry crosses the Marowijne River at Saint-Laurent-du-Maroni to Albina; from there minibuses run to Paramaribo in around 3 hours. This is the most popular overland route and is used regularly by travellers crossing between the Guianas.
+There is no rail network. From French Guiana, cross between Saint-Laurent-du-Maroni and Albina, clear immigration, then continue by shared taxi or minibus. From Guyana, the route uses the Canawaima ferry and the coastal road through Nieuw Nickerie. Border timetables change and can leave you stranded overnight, so verify the whole connection before departure.
 
-From the airport to the city, shared taxis and private taxis are available. The journey costs a fixed rate (check current rates locally) and takes 45–60 minutes depending on traffic.
+The airport has taxis and pre-arranged transfers. Confirm the fare before leaving.

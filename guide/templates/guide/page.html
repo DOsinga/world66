@@ -190,8 +190,25 @@
 {% block hero %}
 {% if hero_image_url %}
 <div id="hero" class="hero">
-  <div class="hero-card">
+  <div class="hero-card" id="hero-card">
     <img src="{{ hero_image_url }}" alt="{{ page.title }}">
+    {% if markers_full_json != "[]" or lat and lng %}
+    <div class="mobile-hero-map-slot" id="mobile-hero-map-slot"></div>
+    {% endif %}
+    {% if page.meta.quick_facts %}
+    <div class="mobile-hero-facts-slot" id="mobile-hero-facts-slot"></div>
+    {% endif %}
+    {% if page.meta.quick_facts or markers_full_json != "[]" or lat and lng %}
+    <div class="hero-media-switch" role="group" aria-label="Choose page media">
+      <button type="button" data-hero-media="photo" aria-pressed="true">Photo</button>
+      {% if markers_full_json != "[]" or lat and lng %}
+      <button type="button" data-hero-media="map" aria-pressed="false">Map</button>
+      {% endif %}
+      {% if page.meta.quick_facts %}
+      <button type="button" data-hero-media="facts" aria-pressed="false">Facts</button>
+      {% endif %}
+    </div>
+    {% endif %}
     {% if hero_image_source %}
     <a class="hero-attribution" href="{{ hero_image_source }}" target="_blank" rel="noopener noreferrer" title="{{ hero_image_license }}">&#169;</a>
     {% endif %}
@@ -210,6 +227,15 @@
 
 {% if page.meta.snippet %}
 <p class="page-snippet">{{ page.meta.snippet }}</p>
+{% endif %}
+
+{% if not hero_image_url %}
+{% if markers_full_json != "[]" or lat and lng %}
+<div class="mobile-map-slot" id="mobile-map-slot"></div>
+{% endif %}
+{% if page.meta.quick_facts %}
+<div class="mobile-facts-slot" id="mobile-facts-slot"></div>
+{% endif %}
 {% endif %}
 
 {% if page.properties %}
@@ -549,17 +575,67 @@
 {% block extra_js %}
 <script>
 (function() {
+  var mapCard = document.getElementById('sidebar-map-card');
+  var mobileMapSlot = document.getElementById('mobile-hero-map-slot') || document.getElementById('mobile-map-slot');
+  var mobileMapQuery = window.matchMedia('(max-width: 768px)');
+  var desktopMapParent = mapCard && mapCard.parentNode;
+  var desktopMapNext = mapCard && mapCard.nextSibling;
+  var quickFacts = document.querySelector('.sidebar-quick-facts');
+  var mobileFactsSlot = document.getElementById('mobile-hero-facts-slot') || document.getElementById('mobile-facts-slot');
+  var desktopFactsParent = quickFacts && quickFacts.parentNode;
+  var desktopFactsNext = quickFacts && quickFacts.nextSibling;
+
+  function placeMap() {
+    if (!mapCard || !mobileMapSlot) return;
+    if (mobileMapQuery.matches) {
+      mobileMapSlot.appendChild(mapCard);
+    } else {
+      desktopMapParent.insertBefore(mapCard, desktopMapNext);
+    }
+  }
+
+  function placeFacts() {
+    if (!quickFacts || !mobileFactsSlot) return;
+    if (mobileMapQuery.matches) {
+      mobileFactsSlot.appendChild(quickFacts);
+    } else {
+      desktopFactsParent.insertBefore(quickFacts, desktopFactsNext);
+    }
+  }
+
+  placeMap();
+  placeFacts();
+
+  var sideMap = null;
   {% if is_continent %}
-  initCountryMap('sidebar-map', '{{ continent_slug|escapejs }}', {{ continent_bounds }});
+  sideMap = initCountryMap('sidebar-map', '{{ continent_slug|escapejs }}', {{ continent_bounds }});
   {% else %}
   var fullMarkers = {% if markers_full_json != "[]" %}{{ markers_full_json }}{% elif markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
-  var sideMap = null;
   if (fullMarkers.length && document.getElementById('sidebar-map')) {
     sideMap = initLocationMap('sidebar-map', fullMarkers, {isPoi: {{ is_poi|yesno:"true,false" }}, bounds: {{ page_map_bounds }}});
   }
-
-
   {% endif %}
+
+  var heroCard = document.getElementById('hero-card');
+  var mediaButtons = document.querySelectorAll('[data-hero-media]');
+  mediaButtons.forEach(function(button) {
+    button.addEventListener('click', function() {
+      var view = button.dataset.heroMedia;
+      var showMap = view === 'map';
+      heroCard.classList.toggle('hero-card--map', showMap);
+      heroCard.classList.toggle('hero-card--facts', view === 'facts');
+      mediaButtons.forEach(function(otherButton) {
+        otherButton.setAttribute('aria-pressed', otherButton === button ? 'true' : 'false');
+      });
+      if (showMap && sideMap) requestAnimationFrame(function() { sideMap.invalidateSize(); });
+    });
+  });
+
+  mobileMapQuery.addEventListener('change', function() {
+    placeMap();
+    placeFacts();
+    if (sideMap) requestAnimationFrame(function() { sideMap.invalidateSize(); });
+  });
 })();
 </script>
 {% endblock %}

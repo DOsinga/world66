@@ -25,12 +25,10 @@ function initExploreMap(opts) {
         scrollWheelZoom: true,
     });
 
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
-        subdomains: 'abcd', maxZoom: 19,
-    }).addTo(map);
+    var attribution = _addBaseTiles(map);
 
     L.control.attribution({ position: 'bottomright', prefix: false })
-        .addAttribution('&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a>')
+        .addAttribution(attribution)
         .addTo(map);
 
     // ---- Marker layer ----

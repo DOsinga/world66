@@ -13,5 +13,9 @@ def gtm_container_id(request):
     return {"gtm_container_id": settings.GTM_CONTAINER_ID}
 
 
+def ga_measurement_id(request):
+    return {"ga_measurement_id": settings.GA_MEASUREMENT_ID}
+
+
 def carto_basemap_key(request):
     return {"carto_basemap_key": settings.CARTO_BASEMAP_KEY}

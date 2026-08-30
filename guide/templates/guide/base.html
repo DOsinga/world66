@@ -2,7 +2,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  {% if gtm_container_id %}
+  {% if ga_measurement_id %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ ga_measurement_id|urlencode }}"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ ga_measurement_id|escapejs }}');
+  </script>
+  {% elif gtm_container_id %}
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -27,7 +35,7 @@
   {% block body_style %}{% endblock %}
 </head>
 <body>
-{% if gtm_container_id %}
+{% if gtm_container_id and not ga_measurement_id %}
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ gtm_container_id }}"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>

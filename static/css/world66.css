@@ -4110,3 +4110,162 @@ img { max-width: 100%; height: auto; }
     max-width: none;
   }
 }
+
+/* --- Bloglists: outside blogs worth reading about a place (type: bloglist) --- */
+
+.bloglist-section {
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+.bloglist-grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  border-top: 1px solid rgba(184, 83, 43, 0.18);
+}
+
+/* Rules drawn on the cards rather than as tinted grid gaps — an odd number of
+   blogs would otherwise leave the empty half-row shaded in. */
+.bloglist-card {
+  border-bottom: 1px solid rgba(184, 83, 43, 0.18);
+}
+
+.bloglist-card:nth-child(odd) {
+  border-right: 1px solid rgba(184, 83, 43, 0.18);
+}
+
+.bloglist-card-link {
+  display: flex;
+  gap: 16px;
+  align-items: baseline;
+  height: 100%;
+  padding: 20px 18px;
+  text-decoration: none;
+  transition: background 0.2s ease;
+}
+
+.bloglist-card-link:hover {
+  background: var(--paper-2);
+  text-decoration: none;
+}
+
+.bloglist-rank {
+  flex: 0 0 auto;
+  font-family: var(--display-font);
+  font-style: italic;
+  font-size: 20px;
+  line-height: 1;
+  color: var(--accent);
+  opacity: 0.75;
+}
+
+.bloglist-txt {
+  display: block;
+}
+
+.bloglist-name {
+  display: block;
+  font-family: var(--display-font);
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+}
+
+.bloglist-card-link:hover .bloglist-name {
+  color: var(--accent);
+}
+
+.bloglist-domain {
+  display: block;
+  margin-top: 4px;
+  font-family: var(--label-font);
+  font-size: 11px;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  color: var(--accent-ink);
+  opacity: 0.72;
+}
+
+.bloglist-note {
+  display: block;
+  margin-top: 8px;
+  font-size: 13.5px;
+  line-height: 1.45;
+  color: var(--ink);
+  opacity: 0.85;
+}
+
+.bloglist-footnote {
+  margin-top: 16px;
+  font-size: 12px;
+  line-height: 1.5;
+  font-style: italic;
+  opacity: 0.7;
+}
+
+/* The way in from a location page */
+.bloglist-callout-section {
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+.bloglist-callout-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 14px;
+}
+
+.bloglist-callout {
+  display: block;
+  padding: 20px;
+  background: var(--paper-2);
+  border-left: 3px solid var(--accent);
+  border-radius: 2px;
+  text-decoration: none;
+  transition: background 0.2s ease;
+}
+
+.bloglist-callout:hover {
+  background: var(--paper-3);
+  text-decoration: none;
+}
+
+.bloglist-callout-name {
+  font-family: var(--display-font);
+  font-size: 22px;
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+}
+
+.bloglist-callout-snippet {
+  margin: 8px 0 0;
+  font-size: 13.5px;
+  line-height: 1.45;
+  opacity: 0.85;
+}
+
+.bloglist-callout-more {
+  display: inline-block;
+  margin-top: 12px;
+  font-family: var(--label-font);
+  font-size: 11px;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+@media (max-width: 768px) {
+  .bloglist-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .bloglist-card:nth-child(odd) {
+    border-right: none;
+  }
+}

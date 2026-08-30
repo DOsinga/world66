@@ -290,6 +290,28 @@
 {% endblock %}
 
 {% block wide_content %}
+
+{% if blog_entries %}
+<div class="wide-block bloglist-section">
+  <span class="section-kicker">Further Reading</span>
+  <h2 class="section-block-heading">{{ page.title }}</h2>
+  <ol class="bloglist-grid">
+    {% for blog in blog_entries %}
+    <li class="bloglist-card">
+      <a class="bloglist-card-link" href="{{ blog.url }}" target="_blank" rel="noopener noreferrer">
+        <span class="bloglist-rank">{{ forloop.counter|stringformat:"02d" }}</span>
+        <span class="bloglist-txt">
+          <span class="bloglist-name">{{ blog.name }}</span>
+          <span class="bloglist-domain">{{ blog.domain }}{% if blog.author %} &middot; {{ blog.author }}{% endif %}</span>
+          {% if blog.note %}<span class="bloglist-note">{{ blog.note }}</span>{% endif %}
+        </span>
+      </a>
+    </li>
+    {% endfor %}
+  </ol>
+  <p class="bloglist-footnote">These are other people&rsquo;s blogs, out on the open web. We don&rsquo;t run them and we don&rsquo;t earn anything from the links &mdash; they&rsquo;re here because they are good.</p>
+</div>
+{% endif %}
 {% if page.page_type == "section" or page.page_type == "neighbourhood" or page.page_type == "section_group" %}{% if pois and not daytrip_cards %}
 <div class="wide-block poi-section">
   <span class="section-kicker">{% if page.page_type == "neighbourhood" %}Neighbourhood{% else %}Guide{% endif %}</span>
@@ -520,6 +542,22 @@
   update();
 })();
 </script>
+{% endif %}
+
+{% if location_bloglists %}
+<div class="wide-block bloglist-callout-section">
+  <span class="section-kicker">Further Reading</span>
+  <h2 class="section-block-heading">Blogs Worth Reading</h2>
+  <div class="bloglist-callout-row">
+    {% for bl in location_bloglists %}
+    <a href="{{ bl.get_absolute_url }}" class="bloglist-callout">
+      <div class="bloglist-callout-name">{{ bl.title }}</div>
+      {% if bl.meta.snippet %}<p class="bloglist-callout-snippet">{{ bl.meta.snippet }}</p>{% endif %}
+      <span class="bloglist-callout-more">Read the list &rarr;</span>
+    </a>
+    {% endfor %}
+  </div>
+</div>
 {% endif %}
 
 {% if nav_siblings %}

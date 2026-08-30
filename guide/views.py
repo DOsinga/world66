@@ -472,6 +472,13 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     # Map context
     lat = _safe_float(page.meta.get("latitude"))
     lng = _safe_float(page.meta.get("longitude"))
+    if lat is None and lng is None and page.page_type == "bloglist":
+        # Nothing on a bloglist sits on the map, but an empty sidebar next to
+        # one reads as broken — show where the place is instead.
+        bl_parent = _bloglist_parent(page, source_ref, url_revision)
+        if bl_parent:
+            lat = _safe_float(bl_parent.meta.get("latitude"))
+            lng = _safe_float(bl_parent.meta.get("longitude"))
 
     path_parts = page.path.split("/")
     continent_slug = path_parts[0] if path_parts else None
@@ -483,6 +490,12 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     hero_image_url = f'{page.url_prefix}/content-image/{image_path}' if image_path else None
     hero_image_source = page.meta.get('image_source', '') if image_path else ''
     hero_image_license = page.meta.get('image_license', '') if image_path else ''
+    if not hero_image_url and page.page_type == "bloglist":
+        cover = _bloglist_cover_image(page, source_ref, url_revision=url_revision)
+        if cover:
+            hero_image_url = cover["url"]
+            hero_image_source = cover["source"]
+            hero_image_license = cover["license"]
 
     # Attach image_url to each neighbourhood for card display
     for nb in neighbourhoods:
@@ -608,6 +621,15 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     markers = _collect_markers(page, nav_pages, _map_top, pois, city_tag_index=city_tag_index)
     markers_full = _collect_markers(page, nav_pages, _map_all, pois, city_tag_index=city_tag_index)
 
+    # Bloglists: a type=bloglist page points outward, at blogs on the open web,
+    # so its members come straight from its own frontmatter — nothing to resolve
+    # against the content tree, and nothing to put on the map.
+    blog_entries = page.blog_entries if page.page_type == "bloglist" else None
+
+    # A location shows the bloglists sitting in its own directory as a
+    # "Further Reading" callout — the way in to the pages above.
+    location_bloglists = page.find_bloglists() if page.page_type == "location" else []
+
     breadcrumbs = page.breadcrumbs()
     dimension_rows, score_verdict, similar_in_country = _score_profile_context(page, parent)
 
@@ -652,6 +674,8 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "daytrip_cards": daytrip_cards,
         "more_linked_locations": more_linked_locations,
         "url_prefix": page.url_prefix,
+        "blog_entries": blog_entries,
+        "location_bloglists": location_bloglists,
     })
 
 
@@ -1003,6 +1027,32 @@ def _image_path(page, source_ref=None):
         elif (CONTENT_DIR / candidate).is_file():
             return candidate
     return None
+
+
+def _bloglist_parent(page, source_ref=None, url_revision=None):
+    """The place a bloglist belongs to — it has no image or coordinates of its
+    own and borrows both from the location whose directory it sits in."""
+    if "/" not in page.path:
+        return None
+    parent_path = page.path.rsplit("/", 1)[0]
+    return (load_page_from_revision(parent_path, source_ref, url_revision=url_revision)
+            if source_ref else load_page(parent_path))
+
+
+def _bloglist_cover_image(page, source_ref=None, url_revision=None):
+    """A bloglist wears its place's hero rather than sourcing a photo of its own
+    for what is, after all, a page of outbound links."""
+    parent = _bloglist_parent(page, source_ref, url_revision)
+    if not parent:
+        return None
+    img = _image_path(parent, source_ref)
+    if not img:
+        return None
+    return {
+        "url": f"{parent.url_prefix}/content-image/{img}",
+        "source": parent.meta.get("image_source", ""),
+        "license": parent.meta.get("image_license", ""),
+    }
 
 
 def content_image(request, path):

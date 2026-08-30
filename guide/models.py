@@ -10,6 +10,7 @@ Uses the `type` field to classify pages:
   neighbourhood — a district; appears under its section_group in the nav
   theme         — a cross-cutting theme (lgbtq, cold_war, …); appears under its section_group
   poi           — individual point of interest
+  bloglist      — a curated set of outside blogs worth reading about a place
 
 All of section / section_group / neighbourhood / theme are "nav pages": they appear
 in the city sidebar and each collects POIs by tag.  When a POI carries `tags: [de_pijp]`
@@ -71,6 +72,12 @@ def _score_desc_title_key(page):
     except (TypeError, ValueError):
         score = 0
     return (-score, page.title.casefold())
+
+
+def _display_domain(url):
+    """example.com from https://www.example.com/blog/ — what to show as the link."""
+    host = url.split("//", 1)[-1].split("/", 1)[0]
+    return host[4:] if host.startswith("www.") else host
 
 
 def _load_md(path):
@@ -191,6 +198,8 @@ class Page:
                     nav_pages.append(page)
                 elif page.page_type == "poi":
                     pois.append(page)
+                elif page.page_type == "bloglist":
+                    pass  # surfaced separately via find_bloglists()
                 else:
                     locations.append(page)
 
@@ -236,6 +245,8 @@ class Page:
                 nav_pages.append(page)
             elif page.page_type == "poi":
                 pois.append(page)
+            elif page.page_type == "bloglist":
+                pass  # surfaced separately via find_bloglists()
             else:
                 locations.append(page)
 
@@ -265,10 +276,72 @@ class Page:
                 nav_pages.append(page)
             elif page.page_type == "poi":
                 pois.append(page)
+            elif page.page_type == "bloglist":
+                pass  # surfaced separately via find_bloglists()
             else:
                 locations.append(page)
 
         return nav_pages, locations, pois
+
+    @property
+    def blog_entries(self):
+        """Outside blogs named by a type: bloglist page, in listed order.
+
+        A bloglist points at the open web rather than at other pages in the
+        tree, so its members live inline in its own frontmatter instead of
+        being resolved with load_page().  Entries without a name and url are
+        dropped rather than half-rendered — the linter reports them.
+        """
+        entries = []
+        for raw in self.meta.get("blogs") or []:
+            if not isinstance(raw, dict):
+                continue
+            name = (raw.get("name") or "").strip()
+            url = (raw.get("url") or "").strip()
+            if not name or not url:
+                continue
+            entries.append({
+                "name": name,
+                "url": url,
+                "domain": _display_domain(url),
+                "note": (raw.get("note") or "").strip(),
+                "author": (raw.get("author") or "").strip(),
+            })
+        return entries
+
+    def find_bloglists(self):
+        """Return type: bloglist pages living directly in this page's directory.
+
+        Like the pages themselves, this is a plain directory scan — a bloglist
+        belongs to the place whose folder it sits in, nothing wider.
+        """
+        if self.source_ref:
+            return self._bloglists_from_revision()
+        dir_path = CONTENT_DIR / self.path
+        if not dir_path.is_dir():
+            return []
+        results = []
+        for entry in sorted(dir_path.iterdir()):
+            if not (entry.is_file() and entry.suffix == ".md"):
+                continue
+            if entry.stem == self.slug:
+                continue
+            page = _load_page_from_file(entry, self.path + "/" + entry.stem)
+            if page and page.page_type == "bloglist":
+                results.append(page)
+        return sorted(results, key=_score_desc_title_key)
+
+    def _bloglists_from_revision(self):
+        results = []
+        for name in _revision_dir_names(self.source_ref, self.path):
+            if not name.endswith(".md") or name[:-3] == self.slug:
+                continue
+            page = load_page_from_revision(
+                f"{self.path}/{name[:-3]}", self.source_ref, url_revision=self.revision
+            )
+            if page and page.page_type == "bloglist":
+                results.append(page)
+        return sorted(results, key=_score_desc_title_key)
 
     def tagged_pois(self, _city_tag_index=None):
         """Return POIs tagged with this nav page's tag, found anywhere in the city.

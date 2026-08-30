@@ -281,10 +281,12 @@ class Page:
         city_path = _find_city_path(self.path, self.source_ref, self.revision)
         if not city_path:
             return []
-        # Only aggregate tagged POIs when the parent is a city, not a country/region.
-        # Country- and region-level sections are editorial text, not POI aggregators.
+        # Country- and region-level sections are normally editorial text. Small
+        # destinations can opt in when their POIs genuinely belong island-wide.
         city_page = load_page(city_path) if not self.source_ref else load_page_from_revision(city_path, self.source_ref, self.revision)
-        if city_page and city_page.meta.get('loc_type') not in ('city', 'feature', None):
+        if (city_page
+                and city_page.meta.get('loc_type') not in ('city', 'feature', None)
+                and not city_page.meta.get('aggregate_pois')):
             return self._legacy_dir_pois()
         tag = self.nav_tag
         by_tag = find_tagged_pois(

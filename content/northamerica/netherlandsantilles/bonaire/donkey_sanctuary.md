@@ -9,8 +9,10 @@ latitude: 12.1450
 longitude: -68.2333
 snippet: "Refuge for the island's feral donkeys"
 score: 5.6
+sources:
+  - https://bonaireisland.com/experiences/sightseeing/sites/donkey-sanctuary-bonaire/
 ---
 
-Donkeys were brought to Bonaire in the 1600s by the Spanish as pack animals, and when they were no longer needed they were released. The descendants — small, hardy, and slightly unsociable — wandered the island freely for centuries. The sanctuary, founded in 1993 near Lac Bay, takes in sick, orphaned, and elderly donkeys and runs a drive-through compound where visitors can feed them.
+Donkey Sanctuary Bonaire was founded in 1993 to care for sick, injured, and orphaned donkeys. Hundreds now live in its large enclosure south of Kralendijk, where visitors follow a drive-through route and see the animals at close range.
 
-The donkeys come up to the car windows looking for carrots, and the experience is part nature reserve, part farm visit, part comic relief. Kids love it. The sanctuary is non-profit and entrance fees go directly to feed and veterinary care.
+The donkeys are very accustomed to cars and may crowd the windows, which is either delightful or chaotic depending on your tolerance for large, determined noses. Follow staff instructions about feeding and keep doors closed. Admission supports food, water, shelter, and veterinary care; check current hours before driving out.

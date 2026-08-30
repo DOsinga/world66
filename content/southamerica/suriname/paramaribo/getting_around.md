@@ -9,4 +9,4 @@ For longer journeys within the city, minibuses (locally called "bus") run fixed 
 
 Bicycles can be rented from a few places near the centre and are a practical way to explore the wider city. Traffic is not aggressive by regional standards, though the roads are poorly marked.
 
-For excursions outside the city — to Brownsberg, the Suriname River, or the interior — most travellers join organised tours from Paramaribo, as public transport to these areas is scarce.
+For [Brownsberg](/southamerica/suriname/brownsberg_nature_park), [Commewijne](/southamerica/suriname/commewijne), or the interior, arrange transport with the destination or a reputable operator. Ordinary public transport rarely connects the full visitor itinerary.

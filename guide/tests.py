@@ -1,4 +1,18 @@
-from django.test import SimpleTestCase
+from django.test import SimpleTestCase, override_settings
+
+
+class AnalyticsTagTest(SimpleTestCase):
+    @override_settings(
+        GA_MEASUREMENT_ID="G-TEST123",
+        GTM_CONTAINER_ID="GTM-OLD123",
+    )
+    def test_direct_ga4_tag_prevents_duplicate_gtm_tracking(self):
+        response = self.client.get("/search")
+
+        self.assertContains(response, "gtag/js?id=G-TEST123")
+        self.assertContains(response, "gtag('config', 'G\\u002DTEST123')")
+        self.assertNotContains(response, "gtm.js?id=GTM-OLD123")
+        self.assertNotContains(response, "ns.html?id=GTM-OLD123")
 
 
 class DestinationPoiAggregationTest(SimpleTestCase):

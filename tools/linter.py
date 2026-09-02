@@ -23,6 +23,7 @@ Checks:
   city_has_child_location  city contains a child location page        [report]
   non_canonical_section    section slug not in canonical set         [partial fix]
   broken_link              markdown link to /<path> doesn't resolve  [report]
+  commercial_poi           commercial: true POI missing contact/tags  [report]
 
 Exits non-zero if any unfixable blocking issues remain after fixes are
 applied. Checks listed in WARNING_CHECKS are reported but do not fail the
@@ -634,6 +635,44 @@ def check_broken_links(pages: list[Page]) -> list[Issue]:
     return issues
 
 
+def check_commercial_poi(pages: list[Page]) -> list[Issue]:
+    """Bookable activity providers are only useful if a reader can reach them.
+
+    Also guards the WhatsApp number format: it is written only for providers
+    that actually advertise WhatsApp, never derived from a phone number, so a
+    malformed one means somebody guessed.
+    """
+    issues = []
+    for p in pages:
+        if not p.meta.get("commercial"):
+            continue
+        if p.page_type != "poi":
+            issues.append(Issue(
+                path=p.path, check="commercial_poi",
+                message=f"commercial: true on type={p.page_type}, expected poi",
+            ))
+        if not any(p.meta.get(k) for k in ("whatsapp", "phone", "email", "url")):
+            issues.append(Issue(
+                path=p.path, check="commercial_poi",
+                message="commercial POI with no whatsapp/phone/email/url to book through",
+            ))
+        wa = str(p.meta.get("whatsapp") or "").strip()
+        if wa:
+            digits = "".join(c for c in wa if c.isdigit())
+            if not wa.startswith("+") or not 8 <= len(digits) <= 15:
+                issues.append(Issue(
+                    path=p.path, check="commercial_poi",
+                    message=f"whatsapp {wa!r} is not an international +<digits> number",
+                ))
+        tags = p.meta.get("tags") or []
+        if isinstance(tags, list) and "activities" not in tags:
+            issues.append(Issue(
+                path=p.path, check="commercial_poi",
+                message="commercial POI not tagged 'activities' (won't appear in a section)",
+            ))
+    return issues
+
+
 CHECKS = [
     check_md_inside_own_dir,
     check_missing_loc_type,
@@ -648,6 +687,7 @@ CHECKS = [
     check_city_has_child_location,
     check_non_canonical_section,
     check_broken_links,
+    check_commercial_poi,
 ]
 
 # Checks that report but do not fail the build. Used to introduce a new rule

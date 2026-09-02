@@ -244,10 +244,23 @@
     {% for key, value in page.properties.items %}
     <tr>
       <th>{{ key }}</th>
-      <td>{% if key == "Website" %}<a href="http://{{ value }}" target="_blank" rel="noopener noreferrer">{{ value }}</a>{% elif key == "Email" %}<a href="mailto:{{ value }}">{{ value }}</a>{% else %}{{ value }}{% endif %}</td>
+      <td>{% if key == "Website" %}<a href="http://{{ value }}" target="_blank" rel="noopener noreferrer">{{ value }}</a>{% elif key == "Email" %}<a href="mailto:{{ value }}">{{ value }}</a>{% elif key == "WhatsApp" %}<a href="{{ page.whatsapp_link }}" target="_blank" rel="noopener noreferrer">{{ value }}</a>{% else %}{{ value }}{% endif %}</td>
     </tr>
     {% endfor %}
   </table>
+</div>
+{% endif %}
+
+{% if page.is_commercial %}
+<div class="book-box">
+  <div class="book-box-label">Book directly with the provider</div>
+  <div class="book-box-actions">
+    {% if page.whatsapp_link %}<a class="book-btn book-btn--whatsapp" href="{{ page.whatsapp_link }}" target="_blank" rel="noopener noreferrer">Message on WhatsApp</a>{% endif %}
+    {% if page.meta.phone %}<a class="book-btn" href="tel:{{ page.meta.phone|cut:" " }}">{{ page.meta.phone }}</a>{% endif %}
+    {% if page.meta.email %}<a class="book-btn" href="mailto:{{ page.meta.email }}">{{ page.meta.email }}</a>{% endif %}
+    {% if page.meta.url %}<a class="book-btn" href="http://{{ page.meta.url }}" target="_blank" rel="noopener noreferrer">Website</a>{% endif %}
+  </div>
+  <p class="book-box-note">World66 takes no commission and has no relationship with the providers listed here. Prices and availability are the provider&rsquo;s own.</p>
 </div>
 {% endif %}
 

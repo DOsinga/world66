@@ -11,6 +11,12 @@ Uses the `type` field to classify pages:
   theme         — a cross-cutting theme (lgbtq, cold_war, …); appears under its section_group
   poi           — individual point of interest
 
+A POI may additionally carry `commercial: true`.  Those are bookable activity
+providers — surf schools, boat trips, nature guides — rather than editorial
+sights.  They render with their contact details and, where the provider
+actually advertises one, a WhatsApp link.  The flag exists so this content can
+be filtered out or swapped for a supplier feed later without hunting for it.
+
 All of section / section_group / neighbourhood / theme are "nav pages": they appear
 in the city sidebar and each collects POIs by tag.  When a POI carries `tags: [de_pijp]`
 and a page `de_pijp.md` exists with `type: neighbourhood`, that POI appears under De Pijp.
@@ -39,6 +45,7 @@ NAV_TYPES = {"section", "section_group", "neighbourhood", "theme"}
 DISPLAY_PROPERTIES = {
     "address": "Address",
     "phone": "Phone",
+    "whatsapp": "WhatsApp",
     "url": "Website",
     "email": "Email",
     "opening_hours": "Opening Hours",
@@ -137,6 +144,23 @@ class Page:
             if t in self._CATEGORY_TAGS:
                 return t.replace("_", " ").title()
         return ""
+
+    @property
+    def is_commercial(self):
+        """A bookable activity provider rather than an editorial sight."""
+        return bool(self.meta.get("commercial"))
+
+    @property
+    def whatsapp_link(self):
+        """wa.me URL for the provider's WhatsApp number, or "".
+
+        Only set on providers that actually advertise WhatsApp — a French 06
+        mobile is not assumed to accept it, so this is never derived from
+        `phone`.
+        """
+        raw = str(self.meta.get("whatsapp") or "").strip()
+        digits = "".join(c for c in raw if c.isdigit())
+        return f"https://wa.me/{digits}" if digits else ""
 
     @property
     def nav_tag(self):

@@ -16,4 +16,4 @@ Hossegor — officially Soorts-Hossegor — is the surf capital of France and, f
 
 The town itself is calmer than its reputation. It grew up in the 1920s around a saltwater lake left behind when the Boudigau channel was cut, and the villas around the lake are a distinctive Basque-Landais hybrid: half-timbered gables, red shutters, deep eaves, set among maritime pines. The lake side is where families go; the beach side is where the surf industry lives, and most of the European surf brands have offices within a few kilometres.
 
-Out of season it empties, which is when the pine forest and the twenty-odd kilometres of cycle path through it come into their own. [Capbreton](/europe/france/aquitaine/bayonne) is walking distance south across the channel, and Seignosse is the next beach north.
+Out of season it empties, which is when the pine forest and the twenty-odd kilometres of cycle path through it come into their own. Capbreton is walking distance south across the channel, and Seignosse is the next beach north.

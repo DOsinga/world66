@@ -159,8 +159,15 @@ class Page:
         `phone`.
         """
         raw = str(self.meta.get("whatsapp") or "").strip()
-        digits = "".join(c for c in raw if c.isdigit())
-        return f"https://wa.me/{digits}" if digits else ""
+        # French businesses commonly write +33 (0)6 …, where the (0) is the
+        # trunk prefix you drop when dialling internationally. Keeping it
+        # yields a plausible-looking number that reaches nobody.
+        digits = "".join(c for c in raw.replace("(0)", "") if c.isdigit())
+        # A leading 0 means it is still in national format, so we don't know
+        # the country — better no link than a wrong one.
+        if not digits or digits.startswith("0"):
+            return ""
+        return f"https://wa.me/{digits}"
 
     @property
     def nav_tag(self):

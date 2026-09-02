@@ -13,7 +13,7 @@ title: Wissant
 type: location
 ---
 
-Wissant sits in the middle of the only stretch of French coast that looks England in the eye — the bay curves for four kilometres between [Cap Blanc-Nez](/europe/france/nord/calais) to the north-east and Cap Gris-Nez to the south-west, and on a clear day the white cliffs on the far side of the Channel are plainly visible. The sand is firm, pale and enormous at low tide, and the wind almost never stops.
+Wissant sits in the middle of the only stretch of French coast that looks England in the eye — the bay curves for four kilometres between Cap Blanc-Nez to the north-east and Cap Gris-Nez to the south-west, and on a clear day the white cliffs on the far side of the Channel are plainly visible. The sand is firm, pale and enormous at low tide, and the wind almost never stops.
 
 That wind is the point. Wissant is where the Opal Coast comes to sail things: kitesurfers off the main beach, wingfoilers further along, surfers when a north-westerly swell wraps into the bay, and sand-yachts on the hard flats at low water. The village behind is small and unpretentious — a square, a church, a handful of cafés and *friteries*, and the flobart fishing boats that give the main street its name.
 

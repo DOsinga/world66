@@ -644,6 +644,23 @@ def check_commercial_poi(pages: list[Page]) -> list[Issue]:
     """
     issues = []
     for p in pages:
+        # The whatsapp format guard applies to any page carrying the field,
+        # not just providers — a bad number is a bad number either way.
+        raw_wa = p.meta.get("whatsapp")
+        if raw_wa is not None:
+            if isinstance(raw_wa, (int, float)):
+                issues.append(Issue(
+                    path=p.path, check="commercial_poi",
+                    message=f"whatsapp {raw_wa} must be quoted, or YAML eats the leading +",
+                ))
+            else:
+                wa = str(raw_wa).strip()
+                digits = "".join(c for c in wa.replace("(0)", "") if c.isdigit())
+                if not wa.startswith("+") or not 8 <= len(digits) <= 15 or digits.startswith("0"):
+                    issues.append(Issue(
+                        path=p.path, check="commercial_poi",
+                        message=f"whatsapp {wa!r} is not an international +<digits> number",
+                    ))
         if not p.meta.get("commercial"):
             continue
         if p.page_type != "poi":
@@ -656,16 +673,12 @@ def check_commercial_poi(pages: list[Page]) -> list[Issue]:
                 path=p.path, check="commercial_poi",
                 message="commercial POI with no whatsapp/phone/email/url to book through",
             ))
-        wa = str(p.meta.get("whatsapp") or "").strip()
-        if wa:
-            digits = "".join(c for c in wa if c.isdigit())
-            if not wa.startswith("+") or not 8 <= len(digits) <= 15:
-                issues.append(Issue(
-                    path=p.path, check="commercial_poi",
-                    message=f"whatsapp {wa!r} is not an international +<digits> number",
-                ))
-        tags = p.meta.get("tags") or []
-        if isinstance(tags, list) and "activities" not in tags:
+        raw_tags = p.meta.get("tags") or []
+        if isinstance(raw_tags, str):
+            tags = [t.strip() for t in raw_tags.split(",") if t.strip()]
+        else:
+            tags = raw_tags
+        if "activities" not in tags:
             issues.append(Issue(
                 path=p.path, check="commercial_poi",
                 message="commercial POI not tagged 'activities' (won't appear in a section)",

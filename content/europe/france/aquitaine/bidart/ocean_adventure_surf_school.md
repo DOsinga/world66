@@ -16,7 +16,7 @@ url: oceanadventure.surf
 whatsapp: +33 7 83 88 57 70
 ---
 
-A Basque-coast surf school teaching on the sand at Uhabia in Bidart, about 250 metres from Guéthary. They are explicit about why they are not at Guéthary itself: the seabed there is rock, which makes a celebrated wave and a bad place to fall off. Groups are capped at eight per instructor and lessons run an hour and forty-five minutes, of which about an hour and a quarter is in the water. Boards and wetsuits are included.
+A Basque-coast surf school teaching on the sand at Uhabia, the long beach at the southern end of Bidart. They are explicit about why they are not at Guéthary itself: the seabed there is rock, which makes a celebrated wave and a bad place to fall off. Groups are capped at eight per instructor and lessons run an hour and forty-five minutes, of which about an hour and a quarter is in the water. Boards and wetsuits are included.
 
 Sessions are set by the tide rather than the clock, and they ring you a couple of days beforehand to confirm the time — so leave a number they can reach you on.
 

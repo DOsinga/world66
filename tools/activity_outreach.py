@@ -26,8 +26,8 @@ WhatsApp, which number it is, and that they agreed to be contacted there — and
 a link scanner cannot forge it, because scanning a URL does not send a message.
 
 Set W66_WHATSAPP to World66's own WhatsApp number (digits, international, no
-plus). Until that exists the script still runs and leaves the link column
-templated.
+plus). Without it the CSV still builds with templated links, but --emails
+refuses rather than drafting mail nobody can act on.
 
 Usage:
     python3 tools/activity_outreach.py            # rewrite the CSV
@@ -38,6 +38,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import hashlib
 import os
 import re
 import sys
@@ -59,10 +60,18 @@ FIELDS = [
 
 
 def confirm_code(poi_path: str) -> str:
-    """Short, stable, human-readable code — it gets typed into WhatsApp."""
+    """Short, stable, human-readable code — it gets typed into WhatsApp.
+
+    The readable part is truncated, so it carries a hash of the full path: two
+    providers in a long-named town would otherwise share a code, and an inbound
+    "CONFIRM …" that matches two POIs is unattributable — which risks
+    publishing one operator's number on another's page.
+    """
     parts = [p for p in poi_path.split("/") if p]
     tail = "-".join(parts[-2:])
-    return "W66-" + re.sub(r"[^A-Z0-9-]", "", tail.upper().replace("_", "-"))[:28]
+    readable = re.sub(r"[^A-Z0-9-]", "", tail.upper().replace("_", "-"))[:22].rstrip("-")
+    suffix = hashlib.sha1(poi_path.encode("utf-8")).hexdigest()[:4].upper()
+    return f"W66-{readable}-{suffix}"
 
 
 def confirm_link(code: str) -> str:
@@ -103,6 +112,7 @@ def existing_rows() -> dict[str, dict]:
 def build() -> list[dict]:
     prior = existing_rows()
     rows = []
+    seen_paths = set()
     for p in providers():
         code = confirm_code(p["poi_path"])
         was = prior.get(p["poi_path"], {})
@@ -115,6 +125,20 @@ def build() -> list[dict]:
             # provider's WhatsApp message — never derived here.
             "confirmed": was.get("confirmed", ""),
         })
+        seen_paths.add(p["poi_path"])
+
+    # Content gets restructured often here. A provider whose path changed would
+    # silently lose its emailed/confirmed history and be contacted again, so
+    # say so rather than dropping it quietly.
+    for path, row in prior.items():
+        if path not in seen_paths and (row.get("emailed") or row.get("confirmed")):
+            print(f"warning: {row.get('provider', path)} had outreach history at "
+                  f"{path}, which no longer exists — moved or removed?", file=sys.stderr)
+
+    codes = [r["confirm_code"] for r in rows]
+    dupes = {c for c in codes if codes.count(c) > 1}
+    if dupes:
+        raise SystemExit(f"confirmation codes are not unique: {sorted(dupes)}")
     return rows
 
 
@@ -162,7 +186,14 @@ def main() -> int:
         print("note: W66_WHATSAPP unset, confirm links are templated")
 
     if args.emails:
-        for r in rows:
+        if not W66_WHATSAPP:
+            print("\nrefusing to draft emails: W66_WHATSAPP is unset, so every "
+                  "confirmation link would be dead. Set it and re-run.",
+                  file=sys.stderr)
+            return 1
+        pending = [r for r in rows if not r["emailed"]]
+        print(f"\n{len(pending)} of {len(rows)} providers not yet emailed")
+        for r in pending:
             if not r["email"]:
                 print(f"\n--- {r['provider']}: no email address, needs the web form at {r['url']}")
                 continue

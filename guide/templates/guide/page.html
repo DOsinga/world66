@@ -244,7 +244,7 @@
     {% for key, value in page.properties.items %}
     <tr>
       <th>{{ key }}</th>
-      <td>{% if key == "Website" %}<a href="http://{{ value }}" target="_blank" rel="noopener noreferrer">{{ value }}</a>{% elif key == "Email" %}<a href="mailto:{{ value }}">{{ value }}</a>{% elif key == "WhatsApp" %}<a href="{{ page.whatsapp_link }}" target="_blank" rel="noopener noreferrer">{{ value }}</a>{% else %}{{ value }}{% endif %}</td>
+      <td>{% if key == "Website" %}<a href="http://{{ value }}" target="_blank" rel="noopener noreferrer">{{ value }}</a>{% elif key == "Email" %}<a href="mailto:{{ value }}">{{ value }}</a>{% elif key == "WhatsApp" %}{% if page.whatsapp_link %}<a href="{{ page.whatsapp_link }}" target="_blank" rel="noopener noreferrer">{{ value }}</a>{% else %}{{ value }}{% endif %}{% else %}{{ value }}{% endif %}</td>
     </tr>
     {% endfor %}
   </table>

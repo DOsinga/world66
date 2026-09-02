@@ -4177,3 +4177,20 @@ img { max-width: 100%; height: auto; }
   font-style: italic;
   opacity: 0.7;
 }
+
+/* Marks a provider that has confirmed it takes bookings on WhatsApp. Only
+   appears where a number was verified — never inferred from a mobile. */
+.wa-badge {
+  display: inline-block;
+  margin-right: 8px;
+  padding: 2px 7px;
+  border-radius: 3px;
+  background: #25d366;
+  color: #08331a;
+  font-family: var(--label-font);
+  font-size: 9.5px;
+  font-weight: 700;
+  letter-spacing: 1.1px;
+  text-transform: uppercase;
+  vertical-align: 1px;
+}

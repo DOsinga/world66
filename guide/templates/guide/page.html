@@ -253,7 +253,7 @@
 
 {% if page.is_commercial %}
 <div class="book-box">
-  <div class="book-box-label">Book directly with the provider</div>
+  <div class="book-box-label">{% if page.whatsapp_link %}Book on WhatsApp{% else %}Book directly with the provider{% endif %}</div>
   <div class="book-box-actions">
     {% if page.whatsapp_link %}<a class="book-btn book-btn--whatsapp" href="{{ page.whatsapp_link }}" target="_blank" rel="noopener noreferrer">Message on WhatsApp</a>{% endif %}
     {% if page.meta.phone %}<a class="book-btn" href="tel:{{ page.meta.phone|cut:" " }}">{{ page.meta.phone }}</a>{% endif %}
@@ -327,6 +327,7 @@
           <div class="poi-blurb">{% if poi.meta.snippet %}{{ poi.meta.snippet }}{% elif poi.body %}{{ poi.body|truncatewords:24 }}{% endif %}</div>
         </div>
         <div class="poi-tag">
+          {% if poi.meta.whatsapp %}<span class="wa-badge">WhatsApp</span>{% endif %}
           {% if poi.category %}{{ poi.category }}{% endif %}
           {% if poi.meta.neighbourhood %} · {{ poi.meta.neighbourhood }}{% endif %}
         </div>
@@ -420,7 +421,7 @@
           <div class="poi-name">{{ poi.title }}</div>
           <div class="poi-blurb">{% if poi.meta.snippet %}{{ poi.meta.snippet }}{% elif poi.body %}{{ poi.body|truncatewords:24 }}{% endif %}</div>
         </div>
-        <div class="poi-tag">{% if poi.category %}{{ poi.category }}{% endif %}</div>
+        <div class="poi-tag">{% if poi.meta.whatsapp %}<span class="wa-badge">WhatsApp</span>{% endif %}{% if poi.category %}{{ poi.category }}{% endif %}</div>
       </a>
     </li>
     {% endfor %}

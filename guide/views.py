@@ -615,6 +615,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     PROVIDER_PANEL_MAX = 5
     location_providers = []
     location_providers_all = []
+    provider_categories = []
     providers_on_whatsapp = False
     provider_count = 0
     if page.page_type == "location":
@@ -628,6 +629,18 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         location_providers = found[:PROVIDER_PANEL_MAX]
         # The dialog carries every provider; the panel shows the first few.
         location_providers_all = found
+        # Filter chips for the dialog, biggest category first. Pointless with
+        # only one category, which is most towns.
+        _cats = {}
+        for prov in found:
+            c = _cats.setdefault(prov.activity_kind, {
+                "kind": prov.activity_kind, "label": prov.activity_label, "count": 0,
+            })
+            c["count"] += 1
+        if len(_cats) > 1:
+            provider_categories = sorted(
+                _cats.values(), key=lambda c: (-c["count"], c["label"])
+            )
         # Only promise WhatsApp when a shown provider actually offers it.
         providers_on_whatsapp = any(p.whatsapp_link for p in location_providers)
 
@@ -689,6 +702,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "url_prefix": page.url_prefix,
         "location_providers": location_providers,
         "location_providers_all": location_providers_all,
+        "provider_categories": provider_categories,
         "providers_on_whatsapp": providers_on_whatsapp,
         "provider_count": provider_count,
     })

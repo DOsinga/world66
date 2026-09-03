@@ -6,11 +6,9 @@ const W66_FILL = '#e8c4b0';
 const W66_FILL_HOVER = '#f0d4c0';
 const W66_CARTO_ATTRIBUTION = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>';
 const W66_ESRI_TILES = 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}';
-/* Labels for the Esri light-grey basemap. POI maps want street names, but
-   swapping to raw OSM tiles for them meant those maps looked nothing like the
-   rest of the site — same base, labels on top, keeps one style throughout. */
-const W66_ESRI_LABELS = 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}';
+const W66_OSM_TILES = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
 const W66_ESRI_ATTRIBUTION = 'Tiles &copy; <a href="https://www.esri.com/">Esri</a>, HERE, Garmin, &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>, GIS community';
+const W66_OSM_ATTRIBUTION = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>';
 
 /* ---- Home page: clickable continent map ---- */
 
@@ -166,12 +164,12 @@ function _addBaseTiles(map, isPoi, options) {
         return W66_CARTO_ATTRIBUTION;
     }
 
-    var tileOptions = Object.assign({maxNativeZoom: 16, maxZoom: 19}, options || {});
-    L.tileLayer(W66_ESRI_TILES, tileOptions).addTo(map);
-    if (isPoi) {
-        L.tileLayer(W66_ESRI_LABELS, tileOptions).addTo(map);
-    }
-    return W66_ESRI_ATTRIBUTION;
+    var tileOptions = Object.assign(
+        isPoi ? {maxZoom: 19} : {maxNativeZoom: 16, maxZoom: 19},
+        options || {}
+    );
+    L.tileLayer(isPoi ? W66_OSM_TILES : W66_ESRI_TILES, tileOptions).addTo(map);
+    return isPoi ? W66_OSM_ATTRIBUTION : W66_ESRI_ATTRIBUTION;
 }
 
 function initLocationMap(elementId, markers, options) {

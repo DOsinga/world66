@@ -4252,6 +4252,10 @@ img { max-width: 100%; height: auto; }
 
 .svc:hover { text-decoration: none; }
 
+/* display:flex above beats the UA's [hidden] { display: none }, so filtering
+   would leave every row on screen without this. */
+.svc[hidden] { display: none; }
+
 /* The whole row is the link, so the button must react with it. */
 .svc:hover .svc-cta { background: #1da851; color: #fff; }
 .svc:hover .svc-cta--plain { background: var(--act); border-color: var(--act); color: var(--paper); }
@@ -4373,6 +4377,9 @@ img { max-width: 100%; height: auto; }
 /* Every provider, in a dialog — the activities section no longer lists them,
    so this is the only place the full set can be seen. */
 .svc-modal {
+  /* The global reset (* { margin: 0 }) kills the UA's margin:auto on <dialog>,
+     which is what centres a modal — without this it pins to the top left. */
+  margin: auto;
   width: min(660px, 92vw);
   max-height: 86vh;
   padding: 24px 26px 26px;
@@ -4408,7 +4415,48 @@ img { max-width: 100%; height: auto; }
 
 .svc-modal-close:hover { opacity: 1; color: var(--accent); }
 
-.svc-modal .svc-panel-sub { margin-bottom: 16px; }
+.svc-modal .svc-panel-sub { margin-bottom: 14px; }
+
+/* Category filters, following the POI filter bar but tinted per activity so a
+   chip matches the rows it reveals. */
+.svc-filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-bottom: 14px;
+}
+
+.svc-filter-btn {
+  --act: #7a736b;
+  padding: 6px 13px;
+  border: 1px solid color-mix(in srgb, var(--act) 38%, transparent);
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--act) 10%, var(--paper));
+  font-family: var(--label-font);
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, var(--act) 80%, var(--ink));
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.svc-filter-btn[data-activity="surf"]         { --act: #2f6f8f; }
+.svc-filter-btn[data-activity="surf_hire"]    { --act: #3d8878; }
+.svc-filter-btn[data-activity="kitesurf"]     { --act: #8a6d3b; }
+.svc-filter-btn[data-activity="boating"]      { --act: #24566e; }
+.svc-filter-btn[data-activity="birdwatching"] { --act: #6d8040; }
+.svc-filter-btn[data-activity="seal_watching"]{ --act: #7a6a9a; }
+
+.svc-filter-btn:hover {
+  background: color-mix(in srgb, var(--act) 20%, var(--paper));
+}
+
+.svc-filter-btn.is-active {
+  background: var(--act);
+  border-color: var(--act);
+  color: var(--paper);
+}
 
 .svc-modal-list .svc { margin-bottom: 8px; }
 

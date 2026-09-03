@@ -94,7 +94,15 @@
       <button type="button" class="svc-modal-close" id="svc-modal-close" aria-label="Close">&times;</button>
     </div>
     <p class="svc-panel-sub">{% if providers_on_whatsapp %}Contact providers directly on WhatsApp &mdash; no booking fee, no middleman.{% else %}Contact these providers directly &mdash; no booking fee, no middleman.{% endif %}</p>
-    <div class="svc-modal-list">
+    {% if provider_categories %}
+    <div class="svc-filter-bar" id="svc-filter-bar">
+      <button type="button" class="svc-filter-btn is-active" data-filter="">All {{ location_providers_all|length }}</button>
+      {% for cat in provider_categories %}
+      <button type="button" class="svc-filter-btn" data-activity="{{ cat.kind }}" data-filter="{{ cat.kind }}">{{ cat.label }} {{ cat.count }}</button>
+      {% endfor %}
+    </div>
+    {% endif %}
+    <div class="svc-modal-list" id="svc-modal-list">
       {% for p in location_providers_all %}
       {% include "guide/widgets/provider_row.html" %}
       {% endfor %}
@@ -584,6 +592,21 @@
 {% block extra_js %}
 <script>
 (function() {
+  var svcFilters = document.getElementById('svc-filter-bar');
+  if (svcFilters) {
+    svcFilters.addEventListener('click', function(e) {
+      var btn = e.target.closest('.svc-filter-btn');
+      if (!btn) return;
+      var want = btn.getAttribute('data-filter');
+      svcFilters.querySelectorAll('.svc-filter-btn').forEach(function(b) {
+        b.classList.toggle('is-active', b === btn);
+      });
+      document.getElementById('svc-modal-list').querySelectorAll('.svc').forEach(function(row) {
+        row.hidden = want !== '' && row.getAttribute('data-activity') !== want;
+      });
+    });
+  }
+
   var svcAll = document.getElementById('svc-all-btn');
   var svcModal = document.getElementById('svc-modal');
   if (svcAll && svcModal && typeof svcModal.showModal === 'function') {

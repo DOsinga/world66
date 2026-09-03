@@ -4374,3 +4374,25 @@ img { max-width: 100%; height: auto; }
   #sidebar { display: flex; flex-direction: column; }
   .svc-panel { order: -1; margin-top: 0; margin-bottom: 22px; }
 }
+
+/* Inline sections now sit in the main column with the rest of the guide text,
+   so they need the spacing the full-width band used to provide. */
+.poi-section--inline {
+  padding-bottom: 34px;
+}
+
+/* #main h2 caps headings at 22px, which stripped this of the weight it had in
+   the full-width band. Scaled for the narrower column rather than restored to
+   the full 40px. */
+#main .poi-section--inline .poi-section-title {
+  font-variation-settings: "opsz" 144;
+  font-size: clamp(24px, 2.6vw, 32px);
+  letter-spacing: -0.02em;
+  line-height: 1.06;
+  margin: 6px 0 18px;
+  padding-bottom: 14px;
+}
+
+.poi-section--inline .body-text {
+  margin-bottom: 18px;
+}

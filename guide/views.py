@@ -608,6 +608,28 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     markers = _collect_markers(page, nav_pages, _map_top, pois, city_tag_index=city_tag_index)
     markers_full = _collect_markers(page, nav_pages, _map_all, pois, city_tag_index=city_tag_index)
 
+    # Providers panel under the sidebar map: the bookable activities in this
+    # town. WhatsApp first, because that is the channel we are pitching, then
+    # by score. Capped so the sticky sidebar stays inside the viewport — the
+    # activities section page carries the full list.
+    PROVIDER_PANEL_MAX = 5
+    location_providers = []
+    provider_count = 0
+    providers_all_url = ""
+    if page.page_type == "location":
+        found = [p for p in pois if p.is_commercial]
+        found.sort(key=lambda p: (
+            not p.whatsapp_link,
+            -_safe_float(p.meta.get("score")) if p.meta.get("score") else 0,
+            p.title.casefold(),
+        ))
+        provider_count = len(found)
+        location_providers = found[:PROVIDER_PANEL_MAX]
+        if provider_count > PROVIDER_PANEL_MAX and any(
+            nav.slug == "activities" for nav in nav_pages
+        ):
+            providers_all_url = f"{page.url_prefix}/{page.path}/activities"
+
     breadcrumbs = page.breadcrumbs()
     dimension_rows, score_verdict, similar_in_country = _score_profile_context(page, parent)
 
@@ -652,6 +674,9 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "daytrip_cards": daytrip_cards,
         "more_linked_locations": more_linked_locations,
         "url_prefix": page.url_prefix,
+        "location_providers": location_providers,
+        "provider_count": provider_count,
+        "providers_all_url": providers_all_url,
     })
 
 

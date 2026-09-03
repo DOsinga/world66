@@ -4194,3 +4194,137 @@ img { max-width: 100%; height: auto; }
   text-transform: uppercase;
   vertical-align: 1px;
 }
+
+/* --- Provider panel: bookable activities, under the sidebar map --- */
+
+/* One colour per activity, desaturated so they sit under the terracotta
+   accent rather than competing with it. */
+.svc[data-activity="surf"]         { --act: #2f6f8f; }
+.svc[data-activity="surf_hire"]    { --act: #3d8878; }
+.svc[data-activity="kitesurf"]     { --act: #8a6d3b; }
+.svc[data-activity="boating"]      { --act: #24566e; }
+.svc[data-activity="birdwatching"] { --act: #6d8040; }
+.svc[data-activity="seal_watching"]{ --act: #7a6a9a; }
+.svc                               { --act: #7a736b; }
+
+.svc-panel {
+  margin-top: 18px;
+}
+
+.svc-panel-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding-bottom: 8px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid rgba(184, 83, 43, 0.25);
+}
+
+.svc-panel-head .section-kicker {
+  margin-bottom: 0;
+}
+
+.svc-count {
+  font-size: 11.5px;
+  opacity: 0.6;
+}
+
+.svc {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  margin-bottom: 6px;
+  padding: 10px 12px;
+  background: var(--paper-2);
+  border-left: 4px solid var(--act);
+  border-radius: 3px;
+}
+
+.svc-disc {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  color: var(--act);
+  background: color-mix(in srgb, var(--act) 22%, transparent);
+}
+
+.svc-disc svg { width: 17px; height: 17px; }
+
+.svc-mid {
+  flex: 1 1 auto;
+  min-width: 0;
+  text-decoration: none;
+}
+
+.svc-mid:hover .svc-name { color: var(--accent); }
+
+.svc-kicker {
+  display: block;
+  font-family: var(--label-font);
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: 1.6px;
+  text-transform: uppercase;
+  color: var(--act);
+}
+
+.svc-name {
+  display: block;
+  font-family: var(--display-font);
+  font-size: 17.5px;
+  line-height: 1.1;
+  color: var(--ink);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* One obvious action per row: WhatsApp where it is confirmed, phone otherwise. */
+.svc-cta {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  padding: 8px 12px;
+  border: 1px solid #1da851;
+  border-radius: 4px;
+  background: #25d366;
+  color: #06301a;
+  font-family: var(--label-font);
+  font-size: 12px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.svc-cta:hover { background: #1da851; color: #fff; text-decoration: none; }
+.svc-cta svg { width: 15px; height: 15px; fill: currentColor; }
+
+.svc-cta--plain {
+  background: var(--paper);
+  border-color: rgba(184, 83, 43, 0.4);
+  color: var(--ink);
+}
+
+.svc-cta--plain:hover { background: var(--paper-3); color: var(--ink); }
+
+.svc-all {
+  display: block;
+  margin-top: 10px;
+  font-family: var(--label-font);
+  font-size: 11px;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+/* On a phone the sidebar stacks under the body text, which would bury this at
+   the bottom of a long page — exactly where a WhatsApp tap is most likely. */
+@media (max-width: 900px) {
+  #sidebar { display: flex; flex-direction: column; }
+  .svc-panel { order: -1; margin-top: 0; margin-bottom: 22px; }
+}

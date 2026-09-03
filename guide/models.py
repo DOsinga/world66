@@ -26,6 +26,7 @@ A nav page's query tag defaults to its slug; set `tag: <value>` in frontmatter t
 
 import bisect
 import math
+import urllib.parse
 import sqlite3
 from dataclasses import dataclass, field
 from functools import lru_cache
@@ -167,7 +168,34 @@ class Page:
         # the country — better no link than a wrong one.
         if not digits or digits.startswith("0"):
             return ""
-        return f"https://wa.me/{digits}"
+        text = urllib.parse.quote(
+            f"Hello — I found {self.title} on World66 and would like to ask about "
+            "availability."
+        )
+        return f"https://wa.me/{digits}?text={text}"
+
+    # Activity tags that get their own colour and icon in the provider panel.
+    # The first matching tag on a provider decides how it is presented.
+    ACTIVITY_KINDS = {
+        "surf": "Surf",
+        "surf_hire": "Surf hire",
+        "kitesurf": "Kitesurf",
+        "boating": "Boating",
+        "birdwatching": "Bird tours",
+        "seal_watching": "Seal watching",
+    }
+
+    @property
+    def activity_kind(self):
+        """Slug of this provider's activity, or "" — drives colour and icon."""
+        for t in self.tags:
+            if t in self.ACTIVITY_KINDS:
+                return t
+        return ""
+
+    @property
+    def activity_label(self):
+        return self.ACTIVITY_KINDS.get(self.activity_kind, "Activity")
 
     @property
     def nav_tag(self):

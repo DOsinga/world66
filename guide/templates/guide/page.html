@@ -72,6 +72,36 @@
   </div>
   {% endif %}
 
+  {% if location_providers %}
+  <div class="svc-panel">
+    <div class="svc-panel-head">
+      <span class="section-kicker">Book Direct</span>
+      <span class="svc-count">{{ provider_count }} provider{{ provider_count|pluralize }}</span>
+    </div>
+    {% for p in location_providers %}
+    <div class="svc" data-activity="{{ p.activity_kind }}">
+      <span class="svc-disc">{% include "guide/widgets/activity_icon.html" with kind=p.activity_kind %}</span>
+      <a class="svc-mid" href="{{ p.get_absolute_url }}">
+        <span class="svc-kicker">{{ p.activity_label }}</span>
+        <span class="svc-name">{{ p.title }}</span>
+      </a>
+      {% if p.whatsapp_link %}
+      <a class="svc-cta" href="{{ p.whatsapp_link }}" target="_blank" rel="noopener noreferrer"
+         aria-label="Message {{ p.title }} on WhatsApp">{% include "guide/widgets/whatsapp_icon.html" %}WhatsApp</a>
+      {% elif p.meta.phone %}
+      <a class="svc-cta svc-cta--plain" href="tel:{{ p.meta.phone|cut:" " }}"
+         aria-label="Call {{ p.title }}">Call</a>
+      {% else %}
+      <a class="svc-cta svc-cta--plain" href="{{ p.get_absolute_url }}">Details</a>
+      {% endif %}
+    </div>
+    {% endfor %}
+    {% if providers_all_url %}
+    <a class="svc-all" href="{{ providers_all_url }}">See all {{ provider_count }} activities &rarr;</a>
+    {% endif %}
+  </div>
+  {% endif %}
+
   {% if dimension_rows %}
   <div class="score-profile-card" id="score-profile-card">
     <div class="score-profile-eyebrow">Travel Profile</div>

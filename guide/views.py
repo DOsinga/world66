@@ -614,6 +614,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     # activities section page carries the full list.
     PROVIDER_PANEL_MAX = 5
     location_providers = []
+    providers_on_whatsapp = False
     provider_count = 0
     providers_all_url = ""
     if page.page_type == "location":
@@ -625,6 +626,8 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         ))
         provider_count = len(found)
         location_providers = found[:PROVIDER_PANEL_MAX]
+        # Only promise WhatsApp when a shown provider actually offers it.
+        providers_on_whatsapp = any(p.whatsapp_link for p in location_providers)
         if provider_count > PROVIDER_PANEL_MAX and any(
             nav.slug == "activities" for nav in nav_pages
         ):
@@ -675,6 +678,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "more_linked_locations": more_linked_locations,
         "url_prefix": page.url_prefix,
         "location_providers": location_providers,
+        "providers_on_whatsapp": providers_on_whatsapp,
         "provider_count": provider_count,
         "providers_all_url": providers_all_url,
     })

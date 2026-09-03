@@ -75,15 +75,16 @@
   {% if location_providers %}
   <div class="svc-panel">
     <div class="svc-panel-head">
-      <span class="section-kicker">Book Direct</span>
-      <span class="svc-count">{{ provider_count }} provider{{ provider_count|pluralize }}</span>
+      <span class="svc-panel-title">Arrange your trip</span>
     </div>
+    <p class="svc-panel-sub">{% if providers_on_whatsapp %}Contact providers directly on WhatsApp &mdash; no booking fee, no middleman.{% else %}Contact these providers directly &mdash; no booking fee, no middleman.{% endif %}</p>
     {% for p in location_providers %}
     <div class="svc" data-activity="{{ p.activity_kind }}">
       <span class="svc-disc">{% include "guide/widgets/activity_icon.html" with kind=p.activity_kind %}</span>
       <a class="svc-mid" href="{{ p.get_absolute_url }}">
         <span class="svc-kicker">{{ p.activity_label }}</span>
         <span class="svc-name">{{ p.title }}</span>
+        {% if p.meta.snippet %}<span class="svc-tag">{{ p.meta.snippet }}</span>{% endif %}
       </a>
       {% if p.whatsapp_link %}
       <a class="svc-cta" href="{{ p.whatsapp_link }}" target="_blank" rel="noopener noreferrer"
@@ -103,8 +104,10 @@
   {% endif %}
 
   {% if dimension_rows %}
+  <div class="sidebar-block-head">
+    <span class="svc-panel-title">Travel profile</span>
+  </div>
   <div class="score-profile-card" id="score-profile-card">
-    <div class="score-profile-eyebrow">Travel Profile</div>
     <div class="score-profile-verdict">{{ score_verdict }}</div>
 
     <button type="button" class="score-profile-toggle" id="score-profile-toggle"
@@ -315,6 +318,24 @@
 </div>
 {% endif %}
 
+{% if page.page_type == "location" and sections and not inline_sections %}
+<div class="sections-row-wrap">
+  <span class="section-kicker">Guide</span>
+  <h2 class="section-block-heading">Sections</h2>
+  <div class="sections-row">
+    {% for s in sections %}
+    {% if s.slug != "neighbourhoods" %}
+    <a href="{{ s.get_absolute_url }}" class="section-card" data-slug="{{ s.slug }}">
+      <div class="section-card-icon"></div>
+      <div class="section-card-name">{{ s.title }}</div>
+      <span class="section-card-arrow">&#8594;</span>
+    </a>
+    {% endif %}
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
 {% if tags %}
 <div class="tags">
   {% for tag in tags %}
@@ -459,22 +480,6 @@
   {% endif %}
 </div>
 {% endfor %}
-{% else %}
-<div class="wide-block sections-row-wrap">
-  <span class="section-kicker">Guide</span>
-  <h2 class="section-block-heading">Sections</h2>
-<div class="sections-row">
-  {% for s in sections %}
-  {% if s.slug != "neighbourhoods" %}
-  <a href="{{ s.get_absolute_url }}" class="section-card" data-slug="{{ s.slug }}">
-    <div class="section-card-icon"></div>
-    <div class="section-card-name">{{ s.title }}</div>
-    <span class="section-card-arrow">&#8594;</span>
-  </a>
-  {% endif %}
-  {% endfor %}
-</div>
-</div>
 {% endif %}
 {% endif %}
 

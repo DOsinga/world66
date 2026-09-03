@@ -79,35 +79,27 @@
     </div>
     <p class="svc-panel-sub">{% if providers_on_whatsapp %}Contact providers directly on WhatsApp &mdash; no booking fee, no middleman.{% else %}Contact these providers directly &mdash; no booking fee, no middleman.{% endif %}</p>
     {% for p in location_providers %}
-    {% if p.whatsapp_link %}
-    <a class="svc" data-activity="{{ p.activity_kind }}" href="{{ p.whatsapp_link }}"
-       target="_blank" rel="noopener noreferrer"
-       aria-label="Message {{ p.title }} on WhatsApp about {{ p.activity_label|lower }}">
-    {% elif p.meta.phone %}
-    <a class="svc" data-activity="{{ p.activity_kind }}" href="tel:{{ p.meta.phone|cut:" " }}"
-       aria-label="Call {{ p.title }} about {{ p.activity_label|lower }}">
-    {% else %}
-    <a class="svc" data-activity="{{ p.activity_kind }}" href="{{ p.get_absolute_url }}">
-    {% endif %}
-      <span class="svc-disc">{% include "guide/widgets/activity_icon.html" with kind=p.activity_kind %}</span>
-      <span class="svc-mid">
-        <span class="svc-kicker">{{ p.activity_label }}</span>
-        <span class="svc-name">{{ p.title }}</span>
-        {% if p.meta.snippet %}<span class="svc-tag">{{ p.meta.snippet }}</span>{% endif %}
-      </span>
-      {% if p.whatsapp_link %}
-      <span class="svc-cta">{% include "guide/widgets/whatsapp_icon.html" %}WhatsApp</span>
-      {% elif p.meta.phone %}
-      <span class="svc-cta svc-cta--plain">Call</span>
-      {% else %}
-      <span class="svc-cta svc-cta--plain">Details</span>
-      {% endif %}
-    </a>
+    {% include "guide/widgets/provider_row.html" %}
     {% endfor %}
-    {% if providers_all_url %}
-    <a class="svc-all" href="{{ providers_all_url }}">See all {{ provider_count }} activities &rarr;</a>
+    {% if provider_count > location_providers|length %}
+    <button type="button" class="svc-all" id="svc-all-btn" aria-haspopup="dialog">
+      See all {{ provider_count }} activities &rarr;
+    </button>
     {% endif %}
   </div>
+
+  <dialog class="svc-modal" id="svc-modal" aria-labelledby="svc-modal-title">
+    <div class="svc-modal-head">
+      <span class="svc-panel-title" id="svc-modal-title">Arrange your trip in {{ page.title }}</span>
+      <button type="button" class="svc-modal-close" id="svc-modal-close" aria-label="Close">&times;</button>
+    </div>
+    <p class="svc-panel-sub">{% if providers_on_whatsapp %}Contact providers directly on WhatsApp &mdash; no booking fee, no middleman.{% else %}Contact these providers directly &mdash; no booking fee, no middleman.{% endif %}</p>
+    <div class="svc-modal-list">
+      {% for p in location_providers_all %}
+      {% include "guide/widgets/provider_row.html" %}
+      {% endfor %}
+    </div>
+  </dialog>
   {% endif %}
 
   {% if dimension_rows %}
@@ -592,6 +584,29 @@
 {% block extra_js %}
 <script>
 (function() {
+  var svcAll = document.getElementById('svc-all-btn');
+  var svcModal = document.getElementById('svc-modal');
+  if (svcAll && svcModal && typeof svcModal.showModal === 'function') {
+    var svcClose = document.getElementById('svc-modal-close');
+    svcAll.addEventListener('click', function() { svcModal.showModal(); });
+    if (svcClose) { svcClose.addEventListener('click', function() { svcModal.close(); }); }
+    // Clicking the backdrop closes it: the dialog fills its own box, so a click
+    // landing on the element itself rather than its contents is outside.
+    svcModal.addEventListener('click', function(e) {
+      if (e.target === svcModal) { svcModal.close(); }
+    });
+  } else if (svcAll) {
+    // No <dialog> support: fall back to just showing every row inline.
+    svcAll.addEventListener('click', function() {
+      var panel = svcAll.closest('.svc-panel');
+      if (svcModal && panel) {
+        panel.appendChild(svcModal.querySelector('.svc-modal-list'));
+        svcModal.remove();
+      }
+      svcAll.remove();
+    });
+  }
+
   var mapCard = document.getElementById('sidebar-map-card');
   var mobileMapSlot = document.getElementById('mobile-hero-map-slot') || document.getElementById('mobile-map-slot');
   var mobileMapQuery = window.matchMedia('(max-width: 768px)');

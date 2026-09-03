@@ -4350,14 +4350,67 @@ img { max-width: 100%; height: auto; }
 
 .svc-all {
   display: block;
+  width: 100%;
   margin-top: 10px;
+  padding: 9px 0;
+  border: 1px dashed rgba(184, 83, 43, 0.45);
+  border-radius: 4px;
+  background: transparent;
   font-family: var(--label-font);
   font-size: 11px;
   letter-spacing: 1.4px;
   text-transform: uppercase;
   color: var(--accent);
   text-decoration: none;
+  cursor: pointer;
 }
+
+.svc-all:hover {
+  background: var(--paper-2);
+  border-style: solid;
+}
+
+/* Every provider, in a dialog — the activities section no longer lists them,
+   so this is the only place the full set can be seen. */
+.svc-modal {
+  width: min(660px, 92vw);
+  max-height: 86vh;
+  padding: 24px 26px 26px;
+  border: 1px solid rgba(184, 83, 43, 0.3);
+  border-radius: 5px;
+  background: var(--paper);
+  color: var(--ink);
+  overflow-y: auto;
+}
+
+.svc-modal::backdrop {
+  background: rgba(19, 18, 17, 0.55);
+}
+
+.svc-modal-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.svc-modal-close {
+  flex: 0 0 auto;
+  padding: 0 4px;
+  border: 0;
+  background: transparent;
+  color: var(--ink);
+  font-size: 26px;
+  line-height: 1;
+  cursor: pointer;
+  opacity: 0.55;
+}
+
+.svc-modal-close:hover { opacity: 1; color: var(--accent); }
+
+.svc-modal .svc-panel-sub { margin-bottom: 16px; }
+
+.svc-modal-list .svc { margin-bottom: 8px; }
 
 /* On a phone the sidebar stacks under the body text, which would bury this at
    the bottom of a long page — exactly where a WhatsApp tap is most likely. */

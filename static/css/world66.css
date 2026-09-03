@@ -4180,23 +4180,6 @@ img { max-width: 100%; height: auto; }
   opacity: 0.7;
 }
 
-/* Marks a provider that has confirmed it takes bookings on WhatsApp. Only
-   appears where a number was verified — never inferred from a mobile. */
-.wa-badge {
-  display: inline-block;
-  margin-right: 8px;
-  padding: 2px 7px;
-  border-radius: 3px;
-  background: #25d366;
-  color: #08331a;
-  font-family: var(--label-font);
-  font-size: 9.5px;
-  font-weight: 700;
-  letter-spacing: 1.1px;
-  text-transform: uppercase;
-  vertical-align: 1px;
-}
-
 /* --- Provider panel: bookable activities, under the sidebar map --- */
 
 /* One colour per activity, desaturated so they sit under the terracotta
@@ -4262,8 +4245,16 @@ img { max-width: 100%; height: auto; }
   border: 1px solid color-mix(in srgb, var(--act) 38%, transparent);
   border-left: 4px solid var(--act);
   border-radius: 4px;
+  text-decoration: none;
+  cursor: pointer;
   transition: background 0.18s ease, transform 0.18s ease;
 }
+
+.svc:hover { text-decoration: none; }
+
+/* The whole row is the link, so the button must react with it. */
+.svc:hover .svc-cta { background: #1da851; color: #fff; }
+.svc:hover .svc-cta--plain { background: var(--act); border-color: var(--act); color: var(--paper); }
 
 .svc:hover {
   background: color-mix(in srgb, var(--act) 27%, var(--paper));
@@ -4291,7 +4282,7 @@ img { max-width: 100%; height: auto; }
   text-decoration: none;
 }
 
-.svc-mid:hover .svc-name { color: var(--accent); }
+.svc:hover .svc-name { color: var(--act); }
 
 .svc-kicker {
   display: block;

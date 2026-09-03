@@ -79,23 +79,30 @@
     </div>
     <p class="svc-panel-sub">{% if providers_on_whatsapp %}Contact providers directly on WhatsApp &mdash; no booking fee, no middleman.{% else %}Contact these providers directly &mdash; no booking fee, no middleman.{% endif %}</p>
     {% for p in location_providers %}
-    <div class="svc" data-activity="{{ p.activity_kind }}">
+    {% if p.whatsapp_link %}
+    <a class="svc" data-activity="{{ p.activity_kind }}" href="{{ p.whatsapp_link }}"
+       target="_blank" rel="noopener noreferrer"
+       aria-label="Message {{ p.title }} on WhatsApp about {{ p.activity_label|lower }}">
+    {% elif p.meta.phone %}
+    <a class="svc" data-activity="{{ p.activity_kind }}" href="tel:{{ p.meta.phone|cut:" " }}"
+       aria-label="Call {{ p.title }} about {{ p.activity_label|lower }}">
+    {% else %}
+    <a class="svc" data-activity="{{ p.activity_kind }}" href="{{ p.get_absolute_url }}">
+    {% endif %}
       <span class="svc-disc">{% include "guide/widgets/activity_icon.html" with kind=p.activity_kind %}</span>
-      <a class="svc-mid" href="{{ p.get_absolute_url }}">
+      <span class="svc-mid">
         <span class="svc-kicker">{{ p.activity_label }}</span>
         <span class="svc-name">{{ p.title }}</span>
         {% if p.meta.snippet %}<span class="svc-tag">{{ p.meta.snippet }}</span>{% endif %}
-      </a>
+      </span>
       {% if p.whatsapp_link %}
-      <a class="svc-cta" href="{{ p.whatsapp_link }}" target="_blank" rel="noopener noreferrer"
-         aria-label="Message {{ p.title }} on WhatsApp">{% include "guide/widgets/whatsapp_icon.html" %}WhatsApp</a>
+      <span class="svc-cta">{% include "guide/widgets/whatsapp_icon.html" %}WhatsApp</span>
       {% elif p.meta.phone %}
-      <a class="svc-cta svc-cta--plain" href="tel:{{ p.meta.phone|cut:" " }}"
-         aria-label="Call {{ p.title }}">Call</a>
+      <span class="svc-cta svc-cta--plain">Call</span>
       {% else %}
-      <a class="svc-cta svc-cta--plain" href="{{ p.get_absolute_url }}">Details</a>
+      <span class="svc-cta svc-cta--plain">Details</span>
       {% endif %}
-    </div>
+    </a>
     {% endfor %}
     {% if providers_all_url %}
     <a class="svc-all" href="{{ providers_all_url }}">See all {{ provider_count }} activities &rarr;</a>
@@ -336,7 +343,7 @@
           <div class="poi-name">{{ poi.title }}</div>
           <div class="poi-blurb">{% if poi.meta.snippet %}{{ poi.meta.snippet }}{% elif poi.body %}{{ poi.body|truncatewords:24 }}{% endif %}</div>
         </div>
-        <div class="poi-tag">{% if poi.meta.whatsapp %}<span class="wa-badge">WhatsApp</span>{% endif %}{% if poi.category %}{{ poi.category }}{% endif %}</div>
+        <div class="poi-tag">{% if poi.category %}{{ poi.category }}{% endif %}</div>
       </a>
     </li>
     {% endfor %}
@@ -406,7 +413,7 @@
           <div class="poi-blurb">{% if poi.meta.snippet %}{{ poi.meta.snippet }}{% elif poi.body %}{{ poi.body|truncatewords:24 }}{% endif %}</div>
         </div>
         <div class="poi-tag">
-          {% if poi.meta.whatsapp %}<span class="wa-badge">WhatsApp</span>{% endif %}
+          
           {% if poi.category %}{{ poi.category }}{% endif %}
           {% if poi.meta.neighbourhood %} · {{ poi.meta.neighbourhood }}{% endif %}
         </div>

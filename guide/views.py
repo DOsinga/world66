@@ -633,6 +633,18 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         ):
             providers_all_url = f"{page.url_prefix}/{page.path}/activities"
 
+    # Commercial providers appear only in the panel above. Filtering happens
+    # here, after the panel and the markers have been built from the full set,
+    # so hiding them from lists doesn't empty the panel too. An activities
+    # section keeps its intro text and simply lists nothing.
+    pois = [p for p in pois if not p.is_commercial]
+    if inline_sections:
+        inline_sections = [
+            {**item, "pois": [p for p in item["pois"] if not p.is_commercial]}
+            for item in inline_sections
+        ]
+    poi_categories = [c for c in poi_categories if c] if poi_categories else poi_categories
+
     breadcrumbs = page.breadcrumbs()
     dimension_rows, score_verdict, similar_in_country = _score_profile_context(page, parent)
 

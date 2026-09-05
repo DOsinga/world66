@@ -191,6 +191,11 @@ class Page:
         "wildlife_watching": "Wildlife",
         "guided_tours": "Guided tours",
         "fishing": "Fishing",
+        "trekking": "Trekking",
+        "machu_picchu": "Machu Picchu",
+        "sandboarding": "Sandboarding",
+        "scenic_flights": "Scenic flights",
+        "rafting": "Rafting",
     }
 
     @property

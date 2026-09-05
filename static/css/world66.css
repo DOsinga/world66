@@ -4194,6 +4194,11 @@ img { max-width: 100%; height: auto; }
 .svc[data-activity="wildlife_watching"] { --act: #a5673f; }
 .svc[data-activity="guided_tours"] { --act: #5f6b8a; }
 .svc[data-activity="fishing"]      { --act: #2f7d7d; }
+.svc[data-activity="trekking"]     { --act: #7a5c34; }
+.svc[data-activity="machu_picchu"] { --act: #6b6f3e; }
+.svc[data-activity="sandboarding"] { --act: #b07a35; }
+.svc[data-activity="scenic_flights"]{ --act: #4d6d94; }
+.svc[data-activity="rafting"]      { --act: #2b7f95; }
 .svc                               { --act: #7a736b; }
 
 .svc-panel {
@@ -4455,6 +4460,11 @@ img { max-width: 100%; height: auto; }
 .svc-filter-btn[data-activity="wildlife_watching"] { --act: #a5673f; }
 .svc-filter-btn[data-activity="guided_tours"] { --act: #5f6b8a; }
 .svc-filter-btn[data-activity="fishing"]      { --act: #2f7d7d; }
+.svc-filter-btn[data-activity="trekking"]     { --act: #7a5c34; }
+.svc-filter-btn[data-activity="machu_picchu"] { --act: #6b6f3e; }
+.svc-filter-btn[data-activity="sandboarding"] { --act: #b07a35; }
+.svc-filter-btn[data-activity="scenic_flights"]{ --act: #4d6d94; }
+.svc-filter-btn[data-activity="rafting"]      { --act: #2b7f95; }
 
 .svc-filter-btn:hover {
   background: color-mix(in srgb, var(--act) 20%, var(--paper));

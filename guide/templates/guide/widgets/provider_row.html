@@ -15,7 +15,8 @@ nested anchor. Shared by the sidebar panel and the "all providers" dialog.{% end
   <span class="svc-mid">
     <span class="svc-kicker">{{ p.activity_label }}</span>
     <span class="svc-name">{{ p.title }}</span>
-    {% if p.meta.snippet %}<span class="svc-tag">{{ p.meta.snippet }}</span>{% endif %}
+    {% if p.panel_note %}<span class="svc-tag">{{ p.panel_note }}</span>
+    {% elif p.meta.snippet %}<span class="svc-tag">{{ p.meta.snippet }}</span>{% endif %}
   </span>
   {% if p.whatsapp_link %}
   <span class="svc-cta">{% include "guide/widgets/whatsapp_icon.html" %}WhatsApp</span>

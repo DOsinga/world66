@@ -1,4 +1,10 @@
 ---
+providers:
+- note: Two or three days at the nesting beach, by korjaal from Albina, February to
+    August
+  path: southamerica/suriname/paramaribo/jenny_tours
+- note: The same nesting-beach expedition, with transport from Paramaribo included
+  path: southamerica/suriname/paramaribo/cardy_adventures
 title: Activities
 type: section
 ---

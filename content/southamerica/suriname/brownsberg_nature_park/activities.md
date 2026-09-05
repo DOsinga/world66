@@ -1,4 +1,11 @@
 ---
+providers:
+- note: Day tour to the plateau and falls, or two days with Ston Island on the reservoir
+  path: southamerica/suriname/paramaribo/jenny_tours
+- note: Fixed departures pairing the plateau with a night on Ston Island
+  path: southamerica/suriname/paramaribo/suforyou
+- note: Brownsberg as a day tour from the city
+  path: southamerica/suriname/paramaribo/cardy_adventures
 title: Activities
 type: section
 ---

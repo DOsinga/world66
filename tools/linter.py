@@ -24,6 +24,7 @@ Checks:
   non_canonical_section    section slug not in canonical set         [partial fix]
   broken_link              markdown link to /<path> doesn't resolve  [report]
   commercial_poi           commercial: true POI missing contact/tags  [report]
+  activity_providers       activities providers: path doesn't resolve  [report]
 
 Exits non-zero if any unfixable blocking issues remain after fixes are
 applied. Checks listed in WARNING_CHECKS are reported but do not fail the
@@ -686,6 +687,34 @@ def check_commercial_poi(pages: list[Page]) -> list[Issue]:
     return issues
 
 
+def check_activity_providers(pages: list[Page]) -> list[Issue]:
+    """A location names its providers by path in activities.md. A typo there
+    means the provider silently vanishes from the panel rather than erroring."""
+    issues = []
+    for p in pages:
+        entries = p.meta.get("providers")
+        if not entries:
+            continue
+        if not isinstance(entries, list):
+            issues.append(Issue(path=p.path, check="activity_providers",
+                                message="providers: is not a list"))
+            continue
+        for entry in entries:
+            prov = entry.get("path", "") if isinstance(entry, dict) else entry
+            prov = str(prov or "").strip()
+            if not prov:
+                issues.append(Issue(path=p.path, check="activity_providers",
+                                    message="providers: entry with no path"))
+                continue
+            target = CONTENT_DIR / f"{prov}.md"
+            if not target.is_file():
+                issues.append(Issue(
+                    path=p.path, check="activity_providers",
+                    message=f"providers: {prov} does not resolve",
+                ))
+    return issues
+
+
 CHECKS = [
     check_md_inside_own_dir,
     check_missing_loc_type,
@@ -701,6 +730,7 @@ CHECKS = [
     check_non_canonical_section,
     check_broken_links,
     check_commercial_poi,
+    check_activity_providers,
 ]
 
 # Checks that report but do not fail the build. Used to introduce a new rule

@@ -620,6 +620,27 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     provider_count = 0
     if page.page_type == "location":
         found = [p for p in pois if p.is_commercial]
+        # A location can also name providers that live elsewhere — the capital's
+        # tour operators sell trips to the whole country, so listing them once
+        # per place they serve meant six copies of the same company. The
+        # activities section names them, resolved like linked_locations:, with
+        # an optional note so the copy stays specific to this place.
+        _seen = {p.path for p in found}
+        _act = next((n for n in nav_pages if n.slug == "activities"), None)
+        for entry in (_act.meta.get("providers") if _act else None) or []:
+            if isinstance(entry, dict):
+                prov_path, prov_note = entry.get("path", ""), entry.get("note", "")
+            else:
+                prov_path, prov_note = entry, ""
+            if not prov_path or prov_path in _seen:
+                continue
+            prov = (load_page_from_revision(prov_path, source_ref, url_revision=url_revision)
+                    if source_ref else load_page(prov_path))
+            if not prov or not prov.is_commercial:
+                continue
+            prov.panel_note = prov_note
+            _seen.add(prov.path)
+            found.append(prov)
         found.sort(key=lambda p: (
             not p.whatsapp_link,
             -_safe_float(p.meta.get("score")) if p.meta.get("score") else 0,

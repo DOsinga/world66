@@ -1,4 +1,9 @@
 ---
+providers:
+- note: Day trip to the synagogue ruins, breaking at Overbridge for a swim
+  path: southamerica/suriname/paramaribo/all_suriname_tours
+- note: Jodensavanne by road or up the river from Paramaribo
+  path: southamerica/suriname/paramaribo/jenny_tours
 title: Activities
 type: section
 ---

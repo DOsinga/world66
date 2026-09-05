@@ -105,6 +105,10 @@ class Page:
     meta: dict = field(default_factory=dict)
     revision: str = ""      # short hash used in URLs
     source_ref: str = ""    # full git object used for content reads
+    # Set when a location names this provider in its activities section, so the
+    # panel row can say something specific to that place rather than repeating
+    # the provider's own generic snippet.
+    panel_note: str = ""
 
     def get_absolute_url(self):
         if self.revision:

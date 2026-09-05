@@ -1,4 +1,9 @@
 ---
+providers:
+- note: Two-day trip from Paramaribo with a night in a stilt lodge on the lagoon
+  path: southamerica/suriname/paramaribo/jenny_tours
+- note: Bigi Pan as a multi-day expedition, bundled with Nickerie
+  path: southamerica/suriname/paramaribo/cardy_adventures
 title: Activities
 type: section
 ---

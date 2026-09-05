@@ -1,4 +1,9 @@
 ---
+providers:
+- note: Three days on the Coppename, with the dawn climb up the Voltzberg dome
+  path: southamerica/suriname/paramaribo/jenny_tours
+- note: The same expedition, extendable south to Kasikasima or Palumeu
+  path: southamerica/suriname/paramaribo/cardy_adventures
 title: Activities
 type: section
 ---

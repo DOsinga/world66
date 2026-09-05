@@ -4193,6 +4193,7 @@ img { max-width: 100%; height: auto; }
 .svc[data-activity="jungle_tours"]  { --act: #4a7c4e; }
 .svc[data-activity="wildlife_watching"] { --act: #a5673f; }
 .svc[data-activity="guided_tours"] { --act: #5f6b8a; }
+.svc[data-activity="fishing"]      { --act: #2f7d7d; }
 .svc                               { --act: #7a736b; }
 
 .svc-panel {
@@ -4453,6 +4454,7 @@ img { max-width: 100%; height: auto; }
 .svc-filter-btn[data-activity="jungle_tours"]  { --act: #4a7c4e; }
 .svc-filter-btn[data-activity="wildlife_watching"] { --act: #a5673f; }
 .svc-filter-btn[data-activity="guided_tours"] { --act: #5f6b8a; }
+.svc-filter-btn[data-activity="fishing"]      { --act: #2f7d7d; }
 
 .svc-filter-btn:hover {
   background: color-mix(in srgb, var(--act) 20%, var(--paper));

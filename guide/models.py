@@ -190,6 +190,7 @@ class Page:
         "jungle_tours": "Jungle tours",
         "wildlife_watching": "Wildlife",
         "guided_tours": "Guided tours",
+        "fishing": "Fishing",
     }
 
     @property

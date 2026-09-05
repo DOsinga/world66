@@ -608,6 +608,75 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     markers = _collect_markers(page, nav_pages, _map_top, pois, city_tag_index=city_tag_index)
     markers_full = _collect_markers(page, nav_pages, _map_all, pois, city_tag_index=city_tag_index)
 
+    # Providers panel under the sidebar map: the bookable activities in this
+    # town. WhatsApp first, because that is the channel we are pitching, then
+    # by score. Capped so the sticky sidebar stays inside the viewport — the
+    # activities section page carries the full list.
+    PROVIDER_PANEL_MAX = 5
+    location_providers = []
+    location_providers_all = []
+    provider_categories = []
+    providers_on_whatsapp = False
+    provider_count = 0
+    if page.page_type == "location":
+        found = [p for p in pois if p.is_commercial]
+        # A location can also name providers that live elsewhere — the capital's
+        # tour operators sell trips to the whole country, so listing them once
+        # per place they serve meant six copies of the same company. The
+        # activities section names them, resolved like linked_locations:, with
+        # an optional note so the copy stays specific to this place.
+        _seen = {p.path for p in found}
+        _act = next((n for n in nav_pages if n.slug == "activities"), None)
+        for entry in (_act.meta.get("providers") if _act else None) or []:
+            if isinstance(entry, dict):
+                prov_path, prov_note = entry.get("path", ""), entry.get("note", "")
+            else:
+                prov_path, prov_note = entry, ""
+            if not prov_path or prov_path in _seen:
+                continue
+            prov = (load_page_from_revision(prov_path, source_ref, url_revision=url_revision)
+                    if source_ref else load_page(prov_path))
+            if not prov or not prov.is_commercial:
+                continue
+            prov.panel_note = prov_note
+            _seen.add(prov.path)
+            found.append(prov)
+        found.sort(key=lambda p: (
+            not p.whatsapp_link,
+            -_safe_float(p.meta.get("score")) if p.meta.get("score") else 0,
+            p.title.casefold(),
+        ))
+        provider_count = len(found)
+        location_providers = found[:PROVIDER_PANEL_MAX]
+        # The dialog carries every provider; the panel shows the first few.
+        location_providers_all = found
+        # Filter chips for the dialog, biggest category first. Pointless with
+        # only one category, which is most towns.
+        _cats = {}
+        for prov in found:
+            c = _cats.setdefault(prov.activity_kind, {
+                "kind": prov.activity_kind, "label": prov.activity_label, "count": 0,
+            })
+            c["count"] += 1
+        if len(_cats) > 1:
+            provider_categories = sorted(
+                _cats.values(), key=lambda c: (-c["count"], c["label"])
+            )
+        # Only promise WhatsApp when a shown provider actually offers it.
+        providers_on_whatsapp = any(p.whatsapp_link for p in location_providers)
+
+    # Commercial providers appear only in the panel above. Filtering happens
+    # here, after the panel and the markers have been built from the full set,
+    # so hiding them from lists doesn't empty the panel too. An activities
+    # section keeps its intro text and simply lists nothing.
+    pois = [p for p in pois if not p.is_commercial]
+    if inline_sections:
+        inline_sections = [
+            {**item, "pois": [p for p in item["pois"] if not p.is_commercial]}
+            for item in inline_sections
+        ]
+    poi_categories = [c for c in poi_categories if c] if poi_categories else poi_categories
+
     breadcrumbs = page.breadcrumbs()
     dimension_rows, score_verdict, similar_in_country = _score_profile_context(page, parent)
 
@@ -652,6 +721,11 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "daytrip_cards": daytrip_cards,
         "more_linked_locations": more_linked_locations,
         "url_prefix": page.url_prefix,
+        "location_providers": location_providers,
+        "location_providers_all": location_providers_all,
+        "provider_categories": provider_categories,
+        "providers_on_whatsapp": providers_on_whatsapp,
+        "provider_count": provider_count,
     })
 
 

@@ -47,15 +47,38 @@ python3 tools/wa_detect.py --cc <country-code> https://site1 https://site2 ...
 
 It renders each page in headless Chrome and reports `LINK` / `TEXT` / `mention-only` / `none` / `UNREACHABLE`. Roughly 1-3 minutes per site, so batch it and run it in the background.
 
+**Run it in one process at a time.** A Peru sweep once had 44 instances running
+concurrently; starved Chrome returned near-empty pages and the tool reported
+six live sites — four of which publish WhatsApp links — as `UNREACHABLE`, and
+two more as `none`. A false `none` is the dangerous one: it reads as a finding.
+
 Then **check the results by hand**, because it has been wrong in all of these ways:
 
-| Result | What to do |
-|---|---|
-| `mention-only` | Dig. The number is often in a "Click to Chat" (`ht_ctc`) plugin config as `"number":"…"`, or another chat-widget config, rather than an href. Grep the rendered DOM. |
-| `LINK` | **Check whose number it is.** On one airline's site the only `wa.me` link belonged to the web design agency credited in the footer. |
-| `TEXT` | Read the surrounding sentence. Two sites returned a landline that merely sat near the word "WhatsApp"; the real number was the next one along. |
-| `none` | Not proof. Cloudflare interstitials defeat headless Chrome — try WebFetch as a second channel. And the number may live on `/contact`, `/about`, `/nosotros`, `/aboutus` rather than the homepage. |
-| `UNREACHABLE` | The page did not load. This is **not** evidence about WhatsApp. Retry. |
+| Result | How much to trust it | What to do |
+|---|---|---|
+| `LINK` | Good. Across an independent check, 3 of 3 agreed with manual reading. | Still **check whose number it is** — on one airline's site the only `wa.me` link belonged to the web design agency credited in the footer. |
+| `TEXT` | Fair. | Read the surrounding sentence. Two sites returned a landline that merely sat near the word "WhatsApp"; the real number was the next one along. |
+| `mention-only` | Not a result. | Dig. The number is usually in a plugin config, not an href: `ht_ctc` ("Click to Chat"), `wwsObj.support_number` (wordpress-whatsapp-support), or a rotator's `data-number`. |
+| `none` | Not a result. | Re-check by hand. Cloudflare interstitials defeat headless Chrome — try WebFetch as a second channel. |
+| `UNREACHABLE` | Not a result. | The page did not load. This is **not** evidence about WhatsApp. Retry, unstarved. |
+
+Forms the tool now handles, each added after it missed one in the field:
+`wa.me/+51…` (the `+` form broke a digits-only pattern and silently produced
+`none`), `wa.link/xxxx` vanity links resolved to their `phone=` parameter,
+`ht_ctc`, `wwsObj.support_number`, and rotator `data-number` attributes with
+embedded spaces.
+
+**Where a site publishes several numbers, the one behind the wa.link or widget
+plumbing is the live booking channel** — not necessarily the one typed beside
+the word "WhatsApp". One airline's body text labelled its WhatsApp number as
+"Llamada Telefónica" while all three of its wa.link short links resolved to it.
+
+**Check the status code of the page you cite.** WordPress soft-404s serve the
+full site chrome, chat widget included, so a scraper reads them happily. Two
+Nazca operators had their numbers scraped from `/about-us/` pages that return
+HTTP 404. The numbers were right because the widget is site-wide, but the
+provenance was worthless — and on a site whose 404 page carries a different
+widget it would have been wrong.
 
 Cross-check any number you find against the phone numbers the site publishes — a match with the owner's published mobile is good confirmation.
 
@@ -126,6 +149,21 @@ python3 tools/activity_outreach.py --emails  # draft the mails (needs W66_WHATSA
 ```
 
 It writes one row per company with a confirmation code. Confirmation works by the provider messaging **us** on WhatsApp with their code — not by click-tracking, because corporate mail scanners fetch every URL in an inbound message and would record confirmations nobody made.
+
+## 7b. Official registers and awkward government sites
+
+Where a country publishes a register, it is worth more than any directory:
+
+- **Peru** — MINCETUR's directory has a queryable JSON endpoint
+  (`ListarEstablecimientoPublicoV2`) returning RUC, legal name, registered
+  address, phones and constancia number, sweepable by province ubigeo. It has
+  caught a tour-operator domain that had quietly become a relationship-coaching
+  site, and separated three distinct companies all trading under one name.
+- **Guyana** — the Tourism Authority publishes a licensed-tour-operator PDF.
+- **Peru, Inca Trail** — only licensed operators may run it, and the list is published.
+
+Some government sites refuse WebFetch but answer `curl` with a browser
+user-agent — `gob.pe` returns 418 to one and 200 to the other.
 
 ## 8. Check and report
 

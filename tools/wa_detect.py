@@ -40,8 +40,20 @@ import tempfile
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 PATHS = ["", "/contact/", "/contact", "/contact-us/", "/nous-contacter/", "/over-ons/"]
 
+# \+? matters: wa.me/+51945141252 is common in Peru, and without it the link
+# does not match at all — the business is reported as having no WhatsApp.
 LINK_RE = re.compile(
-    r"(?:wa\.me/|(?:api|web)\.whatsapp\.com/send/?\?phone=)(\d{8,15})", re.I)
+    r"(?:wa\.me/|(?:api|web)\.whatsapp\.com/send/?\?phone=)\+?(\d{8,15})", re.I)
+
+# wa.link vanity short links resolve to a send URL carrying the real number.
+# Some sites publish only these, with the visible icon left as href="#".
+WALINK_RE = re.compile(r"wa\.link/([A-Za-z0-9]{4,16})", re.I)
+
+# Two WhatsApp plugins common on small WordPress sites keep the number in
+# config rather than an href.
+WWS_RE = re.compile(
+    r'wwsObj\s*=\s*\{[^{}]{0,600}?"support_number"\s*:\s*"\+?([0-9][0-9 ]{7,16})"', re.I | re.S)
+DATA_NUM_RE = re.compile(r'data-number="\+?([0-9][0-9 ]{7,16})"', re.I)
 WIDGET_RE = re.compile(r'"channel"\s*:\s*"Whatsapp"\s*,\s*"value"\s*:\s*"(\d{8,15})"', re.I)
 # "Click to Chat" (ht_ctc) is the commonest WhatsApp button on WordPress and
 # keeps its number in plugin config, not in an href — Black Eagle Tours showed
@@ -74,6 +86,39 @@ def render(url, budget=9000):
         return ""
 
 
+def http_status(url):
+    """Status code, or 0 if the request failed.
+
+    --dump-dom says nothing about status, so a WordPress soft-404 still serving
+    the whole site chrome (chat widget included) was being scanned and cited as
+    the source page. 404s are skipped; 403/503 are not, since bot protection
+    returns those for pages that render fine in a browser.
+    """
+    try:
+        r = subprocess.run(
+            ["curl", "-sS", "-o", "/dev/null", "-L", "--max-time", "20",
+             "-A", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                   "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
+             "-w", "%{http_code}", url],
+            capture_output=True, text=True, timeout=40)
+        return int((r.stdout or "0").strip() or 0)
+    except Exception:
+        return 0
+
+
+def resolve_walink(code):
+    """wa.link/xxxx -> the phone= parameter on the URL it redirects to."""
+    try:
+        r = subprocess.run(
+            ["curl", "-sSL", "-o", "/dev/null", "-w", "%{url_effective}",
+             "--max-time", "25", f"https://wa.link/{code}"],
+            capture_output=True, text=True, timeout=40)
+        m = re.search(r"phone=\+?(\d{8,15})", r.stdout or "")
+        return m.group(1) if m else ""
+    except Exception:
+        return ""
+
+
 def clean(num):
     d = re.sub(r"\D", "", num)
     return d
@@ -93,17 +138,36 @@ def scan(host_url, cc):
     seen_mentions = []
     loaded_any = False
     prx = phone_re(cc)
+    home_loaded = False
     for path in PATHS:
         url = host_url.rstrip("/") + path
+        if http_status(url) in (404, 410):
+            continue                          # soft-404 serving full chrome
         dom = render(url)
         if len(dom) < 1500 and path == "":
             dom = render(url, budget=15000)   # retry the homepage only
         if len(dom) < 1500:
             continue
         loaded_any = True
+        if path == "":
+            home_loaded = True
 
-        for m in LINK_RE.findall(dom) + WIDGET_RE.findall(dom) + CTC_RE.findall(dom):
-            return ("link", "+" + m, url)
+        for m in (LINK_RE.findall(dom) + WIDGET_RE.findall(dom)
+                  + CTC_RE.findall(dom) + WWS_RE.findall(dom)):
+            return ("link", "+" + clean(m), url)
+
+        # data-number= is used by rotator plugins but also by unrelated widgets
+        # (a Suriname site had Facebook pixel ids in it), so require WhatsApp
+        # to be named close by rather than trusting the attribute alone.
+        for m in DATA_NUM_RE.finditer(dom):
+            around = dom[max(0, m.start() - 300): m.end() + 300]
+            if re.search(r"whatsapp", around, re.I):
+                return ("link", "+" + clean(m.group(1)), url)
+
+        for code in WALINK_RE.findall(dom):
+            num = resolve_walink(code)
+            if num:
+                return ("link", "+" + num, f"{url} (wa.link/{code})")
 
         text = visible_text(dom)
         for m in re.finditer(r"whatsapp", text, re.I):
@@ -119,8 +183,14 @@ def scan(host_url, cc):
 
     if seen_mentions:
         return ("mention", "", seen_mentions[0])
+    # "none" is a claim about the business, so only make it if the site was
+    # really read. Under load Chrome returns near-empty DOMs, and reporting that
+    # as "this business has no WhatsApp" is a false negative indistinguishable
+    # from a true one once it reaches a report.
     if not loaded_any:
         return ("error", "", "no page loaded")
+    if not home_loaded:
+        return ("error", "", "homepage not read")
     return ("none", "", "")
 
 

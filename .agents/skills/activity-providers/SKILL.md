@@ -68,6 +68,11 @@ Forms the tool now handles, each added after it missed one in the field:
 `ht_ctc`, `wwsObj.support_number`, and rotator `data-number` attributes with
 embedded spaces.
 
+**Drop the trunk zero.** A number written `+51 (084) 633608` or `+33 (0)6 …`
+carries a national trunk prefix that must not appear in an international
+number — `wa.me/51084633608` reaches nobody. The renderer strips a bare `(0)`,
+but a bracketed trunk code like `(084)` has to be fixed by hand.
+
 **Where a site publishes several numbers, the one behind the wa.link or widget
 plumbing is the live booking channel** — not necessarily the one typed beside
 the word "WhatsApp". One airline's body text labelled its WhatsApp number as

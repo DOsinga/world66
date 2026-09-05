@@ -38,7 +38,11 @@ import sys
 import tempfile
 
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
-PATHS = ["", "/contact/", "/contact", "/contact-us/", "/nous-contacter/", "/over-ons/"]
+# Spanish contact pages and .html endings are both common and were both being
+# missed: a Cusco restaurant publishes three wa.me links on /contact.html and
+# came back "none". Each extra path costs a render, so keep this list tight.
+PATHS = ["", "/contact/", "/contact", "/contact.html", "/contacto/", "/contacto",
+         "/contact-us/", "/nous-contacter/", "/over-ons/"]
 
 # \+? matters: wa.me/+51945141252 is common in Peru, and without it the link
 # does not match at all — the business is reported as having no WhatsApp.
@@ -67,9 +71,11 @@ def phone_re(cc):
     # Also "(597)-8782968" and "(+597)8568332": without the bracket form the
     # country code is dropped and the number comes out 7 digits short.
     return re.compile(
-        r"\(?\+?%s\)?[\s\-\.]*\d[\d\s\-\.]{5,12}\d"
+        # "+51 (084) 633608" — country code, then a bracketed *trunk* code.
+        r"\+?%s\s*\(0?\d{1,3}\)\s*[\d\s\-\.]{5,12}\d"
+        r"|\(?\+?%s\)?[\s\-\.]*\d[\d\s\-\.]{5,12}\d"
         r"|(?:\+|00)\s?%s[\s\-\.\)/]*\d[\d\s\-\.]{5,12}\d"
-        r"|\b[78]\d{2}[\s\-\.]?\d{4}\b" % (cc, cc))
+        r"|\b[78]\d{2}[\s\-\.]?\d{4}\b" % (cc, cc, cc))
 
 
 def render(url, budget=9000):

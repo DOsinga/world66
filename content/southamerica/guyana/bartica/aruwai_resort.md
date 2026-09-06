@@ -4,6 +4,7 @@ commercial: true
 email: frontdesk@aruwairesort.gy
 latitude: 6.40533
 longitude: -58.62143
+outreach_code: MCDG3C
 phone: +592 225-7517
 score: 5.9
 snippet: Five acres on the Mazaruni sold as the country's only island resort

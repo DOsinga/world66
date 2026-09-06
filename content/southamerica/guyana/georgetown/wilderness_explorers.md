@@ -4,6 +4,7 @@ commercial: true
 email: info@wilderness-explorers.com
 latitude: 6.8083
 longitude: -58.1497
+outreach_code: MMHXDZ
 phone: +592 226-2085
 score: 6.7
 snippet: The destination-management company behind most Rupununi itineraries, running

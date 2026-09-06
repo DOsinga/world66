@@ -4,6 +4,7 @@ commercial: true
 email: parnetyo@yahoo.fr
 latitude: 43.662019
 longitude: -1.443138
+outreach_code: 76ZB7H
 phone: +33 6 88 79 17 31
 score: 6.0
 snippet: Year-round surf lessons and board hire, open every day from eight to eight

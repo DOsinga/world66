@@ -3,6 +3,7 @@ address: Quai Courbet, 80550 Le Crotoy
 commercial: true
 latitude: 50.215551
 longitude: 1.629027
+outreach_code: TSN8BL
 phone: +33 3 22 60 74 68
 score: 6.4
 snippet: Commentated bay cruises aboard the Commandant Charcot V, from the fishing

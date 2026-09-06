@@ -4,6 +4,7 @@ commercial: true
 email: ecolodgerewa@gmail.com
 latitude: 3.88295
 longitude: -58.80345
+outreach_code: JSGBPK
 score: 6.9
 snippet: Village-built lodge at the river confluence, and the arapaima fly fishing
   that replaced hunting

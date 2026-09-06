@@ -4,6 +4,7 @@ commercial: true
 email: contact@arcachonkayak.com
 latitude: 44.659907
 longitude: -1.14793
+outreach_code: RJ5PMP
 phone: +33 6 25 08 44 37
 score: 6.0
 snippet: Sea-kayak and paddle trips across the bay, and down the Leyre delta at the

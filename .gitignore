@@ -32,3 +32,6 @@ design/
 /plans/
 /docs/brainstorms/
 /docs/plans/
+
+# generated provider QR codes (tools/provider_qr.py --qr)
+build/

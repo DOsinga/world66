@@ -4,6 +4,7 @@ commercial: true
 email: frontdesk@grandcoastal.com
 latitude: 6.81539
 longitude: -58.075
+outreach_code: DT3HCX
 phone: +592 220-1091
 score: 5.9
 snippet: THAG Restaurant of the Year, ten minutes out of town, with a Wednesday Guyanese

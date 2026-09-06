@@ -4,6 +4,7 @@ commercial: true
 email: info@suramaecolodge.com
 latitude: 4.13786
 longitude: -59.07068
+outreach_code: 2BGCTR
 score: 6.8
 snippet: Owned and run by the Makushi village, with ten packages from a night to a
   week

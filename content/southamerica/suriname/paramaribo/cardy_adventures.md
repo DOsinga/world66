@@ -4,6 +4,7 @@ commercial: true
 email: info@cardyadventures.com
 latitude: 5.8289
 longitude: -55.1661
+outreach_code: GXXCH4
 phone: +597 878 2968
 score: 6.4
 snippet: Long-running agency booking the interior lodges — Danpaati, Anaula, Palumeu,

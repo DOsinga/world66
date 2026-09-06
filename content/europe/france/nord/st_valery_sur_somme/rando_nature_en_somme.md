@@ -3,6 +3,7 @@ address: Kiosque touristique, port de plaisance, 80230 Saint-Valery-sur-Somme
 commercial: true
 latitude: 50.179864
 longitude: 1.645703
+outreach_code: YC7W85
 phone: +33 3 22 26 92 30
 score: 6.1
 snippet: Local guides running bay crossings on foot, seal outings and high-tide walks,

@@ -3,6 +3,7 @@ address: Plage d'Uhabia, 64210 Bidart
 commercial: true
 latitude: 43.436951
 longitude: -1.593584
+outreach_code: NNDNSH
 phone: +33 7 83 88 57 70
 score: 5.7
 snippet: Lessons on the sand at Uhabia, capped at eight per instructor, with the tide

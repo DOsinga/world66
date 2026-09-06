@@ -4,6 +4,7 @@ commercial: true
 email: reservations@evergreenadventuresgy.com
 latitude: 6.8064
 longitude: -58.10436
+outreach_code: KPTKB7
 phone: +592 222-8055
 score: 6.9
 snippet: The widest published price list in Guyana, and the standard Kaieteur and

@@ -3,6 +3,7 @@ address: 5 Rue des Colibris, 33260 La Teste-de-Buch
 commercial: true
 latitude: 44.623002
 longitude: -1.15843
+outreach_code: 7M5PW6
 phone: +33 6 79 78 86 05
 score: 5.9
 snippet: A traditional pinasse chartered with its skipper, who fished this bay for

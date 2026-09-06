@@ -5,6 +5,7 @@ commercial: true
 email: tourism@iwokrama.org
 latitude: 4.66483
 longitude: -58.6684
+outreach_code: 45BBHJ
 phone: +592 225-1504
 score: 6.6
 snippet: Cabins on the Essequibo inside the reserve, and the only full rate card in

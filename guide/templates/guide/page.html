@@ -77,7 +77,11 @@
     <div class="svc-panel-head">
       <span class="svc-panel-title">Arrange your trip</span>
     </div>
+    {% if highlighted_provider %}
+    <p class="svc-panel-sub svc-panel-sub--featured">You followed a link from <strong>{{ highlighted_provider.title }}</strong>. <a href="{{ request.path }}">Show everyone</a></p>
+    {% else %}
     <p class="svc-panel-sub">{% if providers_on_whatsapp %}Contact providers directly on WhatsApp &mdash; no booking fee, no middleman.{% else %}Contact these providers directly &mdash; no booking fee, no middleman.{% endif %}</p>
+    {% endif %}
     {% for p in location_providers %}
     {% include "guide/widgets/provider_row.html" %}
     {% endfor %}

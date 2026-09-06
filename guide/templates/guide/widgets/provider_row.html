@@ -2,17 +2,18 @@
 the number is confirmed, phone otherwise — so the button inside is a span, not a
 nested anchor. Shared by the sidebar panel and the "all providers" dialog.{% endcomment %}
 {% if p.whatsapp_link %}
-<a class="svc" data-activity="{{ p.activity_kind }}" href="{{ p.whatsapp_link }}"
+<a class="svc{% if p.is_highlighted %} svc--featured{% endif %}" data-activity="{{ p.activity_kind }}" href="{{ p.whatsapp_link }}"
    target="_blank" rel="noopener noreferrer"
    aria-label="Message {{ p.title }} on WhatsApp about {{ p.activity_label|lower }}">
 {% elif p.meta.phone %}
-<a class="svc" data-activity="{{ p.activity_kind }}" href="tel:{{ p.meta.phone|cut:" " }}"
+<a class="svc{% if p.is_highlighted %} svc--featured{% endif %}" data-activity="{{ p.activity_kind }}" href="tel:{{ p.meta.phone|cut:" " }}"
    aria-label="Call {{ p.title }} about {{ p.activity_label|lower }}">
 {% else %}
-<a class="svc" data-activity="{{ p.activity_kind }}" href="{{ p.get_absolute_url }}">
+<a class="svc{% if p.is_highlighted %} svc--featured{% endif %}" data-activity="{{ p.activity_kind }}" href="{{ p.get_absolute_url }}">
 {% endif %}
   <span class="svc-disc">{% include "guide/widgets/activity_icon.html" with kind=p.activity_kind %}</span>
   <span class="svc-mid">
+    {% if p.is_highlighted %}<span class="svc-featured">Featured</span>{% endif %}
     <span class="svc-kicker">{{ p.activity_label }}</span>
     <span class="svc-name">{{ p.title }}</span>
     {% if p.panel_note %}<span class="svc-tag">{{ p.panel_note }}</span>

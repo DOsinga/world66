@@ -4,6 +4,7 @@ commercial: true
 email: GuyanaTrulyWild@gmail.com
 latitude: 3.66239
 longitude: -59.35458
+outreach_code: LDV4JL
 phone: +592 703-4679
 score: 6.2
 snippet: Wilderness camps out of Yupukari — Mapari, Corona Falls, Rewa Head, the Kanukus

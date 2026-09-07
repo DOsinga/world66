@@ -11,6 +11,12 @@ Uses the `type` field to classify pages:
   theme         — a cross-cutting theme (lgbtq, cold_war, …); appears under its section_group
   poi           — individual point of interest
 
+A POI may additionally carry `commercial: true`.  Those are bookable activity
+providers — surf schools, boat trips, nature guides — rather than editorial
+sights.  They render with their contact details and, where the provider
+actually advertises one, a WhatsApp link.  The flag exists so this content can
+be filtered out or swapped for a supplier feed later without hunting for it.
+
 All of section / section_group / neighbourhood / theme are "nav pages": they appear
 in the city sidebar and each collects POIs by tag.  When a POI carries `tags: [de_pijp]`
 and a page `de_pijp.md` exists with `type: neighbourhood`, that POI appears under De Pijp.
@@ -20,6 +26,7 @@ A nav page's query tag defaults to its slug; set `tag: <value>` in frontmatter t
 
 import bisect
 import math
+import urllib.parse
 import sqlite3
 from dataclasses import dataclass, field
 from functools import lru_cache
@@ -39,6 +46,7 @@ NAV_TYPES = {"section", "section_group", "neighbourhood", "theme"}
 DISPLAY_PROPERTIES = {
     "address": "Address",
     "phone": "Phone",
+    "whatsapp": "WhatsApp",
     "url": "Website",
     "email": "Email",
     "opening_hours": "Opening Hours",
@@ -97,6 +105,10 @@ class Page:
     meta: dict = field(default_factory=dict)
     revision: str = ""      # short hash used in URLs
     source_ref: str = ""    # full git object used for content reads
+    # Set when a location names this provider in its activities section, so the
+    # panel row can say something specific to that place rather than repeating
+    # the provider's own generic snippet.
+    panel_note: str = ""
 
     def get_absolute_url(self):
         if self.revision:
@@ -137,6 +149,61 @@ class Page:
             if t in self._CATEGORY_TAGS:
                 return t.replace("_", " ").title()
         return ""
+
+    @property
+    def is_commercial(self):
+        """A bookable activity provider rather than an editorial sight."""
+        return bool(self.meta.get("commercial"))
+
+    @property
+    def whatsapp_link(self):
+        """wa.me URL for the provider's WhatsApp number, or "".
+
+        Only set on providers that actually advertise WhatsApp — a French 06
+        mobile is not assumed to accept it, so this is never derived from
+        `phone`.
+        """
+        raw = str(self.meta.get("whatsapp") or "").strip()
+        # French businesses commonly write +33 (0)6 …, where the (0) is the
+        # trunk prefix you drop when dialling internationally. Keeping it
+        # yields a plausible-looking number that reaches nobody.
+        digits = "".join(c for c in raw.replace("(0)", "") if c.isdigit())
+        # A leading 0 means it is still in national format, so we don't know
+        # the country — better no link than a wrong one.
+        if not digits or digits.startswith("0"):
+            return ""
+        text = urllib.parse.quote(
+            f"Hello — I found {self.title} on World66 and would like to ask about "
+            "availability."
+        )
+        return f"https://wa.me/{digits}?text={text}"
+
+    # Activity tags that get their own colour and icon in the provider panel.
+    # The first matching tag on a provider decides how it is presented.
+    ACTIVITY_KINDS = {
+        "surf": "Surf",
+        "surf_hire": "Surf hire",
+        "kitesurf": "Kitesurf",
+        "boating": "Boating",
+        "birdwatching": "Bird tours",
+        "seal_watching": "Seal watching",
+        "jungle_tours": "Jungle tours",
+        "wildlife_watching": "Wildlife",
+        "guided_tours": "Guided tours",
+        "fishing": "Fishing",
+    }
+
+    @property
+    def activity_kind(self):
+        """Slug of this provider's activity, or "" — drives colour and icon."""
+        for t in self.tags:
+            if t in self.ACTIVITY_KINDS:
+                return t
+        return ""
+
+    @property
+    def activity_label(self):
+        return self.ACTIVITY_KINDS.get(self.activity_kind, "Activity")
 
     @property
     def nav_tag(self):

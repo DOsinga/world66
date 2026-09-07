@@ -192,6 +192,12 @@ class Page:
         "guided_tours": "Guided tours",
         "fishing": "Fishing",
         "taxi": "Taxi & transfers",
+        "trekking": "Trekking",
+        "machu_picchu": "Machu Picchu",
+        "sandboarding": "Sandboarding",
+        "scenic_flights": "Scenic flights",
+        "rafting": "Rafting",
+        "restaurant": "Restaurants",
     }
 
     @property

@@ -4194,6 +4194,7 @@ img { max-width: 100%; height: auto; }
 .svc[data-activity="wildlife_watching"] { --act: #a5673f; }
 .svc[data-activity="guided_tours"] { --act: #5f6b8a; }
 .svc[data-activity="fishing"]      { --act: #2f7d7d; }
+.svc[data-activity="taxi"]         { --act: #9c7a1e; }
 .svc[data-activity="trekking"]     { --act: #7a5c34; }
 .svc[data-activity="machu_picchu"] { --act: #6b6f3e; }
 .svc[data-activity="sandboarding"] { --act: #b07a35; }
@@ -4461,6 +4462,7 @@ img { max-width: 100%; height: auto; }
 .svc-filter-btn[data-activity="wildlife_watching"] { --act: #a5673f; }
 .svc-filter-btn[data-activity="guided_tours"] { --act: #5f6b8a; }
 .svc-filter-btn[data-activity="fishing"]      { --act: #2f7d7d; }
+.svc-filter-btn[data-activity="taxi"]         { --act: #9c7a1e; }
 .svc-filter-btn[data-activity="trekking"]     { --act: #7a5c34; }
 .svc-filter-btn[data-activity="machu_picchu"] { --act: #6b6f3e; }
 .svc-filter-btn[data-activity="sandboarding"] { --act: #b07a35; }

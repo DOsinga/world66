@@ -191,6 +191,7 @@ class Page:
         "wildlife_watching": "Wildlife",
         "guided_tours": "Guided tours",
         "fishing": "Fishing",
+        "taxi": "Taxi & transfers",
         "trekking": "Trekking",
         "machu_picchu": "Machu Picchu",
         "sandboarding": "Sandboarding",

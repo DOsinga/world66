@@ -85,8 +85,6 @@ def link_for(base, rel, code):
     return f"{base.rstrip('/')}/{location_of(rel)}?p={code}"
 
 
-LOCAL_SALUTATION = {"nl": "Beste,", "fr": "Bonjour,"}
-
 # Which second language a country's providers read. English goes first in every
 # mail; this is what follows the rule under it. Guyana is English-speaking, so
 # it gets nothing extra rather than a translation nobody needs.
@@ -111,97 +109,78 @@ Subject: {title} is listed on World66 — your own link and QR code
 BODY = {
     "en": """Hello,
 
-{title} has a page on World66, the open travel guide. It is free, we take no
-commission, and there is nothing to sign up for:
+We are building a travel guide that helps travellers plan their trip on the go
+using WhatsApp, and we have just added {title}. Being in our guide is free, we
+take no commission, and there is nothing to sign up for. Please check out the
+link:
 
-    {page_url}
+{link}
 
-We have also made you your own link:
+Three things that would help:
 
-    {link}
-
-Anyone opening it lands on the {location_name} page with {title} shown first,
-and your direct competitors hidden. It is the same page — just yours at the
-front of it.
-
-Two things that would help, if you think it is worth it:
-
-1. Put the link on your website or your social profiles, so people can find
-   the wider guide to {location_name} from you.
+1. Put a link on your website or your social profiles, so people can find the
+   wider guide to {location_name} from you.
 
 2. The attached QR code goes to the same place. It prints cleanly at any size,
    so it works on a card at reception, a sign on the boat, or the back of a
    receipt.
 
-If anything on your page is wrong — prices, season, meeting point, the phone
-number — reply and we will fix it. If you would rather not be listed at all,
-say so and we will take the page down.
+3. If you have any comments on the {location_name} guide, shoot us an email and
+   we'll update it. We strive to be the best travel guide in the world and we
+   need all the help we can get!
 """,
 
     "nl": """Beste,
 
-{title} staat op World66, de open reisgids. Het is gratis, we vragen geen
-commissie en u hoeft zich nergens voor aan te melden:
+Wij bouwen een reisgids die reizigers helpt hun reis onderweg te plannen via
+WhatsApp, en we hebben zojuist {title} toegevoegd. Vermelding in onze gids is
+gratis, we vragen geen commissie en u hoeft zich nergens voor aan te melden.
+Kijkt u vooral even:
 
-    {page_url}
+{link}
 
-We hebben ook een eigen link voor u gemaakt:
+Drie dingen die zouden helpen:
 
-    {link}
-
-Wie die opent, komt uit op de pagina over {location_name}, met {title}
-bovenaan en uw directe concurrenten verborgen. Het is dezelfde pagina — alleen
-staat u er vooraan op.
-
-Twee dingen die zouden helpen, als u er wat in ziet:
-
-1. Zet de link op uw website of op uw social media, zodat mensen via u de rest
+1. Zet een link op uw website of op uw social media, zodat mensen via u de rest
    van de gids over {location_name} kunnen vinden.
 
 2. De bijgevoegde QR-code gaat naar dezelfde plek. Hij drukt scherp af op elk
    formaat, dus hij werkt op een kaartje bij de balie, een bordje op de boot of
    achterop een bonnetje.
 
-Klopt er iets niet op uw pagina — prijzen, seizoen, vertrekpunt, het
-telefoonnummer — stuur dan een antwoord en wij passen het aan. Wilt u liever
-helemaal niet vermeld staan, laat het weten en we halen de pagina weg.
+3. Hebt u opmerkingen over de gids over {location_name}, stuur ons dan een
+   e-mail en we passen het aan. We willen de beste reisgids ter wereld maken en
+   kunnen alle hulp gebruiken!
 """,
 
     "fr": """Bonjour,
 
-{title} figure sur World66, le guide de voyage libre. C'est gratuit, nous ne
-prenons aucune commission et il n'y a aucune inscription :
+Nous construisons un guide de voyage qui aide les voyageurs à organiser leur
+séjour en cours de route, via WhatsApp, et nous venons d'y ajouter {title}.
+Y figurer est gratuit, nous ne prenons aucune commission et il n'y a aucune
+inscription. Jetez-y un œil :
 
-    {page_url}
+{link}
 
-Nous vous avons également créé votre propre lien :
+Trois choses qui nous aideraient :
 
-    {link}
-
-Toute personne qui l'ouvre arrive sur la page « {location_name} » avec {title}
-en tête de liste, vos concurrents directs étant masqués. C'est la même page —
-simplement avec vous devant.
-
-Deux choses qui nous aideraient, si cela vous paraît utile :
-
-1. Mettez le lien sur votre site ou vos réseaux sociaux, pour que vos visiteurs
+1. Mettez un lien sur votre site ou vos réseaux sociaux, pour que vos visiteurs
    découvrent depuis chez vous le reste de notre guide « {location_name} ».
 
 2. Le QR code joint mène au même endroit. Il s'imprime nettement à n'importe
    quelle taille : sur une carte à l'accueil, un panneau sur le bateau ou au dos
    d'un reçu.
 
-Si quelque chose est inexact sur votre page — tarifs, saison, point de
-rendez-vous, numéro de téléphone — répondez à ce message et nous le
-corrigerons. Si vous préférez ne pas y figurer du tout, dites-le-nous et nous
-retirerons la page.
+3. Si vous avez des remarques sur notre guide « {location_name} », écrivez-nous
+   et nous le mettrons à jour. Nous voulons faire le meilleur guide de voyage du
+   monde, et toute aide est la bienvenue !
 """,
 }
 
 SIGNOFF = {
-    "en": "Thanks,\nWorld66",
-    "nl": "Met vriendelijke groet,\nWorld66",
-    "fr": "Cordialement,\nWorld66",
+    "en": "Thanks,\nRichard & the World66 team",
+    "nl": "Groeten,\nRichard en het World66-team",
+    "fr": "Merci,\nRichard et l'équipe World66",
 }
 
 # The line between the two halves, so the reader can see at a glance that the
@@ -212,13 +191,18 @@ DIVIDER = {
 }
 
 
+
 def wrap(text, width=78):
     """Re-flow paragraphs after substitution. Indented lines (the URLs) are left
     alone, and numbered items keep their hanging indent."""
     out = []
     for block in text.split("\n\n"):
         lines = block.split("\n")
-        if any(line.startswith("    ") for line in lines):
+        # The link sits flush left on its own line now, so it has to be exempt
+        # from re-flowing as well as anything indented.
+        if any(line.startswith("    ") for line in lines) or (
+            len(lines) == 1 and lines[0].startswith("http")
+        ):
             out.append(block)
             continue
         joined = " ".join(line.strip() for line in lines if line.strip())

@@ -4,6 +4,7 @@ commercial: true
 email: reservas@aeronasca.com
 latitude: -14.8542
 longitude: -74.9615
+outreach_code: HZMW33
 phone: +51 999 100 825
 score: 6.6
 snippet: Nazca Lines overflights from the local aerodrome, with a Palpa extension

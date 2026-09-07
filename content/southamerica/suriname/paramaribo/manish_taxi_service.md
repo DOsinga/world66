@@ -3,6 +3,7 @@ commercial: true
 email: moonesh.rakiman@gmail.com
 latitude: 5.822
 longitude: -55.16
+outreach_code: VCM86Q
 phone: +597 887 6790
 score: 6.0
 snippet: Organised around the corridors - the airport, Albina for French Guiana, Nickerie

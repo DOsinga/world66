@@ -4,6 +4,7 @@ commercial: true
 email: contact@lehweride.com
 latitude: 6.81113
 longitude: -58.13363
+outreach_code: WZ2D4C
 phone: +592 216 7433
 score: 6.1
 snippet: The metered option - 500 dollars for the first kilometre, and the bridge

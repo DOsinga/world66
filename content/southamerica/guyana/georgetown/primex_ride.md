@@ -2,6 +2,7 @@
 commercial: true
 latitude: 6.805
 longitude: -58.15
+outreach_code: V9X3WT
 phone: +592 766 2225
 score: 5.9
 snippet: The clearest published airport fares in Georgetown, day and night rates split

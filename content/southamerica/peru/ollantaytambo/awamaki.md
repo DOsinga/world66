@@ -4,6 +4,7 @@ commercial: true
 email: tours@awamaki.org
 latitude: -13.2581
 longitude: -72.2634
+outreach_code: 2RKWKC
 phone: +51 958 335 349
 score: 6.2
 snippet: A non-profit running weaving days with the Patacancha valley co-operatives

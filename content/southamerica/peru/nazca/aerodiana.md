@@ -4,6 +4,7 @@ commercial: true
 email: reservas@aerodiana.com.pe
 latitude: -13.7448
 longitude: -76.2203
+outreach_code: KKS84D
 phone: +51 989 046 289
 score: 6.1
 snippet: Twelve-seat Cessna Grand Caravans out of Pisco, air-conditioned and high-winged

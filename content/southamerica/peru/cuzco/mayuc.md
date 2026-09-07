@@ -4,6 +4,7 @@ commercial: true
 email: info@mayuc.com
 latitude: -13.5169
 longitude: -71.9789
+outreach_code: LS934R
 phone: +51 984 709 811
 score: 6.5
 snippet: A pure river company — day trips on the Urubamba up to nine days on the Marañón

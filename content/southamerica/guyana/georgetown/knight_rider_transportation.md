@@ -4,6 +4,7 @@ commercial: true
 email: info@knightriderbus.com
 latitude: 6.81373
 longitude: -58.13236
+outreach_code: RKCPWJ
 phone: +592 225 1429
 score: 5.5
 snippet: The long-haul specialist - crew changes, scheduled shuttles and escorted

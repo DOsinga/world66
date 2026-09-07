@@ -10,7 +10,7 @@ snippet: THAG Restaurant of the Year, ten minutes out of town, with a Wednesday 
   buffet
 tags:
 - activities
-- guided_tours
+- restaurant
 title: Grand Coastal Hotel Restaurant
 type: poi
 url: grandcoastal.com

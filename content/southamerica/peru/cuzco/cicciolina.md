@@ -10,7 +10,7 @@ snippet: Tapas at the bar or a proper dinner in the back room, up a staircase of
   the Plaza
 tags:
 - activities
-- guided_tours
+- restaurant
 title: Cicciolina
 type: poi
 url: cicciolinacuzco.com

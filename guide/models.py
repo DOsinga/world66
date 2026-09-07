@@ -196,6 +196,7 @@ class Page:
         "sandboarding": "Sandboarding",
         "scenic_flights": "Scenic flights",
         "rafting": "Rafting",
+        "restaurant": "Restaurants",
     }
 
     @property

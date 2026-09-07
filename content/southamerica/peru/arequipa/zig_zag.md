@@ -10,7 +10,7 @@ snippet: Alpine-Andean cooking on Plaza San Francisco, up an iron staircase attr
   to Eiffel
 tags:
 - activities
-- guided_tours
+- restaurant
 title: Zig Zag
 type: poi
 url: zigzagrestaurant.com

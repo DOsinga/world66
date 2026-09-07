@@ -4199,6 +4199,7 @@ img { max-width: 100%; height: auto; }
 .svc[data-activity="sandboarding"] { --act: #b07a35; }
 .svc[data-activity="scenic_flights"]{ --act: #4d6d94; }
 .svc[data-activity="rafting"]      { --act: #2b7f95; }
+.svc[data-activity="restaurant"]   { --act: #a6533f; }
 .svc                               { --act: #7a736b; }
 
 .svc-panel {
@@ -4465,6 +4466,7 @@ img { max-width: 100%; height: auto; }
 .svc-filter-btn[data-activity="sandboarding"] { --act: #b07a35; }
 .svc-filter-btn[data-activity="scenic_flights"]{ --act: #4d6d94; }
 .svc-filter-btn[data-activity="rafting"]      { --act: #2b7f95; }
+.svc-filter-btn[data-activity="restaurant"]   { --act: #a6533f; }
 
 .svc-filter-btn:hover {
   background: color-mix(in srgb, var(--act) 20%, var(--paper));

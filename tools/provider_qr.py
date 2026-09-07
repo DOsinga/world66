@@ -32,6 +32,8 @@ import re
 import string
 import sys
 import textwrap
+import unicodedata
+import urllib.parse
 from pathlib import Path
 
 import frontmatter
@@ -244,19 +246,162 @@ def location_name(location_rel):
     return location_rel.rsplit("/", 1)[-1].replace("_", " ").title()
 
 
+
+def country_of(rel):
+    parts = rel.split("/")
+    return parts[1].replace("_", " ").title() if len(parts) > 1 else "?"
+
+
+def gmail_url(row, account=None):
+    """A Gmail compose window, pre-filled. No credentials, no API, no setup —
+    it just opens in whatever account the browser is already signed in to.
+    The one thing it cannot do is attach a file, which is why the QR sits on
+    the index page ready to paste."""
+    prefix = f"https://mail.google.com/mail/u/{account}/" if account is not None \
+        else "https://mail.google.com/mail/"
+    query = urllib.parse.urlencode({
+        "view": "cm", "fs": "1", "tf": "1",
+        "to": row["email"], "su": row["subject"], "body": row["body"],
+    }, quote_via=urllib.parse.quote)
+    return f"{prefix}?{query}"
+
+
+INDEX_HEAD = """<!doctype html>
+<meta charset="utf-8">
+<title>World66 provider outreach</title>
+<style>
+ :root { color-scheme: light dark; --line: #d9d4cc; --ink: #24211d; --dim: #6d675f;
+         --paper: #fbf9f5; --accent: #1a6b52; }
+ @media (prefers-color-scheme: dark) {
+   :root { --line: #38342e; --ink: #ece7df; --dim: #97907f; --paper: #171512;
+           --accent: #58c79e; } }
+ body { background: var(--paper); color: var(--ink); margin: 0 auto; padding: 32px 20px 80px;
+        max-width: 940px; font: 15px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+ h1 { font-size: 22px; margin: 0 0 4px; }
+ .lede { color: var(--dim); margin: 0 0 28px; max-width: 62ch; }
+ h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .09em; color: var(--dim);
+      margin: 32px 0 10px; border-bottom: 1px solid var(--line); padding-bottom: 6px; }
+ .row { display: grid; grid-template-columns: 72px 1fr auto; gap: 16px; align-items: center;
+        padding: 12px 10px; border-bottom: 1px solid var(--line); border-radius: 6px; }
+ .row.done { opacity: .42; }
+ .row img { width: 72px; height: 72px; image-rendering: pixelated; background: #fff;
+            border-radius: 4px; padding: 3px; cursor: pointer; }
+ .name { font-weight: 600; }
+ .meta { color: var(--dim); font-size: 13px; }
+ .lang { display: inline-block; font-size: 11px; letter-spacing: .06em; text-transform: uppercase;
+         border: 1px solid var(--line); border-radius: 3px; padding: 1px 5px; margin-left: 7px;
+         color: var(--dim); }
+ .go { display: inline-block; background: var(--accent); color: #fff; text-decoration: none;
+       padding: 8px 15px; border-radius: 5px; font-weight: 600; font-size: 14px; white-space: nowrap; }
+ .go:hover { filter: brightness(1.08); }
+ .tick { margin-left: 12px; transform: scale(1.25); cursor: pointer; }
+ .noemail li { margin-bottom: 5px; }
+ code { background: rgba(128,128,128,.13); padding: 1px 5px; border-radius: 3px; font-size: 13px; }
+</style>
+<h1>Provider outreach</h1>
+<p class="lede">One click opens a Gmail compose window with the mail already written.
+Click the QR to copy it, then paste it into the message before sending — a compose
+link cannot carry an attachment. The tick is only for your own bookkeeping; it is
+remembered in this browser.</p>
+"""
+
+
+def write_index(rows, no_email, out, account=None):
+    import base64
+    from html import escape as e
+
+    parts = [INDEX_HEAD]
+    by_country = {}
+    for r in rows:
+        by_country.setdefault(r["country"], []).append(r)
+
+    for country in sorted(by_country):
+        # Sort accent-blind, so École lands under E rather than after Y.
+        def key(r):
+            folded = unicodedata.normalize("NFKD", r["title"].casefold())
+            return "".join(c for c in folded if not unicodedata.combining(c))
+
+        group = sorted(by_country[country], key=key)
+        parts.append(f"<h2>{e(country)} — {len(group)} mails</h2>")
+        for r in group:
+            png = r["qr_path"]
+            img = ""
+            if png and png.is_file():
+                data = base64.b64encode(png.read_bytes()).decode()
+                img = (f'<img src="data:image/png;base64,{data}" title="click to copy" '
+                       f'alt="QR code for {e(r["title"])}">')
+            lang = f'<span class="lang">{r["lang"] or "en"}</span>'
+            parts.append(
+                f'<div class="row" data-slug="{e(r["slug"])}">{img}'
+                f'<div><div class="name">{e(r["title"])}{lang}</div>'
+                f'<div class="meta">{e(r["email"])} · {e(r["location_name"])} · '
+                f'<code>{e(r["code"])}</code></div></div>'
+                f'<div><a class="go" target="_blank" rel="noopener" '
+                f'href="{e(gmail_url(r, account))}">Compose</a>'
+                f'<input class="tick" type="checkbox"></div></div>'
+            )
+
+    if no_email:
+        parts.append(f"<h2>No email published — {len(no_email)}</h2><ul class=\"noemail\">")
+        for r in no_email:
+            site = r["url"] or "(no website either)"
+            href = site if site.startswith("http") else f"https://{site}"
+            parts.append(f'<li>{e(r["title"])} — <a href="{e(href)}" target="_blank" '
+                         f'rel="noopener">{e(site)}</a> → <code>{e(r["link"])}</code></li>')
+        parts.append("</ul>")
+
+    parts.append("""
+<script>
+const KEY = 'world66-outreach-done';
+let done = [];
+try { done = JSON.parse(localStorage.getItem(KEY) || '[]'); } catch (e) {}
+document.querySelectorAll('.row').forEach(row => {
+  const slug = row.dataset.slug, box = row.querySelector('.tick');
+  if (!box) return;
+  if (done.includes(slug)) { box.checked = true; row.classList.add('done'); }
+  box.addEventListener('change', () => {
+    row.classList.toggle('done', box.checked);
+    done = box.checked ? [...new Set([...done, slug])] : done.filter(s => s !== slug);
+    try { localStorage.setItem(KEY, JSON.stringify(done)); } catch (e) {}
+  });
+  row.querySelector('.go')?.addEventListener('click', () => {
+    box.checked = true; box.dispatchEvent(new Event('change'));
+  });
+});
+document.querySelectorAll('.row img').forEach(img => {
+  img.addEventListener('click', async () => {
+    try {
+      const blob = await (await fetch(img.src)).blob();
+      await navigator.clipboard.write([new ClipboardItem({'image/png': blob})]);
+      img.style.outline = '3px solid var(--accent)';
+      setTimeout(() => { img.style.outline = ''; }, 700);
+    } catch (e) { alert('Copy failed — right-click the QR and copy it instead.'); }
+  });
+});
+</script>
+""")
+    out.write_text("\n".join(parts) + "\n", encoding="utf-8")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--assign", action="store_true", help="assign codes where missing")
     ap.add_argument("--qr", action="store_true", help="write QR PNG and SVG files")
     ap.add_argument("--emails", action="store_true", help="write the outreach emails")
     ap.add_argument("--print", action="store_true", help="also print each draft to stdout")
+    ap.add_argument("--index", action="store_true",
+                    help="write an HTML page of one-click Gmail compose links")
+    ap.add_argument("--gmail-account", type=int, default=None,
+                    help="pin the compose links to Gmail account N (0 is the first)")
     ap.add_argument("--out", default=str(DEFAULT_OUT))
     ap.add_argument("--base", default=DEFAULT_BASE)
     ap.add_argument("--country", default="", help="limit to a content path fragment")
     args = ap.parse_args()
 
-    if not (args.assign or args.qr or args.emails):
-        ap.error("nothing to do — pass --assign, --qr and/or --emails")
+    if not (args.assign or args.qr or args.emails or args.index):
+        ap.error("nothing to do — pass --assign, --qr, --emails and/or --index")
+    if args.index:
+        args.qr = True   # the page embeds the QR images
 
     if args.assign:
         taken = existing_codes()
@@ -280,6 +425,7 @@ def main():
             continue
         loc = location_of(rel)
         rows.append({
+            "country": country_of(rel),
             "rel": rel,
             "code": code,
             "title": post.metadata.get("title", rel),
@@ -305,6 +451,14 @@ def main():
             qr.save(out / f'{r["slug"]}-{r["code"]}.png', scale=8, border=2)
             qr.save(out / f'{r["slug"]}-{r["code"]}.svg', scale=8, border=2)
         print(f"wrote {len(rows) * 2} QR files to {out}")
+
+    for r in rows:
+        text = compose(r)
+        header, _, body = text.partition("\n\n")
+        r["subject"] = next(l.split(":", 1)[1].strip() for l in header.split("\n")
+                            if l.lower().startswith("subject:"))
+        r["body"] = body.strip() + "\n"
+        r["qr_path"] = Path(args.out) / f'{r["slug"]}-{r["code"]}.png'
 
     if args.emails:
         out = Path(args.out)
@@ -332,6 +486,13 @@ def main():
                   f"contact them through their website instead:")
             for r in no_email:
                 print(f"  {r['title']}  {r['url'] or '(no website either)'}  -> {r['link']}")
+
+    if args.index:
+        index = Path(args.out) / "index.html"
+        with_email = [r for r in rows if r["email"]]
+        write_index(with_email, [r for r in rows if not r["email"]], index,
+                    args.gmail_account)
+        print(f"wrote {index} — {len(with_email)} compose links")
 
     print(f"\n{len(rows)} provider{'s' if len(rows) != 1 else ''} with codes.")
     return 0

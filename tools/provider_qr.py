@@ -332,7 +332,7 @@ def write_index(rows, no_email, out, account=None):
                        f'alt="QR code for {e(r["title"])}">')
             lang = f'<span class="lang">{r["lang"] or "en"}</span>'
             parts.append(
-                f'<div class="row" data-slug="{e(r["slug"])}">{img}'
+                f'<div class="row" data-code="{e(r["code"])}">{img}'
                 f'<div><div class="name">{e(r["title"])}{lang}</div>'
                 f'<div class="meta">{e(r["email"])} · {e(r["location_name"])} · '
                 f'<code>{e(r["code"])}</code></div></div>'
@@ -356,12 +356,12 @@ const KEY = 'world66-outreach-done';
 let done = [];
 try { done = JSON.parse(localStorage.getItem(KEY) || '[]'); } catch (e) {}
 document.querySelectorAll('.row').forEach(row => {
-  const slug = row.dataset.slug, box = row.querySelector('.tick');
+  const code = row.dataset.code, box = row.querySelector('.tick');
   if (!box) return;
-  if (done.includes(slug)) { box.checked = true; row.classList.add('done'); }
+  if (done.includes(code)) { box.checked = true; row.classList.add('done'); }
   box.addEventListener('change', () => {
     row.classList.toggle('done', box.checked);
-    done = box.checked ? [...new Set([...done, slug])] : done.filter(s => s !== slug);
+    done = box.checked ? [...new Set([...done, code])] : done.filter(c => c !== code);
     try { localStorage.setItem(KEY, JSON.stringify(done)); } catch (e) {}
   });
   row.querySelector('.go')?.addEventListener('click', () => {

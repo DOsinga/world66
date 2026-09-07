@@ -4,6 +4,7 @@ commercial: true
 email: reservations@roraimaairways.com
 latitude: 6.8106
 longitude: -58.1425
+outreach_code: 7FWPH5
 phone: +592 225-9648
 score: 6.0
 snippet: Family airline since 1992, pairing Kaieteur with Orinduik or with its own

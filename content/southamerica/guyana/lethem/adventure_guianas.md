@@ -4,6 +4,7 @@ commercial: true
 email: adventureguianas@gmail.com
 latitude: 3.375
 longitude: -59.79587
+outreach_code: J22KS7
 phone: +592 673-0039
 score: 5.6
 snippet: Nature and fishing trips with their own beds at both ends, plus the cross-border

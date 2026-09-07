@@ -4,6 +4,7 @@ commercial: true
 email: adventuresblackwater@gmail.com
 latitude: 6.25587
 longitude: -57.38767
+outreach_code: FR847M
 phone: +592 610-9774
 score: 6.0
 snippet: The only licensed operator in Berbice — caiman, tubing and the ruins of Fort

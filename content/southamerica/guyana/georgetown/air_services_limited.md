@@ -4,6 +4,7 @@ commercial: true
 email: res@aslgy.com
 latitude: 6.8064
 longitude: -58.10436
+outreach_code: CLVC59
 phone: +592 222-1234
 score: 6.2
 snippet: Guyana's oldest domestic airline, flying its own Kaieteur day tour at weekends

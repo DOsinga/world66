@@ -4,6 +4,7 @@ commercial: true
 email: info@iwokramacanopywalkway.com
 latitude: 4.44
 longitude: -58.9
+outreach_code: GTKHTJ
 phone: +592 226-2085
 score: 6.5
 snippet: Eight rooms under the canopy walkway, thirty metres up in the crowns at first

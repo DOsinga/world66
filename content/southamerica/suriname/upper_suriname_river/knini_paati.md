@@ -3,6 +3,7 @@ address: Knini Paati, Boven-Suriname, Sipaliwini
 commercial: true
 latitude: 4.18
 longitude: -55.45
+outreach_code: 3RMKGY
 phone: +597 856 8332
 score: 6.7
 snippet: Maroon-run jungle lodge on the river, booked direct rather than through an

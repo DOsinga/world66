@@ -4,6 +4,7 @@ commercial: true
 email: ecolewimkite@gmail.com
 latitude: 50.887
 longitude: 1.660902
+outreach_code: DHXNQ4
 phone: +33 6 81 76 82 05
 score: 5.8
 snippet: Kitesurf, wingfoil and kitefoil lessons from the Wissant nautical base

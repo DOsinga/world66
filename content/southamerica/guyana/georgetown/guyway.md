@@ -4,6 +4,7 @@ commercial: true
 email: hello@guyway.gy
 latitude: 6.81787
 longitude: -58.11142
+outreach_code: GCMC9G
 phone: +592 655 7775
 score: 6.4
 snippet: All-electric ride-hailing with a published rate card and no surge pricing

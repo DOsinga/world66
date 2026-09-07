@@ -612,6 +612,12 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     # town. WhatsApp first, because that is the channel we are pitching, then
     # by score. Capped so the sticky sidebar stays inside the viewport — the
     # activities section page carries the full list.
+    # A provider's own QR code / referral link: ?p=CODE highlights them and
+    # hides their direct competitors, so the page they point customers at leads
+    # with them rather than with whoever happens to score highest.
+    highlight_code = (request.GET.get("p") or "").strip().upper()
+    highlighted_provider = None
+
     PROVIDER_PANEL_MAX = 5
     location_providers = []
     location_providers_all = []
@@ -646,6 +652,22 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
             -_safe_float(p.meta.get("score")) if p.meta.get("score") else 0,
             p.title.casefold(),
         ))
+        if highlight_code:
+            match = next(
+                (p for p in found if p.outreach_code and p.outreach_code == highlight_code),
+                None,
+            )
+            if match:
+                highlighted_provider = match
+                match.is_highlighted = True
+                # Hide only their direct competitors — same activity, someone
+                # else's page. Other categories still serve the reader.
+                found = [
+                    p for p in found
+                    if p.path == match.path or p.activity_kind != match.activity_kind
+                ]
+                found.sort(key=lambda p: p.path != match.path)
+
         provider_count = len(found)
         location_providers = found[:PROVIDER_PANEL_MAX]
         # The dialog carries every provider; the panel shows the first few.
@@ -722,6 +744,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "more_linked_locations": more_linked_locations,
         "url_prefix": page.url_prefix,
         "location_providers": location_providers,
+        "highlighted_provider": highlighted_provider,
         "location_providers_all": location_providers_all,
         "provider_categories": provider_categories,
         "providers_on_whatsapp": providers_on_whatsapp,

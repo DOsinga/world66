@@ -3,6 +3,7 @@ commercial: true
 email: reservations@gy-tours.com
 latitude: 6.80326
 longitude: -58.14554
+outreach_code: TTQFSL
 phone: +592 676-4117
 score: 5.5
 snippet: Falls, Iwokrama, the Rupununi and the overland run into Brazil — quoted on

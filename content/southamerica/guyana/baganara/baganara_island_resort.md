@@ -4,6 +4,7 @@ commercial: true
 email: bookbaganara@baganara.net
 latitude: 6.4
 longitude: -58.65
+outreach_code: V4XWCC
 phone: +592 222-8053
 score: 6.2
 snippet: A private 187-acre island five miles below Bartica, sold by the night or

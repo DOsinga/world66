@@ -3,6 +3,7 @@ address: 45 Avenue de la Forêt, 33115 Pyla-sur-Mer
 commercial: true
 latitude: 44.604478
 longitude: -1.202006
+outreach_code: B3HLC8
 phone: +33 6 47 40 16 81
 score: 6.3
 snippet: Lessons under the Dune du Pilat, plus paddle trips on the bay side when the

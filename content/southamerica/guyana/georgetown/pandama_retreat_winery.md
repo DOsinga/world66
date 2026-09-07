@@ -4,6 +4,7 @@ commercial: true
 email: artbyagoddess@gmail.com
 latitude: 6.52734
 longitude: -58.24941
+outreach_code: RQJY3Q
 phone: +592 627-7063
 score: 6.1
 snippet: Guyana's only working winery open to visitors, twenty acres of forest off

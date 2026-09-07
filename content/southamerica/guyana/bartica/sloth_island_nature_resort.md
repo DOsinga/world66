@@ -4,6 +4,7 @@ commercial: true
 email: slothisland@yahoo.com
 latitude: 6.44
 longitude: -58.55
+outreach_code: CKRPYR
 phone: +592 654-1974
 score: 5.7
 snippet: An Essequibo island where the howler monkeys come to the cabins rather than

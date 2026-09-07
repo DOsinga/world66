@@ -3,6 +3,7 @@ address: 256 Martyr's Ville, Mon Repos, East Coast Demerara
 commercial: true
 latitude: 6.805
 longitude: -58.055
+outreach_code: HQ4TNG
 phone: +592 220-2578
 score: 5.7
 snippet: Locally owned, one aircraft-load at a time — Kaieteur with three viewpoints

@@ -4,6 +4,7 @@ commercial: true
 email: contact@voile-arcachon.org
 latitude: 44.660336
 longitude: -1.144062
+outreach_code: FNPXQ4
 phone: +33 5 56 83 05 92
 score: 6.2
 snippet: A sailing club founded in 1882, teaching everything from Optimists to foiling,

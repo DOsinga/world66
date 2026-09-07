@@ -3,6 +3,7 @@ address: Parika Stelling, East Bank Essequibo
 commercial: true
 latitude: 6.85942
 longitude: -58.42336
+outreach_code: WNB9G6
 phone: +592 608-4460
 score: 5.8
 snippet: The working river link — Parika to Supenaam and Wakenaam, and charters up

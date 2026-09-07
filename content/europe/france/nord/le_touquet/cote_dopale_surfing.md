@@ -4,6 +4,7 @@ commercial: true
 email: opalesurfing@gmail.com
 latitude: 50.526781
 longitude: 1.583592
+outreach_code: X68RMH
 phone: +33 6 02 39 01 25
 score: 5.9
 snippet: Surf lessons and board hire from the nautical base at the south end of the

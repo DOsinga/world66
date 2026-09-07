@@ -4,6 +4,7 @@ commercial: true
 email: ecolesurfnord@gmail.com
 latitude: 50.887112
 longitude: 1.661685
+outreach_code: 2D76SC
 phone: +33 6 21 89 43 94
 score: 6.2
 snippet: Surf, paddle and bodyboard lessons and hire on the beach between the two

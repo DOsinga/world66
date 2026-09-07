@@ -109,6 +109,8 @@ class Page:
     # panel row can say something specific to that place rather than repeating
     # the provider's own generic snippet.
     panel_note: str = ""
+    # Set when a ?p=CODE highlight link names this provider.
+    is_highlighted: bool = False
 
     def get_absolute_url(self):
         if self.revision:
@@ -149,6 +151,17 @@ class Page:
             if t in self._CATEGORY_TAGS:
                 return t.replace("_", " ").title()
         return ""
+
+    @property
+    def outreach_code(self):
+        """Short code identifying this provider in a highlight link.
+
+        Stored in frontmatter rather than derived from the path, because these
+        codes go on printed QR codes and into providers' own websites: a code
+        derived from the path would break the moment a page moved, and this
+        repo restructures content regularly.
+        """
+        return str(self.meta.get("outreach_code") or "").strip().upper()
 
     @property
     def is_commercial(self):

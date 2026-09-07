@@ -3,6 +3,7 @@ address: Quai Perrée, 80230 Saint-Valery-sur-Somme
 commercial: true
 latitude: 50.183617
 longitude: 1.64334
+outreach_code: GKYW2H
 phone: +33 3 22 60 74 68
 score: 6.4
 snippet: Commentated estuary cruises aboard the Commandant Charcot III, from the red

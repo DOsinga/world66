@@ -4,6 +4,7 @@ commercial: true
 email: info@salkantaytrekking.com
 latitude: -13.5164
 longitude: -71.9778
+outreach_code: SLF2Q6
 phone: +51 958 191 179
 score: 6.7
 snippet: The Salkantay route in two, three, four and five-day versions, sky domes

@@ -4,6 +4,7 @@ commercial: true
 email: jennytourssuriname@gmail.com
 latitude: 5.8225
 longitude: -55.1508
+outreach_code: 6SP3TY
 phone: +597 885 8495
 score: 6.9
 snippet: Paramaribo operator covering most of the country, answering WhatsApp around

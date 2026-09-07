@@ -3,6 +3,7 @@ address: 228 boulevard de la Côte d'Argent, 33120 Arcachon
 commercial: true
 latitude: 44.641684
 longitude: -1.20158
+outreach_code: FMVW44
 phone: +33 6 62 26 04 11
 score: 5.6
 snippet: A federation-labelled surf and paddle club at Le Moulleau, running sessions

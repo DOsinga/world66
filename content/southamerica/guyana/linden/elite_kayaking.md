@@ -4,6 +4,7 @@ commercial: true
 email: elitekayaking@gmail.com
 latitude: 5.99212
 longitude: -58.29785
+outreach_code: M57PHG
 phone: +592 620-4659
 score: 5.4
 snippet: Kayaks on Blue Lake and Kara Kara Creek, priced in the hundreds of Guyanese

@@ -4,6 +4,7 @@ commercial: true
 email: franco@explorandes.com
 latitude: -13.5269
 longitude: -71.9683
+outreach_code: KP266S
 score: 6.1
 snippet: Founded in 1975 and still running — the oldest adventure operator in the
   country

@@ -3,6 +3,7 @@ address: Calle Garcilaso 270, Cusco
 commercial: true
 latitude: -13.5183
 longitude: -71.9803
+outreach_code: YMQBTC
 phone: +51 84 256324
 score: 6.6
 snippet: Long-running Garcilaso operator publishing its Inca Trail prices, group and

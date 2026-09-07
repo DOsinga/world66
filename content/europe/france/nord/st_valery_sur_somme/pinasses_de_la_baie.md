@@ -4,6 +4,7 @@ commercial: true
 email: louis@pinassesdelabaie.fr
 latitude: 50.187552
 longitude: 1.633924
+outreach_code: 77QGYF
 phone: +33 7 66 48 14 28
 score: 6.0
 snippet: Ninety-minute cruises on a silent electric pinasse, small groups rather than

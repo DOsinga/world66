@@ -4,6 +4,7 @@ commercial: true
 email: cjiac@cjairport-gy.com
 latitude: 6.49825
 longitude: -58.25593
+outreach_code: XCD89W
 phone: +592 688 2228
 score: 6.0
 snippet: The airport's own rank - cream shirt jacks, official badges, and a duty office

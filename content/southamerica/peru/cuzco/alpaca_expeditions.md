@@ -4,6 +4,7 @@ commercial: true
 email: info@alpacaexpeditions.com
 latitude: -13.5171
 longitude: -71.9819
+outreach_code: BXWYNP
 phone: +51 84 254278
 score: 7.1
 snippet: The biggest of the licensed Inca Trail operators, with a women-only trek

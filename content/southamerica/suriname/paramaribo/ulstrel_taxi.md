@@ -4,6 +4,7 @@ commercial: true
 email: office@ulstrel.com
 latitude: 5.82315
 longitude: -55.167
+outreach_code: DKTGPZ
 phone: +597 840 5350
 score: 5.8
 snippet: Central on 1680, taking advance bookings and business accounts as well as

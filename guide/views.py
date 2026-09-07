@@ -17,7 +17,8 @@ from .models import (
     CONTENT_DIR, DIMENSION_FIELDS, DIMENSION_LABELS, NAV_TYPES,
     build_city_tag_index, dimension_percentile, find_dimension_alternatives,
     find_similar_with_match_grouped, find_tagged_pois, find_locations_tagged,
-    load_page, load_page_from_revision, load_tag_index, resolve_tag_route, _find_city_path,
+    load_page, load_page_from_revision, load_outreach_codes, load_provider_by_code,
+    load_tag_index, resolve_tag_route, _find_city_path,
 )
 
 SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
@@ -352,6 +353,34 @@ def _country_title(page):
         return ""
     country = load_page("/".join(parts[:2]))
     return country.title if country else ""
+
+
+
+def provider_qr(request, code):
+    """The landing page a provider reaches from their outreach mail.
+
+    Shows the link that puts them first on their town's page, and the QR that
+    encodes it, ready to print. The QR files are built once into static/qr by
+    tools/provider_qr.py rather than rendered per request — 53 providers is
+    about 80 KB, and a static file needs no Python at all.
+    """
+    code = str(code or "").strip().upper()
+    entry = load_outreach_codes().get(code)
+    if not entry:
+        raise Http404
+    provider = load_provider_by_code(code)
+    if not provider:
+        raise Http404
+
+    location_path = entry[1].rsplit("/", 1)[0]
+    location = load_page(location_path)
+    return render(request, "guide/provider_qr.html", {
+        "provider": provider,
+        "location": location,
+        "location_path": location_path,
+        "code": code,
+        "highlight_url": request.build_absolute_uri(f"/{location_path}?p={code}"),
+    })
 
 
 def location_or_section(request, path):

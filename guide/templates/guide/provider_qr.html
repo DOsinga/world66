@@ -1,0 +1,42 @@
+{% extends "guide/base.html" %}
+{% load static %}
+
+{% block title %}{{ provider.title }} — your World66 link{% endblock %}
+
+{% block content %}
+<div class="qr-page">
+  <p class="section-kicker">Your World66 listing</p>
+  <h1>{{ provider.title }}</h1>
+
+  <p class="qr-lede">
+    This link opens the {{ location.title|default:location_path }} guide with
+    {{ provider.title }} at the top and your direct competitors hidden. It is the
+    ordinary page — just yours at the front of it.
+  </p>
+
+  <p class="qr-link"><a href="{{ highlight_url }}">{{ highlight_url }}</a></p>
+
+  <div class="qr-art">
+    <img src="{% static 'qr/' %}{{ code }}.svg" width="220" height="220"
+         alt="QR code for {{ provider.title }}">
+    <div class="qr-downloads">
+      <p>Scanning it goes to the same place. Print it on a card at reception, a
+         sign on the boat, or the back of a receipt.</p>
+      <p>
+        <a href="{% static 'qr/' %}{{ code }}.svg" download>Download SVG</a>
+        <span class="qr-sep">·</span>
+        <a href="{% static 'qr/' %}{{ code }}.png" download>Download PNG</a>
+      </p>
+      <p class="qr-note">The SVG has no fixed size, so it stays sharp on
+         anything from a business card to a banner.</p>
+    </div>
+  </div>
+
+  <p class="qr-foot">
+    Your page is <a href="/{{ provider.path }}">{{ provider.title }}</a>, and the
+    full guide is at <a href="/{{ location_path }}">{{ location.title|default:location_path }}</a>.
+    Anything wrong on it — prices, season, meeting point, the phone number —
+    email us and we will fix it.
+  </p>
+</div>
+{% endblock %}

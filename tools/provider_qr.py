@@ -14,11 +14,12 @@ restructures content regularly.
 
 Usage:
     python3 tools/provider_qr.py --assign          # give codes to providers lacking one
-    python3 tools/provider_qr.py --qr              # write QR PNG + SVG per provider
+    python3 tools/provider_qr.py --qr              # write static/qr/<CODE>.png and .svg
     python3 tools/provider_qr.py --emails          # write the outreach emails
     python3 tools/provider_qr.py --assign --qr --emails
 
-    --out DIR     where QR files go (default: build/provider_qr, gitignored)
+    --out DIR     drafts and the index page (default: build/outreach, gitignored)
+    --qr-out DIR  where the QR files go (default: static/qr, committed)
     --base URL    site root for the links (default: https://world66.ai)
     --country X   limit to a content path fragment, e.g. --country suriname
 """
@@ -40,7 +41,10 @@ import frontmatter
 
 REPO = Path(__file__).resolve().parent.parent
 CONTENT_DIR = REPO / "content"
-DEFAULT_OUT = REPO / "build" / "provider_qr"
+DEFAULT_OUT = REPO / "build" / "outreach"
+# Served by the ordinary static pipeline. 105 providers is under a megabyte
+# of PNG and SVG, which is cheaper to commit than to render per request.
+DEFAULT_QR_OUT = REPO / "static" / "qr"
 DEFAULT_BASE = "https://world66.ai"
 
 # No vowels and no 0/O/1/I: these get read aloud and typed by hand off paper.
@@ -93,6 +97,7 @@ def link_for(base, rel, code):
 LANG_BY_PATH = {
     "/france/": "fr",
     "/suriname/": "nl",
+    "/peru/": "es",
 }
 
 
@@ -123,9 +128,10 @@ Three things that would help:
 1. Put a link on your website or your social profiles, so people can find the
    wider guide to {location_name} from you.
 
-2. The attached QR code goes to the same place. It prints cleanly at any size,
-   so it works on a card at reception, a sign on the boat, or the back of a
-   receipt.
+2. Here is the same link as a QR code, ready to print — on a card at
+   reception, a poster in the window, or the back of a receipt:
+
+{qr_url}
 
 3. If you have any comments on the {location_name} guide, shoot us an email and
    we'll update it. We strive to be the best travel guide in the world and we
@@ -146,9 +152,10 @@ Drie dingen die zouden helpen:
 1. Zet een link op uw website of op uw social media, zodat mensen via u de rest
    van de gids over {location_name} kunnen vinden.
 
-2. De bijgevoegde QR-code gaat naar dezelfde plek. Hij drukt scherp af op elk
-   formaat, dus hij werkt op een kaartje bij de balie, een bordje op de boot of
-   achterop een bonnetje.
+2. Dezelfde link als QR-code, klaar om af te drukken — op een kaartje bij de
+   balie, een poster in de etalage of achterop een bonnetje:
+
+{qr_url}
 
 3. Hebt u opmerkingen over de gids over {location_name}, stuur ons dan een
    e-mail en we passen het aan. We willen de beste reisgids ter wereld maken en
@@ -169,13 +176,37 @@ Trois choses qui nous aideraient :
 1. Mettez un lien sur votre site ou vos réseaux sociaux, pour que vos visiteurs
    découvrent depuis chez vous le reste de notre guide « {location_name} ».
 
-2. Le QR code joint mène au même endroit. Il s'imprime nettement à n'importe
-   quelle taille : sur une carte à l'accueil, un panneau sur le bateau ou au dos
-   d'un reçu.
+2. Le même lien sous forme de QR code, prêt à imprimer — sur une carte à
+   l'accueil, une affiche en vitrine ou au dos d'un reçu :
+
+{qr_url}
 
 3. Si vous avez des remarques sur notre guide « {location_name} », écrivez-nous
    et nous le mettrons à jour. Nous voulons faire le meilleur guide de voyage du
    monde, et toute aide est la bienvenue !
+""",
+    "es": """Hola,
+
+Estamos creando una guía de viajes que ayuda a los viajeros a organizar su
+viaje sobre la marcha a través de WhatsApp, y acabamos de añadir {title}.
+Aparecer en la guía es gratis, no cobramos comisión y no hay que registrarse en
+nada. Eche un vistazo:
+
+{link}
+
+Tres cosas que nos ayudarían:
+
+1. Ponga un enlace en su web o en sus redes sociales, para que desde usted la
+   gente encuentre el resto de la guía de {location_name}.
+
+2. El mismo enlace en código QR, listo para imprimir — en una tarjeta en
+   recepción, un cartel en el escaparate o al dorso de un recibo:
+
+{qr_url}
+
+3. Si tiene algún comentario sobre la guía de {location_name}, escríbanos y la
+   actualizamos. Queremos hacer la mejor guía de viajes del mundo y toda ayuda
+   es bienvenida.
 """,
 }
 
@@ -183,6 +214,7 @@ SIGNOFF = {
     "en": "Thanks,\nRichard & the World66 team",
     "nl": "Groeten,\nRichard en het World66-team",
     "fr": "Merci,\nRichard et l'équipe World66",
+    "es": "Un saludo,\nRichard y el equipo de World66",
 }
 
 # The line between the two halves, so the reader can see at a glance that the
@@ -190,6 +222,7 @@ SIGNOFF = {
 DIVIDER = {
     "nl": "\n--- Dezelfde tekst in het Nederlands ---\n\n",
     "fr": "\n--- Le même message en français ---\n\n",
+    "es": "\n--- El mismo mensaje en español ---\n\n",
 }
 
 
@@ -222,6 +255,7 @@ def compose(row):
     fields = {
         "email": row["email"], "title": row["title"], "page_url": row["page_url"],
         "link": row["link"], "location_name": row["location_name"],
+        "qr_url": row["qr_url"],
     }
     def half(lang):
         return f'{wrap(BODY[lang].format(**fields))}\n\n{SIGNOFF[lang]}\n'
@@ -285,7 +319,7 @@ INDEX_HEAD = """<!doctype html>
         padding: 12px 10px; border-bottom: 1px solid var(--line); border-radius: 6px; }
  .row.done { opacity: .42; }
  .row img { width: 72px; height: 72px; image-rendering: pixelated; background: #fff;
-            border-radius: 4px; padding: 3px; cursor: pointer; }
+            border-radius: 4px; padding: 3px; }
  .name { font-weight: 600; }
  .meta { color: var(--dim); font-size: 13px; }
  .lang { display: inline-block; font-size: 11px; letter-spacing: .06em; text-transform: uppercase;
@@ -300,9 +334,9 @@ INDEX_HEAD = """<!doctype html>
 </style>
 <h1>Provider outreach</h1>
 <p class="lede">One click opens a Gmail compose window with the mail already written.
-Click the QR to copy it, then paste it into the message before sending — a compose
-link cannot carry an attachment. The tick is only for your own bookkeeping; it is
-remembered in this browser.</p>
+Nothing to attach — the mail links each provider's QR page on world66.ai. The QR
+here is only so you can see what they will get. The tick is for your own
+bookkeeping; it is remembered in this browser.</p>
 """
 
 
@@ -328,7 +362,7 @@ def write_index(rows, no_email, out, account=None):
             img = ""
             if png and png.is_file():
                 data = base64.b64encode(png.read_bytes()).decode()
-                img = (f'<img src="data:image/png;base64,{data}" title="click to copy" '
+                img = (f'<img src="data:image/png;base64,{data}" '
                        f'alt="QR code for {e(r["title"])}">')
             lang = f'<span class="lang">{r["lang"] or "en"}</span>'
             parts.append(
@@ -368,16 +402,6 @@ document.querySelectorAll('.row').forEach(row => {
     box.checked = true; box.dispatchEvent(new Event('change'));
   });
 });
-document.querySelectorAll('.row img').forEach(img => {
-  img.addEventListener('click', async () => {
-    try {
-      const blob = await (await fetch(img.src)).blob();
-      await navigator.clipboard.write([new ClipboardItem({'image/png': blob})]);
-      img.style.outline = '3px solid var(--accent)';
-      setTimeout(() => { img.style.outline = ''; }, 700);
-    } catch (e) { alert('Copy failed — right-click the QR and copy it instead.'); }
-  });
-});
 </script>
 """)
     out.write_text("\n".join(parts) + "\n", encoding="utf-8")
@@ -393,7 +417,10 @@ def main():
                     help="write an HTML page of one-click Gmail compose links")
     ap.add_argument("--gmail-account", type=int, default=None,
                     help="pin the compose links to Gmail account N (0 is the first)")
-    ap.add_argument("--out", default=str(DEFAULT_OUT))
+    ap.add_argument("--out", default=str(DEFAULT_OUT),
+                    help="drafts and the index page (gitignored)")
+    ap.add_argument("--qr-out", default=str(DEFAULT_QR_OUT),
+                    help="QR files, served as static assets")
     ap.add_argument("--base", default=DEFAULT_BASE)
     ap.add_argument("--country", default="", help="limit to a content path fragment")
     args = ap.parse_args()
@@ -402,6 +429,7 @@ def main():
         ap.error("nothing to do — pass --assign, --qr, --emails and/or --index")
     if args.index:
         args.qr = True   # the page embeds the QR images
+    qr_out = Path(args.qr_out)
 
     if args.assign:
         taken = existing_codes()
@@ -435,6 +463,7 @@ def main():
             "location_name": location_name(loc),
             "lang": language_for(rel),
             "link": link_for(args.base, rel, code),
+            "qr_url": f"{args.base.rstrip('/')}/qr/{code}",
             "page_url": f"{args.base.rstrip('/')}/{rel}",
             "slug": rel.rsplit("/", 1)[-1],
         })
@@ -444,13 +473,12 @@ def main():
             import segno
         except ImportError:
             sys.exit("segno is not installed — pip install segno (it is in requirements.in)")
-        out = Path(args.out)
-        out.mkdir(parents=True, exist_ok=True)
+        qr_out.mkdir(parents=True, exist_ok=True)
         for r in rows:
             qr = segno.make(r["link"], error="h")   # h: survives a logo or a coffee ring
-            qr.save(out / f'{r["slug"]}-{r["code"]}.png', scale=8, border=2)
-            qr.save(out / f'{r["slug"]}-{r["code"]}.svg', scale=8, border=2)
-        print(f"wrote {len(rows) * 2} QR files to {out}")
+            qr.save(qr_out / f'{r["code"]}.png', scale=8, border=2)
+            qr.save(qr_out / f'{r["code"]}.svg', scale=8, border=2)
+        print(f"wrote {len(rows) * 2} QR files to {qr_out}")
 
     for r in rows:
         text = compose(r)
@@ -458,7 +486,7 @@ def main():
         r["subject"] = next(l.split(":", 1)[1].strip() for l in header.split("\n")
                             if l.lower().startswith("subject:"))
         r["body"] = body.strip() + "\n"
-        r["qr_path"] = Path(args.out) / f'{r["slug"]}-{r["code"]}.png'
+        r["qr_path"] = qr_out / f'{r["code"]}.png'
 
     if args.emails:
         out = Path(args.out)
@@ -468,7 +496,7 @@ def main():
         for r in rows:
             if not r["email"]:
                 continue
-            text = compose(r) + f"\n[attach: {r['slug']}-{r['code']}.png]\n"
+            text = compose(r)
             draft = out / f'{r["slug"]}-{r["code"]}.txt'
             draft.write_text(text, encoding="utf-8")
             written += 1

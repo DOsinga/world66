@@ -1,6 +1,6 @@
 ---
-latitude: 43.305815
-longitude: 5.367679
+latitude: 43.3054212
+longitude: 5.3677945
 score: 6.7
 snippet: Contemporary art collection and exhibition space near Marseille’s Joliette
   district.

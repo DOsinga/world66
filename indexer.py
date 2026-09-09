@@ -126,6 +126,15 @@ def init_db(conn):
         )
     """)
     conn.execute("CREATE TABLE IF NOT EXISTS meta (path TEXT PRIMARY KEY, mtime REAL, hash TEXT)")
+    # Printed on cards and pasted into other people's websites, so the lookup has
+    # to work from the six characters alone. Walking the tree for it costs ~24s
+    # across 135k files; this is that walk, done once, where it already happens.
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS outreach_codes (
+            code TEXT PRIMARY KEY, path TEXT, url_path TEXT, title TEXT
+        )
+    """)
+    conn.execute("CREATE INDEX IF NOT EXISTS outreach_codes_path ON outreach_codes(path)")
     conn.execute("CREATE TABLE IF NOT EXISTS config (key TEXT PRIMARY KEY, value TEXT)")
     conn.execute(f"""
         CREATE VIRTUAL TABLE IF NOT EXISTS embeddings USING vec0(
@@ -208,6 +217,33 @@ def sync_location_scores(conn):
             f"INSERT INTO location_scores({', '.join(columns)}) VALUES ({placeholders})",
             values,
         )
+
+
+
+def sync_outreach_codes(conn):
+    """Rebuild the printed-code lookup table.
+
+    An outreach code is six characters and names nothing, so serving /qr/<CODE>
+    means either this table or a walk of the whole tree on every request. The
+    walk is the expensive part — 135k files, some twenty seconds — so it happens
+    here, once, and wholesale: rebuilt rather than patched, because a lookup
+    table with two writers is a lookup table that drifts.
+    """
+    rows = []
+    for path in CONTENT_DIR.rglob("*.md"):
+        meta, _ = _load(path)
+        code = str(meta.get("outreach_code") or "").strip().upper()
+        if code and meta.get("commercial"):
+            rel = str(path.relative_to(CONTENT_DIR))
+            rows.append((code, rel, _url_path(path.relative_to(CONTENT_DIR)),
+                         meta.get("title", path.stem)))
+    conn.execute("DELETE FROM outreach_codes")
+    for row in rows:
+        conn.execute(
+            "INSERT OR REPLACE INTO outreach_codes(code, path, url_path, title) "
+            "VALUES(?,?,?,?)", row)
+    print(f"Outreach codes: {len(rows)}")
+    return len(rows)
 
 
 def file_hash(path):
@@ -357,6 +393,7 @@ def run():
                 pending.append(result)
         remove_deleted(conn)
         sync_location_scores(conn)
+        sync_outreach_codes(conn)
         conn.execute("COMMIT")
     except Exception:
         conn.execute("ROLLBACK")
@@ -373,6 +410,27 @@ def run():
 
     conn.close()
     print(f"Indexed {total} files; {len(pending)} (re)embedded")
+
+
+def sync_outreach_only():
+    """Just the code table. Touches nothing else — in particular it does not go
+    near the embeddings, which init_db will drop if the model has changed."""
+    conn = apsw.Connection(str(DB_PATH))
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS outreach_codes (
+            code TEXT PRIMARY KEY, path TEXT, url_path TEXT, title TEXT
+        )
+    """)
+    conn.execute("CREATE INDEX IF NOT EXISTS outreach_codes_path ON outreach_codes(path)")
+    conn.execute("BEGIN")
+    try:
+        sync_outreach_codes(conn)
+        conn.execute("COMMIT")
+    except Exception:
+        conn.execute("ROLLBACK")
+        raise
+    finally:
+        conn.close()
 
 
 def sync_scores_only():
@@ -399,11 +457,16 @@ def main():
     )
     parser.add_argument("--dim", type=int, default=512, help="Embedding dimension (Matryoshka truncation)")
     parser.add_argument("--scores-only", action="store_true", help="Only refresh location score tables")
+    parser.add_argument("--outreach-only", action="store_true",
+                        help="Only rebuild the outreach code lookup table")
     args = parser.parse_args()
 
     global EMBEDDING_MODEL, EMBEDDING_DIM
     EMBEDDING_MODEL = args.model
     EMBEDDING_DIM = args.dim
+    if args.outreach_only:
+        sync_outreach_only()
+        return
     if args.scores_only:
         sync_scores_only()
     else:

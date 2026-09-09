@@ -4536,3 +4536,20 @@ img { max-width: 100%; height: auto; }
   text-decoration: underline;
   text-underline-offset: 2px;
 }
+
+/* /qr/<CODE> — the page a provider lands on from their outreach mail. */
+.qr-page { max-width: 640px; }
+.qr-page h1 { margin: 4px 0 14px; }
+.qr-lede { font-size: 17px; line-height: 1.6; }
+.qr-link { margin: 18px 0 26px; padding: 12px 14px; background: rgba(0,0,0,.035);
+           border: 1px solid var(--line); border-radius: 6px; word-break: break-all;
+           font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 14px; }
+.qr-art { display: flex; gap: 26px; align-items: flex-start; flex-wrap: wrap;
+          padding: 22px 0; border-top: 1px solid var(--line);
+          border-bottom: 1px solid var(--line); }
+.qr-art img { background: #fff; padding: 10px; border-radius: 6px; flex: none; }
+.qr-downloads { flex: 1 1 240px; }
+.qr-downloads p { margin: 0 0 12px; }
+.qr-sep { color: var(--muted); margin: 0 6px; }
+.qr-note { font-size: 14px; color: var(--muted); }
+.qr-foot { margin-top: 22px; font-size: 15px; color: var(--muted); }

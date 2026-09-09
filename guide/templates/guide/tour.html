@@ -1,0 +1,539 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{{ tour_title }} — World66 Audio Tour</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<style>
+  :root{ --bg:#0e1116; --panel:#171b22; --line:#262c36; --text:#eef1f5; --muted:#9aa4b2;
+         --accent:#f5a623; --accent2:#3ea6ff; --good:#37d67a; }
+  *{box-sizing:border-box}
+  html,body{max-width:100%;overflow-x:hidden}
+  body{margin:0;font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+       background:var(--bg);color:var(--text);-webkit-font-smoothing:antialiased}
+  img,svg,.leaflet-container{max-width:100%}
+  .wrap{max-width:640px;margin:0 auto;height:100vh;height:100dvh;display:flex;flex-direction:column;position:relative;overflow:hidden}
+  header{padding:16px 20px 6px;display:flex;align-items:flex-start;justify-content:space-between;gap:12px}
+  .htext{flex:1;min-width:0}
+  header .kicker{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+  header h1{margin:2px 0 0;font-size:19px;font-weight:600}
+  header .prog{margin-top:5px;font-size:12px;color:var(--muted)}
+  .walkmini{flex:none;width:42px;height:42px;border-radius:11px;border:1px solid var(--line);
+    background:var(--panel);color:var(--text);font-size:19px;cursor:pointer;display:grid;place-items:center}
+  .walkmini.on{background:var(--good);color:#052813;border-color:var(--good)}
+  .statusbar{display:none;padding:9px 20px;font-size:14px;font-weight:600;color:var(--accent2);
+    background:rgba(62,166,255,.10);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+  .statusbar.on{display:block}
+  .miniplayer{display:none;align-items:center;gap:6px;padding:9px 14px;
+    background:linear-gradient(180deg,#1b2029,#161a21);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+  .miniplayer.on{display:flex}
+  .mpbtn{flex:none;width:36px;height:36px;border-radius:50%;border:none;cursor:pointer;
+    background:transparent;color:var(--text);display:grid;place-items:center;transition:background .12s}
+  .mpbtn:hover{background:rgba(255,255,255,.06)}
+  .mpbtn:active{transform:scale(.9)}
+  .mpbtn.mp-main{width:44px;height:44px;background:var(--accent);color:#111;box-shadow:0 2px 8px rgba(245,166,35,.35)}
+  .mpbtn.mp-main:hover{background:#ffb733}
+  .mp-info{flex:1;min-width:0;margin-left:6px}
+  .mp-title{font-size:13px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;cursor:pointer}
+  .mp-bar{height:3px;background:var(--line);border-radius:2px;margin-top:6px;overflow:hidden}
+  .mp-bar>i{display:block;height:100%;width:0;background:var(--accent);transition:width .2s linear}
+  .controls{display:flex;gap:10px;padding:8px 20px 12px;border-bottom:1px solid var(--line)}
+  .btn{flex:1;border:none;border-radius:11px;padding:12px;font-size:15px;font-weight:600;cursor:pointer;
+       background:var(--accent2);color:#08121f}
+  .btn.on{background:var(--good);color:#052813}
+  .btn.ghost{flex:0 0 auto;background:var(--panel);color:var(--muted);border:1px solid var(--line);font-weight:500}
+  .btn.ghost.on{color:var(--text);border-color:var(--accent)}
+  .maprail{position:relative;flex:1;min-height:0}     /* map fills the screen */
+  #map{height:100%;width:100%;background:#0b0e13;z-index:0}
+  .maphint{position:absolute;left:50%;bottom:10px;transform:translateX(-50%);z-index:500;
+    background:rgba(20,24,31,.9);border:1px solid var(--line);color:var(--muted);
+    font-size:12px;padding:5px 12px;border-radius:20px;pointer-events:none}
+  .leaflet-container{background:#0b0e13;font:inherit}
+  .overlay{position:absolute;left:12px;right:12px;top:12px;z-index:500;display:none;
+     border-radius:12px;padding:11px 14px;backdrop-filter:blur(6px)}
+  #banner{background:rgba(20,24,31,.92);border:1px solid var(--line)}
+  #banner .w{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent2)}
+  #banner .d{font-weight:600;margin-top:1px}
+  #alert{background:rgba(245,166,35,.16);border:1px solid var(--accent)}
+  #alert .row{display:flex;align-items:center;gap:12px}
+  #alert .txt{flex:1;min-width:0}
+  #alert .w{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--accent)}
+  #alert .n{font-weight:700}
+  #alert .play{flex:none;border:none;background:var(--accent);color:#111;font-weight:700;
+        padding:9px 14px;border-radius:9px;cursor:pointer}
+  /* story is a bottom-sheet drawer over the map */
+  .drawer{position:absolute;left:0;right:0;bottom:0;z-index:800;background:var(--panel);
+    border-top:1px solid var(--line);border-radius:18px 18px 0 0;box-shadow:0 -10px 34px rgba(0,0,0,.55);
+    transform:translateY(102%);transition:transform .28s cubic-bezier(.4,0,.2,1);
+    max-height:74vh;max-height:74dvh;display:flex;flex-direction:column}
+  .drawer.open{transform:translateY(0)}
+  .drawer.peek{transform:translateY(calc(100% - 90px))}         /* just the header peeks */
+  .drawer.peek main{overflow:hidden}
+  .drawer.peek .stop-title{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:20px;margin:2px 0 0}
+  .handle{flex:none;display:grid;place-items:center;padding:9px 0 3px;cursor:grab;touch-action:none}
+  .handle::before{content:"";width:40px;height:4px;border-radius:2px;background:var(--line)}
+  main{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:6px 20px 34px}
+  .stop-title{font-size:27px;font-weight:700;line-height:1.15;margin:0 0 4px;overflow-wrap:break-word}
+  .snippet{color:var(--accent);font-style:italic;margin:0 0 18px}
+  .player{display:flex;align-items:center;gap:14px;background:var(--panel);
+          border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin-bottom:20px}
+  .play{flex:none;width:54px;height:54px;border-radius:50%;border:none;cursor:pointer;
+        background:var(--accent);color:#111;font-size:22px;display:grid;place-items:center}
+  .play:active{transform:scale(.95)}
+  .ptxt{flex:1;min-width:0}.ptxt .t{font-weight:600}.ptxt .s{font-size:13px;color:var(--muted)}
+  .routebtn{flex:none;border:1px solid var(--line);background:var(--panel);color:var(--text);
+    padding:11px 13px;border-radius:11px;font-size:14px;font-weight:600;cursor:pointer;white-space:nowrap}
+  .routebtn:active{transform:scale(.97)}
+  .bar{height:4px;background:var(--line);border-radius:2px;margin-top:8px;overflow:hidden}
+  .bar>i{display:block;height:100%;width:0;background:var(--accent)}
+  .suggest{margin:26px 0 6px;border-top:1px solid var(--line);padding-top:18px}
+  .suggest .sh{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:0 0 12px}
+  .nextstop{display:flex;align-items:flex-start;gap:12px;width:100%;text-align:left;cursor:pointer;
+    background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:13px 15px;margin-bottom:10px;color:var(--text)}
+  .nextstop:active{transform:scale(.99)}
+  .nextstop .ns-meta{flex:1;min-width:0}
+  .nextstop .ns-n{display:block;font-weight:600}
+  .nextstop .ns-h{display:block;font-size:13px;color:var(--muted);line-height:1.35;margin-top:2px}
+  .nextstop .ns-d{flex:none;color:var(--accent2);font-weight:700;font-size:13px}
+  .story{color:#d7dde5}.story p{margin:0 0 14px;overflow-wrap:break-word}
+  .next{margin-top:26px;border-top:1px solid var(--line);padding-top:20px}
+  .next h2{font-size:14px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:0 0 12px}
+  .choice{display:flex;align-items:flex-start;gap:12px;width:100%;text-align:left;cursor:pointer;
+          background:var(--panel);border:1px solid var(--line);border-radius:12px;
+          padding:13px 15px;margin-bottom:10px;color:var(--text)}
+  .choice:hover{border-color:var(--accent2)}
+  .choice .pin{flex:none;width:26px;height:26px;border-radius:50%;background:var(--accent2);
+        color:#08121f;font-weight:700;font-size:13px;display:grid;place-items:center}
+  .choice .meta{flex:1;min-width:0}
+  .choice .meta .n{display:block;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .choice .meta .h{display:block;font-size:13px;color:var(--muted);line-height:1.35}
+  .choice .dist{flex:none;color:var(--accent2);font-weight:700;font-size:13px}
+  .hint{color:var(--muted);font-size:13px}
+  .done{text-align:center;padding:26px 10px;color:var(--muted)}
+  .restart{margin-top:12px;background:none;border:1px solid var(--line);color:var(--text);
+           padding:10px 18px;border-radius:10px;cursor:pointer}
+  .mk{border-radius:50%;display:grid;place-items:center;font-weight:700;box-shadow:0 0 0 2px rgba(0,0,0,.5)}
+  .mk-next{width:24px;height:24px;background:var(--accent2);color:#08121f;font-size:13px;cursor:pointer}
+  .mk-dot{width:11px;height:11px;background:#7f8a99;cursor:pointer}
+  .mk-heard{width:11px;height:11px;background:#3a424e}
+  .mk-cur{width:24px;height:24px;background:var(--accent);color:#111;font-size:13px}
+  .mk-me{width:18px;height:18px;background:var(--good);box-shadow:0 0 0 3px rgba(55,214,122,.35),0 0 0 6px rgba(55,214,122,.18)}
+  .mk-me.pulse{animation:pulse 1.6s ease-out infinite}
+  @keyframes pulse{0%{box-shadow:0 0 0 3px rgba(55,214,122,.5),0 0 0 4px rgba(55,214,122,.4)}
+    100%{box-shadow:0 0 0 3px rgba(55,214,122,.0),0 0 0 26px rgba(55,214,122,0)}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="htext">
+      <div class="kicker">Audio Wander · Proof of concept</div>
+      <h1>Marseille — Fort Saint-Jean</h1>
+      <div class="prog" id="prog"></div>
+    </div>
+    <button class="walkmini" id="walkbtn" title="Walk mode — use my location">🚶</button>
+  </header>
+  <div class="miniplayer" id="miniplayer">
+    <button class="mpbtn" id="mp-back" title="Restart / previous stop"></button>
+    <button class="mpbtn mp-main" id="mp-play" title="Play/pause"></button>
+    <button class="mpbtn" id="mp-fwd" title="Next stop"></button>
+    <div class="mp-info"><div class="mp-title" id="mp-title"></div>
+      <div class="mp-bar"><i id="mp-bar-i"></i></div></div>
+  </div>
+  <div class="statusbar" id="statusbar"></div>
+  <div class="maprail">
+    <div id="map"></div>
+    <div class="maphint" id="maphint">Tap a stop to open it</div>
+    <div class="overlay" id="alert"><div class="row">
+      <div class="txt"><div class="w">🔔 Story nearby</div><div class="n" id="alertn"></div></div>
+      <button class="play" id="alertplay">Play</button></div></div>
+  </div>
+  <div class="drawer" id="drawer">
+    <div class="handle" id="dhandle"></div>
+    <main id="main"></main>
+  </div>
+</div>
+
+<script>
+const R=6371000;
+const hav=(a,b)=>{const p1=a.lat*Math.PI/180,p2=b.lat*Math.PI/180,
+  dphi=(b.lat-a.lat)*Math.PI/180,dl=(b.lng-a.lng)*Math.PI/180,
+  x=Math.sin(dphi/2)**2+Math.cos(p1)*Math.cos(p2)*Math.sin(dl/2)**2;
+  return 2*R*Math.asin(Math.sqrt(x));};
+const fmtDist=m=>m<1000?`${Math.round(m)} m`:`${(m/1000).toFixed(1)} km`;
+const fmtMin =s=>`${Math.max(1,Math.round(s/60))} min`;
+const icon=(cls,html='')=>L.divIcon({className:'',html:`<div class="mk ${cls}">${html}</div>`,
+  iconSize:cls.includes('dot')||cls.includes('heard')?[11,11]:cls.includes('me')?[18,18]:[26,26],
+  iconAnchor:cls.includes('dot')||cls.includes('heard')?[5,5]:cls.includes('me')?[9,9]:[13,13]});
+const nearby=(c,seen,n=3)=>TOUR.filter(p=>p.slug!==(c&&c.slug)&&!seen.has(p.slug))
+  .map(p=>({...p,dist:hav(c,p)})).filter(p=>p.dist<=2000).sort((a,b)=>a.dist-b.dist).slice(0,n);
+
+// proximity thresholds (metres)
+const NEAR_M=70, ARRIVE_M=25;
+
+// transport icons (inline SVG, currentColor)
+const _svg=p=>`<svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true">${p}</svg>`;
+const ICON_PLAY =_svg('<path d="M8 5v14l11-7z"/>');
+const ICON_PAUSE=_svg('<path d="M6 5h4v14H6zM14 5h4v14h-4z"/>');
+const ICON_PREV =_svg('<path d="M7 5h2v14H7zm3.5 7 8.5 6V6z"/>');
+const ICON_NEXT =_svg('<path d="M15 5h2v14h-2zM5 6v12l8.5-6z"/>');
+
+let TOUR=[],heard=new Set(),current=null;
+let map,markers,routeLine,meMarker;
+let walk=false,watchId=null,me=null,alerted=new Set(),audioCtx=null,prev=null;
+let itinerary=[];      // ordered list of POIs on the route
+let player=null;       // the single active narrator {slug,...}; survives re-renders
+
+// The map is a fixed full-screen background; the story slides up as a bottom
+// drawer over it (three states: closed | peek | open) — the map never resizes.
+const PEEK_PX=90;
+function setDrawer(state){
+  const d=document.getElementById('drawer');
+  d.classList.toggle('open',state==='open');
+  d.classList.toggle('peek',state==='peek');
+}
+function openDrawer(on){ setDrawer(on?'open':'closed'); }
+function drawerInset(){
+  const d=document.getElementById('drawer');
+  if(d.classList.contains('open')) return d.offsetHeight;
+  if(d.classList.contains('peek')) return PEEK_PX;
+  return 0;
+}
+// Pan so the open stop sits in the strip of map still visible above the drawer.
+function focusCurrent(){
+  if(!current||!map) return;
+  const z=map.getZoom();
+  const p=map.project([current.lat,current.lng],z);
+  map.panTo(map.unproject([p.x, p.y + drawerInset()/2], z),{animate:true,duration:0.3});
+}
+
+const TOURMETA={title:"{{ tour_title|escapejs }}",where:"{{ tour_title|escapejs }}"};
+const TOUR_DATA={{ tour_json }};
+
+async function boot(){
+  TOUR=TOUR_DATA;
+  document.querySelector('h1').textContent=TOURMETA.title;
+  map=L.map('map',{zoomControl:false});
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
+    {maxZoom:20,attribution:'© OpenStreetMap · © CARTO'}).addTo(map);
+  markers=L.layerGroup().addTo(map);
+  // Tapping the map background closes the drawer (back to the full map).
+  map.on('click',()=>{ openDrawer(false); focusCurrent(); });
+  // Swipe the drawer (handle, or the story when scrolled to top) down to close it.
+  let dy0=null;
+  const down=e=>{ const d=e.changedTouches[0].clientY-dy0; if(d>45){ openDrawer(false); focusCurrent(); } dy0=null; };
+  const handleEl=document.getElementById('dhandle'), mainEl=document.getElementById('main');
+  handleEl.addEventListener('touchstart',e=>{dy0=e.touches[0].clientY;},{passive:true});
+  handleEl.addEventListener('touchend',down,{passive:true});
+  // Tap the handle to expand the peek to the full story (or shrink back).
+  handleEl.addEventListener('click',()=>{ const d=document.getElementById('drawer');
+    setDrawer(d.classList.contains('open')?'peek':'open'); focusCurrent(); });
+  mainEl.addEventListener('touchstart',e=>{ dy0=mainEl.scrollTop<=0?e.touches[0].clientY:null; },{passive:true});
+  mainEl.addEventListener('touchend',e=>{ if(dy0!=null) down(e); },{passive:true});
+  document.getElementById('walkbtn').onclick=toggleWalk;
+  document.getElementById('mp-play').onclick=()=>{ if(player){ player.toggle(); updateMini(player.slug,null);
+    if(current&&player.slug===current.slug) syncPlayUI(); } };
+  document.getElementById('mp-back').innerHTML=ICON_PREV;
+  document.getElementById('mp-fwd').innerHTML=ICON_NEXT;
+  document.getElementById('mp-back').onclick=playPrev;
+  document.getElementById('mp-fwd').onclick=playNext;
+  document.getElementById('mp-title').onclick=()=>{ if(player){ open(TOUR.find(p=>p.slug===player.slug)); } };
+  document.getElementById('alertplay').onclick=()=>{ if(alertTarget) arriveAt(alertTarget); hideAlert(); };
+  current=null; renderStory(); drawExplore();
+  openDrawer(false);                                    // start on the full map
+  setTimeout(()=>{ map.invalidateSize(); fitAll(); },120);
+}
+
+/* ---------------- browse mode (tap to route & travel) ---------------- */
+// Tapping a stop just OPENS it — shows its story with a ▶ and a 🧭 Route button.
+function open(target){
+  if(!target) return;
+  if(current && current.slug!==target.slug) prev=current;
+  current=target; heard.add(target.slug);
+  hideBanner(); openDrawer(true);   // slide the story drawer up over the map
+  renderStory(); drawExplore();     // route + audio persist across opens
+  requestAnimationFrame(focusCurrent);  // bring the stop into the visible strip
+}
+// Explicit "Route" action — walking directions to a stop from your location
+// (or, without GPS, from the previous stop you looked at).
+// Route origin: the live GPS fix if we have one, otherwise ask the device for
+// its location on demand (prompts for permission); fall back to the last stop.
+function originFor(){
+  return new Promise(resolve=>{
+    if(me) return resolve(me);
+    if(!navigator.geolocation) return resolve(prev);
+    navigator.geolocation.getCurrentPosition(
+      p=>{ me={lat:p.coords.latitude,lng:p.coords.longitude}; drawExplore(); resolve(me); },
+      ()=>resolve(prev),
+      {enableHighAccuracy:true,maximumAge:15000,timeout:12000});
+  });
+}
+// Add the current stop to the itinerary and (re)draw the whole multi-stop route.
+async function addToRoute(target){
+  const i=itinerary.findIndex(p=>p.slug===target.slug);
+  if(i>=0) itinerary.splice(i,1);   // tapping again removes it from the route
+  else itinerary.push(target);
+  renderStory();                    // refresh the button label (Add ↔ On route)
+  if(itinerary.length) setDrawer('peek');  // collapse FIRST so the fit uses the peek inset
+  await drawItineraryRoute();
+}
+// Build the route: your location (or the first stop) → each itinerary stop in order.
+async function drawItineraryRoute(){
+  clearRoute();
+  if(!itinerary.length){ drawExplore(); hideBanner(); return; }
+  const from = me || await originFor();
+  const pts = [ ...(from?[from]:[]), ...itinerary ];
+  banner(`Route · ${itinerary.length} stop${itinerary.length>1?'s':''}`,'finding route…');
+  let coords=[], dist=0, dur=0;
+  for(let k=0;k<pts.length-1;k++){
+    const a=pts[k], b=pts[k+1];
+    try{ const r=await (await fetch(`/api/route?from_lat=${a.lat}&from_lng=${a.lng}&to_lat=${b.lat}&to_lng=${b.lng}`)).json();
+      coords=coords.concat(r.coords); dist+=r.distance_m||0; dur+=r.duration_s||0;
+    }catch(e){ coords.push([a.lat,a.lng],[b.lat,b.lng]); dist+=hav(a,b); }
+  }
+  routeLine=L.polyline(coords,{color:'#3ea6ff',weight:5,opacity:.9,dashArray:'1 9',lineCap:'round'}).addTo(map);
+  drawPins();
+  banner(`Route · ${itinerary.length} stop${itinerary.length>1?'s':''}`,`${fmtDist(dist)} · ${fmtMin(dur)} walk`);
+  if(coords.length) map.fitBounds(coords,{paddingTopLeft:[40,54],paddingBottomRight:[40,drawerInset()+30],maxZoom:17});
+}
+
+/* ---------------- walk mode (GPS follows you) ---------------- */
+function toggleWalk(){
+  walk=!walk;
+  const b=document.getElementById('walkbtn');
+  b.classList.toggle('on',walk);
+  b.textContent = walk ? '⏹' : '🚶';
+  b.title = walk ? 'Stop walk mode' : 'Walk mode — use my location';
+  if(walk){
+    audioCtx=audioCtx||new (window.AudioContext||window.webkitAudioContext)(); audioCtx.resume&&audioCtx.resume();
+    alerted=new Set(); hideBanner();
+    hintWalk();
+    if(navigator.geolocation){
+      setProg('Waiting for your location… allow location access when prompted.');
+      watchId=navigator.geolocation.watchPosition(
+        p=>onPosition(p.coords.latitude,p.coords.longitude),
+        ()=>{ setProg('Location blocked. Allow location access for this site, then tap Start walk again.'); walk=false; document.getElementById('walkbtn').classList.remove('on'); document.getElementById('walkbtn').textContent='🚶'; },
+        {enableHighAccuracy:true,maximumAge:1000,timeout:15000});
+    } else setProg('This browser has no geolocation.');
+  }else{
+    if(watchId!=null){navigator.geolocation.clearWatch(watchId);watchId=null;}
+    hideAlert(); drawExplore();
+    setProg(`Stop ${heard.size+1} · ${TOUR.length} stories in this area`);
+  }
+}
+function hintWalk(){ setProg('Walk mode on — following your location. You’ll be alerted near a story.'); }
+
+function onPosition(lat,lng){
+  me={lat,lng};
+  drawWalk();
+  map.panTo([lat,lng],{animate:true});
+  checkProximity();
+}
+function checkProximity(){
+  const unheard=TOUR.filter(p=>!heard.has(p.slug)).map(p=>({p,d:hav(me,p)})).sort((a,b)=>a.d-b.d);
+  // forget alerts for stories we've walked away from (so re-approaching re-alerts)
+  for(const s of [...alerted]){ const p=TOUR.find(x=>x.slug===s); if(!p||hav(me,p)>NEAR_M*1.6) alerted.delete(s); }
+  if(!unheard.length) return;
+  const {p,d}=unheard[0];
+  if(d<=ARRIVE_M){ if(!player||player.slug!==p.slug||player.paused) arriveAt(p); hideAlert(); }
+  else if(d<=NEAR_M && !alerted.has(p.slug)){ alerted.add(p.slug); announce(p,d); }
+}
+let alertTarget=null;
+function announce(p,d){
+  alertTarget=p;
+  document.getElementById('alertn').textContent=`${p.title} · ${fmtDist(d)} away`;
+  show('alert'); chime(); navigator.vibrate&&navigator.vibrate([120,60,120]);
+}
+function arriveAt(p){
+  heard.add(p.slug); current=p; alerted.delete(p.slug);
+  openDrawer(true); renderStory(); togglePlay(p); chime();  // walk-up auto-plays
+  setProg(`Arrived · ${p.title}`);
+  drawWalk();
+}
+
+/* ---------------- rendering ---------------- */
+function renderStory(){
+  if(!current){
+    document.getElementById('main').innerHTML=
+      `<div class="done"><div style="font-size:30px">🗺️</div>
+       <p>Tap any stop on the map to open it.</p></div>`;
+    setProg(`${TOUR.length} stories around ${TOURMETA.where}`);
+    return;
+  }
+  setProg(current.title);
+  const html=current.story.split(/\n\n+/).map(p=>`<p>${p}</p>`).join('');
+  const onRoute=itinerary.some(p=>p.slug===current.slug);
+  const routeLbl=onRoute?'✓ On route':(itinerary.length?'➕ Add to route':'🧭 Route');
+  // suggested next stops: only while a route is active; nearest un-visited POIs,
+  // shown at the bottom with their snippet.
+  const sugg = itinerary.length ? nearby(current,new Set([...heard,...itinerary.map(p=>p.slug)]),4) : [];
+  const suggHtml=sugg.length?`
+    <div class="suggest"><div class="sh">Suggested next stops</div>
+      ${sugg.map(s=>`<button class="nextstop" onclick="open(TOUR.find(p=>p.slug==='${s.slug}'))">
+        <span class="ns-meta"><span class="ns-n">${s.title}</span><span class="ns-h">${s.snippet}</span></span>
+        <span class="ns-d">${fmtDist(s.dist)}</span></button>`).join('')}</div>`:'';
+  document.getElementById('main').innerHTML=`
+    <h2 class="stop-title">${current.title}</h2>
+    <p class="snippet">${current.snippet}</p>
+    <div class="player"><button class="play" id="playbtn">▶</button>
+      <div class="ptxt"><div class="t" id="ptt">Play the story</div><div class="bar"><i id="pbar"></i></div></div>
+      <button class="routebtn" id="routebtn">${routeLbl}</button></div>
+    <div class="story">${html}</div>
+    ${suggHtml}`;
+  syncPlayUI();
+  document.getElementById('playbtn').onclick=()=>togglePlay(current);
+  document.getElementById('routebtn').onclick=()=>addToRoute(current);
+}
+
+/* ---- single persistent audio player (survives opening other stops) ---- */
+function playingTitle(slug){ const p=TOUR.find(x=>x.slug===slug); return p?p.title:''; }
+function updateMini(slug,frac){
+  const mp=document.getElementById('miniplayer');
+  if(!player){ mp.classList.remove('on'); return; }
+  mp.classList.add('on');
+  document.getElementById('mp-play').innerHTML=player.paused?ICON_PLAY:ICON_PAUSE;
+  document.getElementById('mp-title').textContent=playingTitle(player.slug);
+  document.getElementById('mp-fwd').style.display=hasNextStop()?'':'none';   // FF only if a next stop exists
+  if(player.slug===slug && frac!=null) document.getElementById('mp-bar-i').style.width=(Math.max(0,Math.min(1,frac))*100)+'%';
+}
+function updatePlayUI(slug,label,frac){
+  updateMini(slug,frac);
+  if(!current||current.slug!==slug) return;  // in-drawer card is only the visible one
+  const btn=document.getElementById('playbtn'),bar=document.getElementById('pbar'),ptt=document.getElementById('ptt');
+  if(!btn) return;
+  if(label!=null) ptt.textContent=label;
+  if(frac!=null)  bar.style.width=(Math.max(0,Math.min(1,frac))*100)+'%';
+  btn.textContent=(player&&player.slug===slug&&!player.paused)?'⏸':'▶';
+}
+function syncPlayUI(){
+  updateMini(current?current.slug:null,null);
+  const btn=document.getElementById('playbtn'); if(!btn||!current) return;
+  const active=player&&player.slug===current.slug;
+  btn.textContent=(active&&!player.paused)?'⏸':'▶';
+  document.getElementById('ptt').textContent=
+    active ? (player.paused?'Paused':'Playing…') : (current.audio?'Play the story':'Play (device voice)');
+}
+function togglePlay(poi){
+  if(player&&player.slug===poi.slug){ player.toggle(); return; }
+  if(player) player.stop();          // starting new audio stops the old — the only thing that does
+  player=makeNarrator(poi,{
+    onplay:()=>updatePlayUI(poi.slug,'Playing…'),
+    onpause:()=>updatePlayUI(poi.slug,'Paused'),
+    onprogress:f=>updatePlayUI(poi.slug,null,f),
+    onended:()=>updatePlayUI(poi.slug,'Story finished',1),
+  });
+  player.slug=poi.slug; player.play();
+}
+// The transport only steps between stops when there's an active multi-stop
+// route (the itinerary containing the playing stop). Otherwise there is no
+// "next/previous stop" — just the single current story.
+function playOrder(){
+  if(player && itinerary.length>1 && itinerary.some(p=>p.slug===player.slug)) return itinerary;
+  return null;
+}
+function playIndex(){ const o=playOrder(); return o?o.findIndex(p=>p.slug===player.slug):-1; }
+function hasNextStop(){ const o=playOrder(),i=playIndex(); return !!o && i>=0 && i+1<o.length; }
+// Make a stop current and start its audio, without disturbing the drawer state.
+function goStop(poi){
+  current=poi; heard.add(poi.slug);
+  renderStory(); drawExplore(); focusCurrent();
+  togglePlay(poi);
+}
+function playNext(){ const o=playOrder(),i=playIndex(); if(o&&i>=0&&i+1<o.length) goStop(o[i+1]); }
+function playPrev(){
+  if(player && player.time()>2){ player.restart(); updateMini(player.slug,0); return; }  // restart current
+  const o=playOrder(),i=playIndex(); if(o&&i>0) goStop(o[i-1]); else if(player) player.restart();  // prev stop, or restart
+}
+
+/* Hybrid narrator: a colocated MP3 if the POI has one, else the browser reads
+   the story text aloud (SpeechSynthesis). Same interface either way. */
+function makeNarrator(poi, cb){
+  if(poi.audio){
+    const a=new Audio(poi.audio);
+    a.onplay=cb.onplay; a.onpause=cb.onpause; a.onended=cb.onended;
+    a.ontimeupdate=()=>a.duration&&cb.onprogress(a.currentTime/a.duration);
+    return { kind:'audio', play(){a.play().catch(()=>{});}, pause(){a.pause();},
+      toggle(){a.paused?this.play():this.pause();}, get paused(){return a.paused;},
+      time(){return a.currentTime||0;}, restart(){a.currentTime=0;a.play().catch(()=>{});},
+      stop(){a.pause();a.onended=null;a.src='';} };
+  }
+  const synth=window.speechSynthesis;
+  const CPS=15;                       // ~chars/sec, to estimate elapsed time
+  // Split into sentence-sized chunks and speak them as a queue. Android Chrome
+  // truncates a single long utterance (~15s), so short chunks are essential;
+  // it also lets us drive the progress bar without onboundary (unreliable there).
+  const full=(poi.title+'. '+poi.story);
+  const chunks=(full.match(/[^.!?]+[.!?]*\s*/g)||[full]).map(s=>s.trim()).filter(Boolean);
+  const total=chunks.reduce((n,c)=>n+c.length,0)||1;
+  const before=[]; { let a=0; for(const c of chunks){ before.push(a); a+=c.length; } }
+  let idx=0, started=false, playing=false;
+  function speakChunk(){
+    if(idx>=chunks.length){ started=false; playing=false; cb.onprogress(1); cb.onended(); return; }
+    const x=new SpeechSynthesisUtterance(chunks[idx]); x.lang='en-GB'; x.rate=0.98;
+    x.onend=()=>{ if(started&&playing){ idx++; cb.onprogress(before[Math.min(idx,chunks.length-1)]/total); speakChunk(); } };
+    synth.speak(x);
+  }
+  function start(from){ idx=from; started=true; playing=true; cb.onplay();
+    cb.onprogress(before[Math.min(idx,chunks.length-1)]/total);
+    synth.cancel(); setTimeout(()=>{ if(started&&playing) speakChunk(); },70); }  // Chrome cancel/speak race
+  return { kind:'tts',
+    play(){ if(!started){ start(0); } else { playing=true; synth.resume(); cb.onplay(); } },
+    pause(){ playing=false; synth.pause(); cb.onpause(); },
+    toggle(){ playing?this.pause():this.play(); },
+    time(){ return before[Math.min(idx,chunks.length-1)]/CPS; },
+    restart(){ start(0); },
+    get paused(){ return !playing; },
+    stop(){ started=false; playing=false; synth.cancel(); } };
+}
+
+// Draw every POI as a tappable dot; visited ones dimmed; the open stop = amber
+// star; and the live "you" dot when we have a GPS fix. The route line lives on
+// the map (not this layer) so redraws never remove it.
+function drawPins(){
+  markers.clearLayers();
+  const order=new Map(itinerary.map((p,i)=>[p.slug,i+1]));
+  TOUR.forEach(p=>{ if(current&&p.slug===current.slug)return;
+    const n=order.get(p.slug);
+    const ic = n?icon('mk-next',n):icon(heard.has(p.slug)?'mk-heard':'mk-dot');
+    L.marker([p.lat,p.lng],{icon:ic,zIndexOffset:n?500:0}).addTo(markers)
+      .on('click',()=>open(p)).bindTooltip(p.title,{direction:'top'});});
+  if(current){ const n=order.get(current.slug);
+    L.marker([current.lat,current.lng],{icon:icon('mk-cur',n||'★'),zIndexOffset:1000}).addTo(markers)
+      .on('click',()=>open(current)).bindTooltip(current.title,{direction:'top'}); }
+  if(me) meMarker=L.marker([me.lat,me.lng],{icon:icon('mk-me pulse','')}).addTo(markers).bindTooltip('You',{direction:'top'});
+}
+function clearRoute(){ if(routeLine){map.removeLayer(routeLine);routeLine=null;} }
+function drawExplore(){
+  if(walk) return drawWalk();
+  drawPins();  // keep the user's view and any active route — no auto-refit
+}
+function fitAll(){ if(TOUR.length) fit(TOUR.map(p=>[p.lat,p.lng])); }
+function drawWalk(){ drawPins(); }  // route persists across GPS updates
+function fit(pts){ if(pts&&pts.length){ map.fitBounds(pts,{padding:[46,46],maxZoom:17}); setTimeout(()=>map.invalidateSize(),0);} }
+
+/* ---------------- helpers ---------------- */
+function chime(){ try{ const a=audioCtx||new (window.AudioContext||window.webkitAudioContext)(); audioCtx=a;
+  [880,1175].forEach((f,i)=>{ const o=a.createOscillator(),g=a.createGain(); o.type='sine';o.frequency.value=f;
+    o.connect(g);g.connect(a.destination); const t=a.currentTime+i*0.16;
+    g.gain.setValueAtTime(0.0001,t); g.gain.exponentialRampToValueAtTime(0.25,t+0.02);
+    g.gain.exponentialRampToValueAtTime(0.0001,t+0.35); o.start(t); o.stop(t+0.36); }); }catch(e){} }
+function setProg(t){ document.getElementById('prog').textContent=t; }
+function show(id){ document.getElementById(id).style.display='block'; }
+function banner(w,d){ const s=document.getElementById('statusbar'); s.textContent=d?`${w} · ${d}`:w; s.classList.add('on'); }
+function hideBanner(){ const s=document.getElementById('statusbar'); s.textContent=''; s.classList.remove('on'); }
+function hideAlert(){document.getElementById('alert').style.display='none';}
+function restart(){heard=new Set();alerted=new Set();current=TOUR[0];renderStory();drawExplore();}
+
+// testing hook: ?at=lat,lng drops the walker at exact coords (no live GPS)
+boot().then(()=>{
+  const at=new URLSearchParams(location.search).get('at');
+  if(at){ const [la,ln]=at.split(',').map(Number); walk=true;
+    document.getElementById('walkbtn').classList.add('on');
+    document.getElementById('walkbtn').textContent='⏹';
+    hintWalk(); onPosition(la,ln); }
+});
+</script>
+</body>
+</html>

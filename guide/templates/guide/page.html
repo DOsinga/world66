@@ -27,9 +27,13 @@
 
 {% block sidebar %}
 <aside id="sidebar">
-  {% if sections or top_locations %}
+  {% comment %}Sections moved into the main column for location pages, where they
+  render at every width — so listing them here too showed them twice on mobile.
+  Other page types still need this list; the main column has no sections block
+  for them.{% endcomment %}
+  {% if sections and page.page_type != "location" or top_locations %}
   <nav class="sidebar-mobile-nav">
-    {% if sections %}
+    {% if sections and page.page_type != "location" %}
     <div class="sidebar-mobile-heading">Sections</div>
     <ul class="sidebar-mobile-list">
       {% for s in sections %}

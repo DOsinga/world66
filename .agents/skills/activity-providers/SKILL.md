@@ -146,14 +146,24 @@ New location pages need a hero image: query Wikimedia Commons, prefer landscape,
 
 ## 7. Outreach
 
-Regenerate the outreach file after adding providers:
+Give the new providers codes, QR files and drafts, and add them to the ledger:
 
 ```bash
-python3 tools/activity_outreach.py           # rebuild the CSV
-python3 tools/activity_outreach.py --emails  # draft the mails (needs W66_WHATSAPP)
+python3 tools/provider_qr.py --assign --qr   # outreach_code in frontmatter, static/qr/<CODE>.*
+python3 indexer.py --outreach-only           # so /qr/<CODE> resolves
+python3 tools/provider_qr.py --emails --index --ledger
+open build/outreach/index.html               # one Gmail compose window per provider
 ```
 
-It writes one row per company with a confirmation code. Confirmation works by the provider messaging **us** on WhatsApp with their code — not by click-tracking, because corporate mail scanners fetch every URL in an inbound message and would record confirmations nobody made.
+The mail carries two links and no attachment: the provider's highlight link
+(`?p=<CODE>`, which puts them first on their town's page) and `world66.ai/qr/<CODE>`,
+where they can print the QR. English first, then the same mail in the local
+language — Spanish, French and Dutch so far.
+
+`outreach/log.csv` is the record of who has been written to. See `outreach/README.md`.
+
+`tools/activity_outreach.py` is the superseded flow — a WhatsApp confirm-code
+scheme that predates this one. Don't run it; it writes a second, competing record.
 
 ## 7b. Official registers and awkward government sites
 

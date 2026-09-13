@@ -27,6 +27,8 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import csv
+import datetime
 import hashlib
 import random
 import re
@@ -46,6 +48,17 @@ DEFAULT_OUT = REPO / "build" / "outreach"
 # of PNG and SVG, which is cheaper to commit than to render per request.
 DEFAULT_QR_OUT = REPO / "static" / "qr"
 DEFAULT_BASE = "https://world66.ai"
+# Committed, so the record of who we have written to survives a cleared browser,
+# a second machine and a second person. The index page's tick boxes are a
+# convenience on top of this, not the record.
+LEDGER = REPO / "outreach" / "log.csv"
+LEDGER_FIELDS = [
+    "code", "provider", "country", "location", "email", "lang", "channel",
+    "sent_at", "bounced", "replied_at", "outcome", "notes",
+]
+# Columns a person fills in by hand. Syncing the ledger must never overwrite
+# these, only the ones derived from content.
+LEDGER_MANUAL = {"sent_at", "bounced", "replied_at", "outcome", "notes"}
 
 # No vowels and no 0/O/1/I: these get read aloud and typed by hand off paper.
 ALPHABET = "23456789BCDFGHJKLMNPQRSTVWXYZ"
@@ -331,16 +344,25 @@ INDEX_HEAD = """<!doctype html>
  .tick { margin-left: 12px; transform: scale(1.25); cursor: pointer; }
  .noemail li { margin-bottom: 5px; }
  code { background: rgba(128,128,128,.13); padding: 1px 5px; border-radius: 3px; font-size: 13px; }
+ .sent { color: var(--accent); font-weight: 600; }
+ .logbtn { background: none; border: 1px solid var(--line); color: var(--ink); cursor: pointer;
+           border-radius: 5px; padding: 7px 13px; font: inherit; font-size: 14px; }
+ .logbtn:hover { border-color: var(--accent); color: var(--accent); }
+ .logmsg { color: var(--dim); font-size: 13px; margin-left: 10px; }
 </style>
 <h1>Provider outreach</h1>
 <p class="lede">One click opens a Gmail compose window with the mail already written.
 Nothing to attach — the mail links each provider's QR page on world66.ai. The QR
-here is only so you can see what they will get. The tick is for your own
-bookkeeping; it is remembered in this browser.</p>
+here is only so you can see what they will get.</p>
+<p class="lede">Rows already in <code>outreach/log.csv</code> show as sent. For rows you
+tick here, press <b>Copy log rows</b> and paste them into that file — the ledger is
+the record; this browser's ticks are not.</p>
+<p><button class="logbtn" id="copylog">Copy log rows</button>
+<span class="logmsg" id="logmsg"></span></p>
 """
 
 
-def write_index(rows, no_email, out, account=None):
+def write_index(rows, no_email, out, account=None, sent=frozenset()):
     import base64
     from html import escape as e
 
@@ -365,14 +387,20 @@ def write_index(rows, no_email, out, account=None):
                 img = (f'<img src="data:image/png;base64,{data}" '
                        f'alt="QR code for {e(r["title"])}">')
             lang = f'<span class="lang">{r["lang"] or "en"}</span>'
+            was_sent = r["code"] in sent
+            stamp = (f' · <span class="sent">sent {e(r.get("sent_at") or "")}</span>'
+                     if was_sent else "")
             parts.append(
-                f'<div class="row" data-code="{e(r["code"])}">{img}'
+                f'<div class="row{" done" if was_sent else ""}" '
+                f'data-code="{e(r["code"])}" data-name="{e(r["title"])}" '
+                f'data-email="{e(r["email"])}">{img}'
                 f'<div><div class="name">{e(r["title"])}{lang}</div>'
                 f'<div class="meta">{e(r["email"])} · {e(r["location_name"])} · '
-                f'<code>{e(r["code"])}</code></div></div>'
+                f'<code>{e(r["code"])}</code>{stamp}</div></div>'
                 f'<div><a class="go" target="_blank" rel="noopener" '
                 f'href="{e(gmail_url(r, account))}">Compose</a>'
-                f'<input class="tick" type="checkbox"></div></div>'
+                f'<input class="tick" type="checkbox"'
+                f'{" checked" if was_sent else ""}></div></div>'
             )
 
     if no_email:
@@ -402,9 +430,98 @@ document.querySelectorAll('.row').forEach(row => {
     box.checked = true; box.dispatchEvent(new Event('change'));
   });
 });
+
+// Pour the browser's ticks into the committed ledger. Only rows that are ticked
+// but carry no sent date yet — re-pasting cannot rewrite a date already recorded.
+document.getElementById('copylog')?.addEventListener('click', async () => {
+  const today = new Date().toISOString().slice(0, 10);
+  const lines = [];
+  document.querySelectorAll('.row').forEach(row => {
+    const box = row.querySelector('.tick');
+    if (!box || !box.checked || row.querySelector('.sent')) return;
+    lines.push([row.dataset.code, row.dataset.name, row.dataset.email, today].join(','));
+  });
+  const msg = document.getElementById('logmsg');
+  if (!lines.length) { msg.textContent = 'nothing new ticked'; return; }
+  const text = lines.join('\n');
+  try {
+    await navigator.clipboard.writeText(text);
+    msg.textContent = lines.length + ' row(s) copied — code,provider,email,sent_at';
+  } catch (e) {
+    msg.textContent = 'copy failed; see the console';
+    console.log(text);
+  }
+});
 </script>
 """)
     out.write_text("\n".join(parts) + "\n", encoding="utf-8")
+
+
+
+def load_ledger(path=LEDGER):
+    """code -> row. Missing file is an empty ledger, not an error."""
+    if not Path(path).is_file():
+        return {}
+    with open(path, newline="", encoding="utf-8") as f:
+        return {r["code"]: r for r in csv.DictReader(f) if r.get("code")}
+
+
+def save_ledger(rows, path=LEDGER):
+    path = Path(path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=LEDGER_FIELDS)
+        w.writeheader()
+        for code in sorted(rows, key=lambda c: (rows[c].get("country", ""),
+                                                rows[c].get("provider", "").casefold())):
+            w.writerow({k: rows[code].get(k, "") for k in LEDGER_FIELDS})
+
+
+def sync_ledger(provider_rows, path=LEDGER):
+    """Add a row per provider, refresh the derived columns, keep the hand-written
+    ones. A provider whose page is deleted keeps its row: we still wrote to them."""
+    ledger = load_ledger(path)
+    added = 0
+    for r in provider_rows:
+        row = ledger.get(r["code"])
+        if row is None:
+            row = {k: "" for k in LEDGER_FIELDS}
+            added += 1
+        row.update({
+            "code": r["code"],
+            "provider": r["title"],
+            "country": r["country"],
+            "location": r["location"],
+            "email": r["email"],
+            "lang": r["lang"] or "en",
+            # How we can reach them at all. No email means a contact form by hand.
+            "channel": "email" if r["email"] else ("website" if r["url"] else "none"),
+        })
+        if not r["email"] and r["url"] and not row.get("notes"):
+            row["notes"] = r["url"]
+        ledger[r["code"]] = row
+    save_ledger(ledger, path)
+    return ledger, added
+
+
+def mark_sent(ledger, when, only="", path=LEDGER):
+    """Stamp sent_at on mailable rows that do not already carry one.
+
+    Never re-stamps: a row with a date stays at that date, so running this twice
+    cannot rewrite history.
+    """
+    n = 0
+    for code, row in ledger.items():
+        if row.get("channel") != "email" or row.get("sent_at"):
+            continue
+        if only and only.lower() not in (
+            f'{row.get("provider","")} {row.get("location","")} {row.get("country","")}'.lower()
+        ):
+            continue
+        row["sent_at"] = when
+        n += 1
+    save_ledger(ledger, path)
+    return n
 
 
 def main():
@@ -423,10 +540,19 @@ def main():
                     help="QR files, served as static assets")
     ap.add_argument("--base", default=DEFAULT_BASE)
     ap.add_argument("--country", default="", help="limit to a content path fragment")
+    ap.add_argument("--ledger", action="store_true",
+                    help="sync outreach/log.csv with the providers that have codes")
+    ap.add_argument("--mark-sent", nargs="?", const="today", default="",
+                    metavar="YYYY-MM-DD",
+                    help="stamp sent_at on mailable rows that have none (implies --ledger)")
     args = ap.parse_args()
 
-    if not (args.assign or args.qr or args.emails or args.index):
-        ap.error("nothing to do — pass --assign, --qr, --emails and/or --index")
+    if not (args.assign or args.qr or args.emails or args.index
+            or args.ledger or args.mark_sent):
+        ap.error("nothing to do — pass --assign, --qr, --emails, --index, "
+                 "--ledger and/or --mark-sent")
+    if args.mark_sent:
+        args.ledger = True
     if args.index:
         args.qr = True   # the page embeds the QR images
     qr_out = Path(args.qr_out)
@@ -515,12 +641,28 @@ def main():
             for r in no_email:
                 print(f"  {r['title']}  {r['url'] or '(no website either)'}  -> {r['link']}")
 
+    if args.ledger:
+        ledger, added = sync_ledger(rows)
+        print(f"ledger: {len(ledger)} rows ({added} new) -> "
+              f"{LEDGER.relative_to(REPO)}")
+        if args.mark_sent:
+            when = (str(datetime.date.today()) if args.mark_sent == "today"
+                    else args.mark_sent)
+            n = mark_sent(ledger, when, args.country)
+            already = sum(1 for r in ledger.values() if r.get("sent_at"))
+            print(f"marked {n} sent on {when} ({already} sent in total)")
+
     if args.index:
         index = Path(args.out) / "index.html"
         with_email = [r for r in rows if r["email"]]
+        book = load_ledger()
+        sent = {c for c, r in book.items() if r.get("sent_at")}
+        for r in rows:
+            r["sent_at"] = book.get(r["code"], {}).get("sent_at", "")
         write_index(with_email, [r for r in rows if not r["email"]], index,
-                    args.gmail_account)
-        print(f"wrote {index} — {len(with_email)} compose links")
+                    args.gmail_account, sent)
+        print(f"wrote {index} — {len(with_email)} compose links, "
+              f"{len(sent & {r['code'] for r in rows})} already sent")
 
     print(f"\n{len(rows)} provider{'s' if len(rows) != 1 else ''} with codes.")
     return 0

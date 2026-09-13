@@ -1116,3 +1116,31 @@ def find_similar_with_match_grouped(path, k=3):
         return [], []
     finally:
         conn.close()
+
+
+@lru_cache(maxsize=1)
+def load_outreach_codes():
+    """code -> (content path, url path, title), from the table indexer.py builds.
+
+    A code is six characters and names nothing, so resolving one means either a
+    lookup table or a walk of the whole tree — and the walk is 135k files, some
+    twenty seconds. The table is built where that walk already happens.
+    """
+    if not SEARCH_DB.is_file():
+        return {}
+    conn = sqlite3.connect(f"file:{SEARCH_DB}?mode=ro", uri=True)
+    try:
+        rows = conn.execute(
+            "SELECT code, path, url_path, title FROM outreach_codes"
+        ).fetchall()
+    except sqlite3.OperationalError:
+        return {}   # search.db predates the table; reindex to populate it
+    finally:
+        conn.close()
+    return {row[0]: (row[1], row[2], row[3]) for row in rows}
+
+
+def load_provider_by_code(code):
+    """The provider a printed code belongs to, or None."""
+    entry = load_outreach_codes().get(str(code or "").strip().upper())
+    return load_page(entry[1]) if entry else None

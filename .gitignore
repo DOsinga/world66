@@ -33,5 +33,7 @@ design/
 /docs/brainstorms/
 /docs/plans/
 
-# generated provider QR codes (tools/provider_qr.py --qr)
+# outreach drafts and the compose index (tools/provider_qr.py --emails --index).
+# The QR files themselves live in static/qr and ARE committed: they are served
+# as ordinary static assets, so nothing has to render them at request time.
 build/

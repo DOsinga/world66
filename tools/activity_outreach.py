@@ -1,5 +1,13 @@
 #!/usr/bin/env python3
-"""Build the activity-provider outreach list, with a WhatsApp confirmation link.
+"""SUPERSEDED by tools/provider_qr.py — do not run this.
+
+It implements an earlier outreach design: a confirmation code the provider sends
+back over WhatsApp. The live flow instead gives each provider a highlight link
+and a hosted QR page, and records what was sent in outreach/log.csv. Running
+this writes tools/activity_outreach.csv, a second and competing record of who
+has been contacted. Kept only so the older CSV stays readable.
+
+Build the activity-provider outreach list, with a WhatsApp confirmation link.
 
 Scans content/ for `commercial: true` POIs and writes tools/activity_outreach.csv:
 one row per provider, with the contact routes we hold and a per-provider

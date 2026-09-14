@@ -5,6 +5,7 @@ loc_type: city
 latitude: -14.441389
 longitude: -67.527778
 country: Bolivia
+score: 6.1
 image: rurrenabaque.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Rurrenabaque_vista_panoramica.JPG"
 image_license: "CC BY-SA 4.0"

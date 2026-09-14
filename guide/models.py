@@ -215,6 +215,9 @@ class Page:
         "diving": "Diving",
         "cruise": "Cruises",
         "paragliding": "Paragliding",
+        "salt_flat_tours": "Salt flat tours",
+        "mountaineering": "Mountaineering",
+        "cycling": "Cycling",
     }
 
     @property

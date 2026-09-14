@@ -218,6 +218,8 @@ class Page:
         "salt_flat_tours": "Salt flat tours",
         "mountaineering": "Mountaineering",
         "cycling": "Cycling",
+        "kayaking": "Kayaking",
+        "stargazing": "Stargazing",
     }
 
     @property

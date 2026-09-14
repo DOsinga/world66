@@ -214,6 +214,7 @@ class Page:
         "canyoning": "Canyoning",
         "diving": "Diving",
         "cruise": "Cruises",
+        "paragliding": "Paragliding",
     }
 
     @property

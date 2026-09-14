@@ -56,10 +56,6 @@ LEDGER_FIELDS = [
     "code", "provider", "country", "location", "email", "lang", "channel",
     "sent_at", "bounced", "replied_at", "outcome", "notes",
 ]
-# Columns a person fills in by hand. Syncing the ledger must never overwrite
-# these, only the ones derived from content.
-LEDGER_MANUAL = {"sent_at", "bounced", "replied_at", "outcome", "notes"}
-
 # No vowels and no 0/O/1/I: these get read aloud and typed by hand off paper.
 ALPHABET = "23456789BCDFGHJKLMNPQRSTVWXYZ"
 CODE_LEN = 6
@@ -345,20 +341,13 @@ INDEX_HEAD = """<!doctype html>
  .noemail li { margin-bottom: 5px; }
  code { background: rgba(128,128,128,.13); padding: 1px 5px; border-radius: 3px; font-size: 13px; }
  .sent { color: var(--accent); font-weight: 600; }
- .logbtn { background: none; border: 1px solid var(--line); color: var(--ink); cursor: pointer;
-           border-radius: 5px; padding: 7px 13px; font: inherit; font-size: 14px; }
- .logbtn:hover { border-color: var(--accent); color: var(--accent); }
- .logmsg { color: var(--dim); font-size: 13px; margin-left: 10px; }
 </style>
 <h1>Provider outreach</h1>
 <p class="lede">One click opens a Gmail compose window with the mail already written.
 Nothing to attach — the mail links each provider's QR page on world66.ai. The QR
 here is only so you can see what they will get.</p>
-<p class="lede">Rows already in <code>outreach/log.csv</code> show as sent. For rows you
-tick here, press <b>Copy log rows</b> and paste them into that file — the ledger is
-the record; this browser's ticks are not.</p>
-<p><button class="logbtn" id="copylog">Copy log rows</button>
-<span class="logmsg" id="logmsg"></span></p>
+<p class="lede">Rows already in <code>outreach/log.csv</code> show as sent. Tick boxes
+only track progress in this browser; record completed batches in the ledger.</p>
 """
 
 
@@ -392,8 +381,7 @@ def write_index(rows, no_email, out, account=None, sent=frozenset()):
                      if was_sent else "")
             parts.append(
                 f'<div class="row{" done" if was_sent else ""}" '
-                f'data-code="{e(r["code"])}" data-name="{e(r["title"])}" '
-                f'data-email="{e(r["email"])}">{img}'
+                f'data-code="{e(r["code"])}">{img}'
                 f'<div><div class="name">{e(r["title"])}{lang}</div>'
                 f'<div class="meta">{e(r["email"])} · {e(r["location_name"])} · '
                 f'<code>{e(r["code"])}</code>{stamp}</div></div>'
@@ -431,27 +419,6 @@ document.querySelectorAll('.row').forEach(row => {
   });
 });
 
-// Pour the browser's ticks into the committed ledger. Only rows that are ticked
-// but carry no sent date yet — re-pasting cannot rewrite a date already recorded.
-document.getElementById('copylog')?.addEventListener('click', async () => {
-  const today = new Date().toISOString().slice(0, 10);
-  const lines = [];
-  document.querySelectorAll('.row').forEach(row => {
-    const box = row.querySelector('.tick');
-    if (!box || !box.checked || row.querySelector('.sent')) return;
-    lines.push([row.dataset.code, row.dataset.name, row.dataset.email, today].join(','));
-  });
-  const msg = document.getElementById('logmsg');
-  if (!lines.length) { msg.textContent = 'nothing new ticked'; return; }
-  const text = lines.join('\n');
-  try {
-    await navigator.clipboard.writeText(text);
-    msg.textContent = lines.length + ' row(s) copied — code,provider,email,sent_at';
-  } catch (e) {
-    msg.textContent = 'copy failed; see the console';
-    console.log(text);
-  }
-});
 </script>
 """)
     out.write_text("\n".join(parts) + "\n", encoding="utf-8")

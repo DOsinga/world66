@@ -28,8 +28,15 @@ open build/outreach/index.html
 ```
 
 Rows already carrying a `sent_at` show as sent on that page whatever browser it
-opens in. For rows you tick there, **Copy log rows** puts
-`code,provider,email,sent_at` on the clipboard to paste in here.
+opens in. The page's tick boxes remain a local progress marker. After sending a
+whole batch, stamp it with `--mark-sent`; for a partial batch, fill in `sent_at`
+for those rows by hand.
+
+Limit a batch with `--country`:
+
+```bash
+python3 tools/provider_qr.py --country suriname --mark-sent
+```
 
 `--mark-sent` never re-stamps a row that already has a date, so running it twice
 cannot rewrite history. `--ledger` never touches the hand-written columns.

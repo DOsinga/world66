@@ -211,6 +211,9 @@ class Page:
         "scenic_flights": "Scenic flights",
         "rafting": "Rafting",
         "restaurant": "Restaurants",
+        "canyoning": "Canyoning",
+        "diving": "Diving",
+        "cruise": "Cruises",
     }
 
     @property

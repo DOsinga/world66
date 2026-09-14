@@ -4206,6 +4206,9 @@ img { max-width: 100%; height: auto; }
 .svc[data-activity="diving"]      { --act: #1f6b8c; }
 .svc[data-activity="cruise"]      { --act: #45617f; }
 .svc[data-activity="paragliding"] { --act: #8a5a7a; }
+.svc[data-activity="salt_flat_tours"] { --act: #6f7f92; }
+.svc[data-activity="mountaineering"] { --act: #5b6f7d; }
+.svc[data-activity="cycling"]      { --act: #9a5f3c; }
 
 .svc-panel {
   margin-top: 18px;
@@ -4478,6 +4481,9 @@ img { max-width: 100%; height: auto; }
 .svc-filter-btn[data-activity="diving"]      { --act: #1f6b8c; }
 .svc-filter-btn[data-activity="cruise"]      { --act: #45617f; }
 .svc-filter-btn[data-activity="paragliding"] { --act: #8a5a7a; }
+.svc-filter-btn[data-activity="salt_flat_tours"] { --act: #6f7f92; }
+.svc-filter-btn[data-activity="mountaineering"] { --act: #5b6f7d; }
+.svc-filter-btn[data-activity="cycling"]      { --act: #9a5f3c; }
 .svc-filter-btn:hover {
   background: color-mix(in srgb, var(--act) 20%, var(--paper));
 }

@@ -13,4 +13,4 @@ The markets are the other half of it. [Mercado Florida](/southamerica/bolivia/sa
 
 Lunch is the main meal and the kitchens know it. Many of the best places are quiet in the evening and full at one in the afternoon.
 
-For a drink rather than a meal, [Aviator Wings & Beer](/southamerica/bolivia/santacruz/aviator) on Avenida Marcelo Terceros does wings and burgers late, and **Santa Cruz Beer Station** is the live-music and karaoke option that turns up on every gringo's list — we have not been able to pin its address, so ask locally.
+For a drink rather than a meal, [Aviator Wings & Beer](/southamerica/bolivia/santacruz/aviator) on Avenida Marcelo Terceros does wings and burgers late, and [Santa Cruz Beer Station](/southamerica/bolivia/santacruz/santa_cruz_beer_station) on Calle 7 Oeste is the live-music and karaoke option, open until two every night.

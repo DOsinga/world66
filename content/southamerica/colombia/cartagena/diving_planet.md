@@ -3,6 +3,7 @@ commercial: true
 email: info@divingplanet.org
 latitude: 10.4281145
 longitude: -75.5475833
+outreach_code: J2QJSN
 score: 6.6
 snippet: Thirty-year-old dive centre on the Plaza de San Diego, contactable by WhatsApp
   only

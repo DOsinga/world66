@@ -3,6 +3,7 @@ commercial: true
 email: tours@turismopaisajeaustral.cl
 latitude: -53.1618655
 longitude: -70.9117862
+outreach_code: RKF23Q
 phone: +56 9 7879 1803
 score: 6.4
 snippet: Fagnano street agency running the Punta Arenas day trips, Fuerte Bulnes at

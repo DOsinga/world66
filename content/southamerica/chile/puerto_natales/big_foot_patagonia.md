@@ -3,6 +3,7 @@ commercial: true
 email: reserva@bigfootpatagonia.com
 latitude: -51.724961
 longitude: -72.5114218
+outreach_code: BLKJXW
 phone: +56 61 414276
 score: 6.7
 snippet: The only outfit licensed to kayak and ice-trek on Glaciar Grey, 195,000 and

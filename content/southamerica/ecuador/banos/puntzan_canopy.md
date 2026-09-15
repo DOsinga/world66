@@ -3,6 +3,7 @@ commercial: true
 email: puntzancanopy@hotmail.com
 latitude: -1.4111925
 longitude: -78.4097694
+outreach_code: 7JG3BV
 phone: +593 98 324 6553
 score: 6.3
 snippet: Canopy, canyoning and Tibetan bridges on the Runtún road, half a day from

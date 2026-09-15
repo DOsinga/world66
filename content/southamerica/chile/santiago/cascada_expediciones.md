@@ -2,6 +2,7 @@
 commercial: true
 latitude: -33.415106
 longitude: -70.5968469
+outreach_code: LPLR8L
 score: 6.4
 snippet: Santiago operator since 1991, runs EcoCamp Patagonia and sells the whole
   country

@@ -3,6 +3,7 @@ commercial: true
 email: reservas@soloexpediciones.com
 latitude: -53.1642801
 longitude: -70.9105736
+outreach_code: ZDC74L
 phone: +56 22 213 2429
 score: 6.8
 snippet: Zodiac and catamaran to the Isla Magdalena penguin colony, plus whale kayaking

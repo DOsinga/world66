@@ -3,6 +3,7 @@ commercial: true
 email: bookings@beyondcolombia.com
 latitude: 4.6008069
 longitude: -74.0679957
+outreach_code: 5GRNV4
 phone: +57 322 898 8557
 score: 6.4
 snippet: Free walking tours in five Colombian cities, one company with an RNT in each

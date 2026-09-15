@@ -3,6 +3,7 @@ commercial: true
 email: info@kasaguadua.com
 latitude: 4.6293119
 longitude: -75.5894458
+outreach_code: MNYF54
 score: 6.3
 snippet: A private cloud-forest reserve above Salento, two-hour guided ecotour for
   COP 50,000

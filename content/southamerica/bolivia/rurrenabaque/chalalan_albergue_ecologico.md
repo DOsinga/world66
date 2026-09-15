@@ -3,6 +3,7 @@ commercial: true
 email: info@chalalan.com
 latitude: -14.4414369
 longitude: -67.5302233
+outreach_code: Z36HR5
 phone: +591 79501972
 score: 6.8
 snippet: The Quechua-Tacana community's own lodge on the Tuichi, deep inside Madidi

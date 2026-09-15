@@ -2,6 +2,7 @@
 commercial: true
 latitude: -0.2001131
 longitude: -78.4863252
+outreach_code: TF5QST
 phone: +593 2 252 3736
 score: 6.8
 snippet: Community-owned lodge inside Yasuní, registered as a centro de turismo comunitario

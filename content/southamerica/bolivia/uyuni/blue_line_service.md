@@ -3,6 +3,7 @@ commercial: true
 email: reservas@salardeuyunitour.com
 latitude: -20.4628
 longitude: -66.8239
+outreach_code: 6CFP5K
 phone: +591 72411117
 score: 5.7
 snippet: Uyuni operator trading since 2011, selling the Tunupa volcano as well as

@@ -3,6 +3,7 @@ commercial: true
 email: hola@pinguineraschiloe.cl
 latitude: -41.9299748
 longitude: -74.0357394
+outreach_code: GZM2R5
 phone: +56 9 8317 4302
 score: 7.4
 snippet: Boat trips to the Islotes de Puñihuil, the only mixed Humboldt and Magellanic

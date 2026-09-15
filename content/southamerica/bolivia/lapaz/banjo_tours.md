@@ -2,6 +2,7 @@
 commercial: true
 latitude: -16.5085609
 longitude: -68.1297874
+outreach_code: PL3TPN
 phone: +591 63234554
 score: 6.2
 snippet: Sopocachi operator selling the whole country, with a separate 24-hour emergency

@@ -3,6 +3,7 @@ commercial: true
 email: sales@geotoursbanios.com
 latitude: -1.3975029
 longitude: -78.4232003
+outreach_code: 2JJZHW
 phone: +593 99 543 3293
 score: 6.6
 snippet: Baños' oldest adventure agency, trading on the corner of Ambato and Halflants

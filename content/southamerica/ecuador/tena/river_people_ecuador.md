@@ -3,6 +3,7 @@ commercial: true
 email: riverpeople03@hotmail.com
 latitude: -0.9199726
 longitude: -77.8270693
+outreach_code: LLNJH5
 phone: +593 99 234 9333
 score: 6.7
 snippet: Tena rafting outfit with a full published price list, from $75 for a day

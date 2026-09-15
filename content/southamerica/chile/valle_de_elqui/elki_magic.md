@@ -3,6 +3,7 @@ commercial: true
 email: info@elkimagic.com
 latitude: -30.031282
 longitude: -70.7132598
+outreach_code: GR4LJ3
 phone: +56 9 6877 2015
 score: 6.4
 snippet: Elqui astronomy tour at 22,000 pesos, plus bike descents from Pisco Elqui

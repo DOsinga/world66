@@ -3,6 +3,7 @@ commercial: true
 email: info@discoveringbolivia.com
 latitude: -18.1787379
 longitude: -63.8755009
+outreach_code: PC5X9Z
 phone: +591 3 944 6227
 score: 6.4
 snippet: Samaipata naturalist guiding — birds, Amboró, El Fuerte — run by Michael

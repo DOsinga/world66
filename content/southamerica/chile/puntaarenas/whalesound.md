@@ -3,6 +3,7 @@ commercial: true
 email: info@whalesound.com
 latitude: -53.1572715
 longitude: -70.8992588
+outreach_code: PKXMBT
 phone: +56 9 9887 9814
 score: 7.1
 snippet: Thirty years of humpback research in the Francisco Coloane park, run from

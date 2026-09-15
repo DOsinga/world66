@@ -3,6 +3,7 @@ commercial: true
 email: colombiaraftingsangil@gmail.com
 latitude: 6.5522666
 longitude: -73.1297125
+outreach_code: SBFZHX
 phone: +57 315 444 5532
 score: 6.6
 snippet: Rafting specialists on Carrera 10, from the gentle Fonce to the class V Suárez

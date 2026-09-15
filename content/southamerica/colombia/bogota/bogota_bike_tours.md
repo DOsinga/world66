@@ -2,6 +2,7 @@
 commercial: true
 latitude: 4.5964857
 longitude: -74.0715498
+outreach_code: YXD7QL
 phone: +57 312 502 0554
 score: 6.2
 snippet: Bicycles out of La Candelaria, the city seen at the speed Bogotá is actually

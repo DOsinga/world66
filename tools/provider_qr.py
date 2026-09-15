@@ -83,10 +83,14 @@ def existing_codes():
 
 
 def make_code(seed, taken):
-    """Deterministic first, then random — so a rerun is stable but collisions resolve."""
+    """Deterministic first, then random — so a rerun is stable but collisions resolve.
+
+    An all-digit code is rejected: YAML reads a bare 897229 as an integer, and a
+    code that looks like an order number is harder to read aloud as a code.
+    """
     digest = hashlib.sha256(seed.encode("utf-8")).digest()
     code = "".join(ALPHABET[b % len(ALPHABET)] for b in digest[:CODE_LEN])
-    while code in taken:
+    while code in taken or code.isdigit():
         code = "".join(random.choice(ALPHABET) for _ in range(CODE_LEN))
     return code
 
@@ -106,7 +110,12 @@ def link_for(base, rel, code):
 LANG_BY_PATH = {
     "/france/": "fr",
     "/suriname/": "nl",
+    # Spanish-speaking South America. Guyana is English and gets no second half.
     "/peru/": "es",
+    "/ecuador/": "es",
+    "/colombia/": "es",
+    "/bolivia/": "es",
+    "/chile/": "es",
 }
 
 

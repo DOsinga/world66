@@ -3,6 +3,7 @@ commercial: true
 email: reservas@magictourcolombia.com
 latitude: 11.2432007
 longitude: -74.2109143
+outreach_code: FZZ9N7
 phone: +57 300 239 4612
 score: 6.6
 snippet: Ciudad Perdida, Tayrona and Minca from a Calle 17 office, with four labelled

@@ -3,6 +3,7 @@ commercial: true
 email: diverscartagena@gmail.com
 latitude: 10.4235186
 longitude: -75.551059
+outreach_code: R9WTL5
 phone: +57 312 619 9370
 score: 5.9
 snippet: Two dives off Barú for COP 460,000, daily, from a shop that publishes no

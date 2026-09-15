@@ -3,6 +3,7 @@ commercial: true
 email: info@sachatamia.com
 latitude: -0.0129692
 longitude: -78.7444704
+outreach_code: XJR58D
 phone: +593 2 361 5476
 score: 6.5
 snippet: Cloud-forest lodge on the Mindo road with feeders, trails and a resident

@@ -3,6 +3,7 @@ commercial: true
 email: info@ecomapu.com
 latitude: -33.0355403
 longitude: -71.6342245
+outreach_code: 95KBRX
 phone: +56 9 9355 6748
 score: 6.2
 snippet: Valparaíso community-tourism operator, nine themed walks including the funiculars

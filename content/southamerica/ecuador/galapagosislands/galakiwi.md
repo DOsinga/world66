@@ -3,6 +3,7 @@ commercial: true
 email: info@galakiwi.com
 latitude: -0.9018255
 longitude: -89.6118718
+outreach_code: 99PKT7
 phone: +593 99 770 1833
 score: 6.5
 snippet: San Cristóbal outfit built around land-based island hopping rather than a

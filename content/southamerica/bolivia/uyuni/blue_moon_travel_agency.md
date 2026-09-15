@@ -2,6 +2,7 @@
 commercial: true
 latitude: -20.4641224
 longitude: -66.8223497
+outreach_code: J647CC
 phone: +591 64387575
 score: 5.8
 snippet: Small Ferroviaria agency selling the salt flat and answering on WhatsApp

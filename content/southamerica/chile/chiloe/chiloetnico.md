@@ -3,6 +3,7 @@ commercial: true
 email: info@chiloetnico.cl
 latitude: -42.40332
 longitude: -73.77226
+outreach_code: 2TP45Y
 phone: +56 9 6849 2618
 score: 7.6
 snippet: Castro operator with a full published tariff — churches, Tantauco, Chepu

@@ -3,6 +3,7 @@ commercial: true
 email: magdalenaraftinghuila@gmail.com
 latitude: 1.8796351
 longitude: -76.2720205
+outreach_code: GVLLJY
 phone: +57 311 271 5333
 score: 6.1
 snippet: Rafting the upper Magdalena where it leaves the Estrecho, from a house on

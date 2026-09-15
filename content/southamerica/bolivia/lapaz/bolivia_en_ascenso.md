@@ -3,6 +3,7 @@ commercial: true
 email: info@boliviaenascenso.com
 latitude: -16.4955
 longitude: -68.1336
+outreach_code: PFWXNW
 phone: +591 75285795
 score: 6.2
 snippet: Spanish-language Cordillera Real outfit with a published guide roster and

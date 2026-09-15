@@ -3,6 +3,7 @@ commercial: true
 email: infocomapa@comapa.cl
 latitude: -53.16222
 longitude: -70.90685
+outreach_code: YP3VLM
 phone: +56 61 2 200 206
 score: 6.7
 snippet: The big Magallanes operator, Isla Magdalena by catamaran from 102,000 pesos

@@ -2,6 +2,7 @@
 commercial: true
 latitude: -20.4628
 longitude: -66.8239
+outreach_code: PVRYYV
 phone: +591 76974976
 score: 5.5
 snippet: The overnight La Paz–Uyuni sleeper bus, $49 in a full-flat bed, booked online

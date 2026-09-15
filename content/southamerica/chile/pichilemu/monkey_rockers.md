@@ -2,6 +2,7 @@
 commercial: true
 latitude: -34.4280224
 longitude: -72.0397117
+outreach_code: RPNYK4
 score: 6.3
 snippet: Family surf, skate and climbing school at Punta de Lobos, bookings by WhatsApp
   only

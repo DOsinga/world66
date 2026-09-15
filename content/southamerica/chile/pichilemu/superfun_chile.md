@@ -3,6 +3,7 @@ commercial: true
 email: superfunchile@gmail.com
 latitude: -34.39327
 longitude: -72.0223842
+outreach_code: FYJX9T
 phone: +56 9 3141 9717
 score: 6.4
 snippet: Surf guiding and rock climbing out of Infiernillo, trading since 2013, no

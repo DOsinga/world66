@@ -2,6 +2,7 @@
 commercial: true
 latitude: -27.1497351
 longitude: -109.4291457
+outreach_code: ZPJZFD
 score: 6.4
 snippet: Seven-day ACA sea-kayak certification off the Rapa Nui cliffs, 990,000 pesos
   all in

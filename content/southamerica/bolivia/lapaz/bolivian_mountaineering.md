@@ -3,6 +3,7 @@ commercial: true
 email: pedro@bolivianmountaineering.com
 latitude: -16.4993303
 longitude: -68.1368007
+outreach_code: MZ2MJ8
 phone: +591 75263820
 score: 6.6
 snippet: Pedro Luis's outfit off Sagárnaga, using only certified guides, answering

@@ -3,6 +3,7 @@ commercial: true
 email: balsasurfcamp@gmail.com
 latitude: -1.8281651
 longitude: -80.7529065
+outreach_code: YHJ7ZR
 phone: +593 4 206 0075
 score: 6.4
 snippet: Surf school and camp at La Punta, the quiet end of Montañita, run since before

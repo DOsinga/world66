@@ -3,6 +3,7 @@ commercial: true
 email: ecuadorrafting@gmail.com
 latitude: -0.8436963
 longitude: -77.7954453
+outreach_code: 6RMCL2
 phone: +593 98 715 9956
 score: 6.0
 snippet: Rafting out of Cotundo, upriver of Tena, where the Jatunyacu runs

@@ -3,6 +3,7 @@ commercial: true
 email: info@santuarioexpediciones.com
 latitude: -34.4794406
 longitude: -72.0142299
+outreach_code: QGS3HR
 score: 6.7
 snippet: Kayaking the Cáhuil wetland for birds, where a third of Chile's wetland bird
   species live

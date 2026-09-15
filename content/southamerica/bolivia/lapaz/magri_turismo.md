@@ -3,6 +3,7 @@ commercial: true
 email: info@magriturismo.com
 latitude: -16.5054283
 longitude: -68.1275686
+outreach_code: QTXGWK
 phone: +591 2 244 2727
 score: 6.3
 snippet: One of Bolivia's oldest agencies, three offices, and not a mobile number

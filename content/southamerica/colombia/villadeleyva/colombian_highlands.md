@@ -3,6 +3,7 @@ commercial: true
 email: info@colombianhighlands.com
 latitude: 5.6412113
 longitude: -73.5130419
+outreach_code: RK93N7
 score: 6.0
 snippet: Boyacá walking, caving and fossil country out of a finca on the edge of Villa
   de Leyva

@@ -2,6 +2,7 @@
 commercial: true
 latitude: 6.3396526
 longitude: -75.6079131
+outreach_code: DFHF7T
 phone: +57 301 535 8330
 score: 6.3
 snippet: Paragliding over the Aburrá valley from San Félix, flights from COP 220,000

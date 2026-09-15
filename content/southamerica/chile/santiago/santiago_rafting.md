@@ -2,6 +2,7 @@
 commercial: true
 latitude: -33.5942162
 longitude: -70.4894396
+outreach_code: YYWSCX
 score: 6.2
 snippet: Maipo rafting an hour from Santiago, 9 km for 30,000 pesos or 12 km for 45,000
 tags:

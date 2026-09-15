@@ -3,6 +3,7 @@ commercial: true
 email: mashaquipe@hotmail.com
 latitude: -14.441389
 longitude: -67.527778
+outreach_code: F6223M
 phone: +591 71986880
 score: 6.4
 snippet: Rurrenabaque operator running both the Madidi jungle and the Beni pampas,

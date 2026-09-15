@@ -3,6 +3,7 @@ commercial: true
 email: reservas@aventuratotal.com.co
 latitude: 6.5553871
 longitude: -73.1268433
+outreach_code: FXJ5QM
 phone: +57 318 777 7737
 score: 6.2
 snippet: Rafting, caving and canyoning from a shopfront opposite the San Gil malecón

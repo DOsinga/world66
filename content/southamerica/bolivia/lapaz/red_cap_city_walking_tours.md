@@ -2,6 +2,7 @@
 commercial: true
 latitude: -16.4955
 longitude: -68.1336
+outreach_code: NJG3VT
 score: 6.3
 snippet: Free-walking-tour outfit doing the old town daily, contactable only by WhatsApp
 tags:

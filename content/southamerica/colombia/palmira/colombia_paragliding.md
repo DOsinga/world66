@@ -3,6 +3,7 @@ commercial: true
 email: info@colombiaparagliding.com
 latitude: 3.6829185
 longitude: -76.3071487
+outreach_code: 85ZL2Y
 phone: +57 312 432 6266
 score: 6.0
 snippet: Paragliding school on the old Palmira road, moved from Santander to the Valle

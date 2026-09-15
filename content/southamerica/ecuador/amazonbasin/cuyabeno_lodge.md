@@ -3,6 +3,7 @@ commercial: true
 email: info@cuyabenolodge.com.ec
 latitude: -0.2028999
 longitude: -78.4910536
+outreach_code: 2KJTXB
 phone: +593 96 925 7630
 score: 6.5
 snippet: The first lodge on the Cuyabeno lagoons, four days from $279 in the dormitory

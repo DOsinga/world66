@@ -3,6 +3,7 @@ commercial: true
 email: info@altitudealliance.travel
 latitude: -16.497617
 longitude: -68.1312927
+outreach_code: FPQBSV
 score: 6.4
 snippet: Full-country operator inside the Wild Rover, and Bolivia's cheapest published
   Death Road at $70

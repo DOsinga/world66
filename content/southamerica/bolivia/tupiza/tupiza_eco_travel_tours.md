@@ -3,6 +3,7 @@ commercial: true
 email: info@tupizaecotravel.com
 latitude: -21.4450382
 longitude: -65.7171398
+outreach_code: 9T9YZT
 phone: +591 73850846
 score: 5.9
 snippet: Tupiza operator on Pedro Arraya, bilingual site, bookings by form and WhatsApp

@@ -3,6 +3,7 @@ commercial: true
 email: reservas@tourspuntaarenas.com
 latitude: -53.1506844
 longitude: -70.8870008
+outreach_code: QMWK5L
 phone: +56 61 2210260
 score: 6.0
 snippet: Playa Norte agency covering Magallanes, with the Fiordo de Agostini glacier

@@ -3,6 +3,7 @@ commercial: true
 email: vulcanochile@gmail.com
 latitude: -22.9115476
 longitude: -68.2082443
+outreach_code: JFWCXQ
 score: 6.6
 snippet: Guided volcano ascents from San Pedro, Cerro Toco at 80,000 pesos including
   4x4 transfer

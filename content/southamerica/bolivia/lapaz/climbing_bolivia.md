@@ -3,6 +3,7 @@ commercial: true
 email: contact@climbingbolivia.com
 latitude: -16.4979682
 longitude: -68.1381537
+outreach_code: TD6KJR
 phone: +591 71911154
 score: 6.1
 snippet: Old-school Linares agency climbing the Cordillera Real and the western volcanoes

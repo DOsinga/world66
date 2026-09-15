@@ -3,6 +3,7 @@ commercial: true
 email: tour@turismopichilemu.cl
 latitude: -34.3862792
 longitude: -72.0061233
+outreach_code: JDFV8K
 phone: +56 9 7200 6283
 score: 6.0
 snippet: The town's general agency, registered for cycling, hiking and birdwatching

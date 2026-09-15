@@ -3,6 +3,7 @@ commercial: true
 email: info@hidalgotours.com
 latitude: -19.590395
 longitude: -65.7508269
+outreach_code: KG87FS
 phone: +591 71722973
 score: 6.5
 snippet: Potosí's established operator, offices in Potosí and Uyuni, trading as Hidalgo

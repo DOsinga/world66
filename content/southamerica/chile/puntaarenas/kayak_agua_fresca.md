@@ -3,6 +3,7 @@ commercial: true
 email: cristiankayakaguafresca@gmail.com
 latitude: -53.1641612
 longitude: -70.9057491
+outreach_code: GSS4F4
 phone: +56 9 7230 7841
 score: 6.6
 snippet: Sea kayaking on the Strait of Magellan, and the only operator here putting

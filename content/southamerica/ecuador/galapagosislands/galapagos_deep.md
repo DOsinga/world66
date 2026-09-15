@@ -2,6 +2,7 @@
 commercial: true
 latitude: -0.7471674
 longitude: -90.3134198
+outreach_code: 3BWSFP
 phone: +593 98 128 5047
 score: 5.9
 snippet: Diving, kayaking and fishing off both Santa Cruz and San Cristóbal, under

@@ -3,6 +3,7 @@ commercial: true
 email: info@turismo21demayo.cl
 latitude: -51.7264751
 longitude: -72.5042016
+outreach_code: R8BV7M
 phone: +56 61 2614420
 score: 6.5
 snippet: Family firm sailing the Última Esperanza fiord to the Balmaceda and Serrano

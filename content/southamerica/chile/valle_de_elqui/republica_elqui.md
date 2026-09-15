@@ -2,6 +2,7 @@
 commercial: true
 latitude: -30.0342335
 longitude: -70.7119776
+outreach_code: Z22ZRJ
 score: 6.1
 snippet: Vicuña walking and trekking outfit, guided hill routes from 10,000 pesos
 tags:

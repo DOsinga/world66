@@ -3,6 +3,7 @@ commercial: true
 email: info@aguaventura.com
 latitude: -39.2752283
 longitude: -71.9739958
+outreach_code: 25VRRC
 phone: +56 45 244 4246
 score: 6.5
 snippet: Villarrica ascents at 150,000 pesos, plus ski touring on the volcano and

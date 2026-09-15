@@ -3,6 +3,7 @@ commercial: true
 email: reservas@academybaydiving.com
 latitude: -0.747282
 longitude: -90.3133768
+outreach_code: 95SS9P
 phone: +593 5 252 4164
 score: 6.6
 snippet: Family-run Santa Cruz dive shop with a fixed weekly site rotation, day trips

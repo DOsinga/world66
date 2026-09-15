@@ -3,6 +3,7 @@ commercial: true
 email: oasisbolivia@gmail.com
 latitude: -20.4632068
 longitude: -66.8231336
+outreach_code: XGFWV7
 phone: +591 72871717
 score: 6.5
 snippet: Uyuni-born operator with offices in Uyuni, Sucre and La Paz, opposite the

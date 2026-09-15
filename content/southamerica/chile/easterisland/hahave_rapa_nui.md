@@ -3,6 +3,7 @@ commercial: true
 email: hahaverapanui@gmail.com
 latitude: -27.1480262
 longitude: -109.4274494
+outreach_code: RN2BMN
 phone: +56 9 4096 5105
 score: 6.6
 snippet: Hanga Roa agency with Rapa Nui guides, fixed rates, and the island's one

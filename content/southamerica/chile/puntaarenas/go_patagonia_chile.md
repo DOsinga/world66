@@ -3,6 +3,7 @@ commercial: true
 email: info@gopatagoniachile.cl
 latitude: -53.1630145
 longitude: -70.9052116
+outreach_code: 85WZS4
 phone: +56 61 2 371074
 score: 6.3
 snippet: Punta Arenas trekking operator, registered for excursionismo, three routes

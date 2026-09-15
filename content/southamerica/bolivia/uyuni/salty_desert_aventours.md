@@ -3,6 +3,7 @@ commercial: true
 email: uyunisaltydesert@hotmail.com
 latitude: -20.4641224
 longitude: -66.8223497
+outreach_code: 2T59VW
 phone: +591 72370444
 score: 6.0
 snippet: Ferroviaria agency selling private and shared salt-flat and coloured-lagoon

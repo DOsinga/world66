@@ -3,6 +3,7 @@ commercial: true
 email: ventas@runatupari.com
 latitude: 0.2295329
 longitude: -78.2620835
+outreach_code: P7TJL7
 phone: +593 98 831 0534
 score: 6.4
 snippet: Community tourism agency out of Otavalo, running the Intag valley and the

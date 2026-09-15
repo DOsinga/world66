@@ -3,6 +3,7 @@ commercial: true
 email: tours@chiloenatural.com
 latitude: -42.3788575
 longitude: -73.6481248
+outreach_code: ZVW3CQ
 phone: +56 9 6319 7388
 score: 7.8
 snippet: FEDETUR's 2025 adventure operator of the year, running Tantauco, Puñihuil

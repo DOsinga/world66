@@ -2,6 +2,7 @@
 commercial: true
 latitude: -17.7834
 longitude: -63.1821
+outreach_code: P2PC6T
 score: 5.9
 snippet: Spanish-language operator covering the whole country, Chiquitania missions
   included

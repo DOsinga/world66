@@ -3,6 +3,7 @@ commercial: true
 email: info@cartagenaconnections.com
 latitude: 10.4235186
 longitude: -75.551059
+outreach_code: TZYYKR
 phone: +57 317 333 7959
 score: 6.0
 snippet: Bazurto market, street food and street art on foot, from a Cartagena agency

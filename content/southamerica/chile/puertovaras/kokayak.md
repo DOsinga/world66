@@ -2,6 +2,7 @@
 commercial: true
 latitude: -41.2081735
 longitude: -72.5384395
+outreach_code: FCJ87Y
 phone: +56 9 9310 5272
 score: 6.3
 snippet: Sea kayaking on the Reloncaví fiord and Petrohué rafting, from a base at

@@ -3,6 +3,7 @@ commercial: true
 email: info@transturin.com
 latitude: -16.529294
 longitude: -68.0689999
+outreach_code: PGGLY4
 phone: +591 2 242 2222
 score: 6.2
 snippet: Titicaca catamaran operator, and the La Paz–Uyuni–Cusco circuit in one package

@@ -3,6 +3,7 @@ commercial: true
 email: info@spaceobs.com
 latitude: -22.9527222
 longitude: -68.1801944
+outreach_code: GKX2TB
 score: 6.9
 snippet: Alain Maury's observatory south of town, running the same star tour since
   2003 for 45,000 pesos

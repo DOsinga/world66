@@ -3,6 +3,7 @@ commercial: true
 email: info@rapanuitravel.com
 latitude: -27.15306
 longitude: -109.4265264
+outreach_code: CBS65G
 phone: +56 9 8184 3064
 score: 6.3
 snippet: Long-standing Hanga Roa tour operator on Tu'u Koihu, one number for phone

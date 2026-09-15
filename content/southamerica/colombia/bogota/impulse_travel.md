@@ -3,6 +3,7 @@ commercial: true
 email: info@impulsetravel.co
 latitude: 4.663001
 longitude: -74.0805017
+outreach_code: LHHDP7
 phone: +57 601 914 3928
 score: 6.5
 snippet: Bogotá operator selling the conflict, the peace process and the food, not

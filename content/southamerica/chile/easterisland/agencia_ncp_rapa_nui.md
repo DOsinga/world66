@@ -2,6 +2,7 @@
 commercial: true
 latitude: -27.1481172
 longitude: -109.427344
+outreach_code: 2RSQDG
 phone: +56 9 8976 1307
 score: 6.8
 snippet: Rapa Nui-owned agency with island guides, half-day tours at 50,000 pesos

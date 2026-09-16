@@ -8,10 +8,15 @@ tags:
 latitude: 12.1717
 longitude: -68.2937
 snippet: "One of the oldest marine reserves in the world"
-story: "Established in 1979, the marine park was the first such reserve in the Caribbean and one of the first anywhere. Every diver and snorkeller pays an annual nature tag fee that funds the rangers, the mooring buoys, and the reef-health surveys. The fee is also why the corals are still in better shape than almost anywhere else in the basin."
+story: "Bonaire created the marine park in 1979 and later put its management in the hands of STINAPA. Its boundary follows the island's entire coast and also surrounds Klein Bonaire, making protection part of nearly every swim, snorkel, and dive rather than a distant reserve reached only by boat."
 score: 9.4
+sources:
+  - https://stinapabonaire.org/bonaire-national-marine-park/
+  - https://bonaireisland.com/experiences/diving/
 ---
 
-The marine park covers the entire coastline of Bonaire and Klein Bonaire from the high-water mark down to 60 metres. There are around 90 named dive sites, most marked by yellow stones at the shore and accessible without a boat — you walk in with your tank, swim 20 metres to the edge of the drop-off, and descend the wall.
+The marine park surrounds Bonaire and Klein Bonaire, protecting coral reef, seagrass, mangroves, and open water from the high-water mark down to 60 metres. More than 85 named dive sites sit inside it, many reached from shore and marked by yellow stones beside the coastal road.
 
-The variety on the reef is exceptional: brain corals, gorgonians, sponges of half a dozen colours, sea turtles, queen angelfish, the occasional eagle ray. The water is reliably warm (26–28 °C) and visibility usually exceeds 30 metres. Beginners should book a refresher with one of the dive shops on the waterfront before tackling shore dives alone — most sites require a 100 metre swim before any reef is visible.
+That easy access is Bonaire's great advantage, but entries vary sharply. Some are gentle beaches; others involve ironshore, surge, current, or a tiring surface swim. New divers should take a local orientation and start at a forgiving site. Snorkellers also need to watch entry conditions and boat traffic rather than assuming every yellow stone marks an easy swim.
+
+Everyone using the protected water must follow the current nature-fee rules. Never touch or stand on coral, secure loose gauges, and use existing sandy channels instead of making a new path across the reef. The park is not scenery around the holiday; it is the reason the diving exists.

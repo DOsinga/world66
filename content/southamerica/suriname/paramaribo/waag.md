@@ -1,7 +1,7 @@
 ---
 title: "De Waag"
 type: poi
-snippet: "17th-century wooden weigh house on the Waterkant"
+snippet: Historic riverside weigh house that once controlled the measurement of colonial trade goods
 tags:
   - things_to_do
   - sight
@@ -11,6 +11,6 @@ longitude: -55.1542
 score: 6.9
 ---
 
-The Waag — the former colonial weigh house — is one of the most photographed buildings in Paramaribo. A small, symmetrical wooden structure painted white, it stands on the Waterkant embankment exactly as it has since the 18th century, when all imported goods were weighed here before being traded. The building is now a restaurant and cafe, but the exterior retains its original character entirely.
+De Waag is the former weigh house on the Waterkant, where goods entering the colonial port were measured before trade. The compact white building is a useful marker of how commerce, taxation, and the river shaped the city.
 
-The Waag is a useful landmark for orienting yourself in the historic centre and a pleasant place to stop for a cold Parbo beer on the terrace overlooking the Suriname River. The setting — old Dutch colonial architecture, the wide brown river, the tropical light — captures something essential about Paramaribo that photographs rarely quite do justice to.
+Its hospitality business and opening status have changed over time, so come for the architecture rather than relying on it for a drink or meal.

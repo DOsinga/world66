@@ -25,6 +25,8 @@ Checks:
   broken_link              markdown link to /<path> doesn't resolve  [report]
   bloglist_entries         type=bloglist blogs: entry is malformed    [report]
   bloglist_contacts        featured blog missing from outreach file   [report]
+  commercial_poi           commercial: true POI missing contact/tags  [report]
+  activity_providers       activities providers: path doesn't resolve  [report]
 
 Exits non-zero if any unfixable blocking issues remain after fixes are
 applied. Checks listed in WARNING_CHECKS are reported but do not fail the
@@ -698,6 +700,85 @@ def check_bloglist_contacts(pages: list[Page]) -> list[Issue]:
     return issues
 
 
+def check_commercial_poi(pages: list[Page]) -> list[Issue]:
+    """Bookable activity providers are only useful if a reader can reach them.
+
+    Also guards the WhatsApp number format: it is written only for providers
+    that actually advertise WhatsApp, never derived from a phone number, so a
+    malformed one means somebody guessed.
+    """
+    issues = []
+    for p in pages:
+        # The whatsapp format guard applies to any page carrying the field,
+        # not just providers — a bad number is a bad number either way.
+        raw_wa = p.meta.get("whatsapp")
+        if raw_wa is not None:
+            if isinstance(raw_wa, (int, float)):
+                issues.append(Issue(
+                    path=p.path, check="commercial_poi",
+                    message=f"whatsapp {raw_wa} must be quoted, or YAML eats the leading +",
+                ))
+            else:
+                wa = str(raw_wa).strip()
+                digits = "".join(c for c in wa.replace("(0)", "") if c.isdigit())
+                if not wa.startswith("+") or not 8 <= len(digits) <= 15 or digits.startswith("0"):
+                    issues.append(Issue(
+                        path=p.path, check="commercial_poi",
+                        message=f"whatsapp {wa!r} is not an international +<digits> number",
+                    ))
+        if not p.meta.get("commercial"):
+            continue
+        if p.page_type != "poi":
+            issues.append(Issue(
+                path=p.path, check="commercial_poi",
+                message=f"commercial: true on type={p.page_type}, expected poi",
+            ))
+        if not any(p.meta.get(k) for k in ("whatsapp", "phone", "email", "url")):
+            issues.append(Issue(
+                path=p.path, check="commercial_poi",
+                message="commercial POI with no whatsapp/phone/email/url to book through",
+            ))
+        raw_tags = p.meta.get("tags") or []
+        if isinstance(raw_tags, str):
+            tags = [t.strip() for t in raw_tags.split(",") if t.strip()]
+        else:
+            tags = raw_tags
+        if "activities" not in tags:
+            issues.append(Issue(
+                path=p.path, check="commercial_poi",
+                message="commercial POI not tagged 'activities' (won't appear in a section)",
+            ))
+    return issues
+
+
+def check_activity_providers(pages: list[Page]) -> list[Issue]:
+    """A location names its providers by path in activities.md. A typo there
+    means the provider silently vanishes from the panel rather than erroring."""
+    issues = []
+    for p in pages:
+        entries = p.meta.get("providers")
+        if not entries:
+            continue
+        if not isinstance(entries, list):
+            issues.append(Issue(path=p.path, check="activity_providers",
+                                message="providers: is not a list"))
+            continue
+        for entry in entries:
+            prov = entry.get("path", "") if isinstance(entry, dict) else entry
+            prov = str(prov or "").strip()
+            if not prov:
+                issues.append(Issue(path=p.path, check="activity_providers",
+                                    message="providers: entry with no path"))
+                continue
+            target = CONTENT_DIR / f"{prov}.md"
+            if not target.is_file():
+                issues.append(Issue(
+                    path=p.path, check="activity_providers",
+                    message=f"providers: {prov} does not resolve",
+                ))
+    return issues
+
+
 CHECKS = [
     check_md_inside_own_dir,
     check_missing_loc_type,
@@ -714,6 +795,8 @@ CHECKS = [
     check_broken_links,
     check_bloglist_entries,
     check_bloglist_contacts,
+    check_commercial_poi,
+    check_activity_providers,
 ]
 
 # Checks that report but do not fail the build. Used to introduce a new rule

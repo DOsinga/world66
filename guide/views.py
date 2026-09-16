@@ -17,7 +17,8 @@ from .models import (
     CONTENT_DIR, DIMENSION_FIELDS, DIMENSION_LABELS, NAV_TYPES,
     build_city_tag_index, dimension_percentile, find_dimension_alternatives,
     find_similar_with_match_grouped, find_tagged_pois, find_locations_tagged,
-    load_page, load_page_from_revision, load_tag_index, resolve_tag_route, _find_city_path,
+    load_page, load_page_from_revision, load_outreach_codes, load_provider_by_code,
+    load_tag_index, resolve_tag_route, _find_city_path,
 )
 
 SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
@@ -354,6 +355,34 @@ def _country_title(page):
     return country.title if country else ""
 
 
+
+def provider_qr(request, code):
+    """The landing page a provider reaches from their outreach mail.
+
+    Shows the link that puts them first on their town's page, and the QR that
+    encodes it, ready to print. The QR files are built once into static/qr by
+    tools/provider_qr.py rather than rendered per request — 53 providers is
+    about 80 KB, and a static file needs no Python at all.
+    """
+    code = str(code or "").strip().upper()
+    entry = load_outreach_codes().get(code)
+    if not entry:
+        raise Http404
+    provider = load_provider_by_code(code)
+    if not provider:
+        raise Http404
+
+    location_path = entry[1].rsplit("/", 1)[0]
+    location = load_page(location_path)
+    return render(request, "guide/provider_qr.html", {
+        "provider": provider,
+        "location": location,
+        "location_path": location_path,
+        "code": code,
+        "highlight_url": request.build_absolute_uri(f"/{location_path}?p={code}"),
+    })
+
+
 def location_or_section(request, path):
     branch = request.GET.get("branch")
     if branch:
@@ -629,6 +658,96 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     # A location shows the bloglists sitting in its own directory as a
     # "Further Reading" callout — the way in to the pages above.
     location_bloglists = page.find_bloglists() if page.page_type == "location" else []
+    # Providers panel under the sidebar map: the bookable activities in this
+    # town. WhatsApp first, because that is the channel we are pitching, then
+    # by score. Capped so the sticky sidebar stays inside the viewport — the
+    # activities section page carries the full list.
+    # A provider's own QR code / referral link: ?p=CODE highlights them and
+    # hides their direct competitors, so the page they point customers at leads
+    # with them rather than with whoever happens to score highest.
+    highlight_code = (request.GET.get("p") or "").strip().upper()
+    highlighted_provider = None
+
+    PROVIDER_PANEL_MAX = 5
+    location_providers = []
+    location_providers_all = []
+    provider_categories = []
+    providers_on_whatsapp = False
+    provider_count = 0
+    if page.page_type == "location":
+        found = [p for p in pois if p.is_commercial]
+        # A location can also name providers that live elsewhere — the capital's
+        # tour operators sell trips to the whole country, so listing them once
+        # per place they serve meant six copies of the same company. The
+        # activities section names them, resolved like linked_locations:, with
+        # an optional note so the copy stays specific to this place.
+        _seen = {p.path for p in found}
+        _act = next((n for n in nav_pages if n.slug == "activities"), None)
+        for entry in (_act.meta.get("providers") if _act else None) or []:
+            if isinstance(entry, dict):
+                prov_path, prov_note = entry.get("path", ""), entry.get("note", "")
+            else:
+                prov_path, prov_note = entry, ""
+            if not prov_path or prov_path in _seen:
+                continue
+            prov = (load_page_from_revision(prov_path, source_ref, url_revision=url_revision)
+                    if source_ref else load_page(prov_path))
+            if not prov or not prov.is_commercial:
+                continue
+            prov.panel_note = prov_note
+            _seen.add(prov.path)
+            found.append(prov)
+        found.sort(key=lambda p: (
+            not p.whatsapp_link,
+            -_safe_float(p.meta.get("score")) if p.meta.get("score") else 0,
+            p.title.casefold(),
+        ))
+        if highlight_code:
+            match = next(
+                (p for p in found if p.outreach_code and p.outreach_code == highlight_code),
+                None,
+            )
+            if match:
+                highlighted_provider = match
+                match.is_highlighted = True
+                # Hide only their direct competitors — same activity, someone
+                # else's page. Other categories still serve the reader.
+                found = [
+                    p for p in found
+                    if p.path == match.path or p.activity_kind != match.activity_kind
+                ]
+                found.sort(key=lambda p: p.path != match.path)
+
+        provider_count = len(found)
+        location_providers = found[:PROVIDER_PANEL_MAX]
+        # The dialog carries every provider; the panel shows the first few.
+        location_providers_all = found
+        # Filter chips for the dialog, biggest category first. Pointless with
+        # only one category, which is most towns.
+        _cats = {}
+        for prov in found:
+            c = _cats.setdefault(prov.activity_kind, {
+                "kind": prov.activity_kind, "label": prov.activity_label, "count": 0,
+            })
+            c["count"] += 1
+        if len(_cats) > 1:
+            provider_categories = sorted(
+                _cats.values(), key=lambda c: (-c["count"], c["label"])
+            )
+        # Only promise WhatsApp when a shown provider actually offers it.
+        providers_on_whatsapp = any(p.whatsapp_link for p in location_providers)
+
+    # Commercial providers appear only in the panel above. Filtering happens
+    # here, after the panel and the markers have been built from the full set,
+    # so hiding them from lists doesn't empty the panel too. An activities
+    # section keeps its intro text and simply lists nothing.
+    pois = [p for p in pois if not p.is_commercial]
+    if inline_sections:
+        inline_sections = [
+            {**item, "pois": [p for p in item["pois"] if not p.is_commercial]}
+            for item in inline_sections
+        ]
+    poi_categories = [c for c in poi_categories if c] if poi_categories else poi_categories
 
     breadcrumbs = page.breadcrumbs()
     dimension_rows, score_verdict, similar_in_country = _score_profile_context(page, parent)
@@ -676,6 +795,12 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "url_prefix": page.url_prefix,
         "blog_entries": blog_entries,
         "location_bloglists": location_bloglists,
+        "location_providers": location_providers,
+        "highlighted_provider": highlighted_provider,
+        "location_providers_all": location_providers_all,
+        "provider_categories": provider_categories,
+        "providers_on_whatsapp": providers_on_whatsapp,
+        "provider_count": provider_count,
     })
 
 

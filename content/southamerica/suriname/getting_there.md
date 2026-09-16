@@ -1,28 +1,27 @@
 ---
 title: "Getting There"
 type: section
+sources:
+  - https://gov.sr/ministeries/ministerie-van-buitenlandse-zaken-internationale-handel-samenwerking/reizen-naar-suriname/
+  - https://www.gov.uk/foreign-travel-advice/suriname/entry-requirements
 ---
 
 ## By Air
 
-Johan Adolf Pengel International Airport (IATA: PBM), locally known as Zanderij, is the main international gateway, located 45 km south of Paramaribo. The drive into the city takes around 45 minutes to an hour depending on traffic.
+Johan Adolf Pengel International Airport (PBM), usually called Zanderij, is the main international gateway, about 45 km south of [Paramaribo](/southamerica/suriname/paramaribo). Allow roughly an hour for the drive into town and arrange a transfer before landing if you arrive late.
 
-KLM operates direct flights from Amsterdam (about 9–10 hours). Surinam Airways also flies to Amsterdam as well as Miami, Georgetown (Guyana), Cayenne (French Guiana), Belém (Brazil), and Panama City. TUI fly Netherlands operates seasonal charter flights from the Netherlands.
-
-From the United States, the most practical route is via Miami on Surinam Airways, or via Amsterdam on KLM. From elsewhere in South America, connections through Belém, Bogotá, or Panama are common.
-
-A departure tax is included in most ticket prices but worth confirming when booking.
+Amsterdam is the main long-haul gateway. Regional connections change often, so check the airport and airline schedules rather than building a trip around an old route list.
 
 ## Entry Requirements
 
-Most nationalities from Europe and North America, including the Netherlands, United States, Canada, and the United Kingdom, no longer require a visa for stays up to 90 days. You will need a valid passport with at least six months' validity and proof of onward travel. A mandatory entry fee must be paid online before departure — check the official Suriname government immigration portal for the current amount and process.
+Many travellers can visit for tourism without a visa but must pay the Suriname **Entry Fee** online before departure. The rules depend on your passport, and all passengers must also complete the Immigration and Customs Form shortly before travel. Use the Surinamese government's entry page for the current process; unofficial visa sites are easy to mistake for the real one.
 
-If you are arriving from a country with yellow fever risk, proof of yellow fever vaccination is required. This is strictly enforced.
+Your passport generally needs at least six months' validity on arrival. A yellow-fever certificate is required when arriving from, or making a long transit through, a country with a transmission risk. Confirm the exact rule for your route before flying.
 
 ## By Road
 
-The coastal road connects Paramaribo with the Guyanese border at Springlands/Nickerie to the west (crossing the Corantijn River by ferry) and with the French Guiana border at Albina/Saint-Laurent-du-Maroni to the east (crossing the Marowijne River by ferry). Both crossings operate daily. Road conditions on the Guyanese side are variable.
+The coastal road reaches Guyana via the Canawaima ferry at South Drain and French Guiana via the Marowijne crossing between Albina and Saint-Laurent-du-Maroni. These are border crossings, not turn-up-and-go city ferries: check the current departure days, immigration requirements, and last connection before setting out.
 
 ## By River
 
-Regular ferry services cross the Suriname River and Marowijne River to French Guiana. The Albina–Saint-Laurent-du-Maroni crossing is a short hop and is used frequently by travellers moving along the Guiana Shield coast.
+Small boats also cross between Albina and Saint-Laurent, but use the official crossing and complete immigration formalities on both sides.

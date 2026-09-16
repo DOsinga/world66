@@ -1,13 +1,15 @@
 ---
 title: "Food"
 type: section
+sources:
+  - https://suriname.travel/paramaribo/
 ---
 
 Surinamese food is one of the best arguments for visiting the country. The cuisine reflects the country's extraordinary ethnic mix, drawing on Hindustani, Javanese, Creole, Chinese, and Amerindian traditions, often in the same meal.
 
-**Roti** is the Hindustani staple and widely considered the national dish. A salted flatbread wrapped around curry chicken or duck, potato, and string beans — it is filling, cheap, and available at almost every warungs. Get it in Paramaribo at a roadside stall rather than a tourist restaurant.
+**Roti** pairs a soft flatbread with curried chicken, duck, or vegetables, potato, and long beans. Tear the bread and eat with your hand if that is how it is served. It is filling, inexpensive, and one of the easiest meals to seek out in Paramaribo.
 
-**Warungs** are casual Javanese food stalls serving noodles (bami), fried rice (nasi), and grilled meats with peanut sauce. Pisang goreng (fried banana) and fried cassava (teloh) appear as sides. These places are some of the most enjoyable eating in the country: cheap, unfussy, and delicious.
+**Warungs** are casual Javanese eateries serving bami, nasi, saoto soup, grilled meats, and fried snacks. They are among the most enjoyable places to eat: cheap, direct, and built for repeat customers rather than spectacle.
 
 **Pom** is the Creole party dish — a bake made with tayer (a root vegetable) mixed with chicken, citrus, and spices. You will find it at celebrations and some restaurants. Do not miss it if you get the chance.
 
@@ -19,4 +21,4 @@ In the interior, river fish forms the basis of most meals in Maroon villages. Fr
 
 The market at Centrale Markt in Paramaribo is the best place to get a sense of the city's food culture: vendors sell produce from all of the main communities, and the food stalls around the edges are some of the best cheap eating in town.
 
-Suriname produces limited beer (Parbo Bier is the local lager) and some rum. Fresh fruit juices and soft drinks made from local fruits like soursop (zuurzak) are worth trying.
+Parbo is the local lager. Fresh juices made from soursop, passion fruit, tamarind, and other tropical fruit are more interesting.

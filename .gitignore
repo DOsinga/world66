@@ -32,3 +32,8 @@ design/
 /plans/
 /docs/brainstorms/
 /docs/plans/
+
+# outreach drafts and the compose index (tools/provider_qr.py --emails --index).
+# The QR files themselves live in static/qr and ARE committed: they are served
+# as ordinary static assets, so nothing has to render them at request time.
+build/

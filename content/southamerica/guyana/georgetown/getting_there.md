@@ -7,6 +7,6 @@ Most visitors arrive at Cheddi Jagan International Airport (GEO), about 40 km so
 
 A second airport, Eugene F. Correia International (formerly Ogle), is on the eastern edge of Georgetown and handles regional flights to Suriname, Trinidad, and Barbados, plus all domestic small-aircraft traffic to Kaieteur, the Rupununi, and the interior.
 
-From Cheddi Jagan, the airport taxi to central Georgetown takes about 45 minutes and is fixed at around 4,000 to 6,000 Guyana Dollars. Pay at the official taxi desk inside the terminal. Some hotels offer free airport pickups for guests — worth asking when you book.
+From Cheddi Jagan, the airport taxi to central Georgetown takes 45 to 55 minutes and costs around 10,000 Guyana Dollars, negotiated at the rank rather than metered. Use the airport's own taxi service — drivers in cream shirt jacks with official badges — rather than anyone who approaches you inside the terminal, or book an app operator ahead for a fixed price. Some hotels offer free airport pickups for guests — worth asking when you book.
 
 Overland connections are limited. There is a daily bus from Boa Vista in Brazil via the southern border at Lethem, taking around 16 hours over rough roads. From Suriname, a ferry across the Corentyne River from Nieuw Nickerie to Moleson Creek connects with buses to Georgetown. From Venezuela there is currently no practical border crossing.

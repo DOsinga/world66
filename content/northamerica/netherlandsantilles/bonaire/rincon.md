@@ -1,17 +1,20 @@
 ---
 title: "Rincon"
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - neighbourhood
+type: location
+loc_type: city
 latitude: 12.2470
 longitude: -68.3180
-snippet: "Oldest inland village on the island"
-story: "Founded by the Spanish in 1527, Rincon was placed inland to hide it from passing pirates — the original settlers could not afford to lose their possessions on a coast that was raided regularly. The annual **Dia di Rincon** festival on 30 April fills the streets with food stalls, music, and dancing in traditional dress, and is the busiest day on Bonaire's calendar."
+snippet: Historic inland village and the cultural heart of Bonaire, set in a northern valley.
 score: 7.2
+sources:
+  - https://bonaireisland.com/experiences/sightseeing/sites/rincon/
+  - https://bonaireisland.com/wp-content/uploads/2025/04/Rincon-Map-Digital-Version.pdf
 ---
 
-Rincon is the second town of Bonaire and the oldest settlement — tucked inland in a sheltered valley between two ridges. The streets are quiet, dotted with low pastel houses, the **St Louis Bertrand Church** with its pretty pink and white facade, and the **Cadushy Distillery** producing aloe, rum, and cactus liqueurs. A small museum and the **Mangazina di Rei** cultural centre are worth a look.
+Rincon is Bonaire's oldest settlement and its cultural counterweight to Kralendijk. The village sits inland in a broad northern valley, where its position offered some protection from raids on the coast. Low houses spread around the pink-and-white St Ludovicus Bertrandus Church, with cactus-covered ridges rising behind them.
 
-Coming from Kralendijk, the road climbs through hairpins to the lookout at **Seru Largu** with one of the best views on the island, then drops into the Rincon basin.
+The centre is modest, but the stops are unusually good. [Cadushy Distillery](/northamerica/netherlandsantilles/bonaire/cadushy_distillery) explains how local cactus became a liqueur, while [Mangazina di Rei](/northamerica/netherlandsantilles/bonaire/mangazina_di_rei) uses a former government storehouse and its grounds to tell the story of rural Bonaire. For lunch, [Posada Para Mira](/northamerica/netherlandsantilles/bonaire/posada_para_mira) serves Krioyo cooking above the valley.
+
+Rincon becomes the centre of the island on **Dia di Rincon**, held around 30 April, when music, dancing, food stalls, and traditional dress fill the streets. At ordinary times it rewards a slower visit: walk a few streets, talk to people, and resist treating the village as a quick photo stop between Gotomeer and the national park.
+
+The paved coastal loop from Kralendijk approaches via 1000 Steps and Gotomeer; the inland road is faster. Combine Rincon with the northern viewpoints, but give the museums and lunch enough time that the day is not simply a drive-through.

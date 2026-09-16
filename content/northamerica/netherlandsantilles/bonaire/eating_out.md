@@ -1,8 +1,13 @@
 ---
 title: "Eating Out"
 type: section
+sources:
+  - https://bonaireisland.com/experiences/cuisine/restaurants/
+  - https://bonaireisland.com/experiences/restaurants/posada-paramira-bar-restaurant/
 ---
 
-Bonaire's restaurants concentrate on the Kaya Grandi waterfront in Kralendijk and along the road south to Belnem. The local food is Dutch-Caribbean: **stoba** (goat or beef stew), **funchi** (cornmeal polenta), **kabritu** (curried goat), and the **wahoo** and **mahi-mahi** the boats land each morning. The Dutch influence shows in cheese boards, croquettes, and a long beer list.
+Bonaire's restaurants cluster in Kralendijk and along the coast south of town. The range is much broader than the island's size suggests, but imported ingredients make meals expensive and the most sought-after small dining rooms fill quickly. Reserve dinner rather than relying on a waterfront walk-in.
 
-Mid-range and high-end seafood places line the waterfront. Many close on Sundays. Tipping is appreciated; service is not normally included.
+For food rooted in the island, look for **stoba** and **kabritu** (slow-cooked stews, often goat), **funchi** (firm cornmeal), **tutu** (a softer cornmeal-and-bean dish), fried plantain, cactus soup, and local fish when available. [Posada Para Mira](/northamerica/netherlandsantilles/bonaire/posada_para_mira) above Rincon is the clearest introduction; [At Sea](/northamerica/netherlandsantilles/bonaire/at_sea) represents the more ambitious international side of Kralendijk.
+
+Many kitchens close one or two fixed days each week, and some serve lunch but not dinner. Verify hours directly, especially before driving to Rincon or Lac Bay for a specific meal.

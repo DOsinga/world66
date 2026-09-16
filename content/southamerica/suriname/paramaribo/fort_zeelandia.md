@@ -1,14 +1,20 @@
 ---
-snippet: 17th-century Dutch fort housing the Suriname Museum
-title: "Fort Zeelandia"
+snippet: Riverfront fort and national museum spanning colonial rule, slavery, Indigenous cultures, and military dictatorship
+title: Fort Zeelandia and Surinaams Museum
 type: poi
 tags:
   - things_to_do
   - museum
-  - historic_site
+  - sight
+  - history
 latitude: 5.8251
 longitude: -55.1497
 score: 8.9
+sources:
+  - https://www.surinaamsmuseum.net/adres-en-openingstijden/
+  - https://whc.unesco.org/en/list/940/
 ---
 
-This 17th-century Dutch fort on the Suriname River waterfront is Paramaribo's most historically loaded site. Built by the British in 1667 and captured by the Dutch the same year, it served as the administrative heart of the colony for two centuries — and later, more grimly, as a detention and execution site during the 1980s military dictatorship. Today it houses the Suriname Museum, which covers the country's colonial period, indigenous cultures, and the dark chapter of the 1980s. The star-shaped fortifications are in good condition and worth walking around even if the museum is closed.
+Fort Zeelandia is Paramaribo's most important museum and its most difficult historic site. The riverside fort passed from English to Dutch control in 1667 and became part of the machinery of the colony. It later served as a military headquarters and prison; fifteen opponents of the military regime were killed here in December 1982.
+
+The Surinaams Museum uses the buildings for exhibitions on archaeology, Indigenous and Maroon cultures, slavery and plantation society, everyday life, and modern history. Give it time rather than treating the courtyard as a photo stop. Check current opening hours with the museum before visiting.

@@ -13,10 +13,13 @@ heritage: 1.595
 vibrancy: 0.983
 nature: 7.688
 off_the_beaten_track: 5.755
+sources:
+  - https://suriname.travel/marowijne/
+  - https://gov.sr/ministeries/ministerie-van-grond-en-bosbeheer/stg-natuurbehoud-suriname-stinasu/
 ---
 
-Galibi Nature Reserve lies at the mouth of the Marowijne River on Suriname's Atlantic coast, near the border with French Guiana. It is one of the most important nesting sites for leatherback turtles in the world, and also home to green turtles. The nesting season runs from March to August, with the peak in May and June when hundreds of turtles come ashore at night to lay their eggs.
+Galibi lies near the mouth of the Marowijne River, where Atlantic beaches provide nesting habitat for leatherback, green, and olive ridley turtles. The broad nesting season generally runs from February into August, but timing and numbers vary from year to year.
 
-The reserve is also home to Kaliña (Carib) Amerindian communities, and visits typically combine turtle watching with a glimpse of traditional village life.
+The nearby villages are Kaliña communities, not an attraction attached to the reserve. Book through a locally connected host or guide, ask before photographing people, and follow turtle-watching rules strictly: no white lights, touching, blocking, or crowding.
 
-Getting to Galibi requires effort: the journey from [Paramaribo](/southamerica/suriname/paramaribo) involves a long drive east to Albina (roughly 3–4 hours), followed by a boat trip along the Marowijne River. Most visitors book a tour through STINASU or one of Paramaribo's tour operators, which handle the logistics and include a local guide. An overnight stay in the reserve is the best way to see turtle nesting activity after dark.
+The usual route from [Paramaribo](/southamerica/suriname/paramaribo) goes by road to Albina and then by boat. Official protected-area accommodation has not operated consistently, even while community visits continue, so confirm what is actually open before travelling. An overnight is normally needed for responsible turtle watching after dark.

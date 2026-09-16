@@ -12,10 +12,13 @@ tags:
 title: Santa Cruz Beer Station
 type: poi
 url: beerstationbolivia.com
+whatsapp: +591 783003135
 ---
 
 A beer hall on Calle 7 Oeste in Equipetrol, open every day from five in the afternoon until two in the morning. Live music and karaoke, and a reputation among visitors as the easiest place in the city to fall into conversation with strangers.
 
 There is a sister branch in La Paz, in Sopocachi on Avenida Sánchez Lima, which keeps slightly different hours — Monday to Saturday from two in the afternoon.
 
-Two notes on finding and contacting it. The pin here is Calle 7 Oeste rather than the door: the street resolves, the house number does not. And the number listed above is the general Santa Cruz line, because the branch number printed beside the WhatsApp button on their own site has nine digits where a Bolivian mobile has eight — it cannot be dialled as written, and we are not going to guess which digit is wrong.
+The WhatsApp number is the one they advertise for the Santa Cruz branch. Note that it carries nine digits where a Bolivian number has eight, so if the chat does not connect, try the phone line instead.
+
+The pin here is Calle 7 Oeste rather than the door: the street resolves, the house number does not.

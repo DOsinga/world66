@@ -9,6 +9,7 @@ sources:
 tags:
 - eating_out
 - restaurant
+- blogs_for_san_pedro_and_the_atacama
 title: La Estaka
 type: poi
 ---

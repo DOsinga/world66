@@ -1,14 +1,17 @@
 ---
-latitude: -22.9080
+latitude: -22.908
 longitude: -68.2017
 score: 6.8
 snippet: Private meteorite collection in two geodesic domes, built on the fact that
   the Atacama is the best place on earth to find them.
 sources:
 - http://vulcanoexpediciones.com/destinos/san-pedro-de-atacama/cosas-que-hacer-en-san-pedro-de-atacama
+- https://www.adventurouskate.com/things-to-do-in-san-pedro-de-atacama/
+- https://voyagescribe.com/san-pedro-de-atacama-unique-things-to-do/
 tags:
 - things_to_do
 - museum
+- blogs_for_san_pedro_and_the_atacama
 title: Museo del Meteorito
 type: poi
 ---

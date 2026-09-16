@@ -1,5 +1,5 @@
 ---
-latitude: -22.7200
+latitude: -22.72
 longitude: -68.0435
 score: 8.0
 snippet: Eight terraced thermal pools at 33°C in a reed-lined canyon an hour north
@@ -7,11 +7,14 @@ snippet: Eight terraced thermal pools at 33°C in a reed-lined canyon an hour no
 sources:
 - http://vulcanoexpediciones.com/destinos/san-pedro-de-atacama/cosas-que-hacer-en-san-pedro-de-atacama
 - https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama
+- https://worldlyadventurer.com/things-to-do-in-atacama-desert/
+- https://www.adventurouskate.com/things-to-do-in-san-pedro-de-atacama/
 tags:
 - things_to_do
 - sight
 - swimming
 - hot_springs
+- blogs_for_san_pedro_and_the_atacama
 title: Termas de Puritama
 type: poi
 ---

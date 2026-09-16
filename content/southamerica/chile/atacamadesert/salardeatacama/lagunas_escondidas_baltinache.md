@@ -6,6 +6,9 @@ snippet: Seven small turquoise lagoons hidden in the salt crust west of the sala
   one of them warm enough to swim in.
 sources:
 - http://vulcanoexpediciones.com/destinos/san-pedro-de-atacama/cosas-que-hacer-en-san-pedro-de-atacama
+- https://goaskalocal.com/blog/travel-guide-to-san-pedro-de-atacama-chile
+- https://www.adventurouskate.com/things-to-do-in-san-pedro-de-atacama/
+- https://unaideaunviaje.com/que-ver-en-san-pedro-de-atacama/
 tags:
 - things_to_do
 - sight

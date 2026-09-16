@@ -9,6 +9,7 @@ sources:
 tags:
 - bars_and_cafes
 - bar
+- blogs_for_san_pedro_and_the_atacama
 title: Cervecería St. Peter
 type: poi
 ---

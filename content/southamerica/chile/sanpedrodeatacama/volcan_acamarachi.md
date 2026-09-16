@@ -7,16 +7,18 @@ snippet: The steepest of the local six-thousanders, a near-perfect cone with an 
 sources:
 - http://vulcanoexpediciones.com/destinos/san-pedro-de-atacama/cosas-que-hacer-en-san-pedro-de-atacama
 - https://en.wikipedia.org/wiki/Acamarachi
-story: >
-  There is a ceremonial platform on the summit, built by the Inca at 6,046
-  metres, and a small lake just below the top that is one of the highest bodies
-  of water on earth. The Inca climbed dozens of these peaks to build shrines on
-  them, without boots, ropes or supplementary oxygen, using only what they could
-  carry up from the valleys.
+story: 'There is a ceremonial platform on the summit, built by the Inca at 6,046 metres,
+  and a small lake just below the top that is one of the highest bodies of water on
+  earth. The Inca climbed dozens of these peaks to build shrines on them, without
+  boots, ropes or supplementary oxygen, using only what they could carry up from the
+  valleys.
+
+  '
 tags:
 - things_to_do
 - volcano
 - mountaineering
+- blogs_for_san_pedro_and_the_atacama
 title: Volcán Acamarachi
 type: poi
 ---

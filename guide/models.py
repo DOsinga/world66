@@ -402,6 +402,10 @@ class Page:
                 "domain": _display_domain(url),
                 "note": (raw.get("note") or "").strip(),
                 "author": (raw.get("author") or "").strip(),
+                "blog": (raw.get("blog") or "").strip(),
+                # Stable id so a POI can link straight at the entry that
+                # listed it, and the page can highlight it on arrival.
+                "anchor": "blog-" + _display_domain(url).replace(".", "-"),
             })
         return entries
 

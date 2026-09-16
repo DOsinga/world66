@@ -6,16 +6,18 @@ snippet: A solitary 4,278-metre peak west of the salt flat, sacred to the Atacam
   and aligned with Licancabur at the equinox.
 sources:
 - http://vulcanoexpediciones.com/destinos/san-pedro-de-atacama/cosas-que-hacer-en-san-pedro-de-atacama
-story: >
-  Quimal and Licancabur sit on opposite sides of the Salar de Atacama, and at the
-  equinox the sun rises out of one and sets into the other as seen from the
-  middle of the basin. The Atacameños treated the pair as male and female
-  mountains, and the alignment is thought to be why several pre-Columbian
-  settlements were placed where they were.
+story: 'Quimal and Licancabur sit on opposite sides of the Salar de Atacama, and at
+  the equinox the sun rises out of one and sets into the other as seen from the middle
+  of the basin. The Atacameños treated the pair as male and female mountains, and
+  the alignment is thought to be why several pre-Columbian settlements were placed
+  where they were.
+
+  '
 tags:
 - things_to_do
 - hiking
 - viewpoint
+- blogs_for_san_pedro_and_the_atacama
 title: Cerro Quimal
 type: poi
 ---

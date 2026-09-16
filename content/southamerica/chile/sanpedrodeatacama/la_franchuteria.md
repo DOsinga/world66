@@ -10,6 +10,7 @@ tags:
 - eating_out
 - bakery
 - cafe
+- blogs_for_san_pedro_and_the_atacama
 title: La Franchutería
 type: poi
 ---

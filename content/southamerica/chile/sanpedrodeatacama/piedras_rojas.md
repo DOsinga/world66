@@ -2,14 +2,17 @@
 latitude: -23.9213
 longitude: -67.6964
 score: 8.1
-snippet: Iron-red boulders along the shore of a white salt lake at 4,000 metres,
-  the far end of the altiplanic lagoons run.
+snippet: Iron-red boulders along the shore of a white salt lake at 4,000 metres, the
+  far end of the altiplanic lagoons run.
 sources:
 - http://vulcanoexpediciones.com/destinos/san-pedro-de-atacama/cosas-que-hacer-en-san-pedro-de-atacama
+- https://www.adventurouskate.com/things-to-do-in-san-pedro-de-atacama/
+- https://unaideaunviaje.com/que-ver-en-san-pedro-de-atacama/
 tags:
 - things_to_do
 - sight
 - geology
+- blogs_for_san_pedro_and_the_atacama
 title: Piedras Rojas
 type: poi
 ---

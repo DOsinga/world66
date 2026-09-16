@@ -1,21 +1,25 @@
 ---
-latitude: -22.6760
+latitude: -22.676
 longitude: -68.2366
 score: 6.5
 snippet: Rhyolite boulders north of San Pedro carved with over a thousand llamas,
   birds and human figures by caravan traders.
 sources:
 - http://vulcanoexpediciones.com/destinos/san-pedro-de-atacama/cosas-que-hacer-en-san-pedro-de-atacama
-story: >
-  The carvings are not decoration but signage. Hierbas Buenas sat on the llama
-  caravan route between the altiplano and the Pacific coast, and the panels
-  cluster at the point where the traders camped. The animals shown are the
-  cargo: llamas in strings, some with loads on their backs, some being led. Over
-  a thousand figures have been counted across the site.
+- https://worldlyadventurer.com/things-to-do-in-atacama-desert/
+- https://www.adventurouskate.com/things-to-do-in-san-pedro-de-atacama/
+story: 'The carvings are not decoration but signage. Hierbas Buenas sat on the llama
+  caravan route between the altiplano and the Pacific coast, and the panels cluster
+  at the point where the traders camped. The animals shown are the cargo: llamas in
+  strings, some with loads on their backs, some being led. Over a thousand figures
+  have been counted across the site.
+
+  '
 tags:
 - things_to_do
 - sight
 - archaeology
+- blogs_for_san_pedro_and_the_atacama
 title: Petroglifos de Hierbas Buenas
 type: poi
 ---

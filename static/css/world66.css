@@ -4730,3 +4730,42 @@ img { max-width: 100%; height: auto; }
     border-right: none;
   }
 }
+
+/* A bloglist renders no sidebar — nothing on a page of outbound links belongs
+   on a map — so the main column takes the full width instead of leaving a
+   two-fifths gutter next to two paragraphs. */
+#content:not(:has(#sidebar)) {
+  grid-template-columns: 1fr;
+  grid-template-areas: "main";
+}
+
+/* A tag that names a bloglist is a link to it — the way a POI credits the
+   list it came off. Coloured so it reads as a destination, not a filter. */
+.tag-link {
+  border-color: var(--accent);
+  color: var(--accent);
+  text-transform: none;
+  letter-spacing: 0.01em;
+}
+
+.tag-link:hover {
+  background: var(--accent);
+  color: var(--paper);
+  border-color: var(--accent);
+}
+
+/* Arrived from a POI's "Listed by …" tag. The cards carry only a bottom
+   rule, so the marker is an inset bar rather than a border colour. */
+.bloglist-card {
+  scroll-margin-top: 90px;
+}
+
+.bloglist-card--featured {
+  background: var(--paper-2);
+  box-shadow: inset 3px 0 0 var(--accent);
+}
+
+.bloglist-card--featured .bloglist-rank {
+  color: var(--accent);
+  opacity: 1;
+}

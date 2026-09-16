@@ -1,43 +1,46 @@
 ---
 blogs:
 - author: Steph Dyson
-  name: Worldly Adventurer
+  blog: Worldly Adventurer
+  name: 14 Incredible Things to Do in San Pedro de Atacama and the Atacama Desert
   note: The author of Moon Chile, and the only writer here who works out what every
-    excursion costs and which ones you can reach in a rental car instead of a minibus.
-    Start with her Atacama things-to-do guide, then her northern Chile itineraries.
-  url: https://worldlyadventurer.com/
-- name: Adventurous Kate
-  note: The one that asks whether you should come at all. Her San Pedro post says
-    plainly that the routine — drive two hours, photograph a thing, drive back — does
-    not suit everyone, and it has the most serious desert safety section of any blog
-    on this list.
-  url: https://www.adventurouskate.com/
+    excursion costs and which of them you can reach in a rental car instead of a minibus.
+    Prices in pesos and dollars, updated after a return visit in 2025.
+  url: https://worldlyadventurer.com/things-to-do-in-atacama-desert/
+- blog: Adventurous Kate
+  name: 26 Fun Things to Do in San Pedro de Atacama, Chile
+  note: The one that asks whether you should come at all. It says plainly that the
+    routine — drive two hours, photograph a thing, drive back — does not suit everyone,
+    and it carries the most serious desert safety section of anything on this list.
+  url: https://www.adventurouskate.com/things-to-do-in-san-pedro-de-atacama/
 - author: Marcela Torres
-  name: Go Ask A Local
-  note: A trip-planning service rather than a personal blog, but the Chile writing
-    is by Marcela Torres, a Chilean journalist with an ecotourism masters. It is the
-    only guide that gives you direct contacts for the Lickan Antay community-run sites
+  blog: Go Ask A Local
+  name: A Local's Guide to San Pedro de Atacama, Chile
+  note: Written by a Chilean journalist with a masters in ecotourism. It is the only
+    guide that gives you direct contacts for the Lickan Antay community-run sites
     and explains the invierno altiplánico properly.
   url: https://goaskalocal.com/blog/travel-guide-to-san-pedro-de-atacama-chile
-- name: Vulcano Expediciones
-  note: A hundred things to do in and around San Pedro, sorted into ten categories
-    and counted properly — the most complete inventory of the area in any language.
-    It is the only place that lists the Monjes de la Pacana, Cerro Quimal and the
-    Guatín cactus canyon alongside the geysers. Written by the mountain guides who
-    work the 5,000-metre volcanoes, so that section is first-hand.
+- blog: Vulcano Expediciones
+  name: '100+ Cosas que Hacer en San Pedro de Atacama: La Lista Definitiva'
+  note: A hundred things sorted into ten categories and counted properly — the most
+    complete inventory of the area in any language, and the only place the Monjes
+    de la Pacana, Cerro Quimal and the Guatín cactus canyon appear alongside the geysers.
+    The volcano section is written by the guides who work those peaks.
   url: http://vulcanoexpediciones.com/destinos/san-pedro-de-atacama/cosas-que-hacer-en-san-pedro-de-atacama
 - author: Natalie Czarnota
-  name: Voyage Scribe
-  note: Written for the specific traveller who has just come overland from Uyuni and
-    is tired of salt flats. It is the only post that takes desert fatigue seriously
+  blog: Voyage Scribe
+  name: San Pedro de Atacama Unique Things to Do (After the Three-Day Uyuni Tour)
+  note: Written for the specific traveller who has just come overland from Bolivia
+    and is tired of salt flats. It is the only post that takes desert fatigue seriously
     and suggests what to do about it.
   url: https://voyagescribe.com/san-pedro-de-atacama-unique-things-to-do/
 - author: Eva Abal
-  name: Una idea, un viaje
-  note: In Spanish, by a writer who lived in Chile for months and has twenty-eight
-    Chile posts to show for it. Her two-day San Pedro plan is the most realistic short-stay
-    itinerary anywhere, and she keeps it updated.
-  url: https://unaideaunviaje.com/category/america/chile/
+  blog: Una idea, un viaje
+  name: Qué ver en San Pedro de Atacama en 2 días o más
+  note: In Spanish, by a writer who lived in Chile for months. The most realistic
+    short-stay plan anywhere — it tells you what two days actually buys you and where
+    the extra days go. Kept up to date.
+  url: https://unaideaunviaje.com/que-ver-en-san-pedro-de-atacama/
 score: 8.0
 snippet: A guidebook author who prices every excursion, a blogger who asks whether
   you should come at all, and the hundred-item inventory that lists everything else

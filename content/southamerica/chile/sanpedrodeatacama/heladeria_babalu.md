@@ -6,9 +6,11 @@ snippet: Ice cream in flavours made from desert plants — rica-rica, chañar, a
   and coca.
 sources:
 - http://vulcanoexpediciones.com/destinos/san-pedro-de-atacama/cosas-que-hacer-en-san-pedro-de-atacama
+- https://www.adventurouskate.com/things-to-do-in-san-pedro-de-atacama/
 tags:
 - eating_out
 - cafe
+- blogs_for_san_pedro_and_the_atacama
 title: Heladería Babalú
 type: poi
 ---

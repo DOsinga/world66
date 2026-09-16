@@ -6,10 +6,12 @@ snippet: Ignimbrite columns up to twenty metres tall standing alone on a 4,500-m
   plain on the road to Tara.
 sources:
 - http://vulcanoexpediciones.com/destinos/san-pedro-de-atacama/cosas-que-hacer-en-san-pedro-de-atacama
+- https://worldlyadventurer.com/things-to-do-in-atacama-desert/
 tags:
 - things_to_do
 - sight
 - geology
+- blogs_for_san_pedro_and_the_atacama
 title: Monjes de la Pacana
 type: poi
 ---

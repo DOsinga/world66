@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 - bar
 - cafe
+- blogs_for_san_pedro_and_the_atacama
 title: Adobe
 type: poi
 ---

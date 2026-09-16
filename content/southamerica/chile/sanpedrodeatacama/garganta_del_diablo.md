@@ -11,6 +11,7 @@ tags:
 - hiking
 - cycling
 - sight
+- blogs_for_san_pedro_and_the_atacama
 title: Garganta del Diablo
 type: poi
 ---

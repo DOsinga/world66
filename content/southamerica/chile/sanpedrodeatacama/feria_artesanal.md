@@ -1,5 +1,5 @@
 ---
-latitude: -22.9100
+latitude: -22.91
 longitude: -68.2003
 score: 6.0
 snippet: Covered craft market beside the plaza, good for alpaca knitwear and mostly
@@ -9,6 +9,7 @@ sources:
 tags:
 - shopping
 - market
+- blogs_for_san_pedro_and_the_atacama
 title: Feria Artesanal
 type: poi
 ---

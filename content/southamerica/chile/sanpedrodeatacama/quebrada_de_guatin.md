@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - hiking
 - sight
+- blogs_for_san_pedro_and_the_atacama
 title: Quebrada de Guatín
 type: poi
 ---

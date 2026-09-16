@@ -12,6 +12,7 @@ tags:
 - volcano
 - wildlife
 - viewpoint
+- blogs_for_san_pedro_and_the_atacama
 title: Volcán Putana
 type: poi
 ---

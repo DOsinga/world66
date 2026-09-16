@@ -6,10 +6,12 @@ snippet: Hand-cut road tunnel through the Cordillera de la Sal, the old way nort
   out of San Pedro.
 sources:
 - http://vulcanoexpediciones.com/destinos/san-pedro-de-atacama/cosas-que-hacer-en-san-pedro-de-atacama
+- https://goaskalocal.com/blog/travel-guide-to-san-pedro-de-atacama-chile
 tags:
 - things_to_do
 - sight
 - cycling
+- blogs_for_san_pedro_and_the_atacama
 title: Túnel de Catarpe
 type: poi
 ---

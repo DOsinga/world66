@@ -1,5 +1,5 @@
 ---
-latitude: -22.9140
+latitude: -22.914
 longitude: -68.2033
 score: 7.2
 snippet: Small dining room on Domingo Atienza where a Mapuche-trained chef cooks the
@@ -9,6 +9,7 @@ sources:
 tags:
 - eating_out
 - restaurant
+- blogs_for_san_pedro_and_the_atacama
 title: Baltinache
 type: poi
 ---

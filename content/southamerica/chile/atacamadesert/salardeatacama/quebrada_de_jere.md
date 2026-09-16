@@ -6,6 +6,7 @@ snippet: An irrigated fruit orchard in a red rock gorge behind Toconao, watered 
   the only river in the basin that still runs.
 sources:
 - http://vulcanoexpediciones.com/destinos/san-pedro-de-atacama/cosas-que-hacer-en-san-pedro-de-atacama
+- https://goaskalocal.com/blog/travel-guide-to-san-pedro-de-atacama-chile
 tags:
 - things_to_do
 - sight

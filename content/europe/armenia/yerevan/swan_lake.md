@@ -1,14 +1,18 @@
 ---
-title: Swan Lake
-type: poi
 latitude: 40.18639
 longitude: 44.51444
-tags:
-  - things_to_do
-  - sight
-  - kentron
 neighbourhood: Kentron
 score: 6.4
+sources:
+- https://www.mywanderlust.pl/things-to-do-in-yerevan-armenia/
+- https://absolutearmenia.com/yerevan-in-winter/
+tags:
+- things_to_do
+- sight
+- kentron
+- blogs_for_yerevan_and_armenia
+title: Swan Lake
+type: poi
 ---
 
 An ornamental lake in the park beside the Opera House, ringed by benches, fountains, and a band of outdoor cafes. In winter it freezes solid and turns into an open-air ice rink; in summer the swans return and the cafes spill out across the surrounding paths.

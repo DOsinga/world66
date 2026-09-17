@@ -4,12 +4,15 @@ longitude: -0.2084
 score: 8.0
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/ACC
+sources:
+- https://www.beingchristinajane.com/things-to-do-in-accra/
 tags:
 - things_to_do
 - sight
 - fort
 - museum
 - unesco
+- blogs_that_show_you_accra
 title: Ussher Fort
 type: poi
 ---

@@ -512,6 +512,12 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     hero_image_url = f'{page.url_prefix}/content-image/{image_path}' if image_path else None
     hero_image_source = page.meta.get('image_source', '') if image_path else ''
     hero_image_license = page.meta.get('image_license', '') if image_path else ''
+    if not hero_image_url and page.page_type == "bloglist":
+        cover = _bloglist_cover_image(page, source_ref, url_revision=url_revision)
+        if cover:
+            hero_image_url = cover["url"]
+            hero_image_source = cover["source"]
+            hero_image_license = cover["license"]
 
     # Attach image_url to each neighbourhood for card display
     for nb in neighbourhoods:
@@ -637,6 +643,21 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     markers = _collect_markers(page, nav_pages, _map_top, pois, city_tag_index=city_tag_index)
     markers_full = _collect_markers(page, nav_pages, _map_all, pois, city_tag_index=city_tag_index)
 
+    # Bloglists: a type=bloglist page points outward, at blogs on the open web,
+    # so its members come straight from its own frontmatter — nothing to resolve
+    # against the content tree, and nothing to put on the map.
+    blog_entries = page.blog_entries if page.page_type == "bloglist" else None
+    if blog_entries:
+        # Arriving from a POI's "Listed by …" tag: mark the entry that sent
+        # them, so the reader lands on the list and can see which of the six
+        # mentioned the place they were just reading about.
+        wanted = (request.GET.get("blog") or "").strip().lower()
+        for entry in blog_entries:
+            entry["is_highlighted"] = bool(wanted) and entry["domain"].lower() == wanted
+
+    # A location shows the bloglists sitting in its own directory as a
+    # "Further Reading" callout — the way in to the pages above.
+    location_bloglists = page.find_bloglists() if page.page_type == "location" else []
     # Providers panel under the sidebar map: the bookable activities in this
     # town. WhatsApp first, because that is the channel we are pitching, then
     # by score. Capped so the sticky sidebar stays inside the viewport — the
@@ -716,18 +737,6 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         # Only promise WhatsApp when a shown provider actually offers it.
         providers_on_whatsapp = any(p.whatsapp_link for p in location_providers)
 
-    # Commercial providers appear only in the panel above. Filtering happens
-    # here, after the panel and the markers have been built from the full set,
-    # so hiding them from lists doesn't empty the panel too. An activities
-    # section keeps its intro text and simply lists nothing.
-    pois = [p for p in pois if not p.is_commercial]
-    if inline_sections:
-        inline_sections = [
-            {**item, "pois": [p for p in item["pois"] if not p.is_commercial]}
-            for item in inline_sections
-        ]
-    poi_categories = [c for c in poi_categories if c] if poi_categories else poi_categories
-
     breadcrumbs = page.breadcrumbs()
     dimension_rows, score_verdict, similar_in_country = _score_profile_context(page, parent)
 
@@ -763,7 +772,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "score_verdict": score_verdict,
         "similar_in_country": similar_in_country,
         "country_title": _country_title(page),
-        "tags": [t.replace("_", " ") for t in page.tags],
+        "tags": _tag_chips(page, source_ref, url_revision),
         "is_poi": page.page_type == "poi",
         "poi_categories": poi_categories,
         "poi_context_prefix": poi_context_prefix,
@@ -772,6 +781,8 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "daytrip_cards": daytrip_cards,
         "more_linked_locations": more_linked_locations,
         "url_prefix": page.url_prefix,
+        "blog_entries": blog_entries,
+        "location_bloglists": location_bloglists,
         "location_providers": location_providers,
         "highlighted_provider": highlighted_provider,
         "location_providers_all": location_providers_all,
@@ -1129,6 +1140,72 @@ def _image_path(page, source_ref=None):
         elif (CONTENT_DIR / candidate).is_file():
             return candidate
     return None
+
+
+def _tag_chips(page, source_ref=None, url_revision=None):
+    """Tags for the chip row, as {label, url}.
+
+    A tag that names a bloglist sitting in the same directory becomes a link to
+    it — that is how a POI credits the list it came off, without an outbound
+    link in its body or a sentence of throat-clearing on the section page.
+
+    Which blog gets the credit is worked out rather than restated: a POI already
+    records where it came from in `sources:`, so a source matching one of the
+    bloglist's entries names the blog. Several can match, and the first one in
+    the list wins — a bloglist is ordered by how much use each entry is, so the
+    earliest entry that covers a place is the one worth sending a reader to.
+    Only if none matches does the chip fall back to the list's own title. Every
+    other tag is plain text, as before.
+    """
+    lists = {}
+    parent = _bloglist_parent(page, source_ref, url_revision)
+    if parent:
+        lists = {bl.slug: bl for bl in parent.find_bloglists()}
+    sources = {str(u).strip() for u in (page.meta.get("sources") or [])}
+
+    chips = []
+    for tag in page.tags:
+        bl = lists.get(tag)
+        if not bl:
+            chips.append({"label": tag.replace("_", " "), "url": None})
+            continue
+        credit = next(
+            (e for e in bl.blog_entries if e["url"] in sources), None
+        )
+        url = bl.get_absolute_url()
+        if credit:
+            label = f"Listed by {credit['blog'] or credit['domain']}"
+            url = f"{url}?blog={credit['domain']}#{credit['anchor']}"
+        else:
+            label = bl.title
+        chips.append({"label": label, "url": url})
+    return chips
+
+
+def _bloglist_parent(page, source_ref=None, url_revision=None):
+    """The place a bloglist belongs to — it has no image of its own and wears
+    the hero of the location whose directory it sits in."""
+    if "/" not in page.path:
+        return None
+    parent_path = page.path.rsplit("/", 1)[0]
+    return (load_page_from_revision(parent_path, source_ref, url_revision=url_revision)
+            if source_ref else load_page(parent_path))
+
+
+def _bloglist_cover_image(page, source_ref=None, url_revision=None):
+    """A bloglist wears its place's hero rather than sourcing a photo of its own
+    for what is, after all, a page of outbound links."""
+    parent = _bloglist_parent(page, source_ref, url_revision)
+    if not parent:
+        return None
+    img = _image_path(parent, source_ref)
+    if not img:
+        return None
+    return {
+        "url": f"{parent.url_prefix}/content-image/{img}",
+        "source": parent.meta.get("image_source", ""),
+        "license": parent.meta.get("image_license", ""),
+    }
 
 
 def content_image(request, path):

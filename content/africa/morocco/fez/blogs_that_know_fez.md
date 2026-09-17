@@ -6,10 +6,11 @@ blogs:
     posts on festivals, artisans, politics and the medina''s endless small dramas.'
   url: http://riadzany.blogspot.com/
 - author: Amanda Mouttaki
-  name: MarocMama
+  blog: MarocMama
+  name: Tips and Advice for Planning a Trip to Fez, Morocco
   note: Moroccan food written from inside a Moroccan family — recipes, Ramadan, and
     what to order. Marrakech-based, but the food knowledge travels north.
-  url: https://marocmama.com/
+  url: https://marocmama.com/fez-morocco/
 - author: Anita Breland
   name: Anita's Feast
   note: 'She keeps a house in Fez el-Bali and writes about eating there: the wild
@@ -20,11 +21,12 @@ blogs:
   note: Her Fez medina street-food guide is the kind of thing you want in your pocket
     — named stalls, what to order, what it should cost.
   url: https://wandering-everywhere.com/
-- name: Journey Beyond Travel
+- blog: Journey Beyond Travel
+  name: Top Things to See and Do in Fez, Morocco
   note: The blog of a Morocco tour operator, but written by real writers — Lucas Peters
     authored the Moon Morocco guidebook — and the Fez medina pieces stand on their
     own.
-  url: https://www.journeybeyondtravel.com/blog/
+  url: https://www.journeybeyondtravel.com/blog/things-to-do-fez-morocco.html
 score: 8.0
 snippet: A blog that has posted from the medina since 2005, a food writer with a house
   in Fez el-Bali, and the street-food guide you want in your pocket

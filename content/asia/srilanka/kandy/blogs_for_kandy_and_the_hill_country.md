@@ -10,10 +10,11 @@ blogs:
   note: 'Same spirit, organised by district, with a proper Kandy section: short, sourced
     entries on monuments, inscriptions and temple paintings.'
   url: https://www.lankapradeepa.com/
-- name: The Common Wanderer
+- blog: The Common Wanderer
+  name: 15 Incredible Things to Do in Kandy, Sri Lanka's Culture Capital
   note: A polished, ethically-minded travel publication. Their Kandy guide is the
     one to read if you have two days and want to spend them well.
-  url: https://www.thecommonwanderer.com/
+  url: https://www.thecommonwanderer.com/blog/best-things-to-do-in-kandy-sri-lanka
 - author: Stephen Gollan
   name: Uncharted Backpacker
   note: Backpacker-first guides to countries most people fly over, and refreshingly

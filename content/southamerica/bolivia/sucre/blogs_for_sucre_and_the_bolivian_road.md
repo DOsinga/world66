@@ -1,10 +1,5 @@
 ---
 blogs:
-- author: Steph Dyson
-  name: Worldly Adventurer
-  note: A guidebook author who has researched Bolivia in person. The most carefully
-    worked-out free trip-planning material for the country online.
-  url: https://worldlyadventurer.com/
 - name: Bolivian Express
   note: 'Not a travel blog: an English-language magazine written by young journalists
     in La Paz. Read it to hear Bolivians on Bolivia.'
@@ -26,7 +21,7 @@ score: 8.0
 snippet: A guidebook author who researches Bolivia properly, a magazine written in
   English by young Bolivian journalists, and three travellers who slowed down in the
   white city
-title: 5 Blogs for Sucre and the Bolivian Road
+title: 4 Blogs for Sucre and the Bolivian Road
 type: bloglist
 ---
 

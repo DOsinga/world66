@@ -11,24 +11,21 @@ blogs:
   note: Written from Tbilisi by a local, which shows in the small decisions — which
     bathhouse, which marshrutka, which dishes to order at a supra and in what order.
   url: https://www.redfedoradiary.com/
-- name: Journal of Nomads
-  note: Overland and hiking-first. The long trekking write-ups for Georgia's high
-    Caucasus are the kind of thing city-focused guides never get to.
-  url: https://www.journalofnomads.com/
 - name: Georgia About
   note: Not a trip-planning site at all — a slow archive of Georgian life, from wildflowers
     to church frescoes to village festivals. Read it to understand what you're looking
     at.
   url: https://georgiaabout.com/
 - author: Shannon O'Donnell
-  name: A Little Adrift
+  blog: A Little Adrift
+  name: 'Why I Fell for Tbilisi, Georgia: Architecture, Wine & Hospitality'
   note: A long-running slow-travel blog; the Georgia guide came out of months based
     in Tbilisi and keeps one eye on where your money actually ends up.
-  url: https://alittleadrift.com/
+  url: https://alittleadrift.com/georgia/tbilisi/
 score: 8.0
 snippet: A Tbilisi native, an Australian who moved there, and a slow-moving archive
   of Georgian village life — the people who have already done the reading
-title: 5 Blogs to Read Before Tbilisi
+title: 4 Blogs to Read Before Tbilisi
 type: bloglist
 ---
 

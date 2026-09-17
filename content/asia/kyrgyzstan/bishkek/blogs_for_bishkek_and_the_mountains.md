@@ -2,31 +2,28 @@
 blogs:
 - author: Nicole Smoot
   name: The Adventures of Nicole
-  note: The most thorough independent Kyrgyzstan guide going, first written in 2018 and still
-    revised each year. Bishkek's practicalities first, then the Alay valley and Issyk-Kul
-    in the detail trekkers actually need.
+  note: The most thorough independent Kyrgyzstan guide going, first written in 2018
+    and still revised each year. Bishkek's practicalities first, then the Alay valley
+    and Issyk-Kul in the detail trekkers actually need.
   url: https://adventuresoflilnicki.com/
 - author: Cynthia
-  name: Journal of Nomads
-  note: Cynthia is a Belgian photographer based in Kyrgyzstan, and her Bishkek city guide
-    and day-trip lists are the best city-level writing here. She sells guided tours from the
-    same site — the free guides stand on their own, but know that going in.
-  url: https://www.journalofnomads.com/
-- name: Caravanistan
-  note: The Central Asia reference — visas, border crossings, shared-taxi routes, and a forum
-    where travellers post what actually happened at the border last week. Thin on atmosphere,
-    indispensable for logistics.
-  url: https://caravanistan.com/
-- author: Joan Torres
-  name: Against the Compass
-  note: Joan Torres revises his Kyrgyzstan guide every year and is refreshingly blunt that
-    Bishkek is a base rather than a destination. Read it for the argument for leaving the
-    city quickly, and the practicalities of doing so.
-  url: https://againstthecompass.com/
+  blog: Journal of Nomads
+  name: 13 Top Things To Do In Bishkek, Kyrgyzstan
+  note: Cynthia is a Belgian photographer based in Kyrgyzstan, and her Bishkek city
+    guide and day-trip lists are the best city-level writing here. She sells guided
+    tours from the same site — the free guides stand on their own, but know that going
+    in.
+  url: https://www.journalofnomads.com/top-things-to-do-in-bishkek-kyrgyzstan/
+- blog: Caravanistan
+  name: Bishkek Travel Guide
+  note: The Central Asia reference — visas, border crossings, shared-taxi routes,
+    and a forum where travellers post what actually happened at the border last week.
+    Thin on atmosphere, indispensable for logistics.
+  url: https://caravanistan.com/kyrgyzstan/bishkek/
 score: 7.7
-snippet: The people who worked out the marshrutkas, the visas and the yurt stays — and are
-  honest that the city is a base, not the point
-title: 4 Blogs for Bishkek and the Mountains
+snippet: The people who worked out the marshrutkas, the visas and the yurt stays —
+  and are honest that the city is a base, not the point
+title: 3 Blogs for Bishkek and the Mountains
 type: bloglist
 ---
 

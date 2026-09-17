@@ -1,31 +1,28 @@
 ---
 blogs:
 - author: Sarah
-  name: Montenegro Pulse
-  note: Written by a New Zealander who has lived on the Bay of Kotor for over a decade. The
-    self-guided Kotor walking tour and the Ladder of Kotor write-up are the pages to start
-    with; she puts site income into animal-welfare work in the town.
-  url: https://www.montenegropulse.com/
-- name: The Helpful Stranger
-  note: Budget-first and unsentimental, with separate write-ups for Kotor, Budva, Podgorica
-    and Cetinje. The one to read when you want prices, bus details and a plain opinion rather
-    than a mood board.
-  url: https://thehelpfulstranger.blog/
-- name: Chasing the Donkey
-  note: A large Balkans site with a deep Montenegro section — day trips out of Kotor, the
-    Three Peaks hike, and the three ways of getting to Dubrovnik. Broad rather than intimate,
-    but it answers the logistics nobody else bothers with.
-  url: https://www.chasingthedonkey.com/
+  blog: Montenegro Pulse
+  name: 'Best Things to Do in Kotor: Must-Sees & Hidden Gems From A Local'
+  note: Written by a New Zealander who has lived on the Bay of Kotor for over a decade.
+    The self-guided Kotor walking tour and the Ladder of Kotor write-up are the pages
+    to start with; she puts site income into animal-welfare work in the town.
+  url: https://www.montenegropulse.com/things-to-do-in-kotor.html
+- blog: Chasing the Donkey
+  name: 23 Best Things To Do In Bay Of Kotor, Montenegro
+  note: A large Balkans site with a deep Montenegro section — day trips out of Kotor,
+    the Three Peaks hike, and the three ways of getting to Dubrovnik. Broad rather
+    than intimate, but it answers the logistics nobody else bothers with.
+  url: https://www.chasingthedonkey.com/bay-of-kotor-things-to-do-in-kotor-montenegro/
 - author: Helene Sula
   name: Helene in Between
-  note: Helene Sula based herself down the coast at Sutomore for three months and wrote the
-    country up as a resident rather than a visitor. Her seven-day itinerary is the clearest
-    explanation of how the coast, the mountains and Lake Skadar connect.
+  note: Helene Sula based herself down the coast at Sutomore for three months and
+    wrote the country up as a resident rather than a visitor. Her seven-day itinerary
+    is the clearest explanation of how the coast, the mountains and Lake Skadar connect.
   url: https://heleneinbetween.com/
 score: 7.5
-snippet: Two writers who actually lived on the bay, one budget realist and one big Balkans
-  site that answers the boring questions
-title: 4 Blogs for Kotor and the Bay
+snippet: Two writers who actually lived on the bay, one budget realist and one big
+  Balkans site that answers the boring questions
+title: 3 Blogs for Kotor and the Bay
 type: bloglist
 ---
 

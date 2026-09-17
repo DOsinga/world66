@@ -1,30 +1,31 @@
 ---
 blogs:
 - name: Lost In Plovdiv
-  note: A Plovdiv-only city magazine, updated weekly, covering restaurant openings, gallery
-    shows and what is on in Kapana. The English edition is thinner than the Bulgarian one,
-    but it is the closest thing the city has to a local listings paper.
+  note: A Plovdiv-only city magazine, updated weekly, covering restaurant openings,
+    gallery shows and what is on in Kapana. The English edition is thinner than the
+    Bulgarian one, but it is the closest thing the city has to a local listings paper.
   url: https://lostinplovdiv.com/en/
 - author: Maria
-  name: Travelling Buzz
-  note: Written by a Bulgarian who also writes for Lonely Planet, and strongest on the country
-    beyond Sofia — the Rhodope mountains, Veliko Tarnovo wine, the day trips that turn Plovdiv
-    from a stop into a base.
-  url: https://travellingbuzz.com/
+  blog: Travelling Buzz
+  name: 15 Things to See and Do in Plovdiv, Bulgaria (+ Where to Eat)
+  note: Written by a Bulgarian who also writes for Lonely Planet, and strongest on
+    the country beyond Sofia — the Rhodope mountains, Veliko Tarnovo wine, the day
+    trips that turn Plovdiv from a stop into a base.
+  url: https://travellingbuzz.com/things-to-see-and-do-in-plovdiv-bulgaria/
 - name: Eat Stay Love Bulgaria
-  note: Hotel and restaurant reviews from people living in the country, with dedicated Plovdiv
-    sections for eating and sleeping. It carries some advertising and says so; the reviews
-    themselves read as first-hand.
+  note: Hotel and restaurant reviews from people living in the country, with dedicated
+    Plovdiv sections for eating and sleeping. It carries some advertising and says
+    so; the reviews themselves read as first-hand.
   url: https://eatstaylovebulgaria.com/en/
 - author: Bilyana
   name: Owl Over The World
-  note: Bilyana is Bulgarian, and the Bulgaria category is where this blog is at its best
-    — long, specific lists of places across the country, useful for working out what else
-    in the south is worth the bus fare.
+  note: Bilyana is Bulgarian, and the Bulgaria category is where this blog is at its
+    best — long, specific lists of places across the country, useful for working out
+    what else in the south is worth the bus fare.
   url: https://owlovertheworld.com/
 score: 7.6
-snippet: A weekly city magazine, two Bulgarian writers and a resident review site — the people
-  keeping up with Europe's oldest city
+snippet: A weekly city magazine, two Bulgarian writers and a resident review site
+  — the people keeping up with Europe's oldest city
 title: 4 Blogs That Know Plovdiv
 type: bloglist
 ---

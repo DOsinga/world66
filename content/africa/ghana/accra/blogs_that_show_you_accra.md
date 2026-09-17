@@ -9,10 +9,11 @@ blogs:
   note: 'A South African several years into living in Accra, writing the everyday
     version of the city: neighbourhoods, markets, beaches, the ordinary week.'
   url: https://mymarvellousmundane.com/
-- name: Being Christina Jane
+- blog: Being Christina Jane
+  name: 83 Things to Do in Accra
   note: Her Accra list runs to 83 entries. Exhaustive in the best way, and useful
     precisely because so little else about the city is.
-  url: https://www.beingchristinajane.com/
+  url: https://www.beingchristinajane.com/things-to-do-in-accra/
 - author: Claire Stokes
   name: Stoked To Travel
   note: Her Ghana trip was entirely self-funded with no tourism board involved, and

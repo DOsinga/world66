@@ -1,12 +1,13 @@
 ---
-title: Dajti Express Cable Car
-type: poi
 latitude: 41.3534
 longitude: 19.8889
-tags:
-  - things_to_do
-  - sight
 score: 7.7
+sources: []
+tags:
+- things_to_do
+- sight
+title: Dajti Express Cable Car
+type: poi
 ---
 
 The Dajti Express is a 15-minute Austrian-built gondola that lifts you 1,610 metres up Mount Dajti from the eastern outskirts of Tirana. The views back over the city are progressively more dramatic the higher you climb.

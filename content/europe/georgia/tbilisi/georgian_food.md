@@ -1,13 +1,14 @@
 ---
-latitude: 41.6920
-longitude: 44.8050
+latitude: 41.692
+longitude: 44.805
+score: 8.2
 snippet: Georgian cuisine — khinkali dumplings, khachapuri, and churchkhela
+sources: []
 tags:
 - eating_out
 - restaurant
 title: Georgian Cuisine
 type: poi
-score: 8.2
 ---
 
 Georgian cuisine is one of the great undiscovered food cultures of the world, and the best reason to eat out every night during your stay. The two dishes you will encounter everywhere are *khinkali* — large pleated soup dumplings filled with spiced meat or mushrooms, eaten by hand and bitten from the bottom to drink the broth — and *khachapuri*, the boat-shaped cheese bread that comes in regional variations, the most famous being the Adjarian version with an egg and pat of butter melting into the cheese.

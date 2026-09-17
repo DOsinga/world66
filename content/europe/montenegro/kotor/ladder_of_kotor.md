@@ -1,12 +1,16 @@
 ---
-title: "Ladder of Kotor"
-type: poi
-latitude: 42.4350
-longitude: 18.7900
-tags:
-  - things_to_do
-  - sight
+latitude: 42.435
+longitude: 18.79
 score: 8.0
+sources:
+- https://www.montenegropulse.com/things-to-do-in-kotor.html
+- https://www.chasingthedonkey.com/bay-of-kotor-things-to-do-in-kotor-montenegro/
+tags:
+- things_to_do
+- sight
+- blogs_for_kotor_and_the_bay
+title: Ladder of Kotor
+type: poi
 ---
 
 The Ladder of Kotor (Lestve Kotora) is the historic donkey path that climbs from the bay up to the Lovćen plateau in 70 switchbacks — for centuries the only land route between Kotor and the Montenegrin interior. The Serpentine road, built in the 1880s, replaced it for vehicles, but the original path is still passable on foot.

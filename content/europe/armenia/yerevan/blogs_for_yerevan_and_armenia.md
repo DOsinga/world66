@@ -1,33 +1,29 @@
 ---
 blogs:
 - author: Aram Vardanyan
-  name: Absolute Armenia
-  note: Run by Aram Vardanyan, who grew up in Etchmiadzin and lives in Yerevan. Rare among
-    country blogs in being organised by province rather than by listicle — start with the
-    Yerevan restaurant guide, then follow the provincial drives outward.
-  url: https://absolutearmenia.com/
+  blog: Absolute Armenia
+  name: 16 Cozy Things to Do in Yerevan in Winter
+  note: Run by Aram Vardanyan, who grew up in Etchmiadzin and lives in Yerevan. Rare
+    among country blogs in being organised by province rather than by listicle — start
+    with the Yerevan restaurant guide, then follow the provincial drives outward.
+  url: https://absolutearmenia.com/yerevan-in-winter/
 - author: Kamila Napora
-  name: Kami and the Rest of the World
-  note: A Polish solo traveller who keeps going back. Her guide to Yerevan's Soviet architecture
-    and her account of watching the 2018 velvet revolution from the street are the two things
-    here no itinerary post will give you.
-  url: https://www.mywanderlust.pl/
+  blog: Kami and the Rest of the World
+  name: 31 Amazing Things to Do in Yerevan, Armenia
+  note: A Polish solo traveller who keeps going back. Her guide to Yerevan's Soviet
+    architecture and her account of watching the 2018 velvet revolution from the street
+    are the two things here no itinerary post will give you.
+  url: https://www.mywanderlust.pl/things-to-do-in-yerevan-armenia/
 - author: Maria Titizian
   name: EVN Report
-  note: Not a travel site at all — an independent non-profit magazine published in Yerevan,
-    covering politics, the arts and the long aftermath of war. Read it for the context the
-    guidebooks leave out.
+  note: Not a travel site at all — an independent non-profit magazine published in
+    Yerevan, covering politics, the arts and the long aftermath of war. Read it for
+    the context the guidebooks leave out.
   url: https://evnreport.com/
-- author: Emily Lush
-  name: Wander-Lush
-  note: Georgia is the main beat — Emily Lush has lived in Kutaisi for years — and Armenia
-    is covered from next door rather than from the inside. Worth it for the overland Tbilisi–Yerevan
-    practicalities and a whole-Caucasus eye.
-  url: https://wander-lush.org/
 score: 7.8
-snippet: A Yerevan local, a Pole who keeps going back, an independent newsroom and a neighbour
-  in Georgia — four ways of paying attention to Armenia
-title: 4 Blogs to Read Before Yerevan
+snippet: A Yerevan local, a Pole who keeps going back, an independent newsroom and
+  a neighbour in Georgia — four ways of paying attention to Armenia
+title: 3 Blogs to Read Before Yerevan
 type: bloglist
 ---
 

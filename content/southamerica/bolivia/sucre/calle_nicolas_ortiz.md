@@ -1,13 +1,14 @@
 ---
-title: Calle Nicolás Ortiz
-type: poi
 latitude: -19.0479
 longitude: -65.2601
-tags:
-  - things_to_do
-  - sight
-snippet: The colonial street running south from Plaza 25 de Mayo
 score: 7.9
+snippet: The colonial street running south from Plaza 25 de Mayo
+sources: []
+tags:
+- things_to_do
+- sight
+title: Calle Nicolás Ortiz
+type: poi
 ---
 
 Calle Nicolás Ortiz is the most photogenic single street in Sucre. It runs south from the central plaza past a row of perfectly preserved colonial townhouses — whitewashed two-storey facades, deep wooden balconies on the upper floor, ornate door knockers. Many of these buildings now house tour agencies, cafes, art shops, and small museums; one of them is the Iglesia Santa Mónica with its splendid courtyard. The street is narrow, traffic is slow, and at dusk the lamps throw long shadows across the cobbles.

@@ -1,13 +1,14 @@
 ---
+latitude: 41.33
+longitude: 19.8156
+score: 5.2
+sources: []
+tags:
+- things_to_do
+- sight
+- historic_building
 title: Kapllan Pasha Tomb
 type: poi
-latitude: 41.3300
-longitude: 19.8156
-tags:
-  - things_to_do
-  - sight
-  - historic_building
-score: 5.2
 ---
 
 A small Ottoman türbe — domed mausoleum — built in 1820 for Kapllan Pasha Toptani, the local strongman of his day. The structure is now stranded between modern apartment blocks and a tram-stop, an unlikely fragment of pre-communist Tirana.

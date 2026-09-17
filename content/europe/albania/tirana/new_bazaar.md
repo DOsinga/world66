@@ -1,13 +1,14 @@
 ---
-title: Pazari i Ri (New Bazaar)
-type: poi
 latitude: 41.3306
 longitude: 19.8217
-tags:
-  - things_to_do
-  - market
-  - shopping
 score: 7.4
+sources: []
+tags:
+- things_to_do
+- market
+- shopping
+title: Pazari i Ri (New Bazaar)
+type: poi
 ---
 
 The New Bazaar, restored in 2017, is the city's main outdoor produce and food market. The covered hall is ringed by streets of small restaurants, butchers, bakeries, and pickle shops, and the whole quarter has become one of the most pleasant areas of the city to wander.

@@ -1,16 +1,17 @@
 ---
-title: Freedom Square
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - square
-  - kentron
 latitude: 40.1854
 longitude: 44.5152
 score: 6.5
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Abovyan
+sources: []
+tags:
+- things_to_do
+- sight
+- square
+- kentron
+title: Freedom Square
+type: poi
 ---
 
 Freedom Square, also called Theatrical Square, is the open space beside Yerevan Opera Theatre. It links the Opera, Swan Lake, Northern Avenue, and the cafe-filled parkland around them, so you will probably cross it more than once while walking through Kentron.

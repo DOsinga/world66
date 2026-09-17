@@ -1,13 +1,14 @@
 ---
+latitude: -19.0481
+longitude: -65.258
+score: 6.4
+snippet: French-Bolivian fusion in the Alliance Française building
+sources: []
+tags:
+- eating_out
+- restaurant
 title: La Taverne
 type: poi
-latitude: -19.0481
-longitude: -65.2580
-tags:
-  - eating_out
-  - restaurant
-snippet: French-Bolivian fusion in the Alliance Française building
-score: 6.4
 ---
 
 La Taverne is run by the Alliance Française from a colonial townhouse on Calle Aniceto Arce. The kitchen does a respectable approximation of French bistro food — duck confit, beef bourguignon, crepes — alongside a few Bolivian dishes given a French finish. The wine list draws on the better Tarija producers (Aranjuez, Kohlberg) and there is a decent French selection by the glass.

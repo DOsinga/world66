@@ -75,6 +75,10 @@ blogs:
    an operator's blog, say plainly in the note that that's what it is.
 5. **No affiliate deals, no exchanges.** Blogs are listed because they're good. Nobody pays and
    nobody is asked for anything.
+6. **One list per blog.** A blog that covers a whole region belongs on the one list where it is
+   strongest, not on all of them. Emily Lush writes about Albania and Armenia as well as Georgia,
+   but she lived in Tbilisi, so Wander-Lush is a Tbilisi entry and nowhere else. Repeating a blog
+   makes every list it appears on look like the same list.
 
 If you can only find four blogs worth the reader's time, ship four and say so in the body text.
 Padding a list with SEO listicles is worse than a short list.
@@ -134,4 +138,6 @@ row, so the two can't drift apart.
   listicle.
 - Don't add `image:` or coordinates to a bloglist.
 - Don't link an entry to a site's home page when a specific piece is what you mean.
+- Don't feature the same blog on two lists.
+- Don't forget the count in the title when entries are added or removed.
 - Don't put a bloglist in a section subdirectory; it goes flat in the location's own folder.

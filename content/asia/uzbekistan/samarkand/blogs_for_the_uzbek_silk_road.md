@@ -1,9 +1,5 @@
 ---
 blogs:
-- name: Caravanistan
-  note: The Central Asia resource. Visas, borders, trains, shared taxis, scams and
-    permits, kept current by people who actually cross these frontiers.
-  url: https://caravanistan.com/
 - author: Alex Reynolds
   name: Lost With Purpose
   note: Specialises in the parts of Asia guidebooks skip, and writes bluntly about
@@ -14,18 +10,21 @@ blogs:
   note: Builds itineraries for the countries most people won't visit. Practical, budget-first,
     and mercifully free of romance about the Silk Road.
   url: https://againstthecompass.com/
-- name: The Occasional Traveller
+- blog: The Occasional Traveller
+  name: 'Exploring Samarkand: My Favourite Sights and Eats in Uzbekistan''s Historic
+    Silk Road City'
   note: Written for people travelling on limited leave days — a clear ten-day Tashkent–Samarkand–Bukhara
     account that is easy to copy outright.
-  url: https://theoccasionaltraveller.com/
-- name: The Helpful Stranger
+  url: https://theoccasionaltraveller.com/samarkand-uzbekistan/
+- blog: The Helpful Stranger
+  name: Samarkand Self-Guided Walking Tour
   note: Short on lyricism, long on what things cost and whether they were worth it.
     Useful as a sanity check against the more breathless write-ups.
-  url: https://thehelpfulstranger.blog/
+  url: https://thehelpfulstranger.blog/samarkand-self-guided-walking-tour/
 score: 8.0
 snippet: The site that will actually get you across a Central Asian border, plus four
   writers who went to Samarkand for longer than the standard two nights
-title: 5 Blogs for the Uzbek Silk Road
+title: 4 Blogs for the Uzbek Silk Road
 type: bloglist
 ---
 

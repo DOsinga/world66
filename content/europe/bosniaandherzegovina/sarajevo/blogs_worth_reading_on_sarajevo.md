@@ -1,38 +1,38 @@
 ---
 blogs:
-- name: Kathmandu & Beyond
+- blog: Kathmandu & Beyond
+  name: Alternative Things to Do in Sarajevo, Bosnia and Herzegovina
   note: Independent travel on public transport and a budget, with a taste for the
     unusual and off-the-beaten-path corners of Sarajevo most itineraries skip.
-  url: https://www.kathmanduandbeyond.com/
+  url: https://www.kathmanduandbeyond.com/alternative-things-to-do-in-sarajevo-bosnia/
 - author: Marek Bron
-  name: Indie Traveller
+  blog: Indie Traveller
+  name: 'Sarajevo Travel Guide: An Unusual City You''re Sure To Love'
   note: Writes the kind of city guide that tells you what a place is actually like
     to be in — a good, unsentimental primer for a city people arrive at carrying a
     lot of assumptions.
-  url: https://www.indietraveller.co/
+  url: https://www.indietraveller.co/sarajevo-travel-guide/
 - author: Giulia Cimarosti
   name: BLocal
   note: A street-art blog first and a travel blog second, running since 2011. If you
     want to read Sarajevo through its murals and graffiti, this is the one.
   url: https://www.blocal-travel.com/
 - author: Silvia Lawrence
-  name: Heart My Backpack
+  blog: Heart My Backpack
+  name: Oh So Beautiful, Sarajevo
   note: Long, personal posts instead of listicles. She keeps returning to the Balkans,
     and it shows in how she writes about Bosnia.
-  url: https://www.heartmybackpack.com/
-- name: Chasing the Donkey
-  note: A Balkans-wide encyclopedia run from Croatia. Not the most personal writing
-    here, but the best place to sort out buses, borders and what to order.
-  url: https://www.chasingthedonkey.com/
+  url: https://www.heartmybackpack.com/blog/sarajevo-bosnia/
 - author: Allison Green
-  name: Eternal Arrival
+  blog: Eternal Arrival
+  name: 'Urbex in Bosnia: The Sarajevo Bobsled Track, the Mostar Sniper Tower & More'
   note: Strong on the practical questions solo travellers actually have, plus a good
     eye for Bosnia's less-visited towns beyond Sarajevo and Mostar.
-  url: https://eternalarrival.com/
+  url: https://eternalarrival.com/sniper-tower-mostar-olympic-bobsled-sarajevo/
 score: 8.0
 snippet: A street-art specialist, a public-transport obsessive and a writer who keeps
   going back — six people who write about Sarajevo as a city rather than a siege
-title: 6 Blogs Worth Reading on Sarajevo
+title: 5 Blogs Worth Reading on Sarajevo
 type: bloglist
 ---
 

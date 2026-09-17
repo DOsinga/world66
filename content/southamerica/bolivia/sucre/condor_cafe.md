@@ -1,14 +1,15 @@
 ---
-title: Condor Cafe
-type: poi
 latitude: -19.0476
 longitude: -65.2613
-tags:
-  - eating_out
-  - cafe
-  - restaurant
-snippet: Traveller cafe attached to a community tourism agency
 score: 6.6
+snippet: Traveller cafe attached to a community tourism agency
+sources: []
+tags:
+- eating_out
+- cafe
+- restaurant
+title: Condor Cafe
+type: poi
 ---
 
 Condor Cafe on Calle Calvo is a long-running traveller cafe and the front-of-house for Condor Trekkers, a community-run hiking agency that funnels profits into rural projects in the surrounding villages. The food is honest cafe fare — soups, salads, decent sandwiches, vegetarian and vegan options for once — at backpacker-friendly prices, all served in a sunlit room with shelves of secondhand books.

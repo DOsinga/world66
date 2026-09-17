@@ -29,6 +29,6 @@ title: 4 Blogs to Read Before Tbilisi
 type: bloglist
 ---
 
-Georgia is having a moment, and the internet has responded with a thousand identical "48 hours in Tbilisi" posts. These five are not that. Between them they cover the sulphur baths and the supra, the Khevsureti trekking routes, the qvevri winemakers of Kakheti, and the awkward business of a country that is simultaneously ancient, Soviet-scarred and full of people under thirty opening natural wine bars.
+Georgia is having a moment, and the internet has responded with a thousand identical "48 hours in Tbilisi" posts. These four are not that. Between them they cover the sulphur baths and the supra, the Khevsureti trekking routes, the qvevri winemakers of Kakheti, and the awkward business of a country that is simultaneously ancient, Soviet-scarred and full of people under thirty opening natural wine bars.
 
-What they share is time on the ground. Two of these writers live or have lived in Tbilisi, one has been documenting Georgian plants, churches and festivals for over a decade, and the other two arrived overland and stayed longer than they meant to. That's the difference you're looking for.
+What they share is time on the ground. Two of these writers live or have lived in Tbilisi, one has been documenting Georgian plants, churches and festivals for over a decade, and the fourth arrived overland and stayed longer than she meant to. That's the difference you're looking for.

@@ -30,12 +30,12 @@ blogs:
     eye for Bosnia's less-visited towns beyond Sarajevo and Mostar.
   url: https://eternalarrival.com/sniper-tower-mostar-olympic-bobsled-sarajevo/
 score: 8.0
-snippet: A street-art specialist, a public-transport obsessive and a writer who keeps
-  going back — six people who write about Sarajevo as a city rather than a siege
+snippet: A street-art specialist, an urban explorer and a writer who keeps going back
+  — five people who write about Sarajevo as a city rather than a siege
 title: 5 Blogs Worth Reading on Sarajevo
 type: bloglist
 ---
 
-Most writing about Sarajevo is really writing about the 1990s. The war matters and none of these blogs pretend otherwise, but they also tell you where to drink coffee for an hour without anyone hurrying you, which murals are worth walking to, how the trams and buses actually work, and why the Ottoman and Austro-Hungarian halves of the old town meet at a line drawn on the pavement.
+Most writing about Sarajevo is really writing about the 1990s. The war matters and none of these blogs pretend otherwise, but they also tell you where to drink coffee for an hour without anyone hurrying you, which murals are worth walking to, how to get up to the abandoned bobsled track, and why the Ottoman and Austro-Hungarian halves of the old town meet at a line drawn on the pavement.
 
 They range from the encyclopedic to the deeply personal. Take the practical ones for your ferry and bus times, and the personal ones for the reason to go in the first place.

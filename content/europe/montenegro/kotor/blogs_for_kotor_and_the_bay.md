@@ -20,12 +20,12 @@ blogs:
     is the clearest explanation of how the coast, the mountains and Lake Skadar connect.
   url: https://heleneinbetween.com/
 score: 7.5
-snippet: Two writers who actually lived on the bay, one budget realist and one big
-  Balkans site that answers the boring questions
+snippet: A writer who actually lives on the bay, a big Balkans site that answers the
+  boring questions, and one visitor who looked past the walls
 title: 3 Blogs for Kotor and the Bay
 type: bloglist
 ---
 
-Kotor has a particular problem: it is small, walled, photogenic, and visited by several thousand cruise passengers at a time. Most of what is written about it is written from four hours ashore. These four are not — two of the writers have lived on this coast, and the other two turned up with notebooks rather than a shot list.
+Kotor has a particular problem: it is small, walled, photogenic, and visited by several thousand cruise passengers at a time. Most of what is written about it is written from four hours ashore. These three are not — one of the writers lives on this coast, and the others turned up with notebooks rather than a shot list.
 
 What they add up to is a way out of the old town. Between them they cover the 1,350 steps up the walls at dawn, the villages further round the bay, the serpentine road up Lovćen, and the unglamorous business of buses, ferries and what things cost.

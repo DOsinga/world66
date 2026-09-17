@@ -40,7 +40,8 @@ blogs:
 
 - **`title`** — put the count in it ("5 Blogs to Read Before Tbilisi"). Readers want the length
   before they click.
-- **`blogs`** — 5–8 entries, in the order they should be read. `name`, `url` and `note` are all
+- **`blogs`** — aim for 5–8 entries, in the order they should be read. Three is fine where three
+  is honestly all there is; see the note on short lists below. `name`, `url` and `note` are all
   required; `author` is optional and only worth adding when the person is the reason to read it.
 - **`url`** — link to **the piece about this place**, not to the site's front door. A reader who
   clicks should land on the writing you are recommending, not on whatever the blog published last
@@ -80,8 +81,15 @@ blogs:
    but she lived in Tbilisi, so Wander-Lush is a Tbilisi entry and nowhere else. Repeating a blog
    makes every list it appears on look like the same list.
 
-If you can only find four blogs worth the reader's time, ship four and say so in the body text.
-Padding a list with SEO listicles is worse than a short list.
+If you can only find three or four blogs worth the reader's time, ship three or four and say so in
+the body text. Padding a list with SEO listicles is worse than a short list, and so is keeping a
+blog on two lists to make both look full — Bishkek, Yerevan and Kotor each run to three, and that
+is the honest number for them.
+
+**When entries change, the prose has to change with them.** The count lives in the title, the
+snippet usually characterises each blog in turn, and the body often says "these five". Removing an
+entry and leaving "one watches Armenia from over the Georgian border" in the body describes a blog
+that is no longer on the page.
 
 ## Crediting a bloglist from a POI
 

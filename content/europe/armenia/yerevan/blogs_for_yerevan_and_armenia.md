@@ -21,12 +21,12 @@ blogs:
     the context the guidebooks leave out.
   url: https://evnreport.com/
 score: 7.8
-snippet: A Yerevan local, a Pole who keeps going back, an independent newsroom and
-  a neighbour in Georgia — four ways of paying attention to Armenia
+snippet: A Yerevan local, a Pole who keeps going back and an independent newsroom
+  — three ways of paying attention to Armenia
 title: 3 Blogs to Read Before Yerevan
 type: bloglist
 ---
 
-Armenia gets written about in two registers: diaspora sentiment and thin SEO itineraries. These four are neither. Between them they cover the Cascade and the tufa boulevards Tamanian drew, the Soviet mosaics and bus stops nobody photographs, the Areni wine country, and the politics that shape what the city looks like this year.
+Armenia gets written about in two registers: diaspora sentiment and thin SEO itineraries. These three are neither. Between them they cover the Cascade and the tufa boulevards Tamanian drew, the Soviet mosaics and bus stops nobody photographs, the Areni wine country, and the politics that shape what the city looks like this year.
 
-The useful split here is distance. One writer lives in Yerevan, one has been returning for a decade, one publishes from the city without being a travel site at all, and one watches Armenia from over the Georgian border. Read them in that order and the place stops being an itinerary.
+The useful split here is distance. One writer lives in Yerevan, one has been returning for a decade, and one publishes from the city without being a travel site at all. Read them in that order and the place stops being an itinerary.

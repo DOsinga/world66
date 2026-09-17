@@ -29,4 +29,4 @@ type: bloglist
 
 Bishkek is a Soviet grid plan with the Tian Shan standing over the end of every street, and almost nobody writes about the city for its own sake. What exists instead is a small, unusually practical body of writing about how to use it — the Osh Bazaar, the visa offices, and the shared taxis out to the mountains.
 
-That is what these four are good at. One has been revising the same Kyrgyzstan guide for eight years, one lives in the country and photographs it, one is the reference desk for all of Central Asia, and one will tell you plainly to get out of town. Between them the yurt stays, the horse treks and the border runs are all covered.
+That is what these three are good at. One has been revising the same Kyrgyzstan guide for eight years, one lives in the country and photographs it, and one is the reference desk for all of Central Asia. Between them the yurt stays, the horse treks and the border runs are all covered.

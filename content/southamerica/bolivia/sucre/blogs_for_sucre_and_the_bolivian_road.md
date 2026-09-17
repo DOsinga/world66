@@ -18,9 +18,9 @@ blogs:
     the bad hostel and the altitude sickness, which is the point.
   url: https://www.onmycanvas.com/
 score: 8.0
-snippet: A guidebook author who researches Bolivia properly, a magazine written in
-  English by young Bolivian journalists, and three travellers who slowed down in the
-  white city
+snippet: A magazine written in English by young Bolivian journalists, a whole-country
+  guide with a real Sucre section, and two travellers who slowed down in the white
+  city
 title: 4 Blogs for Sucre and the Bolivian Road
 type: bloglist
 ---

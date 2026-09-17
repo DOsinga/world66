@@ -22,12 +22,12 @@ blogs:
     Useful as a sanity check against the more breathless write-ups.
   url: https://thehelpfulstranger.blog/samarkand-self-guided-walking-tour/
 score: 8.0
-snippet: The site that will actually get you across a Central Asian border, plus four
-  writers who went to Samarkand for longer than the standard two nights
+snippet: Four writers who gave Samarkand longer than the standard two nights — including
+  one who walked the city and wrote down the route
 title: 4 Blogs for the Uzbek Silk Road
 type: bloglist
 ---
 
 Samarkand is easy to see and hard to understand. Two days will get you the Registan, Shah-i-Zinda and Gur-e-Amir, all of them heavily restored and all of them worth it. What these blogs add is everything around the edges: the shared taxis, the high-speed train tickets that sell out, the bazaars where nobody is selling to tourists, and the question of what Timur's capital was actually like before the Soviets rebuilt the tilework.
 
-One of them, Caravanistan, is less a blog than a public service — the single most useful page on the internet for anyone crossing Central Asia overland. The others supply the reasons to slow down once you've got the logistics solved.
+The most immediately useful of them is The Helpful Stranger's self-guided walking tour, which strings the monuments together in an order that works on foot and in the right light. The others supply the reasons to stay a third day once you have walked it.

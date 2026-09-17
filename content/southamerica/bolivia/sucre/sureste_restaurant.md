@@ -1,14 +1,13 @@
 ---
-latitude: -19.0461
-longitude: -65.2596
-score: 7.1
-snippet: The city's most famous salteña stop, sold out by noon
-sources: []
-tags:
-- eating_out
-- restaurant
 title: El Patio Salteñería
 type: poi
+latitude: -19.0461
+longitude: -65.2596
+tags:
+  - eating_out
+  - restaurant
+snippet: The city's most famous salteña stop, sold out by noon
+score: 7.1
 ---
 
 El Patio Salteñería on Calle San Alberto is the salteña institution of Sucre. Salteñas — baked half-moon pastries filled with a soupy stew of meat, potato, peas, olives and a hard-boiled egg quarter — are a national obsession in Bolivia, and Sucre serious eaters argue that El Patio's are the best in the country. They are juicier than most, the pastry crisper, the stew well-seasoned. Two per person is the standard breakfast portion.

@@ -1,15 +1,14 @@
 ---
-address: 10 Mher Mkrtchyan Street
-latitude: 40.18472
-longitude: 44.51861
-score: 7.5
-sources: []
-tags:
-- things_to_do
-- bars_and_cafes
-- cafe
 title: Mirzoyan Library
 type: poi
+latitude: 40.18472
+longitude: 44.51861
+tags:
+  - things_to_do
+  - bars_and_cafes
+  - cafe
+address: 10 Mher Mkrtchyan Street
+score: 7.5
 ---
 
 A photography library and cafe inside a restored 19th-century house on a small street behind Northern Avenue. What began as one collector's archive of photography books has expanded into one of Yerevan's most pleasant indoor-outdoor cafe-bars, with a small bookshop, regular exhibitions, and a leafy back garden that turns into a wine and small-plates spot in the evenings.

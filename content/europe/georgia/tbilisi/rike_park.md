@@ -1,14 +1,13 @@
 ---
 latitude: 41.6911
 longitude: 44.8102
-score: 5.5
 snippet: Modern riverside park with cable car to Narikala Fortress
-sources: []
 tags:
 - things_to_do
 - sight
 title: Rike Park
 type: poi
+score: 5.5
 ---
 
 Rike Park occupies the left bank of the Mtkvari directly across from Metekhi Church and the old town. It was redeveloped in the 2010s from wasteland into a well-kept urban park with fountains, open lawns, and a series of modernist structures that divided Georgian opinion sharply when they were built.

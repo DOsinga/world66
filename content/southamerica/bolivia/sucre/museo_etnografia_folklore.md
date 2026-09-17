@@ -1,14 +1,13 @@
 ---
-latitude: -19.0467
-longitude: -65.2602
-score: 8.1
-snippet: A glittering small museum of Bolivian gold, silver and gemstones
-sources: []
-tags:
-- things_to_do
-- museum
 title: Museo del Tesoro
 type: poi
+latitude: -19.0467
+longitude: -65.2602
+tags:
+  - things_to_do
+  - museum
+snippet: A glittering small museum of Bolivian gold, silver and gemstones
+score: 8.1
 ---
 
 The Museo del Tesoro on Calle Plaza 25 de Mayo is a small but spectacular private museum dedicated to the precious metals and gemstones of Bolivia. Three floors of a colonial townhouse trace the geological story of the country's mineral wealth — bolivianite (the local name for ametrine, the dual-coloured purple-and-yellow quartz found only in eastern Bolivia), tin, silver, gold, emeralds — followed by their cultural history in pre-Columbian and colonial times.

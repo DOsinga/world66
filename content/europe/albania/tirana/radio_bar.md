@@ -1,15 +1,14 @@
 ---
-latitude: 41.3232
-longitude: 19.8159
-neighbourhood: Blloku
-score: 5.7
-sources: []
-tags:
-- bars_and_cafes
-- bar
-- blloku
 title: Radio Bar
 type: poi
+latitude: 41.3232
+longitude: 19.8159
+tags:
+  - bars_and_cafes
+  - bar
+  - blloku
+neighbourhood: Blloku
+score: 5.7
 ---
 
 A small craft-cocktail bar a couple of doors from Komiteti, with a stripped-back industrial look and a soundtrack that runs the length of the room. The cocktails are taken seriously: original drinks built around Albanian raki, mulberry, and herbs, alongside the classic list.

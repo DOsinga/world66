@@ -1,21 +1,16 @@
 ---
-latitude: -18.895
-longitude: -65.499
-score: 8.5
-snippet: A vast circular depression in the Andes, much debated by geologists
-sources: []
-story: 'Geologists still debate whether Maragua is a meteor impact crater or a giant
-  erosion feature where a salt dome collapsed. Either way, the result is a near-perfect
-  8-km bowl ringed by mountains, with a small Jalq''a community farming the floor.
-  Local lore prefers the meteor story.
-
-  '
-tags:
-- things_to_do
-- sight
-- hiking
 title: Maragua Crater
 type: poi
+latitude: -18.8950
+longitude: -65.4990
+tags:
+  - things_to_do
+  - sight
+  - hiking
+snippet: A vast circular depression in the Andes, much debated by geologists
+story: >
+  Geologists still debate whether Maragua is a meteor impact crater or a giant erosion feature where a salt dome collapsed. Either way, the result is a near-perfect 8-km bowl ringed by mountains, with a small Jalq'a community farming the floor. Local lore prefers the meteor story.
+score: 8.5
 ---
 
 The Crater of Maragua is one of Bolivia's most extraordinary landscapes — a near-perfectly circular depression eight kilometres across, ringed by steep mountains and floored with green fields, scattered villages, and a snaking river. Geologists have argued for decades over whether it is a true impact crater or the result of a collapsed anticline; either way, the view from the rim is unforgettable.

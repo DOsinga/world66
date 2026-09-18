@@ -223,11 +223,19 @@ En cualquier caso, gracias por escribir lo que le ha puesto en la lista.
 """,
 }
 
+# One page or several — a mail that says "1 of our pages already credit you"
+# announces that it was generated.
 CREDIT = {
     "en": " {n} of our {city} pages already credit you as the source, each one linking"
           " back to the list.",
     "es": " {n} de nuestras páginas de {city} ya le citan como fuente, y cada una enlaza"
           " con la lista.",
+}
+CREDIT_ONE = {
+    "en": " One of our {city} pages already credits you as the source, linking back"
+          " to the list.",
+    "es": " Una de nuestras páginas de {city} ya le cita como fuente, con un enlace"
+          " a la lista.",
 }
 
 SIGNOFF = {
@@ -277,7 +285,9 @@ def salutation(author):
 def compose(row):
     lang = row["lang"] if row["lang"] in BODY else "en"
     credit_line = ""
-    if row["credited"]:
+    if row["credited"] == 1:
+        credit_line = CREDIT_ONE[lang].format(city=row["city"])
+    elif row["credited"]:
         credit_line = CREDIT[lang].format(n=row["credited"], city=row["city"])
     fields = {
         "email": row["email"], "blog_name": row["blog_name"], "city": row["city"],

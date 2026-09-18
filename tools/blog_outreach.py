@@ -342,7 +342,11 @@ INDEX_HEAD = """<!doctype html>
        padding: 8px 15px; border-radius: 5px; font-weight: 600; font-size: 14px; white-space: nowrap; }
  .go:hover { filter: brightness(1.08); }
  .tick { margin-left: 12px; transform: scale(1.25); cursor: pointer; }
- .forms li { margin-bottom: 6px; }
+ .btns { display: flex; gap: 7px; align-items: center; }
+ button.go { border: 0; font-family: inherit; cursor: pointer; }
+ .go.ghost { background: transparent; color: var(--accent); border: 1px solid var(--line); }
+ .go.ghost:hover { border-color: var(--accent); }
+ .go.copied { background: var(--ink); color: var(--paper); }
  code { background: rgba(128,128,128,.13); padding: 1px 5px; border-radius: 3px; font-size: 13px; }
  .sent { color: var(--accent); font-weight: 600; }
  a { color: var(--accent); }
@@ -390,14 +394,32 @@ def write_index(rows, forms, out, account=None):
             )
 
     if forms:
-        parts.append(f'<h2>Contact form — {len(forms)} by hand</h2><ul class="forms">')
-        for r in forms:
+        parts.append(f'<h2>Contact form — {len(forms)} by hand</h2>'
+                     f'<p class="lede">No published address, so these go through the blog\'s own '
+                     f'form. Open it, then paste — most forms want a subject and a message, and '
+                     f'some ask for a name and a reply address too.</p>')
+        for r in sorted(forms, key=lambda r: (r["city"], r["blog_name"].casefold())):
             where = r["contact"] or r["blog_url"]
+            was_sent = bool(r["emailed"])
+            stamp = f' · <span class="sent">sent {escape(r["emailed"])}</span>' if was_sent else ""
             parts.append(
-                f'<li><strong>{escape(r["blog_name"])}</strong> ({escape(r["city"])}) — '
-                f'<a href="{escape(where)}" target="_blank" rel="noopener">{escape(where)}</a>'
-                f' → paste the link <code>{escape(r["link"])}</code></li>')
-        parts.append("</ul>")
+                f'<div class="row form-row{" done" if was_sent else ""}" '
+                f'data-code="{escape(r["list_path"] + "|" + r["blog_url"])}" '
+                f'data-subject="{escape(subject(r))}" '
+                f'data-body="{escape(r["body"])}" '
+                f'data-link="{escape(r["link"])}">'
+                f'<div><div class="name">{escape(r["blog_name"])}'
+                f'<span class="lang">{r["lang"]}</span></div>'
+                f'<div class="meta">{escape(r["city"])} · '
+                f'<a href="{escape(where)}" target="_blank" rel="noopener">'
+                f'{escape(where)}</a>{stamp}</div></div>'
+                f'<div class="btns">'
+                f'<a class="go ghost" href="{escape(where)}" target="_blank" rel="noopener">Open form</a>'
+                f'<button class="go copy" data-what="body">Copy message</button>'
+                f'<button class="go ghost copy" data-what="subject">Subject</button>'
+                f'<button class="go ghost copy" data-what="link">Link</button>'
+                f'<input class="tick" type="checkbox"{" checked" if was_sent else ""}>'
+                f'</div></div>')
 
     parts.append("""
 <script>
@@ -413,8 +435,40 @@ document.querySelectorAll('.row').forEach(row => {
     done = box.checked ? [...new Set([...done, code])] : done.filter(c => c !== code);
     try { localStorage.setItem(KEY, JSON.stringify(done)); } catch (e) {}
   });
-  row.querySelector('.go')?.addEventListener('click', () => {
+  row.querySelector('a.go')?.addEventListener('click', () => {
     box.checked = true; box.dispatchEvent(new Event('change'));
+  });
+});
+
+// Clipboard, with a fallback: navigator.clipboard needs a secure context and
+// this page is opened over file://, which not every browser counts as one.
+async function copyText(text) {
+  try {
+    await navigator.clipboard.writeText(text);
+    return true;
+  } catch (e) {
+    const ta = document.createElement('textarea');
+    ta.value = text;
+    ta.style.position = 'fixed';
+    ta.style.opacity = '0';
+    document.body.appendChild(ta);
+    ta.select();
+    let ok = false;
+    try { ok = document.execCommand('copy'); } catch (e2) {}
+    ta.remove();
+    return ok;
+  }
+}
+
+document.querySelectorAll('button.copy').forEach(btn => {
+  btn.addEventListener('click', async () => {
+    const row = btn.closest('.row');
+    const text = row.dataset[btn.dataset.what];
+    const label = btn.textContent;
+    const ok = await copyText(text);
+    btn.textContent = ok ? 'Copied' : 'Press ⌘C';
+    btn.classList.toggle('copied', ok);
+    setTimeout(() => { btn.textContent = label; btn.classList.remove('copied'); }, 1400);
   });
 });
 </script>
@@ -517,8 +571,9 @@ def main():
     if args.emails or args.index:
         out = Path(args.out)
         out.mkdir(parents=True, exist_ok=True)
-        for r in mailable:
+        for r in rows:
             r["body"] = compose(r).split("\n\n", 1)[1]
+        for r in rows:
             if args.emails:
                 slug = re.sub(r"[^a-z0-9]+", "_", r["blog_name"].casefold()).strip("_")
                 city = r["list_path"].rsplit("/", 2)[-2]
@@ -527,7 +582,8 @@ def main():
                 print(compose(r))
                 print("-" * 78)
         if args.emails:
-            print(f"{len(mailable)} drafts -> {out}")
+            print(f"{len(rows)} drafts -> {out} "
+                  f"({len(mailable)} mailable, {len(forms)} for contact forms)")
         if args.index:
             write_index(mailable, forms, out / "index.html", args.gmail_account)
             print(f"index -> {out / 'index.html'}")

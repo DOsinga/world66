@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Faro,_Svolv%C3%A6r,_Lofote
 latitude: 68.2321
 loc_type: city
 longitude: 14.5646
-score: 9.3
+score: 7.689
 snippet: Lofoten harbour town and regional centre, set below steep peaks on Norway's
   island coast.
 title: Svolvær
 type: location
+heritage: 1.615
+vibrancy: 2.024
+nature: 9.328
+off_the_beaten_track: 8.485
 ---
 
 Svolvær is the regional centre of the Lofoten Islands, a small but lively town of around 4,500 people strung along the waterfront beneath dramatic peaks. It is the natural base for exploring the archipelago — the only place in Lofoten with a proper airport, and a port of call for the Hurtigruten coastal steamer and express ferry services.

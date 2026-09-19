@@ -4,15 +4,20 @@ type: location
 loc_type: city
 latitude: 18.611
 longitude: -95.6562
-score: 7.9
-snippet: Veracruz river town of colonnaded houses, son jarocho music, and Candlemas devotion.
+score: 3.989
+snippet: Veracruz river town of colonnaded houses, son jarocho music, and Candlemas
+  devotion.
 sources:
-  - https://en.wikivoyage.org/wiki/Tlacotalpan
-  - https://en.wikipedia.org/wiki/Tlacotalpan
+- https://en.wikivoyage.org/wiki/Tlacotalpan
+- https://en.wikipedia.org/wiki/Tlacotalpan
 image: tlacotalpan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Casa,_Tlacotalpan,_Veracruz-_House,_Tlacotalpan,_Veracruz_(23146669024).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Comisión Mexicana de Filmaciones
+heritage: 4.515
+vibrancy: 3.636
+nature: 3.631
+off_the_beaten_track: 4.228
 ---
 
 Tlacotalpan sits low on the Papaloapan River, a small Veracruz town painted in bright Caribbean colors and wrapped around arcaded streets, palms, and river light. It is one of Mexico's more graceful colonial towns, but it feels less polished than the famous highland showpieces. The heat, the river, and the music keep it firmly on the Gulf coast.

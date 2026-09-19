@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Abomey-K%C3%B6nigspalast3.
 latitude: 7.182001
 loc_type: city
 longitude: 1.993632
-score: 7.08
+score: 5.89
 snippet: Historic Beninese city of Dahomey royal palaces, bas-reliefs, vodun temples,
   and court history
 title: Abomey
 type: location
+heritage: 7.746
+vibrancy: 1.887
+nature: 1.673
+off_the_beaten_track: 5.033
 ---
 
 Abomey is a historic city in south-central Benin, former capital of the powerful Dahomey Kingdom that dominated this part of West Africa from the 17th to 19th centuries. The [Royal Palaces of Abomey](/africa/benin/abomey/royal_palaces) — a sprawling complex of twelve palaces built by successive kings — are a UNESCO World Heritage Site and the main reason travellers come here. The palaces house remarkable bas-relief carvings depicting court life, military campaigns, and the kingdom's myths; the [Abomey Historical Museum](/africa/benin/abomey/historical_museum) within the complex is one of the best in the region. Beyond the palace complex, [vodun temples](/africa/benin/abomey/vodun_temples) including the remarkable Chameleon Temple can be visited with a local guide. The city is about 145 km north of [Cotonou](/africa/benin/cotonou).

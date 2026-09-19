@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Joginder_Nagar_Valley.jpg
 latitude: 31.988
 loc_type: city
 longitude: 76.783
-score: 6.72
+score: 5.866
 snippet: Himachal Pradesh valley town known for the Shanan hydroelectric scheme and
   Kangra Valley Railway terminus.
 title: Joginder Nagar
 type: location
+heritage: 1.969
+vibrancy: 1.852
+nature: 7.473
+off_the_beaten_track: 5.308
 ---
 
 Joginder Nagar is a small town in Mandi district, Himachal Pradesh, sitting in a side valley of the Uhl river at around 1,200 metres. The town was established in the 1920s when Raja Joginder Sen of Mandi commissioned a hydroelectric scheme using the waters of the Uhl — tunnelled and piped from the mountains to the [Shanan Power House](/asia/india/himachalpradesh/joginder_nagar/shanan_power_house), an ambitious feat of early 20th-century engineering. The power house still operates.

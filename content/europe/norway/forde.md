@@ -4,11 +4,15 @@ done:
 latitude: 61.452176
 loc_type: city
 longitude: 5.857172
-score: 8.08
+score: 5.605
 snippet: Sunnfjord regional town used as a base for western Norway's glaciers, lakes,
   and waterfall valleys.
 title: Forde
 type: location
+heritage: 3.232
+vibrancy: 1.428
+nature: 7.123
+off_the_beaten_track: 5.13
 ---
 
 Førde is a small town in Sunnfjord, Vestland county, serving as a regional hub for the surrounding fjord and mountain landscape of western [Norway](/europe/norway). It is not a destination in itself, but it is a practical base for exploring some of the most dramatic scenery in the country.

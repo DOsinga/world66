@@ -5,11 +5,15 @@ done:
 latitude: 42.441524
 loc_type: city
 longitude: 19.262108
-score: 7.13
+score: 4.583
 snippet: Montenegrin capital rebuilt in Yugoslav style, with Ottoman traces beside
   the Morača River.
 title: Podgorica
 type: location
+heritage: 3.869
+vibrancy: 4.386
+nature: 4.985
+off_the_beaten_track: 3.036
 ---
 
 Podgorica is Montenegro's capital and largest city, with about 200,000 people — roughly a third of the country's population in one place. It's the administrative and economic centre, and despite its modest size, it has a genuine city feel: universities, embassies, a reasonable café culture, and some decent restaurants.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Arch_of_Caracalla_(Djemila
 latitude: 36.3214
 loc_type: city
 longitude: 5.7368
-score: 7.9
+score: 3.991
 title: Djemila
 type: location
 snippet: Mountain Roman site where ancient Cuicul survives on a narrow ridge between
   two ravines.
+heritage: 3.904
+vibrancy: 1.486
+nature: 4.034
+off_the_beaten_track: 6.293
 ---
 
 Djemila is arguably the best-preserved Roman town in all of North Africa, and it has no business being this good. Set at 900 meters elevation in the mountains of northeastern Algeria, far from any major city, the site is a complete Roman colonial town frozen in time -- forum, temples, basilicas, triumphal arches, and streets still showing the ruts from ancient carts.

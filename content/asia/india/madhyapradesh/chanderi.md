@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 24.72
 longitude: 78.13
-score: 7.58
-snippet: Bundelkhand town of hill forts, Jain caves, carved gateways, and fine handloom saris.
+score: 4.045
+snippet: Bundelkhand town of hill forts, Jain caves, carved gateways, and fine handloom
+  saris.
 sources:
-  - https://en.wikivoyage.org/wiki/Chanderi
-  - https://en.wikipedia.org/wiki/Chanderi
+- https://en.wikivoyage.org/wiki/Chanderi
+- https://en.wikipedia.org/wiki/Chanderi
+heritage: 4.503
+vibrancy: 2.731
+nature: 4.29
+off_the_beaten_track: 3.909
 ---
 
 Chanderi is a small Bundelkhand town with a surprisingly dense layer of history. Fort walls climb the hills, medieval gates break through the rock, mosques and palaces sit among the lanes, and Jain shrines are cut into the surrounding slopes.

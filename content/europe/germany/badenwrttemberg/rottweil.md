@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Blick_auf_Rottweil.jpg
 latitude: 48.167824
 loc_type: city
 longitude: 8.626979
-score: 7.3
+score: 4.312
 title: Rottweil
 type: location
 snippet: Baden-Württemberg's oldest town, known for Roman origins, gate towers, and
   the Rottweiler dog.
+heritage: 4.595
+vibrancy: 4.238
+nature: 2.958
+off_the_beaten_track: 3.618
 ---
 
 Rottweil is the oldest town in Baden-Württemberg, founded by the Romans in AD 73, and the place that gave the Rottweiler dog its name — the breed descends from the mastiffs that Roman legions used to drive cattle over the Alps. A fountain on the Hauptstrasse commemorates the connection.

@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:El_Calafate_(25825005237).
 latitude: -50.34
 loc_type: city
 longitude: -72.2648
-score: 9.34
+score: 7.799
 snippet: Patagonian gateway town on Lago Argentino, used as the base for reaching
   Perito Moreno Glacier
 title: El Calafate
 type: location
+heritage: 3.789
+vibrancy: 0.802
+nature: 9.96
+off_the_beaten_track: 6.977
 ---
 
 El Calafate is the gateway town for Los Glaciares National Park, sitting on the shore of Lago Argentino about an hour's drive from the glaciers. The town itself is small and tourist-oriented, but you are not here for the town -- you are here for the ice.

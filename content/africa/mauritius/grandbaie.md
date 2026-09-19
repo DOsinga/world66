@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Grand_Baie,_Adolphe_de_Ple
 latitude: -20.01302
 loc_type: city
 longitude: 57.584627
-score: 8.72
+score: 6.149
 snippet: Northern Mauritius tourist hub with restaurants, dive operators, nightlife,
   and boat trips to offshore islands
 title: Grand Baie
 type: location
+heritage: 2.542
+vibrancy: 4.798
+nature: 7.213
+off_the_beaten_track: 1.155
 ---
 
 Grand Baie is the main tourist hub of the north coast — busy, convenient, and unashamedly commercial. The beach is pleasant but not the best on the island. What Grand Baie has is infrastructure: the highest concentration of restaurants, shops, dive operators, boat excursion companies, and nightlife outside Port Louis.

@@ -4,11 +4,15 @@ type: location
 loc_type: city
 latitude: 10.1667
 longitude: 76.4333
-score: 0.36
+score: 5.005
 snippet: Kerala pilgrimage town on the Periyar, revered as the birthplace of Adi Shankara.
 sources:
-  - https://en.wikivoyage.org/wiki/Kalady
-  - https://www.sringeri.net/branches-navaratri/kalady
+- https://en.wikivoyage.org/wiki/Kalady
+- https://www.sringeri.net/branches-navaratri/kalady
+heritage: 6.31
+vibrancy: 2.808
+nature: 3.635
+off_the_beaten_track: 2.483
 ---
 
 Kalady is a small pilgrimage town on the Periyar River, revered as the birthplace of Adi Shankara, the philosopher-saint most closely associated with Advaita Vedanta. It is close to Kochi airport, but it should not be treated only as a convenient stop: for Hindu pilgrims and anyone interested in Indian religious thought, the town has real gravity.

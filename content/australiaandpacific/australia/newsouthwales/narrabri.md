@@ -3,17 +3,22 @@ image: narrabri.jpg
 image_attribution: Gypsy Denise
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Mount_Kaputar_National_Park,_Narrabri,_NSW._Sawn-rocks_01.jpg
-latitude: -30.3250
+latitude: -30.325
 loc_type: city
 longitude: 149.7828
-score: 6.8
-snippet: North-west NSW town between volcanic Mount Kaputar, Pilliga woodland, and a major radio telescope.
+score: 3.799
+snippet: North-west NSW town between volcanic Mount Kaputar, Pilliga woodland, and
+  a major radio telescope.
 sources:
-  - https://en.wikivoyage.org/wiki/Narrabri
-  - https://en.wikipedia.org/wiki/Narrabri
-  - https://www.wikidata.org/wiki/Q181766
+- https://en.wikivoyage.org/wiki/Narrabri
+- https://en.wikipedia.org/wiki/Narrabri
+- https://www.wikidata.org/wiki/Q181766
 title: Narrabri
 type: location
+heritage: 2.303
+vibrancy: 1.528
+nature: 4.757
+off_the_beaten_track: 3.709
 ---
 
 Narrabri sits on the Newell Highway in north-western New South Wales, where cotton country, dry woodland, and old volcanic ranges meet. The town itself is practical and low-key, but the country around it is unusually good: big basalt cliffs, a serious radio astronomy site, and the dark forests of the Pilliga within reach by car.

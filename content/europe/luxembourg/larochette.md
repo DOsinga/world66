@@ -4,15 +4,20 @@ type: location
 loc_type: city
 latitude: 49.7861
 longitude: 6.2189
-score: 6.8
-snippet: Mullerthal valley town below a ruined castle, with sandstone walks starting from the streets.
+score: 4.464
+snippet: Mullerthal valley town below a ruined castle, with sandstone walks starting
+  from the streets.
 sources:
-  - https://en.wikivoyage.org/wiki/Larochette
-  - https://www.mullerthal.lu/place/larochette-castle
-  - https://www.visitluxembourg.com/guided-tour/larochette-city-promenade
-  - https://www.mullerthal.lu/tour/stage-trail-mullerthal-trail-extratour-a
-  - https://www.visitluxembourg.com/tour/local-hiking-trail-l3
+- https://en.wikivoyage.org/wiki/Larochette
+- https://www.mullerthal.lu/place/larochette-castle
+- https://www.visitluxembourg.com/guided-tour/larochette-city-promenade
+- https://www.mullerthal.lu/tour/stage-trail-mullerthal-trail-extratour-a
+- https://www.visitluxembourg.com/tour/local-hiking-trail-l3
 wikidata: Q985397
+heritage: 3.411
+vibrancy: 1.642
+nature: 5.474
+off_the_beaten_track: 3.2
 ---
 
 Larochette is a small town in Luxembourg's Mullerthal region, folded into the valley of the White Ernz with castle ruins on the sandstone ridge above it. It is smaller and quieter than [Echternach](/europe/luxembourg/echternach), but the setting is stronger than many places twice its size.

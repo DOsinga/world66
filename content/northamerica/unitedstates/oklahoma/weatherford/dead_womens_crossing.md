@@ -1,16 +1,19 @@
 ---
-title: Dead Women Crossing
-type: poi
-category: Sight
 address: Northeast of Weatherford on Deer Creek
+category: Sight
 latitude: 35.56778
 longitude: -98.65083
-snippet: Eerily named rural crossroads with a grim local legend
-tags:
-- day_trips
-- sight
-story: The settlement got its name from the unsolved 1905 murder of Katie DeWitt James, a young schoolteacher whose decapitated body was found near a bridge on Deer Creek. The case briefly made national news; her travelling companion was suspected but never charged. The community itself never grew much, and the name stuck.
 score: 4.3
+snippet: Eerily named rural crossroads with a grim local legend
+story: The settlement got its name from the unsolved 1905 murder of Katie DeWitt James,
+  a young schoolteacher whose decapitated body was found near a bridge on Deer Creek.
+  The case briefly made national news; her travelling companion was suspected but
+  never charged. The community itself never grew much, and the name stuck.
+tags:
+- things_to_do
+- sight
+title: Dead Women Crossing
+type: poi
 ---
 
 Dead Women Crossing is an essentially uninhabited rural crossroads in Custer County, named for the 1905 murder of Katie DeWitt James. The case was one of the more notorious crimes in early Oklahoma statehood and was never definitively solved. The name has given the spot a small dark-tourism following.

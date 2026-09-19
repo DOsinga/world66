@@ -16,7 +16,7 @@ quick_facts:
   Harbour Coastline: 240 km
   Opera House Tiles: 1,056,006
   Population: 5.3 million
-score: 9.85
+score: 8.763
 snippet: Harbour city of beaches, ferries, and sandstone headlands around Australia's
   most recognisable waterfront.
 tip: Sydney is a harbour city, so get on the water — the Manly ferry is the best-value
@@ -25,6 +25,10 @@ tip: Sydney is a harbour city, so get on the water — the Manly ferry is the be
   Bondi to Coogee beats lying on the sand.
 title: Sydney
 type: location
+heritage: 7.975
+vibrancy: 9.129
+nature: 7.022
+off_the_beaten_track: 2.399
 ---
 
 Sydney is built around one of the most beautiful natural harbours in the world, and that harbour shapes everything about the city. The [Sydney Opera House](/australiaandpacific/australia/newsouthwales/sydney/opera_house) and [Harbour Bridge](/australiaandpacific/australia/newsouthwales/sydney/harbour_bridge) are the famous landmarks, but the real pleasure is in how water threads through daily life here — ferries crisscrossing the harbour, coastal walks connecting beach after beach, and that particular quality of light bouncing off the Pacific.

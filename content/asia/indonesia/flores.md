@@ -9,6 +9,10 @@ snippet: Volcanic Indonesian island of Catholic villages, coloured crater lakes,
   dragons, and rugged mountain roads.
 title: Flores
 type: location
+image: flores.jpg
+image_source: https://commons.wikimedia.org/wiki/File:South_coast_of_Flores_Island,_Indonesia,_20250824_1044_3113.jpg
+image_license: CC BY 4.0
+image_attribution: Jakub Hałun
 ---
 
 Flores is one of Indonesia's most rewarding islands — volcanic, mountainous, and almost entirely Catholic in a country that's otherwise the world's largest Muslim nation. The Portuguese named it after its flowers, and while the flora is lush, what draws travellers here is something stranger and more dramatic: coloured crater lakes, Komodo dragons, excellent diving, and a rugged interior that rewards those who slow down.

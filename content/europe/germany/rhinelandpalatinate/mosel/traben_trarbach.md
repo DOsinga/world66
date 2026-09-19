@@ -5,7 +5,7 @@ loc_type: city
 latitude: 49.9508
 longitude: 7.1156
 wikidata: Q540919
-score: 7.4
+score: 4.999
 snippet: Twin Mosel wine town known for Jugendstil buildings, bridge towers, and cellar
   tunnels.
 sources:
@@ -17,6 +17,10 @@ image: traben_trarbach.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Moselle_in_Traben-Trarbach_(view_from_the_south).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Carsten Steger
+heritage: 5.735
+vibrancy: 4.348
+nature: 4.918
+off_the_beaten_track: 2.018
 ---
 
 *Europe > Germany > Rhineland-Palatinate > Mosel > Traben-Trarbach*

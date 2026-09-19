@@ -5,11 +5,15 @@ done:
 latitude: 14.4513
 loc_type: city
 longitude: -87.6395
-score: 7.0
+score: 5.022
 snippet: Former Honduran capital with a colonial centre and cathedral clock tied to
   the Alhambra.
 title: Comayagua
 type: location
+heritage: 4.851
+vibrancy: 3.708
+nature: 5.728
+off_the_beaten_track: 4.478
 ---
 
 Comayagua is the former capital of Honduras, founded in 1537 and the seat of colonial government for more than 300 years. After being heavily damaged by fire during the civil war of 1873, the capital was moved to Tegucigalpa — and Comayagua has been relatively unchanged ever since.

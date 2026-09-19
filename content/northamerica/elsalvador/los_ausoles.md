@@ -2,13 +2,17 @@
 latitude: 13.9154
 loc_type: feature
 longitude: -89.8171
-score: 6.9
-snippet: Steaming geothermal field near Ahuachapan, where mud pools and fumaroles break
-  through coffee country.
+score: 4.842
+snippet: Steaming geothermal field near Ahuachapan, where mud pools and fumaroles
+  break through coffee country.
 sources:
 - https://en.wikipedia.org/wiki/Los_Ausoles
 title: Los Ausoles
 type: location
+heritage: 1.693
+vibrancy: 1.299
+nature: 6.417
+off_the_beaten_track: 3.568
 ---
 
 Los Ausoles is a geothermal area on the edge of Ahuachapan, close enough to the Ruta de las Flores to combine with a visit to [Apaneca](/northamerica/elsalvador/apaneca) if you have your own car or a driver for the day. Steam rises from vents, mud pools bubble at the surface, and fumaroles hiss where the volcanic ground breaks through the coffee-country calm. It is a reminder that the pleasant highland scenery sits on restless volcanic geology.

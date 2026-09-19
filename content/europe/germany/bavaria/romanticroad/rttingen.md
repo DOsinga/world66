@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Fr%C3%A4nkisches_Fachwerk_
 latitude: 49.509684
 loc_type: city
 longitude: 9.968819
-score: 7.66
+score: 4.733
 snippet: Small Tauber valley wine town with intact medieval walls at the start of
   the Romantic Road
 title: Röttingen
 type: location
+heritage: 6.142
+vibrancy: 2.722
+nature: 2.975
+off_the_beaten_track: 1.98
 ---
 
 Röttingen bills itself as the first town on the Romantic Road, and it is a charming introduction. This small wine village in the Tauber valley still has its medieval [city walls](/europe/germany/bavaria/romanticroad/rttingen/city_walls) largely intact, and the centre is a pleasant jumble of half-timbered houses around a baroque [town hall](/europe/germany/bavaria/romanticroad/rttingen/rathaus). Above them, [Burg Brattenstein](/europe/germany/bavaria/romanticroad/rttingen/burg_brattenstein) looks down from the ridge and turns into an open-air theatre every summer.

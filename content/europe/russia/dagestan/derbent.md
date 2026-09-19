@@ -10,11 +10,15 @@ image_source: https://www.flickr.com/photos/26781577@N07/33219095698
 latitude: 42.0579
 loc_type: city
 longitude: 48.2888
-score: 7.42
+score: 5.904
 snippet: Ancient Caspian gateway city with Sassanid walls, a hilltop citadel, and
   layered Caucasus cultures.
 title: Derbent
 type: location
+heritage: 6.58
+vibrancy: 2.078
+nature: 6.245
+off_the_beaten_track: 4.675
 ---
 
 Derbent is arguably the oldest city in Russia, wedged onto a narrow three-kilometre strip of land between the Caspian Sea and the Caucasus mountains. That geography made it the key to controlling movement between south-eastern Europe and the Middle East for millennia, and every empire that wanted the Caucasus came here first — Sassanids, Arabs, Khazars, Mongols, Persians, and Russians all left their mark. The result is a city that wears its history openly, in the form of massive ancient walls, a well-preserved citadel, and a layered cultural identity that mixes Russian, Azerbaijani, Lezgin, and Tabasaran influences.

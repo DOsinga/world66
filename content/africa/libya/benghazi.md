@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Al_Daawa_alIslamiyah2.JPG
 latitude: 32.12
 loc_type: city
 longitude: 20.0812
-score: 4.38
+score: 5.787
 snippet: Eastern Libyan port city on the Gulf of Sirte, with a distinct commercial
   identity from Tripoli.
 title: Benghazi
 type: location
+heritage: 6.267
+vibrancy: 1.836
+nature: 3.23
+off_the_beaten_track: 8.943
 ---
 
 Benghazi is Libya's second city and the capital of the east. It has a different feel from Tripoli — more Middle Eastern in character, more conservative, with its own distinct commercial and political identity. The city sits on the Gulf of Sirte, about 1,000 km east of Tripoli.

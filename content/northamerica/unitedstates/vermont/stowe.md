@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:In_Stowe,_Vermont_by_Alfre
 latitude: 44.4644
 loc_type: city
 longitude: -72.6856
-score: 8.49
+score: 5.612
 snippet: Green Mountains village below Mount Mansfield, known for skiing, foliage,
   and the Stowe Recreation Path.
 title: Stowe
 type: location
+heritage: 2.992
+vibrancy: 3.508
+nature: 7.004
+off_the_beaten_track: 3.597
 ---
 
 Stowe is a small village in the Green Mountains of Vermont, often called the ski capital of the East. [Mount Mansfield](/northamerica/unitedstates/vermont/stowe/mount_mansfield), Vermont's highest peak, rises just to the west, and the [Stowe Mountain Resort](/northamerica/unitedstates/vermont/stowe/stowe_mountain_resort) on its slopes draws skiers all winter. But Stowe works year-round — the fall foliage is spectacular, summer brings hiking and mountain biking, and the village itself is pretty enough to warrant a stroll in any season.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aigle,_Switzerland_-_panor
 latitude: 46.3167
 loc_type: city
 longitude: 6.9667
-score: 7.18
+score: 5.945
 snippet: Vaud wine town below Leysin, with a turreted castle set among Chablais vineyards.
 sources:
 - https://en.wikipedia.org/wiki/Aigle
@@ -16,6 +16,10 @@ sources:
 - https://www.alpesvaudoises.ch/en/P430/aigle/chateau-daigle-vines-wine-and-wine-labels-museum
 title: Aigle
 type: location
+heritage: 4.748
+vibrancy: 2.986
+nature: 7.202
+off_the_beaten_track: 3.236
 ---
 
 Aigle sits in the Rhône valley between Lake Geneva and the Vaud Alps, a useful rail junction that turns out to be much more than a place to change trains. The old town is modest, but the setting is excellent: vineyards climb the slopes above the valley floor, mountain trains leave for [Leysin](/europe/switzerland/leysin), and the towers of [Aigle Castle](/europe/switzerland/aigle/aigle_castle) rise from the vines.

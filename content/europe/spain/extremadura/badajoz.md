@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Archivo_Hist%C3%B3rico_Pro
 latitude: 38.878187
 loc_type: city
 longitude: -6.970111
-score: 6.96
+score: 4.559
 title: Badajoz
 type: location
 snippet: Guadiana River frontier city where Moorish walls and Portuguese influence
   meet Extremaduran tapas culture.
+heritage: 5.866
+vibrancy: 2.723
+nature: 2.892
+off_the_beaten_track: 2.145
 ---
 
 Badajoz is one of those Spanish cities where you might be the only tourist in town. Sitting on the banks of the Guadiana River just six kilometres from the Portuguese border, the capital of Extremadura's largest province has an Andalusian warmth mixed with Portuguese influence, a Moorish fortress overlooking the old quarter, and tapas bars where a beer still comes with a free plate of food.

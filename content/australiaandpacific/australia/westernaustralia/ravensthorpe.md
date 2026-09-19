@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/63479603@N00/53882618513
 latitude: -33.581345
 loc_type: city
 longitude: 120.04735
-score: 5.58
+score: 4.857
 snippet: Small Western Australian town amid ancient ranges, known for spring wildflowers
   and the Ravensthorpe Range.
 title: Ravensthorpe
 type: location
+heritage: 3.279
+vibrancy: 1.474
+nature: 6.055
+off_the_beaten_track: 4.827
 ---
 
 Ravensthorpe is a small town in Western Australia, roughly 550 km southeast of Perth, 290 km east of Albany, and 187 km west of Esperance. It sits among ancient ranges, rocky hills, and rugged river valleys, with bushland rich in geology, native flora, and fauna.

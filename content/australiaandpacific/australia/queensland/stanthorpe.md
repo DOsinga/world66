@@ -4,14 +4,19 @@ type: location
 loc_type: city
 latitude: -28.6553
 longitude: 151.9343
-score: 6.8
-snippet: Granite Belt wine town on Queensland's cool high country, with orchards, cellar doors, and granite boulder parks.
+score: 4.379
+snippet: Granite Belt wine town on Queensland's cool high country, with orchards,
+  cellar doors, and granite boulder parks.
 wikidata: Q268059
 sources:
 - https://en.wikivoyage.org/wiki/Stanthorpe
 - https://www.wikidata.org/wiki/Q268059
 - https://en.wikipedia.org/wiki/Stanthorpe,_Queensland
 - https://granitebeltwinecountry.com.au/
+heritage: 2.878
+vibrancy: 2.827
+nature: 5.421
+off_the_beaten_track: 2.014
 ---
 
 Stanthorpe is the main town of the Granite Belt, a cool, high-country pocket of southern Queensland where vineyards, apple orchards, and granite outcrops replace the coastal heat people often expect from the state. It sits on the New England Highway, close to the New South Wales border, and makes a useful base for exploring wineries and national parks spread across the surrounding countryside.

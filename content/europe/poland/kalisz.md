@@ -1,16 +1,21 @@
 ---
-latitude: 51.7570
+latitude: 51.757
 loc_type: city
-longitude: 18.0830
-score: 7.0
-snippet: One of Poland's oldest cities, with Piast archaeology, rebuilt squares, churches, and a serious theatre tradition.
+longitude: 18.083
+score: 4.766
+snippet: One of Poland's oldest cities, with Piast archaeology, rebuilt squares, churches,
+  and a serious theatre tradition.
 sources:
-  - https://en.wikivoyage.org/wiki/Kalisz
-  - https://www.kalisz.pl/en/residents/news/tourist-attractions%2C66417
-  - https://regionwielkopolska.pl/en/katalog-obiektow/zawodzie-archaeological-reserve-in-kalisz/
-  - https://www.wikidata.org/wiki/Q52842
+- https://en.wikivoyage.org/wiki/Kalisz
+- https://www.kalisz.pl/en/residents/news/tourist-attractions%2C66417
+- https://regionwielkopolska.pl/en/katalog-obiektow/zawodzie-archaeological-reserve-in-kalisz/
+- https://www.wikidata.org/wiki/Q52842
 title: Kalisz
 type: location
+heritage: 6.502
+vibrancy: 2.097
+nature: 2.173
+off_the_beaten_track: 2.256
 ---
 
 Kalisz is one of Poland's oldest cities, a place that leans on age rather than polish. It is not as instantly pretty as Krakow or Gdansk; much of the centre had to be rebuilt after German troops devastated the city at the start of World War I. But the layers are real: Roman-era trade routes, early Piast settlement, medieval churches, Jewish and textile history, and a theatre tradition that still matters.

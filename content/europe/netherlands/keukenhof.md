@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:15_April_at_Keukenhof,_Lis
 latitude: 52.269873
 loc_type: feature
 longitude: 4.547257
-score: 9.39
+score: 4.462
 snippet: Spring bulb garden between Haarlem and Leiden, with millions of tulips spread
   across Dutch parkland.
 title: Keukenhof
 type: location
+heritage: 2.294
+vibrancy: 2.971
+nature: 5.48
+off_the_beaten_track: 1.236
 ---
 
 Anyone with an interest in flowers visiting the [Netherlands](/europe/netherlands) in spring should make the trip to Keukenhof. Open from mid-March to mid-May, this is one of the world's largest flower gardens — some six million tulips, hyacinths, daffodils, and other bulbs are planted each year across 32 hectares of parkland.

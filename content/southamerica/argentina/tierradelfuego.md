@@ -5,7 +5,7 @@ done:
 latitude: -54.3815
 loc_type: city
 longitude: -67.5679
-score: 8.44
+score: 6.095
 title: Tierra del Fuego
 type: location
 image: tierradelfuego.jpg
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Beagle_Channel
 snippet: Remote South American island of forests, peat bogs, and mountains plunging
   into the Beagle Channel.
+heritage: 2.91
+vibrancy: 1.815
+nature: 7.669
+off_the_beaten_track: 5.828
 ---
 
 Tierra del Fuego is the great island at the southern tip of South America, divided between Argentina and Chile along a north-south line. It is one of the most remote and dramatic landscapes on the continent — dense Nothofagus forests, glacial lakes, peat bogs, and mountains that plunge directly into the Beagle Channel. Wind and rain are constants; the light, when it comes, is extraordinary.

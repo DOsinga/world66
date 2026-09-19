@@ -1,25 +1,25 @@
 ---
+image: sphinx.jpg
+image_attribution: Mstyslav Chernov
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Great_Sphinx_of_Giza._Cairo,_Egypt,_North_Africa.jpg
 latitude: 29.975281
 longitude: 31.137512
 score: 9.0
 snippet: Iconic half-lion, half-human limestone monument at Giza
-story: >
-  The Sphinx spent most of its existence buried to the neck in sand — it was
-  excavated and re-buried multiple times over the millennia. The Roman emperor
-  Septimius Severus ordered an excavation around 200 CE. The Mamluk governor of
-  Cairo reportedly had the nose deliberately broken off in the 14th century — a
-  story supported by the fragmentary evidence of a chisel mark — though other
-  accounts attribute it to Napoleonic cannon fire, a myth that has been thoroughly
-  disproven.
+story: 'The Sphinx spent most of its existence buried to the neck in sand — it was
+  excavated and re-buried multiple times over the millennia. The Roman emperor Septimius
+  Severus ordered an excavation around 200 CE. The Mamluk governor of Cairo reportedly
+  had the nose deliberately broken off in the 14th century — a story supported by
+  the fragmentary evidence of a chisel mark — though other accounts attribute it to
+  Napoleonic cannon fire, a myth that has been thoroughly disproven.
+
+  '
 tags:
-- day_trips
+- things_to_do
 - giza
 title: Sphinx
 type: poi
-image: sphinx.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Great_Sphinx_of_Giza._Cairo,_Egypt,_North_Africa.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Mstyslav Chernov
 ---
 
 The Great Sphinx is the largest monolithic sculpture in the world — a single piece of limestone, 73 metres long and 20 metres high, carved directly from the bedrock of the Giza plateau. It depicts a lion's body with a human head, facing east toward the sunrise, and is believed to represent the pharaoh Khafre, whose pyramid stands directly behind it.

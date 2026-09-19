@@ -4,8 +4,12 @@ type: location
 loc_type: city
 latitude: 49.4028
 longitude: -123.5036
-score: 5.8
+score: 5.285
 snippet: Sunshine Coast harbour town known for artists, ferry arrivals, and The Beachcombers
+heritage: 2.166
+vibrancy: 3.448
+nature: 6.525
+off_the_beaten_track: 2.106
 ---
 
 Gibsons is the first real town many travellers meet on British Columbia's Sunshine Coast, a harbour community reached by ferry from Horseshoe Bay rather than by road from Vancouver. That ferry separation matters. Even though the town is on the mainland, it feels like an island arrival: boats in Howe Sound, wooded hills behind, and a slower rhythm as soon as you step into Lower Gibsons.

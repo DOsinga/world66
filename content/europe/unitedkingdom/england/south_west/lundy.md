@@ -4,7 +4,7 @@ type: location
 loc_type: feature
 latitude: 51.18
 longitude: -4.67
-score: 8.3
+score: 6.421
 snippet: Granite island in the Bristol Channel, rich in seabirds, shipwreck stories,
   lighthouses, and rough walking.
 sources:
@@ -15,10 +15,14 @@ image: lundy.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lundy_Island_,_Coastal_Scenery_-_geograph.org.uk_-_5852332.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Lewis Clarke
+heritage: 3.08
+vibrancy: 1.16
+nature: 8.194
+off_the_beaten_track: 5.761
 ---
 
 Lundy is a three-mile granite island where the Bristol Channel meets the Atlantic, and it feels much larger than it is. There are no cars, almost no softness, and very little to buy beyond the basics. That is the point. You come for cliffs, wind, seabirds, lighthouses, and the strange pleasure of being briefly cut off from Devon.
 
-The island has enough history for a much bigger place. [Marisco Castle](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/lundy/marisco_castle) guards the landing side, [St Helen's Church](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/lundy/st_helens_church) rises from the tiny settlement, and the [Old Light](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/lundy/old_light) still tells the best lighthouse story on the island precisely because it failed so dramatically in fog.
+The island has enough history for a much bigger place. [Marisco Castle](/europe/unitedkingdom/england/south_west/lundy/marisco_castle) guards the landing side, [St Helen's Church](/europe/unitedkingdom/england/south_west/lundy/st_helens_church) rises from the tiny settlement, and the [Old Light](/europe/unitedkingdom/england/south_west/lundy/old_light) still tells the best lighthouse story on the island precisely because it failed so dramatically in fog.
 
-For most visitors, the real sight is the walk itself. Follow the island track north, watch for puffins and seals, detour to [North Lighthouse](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/lundy/north_lighthouse), and give yourself time to stare from the western cliffs. Lundy is absolutely worth a spare day if the sea crossing is running.
+For most visitors, the real sight is the walk itself. Follow the island track north, watch for puffins and seals, detour to [North Lighthouse](/europe/unitedkingdom/england/south_west/lundy/north_lighthouse), and give yourself time to stare from the western cliffs. Lundy is absolutely worth a spare day if the sea crossing is running.

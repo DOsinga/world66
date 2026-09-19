@@ -4,8 +4,12 @@ type: neighbourhood
 latitude: 38.7163
 longitude: -9.1502
 tags:
-  - things_to_do
-  - neighbourhood
+- things_to_do
+- neighbourhood
+image: principe_real.jpg
+image_source: https://commons.wikimedia.org/wiki/File:JardimPrincipeReal2.JPG
+image_license: Public domain
+image_attribution: CorreiaPM
 ---
 
 Príncipe Real is Lisbon's most quietly elegant neighbourhood, a hilltop district of grand 19th-century townhouses, antique shops, and a Saturday farmers market around a shaded garden. It sits just above Chiado and Bairro Alto, connected by steep streets and the Elevador da Glória funicular, and has the character of a village within the city.

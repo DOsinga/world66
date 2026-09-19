@@ -4,9 +4,15 @@ type: location
 loc_type: city
 latitude: 30.47
 longitude: -90.03
-snippet: Small Louisiana Northshore town known for Abita beer, spring history, and folk-art oddities.
+snippet: Small Louisiana Northshore town known for Abita beer, spring history, and
+  folk-art oddities.
 sources:
-  - https://en.wikivoyage.org/wiki/Abita_Springs
+- https://en.wikivoyage.org/wiki/Abita_Springs
+score: 3.838
+heritage: 4.097
+vibrancy: 2.819
+nature: 4.213
+off_the_beaten_track: 1.792
 ---
 
 *North America > United States > Louisiana > Abita Springs*

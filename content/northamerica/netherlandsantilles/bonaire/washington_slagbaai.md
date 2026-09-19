@@ -10,8 +10,12 @@ longitude: -68.383
 snippet: "Northern third of the island, all desert and reef"
 story: "The park was the first nature sanctuary in the Netherlands Antilles, founded in 1969 when the **Plantation Washington** went bankrupt and the government took the land. Slagbaai was added in 1979. The drying-out salt pan **Saliña Slagbaai** still has the abandoned salt-loading dock from when the bay shipped Bonaire's salt to Europe."
 score: 8.3
+sources:
+  - https://stinapabonaire.org/washington-slagbaai-national-park/
 ---
 
-The whole northwestern third of Bonaire is a national park — a wilderness of cactus, divi-divi trees, and limestone outcrops with **Mount Brandaris**, the island's 241 metre high point, in the middle. Two dirt-track loops cover the park: a 24 kilometre short route and a 34 kilometre long route. You drive yourself in your own car (4WD recommended for the long route), stop at viewpoints, beaches, salt pans, and the flamingo lagoon at Goto, and return to the gate before 5pm.
+Washington-Slagbaai protects Bonaire's wild northwest: cactus forest, limestone coast, salt lakes, beaches, and **Brandaris**, the island's 241-metre high point. Unpaved one-way driving routes lead through the park, with stops for viewpoints, short walks, swimming, and snorkelling. The road is slow and rough enough that even the shorter circuit takes a substantial part of the day.
 
-The park is one of the great wildlife destinations of the Caribbean: flamingos at Goto Meer, yellow-shouldered Amazon parrots in the wooded valleys, iguanas everywhere, and the snorkelling at **Wayaka II** and **Slagbaai Bay** is excellent. Bring a lunch, plenty of water, and book ahead for entry tickets in high season.
+Wildlife includes flamingos, iguanas, and the yellow-shouldered Amazon parrot, while Wayaka and Slagbaai Bay offer clear-water stops when conditions cooperate. Brandaris is a hot, exposed climb and requires an early start within park rules.
+
+Entry and last-admission times are enforced so visitors can leave before the gate closes. Check the current vehicle requirements, arrive early, carry food and ample water, and make sure your rental agreement permits park driving. A nature-fee receipt is required under the current system.

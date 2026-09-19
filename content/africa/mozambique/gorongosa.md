@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gorongosa_-_Waterbucks.JPG
 latitude: -18.766
 loc_type: feature
 longitude: 34.5
-score: 7.33
+score: 6.079
 snippet: Central Mozambican national park where floodplains, lions, and long-term
   restoration tell a rare comeback story.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Gorongosa_National_Park
 title: Gorongosa National Park
 type: location
+heritage: 1.297
+vibrancy: 1.058
+nature: 7.603
+off_the_beaten_track: 5.964
 ---
 
 Gorongosa National Park is one of Africa's great restoration stories. Wildlife was devastated during Mozambique's civil war, but the park has spent decades bringing back buffalo, elephant, lion, hippo, waterbuck, and the ecological balance that once made it famous.

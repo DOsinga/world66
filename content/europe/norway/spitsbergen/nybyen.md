@@ -11,9 +11,13 @@ loc_type: city
 snippet: Former Svalbard mining settlement at Longyear Valley's end, a timber-house
   cluster below the glacier
 longitude: 15.588229
-score: 6.73
+score: 7.45
 title: Nybyen
 type: location
+heritage: 2.319
+vibrancy: 2.096
+nature: 9.16
+off_the_beaten_track: 7.826
 ---
 
 Nybyen sits at the southern end of Longyear Valley, at the foot of the Longyear Glacier. Store Norske Spitsbergen Kulkompani built this tiny settlement after the Second World War to house its miners — eight solid timber houses, a bathhouse, a laundry, a shop, and a canteen known as Stormessa ("the big mess").

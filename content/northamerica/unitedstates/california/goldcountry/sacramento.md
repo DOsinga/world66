@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Sacramento_from_t
 latitude: 38.581061
 loc_type: city
 longitude: -121.493895
-score: 7.18
+score: 4.994
 title: Sacramento
 snippet: California capital at the Sacramento and American rivers, where the Gold
   Rush supply city took shape.
 type: location
+heritage: 5.593
+vibrancy: 4.671
+nature: 3.511
+off_the_beaten_track: 1.378
 ---
 
 Sacramento is the capital of California, a flat, tree-shaded city of about half a million people at the confluence of the **Sacramento** and **American** rivers in the northern end of California's Central Valley. It has none of the glamour of Los Angeles or the Bay Area, and few travellers make it a destination in its own right — which is a pity, because Sacramento is where California actually happened. When **John Sutter** built his fort here in 1839 and **gold** was discovered 50 km east at Coloma in 1848, the city became the supply centre of the Gold Rush, the terminus of the Pony Express, and the western end of the first transcontinental railroad. Almost every foundational story of California's rise passes through Sacramento at some point.

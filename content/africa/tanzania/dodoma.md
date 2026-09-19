@@ -14,7 +14,7 @@ quick_facts:
   Central Location: Why it was chosen
   Population: ~760,000
   Wine Country: Tanzania's vineyards
-score: 6.12
+score: 4.652
 snippet: Tanzania's official capital on a dry central plateau surrounded by rocky
   hills and vineyards.
 tip: Dodoma is Tanzania's official capital, chosen for its central location, though
@@ -23,6 +23,10 @@ tip: Dodoma is Tanzania's official capital, chosen for its central location, tho
   Mosque are landmarks. Most travellers pass through en route to the safari parks.
 title: Dodoma
 type: location
+heritage: 4.036
+vibrancy: 3.903
+nature: 5.324
+off_the_beaten_track: 4.689
 ---
 
 Dodoma is Tanzania's official capital, though in practice [Dar es Salaam](/africa/tanzania/daressalaam) remains the country's commercial and administrative heart. Parliament meets here, but most ministries and government offices stay on the coast. The decision to relocate the capital was made under Nyerere in the 1970s — Dar es Salaam was considered too geographically peripheral — and the move has been inching forward ever since.

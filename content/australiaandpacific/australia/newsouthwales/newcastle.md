@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Courthouse,_Newcastle,_Aus
 latitude: -32.9275
 loc_type: city
 longitude: 151.7817
-score: 7.25
+score: 6.767
 title: Newcastle
 snippet: Working harbour city north of Sydney, reinvented after the closure of its
   steelworks.
 type: location
+heritage: 6.247
+vibrancy: 6.869
+nature: 6.505
+off_the_beaten_track: 3.479
 ---
 
 Newcastle sits on a headland above a working harbour, about two hours north of Sydney by road or rail. It is Australia's seventh-largest city, but it carries itself more like a big country town — unhurried, unpretentious, and genuinely welcoming to visitors.

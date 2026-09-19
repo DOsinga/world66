@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Temple_of_Bacchus,_Baalbek
 latitude: 34.007887
 loc_type: city
 longitude: 36.211811
-score: 8.68
+score: 6.185
 snippet: Bekaa Valley city where colossal Roman temples preserve Lebanon's grandest
   classical ruins.
 sources:
@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Baalbek_Stones
 title: Baalbek
 type: location
+heritage: 8.025
+vibrancy: 2.979
+nature: 3.975
+off_the_beaten_track: 5.381
 ---
 
 Baalbek in the northern Bekaa Valley is one of the world's oldest cities and home to the most impressive classical ruins in Lebanon -- and arguably the most important Roman site in the Middle East.

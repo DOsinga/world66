@@ -8,16 +8,20 @@ title: Pontefract
 snippet: West Yorkshire market town known for a royal-prison castle and centuries
   of liquorice sweets.
 type: location
-score: 6.48
+score: 5.891
 loc_type: city
 image: pontefract.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aerial_photographs_of_the_Pontefract_Hospital_(20th_July_2025)_018.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Mtaylor848
+heritage: 7.369
+vibrancy: 3.379
+nature: 4.411
+off_the_beaten_track: 2.236
 ---
 
 Pontefract is a compact market town in West Yorkshire, best known for two things: a ruined castle with a grim royal past and the liquorice sweets that have been made here for centuries. Neither claim to fame is especially glamorous, but both are genuinely distinctive — you won't find many other towns where medieval regicide and confectionery are the twin pillars of local identity.
 
 The castle is the real draw. Pontefract Castle was one of the strongest fortresses in medieval England and served as a royal prison; Richard II almost certainly died here in 1400, and several other notable prisoners met their ends within its walls. The ruins are well maintained and free to enter, and the views from the remaining tower make the short climb worthwhile. The town has a decent market — one of the oldest in Yorkshire — and a scattering of independent shops around the Cornmarket and Market Place.
 
-Pontefract sits comfortably within reach of [Leeds](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/leeds) and [Wakefield](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/wakefield), both under thirty minutes by rail. It makes a reasonable half-day stop rather than an overnight destination, though the town has enough to fill a full day if you take your time at the castle and explore the surrounding area.
+Pontefract sits comfortably within reach of [Leeds](/europe/unitedkingdom/england/yorkshire/leeds) and [Wakefield](/europe/unitedkingdom/england/yorkshire/wakefield), both under thirty minutes by rail. It makes a reasonable half-day stop rather than an overnight destination, though the town has enough to fill a full day if you take your time at the castle and explore the surrounding area.

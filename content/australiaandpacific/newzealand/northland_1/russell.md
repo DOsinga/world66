@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Russell_New_Zealand_banner
 latitude: -35.261792
 loc_type: city
 longitude: 174.121529
-score: 7.91
+score: 5.795
 snippet: Tiny Bay of Islands waterfront town with outsized history as Kororareka,
   early European New Zealand's rough capital.
 title: Russell
 type: location
+heritage: 3.283
+vibrancy: 1.44
+nature: 7.374
+off_the_beaten_track: 5.271
 ---
 
 Russell is a tiny waterfront town in the Bay of Islands that belies its size with an outsized history. Before Auckland and Wellington existed as cities, Russell -- then known as Kororareka -- was the de facto capital of European New Zealand, and its reputation was fearsome. Whalers, sealers, escaped convicts, and grog sellers earned it the title "hellhole of the Pacific," a label that could not be further from the genteel village you find today.

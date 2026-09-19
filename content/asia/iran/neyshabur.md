@@ -2,7 +2,7 @@
 latitude: 36.2133
 loc_type: city
 longitude: 58.7956
-score: 7.9
+score: 4.897
 snippet: Ancient Khorasan city west of Mashhad, burial place of Omar Khayyam and Attar,
   and a centre of the turquoise trade.
 title: Neyshabur
@@ -11,6 +11,10 @@ image: neyshabur.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Neyshabur,_Iran_(39821468090).jpg
 image_license: CC BY 2.0
 image_attribution: Ninara from Helsinki, Finland
+heritage: 6.033
+vibrancy: 3.467
+nature: 2.899
+off_the_beaten_track: 4.63
 ---
 
 Neyshabur lies 115 km west of [Mashhad](/asia/iran/mashhad) on the old Mashhad–Tehran road, and for a few centuries in the early Islamic period it was one of the greatest cities of the Persian world — a centre of learning, ceramics, and trade until the Mongols sacked it in 1221. The medieval city never fully recovered. What you visit today is a modest provincial town, but one wrapped around two of the most resonant tombs in Iran.

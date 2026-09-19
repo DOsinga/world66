@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_Borjomi_from_t
 latitude: 41.8412
 loc_type: city
 longitude: 43.3839
-score: 8.27
+score: 4.923
 snippet: Georgian mineral-water town in a pine-lined Mtkvari gorge beside Borjomi-Kharagauli
   National Park
 title: Borjomi
 type: location
+heritage: 4.976
+vibrancy: 4.38
+nature: 5.514
+off_the_beaten_track: 3.251
 ---
 
 You will hear the name Borjomi everywhere in Georgia — it is the brand that made the country's mineral water famous, and like Spa in Belgium, the town's name has become a generic term. The actual town sits in a narrow [gorge](/europe/georgia/borjomi/borjomi_gorge) in the Samtskhe-Javakheti region, surrounded by pine-forested hills and criss-crossed by the Mtkvari River.

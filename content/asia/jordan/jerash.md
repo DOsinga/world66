@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Oval_Plaza_(Forum_Romanum,
 latitude: 32.278448
 loc_type: city
 longitude: 35.88968
-score: 8.95
+score: 7.357
 snippet: Jordanian town beside ancient Gerasa, one of the best-preserved Roman provincial
   cities.
 title: Jerash
 type: location
+heritage: 9.417
+vibrancy: 4.493
+nature: 4.236
+off_the_beaten_track: 3.656
 ---
 
 Jerash is a must-see. Hidden under a Circassian farming town until excavations began in the 1920s, the ruins of ancient Gerasa turned out to be among the best-preserved Greco-Roman provincial cities in the world — sometimes called the "Pompeii of the East."

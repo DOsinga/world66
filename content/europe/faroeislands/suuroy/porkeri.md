@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Porkeri.2.2002.jpg
 latitude: 61.481959
 loc_type: city
 longitude: -6.746296
-score: 7.08
+score: 6.157
 snippet: Small east-coast village on Suðuroy, with old turf-roofed buildings and views
   across the fjord.
 title: Porkeri
 type: location
+heritage: 1.819
+vibrancy: 0.785
+nature: 7.65
+off_the_beaten_track: 6.202
 ---
 
 Porkeri is a small village on the east coast of Suðuroy, the southernmost of the [Faroe Islands](/europe/faroeislands), situated between [Hov](/europe/faroeislands/suuroy/hov) to the north and [Vágur](/europe/faroeislands/suuroy/vgur) to the south. The population is around 330. Like most Faroese villages, it sits at the edge of the sea with steep hillsides rising behind it.

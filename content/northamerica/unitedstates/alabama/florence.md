@@ -10,10 +10,14 @@ image_source: https://www.flickr.com/photos/16069488@N00/27634317182
 latitude: 34.79981
 loc_type: city
 longitude: -87.677251
-score: 6.34
+score: 2.352
 snippet: Tennessee River city in the Shoals, birthplace of blues pioneer W.C. Handy.
 title: Florence
 type: location
+heritage: 2.176
+vibrancy: 2.436
+nature: 1.991
+off_the_beaten_track: 1.867
 ---
 
 Florence sits on the north bank of the Tennessee River in the Shoals area of northwest Alabama, a cluster of four towns -- Florence, Muscle Shoals, Sheffield, and [Tuscumbia](/northamerica/unitedstates/alabama/tuscumbia) -- that punch well above their weight culturally.

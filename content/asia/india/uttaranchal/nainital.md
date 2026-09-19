@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Nainital_metro.jpg
 latitude: 29.294995
 loc_type: city
 longitude: 79.416251
-score: 7.99
+score: 6.433
 title: Nainital
 type: location
 snippet: Kumaon hill station wrapped around Naini Lake, with colonial promenades and
   cool air above the plains.
+heritage: 3.531
+vibrancy: 6.148
+nature: 7.001
+off_the_beaten_track: 2.938
 ---
 
 Nainital is a hill station in the Kumaon hills of [Uttarakhand](/asia/india/uttaranchal), built around a crescent-shaped lake at about 2,000 metres. It was developed as a summer retreat by the British in the 1840s and still has that hill-station character — colonial-era buildings, a promenade along the lake, and cool air even when the plains below are baking. It serves as the judicial capital of Uttarakhand, where the High Court and the Governor's residence (Raj Bhavan) are located.

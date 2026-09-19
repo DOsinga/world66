@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jahaz_Mahal_03.jpg
 latitude: 22.3353
 loc_type: city
 longitude: 75.4158
-score: 7.11
+score: 5.091
 snippet: Ruined Malwa fortress town on a Vindhya plateau, scattered with Afghan palaces,
   mosques, and tombs.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Mandav
 title: Mandu
 type: location
+heritage: 5.361
+vibrancy: 2.61
+nature: 5.619
+off_the_beaten_track: 4.953
 ---
 
 Mandu is one of central India's great ruin fields: a walled plateau above the Nimar plains, full of Afghan palaces, stepwells, tombs, mosques, gateways, and half-forgotten pavilions. It is often described as a romance of stone, and for once the phrase is not too much. The best buildings are severe and elegant rather than over-decorated, and the setting gives them room to breathe.

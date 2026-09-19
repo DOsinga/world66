@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aharbal.jpg
 latitude: 33.6447
 loc_type: city
 longitude: 75.0188
-score: 5.38
+score: 4.532
 snippet: Southern Kashmir town among rice paddies and apple orchards, with Aharbal
   Falls up the Veshaw valley.
 title: Kulgam
 type: location
+heritage: 2.989
+vibrancy: 2.816
+nature: 5.248
+off_the_beaten_track: 5.821
 ---
 
 Kulgam is a small town in the southern Kashmir Valley, sitting at 1,739 metres on the banks of the [Veshaw river](/asia/india/jammuandkashmir/kulgam/veshaw_river) with the foothills of the Pir Panjal mountains rising across the valley. It is the district headquarters and known locally as the rice bowl of Kashmir, surrounded by rice paddies and apple orchards.

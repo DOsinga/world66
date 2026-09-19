@@ -10,9 +10,13 @@ loc_type: city
 snippet: Working Israeli port city on Mount Carmel, mixing Bahá'í gardens, beaches,
   and Jewish-Arab neighbourhoods.
 longitude: 34.998386
-score: 8.38
+score: 6.869
 title: Haifa
 type: location
+heritage: 6.709
+vibrancy: 6.982
+nature: 5.265
+off_the_beaten_track: 1.697
 ---
 
 Haifa is the third biggest city of Israel and the economic powerhouse of the country. As the people in Haifa say: [Jerusalem](/asia/israel/jerusalem) is for praying, Tel Aviv for partying, Haifa for working. 

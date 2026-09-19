@@ -4,13 +4,17 @@ done:
 latitude: 48.027
 loc_type: city
 longitude: 122.7083
-score: 6.43
+score: 4.889
 snippet: Green Inner Mongolian foothill city where Greater Khingan forests replace
   the open steppe.
 sources:
 - https://en.wikivoyage.org/wiki/Inner_Mongolia
 title: Zalantun
 type: location
+heritage: 3.112
+vibrancy: 2.035
+nature: 5.769
+off_the_beaten_track: 5.926
 ---
 
 Zalantun is a small city in the southeastern foothills of the Greater Khingan Mountains, in a corner of Inner Mongolia that most visitors never reach. Known locally as the "Little Jiangnan of Saibei" — Jiangnan being the lush, waterlogged region around Suzhou and Hangzhou — the nickname points at something genuine: Zalantun is greener, wetter, and more forested than anywhere in the grassland heartland to the west. Rivers cut through wooded gorges, fishing is good, and the landscape has a layered beauty that is entirely different from the open steppe.

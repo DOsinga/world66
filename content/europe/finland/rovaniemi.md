@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Rovaniemi_-The_%E2%80%9DLu
 latitude: 66.502554
 loc_type: city
 longitude: 25.730391
-score: 8.8
+score: 6.33
 snippet: Finnish Lapland capital on the Arctic Circle, rebuilt after 1944 and shaped
   by Alvar Aalto
 title: Rovaniemi
 type: location
+heritage: 4.203
+vibrancy: 4.12
+nature: 7.821
+off_the_beaten_track: 2.612
 ---
 
 Rovaniemi sits right on the Arctic Circle, the capital of Finnish Lapland and the self-proclaimed hometown of Santa Claus. Gold fever brought adventurers here in the early 1800s and kicked off the town’s growth, but the German army burned Rovaniemi to the ground during their retreat in 1944. What rose from the ashes is an entirely modern city — Alvar Aalto designed the town plan in the shape of reindeer antlers.

@@ -5,7 +5,7 @@ done:
 latitude: 54.3713
 loc_type: city
 longitude: -2.9211
-score: 8.24
+score: 6.468
 snippet: Lake District base on Windermere, practical for boat trips, piers, and Victorian
   tourism.
 title: Bowness
@@ -14,6 +14,10 @@ image: bowness.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ardrossan%27s_fan_club._-_panoramio.jpg
 image_license: CC BY 3.0
 image_attribution: grumpylumixuser
+heritage: 4.819
+vibrancy: 4.449
+nature: 7.875
+off_the_beaten_track: 1.873
 ---
 
 More properly called Bowness-on-Windermere, this lakeside town grew up as a tourist centre in the Victorian era when the railway arrived from Kendal. It is not the prettiest settlement in the [Lake District](/europe/unitedkingdom/england/lakedistrict), but it is the most practical base for getting out on the water, and that is really the point of being here.

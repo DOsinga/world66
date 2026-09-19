@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Portico,_Gramado_-_RS,_Bra
 latitude: -29.379286
 loc_type: city
 longitude: -50.873702
-score: 8.34
+score: 5.427
 snippet: Serra Gaúcha mountain resort where German and Italian immigrant heritage
   shapes chocolate shops and half-timbered streets.
 title: Gramado
 type: location
+heritage: 3.54
+vibrancy: 4.909
+nature: 6.04
+off_the_beaten_track: 2.044
 ---
 
 Gramado is the kind of place Brazilians escape to when they want a break from Brazil. Perched in the Serra Gaúcha highlands two hours north of Porto Alegre, it's a mountain resort town that wears its European heritage with some pride — half-timbered houses, fondue restaurants, chocolate shops, and a main street that could pass for a Bavarian village if you squinted. The German and Italian immigrant influence here is genuine, not a theme park affectation.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Portrush_East_Strand_Beach
 latitude: 55.206032
 loc_type: city
 longitude: -6.654049
-score: 8.39
+score: 5.258
 snippet: Northern Ireland seaside resort on an Atlantic headland, close to Dunluce
   Castle and the Causeway Coast.
 title: Portrush
 type: location
+heritage: 2.843
+vibrancy: 4.981
+nature: 5.743
+off_the_beaten_track: 1.535
 ---
 
 Portrush is a small seaside resort on a headland jutting into the Atlantic on Northern Ireland's north coast. It has been pulling holidaymakers from Belfast and beyond since the Victorian era, and its two sandy beaches — the West Strand and the East Strand — are among the best in the north.

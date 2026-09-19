@@ -5,18 +5,23 @@ loc_type: city
 latitude: 45.4057
 longitude: -64.3259
 wikidata: Q499355
-score: 6.8
-snippet: Fundy shore village with dinosaur fossils, red-cliff walks, old seafaring houses, and Atlantic theatre.
+score: 4.816
+snippet: Fundy shore village with dinosaur fossils, red-cliff walks, old seafaring
+  houses, and Atlantic theatre.
 sources:
-  - https://en.wikivoyage.org/wiki/Parrsboro
-  - https://fundygeological.novascotia.ca/
-  - https://www.fundygeopark.ca/partridge-island
-  - https://www.ottawahousemuseum.ca/
-  - https://www.shipscompanytheatre.com/
+- https://en.wikivoyage.org/wiki/Parrsboro
+- https://fundygeological.novascotia.ca/
+- https://www.fundygeopark.ca/partridge-island
+- https://www.ottawahousemuseum.ca/
+- https://www.shipscompanytheatre.com/
 image: parrsboro.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Parrsboro_MainStreet_NS_Canada.JPG
 image_license: CC BY-SA 3.0
 image_attribution: SimonP at English Wikipedia
+heritage: 3.395
+vibrancy: 2.119
+nature: 6.026
+off_the_beaten_track: 3.317
 ---
 
 Parrsboro sits on the Minas Basin side of the Bay of Fundy, where the tides empty harbours, expose red mudflats, and keep dragging geology into plain sight. It is a small village, but it has a strong mix: fossil science, Mi'kmaq and shipbuilding history, Fundy views, and a theatre scene that feels too ambitious for a place this size.

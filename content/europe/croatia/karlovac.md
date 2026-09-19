@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Foginovo_kupali%C5%A1te.jp
 latitude: 45.4893
 loc_type: city
 longitude: 15.5486
-score: 7.67
+score: 4.183
 snippet: Croatian river city built as a Renaissance star fortress where the Kupa,
   Korana, Mrežnica, and Dobra meet.
 title: Karlovac
 type: location
+heritage: 4.075
+vibrancy: 2.206
+nature: 4.757
+off_the_beaten_track: 2.307
 ---
 
 Karlovac sits at the confluence of four rivers — the Kupa, Korana, Mrežnica and Dobra — and was built in 1579 as a Renaissance star fortress to defend the Habsburg frontier against the Ottomans. The original six-pointed star grid is still visible from the air, and walking the old town's streets you can feel the military precision of its layout.

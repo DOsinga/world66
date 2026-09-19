@@ -5,13 +5,17 @@ done:
 latitude: 34.198328
 loc_type: city
 longitude: -86.164942
-score: 5.39
+score: 2.777
 snippet: Small northeastern Alabama town known for outlet shopping near Lake Guntersville
   and the Tennessee River valley.
 sources:
 - https://en.wikipedia.org/wiki/Boaz,_Alabama
 title: Boaz
 type: location
+heritage: 3.151
+vibrancy: 2.054
+nature: 2.812
+off_the_beaten_track: 2.237
 ---
 
 Boaz is a small town in the foothills of northeastern Alabama, best known as a factory [outlet shopping](/northamerica/unitedstates/alabama/boaz/outlet_shopping) destination that draws bargain hunters from across the region. With hundreds of outlet stores clustered along the main highway, Boaz bills itself as the "Outlet Capital of Alabama" — and for shoppers who make the trip, the prices often justify the claim.

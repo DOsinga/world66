@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Sunset_over_Makeni,_Sierra
 latitude: 8.888194
 loc_type: city
 longitude: -12.044186
-score: 5.14
+score: 4.261
 snippet: Northern Sierra Leone market city and Bombali capital, with a university
   town energy and regional trade.
 title: Makeni
 type: location
+heritage: 3.044
+vibrancy: 1.885
+nature: 4.031
+off_the_beaten_track: 6.888
 ---
 
 Makeni is the largest city in northern Sierra Leone and the capital of the Bombali District, a busy market town that serves as the commercial hub for the surrounding region. The city was heavily affected during the civil war but has rebuilt steadily since, and the University of Makeni, run by the Salesians, has brought a youthful energy to the town.

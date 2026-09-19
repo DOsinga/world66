@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:BridgtonMaineBirdsEye1888.
 latitude: 44.0544
 loc_type: city
 longitude: -70.7089
-score: 7.04
+score: 5.226
 snippet: Western Maine lakes-and-mountains town with old summer cottages, ski slopes,
   and four-season outdoor escapes
 title: Bridgton
 type: location
+heritage: 3.321
+vibrancy: 2.565
+nature: 6.692
+off_the_beaten_track: 2.64
 ---
 
 Bridgton sits in the heart of western Maine's lakes and mountains region, roughly equidistant from [Portland](/northamerica/unitedstates/maine/portland), Freeport, and North Conway, New Hampshire. It is a genuine four-season town: swimming and canoeing on [Long Lake](/northamerica/unitedstates/maine/bridgton/long_lake) and [Highland Lake](/northamerica/unitedstates/maine/bridgton/highland_lake) in summer, spectacular foliage drives in fall, and skiing at [Pleasant Mountain](/northamerica/unitedstates/maine/bridgton/pleasant_mountain) and snowmobiling on a vast trail network in winter. The surrounding lakes and clean mountain air have drawn families here for generations, and the town still has the feel of old-fashioned New England summer vacations.

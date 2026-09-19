@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Buffalo_December_2024_03_(
 latitude: 42.886416
 loc_type: city
 longitude: -78.878149
-score: 6.94
+score: 5.239
 snippet: Lake Erie city near Niagara Falls with grain-port history and notable early
   modern architecture.
 title: Buffalo
 type: location
+heritage: 4.963
+vibrancy: 5.383
+nature: 4.832
+off_the_beaten_track: 1.869
 ---
 
 Buffalo is a working city on Lake Erie, 20 minutes from the Canadian border and 30 from **Niagara Falls**. Its heyday was the turn of the 20th century, when the opening of the Erie Canal made it the second-largest grain-shipping port in the world — and the wealth that flowed through built one of the best collections of early-20th-century American architecture you'll find anywhere. Frank Lloyd Wright's [Darwin D. Martin House](/northamerica/unitedstates/newyorkstate/buffalo/darwin_martin_house), Louis Sullivan's [Guaranty Building](/northamerica/unitedstates/newyorkstate/buffalo/guaranty_building), and H.H. Richardson's towers of the old state asylum — now the [Richardson Olmsted Campus](/northamerica/unitedstates/newyorkstate/buffalo/richardson_olmsted) — are all still here.

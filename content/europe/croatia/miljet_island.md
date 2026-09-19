@@ -2,15 +2,23 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 42.7485
-loc_type: region
+loc_type: island
 longitude: 17.0532
-score: 0.66
+score: 5.962
 snippet: Croatian island whose western end is a national park around two inland saltwater
   lakes.
-title: Miljet Island
+tags:
+- dalmatia
+title: Mljet Island
 type: location
+heritage: 2.631
+vibrancy: 1.373
+nature: 7.539
+off_the_beaten_track: 5.579
 ---
 
-Mljet is one of the most appealing day trips from [Dubrovnik](/europe/croatia/dubrovnik), though it deserves more time if you can spare it. The western end of the island is a national park built around two stunning inland saltwater lakes connected by a narrow channel.
+Mljet is one of the most appealing day trips from [Dubrovnik](/europe/croatia/dubrovnik), though it deserves more time if you can spare it. The western end of the island is [Mljet National Park](/europe/croatia/miljet_island/veliko_jezero), built around two interconnected saltwater lakes — the larger [Veliko Jezero](/europe/croatia/miljet_island/veliko_jezero) and the smaller, warmer [Malo Jezero](/europe/croatia/miljet_island/malo_jezero) — with a [Benedictine monastery](/europe/croatia/miljet_island/st_mary_monastery) on an islet in the middle of the Great Lake.
 
-Skip the boat ride to the monastery on the small island in the middle of the lake — it is overpriced and underwhelming. You are better off walking along the shore of the larger lake and finding a spot to swim. The water is warm, clear, and remarkably calm.
+Most visitors swim and cycle around the lakes — an [11km circuit](/europe/croatia/miljet_island/mljet_cycling) with bike rental in Polače and Pomena — or ride the current through the [Soline Channel](/europe/croatia/soline/soline_channel), where the tide reverses twice a day. The village of [Soline](/europe/croatia/soline) is the quietest base for exploring the park. Elsewhere on the island, the [Odysseus Cave](/europe/croatia/miljet_island/odysseus_cave) on the rocky southern coast is a memorable swim-through sea cave, its water turning bright blue around midday.
+
+Ferries from Dubrovnik dock at [Sobra](/europe/croatia/miljet_island/sobra), Mljet's principal port on the less-visited eastern end of the island; from there it's about 20km by road to the national park.

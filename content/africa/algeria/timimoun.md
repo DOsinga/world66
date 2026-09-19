@@ -5,11 +5,15 @@ done:
 latitude: 29.2605
 loc_type: city
 longitude: 0.2286
-score: 6.69
+score: 6.298
 snippet: Saharan oasis town of red Soudano-Saharien architecture beside palm groves
   and the Grand Erg Occidental.
 title: Timimoun
 type: location
+heritage: 4.341
+vibrancy: 1.827
+nature: 7.788
+off_the_beaten_track: 6.47
 ---
 
 Timimoun is an oasis town in central Algeria, deep in the Sahara, built on the edge of a great salt flat — the *sebkha* — that runs along the eastern fringe of the [Grand Erg Occidental](/africa/algeria/timimoun/grand_erg_occidental) dune sea. It is one of the most visually striking towns in the Algerian south: the buildings are painted in a deep, rust-red colour — a style called Soudano-Saharien architecture — set against the pale dunes and a vast [palm grove](/africa/algeria/timimoun/palm_grove) below. The [old ksar](/africa/algeria/timimoun/old_ksar) is a maze of arched alleyways and crumbling mud-brick towers.

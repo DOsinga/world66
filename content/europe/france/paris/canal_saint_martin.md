@@ -7,6 +7,10 @@ tags:
 - neighbourhood
 title: Canal Saint-Martin
 type: neighbourhood
+image: canal_saint_martin.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Canal_Saint-Martin_1.jpg
+image_license: CC BY 2.5
+image_attribution: Atlant
 ---
 
 Canal Saint-Martin runs for 4.5 kilometres from the Arsenal basin near the Bastille to La Villette in the north. For most of the 20th century it was an industrial waterway lined with warehouses; by the 2000s it had become the most fashionable neighbourhood in Paris, with independent cafes, wine bars, boutiques, and design shops along its banks.

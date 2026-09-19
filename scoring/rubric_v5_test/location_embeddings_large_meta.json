@@ -1,7 +1,0 @@
-{
-  "count": 2000,
-  "dimensions": 3072,
-  "model": "text-embedding-3-large",
-  "output": "scoring/rubric_v5_test/location_embeddings_large.npz",
-  "source": "scoring/rubric_v4_full/sample_2000.json"
-}

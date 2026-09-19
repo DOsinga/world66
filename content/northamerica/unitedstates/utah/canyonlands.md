@@ -5,7 +5,7 @@ done:
 latitude: 38.2136
 loc_type: feature
 longitude: -109.8932
-score: 9.35
+score: 5.951
 snippet: Southeastern Utah national park of canyons, mesas, and arches carved by the
   Colorado and Green rivers.
 title: Canyonlands
@@ -14,6 +14,10 @@ image: canyonlands.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Canyonlands_by_snowpeak_(1).jpg
 image_license: CC BY 2.0
 image_attribution: snowpeak
+heritage: 2.162
+vibrancy: 1.678
+nature: 7.456
+off_the_beaten_track: 5.796
 ---
 
 Canyonlands National Park is one of the great raw landscapes of the American West. The Colorado and Green rivers have carved the Colorado Plateau into a sprawling maze of canyons, mesas, and buttes — 527 square miles of red and orange sandstone in the canyon country of southeast Utah, near Moab.

@@ -7,9 +7,13 @@ loc_type: city
 snippet: Highland Mao Naga town on Manipur's Dimapur-Imphal road, surrounded by terraced
   hills and subtropical forest.
 longitude: 93.87
-score: 5.31
+score: 4.471
 title: Mao
 type: location
+heritage: 2.517
+vibrancy: 1.172
+nature: 4.715
+off_the_beaten_track: 6.93
 ---
 
 Mao is a hill station perched at 1,757 metres on the highway between Dimapur and [Imphal](/asia/india/manipur), roughly halfway through the journey across Manipur's rugged highlands. The town sits in the Senapati district, surrounded by terraced hillsides and thick subtropical forest, and serves as the heartland of the Mao Naga people. The [Mao Gate](/asia/india/manipur/mao/mao_gate), a few kilometres north, marks the border between Manipur and Nagaland and the traditional boundary of Mao Naga territory.

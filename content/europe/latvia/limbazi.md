@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 57.5143
 longitude: 24.7136
-score: 6.4
+score: 4.581
 snippet: Small Vidzeme town with medieval castle ruins, Latvian cultural history,
   silverwork, and lake walks.
 sources:
@@ -15,6 +15,10 @@ image: limbazi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Limba%C5%BEi,_Burtnieku_iela_8.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Egilus
+heritage: 5.895
+vibrancy: 1.69
+nature: 3.056
+off_the_beaten_track: 2.35
 ---
 
 Limbaži is a small town in Latvia's Vidzeme region, north of [Riga](/europe/latvia/riga) and west of [Cesis](/europe/latvia/cesis). It is not as immediately dramatic as the Gauja Valley towns, but it has enough history and local character to reward a slow half-day or day if you are travelling through northern Latvia.

@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ba%C3%B1os,_Ecuador.JPG
 latitude: -1.331916
 loc_type: city
 longitude: -78.262529
-score: 8.77
+score: 4.17
 snippet: Volcanic spa town below Tungurahua, where hot springs and waterfalls mark
   the road to the Amazon.
 title: Baños
 type: location
+heritage: 2.927
+vibrancy: 2.189
+nature: 5.146
+off_the_beaten_track: 4.317
 ---
 
 Baños de Agua Santa is one of Ecuador's most popular destinations for independent travellers, a small town built dramatically on a shelf beneath the active [Tungurahua volcano](/southamerica/ecuador/banos/tungurahua_views). The name means "baths of holy water" — hot springs fed by volcanic activity have drawn visitors for centuries, and the town's [basilica](/southamerica/ecuador/banos/basilica) is dedicated to the Virgen del Agua Santa, credited with protecting the town from eruptions and other calamities.

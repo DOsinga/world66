@@ -9,10 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Sharm_El_Sheikh_-_panorami
 latitude: 27.864442
 loc_type: city
 longitude: 34.295447
-score: 8.76
+score: 5.578
 title: Sharm el-Sheikh
 snippet: Red Sea resort city at Sinai's southern tip, known for reefs around Ras Mohammed.
 type: location
+heritage: 1.31
+vibrancy: 5.664
+nature: 5.354
+off_the_beaten_track: 1.762
 ---
 
 Sharm el-Sheikh sits at the southern tip of the Sinai Peninsula where the Red Sea splits into the Gulf of Aqaba and the Gulf of Suez. For divers it is one of the great destinations on earth — the coral reefs of [Ras Mohammed National Park](/africa/egypt/sharmelsheikh/ras_mohammed), the [Strait of Tiran](/africa/egypt/sharmelsheikh/tiran_island), and the Aqaba coast rank among the world's finest, with over 200 species of coral and more than a thousand species of fish in clear, warm water. But Sharm has long since outgrown its diving-only identity. Today it is a full-scale resort city, and most visitors come simply to lie on the beach, eat well, and enjoy the reliably sunny weather.

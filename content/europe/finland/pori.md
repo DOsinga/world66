@@ -11,11 +11,15 @@ image_source: https://www.flickr.com/photos/65608474@N03/51839774153
 latitude: 61.4866
 loc_type: city
 longitude: 21.7972
-score: 7.07
+score: 4.745
 snippet: Western Finnish river city near the Bothnian coast, known for Yyteri beach
   and its jazz festival.
 title: Pori
 type: location
+heritage: 3.214
+vibrancy: 4.845
+nature: 4.485
+off_the_beaten_track: 0.992
 ---
 
 Pori is a mid-sized port city on the Gulf of Bothnia, known across Finland — and to jazz lovers around the world — for its annual [Pori Jazz Festival](/europe/finland/pori/pori_jazz_festival). Every July for nine days, [Kirjurinluoto Island](/europe/finland/pori/kirjurinluoto_island) fills with music, drawing international names alongside Finnish acts to the riverside concert park. The festival is genuinely good, and worth timing a trip around.

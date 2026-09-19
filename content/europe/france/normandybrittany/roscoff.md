@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Roscoff_vue_Chapelle_St-Ba
 latitude: 48.725582
 loc_type: city
 longitude: -3.982898
-score: 7.98
+score: 5.744
 snippet: Granite Breton port town known for Plymouth ferries, merchant houses, and
   the old pink-onion trade.
 title: Roscoff
 type: location
+heritage: 4.211
+vibrancy: 4.187
+nature: 6.88
+off_the_beaten_track: 3.859
 ---
 
 Roscoff is a small granite port town at the tip of northern Brittany, the French end of the ferry crossing from Plymouth. Most people arriving here drive straight on toward the rest of Brittany or south into France, which is a shame — the town is worth a few hours at least.

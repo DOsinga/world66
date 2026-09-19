@@ -11,4 +11,4 @@ Take a boat from Plymouth to Cawsand, a scenic crossing past Drake's Island and 
 
 **Onto Dartmoor**
 
-For a single attraction within easy reach, [Buckland Abbey](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/plymouth/buckland_abbey) sits on the moor's southern fringe near Yelverton — a 13th-century Cistercian monastery turned Tudor house, once home to Sir Francis Drake and now a National Trust museum. It also makes an easy outing from [Tavistock](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/tavistock), the old stannary town just to the north.
+For a single attraction within easy reach, [Buckland Abbey](/europe/unitedkingdom/england/south_west/plymouth/buckland_abbey) sits on the moor's southern fringe near Yelverton — a 13th-century Cistercian monastery turned Tudor house, once home to Sir Francis Drake and now a National Trust museum. It also makes an easy outing from [Tavistock](/europe/unitedkingdom/england/south_west/tavistock), the old stannary town just to the north.

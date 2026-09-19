@@ -3,7 +3,7 @@ title: "Day 5: Harstad to Skjervoy via Tromso"
 type: poi
 snippet: "Lyngen Alps and Arctic scenery on the Hurtigruten route"
 tags:
-  - sights
+  - things_to_do
 latitude: 69.6489
 longitude: 18.9551
 score: 8.3

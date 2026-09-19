@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2019_Mission_Basilica_San_
 latitude: 33.5012
 loc_type: city
 longitude: -117.6626
-score: 7.64
+score: 3.869
 snippet: Orange County mission town with Spanish colonial architecture, adobe ruins,
   and a genuinely old downtown.
 title: San Juan Capistrano
 type: location
+heritage: 4.195
+vibrancy: 3.775
+nature: 4.048
+off_the_beaten_track: 1.316
 ---
 
 San Juan Capistrano is the oldest town in Orange County, and it shows. While the rest of Southern California races toward the next development, this small city has kept its historic core intact — Spanish colonial architecture, a crumbling adobe mission, and a walkable downtown that feels genuinely old rather than theme-park old.

@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ascension_Cathedral,_Almat
 latitude: 43.236392
 loc_type: city
 longitude: 76.945728
-score: 8.04
+score: 6.642
 snippet: Kazakhstan’s cultural capital, set below the Tien Shan with mountain views
   from broad Soviet-era streets.
 title: Almaty
 type: location
+heritage: 7.601
+vibrancy: 5.885
+nature: 5.132
+off_the_beaten_track: 4.607
 ---
 
 Almaty is Kazakhstan's largest city and its cultural capital — the former capital of the Kazakh Soviet Socialist Republic and, after independence, of Kazakhstan itself until the government relocated to Astana in 1997. The city of over two million people sits in a broad bowl at the northern foothills of the Tien Shan mountains, with glaciated peaks visible from the city streets on any clear day. No other major city in the world has such spectacular mountain access from its centre.
@@ -25,4 +29,4 @@ What Almaty does have is the best urban infrastructure in Central Asia, a cosmop
 
 Above the city, the mountains are the main attraction. [Medeu](/asia/kazakhstan/almaty/medeu) — the world's highest ice rink — is 15 kilometres from the centre; [Shymbulak](/asia/kazakhstan/almaty/shymbulak) ski resort is above it. The [Ile-Alatau National Park](/asia/kazakhstan/almaty/wild_apple_forests) begins at the city's edge, and its lower slopes are where the wild apple trees grow — the genetic ancestors of every apple sold in every supermarket in the world. Alma-Ata, the city's former name, means "Father of Apples" in Kazakh.
 
-Day trips from Almaty reach [Sharyn Canyon](/asia/kazakhstan/sharyn_canyon) to the east and the UNESCO-listed [Tamgaly petroglyphs](/asia/kazakhstan/almaty/tamgaly_petroglyphs) to the northwest. The [Arasan Baths](/asia/kazakhstan/almaty/arasan_baths_poi) near Panfilov Park offer an authentic Soviet-era bathing experience still very much in use. For views over the city, [Kok Tobe](/asia/kazakhstan/almaty/kok_tobe) hill is reached by cable car from Dostyk Avenue.
+Day trips from Almaty reach [Sharyn Canyon](/asia/kazakhstan/sharyn_canyon) to the east and the UNESCO-listed [Tamgaly petroglyphs](/asia/kazakhstan/tamgaly_petroglyphs) to the northwest. The [Arasan Baths](/asia/kazakhstan/almaty/arasan_baths_poi) near Panfilov Park offer an authentic Soviet-era bathing experience still very much in use. For views over the city, [Kok Tobe](/asia/kazakhstan/almaty/kok_tobe) hill is reached by cable car from Dostyk Avenue.

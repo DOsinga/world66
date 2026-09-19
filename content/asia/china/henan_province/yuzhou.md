@@ -8,9 +8,13 @@ sources:
 - https://en.wikivoyage.org/wiki/Yuzhou
 title: Yuzhou
 type: location
-score: 5.8
+score: 3.073
 snippet: Henan ceramics city known for Jun porcelain, whose kiln-changed glazes made
   Song court pieces unique.
+heritage: 3.836
+vibrancy: 2.076
+nature: 2.192
+off_the_beaten_track: 2.057
 ---
 
 Yuzhou is a county-level city in central Henan best known as the source of Jun porcelain, one of China's five classical porcelain traditions and one of the most technically complex to produce. Jun ware emerged during the Song dynasty and flourished under imperial patronage — the term "kiln-changed" glaze refers to the unpredictable chemical transformations that happen during firing, producing the distinctive shades of sky blue, purple, and crimson that made Jun pieces so prized. No two pieces come out exactly alike, which was either a frustrating imprecision or a mark of distinction depending on your perspective; the Song court chose to see it as distinction, and Yuzhou pieces were reserved for imperial use.

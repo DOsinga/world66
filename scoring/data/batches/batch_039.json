@@ -1,0 +1,776 @@
+[
+  {
+    "embedding_text": "Puntarenas, Costa Rica, North America",
+    "lat": 9.9762,
+    "latitude": 9.9762,
+    "lng": -84.8383,
+    "longitude": -84.8383,
+    "name": "Puntarenas",
+    "parent": "North America, Costa Rica",
+    "parent_chain": [
+      "North America",
+      "Costa Rica"
+    ],
+    "path": "northamerica/costarica/puntarenas",
+    "url": "/northamerica/costarica/puntarenas/"
+  },
+  {
+    "embedding_text": "Pyatigorsk, Russia, Europe",
+    "lat": 44.037544,
+    "latitude": 44.037544,
+    "lng": 43.036367,
+    "longitude": 43.036367,
+    "name": "Pyatigorsk",
+    "parent": "Europe, Russia",
+    "parent_chain": [
+      "Europe",
+      "Russia"
+    ],
+    "path": "europe/russia/pyatigorsk",
+    "url": "/europe/russia/pyatigorsk/"
+  },
+  {
+    "embedding_text": "Uluru-Kata Tjuta National Park, Northern Territory, Australia, Australia, Pacific & Antarctica",
+    "lat": -25.3444,
+    "latitude": -25.3444,
+    "lng": 131.0369,
+    "longitude": 131.0369,
+    "name": "Uluru-Kata Tjuta National Park",
+    "parent": "Australia, Pacific & Antarctica, Australia, Northern Territory",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "Northern Territory"
+    ],
+    "path": "australiaandpacific/australia/northernterritory/ulurukata_tjuta_n",
+    "url": "/australiaandpacific/australia/northernterritory/ulurukata_tjuta_n/"
+  },
+  {
+    "embedding_text": "Tintern, Wales, United Kingdom, Europe",
+    "lat": 51.6975,
+    "latitude": 51.6975,
+    "lng": -2.681,
+    "longitude": -2.681,
+    "name": "Tintern",
+    "parent": "Europe, United Kingdom, Wales",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Wales"
+    ],
+    "path": "europe/unitedkingdom/wales/tintern",
+    "url": "/europe/unitedkingdom/wales/tintern/"
+  },
+  {
+    "embedding_text": "Ala\u00e7at\u0131, Turkey, Asia",
+    "lat": 38.281388888889,
+    "latitude": 38.281388888889,
+    "lng": 26.374166666667,
+    "longitude": 26.374166666667,
+    "name": "Ala\u00e7at\u0131",
+    "parent": "Asia, Turkey",
+    "parent_chain": [
+      "Asia",
+      "Turkey"
+    ],
+    "path": "asia/turkey/alacati",
+    "url": "/asia/turkey/alacati/"
+  },
+  {
+    "embedding_text": "Valledupar, Colombia, South America",
+    "lat": 10.465173,
+    "latitude": 10.465173,
+    "lng": -73.252951,
+    "longitude": -73.252951,
+    "name": "Valledupar",
+    "parent": "South America, Colombia",
+    "parent_chain": [
+      "South America",
+      "Colombia"
+    ],
+    "path": "southamerica/colombia/valledupar",
+    "url": "/southamerica/colombia/valledupar/"
+  },
+  {
+    "embedding_text": "Kangding, Sichuan Province, China, Asia",
+    "lat": 30.0553,
+    "latitude": 30.0553,
+    "lng": 101.9647,
+    "longitude": 101.9647,
+    "name": "Kangding",
+    "parent": "Asia, China, Sichuan Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Sichuan Province"
+    ],
+    "path": "asia/china/sichuanprovince/kangding",
+    "url": "/asia/china/sichuanprovince/kangding/"
+  },
+  {
+    "embedding_text": "Fiesch, Switzerland, Europe",
+    "lat": 46.4,
+    "latitude": 46.4,
+    "lng": 8.1333,
+    "longitude": 8.1333,
+    "name": "Fiesch",
+    "parent": "Europe, Switzerland",
+    "parent_chain": [
+      "Europe",
+      "Switzerland"
+    ],
+    "path": "europe/switzerland/fiesch",
+    "url": "/europe/switzerland/fiesch/"
+  },
+  {
+    "embedding_text": "Tieni-Siabli, Ivory Coast, Africa",
+    "lat": 7.6833,
+    "latitude": 7.6833,
+    "lng": -7.5167,
+    "longitude": -7.5167,
+    "name": "Tieni-Siabli",
+    "parent": "Africa, Ivory Coast",
+    "parent_chain": [
+      "Africa",
+      "Ivory Coast"
+    ],
+    "path": "africa/ivorycoast/tienisiabli",
+    "url": "/africa/ivorycoast/tienisiabli/"
+  },
+  {
+    "embedding_text": "Rautalampi, Finland, Europe",
+    "lat": 62.6333,
+    "latitude": 62.6333,
+    "lng": 26.8333,
+    "longitude": 26.8333,
+    "name": "Rautalampi",
+    "parent": "Europe, Finland",
+    "parent_chain": [
+      "Europe",
+      "Finland"
+    ],
+    "path": "europe/finland/rautalampi",
+    "url": "/europe/finland/rautalampi/"
+  },
+  {
+    "embedding_text": "Marseille, Cote d'Azur, France, Europe",
+    "lat": 43.2962,
+    "latitude": 43.2962,
+    "lng": 5.37,
+    "longitude": 5.37,
+    "name": "Marseille",
+    "parent": "Europe, France, Cote d'Azur",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Cote d'Azur"
+    ],
+    "path": "europe/france/cotedazur/marseille",
+    "url": "/europe/france/cotedazur/marseille/"
+  },
+  {
+    "embedding_text": "Hoa Binh, Vietnam, Asia",
+    "lat": 20.8133,
+    "latitude": 20.8133,
+    "lng": 105.3383,
+    "longitude": 105.3383,
+    "name": "Hoa Binh",
+    "parent": "Asia, Vietnam",
+    "parent_chain": [
+      "Asia",
+      "Vietnam"
+    ],
+    "path": "asia/vietnam/hoabinh",
+    "url": "/asia/vietnam/hoabinh/"
+  },
+  {
+    "embedding_text": "Colombo, Sri Lanka, Asia",
+    "lat": 6.9271,
+    "latitude": 6.9271,
+    "lng": 79.8612,
+    "longitude": 79.8612,
+    "name": "Colombo",
+    "parent": "Asia, Sri Lanka",
+    "parent_chain": [
+      "Asia",
+      "Sri Lanka"
+    ],
+    "path": "asia/srilanka/colombo",
+    "url": "/asia/srilanka/colombo/"
+  },
+  {
+    "embedding_text": "Leh, Ladakh, Jammu and Kashmir, India, Asia",
+    "lat": 34.1642,
+    "latitude": 34.1642,
+    "lng": 77.5848,
+    "longitude": 77.5848,
+    "name": "Leh",
+    "parent": "Asia, India, Jammu and Kashmir, Ladakh",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Jammu and Kashmir",
+      "Ladakh"
+    ],
+    "path": "asia/india/jammuandkashmir/ladakh/leh",
+    "url": "/asia/india/jammuandkashmir/ladakh/leh/"
+  },
+  {
+    "embedding_text": "La Rioja, Argentina, South America",
+    "lat": -29.7825,
+    "latitude": -29.7825,
+    "lng": -67.1147,
+    "longitude": -67.1147,
+    "name": "La Rioja",
+    "parent": "South America, Argentina",
+    "parent_chain": [
+      "South America",
+      "Argentina"
+    ],
+    "path": "southamerica/argentina/larioja",
+    "url": "/southamerica/argentina/larioja/"
+  },
+  {
+    "embedding_text": "Karakorum, Mongolia, Asia",
+    "lat": 47.203657,
+    "latitude": 47.203657,
+    "lng": 102.843645,
+    "longitude": 102.843645,
+    "name": "Karakorum",
+    "parent": "Asia, Mongolia",
+    "parent_chain": [
+      "Asia",
+      "Mongolia"
+    ],
+    "path": "asia/mongolia/karakorum",
+    "url": "/asia/mongolia/karakorum/"
+  },
+  {
+    "embedding_text": "Castlegar, British Columbia, Canada, North America",
+    "lat": 49.3261,
+    "latitude": 49.3261,
+    "lng": -117.6647,
+    "longitude": -117.6647,
+    "name": "Castlegar",
+    "parent": "North America, Canada, British Columbia",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "British Columbia"
+    ],
+    "path": "northamerica/canada/britishcolumbia/castlegar",
+    "url": "/northamerica/canada/britishcolumbia/castlegar/"
+  },
+  {
+    "embedding_text": "Cotonou, Benin, Africa",
+    "lat": 6.3677,
+    "latitude": 6.3677,
+    "lng": 2.4253,
+    "longitude": 2.4253,
+    "name": "Cotonou",
+    "parent": "Africa, Benin",
+    "parent_chain": [
+      "Africa",
+      "Benin"
+    ],
+    "path": "africa/benin/cotonou",
+    "url": "/africa/benin/cotonou/"
+  },
+  {
+    "embedding_text": "Heidelberg, Baden-W\u00fcrttemberg, Germany, Europe",
+    "lat": 49.4094,
+    "latitude": 49.4094,
+    "lng": 8.6947,
+    "longitude": 8.6947,
+    "name": "Heidelberg",
+    "parent": "Europe, Germany, Baden-W\u00fcrttemberg",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Baden-W\u00fcrttemberg"
+    ],
+    "path": "europe/germany/badenwrttemberg/heidelberg",
+    "url": "/europe/germany/badenwrttemberg/heidelberg/"
+  },
+  {
+    "embedding_text": "Grand Erg Oriental, Algeria, Africa",
+    "lat": 31.281471,
+    "latitude": 31.281471,
+    "lng": 7.906614,
+    "longitude": 7.906614,
+    "name": "Grand Erg Oriental",
+    "parent": "Africa, Algeria",
+    "parent_chain": [
+      "Africa",
+      "Algeria"
+    ],
+    "path": "africa/algeria/granderg",
+    "url": "/africa/algeria/granderg/"
+  },
+  {
+    "embedding_text": "\u00c6r\u00f8, Denmark, Europe",
+    "lat": 54.8731,
+    "latitude": 54.8731,
+    "lng": 10.3322,
+    "longitude": 10.3322,
+    "name": "\u00c6r\u00f8",
+    "parent": "Europe, Denmark",
+    "parent_chain": [
+      "Europe",
+      "Denmark"
+    ],
+    "path": "europe/denmark/aero",
+    "url": "/europe/denmark/aero/"
+  },
+  {
+    "embedding_text": "Cat Ba Island, Vietnam, Asia",
+    "lat": 20.7221,
+    "latitude": 20.7221,
+    "lng": 107.0544,
+    "longitude": 107.0544,
+    "name": "Cat Ba Island",
+    "parent": "Asia, Vietnam",
+    "parent_chain": [
+      "Asia",
+      "Vietnam"
+    ],
+    "path": "asia/vietnam/cat_ba_island",
+    "url": "/asia/vietnam/cat_ba_island/"
+  },
+  {
+    "embedding_text": "Sz\u00e9kesfeh\u00e9rv\u00e1r, Hungary, Europe",
+    "lat": 47.191017,
+    "latitude": 47.191017,
+    "lng": 18.410811,
+    "longitude": 18.410811,
+    "name": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+    "parent": "Europe, Hungary",
+    "parent_chain": [
+      "Europe",
+      "Hungary"
+    ],
+    "path": "europe/hungary/szekesfehervar",
+    "url": "/europe/hungary/szekesfehervar/"
+  },
+  {
+    "embedding_text": "Khor, Qatar, Asia",
+    "lat": 25.652134,
+    "latitude": 25.652134,
+    "lng": 51.487806,
+    "longitude": 51.487806,
+    "name": "Khor",
+    "parent": "Asia, Qatar",
+    "parent_chain": [
+      "Asia",
+      "Qatar"
+    ],
+    "path": "asia/qatar/khor",
+    "url": "/asia/qatar/khor/"
+  },
+  {
+    "embedding_text": "Santa Maria di Leuca, Puglia, Italy, Europe",
+    "lat": 39.7988,
+    "latitude": 39.7988,
+    "lng": 18.36,
+    "longitude": 18.36,
+    "name": "Santa Maria di Leuca",
+    "parent": "Europe, Italy, Puglia",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Puglia"
+    ],
+    "path": "europe/italy/puglia/santa_maria_di_leuca",
+    "url": "/europe/italy/puglia/santa_maria_di_leuca/"
+  },
+  {
+    "embedding_text": "Essen, Belgium, Europe",
+    "lat": 51.467923,
+    "latitude": 51.467923,
+    "lng": 4.469826,
+    "longitude": 4.469826,
+    "name": "Essen",
+    "parent": "Europe, Belgium",
+    "parent_chain": [
+      "Europe",
+      "Belgium"
+    ],
+    "path": "europe/belgium/essen",
+    "url": "/europe/belgium/essen/"
+  },
+  {
+    "embedding_text": "Rockhampton, Australia, Australia, Pacific & Antarctica",
+    "lat": -23.3782,
+    "latitude": -23.3782,
+    "lng": 150.5134,
+    "longitude": 150.5134,
+    "name": "Rockhampton",
+    "parent": "Australia, Pacific & Antarctica, Australia",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia"
+    ],
+    "path": "australiaandpacific/australia/rockhampton",
+    "url": "/australiaandpacific/australia/rockhampton/"
+  },
+  {
+    "embedding_text": "Heligoland, Schleswig-Holstein, Germany, Europe",
+    "lat": 54.1825,
+    "latitude": 54.1825,
+    "lng": 7.8853,
+    "longitude": 7.8853,
+    "name": "Heligoland",
+    "parent": "Europe, Germany, Schleswig-Holstein",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Schleswig-Holstein"
+    ],
+    "path": "europe/germany/schleswigholstein/heligoland",
+    "url": "/europe/germany/schleswigholstein/heligoland/"
+  },
+  {
+    "embedding_text": "Manassas, Virginia, United States, North America",
+    "lat": 38.7509,
+    "latitude": 38.7509,
+    "lng": -77.4753,
+    "longitude": -77.4753,
+    "name": "Manassas",
+    "parent": "North America, United States, Virginia",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Virginia"
+    ],
+    "path": "northamerica/unitedstates/virginia/manassas",
+    "url": "/northamerica/unitedstates/virginia/manassas/"
+  },
+  {
+    "embedding_text": "Ptuj, Slovenia, Europe",
+    "lat": 46.41981,
+    "latitude": 46.41981,
+    "lng": 15.871738,
+    "longitude": 15.871738,
+    "name": "Ptuj",
+    "parent": "Europe, Slovenia",
+    "parent_chain": [
+      "Europe",
+      "Slovenia"
+    ],
+    "path": "europe/slovenia/ptuj",
+    "url": "/europe/slovenia/ptuj/"
+  },
+  {
+    "embedding_text": "Gulmarg, Jammu and Kashmir, India, Asia",
+    "lat": 34.04897,
+    "latitude": 34.04897,
+    "lng": 74.39212,
+    "longitude": 74.39212,
+    "name": "Gulmarg",
+    "parent": "Asia, India, Jammu and Kashmir",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Jammu and Kashmir"
+    ],
+    "path": "asia/india/jammuandkashmir/gulmarg",
+    "url": "/asia/india/jammuandkashmir/gulmarg/"
+  },
+  {
+    "embedding_text": "Bibione, Veneto, Italy, Europe",
+    "lat": 45.642726,
+    "latitude": 45.642726,
+    "lng": 13.05467,
+    "longitude": 13.05467,
+    "name": "Bibione",
+    "parent": "Europe, Italy, Veneto",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Veneto"
+    ],
+    "path": "europe/italy/veneto/bibione",
+    "url": "/europe/italy/veneto/bibione/"
+  },
+  {
+    "embedding_text": "Sipalay, Negros island, Philippines, Asia",
+    "lat": 9.749127,
+    "latitude": 9.749127,
+    "lng": 122.40406,
+    "longitude": 122.40406,
+    "name": "Sipalay",
+    "parent": "Asia, Philippines, Negros island",
+    "parent_chain": [
+      "Asia",
+      "Philippines",
+      "Negros island"
+    ],
+    "path": "asia/philippines/negrosisland/sipalay",
+    "url": "/asia/philippines/negrosisland/sipalay/"
+  },
+  {
+    "embedding_text": "Zurich, Switzerland, Europe",
+    "lat": 47.374449,
+    "latitude": 47.374449,
+    "lng": 8.541042,
+    "longitude": 8.541042,
+    "name": "Zurich",
+    "parent": "Europe, Switzerland",
+    "parent_chain": [
+      "Europe",
+      "Switzerland"
+    ],
+    "path": "europe/switzerland/zurich",
+    "url": "/europe/switzerland/zurich/"
+  },
+  {
+    "embedding_text": "Almer\u00eda, Andalucia, Spain, Europe",
+    "lat": 36.8402,
+    "latitude": 36.8402,
+    "lng": -2.468,
+    "longitude": -2.468,
+    "name": "Almer\u00eda",
+    "parent": "Europe, Spain, Andalucia",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Andalucia"
+    ],
+    "path": "europe/spain/andalucia/almeria",
+    "url": "/europe/spain/andalucia/almeria/"
+  },
+  {
+    "embedding_text": "Tempe, Arizona, United States, North America",
+    "lat": 33.4255,
+    "latitude": 33.4255,
+    "lng": -111.94,
+    "longitude": -111.94,
+    "name": "Tempe",
+    "parent": "North America, United States, Arizona",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Arizona"
+    ],
+    "path": "northamerica/unitedstates/arizona/tempe",
+    "url": "/northamerica/unitedstates/arizona/tempe/"
+  },
+  {
+    "embedding_text": "Cosenza, Calabria, Italy, Europe",
+    "lat": 39.298,
+    "latitude": 39.298,
+    "lng": 16.254,
+    "longitude": 16.254,
+    "name": "Cosenza",
+    "parent": "Europe, Italy, Calabria",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Calabria"
+    ],
+    "path": "europe/italy/calabria/cosenza",
+    "url": "/europe/italy/calabria/cosenza/"
+  },
+  {
+    "embedding_text": "Ogden, Utah, United States, North America",
+    "lat": 41.223005,
+    "latitude": 41.223005,
+    "lng": -111.973843,
+    "longitude": -111.973843,
+    "name": "Ogden",
+    "parent": "North America, United States, Utah",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Utah"
+    ],
+    "path": "northamerica/unitedstates/utah/ogden",
+    "url": "/northamerica/unitedstates/utah/ogden/"
+  },
+  {
+    "embedding_text": "Grove, Oklahoma, United States, North America",
+    "lat": 36.594,
+    "latitude": 36.594,
+    "lng": -94.769,
+    "longitude": -94.769,
+    "name": "Grove",
+    "parent": "North America, United States, Oklahoma",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Oklahoma"
+    ],
+    "path": "northamerica/unitedstates/oklahoma/grove",
+    "url": "/northamerica/unitedstates/oklahoma/grove/"
+  },
+  {
+    "embedding_text": "Bojentsi, Bulgaria, Europe",
+    "lat": 42.8136,
+    "latitude": 42.8136,
+    "lng": 25.41,
+    "longitude": 25.41,
+    "name": "Bojentsi",
+    "parent": "Europe, Bulgaria",
+    "parent_chain": [
+      "Europe",
+      "Bulgaria"
+    ],
+    "path": "europe/bulgaria/bojencite",
+    "url": "/europe/bulgaria/bojencite/"
+  },
+  {
+    "embedding_text": "Manokwari, Irian Jaya, Indonesia, Asia",
+    "lat": -0.8617,
+    "latitude": -0.8617,
+    "lng": 134.062,
+    "longitude": 134.062,
+    "name": "Manokwari",
+    "parent": "Asia, Indonesia, Irian Jaya",
+    "parent_chain": [
+      "Asia",
+      "Indonesia",
+      "Irian Jaya"
+    ],
+    "path": "asia/indonesia/irianjaya/manokwari",
+    "url": "/asia/indonesia/irianjaya/manokwari/"
+  },
+  {
+    "embedding_text": "Southend-on-Sea, East of England, England, United Kingdom, Europe",
+    "lat": 51.538824,
+    "latitude": 51.538824,
+    "lng": 0.712814,
+    "longitude": 0.712814,
+    "name": "Southend-on-Sea",
+    "parent": "Europe, United Kingdom, England, East of England",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "East of England"
+    ],
+    "path": "europe/unitedkingdom/england/east_of_england/southendonsea",
+    "url": "/europe/unitedkingdom/england/east_of_england/southendonsea/"
+  },
+  {
+    "embedding_text": "Kuala Lumpur, Malaysia, Asia",
+    "lat": 3.151696,
+    "latitude": 3.151696,
+    "lng": 101.694237,
+    "longitude": 101.694237,
+    "name": "Kuala Lumpur",
+    "parent": "Asia, Malaysia",
+    "parent_chain": [
+      "Asia",
+      "Malaysia"
+    ],
+    "path": "asia/malaysia/kualalumpur",
+    "url": "/asia/malaysia/kualalumpur/"
+  },
+  {
+    "embedding_text": "Sundsvall, Sweden, Europe",
+    "lat": 62.390755,
+    "latitude": 62.390755,
+    "lng": 17.307102,
+    "longitude": 17.307102,
+    "name": "Sundsvall",
+    "parent": "Europe, Sweden",
+    "parent_chain": [
+      "Europe",
+      "Sweden"
+    ],
+    "path": "europe/sweden/sundsvall",
+    "url": "/europe/sweden/sundsvall/"
+  },
+  {
+    "embedding_text": "Strumica, Macedonia, Europe",
+    "lat": 41.439,
+    "latitude": 41.439,
+    "lng": 22.6374,
+    "longitude": 22.6374,
+    "name": "Strumica",
+    "parent": "Europe, Macedonia",
+    "parent_chain": [
+      "Europe",
+      "Macedonia"
+    ],
+    "path": "europe/macedonia/strumica",
+    "url": "/europe/macedonia/strumica/"
+  },
+  {
+    "embedding_text": "Ioannina, Greece, Europe",
+    "lat": 39.663982,
+    "latitude": 39.663982,
+    "lng": 20.852278,
+    "longitude": 20.852278,
+    "name": "Ioannina",
+    "parent": "Europe, Greece",
+    "parent_chain": [
+      "Europe",
+      "Greece"
+    ],
+    "path": "europe/greece/ioannina",
+    "url": "/europe/greece/ioannina/"
+  },
+  {
+    "embedding_text": "Khentii, Mongolia, Asia",
+    "lat": 47.885981,
+    "latitude": 47.885981,
+    "lng": 110.420104,
+    "longitude": 110.420104,
+    "name": "Khentii",
+    "parent": "Asia, Mongolia",
+    "parent_chain": [
+      "Asia",
+      "Mongolia"
+    ],
+    "path": "asia/mongolia/khentii",
+    "url": "/asia/mongolia/khentii/"
+  },
+  {
+    "embedding_text": "Mechelen, Belgium, Europe",
+    "lat": 51.028138,
+    "latitude": 51.028138,
+    "lng": 4.480345,
+    "longitude": 4.480345,
+    "name": "Mechelen",
+    "parent": "Europe, Belgium",
+    "parent_chain": [
+      "Europe",
+      "Belgium"
+    ],
+    "path": "europe/belgium/mechelen",
+    "url": "/europe/belgium/mechelen/"
+  },
+  {
+    "embedding_text": "Arras, Nord, France, Europe",
+    "lat": 50.291,
+    "latitude": 50.291,
+    "lng": 2.7772,
+    "longitude": 2.7772,
+    "name": "Arras",
+    "parent": "Europe, France, Nord",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Nord"
+    ],
+    "path": "europe/france/nord/arras",
+    "url": "/europe/france/nord/arras/"
+  },
+  {
+    "embedding_text": "Wolfenb\u00fcttel, Lower Saxony, Germany, Europe",
+    "lat": 52.1638,
+    "latitude": 52.1638,
+    "lng": 10.5375,
+    "longitude": 10.5375,
+    "name": "Wolfenb\u00fcttel",
+    "parent": "Europe, Germany, Lower Saxony",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Lower Saxony"
+    ],
+    "path": "europe/germany/lowersaxony/wolfenbuettel",
+    "url": "/europe/germany/lowersaxony/wolfenbuettel/"
+  }
+]

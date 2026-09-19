@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sassenpoort,_Zwolle_(Nethe
 latitude: 52.5167
 loc_type: city
 longitude: 6.1
-score: 7.15
+score: 4.943
 snippet: Hanseatic Overijssel city with a handsome old centre, medieval gate, museums,
   and serious food.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.visitzwolle.com/
 title: Zwolle
 type: location
+heritage: 4.645
+vibrancy: 5.094
+nature: 2.629
+off_the_beaten_track: 1.475
 ---
 
 Zwolle is the capital of Overijssel and one of the Netherlands' more rewarding second-tier cities. It has a compact old centre ringed by canals, enough medieval fabric to reward wandering, and a calmer tempo than the big western cities.

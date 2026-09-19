@@ -4,10 +4,15 @@ type: location
 loc_type: city
 latitude: 42.7867
 longitude: -80.2031
-score: 6.6
-snippet: Lake Erie beach town with a fishing harbour, old lighthouse, and Friday the 13th motorcycle rallies.
+score: 4.132
+snippet: Lake Erie beach town with a fishing harbour, old lighthouse, and Friday the
+  13th motorcycle rallies.
 sources:
-  - https://en.wikivoyage.org/wiki/Port_Dover
+- https://en.wikivoyage.org/wiki/Port_Dover
+heritage: 2.736
+vibrancy: 2.045
+nature: 5.245
+off_the_beaten_track: 2.704
 ---
 
 Port Dover is a small Lake Erie town in Norfolk County, on Ontario's south coast. It is a beach-and-harbour place: fishing boats, a pier, a wooden lighthouse, summer crowds, and the smell of fried perch near the water.

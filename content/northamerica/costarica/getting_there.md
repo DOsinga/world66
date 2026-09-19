@@ -13,7 +13,7 @@ Booking two to three months ahead usually gets better fares. High season (Decemb
 
 ## By Land
 
-The Pan-American Highway (Interamericana) runs through Costa Rica from the Nicaraguan border at Peñas Blancas in the north to the Panamanian border at Paso Canoas in the south. Long-distance buses connect San José to Managua, Panama City, and other Central American capitals. Tica Bus and Transnica are the main operators; the journey from San José to Managua takes around 9–10 hours, to Panama City around 8–9 hours.
+The Pan-American Highway (Interamericana) runs through Costa Rica from the Nicaraguan border at Peñas Blancas in the north to the Panamanian border at Paso Canoas in the south, a drive of roughly 550 km that passes through San José. Long-distance buses connect San José to Managua, Panama City, and other Central American capitals. Tica Bus and Transnica are the main operators; the journey from San José to Managua takes around 9–10 hours, to Panama City around 8–9 hours.
 
 Border crossings can be slow, especially on weekends. Bring patience and more cash than you think you'll need.
 

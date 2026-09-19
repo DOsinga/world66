@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cappadoce-Avanos.jpg
 latitude: 38.870906
 loc_type: city
 longitude: 34.853666
-score: 8.62
+score: 5.659
 snippet: Cappadocian pottery town on the Kizilirmak, where red river clay feeds centuries-old
   workshops.
 title: Avanos
 type: location
+heritage: 6.395
+vibrancy: 4.119
+nature: 5.787
+off_the_beaten_track: 3.025
 ---
 
 Avanos is Cappadocia's pottery town, and it wears that identity without apology. The Kizilirmak — the Red River — runs right through it, depositing the red clay that potters here have been working for thousands of years. The colour of the river tells you everything about the place.

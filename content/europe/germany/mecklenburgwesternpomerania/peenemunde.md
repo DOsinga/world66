@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 54.1333
 longitude: 13.7667
-score: 7.2
+score: 4.27
 snippet: Baltic village on Usedom known for rocket history, wartime ruins, and technical
   museums.
 wikidata: Q490398
@@ -17,6 +17,10 @@ image: peenemunde.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Peenemuende,_Hafen,_U461.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Gerolsteiner91
+heritage: 5.46
+vibrancy: 2.235
+nature: 2.927
+off_the_beaten_track: 2.07
 ---
 
 Peenemünde is a small harbour village at the northern tip of Usedom, but its history is anything but small. From 1936 to 1945 the German military research stations here formed one of Europe's largest armaments centres, where the V-1 and V-2 weapons were developed with forced labour and later used against civilians.

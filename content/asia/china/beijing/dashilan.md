@@ -1,11 +1,15 @@
 ---
-title: "Dashilan and Qianmen"
+title: Dashilan and Qianmen
 type: neighbourhood
 tags:
-  - things_to_do
-  - neighbourhood
+- things_to_do
+- neighbourhood
 latitude: 39.8987
 longitude: 116.3936
+image: dashilan.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Qianmen_Dajie_Walking_Street_and_Qianmen_Gate_(9870535725).jpg
+image_license: CC0
+image_attribution: Gary Todd
 ---
 
 The old commercial district immediately south of Tiananmen Square, centred on Qianmen Avenue and the branching lanes of Dashilan. The main Qianmen street is a pedestrianised reconstruction of its Qing-dynasty appearance, somewhat sanitised but handsome enough. The best parts are the lanes branching west — Dashilan itself and the smaller alleys off it — where old shops selling silks, traditional medicines, and hat-making equipment have traded for over a century in some cases.

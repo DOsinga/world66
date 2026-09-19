@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/96214671@N08/35272332470
 latitude: 34.136207
 loc_type: city
 longitude: -118.04015
-score: 6.55
+score: 3.151
 snippet: San Gabriel Valley city below the mountains, known for the Los Angeles County
   Arboretum.
 title: Arcadia
 type: location
+heritage: 2.305
+vibrancy: 3.496
+nature: 2.037
+off_the_beaten_track: 0.81
 ---
 
 Arcadia sits about 20 miles northeast of downtown Los Angeles in the San Gabriel Valley, backed by the San Gabriel Mountains. It's a quiet, well-kept suburb that most visitors pass through on the way to somewhere else — but it has two attractions that make a deliberate stop worthwhile.

@@ -1,0 +1,789 @@
+[
+  {
+    "embedding_text": "Cattolica, Emilia-Romagna, Italy, Europe",
+    "lat": 43.963993,
+    "latitude": 43.963993,
+    "lng": 12.744151,
+    "longitude": 12.744151,
+    "name": "Cattolica",
+    "parent": "Europe, Italy, Emilia-Romagna",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Emilia-Romagna"
+    ],
+    "path": "europe/italy/emiliaromagna/cattolica",
+    "url": "/europe/italy/emiliaromagna/cattolica/"
+  },
+  {
+    "embedding_text": "Magog, Qu\u00e9bec, Canada, North America",
+    "lat": 45.2667,
+    "latitude": 45.2667,
+    "lng": -72.15,
+    "longitude": -72.15,
+    "name": "Magog",
+    "parent": "North America, Canada, Qu\u00e9bec",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "Qu\u00e9bec"
+    ],
+    "path": "northamerica/canada/quebec/magog",
+    "url": "/northamerica/canada/quebec/magog/"
+  },
+  {
+    "embedding_text": "Pubnico, Nova Scotia, Canada, North America",
+    "lat": 43.7025,
+    "latitude": 43.7025,
+    "lng": -65.7839,
+    "longitude": -65.7839,
+    "name": "Pubnico",
+    "parent": "North America, Canada, Nova Scotia",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "Nova Scotia"
+    ],
+    "path": "northamerica/canada/novascotia/pubnico",
+    "url": "/northamerica/canada/novascotia/pubnico/"
+  },
+  {
+    "embedding_text": "Midland, Texas, United States, North America",
+    "lat": 31.8369,
+    "latitude": 31.8369,
+    "lng": -102.0104,
+    "longitude": -102.0104,
+    "name": "Midland",
+    "parent": "North America, United States, Texas",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Texas"
+    ],
+    "path": "northamerica/unitedstates/texas/midland",
+    "url": "/northamerica/unitedstates/texas/midland/"
+  },
+  {
+    "embedding_text": "Nablus, Palestinian Authority, Asia",
+    "lat": 32.2211,
+    "latitude": 32.2211,
+    "lng": 35.2544,
+    "longitude": 35.2544,
+    "name": "Nablus",
+    "parent": "Asia, Palestinian Authority",
+    "parent_chain": [
+      "Asia",
+      "Palestinian Authority"
+    ],
+    "path": "asia/palestinianauthority/nablus",
+    "url": "/asia/palestinianauthority/nablus/"
+  },
+  {
+    "embedding_text": "Wonju, South Korea, Asia",
+    "lat": 37.3421,
+    "latitude": 37.3421,
+    "lng": 127.9198,
+    "longitude": 127.9198,
+    "name": "Wonju",
+    "parent": "Asia, South Korea",
+    "parent_chain": [
+      "Asia",
+      "South Korea"
+    ],
+    "path": "asia/southkorea/wonju",
+    "url": "/asia/southkorea/wonju/"
+  },
+  {
+    "embedding_text": "Siwa, Egypt, Africa",
+    "lat": 29.203466,
+    "latitude": 29.203466,
+    "lng": 25.519227,
+    "longitude": 25.519227,
+    "name": "Siwa",
+    "parent": "Africa, Egypt",
+    "parent_chain": [
+      "Africa",
+      "Egypt"
+    ],
+    "path": "africa/egypt/siwa",
+    "url": "/africa/egypt/siwa/"
+  },
+  {
+    "embedding_text": "Fazana, Croatia, Europe",
+    "lat": 44.927333,
+    "latitude": 44.927333,
+    "lng": 13.805077,
+    "longitude": 13.805077,
+    "name": "Fazana",
+    "parent": "Europe, Croatia",
+    "parent_chain": [
+      "Europe",
+      "Croatia"
+    ],
+    "path": "europe/croatia/fazana",
+    "url": "/europe/croatia/fazana/"
+  },
+  {
+    "embedding_text": "Cave City, Kentucky, United States, North America",
+    "lat": 37.137222,
+    "latitude": 37.137222,
+    "lng": -85.956944,
+    "longitude": -85.956944,
+    "name": "Cave City",
+    "parent": "North America, United States, Kentucky",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Kentucky"
+    ],
+    "path": "northamerica/unitedstates/kentucky/cave_city",
+    "url": "/northamerica/unitedstates/kentucky/cave_city/"
+  },
+  {
+    "embedding_text": "Ohakune, Central Plateau, New Zealand, Australia, Pacific & Antarctica",
+    "lat": -39.4186,
+    "latitude": -39.4186,
+    "lng": 175.3994,
+    "longitude": 175.3994,
+    "name": "Ohakune",
+    "parent": "Australia, Pacific & Antarctica, New Zealand, Central Plateau",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "New Zealand",
+      "Central Plateau"
+    ],
+    "path": "australiaandpacific/newzealand/central_plateau/ohakune",
+    "url": "/australiaandpacific/newzealand/central_plateau/ohakune/"
+  },
+  {
+    "embedding_text": "San Antonio Abad, Ibiza, Balearic islands, Spain, Europe",
+    "lat": 38.983057,
+    "latitude": 38.983057,
+    "lng": 1.300949,
+    "longitude": 1.300949,
+    "name": "San Antonio Abad",
+    "parent": "Europe, Spain, Balearic islands, Ibiza",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Balearic islands",
+      "Ibiza"
+    ],
+    "path": "europe/spain/balearicislands/ibiza/sanantonioabad",
+    "url": "/europe/spain/balearicislands/ibiza/sanantonioabad/"
+  },
+  {
+    "embedding_text": "Stora Sj\u00f6fallet National Park, Sweden, Europe",
+    "lat": 67.4,
+    "latitude": 67.4,
+    "lng": 18.6,
+    "longitude": 18.6,
+    "name": "Stora Sj\u00f6fallet National Park",
+    "parent": "Europe, Sweden",
+    "parent_chain": [
+      "Europe",
+      "Sweden"
+    ],
+    "path": "europe/sweden/storasjofalletnationalpark",
+    "url": "/europe/sweden/storasjofalletnationalpark/"
+  },
+  {
+    "embedding_text": "Sedan, Champagne, France, Europe",
+    "lat": 49.7034,
+    "latitude": 49.7034,
+    "lng": 4.9433,
+    "longitude": 4.9433,
+    "name": "Sedan",
+    "parent": "Europe, France, Champagne",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Champagne"
+    ],
+    "path": "europe/france/champagne/sedan",
+    "url": "/europe/france/champagne/sedan/"
+  },
+  {
+    "embedding_text": "Riverside, Inland Empire, California, United States, North America",
+    "lat": 33.982495,
+    "latitude": 33.982495,
+    "lng": -117.374238,
+    "longitude": -117.374238,
+    "name": "Riverside",
+    "parent": "North America, United States, California, Inland Empire",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California",
+      "Inland Empire"
+    ],
+    "path": "northamerica/unitedstates/california/inlandempire/riverside",
+    "url": "/northamerica/unitedstates/california/inlandempire/riverside/"
+  },
+  {
+    "embedding_text": "Frederikshavn, Denmark, Europe",
+    "lat": 57.4412,
+    "latitude": 57.4412,
+    "lng": 10.5336,
+    "longitude": 10.5336,
+    "name": "Frederikshavn",
+    "parent": "Europe, Denmark",
+    "parent_chain": [
+      "Europe",
+      "Denmark"
+    ],
+    "path": "europe/denmark/fredrikshavn",
+    "url": "/europe/denmark/fredrikshavn/"
+  },
+  {
+    "embedding_text": "Heliopolis, Egypt, Africa",
+    "lat": 30.100599,
+    "latitude": 30.100599,
+    "lng": 31.332914,
+    "longitude": 31.332914,
+    "name": "Heliopolis",
+    "parent": "Africa, Egypt",
+    "parent_chain": [
+      "Africa",
+      "Egypt"
+    ],
+    "path": "africa/egypt/heliopolis",
+    "url": "/africa/egypt/heliopolis/"
+  },
+  {
+    "embedding_text": "Santa Fe de Antioquia, Colombia, South America",
+    "lat": 6.5573,
+    "latitude": 6.5573,
+    "lng": -75.8277,
+    "longitude": -75.8277,
+    "name": "Santa Fe de Antioquia",
+    "parent": "South America, Colombia",
+    "parent_chain": [
+      "South America",
+      "Colombia"
+    ],
+    "path": "southamerica/colombia/santafedeantioquia",
+    "url": "/southamerica/colombia/santafedeantioquia/"
+  },
+  {
+    "embedding_text": "Lappaj\u00e4rvi, Finland, Europe",
+    "lat": 63.2167,
+    "latitude": 63.2167,
+    "lng": 23.6333,
+    "longitude": 23.6333,
+    "name": "Lappaj\u00e4rvi",
+    "parent": "Europe, Finland",
+    "parent_chain": [
+      "Europe",
+      "Finland"
+    ],
+    "path": "europe/finland/lappajarvi",
+    "url": "/europe/finland/lappajarvi/"
+  },
+  {
+    "embedding_text": "Tallahassee, The Panhandle, Florida, United States, North America",
+    "lat": 30.4381,
+    "latitude": 30.4381,
+    "lng": -84.2807,
+    "longitude": -84.2807,
+    "name": "Tallahassee",
+    "parent": "North America, United States, Florida, The Panhandle",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Florida",
+      "The Panhandle"
+    ],
+    "path": "northamerica/unitedstates/florida/thepanhandle/tallahassee",
+    "url": "/northamerica/unitedstates/florida/thepanhandle/tallahassee/"
+  },
+  {
+    "embedding_text": "Bicheno, East Coast, Tasmania, Australia, Australia, Pacific & Antarctica",
+    "lat": -41.8667,
+    "latitude": -41.8667,
+    "lng": 148.2833,
+    "longitude": 148.2833,
+    "name": "Bicheno",
+    "parent": "Australia, Pacific & Antarctica, Australia, Tasmania, East Coast",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "Tasmania",
+      "East Coast"
+    ],
+    "path": "australiaandpacific/australia/tasmania/eastcoast/bicheno",
+    "url": "/australiaandpacific/australia/tasmania/eastcoast/bicheno/"
+  },
+  {
+    "embedding_text": "Erzincan, Turkey, Asia",
+    "lat": 39.7464,
+    "latitude": 39.7464,
+    "lng": 39.4914,
+    "longitude": 39.4914,
+    "name": "Erzincan",
+    "parent": "Asia, Turkey",
+    "parent_chain": [
+      "Asia",
+      "Turkey"
+    ],
+    "path": "asia/turkey/erzincan",
+    "url": "/asia/turkey/erzincan/"
+  },
+  {
+    "embedding_text": "Issaquah, Washington, United States, North America",
+    "lat": 47.534878,
+    "latitude": 47.534878,
+    "lng": -122.043297,
+    "longitude": -122.043297,
+    "name": "Issaquah",
+    "parent": "North America, United States, Washington",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Washington"
+    ],
+    "path": "northamerica/unitedstates/washington/issaquah",
+    "url": "/northamerica/unitedstates/washington/issaquah/"
+  },
+  {
+    "embedding_text": "Los Gigantes, Spanish Costas, Spain, Europe",
+    "lat": 28.2439,
+    "latitude": 28.2439,
+    "lng": -16.8403,
+    "longitude": -16.8403,
+    "name": "Los Gigantes",
+    "parent": "Europe, Spain, Spanish Costas",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Spanish Costas"
+    ],
+    "path": "europe/spain/spanishcostas/losgigantes",
+    "url": "/europe/spain/spanishcostas/losgigantes/"
+  },
+  {
+    "embedding_text": "Andagua, Peru, South America",
+    "lat": -15.4989,
+    "latitude": -15.4989,
+    "lng": -72.3556,
+    "longitude": -72.3556,
+    "name": "Andagua",
+    "parent": "South America, Peru",
+    "parent_chain": [
+      "South America",
+      "Peru"
+    ],
+    "path": "southamerica/peru/andagua",
+    "url": "/southamerica/peru/andagua/"
+  },
+  {
+    "embedding_text": "Buffalo River, Arkansas, United States, North America",
+    "lat": 36.0829,
+    "latitude": 36.0829,
+    "lng": -92.766,
+    "longitude": -92.766,
+    "name": "Buffalo River",
+    "parent": "North America, United States, Arkansas",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Arkansas"
+    ],
+    "path": "northamerica/unitedstates/arkansas/buffaloriver",
+    "url": "/northamerica/unitedstates/arkansas/buffaloriver/"
+  },
+  {
+    "embedding_text": "Mount Emei, Sichuan Province, China, Asia",
+    "lat": 29.522665,
+    "latitude": 29.522665,
+    "lng": 103.336864,
+    "longitude": 103.336864,
+    "name": "Mount Emei",
+    "parent": "Asia, China, Sichuan Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Sichuan Province"
+    ],
+    "path": "asia/china/sichuanprovince/mount_emei",
+    "url": "/asia/china/sichuanprovince/mount_emei/"
+  },
+  {
+    "embedding_text": "Mole Creek, North-West, Tasmania, Australia, Australia, Pacific & Antarctica",
+    "lat": -41.557,
+    "latitude": -41.557,
+    "lng": 146.4077,
+    "longitude": 146.4077,
+    "name": "Mole Creek",
+    "parent": "Australia, Pacific & Antarctica, Australia, Tasmania, North-West",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "Tasmania",
+      "North-West"
+    ],
+    "path": "australiaandpacific/australia/tasmania/northwest/mole_creek",
+    "url": "/australiaandpacific/australia/tasmania/northwest/mole_creek/"
+  },
+  {
+    "embedding_text": "Waynoka, Oklahoma, United States, North America",
+    "lat": 36.582256,
+    "latitude": 36.582256,
+    "lng": -98.879814,
+    "longitude": -98.879814,
+    "name": "Waynoka",
+    "parent": "North America, United States, Oklahoma",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Oklahoma"
+    ],
+    "path": "northamerica/unitedstates/oklahoma/waynoka",
+    "url": "/northamerica/unitedstates/oklahoma/waynoka/"
+  },
+  {
+    "embedding_text": "Pomerode, Brazil, South America",
+    "lat": -26.7356,
+    "latitude": -26.7356,
+    "lng": -49.177,
+    "longitude": -49.177,
+    "name": "Pomerode",
+    "parent": "South America, Brazil",
+    "parent_chain": [
+      "South America",
+      "Brazil"
+    ],
+    "path": "southamerica/brazil/pomerode",
+    "url": "/southamerica/brazil/pomerode/"
+  },
+  {
+    "embedding_text": "Meru, Central Highlands, Kenya, Africa",
+    "lat": 0.0464,
+    "latitude": 0.0464,
+    "lng": 37.6559,
+    "longitude": 37.6559,
+    "name": "Meru",
+    "parent": "Africa, Kenya, Central Highlands",
+    "parent_chain": [
+      "Africa",
+      "Kenya",
+      "Central Highlands"
+    ],
+    "path": "africa/kenya/centralhighlands/meru",
+    "url": "/africa/kenya/centralhighlands/meru/"
+  },
+  {
+    "embedding_text": "Olargues, Haut-Languedoc Regional Nature Park, Languedoc, France, Europe",
+    "lat": 43.5542,
+    "latitude": 43.5542,
+    "lng": 2.9073,
+    "longitude": 2.9073,
+    "name": "Olargues",
+    "parent": "Europe, France, Languedoc, Haut-Languedoc Regional Nature Park",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Languedoc",
+      "Haut-Languedoc Regional Nature Park"
+    ],
+    "path": "europe/france/languedoc/hautlanguedoc_reg/olargues",
+    "url": "/europe/france/languedoc/hautlanguedoc_reg/olargues/"
+  },
+  {
+    "embedding_text": "Prades, Languedoc, France, Europe",
+    "lat": 42.618123,
+    "latitude": 42.618123,
+    "lng": 2.423093,
+    "longitude": 2.423093,
+    "name": "Prades",
+    "parent": "Europe, France, Languedoc",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Languedoc"
+    ],
+    "path": "europe/france/languedoc/prades",
+    "url": "/europe/france/languedoc/prades/"
+  },
+  {
+    "embedding_text": "Vernet les Bains, Languedoc, France, Europe",
+    "lat": 42.548483,
+    "latitude": 42.548483,
+    "lng": 2.387871,
+    "longitude": 2.387871,
+    "name": "Vernet les Bains",
+    "parent": "Europe, France, Languedoc",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Languedoc"
+    ],
+    "path": "europe/france/languedoc/vernet_les_bains",
+    "url": "/europe/france/languedoc/vernet_les_bains/"
+  },
+  {
+    "embedding_text": "Neubrandenburg, Mecklenburg-Western Pomerania, Germany, Europe",
+    "lat": 53.5574,
+    "latitude": 53.5574,
+    "lng": 13.2603,
+    "longitude": 13.2603,
+    "name": "Neubrandenburg",
+    "parent": "Europe, Germany, Mecklenburg-Western Pomerania",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Mecklenburg-Western Pomerania"
+    ],
+    "path": "europe/germany/mecklenburgwesternpomerania/neubrandenburg",
+    "url": "/europe/germany/mecklenburgwesternpomerania/neubrandenburg/"
+  },
+  {
+    "embedding_text": "Zelve, Cappadocia, Turkey, Asia",
+    "lat": 38.690615,
+    "latitude": 38.690615,
+    "lng": 34.871202,
+    "longitude": 34.871202,
+    "name": "Zelve",
+    "parent": "Asia, Turkey, Cappadocia",
+    "parent_chain": [
+      "Asia",
+      "Turkey",
+      "Cappadocia"
+    ],
+    "path": "asia/turkey/cappadocia/zelve",
+    "url": "/asia/turkey/cappadocia/zelve/"
+  },
+  {
+    "embedding_text": "Trnava, Slovakia, Europe",
+    "lat": 48.3768,
+    "latitude": 48.3768,
+    "lng": 17.5858,
+    "longitude": 17.5858,
+    "name": "Trnava",
+    "parent": "Europe, Slovakia",
+    "parent_chain": [
+      "Europe",
+      "Slovakia"
+    ],
+    "path": "europe/slovakia/trnava",
+    "url": "/europe/slovakia/trnava/"
+  },
+  {
+    "embedding_text": "Pella, Greece, Europe",
+    "lat": 40.760408,
+    "latitude": 40.760408,
+    "lng": 22.527112,
+    "longitude": 22.527112,
+    "name": "Pella",
+    "parent": "Europe, Greece",
+    "parent_chain": [
+      "Europe",
+      "Greece"
+    ],
+    "path": "europe/greece/pella",
+    "url": "/europe/greece/pella/"
+  },
+  {
+    "embedding_text": "Norden-Norddeich, Lower Saxony, Germany, Europe",
+    "lat": 53.61647,
+    "latitude": 53.61647,
+    "lng": 7.16058,
+    "longitude": 7.16058,
+    "name": "Norden-Norddeich",
+    "parent": "Europe, Germany, Lower Saxony",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Lower Saxony"
+    ],
+    "path": "europe/germany/lowersaxony/norden_norddeich",
+    "url": "/europe/germany/lowersaxony/norden_norddeich/"
+  },
+  {
+    "embedding_text": "Saijo, Shikoku, Japan, Asia",
+    "lat": 33.9125,
+    "latitude": 33.9125,
+    "lng": 133.1875,
+    "longitude": 133.1875,
+    "name": "Saijo",
+    "parent": "Asia, Japan, Shikoku",
+    "parent_chain": [
+      "Asia",
+      "Japan",
+      "Shikoku"
+    ],
+    "path": "asia/japan/shikoku/saijo",
+    "url": "/asia/japan/shikoku/saijo/"
+  },
+  {
+    "embedding_text": "Anshan, Liaoning Province, China, Asia",
+    "lat": 41.1104,
+    "latitude": 41.1104,
+    "lng": 122.9909,
+    "longitude": 122.9909,
+    "name": "Anshan",
+    "parent": "Asia, China, Liaoning Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Liaoning Province"
+    ],
+    "path": "asia/china/liaoning/anshan",
+    "url": "/asia/china/liaoning/anshan/"
+  },
+  {
+    "embedding_text": "George, Garden Route, South Africa, Africa",
+    "lat": -33.959721,
+    "latitude": -33.959721,
+    "lng": 22.458715,
+    "longitude": 22.458715,
+    "name": "George",
+    "parent": "Africa, South Africa, Garden Route",
+    "parent_chain": [
+      "Africa",
+      "South Africa",
+      "Garden Route"
+    ],
+    "path": "africa/southafrica/gardenroute/george",
+    "url": "/africa/southafrica/gardenroute/george/"
+  },
+  {
+    "embedding_text": "Sir Bani Yas Island, United Arab Emirates, Asia",
+    "lat": 24.3225,
+    "latitude": 24.3225,
+    "lng": 52.5747,
+    "longitude": 52.5747,
+    "name": "Sir Bani Yas Island",
+    "parent": "Asia, United Arab Emirates",
+    "parent_chain": [
+      "Asia",
+      "United Arab Emirates"
+    ],
+    "path": "asia/unitedarabemirates/sir_bani_yas",
+    "url": "/asia/unitedarabemirates/sir_bani_yas/"
+  },
+  {
+    "embedding_text": "Sete Cidades, S\u00e3o Miguel, The Azores, Portugal, Europe",
+    "lat": 37.862,
+    "latitude": 37.862,
+    "lng": -25.7969,
+    "longitude": -25.7969,
+    "name": "Sete Cidades",
+    "parent": "Europe, Portugal, The Azores, S\u00e3o Miguel",
+    "parent_chain": [
+      "Europe",
+      "Portugal",
+      "The Azores",
+      "S\u00e3o Miguel"
+    ],
+    "path": "europe/portugal/theazores/so_miguel/sete_cidades",
+    "url": "/europe/portugal/theazores/so_miguel/sete_cidades/"
+  },
+  {
+    "embedding_text": "Tequila, Mexico, North America",
+    "lat": 21.11582,
+    "latitude": 21.11582,
+    "lng": -103.810137,
+    "longitude": -103.810137,
+    "name": "Tequila",
+    "parent": "North America, Mexico",
+    "parent_chain": [
+      "North America",
+      "Mexico"
+    ],
+    "path": "northamerica/mexico/tequila",
+    "url": "/northamerica/mexico/tequila/"
+  },
+  {
+    "embedding_text": "Knoll Lake, Arizona, United States, North America",
+    "lat": 34.424697,
+    "latitude": 34.424697,
+    "lng": -111.088127,
+    "longitude": -111.088127,
+    "name": "Knoll Lake",
+    "parent": "North America, United States, Arizona",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Arizona"
+    ],
+    "path": "northamerica/unitedstates/arizona/knoll_lake",
+    "url": "/northamerica/unitedstates/arizona/knoll_lake/"
+  },
+  {
+    "embedding_text": "R\u00f8m\u00f8, Denmark, Europe",
+    "lat": 55.133333,
+    "latitude": 55.133333,
+    "lng": 8.516667,
+    "longitude": 8.516667,
+    "name": "R\u00f8m\u00f8",
+    "parent": "Europe, Denmark",
+    "parent_chain": [
+      "Europe",
+      "Denmark"
+    ],
+    "path": "europe/denmark/romo",
+    "url": "/europe/denmark/romo/"
+  },
+  {
+    "embedding_text": "Sheboygan, Wisconsin, United States, North America",
+    "lat": 43.712897,
+    "latitude": 43.712897,
+    "lng": -87.937043,
+    "longitude": -87.937043,
+    "name": "Sheboygan",
+    "parent": "North America, United States, Wisconsin",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Wisconsin"
+    ],
+    "path": "northamerica/unitedstates/wisconsin/sheboygan",
+    "url": "/northamerica/unitedstates/wisconsin/sheboygan/"
+  },
+  {
+    "embedding_text": "Borgo Maggiore, San Marino, Europe",
+    "lat": 43.9412,
+    "latitude": 43.9412,
+    "lng": 12.4474,
+    "longitude": 12.4474,
+    "name": "Borgo Maggiore",
+    "parent": "Europe, San Marino",
+    "parent_chain": [
+      "Europe",
+      "San Marino"
+    ],
+    "path": "europe/sanmarino/borgomaggiore",
+    "url": "/europe/sanmarino/borgomaggiore/"
+  },
+  {
+    "embedding_text": "Zomba Plateau, Malawi, Africa",
+    "lat": -15.37,
+    "latitude": -15.37,
+    "lng": 35.34,
+    "longitude": 35.34,
+    "name": "Zomba Plateau",
+    "parent": "Africa, Malawi",
+    "parent_chain": [
+      "Africa",
+      "Malawi"
+    ],
+    "path": "africa/malawi/zombaplateau",
+    "url": "/africa/malawi/zombaplateau/"
+  },
+  {
+    "embedding_text": "Siuntio, Finland, Europe",
+    "lat": 60.1333,
+    "latitude": 60.1333,
+    "lng": 24.2167,
+    "longitude": 24.2167,
+    "name": "Siuntio",
+    "parent": "Europe, Finland",
+    "parent_chain": [
+      "Europe",
+      "Finland"
+    ],
+    "path": "europe/finland/siuntio",
+    "url": "/europe/finland/siuntio/"
+  }
+]

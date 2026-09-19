@@ -86,7 +86,7 @@ type: Indian and Pakistani
 
 address: Mano Chak, Mandi Bahauddin
 
-### [Ice point](/asia/pakistan/mandi_bahauddin_1/eating_out/ice_point)
+### [Ice point](/asia/pakistan/mandi_bahauddin_1/ice_point)
 
 specialy famouse for ice creams and other fast food stuff
 
@@ -94,7 +94,7 @@ type: Fast food
 
 
 
-[[rate it]](/asia/pakistan/mandi_bahauddin_1/eating_out/ice_point)
+[[rate it]](/asia/pakistan/mandi_bahauddin_1/ice_point)
 
 address: near boty shah, 5 ward
 

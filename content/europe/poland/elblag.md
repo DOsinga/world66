@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 54.1667
 longitude: 19.4
-score: 7.0
+score: 3.947
 snippet: Hanseatic canal city with a rebuilt old town and Poland's most unusual historic
   waterway.
 sources:
@@ -16,6 +16,10 @@ image: elblag.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Elbl%C4%85g_-_Stare_Miasto.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Paweł Sutkowski
+heritage: 4.659
+vibrancy: 2.738
+nature: 3.584
+off_the_beaten_track: 1.931
 ---
 
 Elbląg sits near the Vistula Lagoon between [Gdańsk](/europe/poland/gdansk), Malbork, and the lakes of Warmia-Masuria. It is old by Polish standards, with a Hanseatic trading past, but the centre tells a more complicated story: the Old Town was badly destroyed in 1945 and has been rebuilt in a careful, modern version of brick Gothic and merchant-town streets.

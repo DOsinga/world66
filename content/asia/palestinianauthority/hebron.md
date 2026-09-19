@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:West_Bank,_Hebron_(Unsplas
 latitude: 31.532569
 loc_type: city
 longitude: 35.099825
-score: 5.86
+score: 6.446
 snippet: Ancient West Bank city centred on the Cave of the Patriarchs and a lively
   old-city souq.
 title: Hebron
 type: location
+heritage: 7.842
+vibrancy: 4.766
+nature: 2.774
+off_the_beaten_track: 5.494
 ---
 
 Hebron is one of the oldest continuously inhabited cities in the world and a place of deep significance for both Muslims and Jews. The [Cave of the Patriarchs](/asia/palestinianauthority/hebron/cave_of_the_patriarchs) sits at the old centre, sacred to both faiths as the burial place of Abraham, Sarah, and four other patriarchs and matriarchs. Visiting it is a powerful experience — the building is divided into a mosque section and a synagogue section, each with its own entrance and heavy security presence.

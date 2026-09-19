@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Piazza_de_Ferrari,_Genoa.j
 latitude: 44.40726
 loc_type: city
 longitude: 8.933862
-score: 8.69
+score: 5.844
 title: Genoa
 type: location
 snippet: Working Ligurian port with Europe's largest medieval centre and palaces from
@@ -18,6 +18,10 @@ snippet: Working Ligurian port with Europe's largest medieval centre and palaces
 sources:
 - https://en.wikipedia.org/wiki/Genoa
 - https://whc.unesco.org/en/list/1211
+heritage: 5.635
+vibrancy: 5.968
+nature: 5.216
+off_the_beaten_track: 1.618
 ---
 
 Genoa is Italy's most underrated city. While tourists crowd Florence and Venice, Genoa goes quietly about its business — a working port that also happens to have the largest medieval city centre in Europe, a cluster of Renaissance palaces that can match any in Italy, and a food culture built around pesto, focaccia, and fresh fish that the rest of the world has been trying to replicate ever since.

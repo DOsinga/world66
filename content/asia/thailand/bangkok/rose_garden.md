@@ -6,7 +6,7 @@ opening_hours: 8 am - 6 pm
 score: 5.5
 snippet: Eco-cultural resort west of Bangkok with Thai village show and organic farm
 tags:
-- day_trips
+- things_to_do
 - park
 title: Sampran Riverside (Rose Garden)
 type: poi

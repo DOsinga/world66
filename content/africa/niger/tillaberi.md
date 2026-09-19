@@ -5,13 +5,17 @@ done:
 latitude: 13.725107
 loc_type: city
 longitude: 1.696146
-score: 3.33
+score: 4.311
 snippet: Niger River road town northwest of Niamey, known for nearby giraffe country
   and Sahel crossings.
 sources:
 - https://en.wikipedia.org/wiki/Tillabéri
 title: Tillaberi
 type: location
+heritage: 2.176
+vibrancy: 1.375
+nature: 4.327
+off_the_beaten_track: 6.815
 ---
 
 Tillaberi is located on the road from [Niamey](/africa/niger/niamey) to [Gao](/africa/mali/gao). Most travellers stopping here are hurrying from one to the other, and there are not many reasons to stay longer than necessary. The main draw is the possibility of spotting wild giraffes on the [Niger River banks](/africa/niger/tillaberi/niger_river) south of town — though the main West African giraffe herd has largely shifted to the area around [Koure](/africa/niger/koure) further south. Ask locally whether any have been seen nearby recently.

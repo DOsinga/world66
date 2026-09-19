@@ -2,10 +2,15 @@
 latitude: 47.0567
 loc_type: feature
 longitude: 8.4853
-score: 8.5
-snippet: Mountain massif above Lake Lucerne, the "Queen of the Mountains," climbed by Europe's oldest rack railway.
+score: 6.255
+snippet: Mountain massif above Lake Lucerne, the "Queen of the Mountains," climbed
+  by Europe's oldest rack railway.
 title: Rigi
 type: location
+heritage: 5.378
+vibrancy: 3.668
+nature: 7.416
+off_the_beaten_track: 2.965
 ---
 
 The Rigi is a 1798-metre mountain massif that rises sharply from the eastern shore of Lake Lucerne, hemmed in by water on three sides. It is often called the Queen of the Mountains — less for its height than for the extraordinary panorama from the summit ridge: on a clear day the view runs from Mont Blanc in the west to the Zugspitze in the east, with most of central Switzerland's Alps spread out between them. The view is most famous at sunrise and sunset, when generations of travellers, Mark Twain and Queen Victoria among them, have climbed up to watch the light break over the peaks.

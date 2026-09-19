@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Multiple_rows_of_golden_st
 latitude: 15.120146
 loc_type: city
 longitude: 105.804397
-score: 7.97
+score: 4.6
 snippet: Southern Laos river city at the Mekong and Se Don, gateway to Wat Phu and
   Bolaven waterfalls
 title: Pakse
 type: location
+heritage: 4.817
+vibrancy: 3.186
+nature: 5.088
+off_the_beaten_track: 4.371
 ---
 
 Pakse is the largest city in southern Laos and the gateway to some of the country's most rewarding destinations. Sitting at the confluence of the Mekong and Se Don rivers, it is a practical base rather than a destination in itself -- but it has a pleasant enough riverside setting and decent food.

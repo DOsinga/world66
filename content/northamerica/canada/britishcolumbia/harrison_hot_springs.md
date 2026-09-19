@@ -2,15 +2,20 @@
 title: Harrison Hot Springs
 type: location
 loc_type: city
-latitude: 49.3000
+latitude: 49.3
 longitude: -121.7819
-score: 6.4
-snippet: Small Fraser Valley resort village on Harrison Lake, built around mineral springs and mountain water.
+score: 5.564
+snippet: Small Fraser Valley resort village on Harrison Lake, built around mineral
+  springs and mountain water.
 wikidata: Q1586275
 sources:
-  - https://en.wikivoyage.org/wiki/Harrison_Hot_Springs
-  - https://tourismharrison.com/
-  - https://bcparks.ca/sasquatch-park/
+- https://en.wikivoyage.org/wiki/Harrison_Hot_Springs
+- https://tourismharrison.com/
+- https://bcparks.ca/sasquatch-park/
+heritage: 3.966
+vibrancy: 2.128
+nature: 6.944
+off_the_beaten_track: 2.983
 ---
 
 Harrison Hot Springs is a small resort village at the south end of Harrison Lake, where the Fraser Valley gives way to steep, wet mountains. It is famous for mineral springs, but the setting matters just as much: a long lake, a beach promenade, forested slopes, and easy access to Sasquatch Provincial Park.

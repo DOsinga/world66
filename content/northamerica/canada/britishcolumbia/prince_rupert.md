@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 54.3125
 longitude: -130.3054
-score: 7.4
-snippet: North Coast port city with Tsimshian culture, salmon-cannery history, rainforest trails, and island weather.
+score: 5.273
+snippet: North Coast port city with Tsimshian culture, salmon-cannery history, rainforest
+  trails, and island weather.
 sources:
-  - https://en.wikivoyage.org/wiki/Prince_Rupert
-  - https://en.wikipedia.org/wiki/Prince_Rupert,_British_Columbia
-  - https://www.wikidata.org/wiki/Q376765
+- https://en.wikivoyage.org/wiki/Prince_Rupert
+- https://en.wikipedia.org/wiki/Prince_Rupert,_British_Columbia
+- https://www.wikidata.org/wiki/Q376765
+heritage: 3.636
+vibrancy: 2.19
+nature: 6.632
+off_the_beaten_track: 5.014
 ---
 
 Prince Rupert sits on Kaien Island on British Columbia's North Coast, closer in spirit to Alaska than to Vancouver. Ferries, fishing boats, container ships, fog, ravens, and steep forested hills all crowd around a compact harbour city.

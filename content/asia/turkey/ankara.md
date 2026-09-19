@@ -15,7 +15,7 @@ quick_facts:
   Anıtkabir: Atatürk's vast mausoleum
   Became Capital: '1923'
   Population: ~5.7 million
-score: 7.4
+score: 6.078
 snippet: Inland Turkish capital chosen by Atatürk, with its old core clustered around
   Ankara Castle.
 tip: Ankara is Turkey's modern capital — chosen by Atatürk over Istanbul in 1923 —
@@ -25,6 +25,10 @@ tip: Ankara is Turkey's modern capital — chosen by Atatürk over Istanbul in 1
   city.
 title: Ankara
 type: location
+heritage: 6.852
+vibrancy: 5.595
+nature: 2.371
+off_the_beaten_track: 1.822
 ---
 
 Ankara is a very old city that does not have much to show for that fact. Founded around 2000 BCE, it gained its modern prominence in 1923 when Mustafa Kemal Atatürk chose it as the capital of the new Turkish Republic — partly because it was far from the occupied Istanbul, and partly because it was a defensible inland city from which to build a nation.

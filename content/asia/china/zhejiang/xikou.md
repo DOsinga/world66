@@ -5,11 +5,15 @@ done:
 latitude: 29.692261
 loc_type: city
 longitude: 121.278182
-score: 6.81
+score: 5.025
 snippet: Mountain town south of Ningbo, known for Chiang Kai-shek's residences and
   the Buddhist temples of Xuedou.
 title: Xikou
 type: location
+heritage: 4.618
+vibrancy: 2.123
+nature: 5.832
+off_the_beaten_track: 3.534
 ---
 
 Xikou is a small town in the mountains south of Ningbo, best known as the birthplace of Chiang Kai-shek. His [former residences and ancestral halls](/asia/china/zhejiang/xikou/chiang_birthplace) are scattered through the town and draw a steady stream of Chinese visitors, though few foreign tourists make the trip.

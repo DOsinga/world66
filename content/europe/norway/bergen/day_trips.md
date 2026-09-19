@@ -2,7 +2,7 @@
 title: Day Trips
 type: section
 linked_locations:
-  - europe/norway/flam
+  - europe/norway/flm
   - europe/norway/voss
 ---
 

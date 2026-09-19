@@ -8,7 +8,11 @@ snippet: Small Wakhi village in Upper Hunza, perched above the Karakoram Highway
 longitude: 74.8646
 title: Moorkhoun
 type: location
-score: 5.55
+score: 6.007
+heritage: 5.976
+vibrancy: 0.261
+nature: 6.778
+off_the_beaten_track: 8.153
 ---
 
 Moorkhoun (also spelled Morkhun) is a small Wakhi village in Gojal, perched on the east bank of the Hunza river along the Karakoram Highway about 30 kilometres south of Sost. At around 2,800 metres, it is one of the higher settlements in Upper Hunza and one of the quietest — a few dozen houses, irrigated terraces, a school, a mosque, and the road running through.

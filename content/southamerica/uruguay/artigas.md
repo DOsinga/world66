@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: -30.4033
 longitude: -56.4695
-score: 6.4
-snippet: Northern Uruguayan border city shaped by amethyst mines, samba carnival, and Cuareim River trade.
+score: 4.01
+snippet: Northern Uruguayan border city shaped by amethyst mines, samba carnival,
+  and Cuareim River trade.
 wikidata: Q712567
 sources:
-  - https://en.wikivoyage.org/wiki/Artigas
-  - https://uruguaynatural.com/en/places/artigas/
-  - https://en.wikipedia.org/wiki/Piedra_Pintada
+- https://en.wikivoyage.org/wiki/Artigas
+- https://uruguaynatural.com/en/places/artigas/
+- https://en.wikipedia.org/wiki/Piedra_Pintada
+heritage: 4.493
+vibrancy: 3.748
+nature: 3.939
+off_the_beaten_track: 2.991
 ---
 
 Artigas sits in Uruguay's far north, across the Cuareim River from the Brazilian town of Quarai. It is a long way from the country's polished beach resorts, and that is part of the point: this is border Uruguay, with Portuguese in the air, duty-free shops downtown, and a local economy tied to the agate and amethyst deposits in the surrounding basalt country.

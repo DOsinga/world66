@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Waterfront,_George_Town,_G
 latitude: 19.2866
 loc_type: city
 longitude: -81.3744
-score: 8.78
+score: 5.74
 sources:
 - https://en.wikipedia.org/wiki/George_Town,_Cayman_Islands
 title: George Town
 snippet: Cayman Islands capital and Grand Cayman cruise port, centred on banking and
   duty-free waterfront commerce.
 type: location
+heritage: 4.465
+vibrancy: 5.319
+nature: 6.326
+off_the_beaten_track: 1.589
 ---
 
 George Town is the capital of the Cayman Islands and the main port of call for cruise ships visiting [Grand Cayman](/northamerica/caymanislands/grandcayman). The waterfront is dominated by banking and duty-free shopping — this is one of the world's largest offshore financial centres — but the compact town centre has some character beyond the commerce. The [Cayman Islands National Museum](/northamerica/caymanislands/grandcayman/george_town/cayman_islands_national_museum), housed in a 19th-century building on [Harbour Drive](/northamerica/caymanislands/grandcayman/george_town/harbour_drive), offers a good overview of the islands' maritime and natural history. Just up the road, the ruins of [Fort George](/northamerica/caymanislands/grandcayman/george_town/fort_george) and the curiously famous [Ugland House](/northamerica/caymanislands/grandcayman/george_town/ugland_house) (registered address of more than 40,000 corporations) round out the half-day in town.

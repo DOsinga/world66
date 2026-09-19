@@ -12,7 +12,7 @@ quick_facts:
   Population: ~2 million
   Rebuilt: After near-total WWII ruin
   Stalinist Avenue: Independence Ave, 15 km long
-score: 7.25
+score: 4.778
 snippet: Belarusian capital rebuilt after wartime destruction into broad Stalinist
   avenues, monumental squares, and Soviet-era urban theatre
 tip: Minsk was flattened in WWII and rebuilt as a showcase of grand Stalinist architecture
@@ -22,6 +22,10 @@ tip: Minsk was flattened in WWII and rebuilt as a showcase of grand Stalinist ar
   change often.
 title: Minsk
 type: location
+heritage: 4.435
+vibrancy: 4.945
+nature: 3.018
+off_the_beaten_track: 3.924
 ---
 
 Minsk, the capital of Belarus, is unlike any other European capital. The city was 80% destroyed in World War II — one of the most complete urban annihilations of the entire conflict — and rebuilt almost entirely from scratch between 1945 and 1955 according to Stalin’s personal vision of what a Soviet city should look like. The result is a masterpiece of Stalinist urban planning: wide ceremonial avenues, monumental neoclassical facades, vast squares, and a scale that is simultaneously impressive and slightly bewildering. The Stalinist city centre was designated a UNESCO World Heritage Site in 2023.

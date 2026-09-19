@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2015_North_Carolina_State_
 latitude: 35.780398
 loc_type: city
 longitude: -78.639099
-score: 6.93
+score: 5.733
 snippet: North Carolina capital in the Research Triangle, with leafy parks, universities,
   and free state museums.
 title: Raleigh
 type: location
+heritage: 4.672
+vibrancy: 6.179
+nature: 3.426
+off_the_beaten_track: 0.861
 ---
 
 Raleigh is the state capital and one of the most livable cities in the American South. The unofficial motto is "Trees, Tees, and PhDs" — a nod to its 150-plus parks, excellent golf courses, and the concentration of universities in the Research Triangle.

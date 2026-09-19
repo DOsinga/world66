@@ -4,10 +4,15 @@ type: location
 loc_type: city
 latitude: 49.733
 longitude: -116.909
-score: 7.1
-snippet: Kootenay Lake communities known for cave-fed hot springs, limestone caves, and ferry views.
+score: 5.553
+snippet: Kootenay Lake communities known for cave-fed hot springs, limestone caves,
+  and ferry views.
 source_url: https://en.wikivoyage.org/wiki/Ainsworth_Hot_Springs-Balfour
 source: Wikivoyage
+heritage: 2.964
+vibrancy: 1.245
+nature: 7.315
+off_the_beaten_track: 4.233
 ---
 
 Ainsworth Hot Springs and Balfour sit on the north shore of Kootenay Lake in British Columbia's [West Kootenays](/northamerica/canada/britishcolumbia). They are small communities rather than a single town, but together they make a strong day out: soak in mineral water, walk to a lakeside lighthouse, or head up into the limestone caves above Ainsworth.

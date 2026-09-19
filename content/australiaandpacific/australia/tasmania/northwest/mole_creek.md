@@ -2,13 +2,18 @@
 title: Mole Creek
 type: location
 loc_type: city
-latitude: -41.5570
+latitude: -41.557
 longitude: 146.4077
-score: 6.5
-snippet: Tasmanian farming town beside karst caves, wildlife sanctuaries, honey country, and the Great Western Tiers.
+score: 5.524
+snippet: Tasmanian farming town beside karst caves, wildlife sanctuaries, honey country,
+  and the Great Western Tiers.
 sources:
-  - https://en.wikivoyage.org/wiki/Mole_Creek
-  - https://en.wikipedia.org/wiki/Mole_Creek
+- https://en.wikivoyage.org/wiki/Mole_Creek
+- https://en.wikipedia.org/wiki/Mole_Creek
+heritage: 2.239
+vibrancy: 1.382
+nature: 7.001
+off_the_beaten_track: 5.114
 ---
 
 Mole Creek is a small farming town under the Great Western Tiers, west of Deloraine and north of the wilder country around the Walls of Jerusalem. The town itself is quiet, but the limestone landscape around it gives the place a real reason to stop.

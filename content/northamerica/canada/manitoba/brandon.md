@@ -5,11 +5,15 @@ done:
 latitude: 49.851114
 loc_type: city
 longitude: -99.960892
-score: 5.91
+score: 3.478
 snippet: Manitoba prairie city known as the Wheat City, with agricultural roots and
   an Assiniboine River setting.
 title: Brandon
 type: location
+heritage: 2.563
+vibrancy: 2.136
+nature: 4.305
+off_the_beaten_track: 2.285
 ---
 
 Brandon is Manitoba's second city, known as the "Wheat City" for its big-sky prairie landscape and agricultural roots. With a population of around 50,000, it has the feel of an overgrown small town — friendly, unhurried, and easy to get around. The Assiniboine River runs through the centre, and a pleasant Riverwalk follows its banks for walkers and cyclists.

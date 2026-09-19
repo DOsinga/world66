@@ -5,11 +5,15 @@ done:
 latitude: -8.955169
 loc_type: city
 longitude: 160.951441
-score: 5.93
+score: 5.748
 snippet: Mountainous Solomon Islands island known for Lau Lagoon artificial villages
   and resilient traditional culture.
 title: Malaita
 type: location
+heritage: 3.8
+vibrancy: 1.045
+nature: 6.602
+off_the_beaten_track: 7.559
 ---
 
 Malaita is the most heavily populated island in the [Solomon Islands](/australiaandpacific/solomonislands), a long, mountainous spine of jungle-covered ridges running roughly north to south. The island is known for its fiercely traditional culture — many communities here have resisted outside influence more stubbornly than anywhere else in the Solomons. The artificial islands of Lau Lagoon, built over centuries by piling coral rocks into the shallow waters off the northeast coast, are the most remarkable sight: entire villages standing on platforms in the lagoon, originally constructed to escape the mosquitoes and raids of the mainland.

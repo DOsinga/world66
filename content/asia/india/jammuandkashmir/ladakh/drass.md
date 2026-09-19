@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Drass_and_Tololing_Range.j
 latitude: 34.4293
 loc_type: city
 longitude: 75.7508
-score: 6.61
+score: 6.632
 sources:
 - https://en.wikipedia.org/wiki/Dras
 - https://en.wikipedia.org/wiki/Kargil_War_Memorial
@@ -17,6 +17,10 @@ snippet: Himalayan frontier town in the Dras River valley, framed by bare mounta
   and Kargil War memorials.
 title: Drass
 type: location
+heritage: 5.873
+vibrancy: 0.823
+nature: 7.79
+off_the_beaten_track: 6.15
 ---
 
 Drass is a small town in Kargil district, sitting in the [Dras River valley](/asia/india/jammuandkashmir/ladakh/drass/dras_river_valley) between the Suru and Zanskar valleys in the northern Himalayas. At 3,300 metres, it is often cited as the second coldest inhabited place on earth — winter temperatures have been recorded below −45°C. The town's population is predominantly Shina-speaking and Muslim, and it has a quietly frontier quality: stone houses, bare brown mountains, a fast pale river, and military traffic on the main road.

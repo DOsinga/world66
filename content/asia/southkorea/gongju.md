@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 36.4556
 longitude: 127.1247
-score: 7.4
+score: 4.724
 snippet: Former Baekje capital on the Geumgang River, anchored by fortress walls and
   royal tombs.
 sources:
@@ -14,6 +14,10 @@ image: gongju.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Pavilion_in_Gongsanseong_Fortress.jpg
 image_license: CC0
 image_attribution: Bernard Gagnon
+heritage: 5.474
+vibrancy: 1.964
+nature: 4.522
+off_the_beaten_track: 2.16
 ---
 
 Gongju is one of the best places in Korea to understand Baekje, the southwestern kingdom that shaped early Korean culture and sent ideas, artists, and Buddhism across the water to Japan. It was the Baekje capital in the 5th and 6th centuries, before power moved south to Buyeo, and the old royal core still sits close enough together to explore on foot.

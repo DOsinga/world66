@@ -5,13 +5,17 @@ done:
 latitude: -18.155399
 loc_type: city
 longitude: 49.409835
-score: 6.27
+score: 5.492
 snippet: Madagascar’s largest port, a raw Indian Ocean city of lagoons, palms, markets,
   and container ships.
 sources:
 - https://en.wikipedia.org/wiki/Toamasina
 title: Toamasina
 type: location
+heritage: 3.687
+vibrancy: 3.926
+nature: 6.616
+off_the_beaten_track: 5.143
 ---
 
 Toamasina — still commonly known by its French colonial name Tamatave — is Madagascar's largest port and its second city, sprawling along a narrow coastal peninsula between the Indian Ocean and a network of lagoons. It is not a city of grand monuments or polished tourist infrastructure, but it has a raw, tropical energy that rewards patience. The ocean is everywhere: the smell of salt, the rumble of container ships in the harbour, the fishing pirogues pulled up on the beach at dawn. Boulevard Joffre, lined with palms and crumbling colonial-era facades, gives the centre an almost Indochine atmosphere.

@@ -17,7 +17,7 @@ quick_facts:
   Founded: '1571'
   Intramuros: Old Spanish walled city
   Population: ~14 million (metro)
-score: 7.32
+score: 6.854
 snippet: Dense Philippine capital on Manila Bay, where Intramuros, Chinatown, malls,
   and working districts collide.
 tip: Manila is dense, chaotic and sprawling — the historic core is Intramuros, the
@@ -26,6 +26,10 @@ tip: Manila is dense, chaotic and sprawling — the historic core is Intramuros,
   around it. Filipinos speak excellent English, which makes the city easy to navigate.
 title: Manila
 type: location
+heritage: 6.803
+vibrancy: 6.926
+nature: 3.366
+off_the_beaten_track: 1.096
 ---
 
 Manila is one of the most exhausting cities in Southeast Asia. Thirteen million people live in the metro area, packed into a warren of municipalities, gated villages, slums, and business districts that stretch for forty kilometres up and down the bay. The traffic is legendary. The heat is heavy. The pollution is real. Don't come for rest — fly to one of the smaller islands for that.

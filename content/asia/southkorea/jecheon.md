@@ -2,8 +2,9 @@
 latitude: 37.133
 loc_type: city
 longitude: 128.216
-score: 7.05
-snippet: Inland Korean lake-and-mountain city with ancient reservoirs, relocated heritage, and festival culture.
+score: 3.673
+snippet: Inland Korean lake-and-mountain city with ancient reservoirs, relocated heritage,
+  and festival culture.
 sources:
 - https://en.wikivoyage.org/wiki/Jecheon
 - https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=94646
@@ -11,6 +12,10 @@ sources:
 title: Jecheon
 type: location
 wikidata: Q42143
+heritage: 2.225
+vibrancy: 3.228
+nature: 4.134
+off_the_beaten_track: 1.587
 ---
 
 Jecheon sits in the mountains of North Chungcheong, a long way from Korea's louder coastal and capital-city circuits. Its appeal is a mix of water, ridges, and cultural salvage: old reservoirs, lake views, relocated heritage buildings, and enough festivals to make the city feel more distinctive than a simple rail stop.

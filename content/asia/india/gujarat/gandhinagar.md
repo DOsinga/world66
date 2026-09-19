@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Akshardham_Gandhinagar_Guj
 latitude: 23.2232
 loc_type: city
 longitude: 72.6493
-score: 6.56
+score: 3.853
 snippet: Planned Gujarat capital of numbered sectors and green avenues, anchored by
   the pink sandstone Akshardham complex
 title: Gandhinagar
 type: location
+heritage: 3.421
+vibrancy: 4.046
+nature: 2.947
+off_the_beaten_track: 1.33
 ---
 
 Gandhinagar is Gujarat's capital and one of the few cities in India that was purpose-built for the job. Planned in the 1960s and modelled loosely on Chandigarh, it sits about 25 km north of [Ahmedabad](/asia/india/gujarat/ahmedabad) on the west bank of the Sabarmati river. The city is laid out in a precise grid of numbered sectors, connected by wide tree-lined avenues. It is calm, green, and a little sleepy — a stark contrast to the chaos of Ahmedabad.

@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 46.392
 longitude: -63.793
-score: 6.4
-snippet: Prince Edward Island harbour city with fox-farming history, heritage houses, and a working waterfront.
+score: 4.432
+snippet: Prince Edward Island harbour city with fox-farming history, heritage houses,
+  and a working waterfront.
 wikidata: Q863058
 sources:
-  - https://en.wikivoyage.org/wiki/Summerside
-  - https://www.exploresummerside.com/
-  - https://www.culturesummerside.com/
+- https://en.wikivoyage.org/wiki/Summerside
+- https://www.exploresummerside.com/
+- https://www.culturesummerside.com/
+heritage: 3.806
+vibrancy: 3.356
+nature: 5.248
+off_the_beaten_track: 1.215
 ---
 
 Summerside is Prince Edward Island's second city, a low-key harbour town on the island's south shore. It does not have Charlottetown's political drama or Cavendish's Anne crowds, but it has a strong local story: shipbuilding, silver fox farming, harness racing, and a waterfront that has been pulled back into public life.

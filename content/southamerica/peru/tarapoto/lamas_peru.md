@@ -3,12 +3,12 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: -6.496517
 longitude: -76.335111
+score: 5.6
 snippet: Tranquil palm-fringed lake with paddle boats just outside Tarapoto
 tags:
-- day_trips
+- things_to_do
 title: Laguna Venecia
 type: poi
-score: 5.6
 ---
 
 Only about 5 km outside of Tarapoto, Laguna Venecia is one of the easiest day trips in the area. It is a small, tranquil lake surrounded by palms and tropical vegetation — a reminder of the jungle that once covered the flat lands around the city before they were cleared for agriculture generations ago.

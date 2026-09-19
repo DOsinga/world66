@@ -6,11 +6,15 @@ done:
 latitude: 33.5037
 loc_type: city
 longitude: 11.1097
-score: 6.8
+score: 4.996
 snippet: Southern Tunisian fishing town of sandy beaches, olive groves, and a quiet
   Gulf of Gabès port.
 title: Zarzis
 type: location
+heritage: 4.687
+vibrancy: 4.496
+nature: 5.571
+off_the_beaten_track: 4.258
 ---
 
 Zarzis is a laid-back fishing town at the southern end of the Gulf of Gabès, close to the Libyan border. It has long, sandy beaches, a working port, and an olive oil industry that goes back centuries. It is not a polished resort — that's part of the appeal. People come here for the quiet, the sea, and the sense that tourism hasn't quite taken over.

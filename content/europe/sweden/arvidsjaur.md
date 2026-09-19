@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Arvidsjaur-church_1.jpg
 latitude: 65.5928
 loc_type: city
 longitude: 19.1736
-score: 6.7
+score: 5.366
 snippet: Swedish Lapland town known for winter vehicle testing and Lappstaden, a preserved
   Sami church town.
 title: Arvidsjaur
 type: location
+heritage: 1.844
+vibrancy: 1.293
+nature: 6.944
+off_the_beaten_track: 4.498
 ---
 
 Arvidsjaur sits deep in Swedish Lapland, roughly 800 kilometres north of Stockholm, and it gets cold here — genuinely, bracingly cold. That's partly the point. Winter temperatures regularly plunge to -20°C and below, which is why the town draws [car manufacturers for cold-weather testing](/europe/sweden/arvidsjaur/winter_test_tracks) and why the frozen lake doubles as a test track each January.

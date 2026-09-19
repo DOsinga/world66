@@ -5,13 +5,17 @@ done:
 latitude: 10.938061
 loc_type: city
 longitude: 79.413043
-score: 6.16
+score: 4.25
 sources:
 - https://en.wikipedia.org/wiki/Thiruvarur
 title: Tiruvarur
 type: location
 snippet: Cauvery Delta temple town centred on the vast Thyagaraja Temple and its sacred
   tank.
+heritage: 4.813
+vibrancy: 3.868
+nature: 2.601
+off_the_beaten_track: 3.886
 ---
 
 Tiruvarur is a small town in the Cauvery Delta between Thanjavur and Nagapattinam, known primarily for the **[Thyagaraja Temple](/asia/india/tamilnadu/tiruvarur/thyagaraja_temple)** — one of the Pancha Bhuta Stalas, the five ancient Shiva temples each representing one of the classical elements. Tiruvarur's temple represents earth (prithvi). The complex is genuinely large and ancient, with a 36-hectare temple tank that serves as one of the town's most distinctive landmarks.

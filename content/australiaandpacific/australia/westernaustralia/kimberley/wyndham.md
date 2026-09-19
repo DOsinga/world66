@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -15.4825
 longitude: 128.122778
-score: 6.8
+score: 5.468
 snippet: Far-northern Kimberley port town below the Bastion Range and the Five Rivers
   Lookout.
 sources:
@@ -17,6 +17,10 @@ image: wyndham.jpg
 image_source: https://commons.wikimedia.org/wiki/File:00_2077_Wyndham,_Western_Australia.jpg
 image_license: CC BY-SA 4.0
 image_attribution: W. Bulach
+heritage: 3.798
+vibrancy: 2.004
+nature: 6.865
+off_the_beaten_track: 4.522
 ---
 
 Wyndham feels like the end of a very long road, which in a practical sense it is. This small Kimberley port sits near the mouths of five rivers, below the Bastion Range, with mudflats, mangroves, boab trees, crocodile warnings, and a history tied to gold rush supply lines and cattle.

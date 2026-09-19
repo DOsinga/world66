@@ -25,7 +25,7 @@ July 21, 2006
 
 February 15, 2008
 
-### [Sillustani funerary towers](/southamerica/peru/laketiticacaarea/sights/sillustani_funerar)
+### [Sillustani funerary towers](/southamerica/peru/laketiticacaarea/sillustani_funerar)
 
 Sillustani is located on a hill near a small and beutiful lake. Both Incan and pre-Incan cultures used this site to build towers for burrying their kings and noblemen. They were burried with their familes, and also with offerings to the gods, such as llamas, alpacas, quinua, etc..
 
@@ -37,11 +37,11 @@ type: Graves and Cemeteries
 
 
 
-[[rate it]](/southamerica/peru/laketiticacaarea/sights/sillustani_funerar)
+[[rate it]](/southamerica/peru/laketiticacaarea/sillustani_funerar)
 
 address: Sillustani
 
-### [Taquili island](/southamerica/peru/laketiticacaarea/sights/taquili_island)
+### [Taquili island](/southamerica/peru/laketiticacaarea/taquili_island)
 
 Taquili island is gorgeous. It is a hilly island in the lake, where a special social culture has developed. Each person has clothes according to their social status. Leaders have black hats, for example. There is a difference between single men, dating men and married men. This applies also for women.
 
@@ -51,9 +51,9 @@ type: Hotspots
 
 
 
-[[rate it]](/southamerica/peru/laketiticacaarea/sights/taquili_island)
+[[rate it]](/southamerica/peru/laketiticacaarea/taquili_island)
 
-### [Uros islands](/southamerica/peru/laketiticacaarea/sights/uros_islands)
+### [Uros islands](/southamerica/peru/laketiticacaarea/uros_islands)
 
 The Uros islands, also known as the floating islands, are the major tourist attraction in Lake Titicaca. Nowadays, it has become very touristic. The locals jump at visitors when they land on one of the islands and try to sell them all kinds of souvenirs. They claim that they are original from the islands, but it can't really be guaranteed.
 Nonetheless, they look nice.
@@ -64,9 +64,9 @@ type: Hotspots
 
 
 
-[[rate it]](/southamerica/peru/laketiticacaarea/sights/uros_islands)
+[[rate it]](/southamerica/peru/laketiticacaarea/uros_islands)
 
-### [Amantani Island](/southamerica/peru/laketiticacaarea/sights/amantani_island)
+### [Amantani Island](/southamerica/peru/laketiticacaarea/amantani_island)
 
 Amantani Island is a beautiful island, more than 3 hours by boat from Puno. Its rather remote location makes it less touristic. The community that lives there maintains traditional agricultural life. It seems like not much has changed during time.
 The island is not very large, so one can hike around it. A hot spot is the highest hilltop on the island. It is both a sacred place, and a great place to see sunsets. The 300 meter elevation from the lake level could be hard if visitors are not acclimitized. Otherwise, it is a very straightforward and smooth walk to the top.
@@ -75,4 +75,4 @@ type: Hotspots
 
 
 
-[[rate it]](/southamerica/peru/laketiticacaarea/sights/amantani_island)
+[[rate it]](/southamerica/peru/laketiticacaarea/amantani_island)

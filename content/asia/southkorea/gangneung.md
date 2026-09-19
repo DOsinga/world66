@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 37.751
 longitude: 128.9
-score: 7.1
-snippet: East-coast Korean city of beaches, coffee culture, Joseon houses, and Olympic winter-sport memory.
+score: 6.041
+snippet: East-coast Korean city of beaches, coffee culture, Joseon houses, and Olympic
+  winter-sport memory.
 sources:
-  - https://en.wikivoyage.org/wiki/Gangneung
-  - https://english.visitkorea.or.kr/
+- https://en.wikivoyage.org/wiki/Gangneung
+- https://english.visitkorea.or.kr/
+heritage: 4.538
+vibrancy: 5.689
+nature: 6.614
+off_the_beaten_track: 1.975
 ---
 
 *Asia > South Korea > Gangneung*

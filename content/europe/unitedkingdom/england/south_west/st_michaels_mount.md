@@ -2,7 +2,7 @@
 latitude: 50.1184
 loc_type: city
 longitude: -5.4776
-score: 0.82
+score: 6.588
 snippet: Tidal island castle rising from Mount's Bay, reached by causeway at low tide
   or ferry at high tide.
 tags:
@@ -13,6 +13,10 @@ image: st_michaels_mount.jpg
 image_source: https://commons.wikimedia.org/wiki/File:St_Michael%27s_Mount_-_geograph.org.uk_-_2296422.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Gordon Spicer
+heritage: 7.719
+vibrancy: 2.169
+nature: 6.114
+off_the_beaten_track: 3.522
 ---
 
 St Michael's Mount is one of the most dramatic sights in England: a granite island crowned by a medieval castle and sub-tropical gardens, rising from the tidal waters of Mount's Bay. At low tide it is connected to the village of Marazion on the mainland by a cobbled causeway; at high tide, ferries make the short crossing. The contrast between the mundane approach — a car park in a seaside village — and the sudden view of the Mount is reliably arresting.

@@ -5,11 +5,15 @@ done:
 latitude: 40.723475
 loc_type: city
 longitude: 8.561267
-score: 8.03
+score: 5.745
 snippet: Northern Sardinian city of Spanish Gothic lanes, Baroque churches, and Nuragic
   archaeological collections
 title: Sassari
 type: location
+heritage: 5.537
+vibrancy: 5.868
+nature: 5.109
+off_the_beaten_track: 1.664
 ---
 
 Sassari is Sardinia's second city and the main centre of the island's north. Its history is layered — Genoese, Pisan, Aragonese, and Spanish rulers each left their mark, and the old town still shows it. The architecture mixes Spanish Gothic townhouses with Italian Baroque churches, all crammed into a maze of narrow alleys that are worth wandering for hours.

@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Stromboli_
 latitude: 38.793
 loc_type: city
 longitude: 15.2109
-score: 8.88
+score: 6.269
 snippet: Volcanic Aeolian island built around an active cone that has erupted for
   roughly two thousand years.
 tags:
 - aeolianislands
 title: Stromboli
 type: location
+heritage: 5.02
+vibrancy: 5.095
+nature: 7.255
+off_the_beaten_track: 4.594
 ---
 
 [Stromboli](/europe/italy/sicily/stromboli/stromboli_volcano) is one of the most reliably active volcanoes on earth — it has been erupting more or less continuously for at least 2,000 years. The island is essentially nothing but volcano: a near-perfect cone rising from the Tyrrhenian Sea to 924 metres, with a small village at its foot and almost nothing else. It is extraordinary.

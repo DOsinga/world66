@@ -5,12 +5,17 @@ loc_type: city
 latitude: 55.6519
 longitude: -3.1888
 wikidata: Q1011507
-score: 7.2
-snippet: Scottish Borders town on the Tweed, with castle ruins, gardens, and Glentress forest trails.
+score: 4.739
+snippet: Scottish Borders town on the Tweed, with castle ruins, gardens, and Glentress
+  forest trails.
 sources:
-  - https://en.wikivoyage.org/wiki/Peebles
-  - https://www.visitscotland.com/places-to-go/peebles
-  - https://www.rbge.org.uk/visit/dawyck-botanic-garden/
+- https://en.wikivoyage.org/wiki/Peebles
+- https://www.visitscotland.com/places-to-go/peebles
+- https://www.rbge.org.uk/visit/dawyck-botanic-garden/
+heritage: 3.706
+vibrancy: 3.143
+nature: 5.774
+off_the_beaten_track: 2.839
 ---
 
 Peebles is a handsome Borders town on the River Tweed, close enough to [Edinburgh](/europe/unitedkingdom/scotland/edinburgh) for a day trip but with a slower rhythm of its own. It has stone houses, independent shops, riverside paths, and hills that begin almost at the edge of town.

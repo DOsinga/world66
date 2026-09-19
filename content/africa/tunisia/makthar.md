@@ -5,11 +5,15 @@ done:
 latitude: 35.8559
 loc_type: city
 longitude: 9.2057
-score: 7.2
+score: 3.702
 title: Makthar
 snippet: Mountain town in central Tunisia built over Mactaris, with extensive Numidian
   and Roman ruins.
 type: location
+heritage: 2.628
+vibrancy: 1.756
+nature: 3.905
+off_the_beaten_track: 5.737
 ---
 
 Makthar is a small town in the mountains of central [Tunisia](/africa/tunisia), built on the ruins of the ancient Numidian and Roman city of Mactaris. The [Roman site](/africa/tunisia/makthar/roman_ruins) is one of the best-preserved in Tunisia yet sees a fraction of the visitors that flock to Dougga or El Jem — you are likely to have the triumphal arch, forum, and amphitheatre largely to yourself.

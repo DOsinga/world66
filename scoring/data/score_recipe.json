@@ -1,0 +1,19 @@
+{
+  "component_weights": {
+    "heritage": 1.0,
+    "nature": 1.02,
+    "off_the_beaten_track": 0.72,
+    "vibrancy": 1.14
+  },
+  "description": "Weighted top-two component score, normalized to 0..10.",
+  "dimensions": [
+    "heritage",
+    "vibrancy",
+    "nature",
+    "off_the_beaten_track"
+  ],
+  "max_raw_score": 58.5,
+  "second_component_weight": 1.6,
+  "source": "scoring/data/final_scores.json",
+  "top_component_weight": 3.7
+}

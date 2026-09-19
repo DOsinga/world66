@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/28242319@N03/29937460566
 latitude: 43.361853
 loc_type: city
 longitude: -73.665245
-score: 6.16
+score: 4.588
 title: Queensbury
 snippet: Adirondack foothills town at the southern end of Lake George, known for its
   balloon festival.
 type: location
+heritage: 3.526
+vibrancy: 2.629
+nature: 5.617
+off_the_beaten_track: 1.76
 ---
 
 **Queensbury** is a town in the foothills of the Adirondacks in upstate New York, just north of Glens Falls and at the southern tip of Lake George. It is the gateway to the Adirondack Park and a common stopping point for travellers heading into the mountains.

@@ -1,6 +1,4 @@
 ---
-title: "Day Trips"
-type: section
 linked_locations:
 - asia/india/maharashtra/matheran
 - asia/india/maharashtra/khandala
@@ -9,6 +7,9 @@ linked_locations:
 - asia/india/maharashtra/aurangabad
 - asia/india/maharashtra/ajanta_caves
 - asia/india/maharashtra/ellora
+- asia/india/maharashtra/kanhericaves
+title: Day Trips
+type: section
 ---
 
 India's British rulers had a penchant for "hill-stations" — places to escape the muggy summers and the crowds. Three of them sit just outside Mumbai, nestled in the Western Ghats.

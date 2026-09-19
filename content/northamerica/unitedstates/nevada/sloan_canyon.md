@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Sloan_Canyon_National_Cons
 latitude: 35.90321
 loc_type: feature
 longitude: -115.020182
-score: 6.81
+score: 5.271
 snippet: Desert conservation area south of Las Vegas, protecting basalt canyons filled
   with ancient Native American petroglyphs.
 title: Sloan Canyon
 type: location
+heritage: 1.985
+vibrancy: 1.175
+nature: 6.986
+off_the_beaten_track: 3.879
 ---
 
 Sloan Canyon National Conservation Area is one of the few remaining wild places near Las Vegas, a rugged expanse of desert mountains visible from almost anywhere in the valley when you look south toward Henderson. The 48,000-acre NCA protects a remarkable collection of Native American petroglyphs — rock art dating back up to 2,000 years — along with desert bighorn sheep, desert tortoises, and birds of prey.

@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bapu_museum_18.jpg
 latitude: 16.5062
 loc_type: city
 longitude: 80.648
-score: 6.36
+score: 4.794
 snippet: Busy Krishna River city and railway junction, squeezed between granite hills
   and delta plains.
 title: Vijayawada
 type: location
+heritage: 4.373
+vibrancy: 4.99
+nature: 4.059
+off_the_beaten_track: 4.303
 ---
 
 Vijayawada sits on the Krishna River in the heart of Andhra Pradesh, squeezed between granite hills and the broad plains of the delta. It is one of the busiest railway junctions in south India — nearly every train between the north and the south passes through — which means most travelers blow through without stopping. That is their loss.

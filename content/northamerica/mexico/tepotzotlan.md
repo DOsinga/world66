@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 19.7139
 longitude: -99.2188
-score: 7.2
-snippet: Mexico State Pueblo Mágico anchored by a grand Jesuit college and viceregal museum.
+score: 5.904
+snippet: Mexico State Pueblo Mágico anchored by a grand Jesuit college and viceregal
+  museum.
 sources:
 - https://en.wikivoyage.org/wiki/Tepotzotl%C3%A1n
 - https://lugares.inah.gob.mx/en/node/4239
+heritage: 7.444
+vibrancy: 3.835
+nature: 3.647
+off_the_beaten_track: 1.866
 ---
 
 Tepotzotlán sits north of Mexico City, close enough for a day trip but distinct enough to feel like a real change of pace. Its old centre is compact, colonial, and busy on weekends, with food stalls, craft vendors, and families spilling around the main square.

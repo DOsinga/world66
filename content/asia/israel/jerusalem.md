@@ -14,7 +14,7 @@ quick_facts:
   Gates: 8, one sealed
   Holy To: Three faiths
   Old City: 0.9 km²
-score: 9.74
+score: 7.065
 snippet: Ancient hill city sacred to Judaism, Christianity, and Islam, centred on
   the walled Old City.
 tip: The Old City is four quarters and a maze; go early, when the alleys are quiet
@@ -24,6 +24,10 @@ tip: The Old City is four quarters and a maze; go early, when the alleys are qui
   billions.
 title: Jerusalem
 type: location
+heritage: 7.043
+vibrancy: 7.127
+nature: 6.469
+off_the_beaten_track: 1.776
 ---
 
 Jerusalem is one of the oldest and most contested cities on earth — sacred to Judaism, Christianity, and Islam, and at the centre of a political dispute that has not been resolved. The UN voted in 1947 to place the city under international administration; no party accepted this. West Jerusalem came under Israeli control in 1948; East Jerusalem, including the Old City, was occupied by Israel in 1967. The status of the city remains disputed, and the de facto Israeli annexation of East Jerusalem has not been recognised by most of the international community.

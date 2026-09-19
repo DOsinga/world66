@@ -16,6 +16,7 @@ tags:
 - things_to_do
 - sight
 - landmark
+- eiffel_tower_district
 title: Eiffel Tower
 type: poi
 url: www.tour-eiffel.fr

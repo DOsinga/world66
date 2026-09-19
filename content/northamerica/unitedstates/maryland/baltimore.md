@@ -10,9 +10,13 @@ loc_type: city
 snippet: Gritty Mid-Atlantic port city of rowhouse neighbourhoods, seafood, waterfront
   history, and fierce local identity.
 longitude: -76.610759
-score: 6.96
+score: 6.83
 title: Baltimore
 type: location
+heritage: 6.813
+vibrancy: 6.888
+nature: 3.813
+off_the_beaten_track: 1.583
 ---
 
 Baltimore gets a bad rap, and some of it is earned. But this is a city with serious character — gritty, unpretentious, and fiercely loyal to its own identity. It is not Washington, D.C., and it does not want to be.

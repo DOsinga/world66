@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:A_view_of_Khajjiar_,Chamba
 latitude: 32.5486
 loc_type: city
 longitude: 76.0597
-score: 8.02
+score: 5.792
 snippet: Himachal meadow village near Dalhousie, set around a shallow lake in dense
   deodar forest.
 title: Khajjiar
 type: location
+heritage: 2.709
+vibrancy: 1.81
+nature: 7.23
+off_the_beaten_track: 5.729
 ---
 
 Khajjiar is a small meadow village in the Chamba district of Himachal Pradesh, sitting at around 1,920 metres in a bowl of dense deodar forest with a shallow, reed-fringed lake at its centre. The Swiss ambassador to India once planted a signpost here declaring it India's Switzerland, and the comparison is hard to dismiss — the rolling green clearing, the pine-scented air, and the surrounding peaks do have an Alpine quality. It's 27 km from [Dalhousie](/asia/india/himachalpradesh/dalhousie) and makes an easy half-day trip from there, though staying a night lets you enjoy the meadow once the day-trippers have gone.

@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:EVENING_FALLS_IN_PORTOFINO
 latitude: 44.303665
 loc_type: city
 longitude: 9.209345
-score: 9.32
+score: 6.147
 snippet: Tiny Ligurian fishing village beneath Monte di Portofino, famous for its
   colourful harbour and Piazzetta.
 tags:
 - tigullio
 title: Portofino
 type: location
+heritage: 4.314
+vibrancy: 5.29
+nature: 6.972
+off_the_beaten_track: 1.816
 ---
 
 Portofino is a tiny fishing village on the Ligurian coast southeast of Genoa, set at the base of a promontory covered in Monte di Portofino Natural Park. Its harbour is barely large enough for 300 boats, its streets barely wide enough for two people to pass — and yet it is one of the most famous villages in Italy, photographed and visited by the wealthy since the late 19th century. The coloured houses around [the Piazzetta](/europe/italy/liguria/portofino/piazzetta), the hilltop [Castello Brown](/europe/italy/liguria/portofino/castello_brown), and the surrounding blue-green sea are genuinely as beautiful as the postcards suggest.

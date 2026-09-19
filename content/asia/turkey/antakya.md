@@ -2,12 +2,17 @@
 title: Antakya
 type: location
 loc_type: city
-latitude: 36.200000
-longitude: 36.150000
-score: 8.0
-snippet: Ancient Antioch on the Orontes, still rebuilding around early Christian and Roman sites.
+latitude: 36.2
+longitude: 36.15
+score: 4.877
+snippet: Ancient Antioch on the Orontes, still rebuilding around early Christian and
+  Roman sites.
 sources:
-  - https://en.wikivoyage.org/wiki/Antakya
+- https://en.wikivoyage.org/wiki/Antakya
+heritage: 5.708
+vibrancy: 4.064
+nature: 2.51
+off_the_beaten_track: 5.431
 ---
 
 Antakya is ancient Antioch, one of the great cities of the eastern Mediterranean and an early centre of Christianity. It sits on the Orontes River near the Syrian border, with Roman, Byzantine, Arab, Crusader, Ottoman, Turkish, Armenian, and Arab layers packed into a city that has always faced both Syria and Anatolia.

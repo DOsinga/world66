@@ -11,7 +11,7 @@ quick_facts:
   Kasubi Tombs: Royal Buganda burial site
   Population: ~1.7 million
   White Nile Source: At Jinja nearby
-score: 6.87
+score: 5.877
 snippet: Ugandan capital built across hills above Lake Victoria, busy with markets,
   matatus, and royal tombs.
 tip: Kampala is a green, hilly, hectic city — originally built on seven hills like
@@ -20,6 +20,10 @@ tip: Kampala is a green, hilly, hectic city — originally built on seven hills 
   Boda-boda motorbike taxis are fast but risky; agree the fare and hold on.
 title: Kampala
 type: location
+heritage: 5.125
+vibrancy: 6.144
+nature: 5.188
+off_the_beaten_track: 4.401
 ---
 
 Kampala is Uganda's capital, a sprawling, hilly, noisy city of around 1.7 million people a few miles north of Lake Victoria. Built across seven hills — the colonial-era joke that it was another Rome was taken seriously by town planners — it is the busy, matatu-clogged hub of a country that has rebuilt itself from the wreckage of Idi Amin's rule and the decades of civil war that followed.

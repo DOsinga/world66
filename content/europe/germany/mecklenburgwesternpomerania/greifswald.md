@@ -2,7 +2,7 @@
 latitude: 54.0833
 loc_type: city
 longitude: 13.3833
-score: 7.0
+score: 5.516
 snippet: Baltic university town of Brick Gothic churches and Caspar David Friedrich
   memory.
 sources:
@@ -17,6 +17,10 @@ image: greifswald.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Greifswald_-_Town_Hall.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Harald909
+heritage: 5.662
+vibrancy: 5.503
+nature: 4.342
+off_the_beaten_track: 1.712
 ---
 
 Greifswald is a small Baltic university town with more weight than its size suggests. The old centre sits on the Ryck, with a market square, tall Brick Gothic churches, Hanseatic gabled houses, and enough students to keep the streets from feeling like a museum.

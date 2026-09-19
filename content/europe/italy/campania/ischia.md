@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ischia_da_procida.jpg
 latitude: 40.734205
 loc_type: feature
 longitude: 13.947125
-score: 8.5
+score: 5.921
 snippet: Bay of Naples island defined by thermal springs, beaches, and an extinct
   volcano.
 title: Ischia
 type: location
+heritage: 4.798
+vibrancy: 5.954
+nature: 5.835
+off_the_beaten_track: 2.09
 ---
 
 *Europe > Italy > Campania > Ischia*

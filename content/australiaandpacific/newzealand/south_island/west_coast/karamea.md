@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -41.25
 longitude: 172.117
-score: 7.4
+score: 6.02
 snippet: Remote West Coast settlement for limestone arches, rainforest, beaches, and
   the Heaphy Track.
 wikidata: Q1728935
@@ -17,6 +17,10 @@ image: karamea.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Karamea_River,_Wangapeka_Track,_Kahurangi_National_Park,_New_Zealand.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Michal Klajban
+heritage: 1.92
+vibrancy: 1.381
+nature: 7.423
+off_the_beaten_track: 6.254
 ---
 
 Karamea is the end-of-the-road settlement at the northern edge of the West Coast, backed by Kahurangi National Park and faced by the Tasman Sea. It is remote even by West Coast standards, which is exactly why it works: rainforest, limestone, river flats, wide beaches, and very little hurry.

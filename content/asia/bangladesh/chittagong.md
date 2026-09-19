@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_View_of_Shah_Amanat
 latitude: 22.333778
 loc_type: city
 longitude: 91.834435
-score: 5.98
+score: 4.793
 snippet: Bangladesh's second city and main port, set on the Karnaphuli River near
   the Bay of Bengal.
 title: Chittagong
 type: location
+heritage: 5.204
+vibrancy: 4.673
+nature: 3.987
+off_the_beaten_track: 3.42
 ---
 
 Chittagong (officially Chattogram) is Bangladesh's second city and its main port, sitting on the Karnaphuli River near where it meets the Bay of Bengal. It is a working city rather than a tourist one — crowded, commercial, and a gateway to other places more than a destination in its own right.

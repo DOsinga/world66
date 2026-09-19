@@ -1,20 +1,22 @@
 ---
 title: Hôtel des Invalides
 type: poi
-latitude: 48.855
-longitude: 2.3125
-score: 8.8
+latitude: 48.8559537
+longitude: 2.3133431
+tags:
+- things_to_do
+- sight
+- museum
+- architecture
+- history
+- eiffel_tower_district
+score: 8.0
+snippet: Golden-domed veterans' hospital holding Napoleon's tomb and the national army museum
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Eiffel_Tower
 url: https://www.musee-armee.fr/en/your-visit/museum-spaces/national-hotel-of-the-invalids.html
-tags:
-  - things_to_do
-  - museum
-  - architecture
-  - history
-  - saint_germain
 ---
 
-Hôtel des Invalides is one of Paris's grandest military and imperial monuments, founded by Louis XIV in 1671 as a hospital and home for wounded soldiers. The vast classical complex still has a veterans' institution, but most visitors come for the Army Museum, the gilded dome, and Napoleon's tomb.
+Louis XIV built the Hôtel des Invalides in the 1670s as a home and hospital for wounded soldiers, and its gilded dome — re-gilded with real gold leaf for successive anniversaries — is one of the defining shapes of the Paris skyline. Beneath it, in an open circular crypt, lies Napoleon, his remains returned from Saint Helena in 1840 and sealed inside a nest of six coffins under a vast porphyry sarcophagus.
 
-The Musée de l'Armée covers French military history in depth, from armour and artillery to the world wars. The Dome Church is the set-piece: Napoleon's red porphyry sarcophagus sits below the circular gallery, surrounded by imperial symbolism and a building that was designed to impress.
+The complex also houses the Musée de l'Armée, one of the largest military history museums in the world, running from medieval armour to the two World Wars. Allow a couple of hours for the museum and the tomb together. The broad esplanade out front, sloping down to the river and the Pont Alexandre III, is one of the grandest open spaces in the city.

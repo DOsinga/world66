@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:SanQuiricodOrciaPanorama.J
 latitude: 43.060395
 loc_type: city
 longitude: 11.603645
-score: 8.85
+score: 6.642
 snippet: Small walled Tuscan town on the Via Francigena, set among Val d'Orcia hills
   and cypresses.
 title: San Quirico d'Orcia
 type: location
+heritage: 7.706
+vibrancy: 4.956
+nature: 6.338
+off_the_beaten_track: 1.708
 ---
 
 San Quirico d'Orcia is a small walled town in the [Val d'Orcia](/europe/italy/tuscany/san_quirico_dorcia/val_dorcia_landscape), the stretch of southern Tuscany that appears on every other postcard of Italy — rolling hills, lone cypress trees, golden light. The town sits on the old [Via Francigena](/europe/italy/tuscany/san_quirico_dorcia/via_francigena) pilgrimage route and has an elegant Romanesque collegiate church, the [Collegiata dei Santi Quirico e Giulitta](/europe/italy/tuscany/san_quirico_dorcia/collegiata_dei_santi_quirico_e_giulitta), with three ornate carved portals that are worth a stop on their own.

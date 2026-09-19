@@ -3,7 +3,7 @@ title: "Day Trips"
 type: section
 linked_locations:
   - europe/norway/geirangerfjord
-  - europe/norway/lesund
+  - europe/norway/alesund
   - europe/norway/molde
 ---
 

@@ -5,6 +5,7 @@ snippet: "One of Europe's largest aquariums, centrepiece of the 1998 World Expo 
 tags:
 - things_to_do
 - sight
+- parque_das_nacoes
 title: Oceanarium
 type: poi
 address: Esplanada Dom Carlos I, 1990-005 Lisboa

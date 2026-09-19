@@ -7,11 +7,15 @@ image_source: https://commons.wikimedia.org/wiki/File:DowntownLeadvilleCO.jpg
 latitude: 39.250823
 loc_type: city
 longitude: -106.292524
-score: 7.5
+score: 6.268
 snippet: Colorado Rockies mining town at 10,152 feet, between Mount Elbert and Mount
   Massive.
 title: Leadville
 type: location
+heritage: 6.454
+vibrancy: 2.88
+nature: 6.979
+off_the_beaten_track: 4.296
 ---
 
 Leadville is the highest incorporated city in the United States, sitting at 10,152 feet in the heart of the Colorado Rockies. The town is squeezed between two of Colorado's highest peaks — [Mount Elbert](/northamerica/unitedstates/colorado/leadville/mount_elbert) (14,439 feet) and Mount Massive (14,421 feet) — and the thin air hits you the moment you step out of the car. It is a genuine former mining boomtown that has managed to keep its character without turning into a resort.

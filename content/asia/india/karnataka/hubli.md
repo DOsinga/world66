@@ -5,7 +5,7 @@ done:
 latitude: 15.351838
 loc_type: city
 longitude: 75.137985
-score: 5.91
+score: 3.966
 title: Hubli
 type: location
 image: hubli.jpg
@@ -14,6 +14,10 @@ image_license: CC BY-SA 3.0
 image_attribution: Deepak Patil
 snippet: Commercial Karnataka twin city with Dharwad, a transport hub between Bangalore,
   Goa, and the coast.
+heritage: 3.681
+vibrancy: 4.104
+nature: 2.517
+off_the_beaten_track: 2.317
 ---
 
 Hubli (officially Hubballi) is Karnataka's second-largest urban agglomeration, a sprawling commercial city that shares a municipal boundary with Dharwad. It's primarily a transport and trade hub rather than a tourist destination, but it's a common overnight stop on the way between Bangalore, Goa, and the coast. The old town has a busy market character and the Nrupatunga hill offers a decent vantage point over the city.

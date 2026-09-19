@@ -2,12 +2,16 @@
 title: Spitz
 type: location
 loc_type: city
-latitude: 48.3500
+latitude: 48.35
 longitude: 15.4167
 snippet: Wachau wine village below ruined castle walls and the Tausendeimerberg vineyard.
-score: 8.2
+score: 5.036
 sources:
-  - https://en.wikivoyage.org/wiki/Spitz
+- https://en.wikivoyage.org/wiki/Spitz
+heritage: 4.177
+vibrancy: 3.105
+nature: 6.036
+off_the_beaten_track: 2.862
 ---
 
 Spitz is a wine village in the middle of the [Wachau](/europe/austria/wachau), a little larger and more lived-in than Dürnstein and less dominated by day-trip crowds. The Danube runs below the village, vineyards climb above it, and the broken walls of [Hinterhaus Castle](/europe/austria/wachau/spitz/hinterhaus_castle) watch over the valley from the ridge.

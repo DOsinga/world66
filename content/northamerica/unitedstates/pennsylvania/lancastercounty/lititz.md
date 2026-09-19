@@ -5,11 +5,15 @@ done:
 latitude: 40.157132
 loc_type: city
 longitude: -76.307162
-score: 6.87
+score: 4.837
 snippet: Moravian small town in Lancaster County, with a historic main street and
   America's first commercial pretzel bakery
 title: Lititz
 type: location
+heritage: 6.151
+vibrancy: 3.035
+nature: 2.967
+off_the_beaten_track: 2.278
 ---
 
 Lititz is a small town of about 10,000 in the northern hills of [Lancaster County](/northamerica/unitedstates/pennsylvania/lancastercounty). Founded by Moravians in 1756, it has a [main street](/northamerica/unitedstates/pennsylvania/lancastercounty/lititz/main_street) that retains much of its old-world charm — brick facades, wide sidewalks, antique shops, and small cafes that feel genuinely local rather than assembled for tourists. The whole core of the town is a [National Historic District](/northamerica/unitedstates/pennsylvania/lancastercounty/lititz/lititz_moravian_historic_district), anchored by the 1787 [Moravian Church](/northamerica/unitedstates/pennsylvania/lancastercounty/lititz/moravian_church).

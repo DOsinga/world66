@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Genghis_khan_mausoleum.jpg
 latitude: 39.6085
 loc_type: city
 longitude: 109.7813
-score: 6.07
+score: 5.091
 snippet: Inner Mongolian desert city known for Kangbashi, a purpose-built district
   that reshaped its modern identity.
 sources:
 - https://en.wikivoyage.org/wiki/Ordos_City
 title: Ordos
 type: location
+heritage: 3.699
+vibrancy: 1.638
+nature: 6.009
+off_the_beaten_track: 6.169
 ---
 
 Ordos became briefly famous around 2010 as China's most spectacular ghost city — a gleaming new administrative district called [Kangbashi](/asia/china/innermongolia/ordos/kangbashi_district), built from scratch in the middle of the desert to house a million people, which stood nearly empty for years after completion. The ghost city narrative has aged: Kangbashi has since filled in, with schools, shops, and residents gradually arriving to inhabit its wide boulevards and monumental public buildings. The [Ordos Museum](/asia/china/innermongolia/ordos/ordos_museum), designed by MAD Architects in a spectacular polished steel building, is the district's architectural highlight.

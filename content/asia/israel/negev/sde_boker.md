@@ -2,13 +2,18 @@
 latitude: 30.8771
 loc_type: city
 longitude: 34.7881
-score: 7.0
-snippet: Negev kibbutz and desert campus tied to Ben-Gurion, Ein Avdat, and the Zin Valley.
+score: 6.231
+snippet: Negev kibbutz and desert campus tied to Ben-Gurion, Ein Avdat, and the Zin
+  Valley.
 sources:
-  - https://en.wikivoyage.org/wiki/Sde_Boker
-  - https://en.wikipedia.org/wiki/Sde_Boker
+- https://en.wikivoyage.org/wiki/Sde_Boker
+- https://en.wikipedia.org/wiki/Sde_Boker
 title: Sde Boker
 type: location
+heritage: 2.253
+vibrancy: 2.027
+nature: 8.016
+off_the_beaten_track: 5.383
 ---
 
 Sde Boker is a small kibbutz in the central Negev, famous because Israel's first prime minister, David Ben-Gurion, chose to live out his later years here rather than in Tel Aviv or Jerusalem. That choice still gives the place its character. The settlement is quiet, sun-baked, and practical, with the desert pressing in from every side.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Brihadisvara_Temple,_Thanj
 latitude: 10.659037
 loc_type: city
 longitude: 79.201428
-score: 7.93
+score: 6.326
 snippet: Former Chola capital anchored by Brihadisvara Temple, bronze art, and royal
   palace libraries
 title: Thanjavur
 type: location
+heritage: 7.746
+vibrancy: 4.577
+nature: 2.315
+off_the_beaten_track: 2.745
 ---
 
 Thanjavur (Tanjore) was the capital of the Chola empire, and the [Brihadisvara Temple](/asia/india/tamilnadu/thanjavur/brihadisvara_temple) at its centre is the dynasty's greatest surviving monument. Built by Raja Raja Chola I around 1010 CE, the temple's vimana tower rises 66 metres above the surrounding streets — one of the tallest temple structures in India — and the whole complex is a UNESCO World Heritage Site. The scale and precision of the stonework, the Chola bronzes in the inner corridors, and the massive Nandi bull carved from a single rock are worth a long visit.

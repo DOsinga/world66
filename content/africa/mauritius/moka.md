@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Mauritius_Moka-Range-from-
 latitude: -20.252139
 loc_type: city
 longitude: 57.587224
-score: 7.21
+score: 4.495
 snippet: Mauritian plateau district below the Moka Range, centered on Eureka's Creole
   colonial mansion.
 title: Moka
 type: location
+heritage: 3.229
+vibrancy: 3.033
+nature: 5.502
+off_the_beaten_track: 1.664
 ---
 
 Moka is a quiet district on the central plateau of [Mauritius](/africa/mauritius), tucked into a green valley below the Moka Range. It is one of the cooler parts of the island, thanks to the elevation, and feels distinctly more residential and local than the coastal tourist areas. Most visitors come here for one thing: [Eureka House](/africa/mauritius/moka/eureka_house).

@@ -4,7 +4,7 @@ done:
   poi_cleanup: '2026-04-21'
 latitude: 68.429137
 longitude: 17.425708
-score: 8.84
+score: 6.676
 title: Hurtigruten
 snippet: Norwegian coastal voyage route linking Bergen and Kirkenes through fjords,
   islands, and North Cape waters.
@@ -14,12 +14,16 @@ image: hurtigruten.jpg
 image_source: https://commons.wikimedia.org/wiki/File:0612_Polarlys_departing_from_Geiranger_-_starboard_bow_detailed_-_V-P.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Virtual-Pano
+heritage: 2.996
+vibrancy: 3.515
+nature: 8.077
+off_the_beaten_track: 7.443
 ---
 
-This is the Coastal Voyage from Bergen to Kirkenes via North Cape and back. The full voyage lasts 12 days but you can get half voyages or port-to-port tickets. **This is not an advertisement **but a message for information from somebody who has done most of the voyage.
+The Hurtigruten is the coastal voyage from Bergen to Kirkenes and back, calling at 34 ports along the way — a working postal and freight route since 1893 that has become one of the great ways to see Norway's coast. The full round trip takes 12 days; most travellers take one leg only, north or south, or book a shorter port-to-port stretch.
 
-Cabins are comfortable and you want one with windows. Even if you are only going one way, the side doesn't matter too much because there are islands outside of the ship for so much of the way. The company website at http://www.coastalvoyage.com/main05/index.html gives ost details but impressions of food, trips and scenery will apppear in these pages.
+Book a cabin with a window if you can afford it — much of the value of the trip is simply watching the coast go by, and for long stretches there's land or islands on both sides rather than open sea. The route runs year-round: summer brings the midnight sun above the Arctic Circle and the best chance of calm water for the fjord detours; winter brings the northern lights, storms worth watching from a warm lounge, and a completely different, starker version of the same coastline.
 
 ## Destinations in Hurtigruten
 
-The Hurtigruten boats
+Below are some highlights from along the route, day by day.

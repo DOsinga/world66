@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Boca_Raton_Old_City_Hall_7
 latitude: 26.3778
 loc_type: city
 longitude: -80.1139
-score: 6.9
+score: 4.941
 snippet: Polished Palm Beach County city of Mizner architecture, guarded beaches,
   and serious shopping.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Gumbo_Limbo_Environmental_Complex
 title: Boca Raton
 type: location
+heritage: 2.797
+vibrancy: 5.345
+nature: 3.897
+off_the_beaten_track: 0.762
 ---
 
 Boca Raton is the manicured side of South Florida: red-tile roofs, royal palms, guarded beach parks, and shopping plazas that look as if they were designed by a resort architect with a very strict ruler. It sits between [Delray Beach](/northamerica/unitedstates/florida/delray_beach) and [Fort Lauderdale](/northamerica/unitedstates/florida/fortlauderdale), and it works best as a quieter base for Palm Beach County rather than as a wild nightlife stop.

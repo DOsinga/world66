@@ -3,13 +3,18 @@ title: Sundre
 type: location
 loc_type: city
 latitude: 51.797
-longitude: -114.640
-score: 6.4
-snippet: Alberta foothills town on the Red Deer River, with pioneer history, trails, rafting, and sculpture nearby.
+longitude: -114.64
+score: 5.004
+snippet: Alberta foothills town on the Red Deer River, with pioneer history, trails,
+  rafting, and sculpture nearby.
 wikidata: Q3243949
 sources:
-  - https://en.wikivoyage.org/wiki/Sundre
-  - https://www.sundremuseum.com/
+- https://en.wikivoyage.org/wiki/Sundre
+- https://www.sundremuseum.com/
+heritage: 2.071
+vibrancy: 1.318
+nature: 6.508
+off_the_beaten_track: 4.092
 ---
 
 Sundre sits on the Red Deer River in Alberta's foothills, northwest of Calgary and west of Olds. It is not the Rockies, but it has the first rough edge of them: ranch country, river bends, wooded trails, campers, and people heading farther west.

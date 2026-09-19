@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:HukouWaterfall4.jpg
 latitude: 36.1472
 loc_type: feature
 longitude: 110.4439
-score: 7.83
+score: 4.721
 snippet: Yellow River waterfall where broad loess-plateau water squeezes through a
   narrow basalt gorge.
 sources:
 - https://en.wikivoyage.org/wiki/Shaanxi
 title: Hukou Falls
 type: location
+heritage: 4.367
+vibrancy: 1.669
+nature: 5.466
+off_the_beaten_track: 4.636
 ---
 
 Hukou Falls is where the Yellow River, having crossed the broad loess plateau of northern Shaanxi, is suddenly forced through a narrow basalt gorge barely thirty metres wide — squeezing a river that is three hundred metres across into a channel the width of a large building, then dropping fifteen metres in a roar of yellow-brown water and spray. The name means "kettle spout" and the hydraulics justify it: the water does not so much fall as funnel, under enormous pressure, through a geological obstruction. It is the second largest waterfall in China by volume.

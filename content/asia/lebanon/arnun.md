@@ -5,7 +5,7 @@ done:
 latitude: 33.3283
 loc_type: city
 longitude: 35.4403
-score: 5.4
+score: 5.134
 snippet: Southern Lebanese town below Beaufort Castle, a Crusader fortress overlooking
   the Litani River.
 sources:
@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Arnoun
 title: Arnun
 type: location
+heritage: 3.954
+vibrancy: 1.726
+nature: 6.278
+off_the_beaten_track: 5.503
 ---
 
 Arnun (also spelled Arnoun) is a small town in southern Lebanon notable for [Beaufort Castle](/asia/lebanon/arnun/beaufort_castle) (Qalaat al-Shaqif), a Crusader fortress perched atop a 300-metre cliff overlooking the Litani River. The castle has a dramatic history — it changed hands many times between Crusaders, Mamluks, Ottomans, and modern militias, and was used as a military position during the civil war and subsequent conflicts.

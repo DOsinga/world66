@@ -13,7 +13,7 @@ This al fresco restaurant boasts of its airy and breezy ambiance. From the Filip
 
 Jollibee is the Filipino version of the fast food chain named McDonald&rsquo;s. One of Jollibee&rsquo;s fast food chains is located on Gomez Street of Calbayog City. Jollibee offers food and drink combo meals that start at less than a $1 up to $2.50. This fast food also offers a different set of menu for breakfast from 8 a.m. to 11 a.m., and from 11 a.m. onwards, another set of menus are displayed at the counter. Several of Jollibee&rsquo;s best sellers are Jolly chicken, burger steak and Jr. Champ.
 
-### [Marcial's Grille](/asia/philippines/samarisland/calbayog/eating_out/marcials_grille)
+### [Marcial's Grille](/asia/philippines/samarisland/calbayog/marcials_grille)
 
 Serving the best baby back ribs in Calbayog City, Samar.
 

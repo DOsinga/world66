@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:J28_076_San_Mart%C3%ADn_de
 latitude: -40.1569
 loc_type: city
 longitude: -71.3526
-score: 7.66
+score: 6.194
 snippet: Andean lake town on Lago Lacar, known for Lanin National Park and the Seven
   Lakes road.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://www.swoop-patagonia.com/argentina/lake-district/san-martin
 title: San Martín de los Andes
 type: location
+heritage: 3.585
+vibrancy: 3.779
+nature: 7.775
+off_the_beaten_track: 4.857
 ---
 
 San Martín de los Andes is the quieter, better-groomed cousin of Bariloche: a low-rise Andean town of timber buildings, mountain light, and cold blue water at the eastern end of Lago Lacar. It is touristy, certainly, but it has kept a village scale that makes it easier to like than many resort towns.

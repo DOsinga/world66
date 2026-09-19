@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Bi_jia_shan_at_high_tide.J
 latitude: 41.1167
 loc_type: city
 longitude: 121.1333
-score: 6.02
+score: 2.459
 snippet: Liaoning corridor city with Liao temples, Jurassic fossils, and Chinese Civil
   War history.
 sources:
 - https://en.wikivoyage.org/wiki/Jinzhou
 title: Jinzhou
 type: location
+heritage: 2.456
+vibrancy: 1.998
+nature: 2.77
+off_the_beaten_track: 2.336
 ---
 
 Jinzhou guards the western approach to the northeast — the narrow corridor between the Yan Mountains and the Bohai Sea through which armies, traders, and migrants have passed for two thousand years. The city itself is an unassuming place, but it sits at the intersection of significant threads: Liao Dynasty architecture, Jurassic fossil beds, and the decisive battle of the Chinese Civil War all left their mark here.

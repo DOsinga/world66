@@ -5,7 +5,7 @@ loc_type: city
 latitude: 55.1303
 longitude: -120.9942
 wikidata: Q7852567
-score: 7.4
+score: 5.64
 snippet: Northern British Columbia coal town reborn as a UNESCO geopark of dinosaur
   tracks and waterfalls.
 sources:
@@ -17,6 +17,10 @@ image: tumbler_ridge.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kinuseo_Falls.jpg
 image_license: Public domain
 image_attribution: Urban Walnut
+heritage: 2.703
+vibrancy: 1.153
+nature: 7.122
+off_the_beaten_track: 5.309
 ---
 
 *North America > Canada > British Columbia > Tumbler Ridge*

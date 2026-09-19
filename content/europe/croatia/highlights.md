@@ -23,6 +23,10 @@ The old city of [Dubrovnik](/europe/croatia/dubrovnik) is enclosed by medieval w
 
 [Rovinj](/europe/croatia/rovinj) in Istria is a working fishing town with a remarkable setting — a peninsula topped by a baroque church, surrounded by an old town of narrow lanes and colourful houses. It's popular but less overwhelmed than Dubrovnik. The local Istrian cuisine (truffles, olive oil, fresh fish, malvazija wine) is among the best in Croatia.
 
+## Trsteno Arboretum
+
+Near Dubrovnik, the [Trsteno Arboretum](/europe/croatia/trsteno_arboretum) — one of the oldest Renaissance gardens in this part of Europe, founded in 1492 — sits 20 kilometres up the coast and makes an easy half-day escape from the old town.
+
 ## Korčula
 
 [Korčula](/europe/croatia/korcula) is a compact medieval island town that claims to be the birthplace of Marco Polo. Whether or not you believe that, the old town — a grid of herringbone streets inside stone walls — is genuinely lovely and quieter than most Dalmatian destinations. The island produces excellent white wine (Pošip and Grk).

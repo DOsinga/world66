@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:RegistanSquare_Samarkand.j
 latitude: 39.6542
 loc_type: city
 longitude: 66.9597
-score: 9.16
+score: 7.874
 snippet: Silk Road city of Timurid tilework, where the Registan anchors one of Central
   Asia's great monument ensembles.
 title: Samarkand
 type: location
+heritage: 9.383
+vibrancy: 6.221
+nature: 3.167
+off_the_beaten_track: 6.174
 ---
 
 The Registan is the reason most people come to Samarkand, and rightly so. Three massive madrasas face each other across a single square, their facades covered in tile work so intricate it stops you in your tracks. It is one of the finest pieces of Islamic architecture anywhere, on par with the Alhambra or the Blue Mosque.

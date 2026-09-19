@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 37.3458
 longitude: -85.3456
-score: 6.3
-snippet: Central Kentucky college town with Green River Lake and John Hunt Morgan Civil War sites.
+score: 2.871
+snippet: Central Kentucky college town with Green River Lake and John Hunt Morgan
+  Civil War sites.
 sources:
-  - https://en.wikivoyage.org/wiki/Campbellsville
-  - https://en.wikipedia.org/wiki/Campbellsville,_Kentucky
-  - https://parks.ky.gov/campbellsville/parks/recreation/green-river-lake-state-park
+- https://en.wikivoyage.org/wiki/Campbellsville
+- https://en.wikipedia.org/wiki/Campbellsville,_Kentucky
+- https://parks.ky.gov/campbellsville/parks/recreation/green-river-lake-state-park
+heritage: 2.477
+vibrancy: 2.183
+nature: 3.395
+off_the_beaten_track: 1.539
 ---
 
 Campbellsville is a small central Kentucky town whose travel case rests on water, Civil War memory, and a handful of old houses. It is not a broad city break, but it does make sense if you are already moving between Bardstown, Hodgenville, Mammoth Cave country, or Lake Cumberland and want a day that is more than a lunch stop.

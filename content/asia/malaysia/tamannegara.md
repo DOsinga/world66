@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Taman_Negara_Sungai_Tembel
 latitude: 4.3833
 loc_type: city
 longitude: 102.3833
-score: 8.46
+score: 6.116
 snippet: Ancient Malaysian rainforest national park entered from Kuala Tahan, with
   canopy walks, rivers, and jungle trails.
 title: Taman Negara
 type: location
+heritage: 3.341
+vibrancy: 1.24
+nature: 7.96
+off_the_beaten_track: 4.979
 ---
 
 Taman Negara is [Malaysia](/asia/malaysia)'s oldest and largest national park, covering over 4,000 square kilometres of rainforest that is estimated to be 130 million years old — making it one of the oldest tropical forests on earth. The park straddles three states in the interior of Peninsular Malaysia, about four hours northeast of [Kuala Lumpur](/asia/malaysia/kualalumpur).

@@ -5,15 +5,19 @@ done:
 latitude: 50.544391
 loc_type: city
 longitude: -3.991498
-score: 7.24
+score: 6.233
 snippet: High Dartmoor village near open moorland, prison history, and walks to ancient
   stone rows.
 title: Princetown
 type: location
+heritage: 5.971
+vibrancy: 2.532
+nature: 7.13
+off_the_beaten_track: 4.471
 ---
 
 Princetown is the highest town on Dartmoor, sitting at around 430 metres on the open moor in the heart of Dartmoor National Park. It is a bleak place, frequently in cloud, regularly battered by wind, and entirely without pretension — and its setting is spectacular for exactly those reasons. The great granite tors rise in every direction, and on a clear day the views extend across half of Devon.
 
-The town's defining feature is [Dartmoor Prison](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/princetown/dartmoor_prison), which has loomed over the village since it was built in 1806 for Napoleonic prisoners of war. The prison is still in use; its granite walls and watchtowers are visible from anywhere in town. The [High Moorland Visitor Centre](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/princetown/high_moorland_visitor_centre) in the old dairy is a good starting point for exploring the surrounding moor.
+The town's defining feature is [Dartmoor Prison](/europe/unitedkingdom/england/south_west/dartmoor/princetown/dartmoor_prison), which has loomed over the village since it was built in 1806 for Napoleonic prisoners of war. The prison is still in use; its granite walls and watchtowers are visible from anywhere in town. The [High Moorland Visitor Centre](/europe/unitedkingdom/england/south_west/dartmoor/princetown/high_moorland_visitor_centre) in the old dairy is a good starting point for exploring the surrounding moor.
 
-The best walk from Princetown — or from anywhere on Dartmoor — is north along the West Dart river to [Wistman's Wood](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/princetown/wistmans_wood), a fragment of ancient dwarf oak woodland growing among enormous mossy boulders at an altitude where trees have no business growing. An hour each way, on open moorland for most of the route. The town was once connected to Yelverton by a branch railway line from [Plymouth](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/plymouth) to [Tavistock](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/tavistock) — the trackbed of this long-abandoned line makes a pleasant level walk across the moor.
+The best walk from Princetown — or from anywhere on Dartmoor — is north along the West Dart river to [Wistman's Wood](/europe/unitedkingdom/england/south_west/dartmoor/princetown/wistmans_wood), a fragment of ancient dwarf oak woodland growing among enormous mossy boulders at an altitude where trees have no business growing. An hour each way, on open moorland for most of the route. The town was once connected to Yelverton by a branch railway line from [Plymouth](/europe/unitedkingdom/england/south_west/plymouth) to [Tavistock](/europe/unitedkingdom/england/south_west/tavistock) — the trackbed of this long-abandoned line makes a pleasant level walk across the moor.

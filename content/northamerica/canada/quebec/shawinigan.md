@@ -5,7 +5,7 @@ loc_type: city
 latitude: 46.5667
 longitude: -72.75
 wikidata: Q141980
-score: 6.9
+score: 3.715
 snippet: Mauricie river city where hydroelectric history meets forest parks and La
   Mauricie National Park.
 sources:
@@ -18,6 +18,10 @@ image: shawinigan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Energie_Shawinigan.JPG
 image_license: Public domain
 image_attribution: Sylvain Perron
+heritage: 2.988
+vibrancy: 2.25
+nature: 4.492
+off_the_beaten_track: 1.994
 ---
 
 Shawinigan is a Saint-Maurice River city with a tougher industrial past than most Québec getaway towns. Hydroelectric power shaped it, and the best attraction, La Cité de l'énergie, turns that history into a proper visit rather than a plaque beside a dam.

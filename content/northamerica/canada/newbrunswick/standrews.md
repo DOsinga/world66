@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2021-08-31_01_Pendlebury_-
 latitude: 45.0737
 loc_type: city
 longitude: -67.0528
-score: 7.36
+score: 4.263
 snippet: Bay of Fundy seaside town with Loyalist streets, pre-1880 buildings, and
   Passamaquoddy Bay views.
 title: St. Andrews
 type: location
+heritage: 4.692
+vibrancy: 3.811
+nature: 4.619
+off_the_beaten_track: 2.682
 ---
 
 St. Andrews-by-the-Sea is one of the prettiest small towns in Atlantic Canada, perched on a peninsula at the mouth of Passamaquoddy Bay where the St. Croix River meets the Bay of Fundy. It was founded by Loyalists in 1783, and many of the original buildings survive — the town has more pre-1880 buildings than almost anywhere else in the Maritimes.

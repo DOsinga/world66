@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 41.716944
 longitude: -74.393333
-score: 6.9
+score: 3.944
 snippet: Shawangunk foothill village known for Sam's Point, hang gliding, and a revived
   theatre.
 wikidata: Q3453189
@@ -17,6 +17,10 @@ image: ellenville.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Downtown_Ellenville,_NY.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Daniel Case
+heritage: 2.288
+vibrancy: 2.253
+nature: 5.025
+off_the_beaten_track: 2.099
 ---
 
 Ellenville sits below the southern Shawangunk Ridge, where the Catskills begin to feel close but the landscape is still sharp-edged with cliffs and old resort roads. The village itself is small and uneven, but it has two real reasons to stop: Sam's Point above town and the long-running hang-gliding scene that uses the ridge winds.

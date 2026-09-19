@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: -34.441
 longitude: 116.05
-score: 7.2
-snippet: Karri forest town in Western Australia's south west, known for waterfall walks and climbable lookout trees.
+score: 5.229
+snippet: Karri forest town in Western Australia's south west, known for waterfall
+  walks and climbable lookout trees.
 sources:
-  - https://en.wikivoyage.org/wiki/Pemberton_(Western_Australia)
-  - https://en.wikipedia.org/wiki/Pemberton,_Western_Australia
+- https://en.wikivoyage.org/wiki/Pemberton_(Western_Australia)
+- https://en.wikipedia.org/wiki/Pemberton,_Western_Australia
+heritage: 4.998
+vibrancy: 2.133
+nature: 5.987
+off_the_beaten_track: 5.294
 ---
 
 Pemberton is a timber town in the south west of Western Australia, surrounded by tall karri forest, cool gullies, and national-park tracks. The sawmill still matters, but travellers come for the trees: pale trunks rising clean and high, with forest roads slipping away into Warren, Gloucester, and Beedelup national parks.

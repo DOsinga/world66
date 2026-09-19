@@ -15,7 +15,7 @@ quick_facts:
   Belfry: 366 steps, 83 m
   Old Town: Entirely UNESCO-listed
   Population: 120,000
-score: 9.45
+score: 7.452
 snippet: Canal city in Flanders whose medieval trading wealth left bridges, guild
   houses, and market squares.
 tip: Bruges is a perfectly preserved medieval town that empties when the day-trippers
@@ -25,6 +25,10 @@ tip: Bruges is a perfectly preserved medieval town that empties when the day-tri
   drag.
 title: Bruges
 type: location
+heritage: 8.516
+vibrancy: 6.626
+nature: 2.651
+off_the_beaten_track: 1.592
 ---
 
 Bruges is one of the most beautiful cities in [Europe](/europe). It rightly deserves the name [Venice](/europe/italy/veneto/venice) of the north — canals, bridges, and old city houses make it a very romantic place to visit, and one that rewards slow exploration on foot.

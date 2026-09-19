@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chateau-montsoreau-france-
 latitude: 47.2164
 loc_type: city
 longitude: 0.0569
-score: 7.33
+score: 5.661
 snippet: Small Loire village at the Vienne confluence, with a riverfront château and
   pale tufa lanes.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://www.loirevalleyfrance.net/places/montsoreau.html
 title: Montsoreau
 type: location
+heritage: 6.458
+vibrancy: 1.545
+nature: 5.65
+off_the_beaten_track: 3.15
 ---
 
 Montsoreau is a small Loire village with an enviable address: right where the Vienne meets the Loire, between [Saumur](/europe/france/loirevalley/saumur) and [Chinon](/europe/france/loirevalley/chinon). It is one of the Loire's prettiest low-key stops, all pale tufa stone, river light, and lanes that climb gently above the water.

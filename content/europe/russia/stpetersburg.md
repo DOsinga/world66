@@ -16,7 +16,7 @@ quick_facts:
   Founded: '1703'
   Hermitage: 3 million works
   White Nights: Sun barely sets in June
-score: 9.66
+score: 6.687
 snippet: Imperial Russian city of Neva canals, baroque palaces, and the Hermitage's
   vast art collections.
 tip: St Petersburg was built on drained marshland by decree of Peter the Great, and
@@ -25,6 +25,10 @@ tip: St Petersburg was built on drained marshland by decree of Peter the Great, 
   The Hermitage is vast; pick a few wings rather than trying to see it all.
 title: St Petersburg
 type: location
+heritage: 6.554
+vibrancy: 6.788
+nature: 3.912
+off_the_beaten_track: 1.269
 ---
 
 St Petersburg is Russia's cultural capital and one of Europe's most beautiful cities. Founded in 1703 by Peter the Great as a window to the West, it was designed from scratch on the marshy banks of the Neva delta — a grand experiment in urban planning that produced an extraordinary cityscape of baroque palaces, neoclassical facades, and canals that invite easy comparisons to Venice and Amsterdam.

@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%C3%89glise_Notre-Dame_de_
 latitude: 50.9582
 loc_type: city
 longitude: 1.8503
-score: 6.72
+score: 3.109
 snippet: Channel port city shaped by ferries, English history, siege warfare, and
   the lace-making trade
 sources:
@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Calais
 title: Calais
 type: location
+heritage: 3.705
+vibrancy: 2.455
+nature: 2.517
+off_the_beaten_track: 2.37
 ---
 
 Calais occupies a peculiar position in the French imagination — it is the busiest passenger port in the world, yet most people who pass through it see only the motorway to or from the ferry terminal. That is a shame. The city has a compact and surprisingly characterful old town, a collection of museums better than you'd expect, and an identity shaped by centuries of belonging to England, siege warfare, and the lace-making trade.

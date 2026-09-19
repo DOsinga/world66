@@ -1,8 +1,8 @@
 ---
 title: Casa Fernando Pessoa
 type: poi
-latitude: 38.7100
-longitude: -9.1518
+latitude: 38.7166
+longitude: -9.1625
 tags:
   - things_to_do
   - museum

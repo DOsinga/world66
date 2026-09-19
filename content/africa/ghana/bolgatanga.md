@@ -5,13 +5,17 @@ done:
 latitude: 10.785396
 loc_type: city
 longitude: -0.848732
-score: 6.0
+score: 4.33
 sources:
 - https://en.wikipedia.org/wiki/Bolgatanga
 snippet: Northern Ghanaian market town known for Bolga baskets, Sahelian compounds,
   and Tongo Hills excursions.
 title: Bolgatanga
 type: location
+heritage: 4.869
+vibrancy: 4.01
+nature: 2.342
+off_the_beaten_track: 4.179
 ---
 
 Bolgatanga -- "Bolga" to everyone -- is the capital of the Upper East Region and the main town in Ghana's far north. It is hot, dusty, and distinctly different from the south, with a strong Muslim influence and Sahelian architecture of flat-roofed mud compounds.

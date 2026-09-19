@@ -13,9 +13,13 @@ sources:
 - https://en.wikipedia.org/wiki/Mangawhai_Harbour
 title: Mangawhai Heads
 type: location
-score: 7.65
+score: 4.397
 snippet: Northland beach settlement at Mangawhai Harbour, with surf, white sand, and
   pohutukawa-covered dunes.
+heritage: 2.055
+vibrancy: 1.894
+nature: 5.9
+off_the_beaten_track: 2.433
 ---
 
 Mangawhai Heads is a small beach settlement on the east coast of [Northland](/australiaandpacific/newzealand/north_island/northland), at the mouth of the Mangawhai Harbour about ninety minutes north of Auckland. It is essentially a long curve of white sand backed by low pohutukawa-covered dunes, with a sleepy village strung out behind it. For most of the year it stays quiet, but at New Year the population multiplies as Aucklanders descend on the bach colony.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 46.9732
 longitude: -0.2165
-score: 6.65
+score: 4.203
 snippet: Medieval Deux-Sevres town above the Thouet, with ramparts, Romanesque churches,
   and a ducal castle.
 sources:
@@ -16,6 +16,10 @@ image: thouars.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Thouars_-_Hotel_de_Ville_02.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Selbymay
+heritage: 4.886
+vibrancy: 2.197
+nature: 3.99
+off_the_beaten_track: 2.283
 ---
 
 Thouars sits on a rocky bend above the Thouet, in the northern corner of Deux-Sevres where Poitou begins to lean toward the Loire. It is small, but the old town has weight: ramparts, towers, Romanesque churches, steep lanes and a long ducal castle looking across the river valley.

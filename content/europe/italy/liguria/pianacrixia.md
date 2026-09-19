@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fungocrixia1.JPG
 latitude: 44.486179
 loc_type: city
 longitude: 8.306101
-score: 6.9
+score: 3.59
 snippet: Inland Ligurian commune in the Bormida valley, known for its mushroom-shaped
   eroded rock formation.
 sources:
@@ -18,6 +18,10 @@ tags:
 - rivieradellepalme
 title: Piana Crixia
 type: location
+heritage: 3.827
+vibrancy: 2.045
+nature: 3.942
+off_the_beaten_track: 3.444
 ---
 
 Piana Crixia sits on the northern slope of the Ligurian Apennines in the valley of the Bormida di Spigno, well inland from the coast. The main reason to come here is the [Fungo di Piana Crixia](/europe/italy/liguria/pianacrixia/fungo_di_piana_crixia) — a striking mushroom-shaped rock formation created by an unusual process of erosion, now protected as a natural monument.

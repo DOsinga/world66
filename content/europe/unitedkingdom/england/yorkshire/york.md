@@ -12,11 +12,15 @@ image_source: https://www.flickr.com/photos/54788366@N00/48962324387
 latitude: 53.965658
 loc_type: city
 longitude: -1.074305
-score: 8.94
+score: 7.006
 snippet: Walkable northern English city layering Roman foundations, Viking heritage,
   medieval walls, and York Minster.
 title: York
 type: location
+heritage: 8.074
+vibrancy: 6.091
+nature: 3.85
+off_the_beaten_track: 1.677
 ---
 
 Two thousand years of history packed into a walkable city centre, and over 200 pubs to recover in afterwards. York is one of England’s finest cities, layering Roman foundations, Viking heritage, and medieval streets into a place that rewards every visit.
@@ -31,4 +35,4 @@ York claims both Guy Fawkes and Dick Turpin among its famous former residents. G
 
 The city is criss-crossed with hidden alleyways known as "snickelways" -- narrow passages that locals use to navigate past the Saturday crowds. If the crowds get too much, duck into one of York’s many tea rooms. Bettys on St Helen’s Square is the most famous, though Little Bettys in Stonegate is cosier and usually has a shorter queue. York is also reputedly one of the most haunted cities in England, and the Castle Museum claims to be the most haunted museum in the country.
 
-With over 200 pubs, York is a serious drinking city. The traditional pubs serve real ale and good food -- try the Maltings near Lendal Bridge for cask beer. The city has excellent rail connections and makes an ideal base for the [Yorkshire Dales](/europe/unitedkingdom/england/yorkshire_dales), the North York Moors, and the heritage coast towns of [Scarborough](/europe/unitedkingdom/england/scarborough) and [Whitby](/europe/unitedkingdom/england/whitby).
+With over 200 pubs, York is a serious drinking city. The traditional pubs serve real ale and good food -- try the Maltings near Lendal Bridge for cask beer. The city has excellent rail connections and makes an ideal base for the [Yorkshire Dales](/europe/unitedkingdom/england/yorkshire/yorkshire_dales), the North York Moors, and the heritage coast towns of [Scarborough](/europe/unitedkingdom/england/yorkshire/scarborough) and [Whitby](/europe/unitedkingdom/england/yorkshire/whitby).

@@ -7,11 +7,11 @@ type: section
 
 Morocco has a rich festival calendar mixing Islamic religious events, Berber seasonal celebrations, and world-class music festivals.
 
-**Gnaoua World Music Festival (June, Essaouira)** — Half a million people descend on [Essaouira](/africa/morocco/essaouira) for three days of Gnaoua music (a trance-rooted tradition descended from West African slaves) fused with international jazz, blues, and fusion. Multiple free outdoor stages. One of Africa's great music events. See the [Gnaoua Festival](/africa/morocco/festivals/gnawa_festival) entry.
+**Gnaoua World Music Festival (June, Essaouira)** — Half a million people descend on [Essaouira](/africa/morocco/essaouira) for three days of Gnaoua music (a trance-rooted tradition descended from West African slaves) fused with international jazz, blues, and fusion. Multiple free outdoor stages. One of Africa's great music events. See the [Gnaoua Festival](/africa/morocco/gnawa_festival) entry.
 
 **Fes Festival of World Sacred Music (May/June, Fez)** — A week of concerts featuring Sufi singers, Buddhist chants, Jewish liturgical music, and sacred traditions from across the world. One of the most thoughtfully programmed music festivals anywhere. Held in the Bab Makina square and other historic Fez venues. See the [Fez](/africa/morocco/fez) page.
 
-**Marrakech Popular Arts Festival (July, Marrakech)** — A week of traditional Moroccan folk arts: Gnaoua musicians, Amazigh dancers, acrobats, and storytellers from across the country performing in Djemaa el-Fna and the nearby gardens. See the [Marrakech Popular Arts Festival](/africa/morocco/festivals/marrakech_folklore) entry.
+**Marrakech Popular Arts Festival (July, Marrakech)** — A week of traditional Moroccan folk arts: Gnaoua musicians, Amazigh dancers, acrobats, and storytellers from across the country performing in Djemaa el-Fna and the nearby gardens. See the [Marrakech Popular Arts Festival](/africa/morocco/marrakech_folklore) entry.
 
 **Tan-Tan Moussem (biennial, Tan-Tan)** — A UNESCO-listed gathering of nomadic Saharan tribes in the deep south: camel trading, the Guedra trance dance, music, and fantasia horseback displays. One of the most authentic cultural events in the country, if you can get there. See the Tan-Tan Moussem entry.
 

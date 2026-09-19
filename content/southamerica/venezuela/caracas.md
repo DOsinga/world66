@@ -15,7 +15,7 @@ quick_facts:
   Founded: '1567'
   Population: ~2.9 million
   Spring-Like: Mild climate year-round
-score: 4.45
+score: 4.141
 snippet: Venezuelan capital stretched through the Río Guaire valley beneath the green
   wall of Ávila mountain.
 tip: Caracas sits in a green valley below the Ávila mountain, which a cable car climbs
@@ -25,6 +25,10 @@ tip: Caracas sits in a green valley below the Ávila mountain, which a cable car
   and don't walk at night.
 title: Caracas
 type: location
+heritage: 4.137
+vibrancy: 4.174
+nature: 2.715
+off_the_beaten_track: 5.419
 ---
 
 Caracas is the capital of Venezuela: a Spanish-American city that runs east to west along the narrow valley of the Río Guaire, hemmed in by the green wall of the Ávila mountain to the north and lower hills to the south. The setting is dramatic — 900 metres above sea level, with what locals call the *eternal spring* climate — and the contrast between that natural amphitheatre and the dense, often chaotic city below is the first thing every visitor notices.

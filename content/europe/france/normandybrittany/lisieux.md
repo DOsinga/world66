@@ -11,9 +11,13 @@ loc_type: city
 snippet: Normandy pilgrimage city devoted to Saint Thérèse, with a vast basilica above
   the town
 longitude: 0.225517
-score: 7.66
+score: 6.04
 title: Lisieux
 type: location
+heritage: 7.67
+vibrancy: 3.814
+nature: 3.523
+off_the_beaten_track: 2.537
 ---
 
 Lisieux is an important centre of Catholic pilgrimage in Normandy, devoted to Saint Thérèse of Lisieux (Thérèse Martin, 1873–1897). Over two million pilgrims a year come to visit the [Basilique Sainte-Thérèse](/europe/france/normandybrittany/lisieux/basilique_sainte_therese), a vast neo-Byzantine building on the hill above town reminiscent of the Sacré-Coeur in [Paris](/europe/france/paris). It is one of the largest churches built in France in the 20th century.

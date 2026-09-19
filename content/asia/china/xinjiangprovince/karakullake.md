@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Gutman_Karakul_lake.jpg
 latitude: 38.43
 loc_type: feature
 longitude: 75.05
-score: 7.9
+score: 6.049
 snippet: High Pamir Plateau lake on the Karakoram Highway, ringed by snow peaks south
   of Kashgar
 sources:
 - https://en.wikivoyage.org/wiki/Karakul_Lake
 title: Karakul Lake
 type: location
+heritage: 1.769
+vibrancy: 1.513
+nature: 7.411
+off_the_beaten_track: 6.44
 ---
 
 Karakul Lake sits at approximately 3,600 metres on the Pamir Plateau, about 200 kilometres south of Kashgar on the Karakoram Highway. The name means Black Lake in Kyrgyz, though the water runs through a range of colours — deep green, slate blue, azure — depending on the light and the season. What defines the place is its setting: three massive peaks form the horizon on three sides. [Kongur Tagh](/asia/china/xinjiangprovince/karakullake/kongur_tagh) at 7,649 metres and its subsidiary Kongur Tiube at 7,530 metres rise to the north and northeast; [Muztagh Ata](/asia/china/xinjiangprovince/karakullake/muztagh_ata), the 7,546-metre "father of ice mountains" of Kyrgyz legend, dominates the east. All three maintain permanent snow and ice, and their reflections in the still water of early morning create images that have made this one of the signature landscapes of the Karakoram Highway.

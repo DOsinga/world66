@@ -5,11 +5,15 @@ done:
 latitude: 13.2991
 loc_type: city
 longitude: -87.1917
-score: 5.89
+score: 5.339
 snippet: Southern Honduran city in a hot agricultural valley, with a colonial centre
   and beloved baleadas.
 title: Choluteca
 type: location
+heritage: 4.803
+vibrancy: 3.453
+nature: 6.239
+off_the_beaten_track: 4.699
 ---
 
 Choluteca is a mid-sized city in southern Honduras, close to the borders with Nicaragua and El Salvador. It sits in a broad agricultural valley on the Choluteca River, and the surrounding area is one of the hottest in Central America — temperatures regularly exceed 35°C in the dry season. The city is a transport hub for travellers crossing between the three countries, and most people pass through without stopping. Those who do stop find a genuine colonial centre and some of the best street food in Honduras.

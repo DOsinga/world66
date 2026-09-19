@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Civic_Theatre_in_Invercarg
 latitude: -46.4132
 loc_type: city
 longitude: 168.3538
-score: 7.1
+score: 6.061
 snippet: Southern New Zealand city with a Scottish grid, Victorian streetscapes, and
   access to Southland's wild coast.
 title: Invercargill
 type: location
+heritage: 4.044
+vibrancy: 2.491
+nature: 7.68
+off_the_beaten_track: 5.325
 ---
 
 Invercargill sits at the bottom of the [South Island](/australiaandpacific/newzealand/south_island), closer to Antarctica than to Auckland. It is the southernmost city in New Zealand and one of the southernmost in the world — a fact locals are quietly proud of. The city was laid out on a grand Scottish grid in the 1850s, and it still has the unhurried, slightly eccentric feel of a provincial town that has always done things its own way.

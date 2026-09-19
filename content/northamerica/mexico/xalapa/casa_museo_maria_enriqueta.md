@@ -1,15 +1,14 @@
 ---
-title: Casa Museo Maria Enriqueta
-type: poi
-tags:
-  - things_to_do
-  - museum
-  - day_trips
 latitude: 19.453761
 longitude: -96.955269
 score: 6.5
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Coatepec"
+source_url: https://en.wikivoyage.org/wiki/Coatepec
+tags:
+- things_to_do
+- museum
+title: Casa Museo Maria Enriqueta
+type: poi
 ---
 
 Casa Museo Maria Enriqueta is a small museum in Coatepec dedicated to the poet Maria Enriqueta Camarillo, who was born here in 1872 and later lived in Mexico City, Cuba, Washington, DC, and Switzerland. The house mixes period rooms, decorative arts, literary displays, and local history.

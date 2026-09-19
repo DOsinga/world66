@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Moore%27s_Fort_in_Round_To
 latitude: 30.065101
 loc_type: city
 longitude: -96.695545
-score: 6.59
+score: 3.739
 title: Round Top
 type: location
 snippet: Tiny Texas Hill Country town known for its antiques fair and classical music
   institute.
+heritage: 4.409
+vibrancy: 1.704
+nature: 3.405
+off_the_beaten_track: 2.04
 ---
 
 Round Top is a small Texas town with a permanent population of around 90 people, but it has an outsized reputation in two areas: antiques and classical music. The twice-yearly Round Top Antiques Fair draws tens of thousands of visitors and has expanded to fill much of the surrounding countryside. The [Round Top Festival Institute](/northamerica/unitedstates/texas/round_top/round_top_festival_institute) is a serious music conservatory and concert venue founded in 1971 by pianist James Dick, drawing international talent every summer.

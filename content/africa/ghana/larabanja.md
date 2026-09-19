@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Larabanga_Mosque_Ghana.jpg
 latitude: 9.2194
 loc_type: city
 longitude: -1.8585
-score: 6.34
+score: 4.667
 snippet: Northern Ghana village known for Larabanga Mosque, a whitewashed Sudanese-style
   landmark near Mole National Park
 title: Larabanga
 type: location
+heritage: 5.353
+vibrancy: 1.861
+nature: 4.594
+off_the_beaten_track: 4.969
 ---
 
 Larabanga is a small village in the Northern Region of Ghana, best known for its mosque — a whitewashed Sudanese-style building that is one of the oldest mosques in West Africa, dating to at least the seventeenth century and possibly much earlier. The [Larabanga Mosque](/africa/ghana/larabanja/larabanga_mosque) is a UNESCO tentative list site and the most significant piece of vernacular architecture in Ghana.

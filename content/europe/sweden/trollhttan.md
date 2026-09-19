@@ -4,11 +4,15 @@ done:
 latitude: 58.282793
 loc_type: city
 longitude: 12.290861
-score: 6.94
+score: 2.983
 snippet: Göta River industrial town shaped by waterfalls, canal locks, hydropower,
   and Sweden's film studios
 title: Trollhättan
 type: location
+heritage: 3.518
+vibrancy: 2.054
+nature: 2.716
+off_the_beaten_track: 1.388
 ---
 
 Trollhättan is an industrial town of about 60,000 people on the **Göta River**, 75 km north of Gothenburg in western Sweden. The town grew up in the 18th and 19th centuries around the dramatic [Trollhättan Falls](/europe/sweden/trollhttan/trollhattan_falls), where the Göta drops 32 metres through a narrow rocky gorge — for centuries one of the most powerful waterfalls in Europe, and the site of some of the earliest large-scale hydroelectric power generation in Scandinavia. The falls are still the town's signature feature, though today the river is mostly diverted through the power stations and canal locks and the original falls only run during the annual summer "waterfall days" (usually in July). When they do, the effect is spectacular.

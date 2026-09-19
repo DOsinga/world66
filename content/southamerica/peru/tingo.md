@@ -5,7 +5,7 @@ done:
 latitude: -6.390398
 loc_type: city
 longitude: -77.941677
-score: 6.27
+score: 4.924
 snippet: Utcubamba valley village below the Chachapoyas fortress of Kuélap, high on
   a forested ridge.
 sources:
@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Chachapoyas_culture
 title: Tingo
 type: location
+heritage: 3.169
+vibrancy: 1.682
+nature: 6.281
+off_the_beaten_track: 4.43
 ---
 
 Tingo sits in the deep Utcubamba valley of northern Peru, at 1,950 metres, where the only reason to come is one of the most remarkable ancient sites in South America. High on the forested ridge above hangs Kuélap — a fortress of the Chachapoyas, the "Warriors of the Clouds," built before the Inca ever arrived and containing more stone than the Great Pyramid of Giza. For most travellers, Tingo is a base and nothing more, and that is perfectly fine: the mountain above rewards every hour you give it.

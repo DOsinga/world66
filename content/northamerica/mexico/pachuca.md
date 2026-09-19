@@ -4,13 +4,18 @@ done:
 latitude: 20.11667
 loc_type: city
 longitude: -98.73333
-score: 7.42
-snippet: Windy Hidalgo mining capital with Cornish echoes, paste shops, and a handsome old centre.
+score: 4.333
+snippet: Windy Hidalgo mining capital with Cornish echoes, paste shops, and a handsome
+  old centre.
 sources:
-  - https://en.wikivoyage.org/wiki/Pachuca
-  - https://www.geoparquecomarcaminerahidalgo.com/
+- https://en.wikivoyage.org/wiki/Pachuca
+- https://www.geoparquecomarcaminerahidalgo.com/
 title: Pachuca
 type: location
+heritage: 4.821
+vibrancy: 4.119
+nature: 3.43
+off_the_beaten_track: 2.973
 ---
 
 Pachuca is the capital of Hidalgo, but it feels less like a polished state capital than a working mining city that has learned to enjoy its oddities. The centre climbs around narrow streets, plazas, churches, and the [Reloj Monumental](/northamerica/mexico/pachuca/reloj_monumental), a clock tower that has become the city's shorthand.

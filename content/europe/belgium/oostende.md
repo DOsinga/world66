@@ -5,11 +5,15 @@ done:
 latitude: 51.225856
 loc_type: city
 longitude: 2.919496
-score: 7.67
+score: 4.853
 snippet: Belgian seaside harbour town with a grand North Sea front and James Ensor's
   artistic legacy.
 title: Oostende
 type: location
+heritage: 4.601
+vibrancy: 4.986
+nature: 4.171
+off_the_beaten_track: 2.217
 ---
 
 Ostend is Belgium's main seaside resort — a proper working harbour town that also happens to have a grand seafront, a [pier](/europe/belgium/oostende/pier) stretching out into the grey North Sea, and a casino that looks like it belongs on the Riviera. The combination of mussels, Belgian beer, and salt air is hard to beat.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Widok_na_Ja%C5%82t%C4%99_z
 latitude: 44.498787
 loc_type: city
 longitude: 34.168936
-score: 7.76
+score: 5.591
 snippet: Crimean seaside resort backed by mountains, with Chekhov’s house and Livadia
   Palace linked to the 1945 conference.
 title: Yalta
 type: location
+heritage: 5.412
+vibrancy: 5.701
+nature: 5.162
+off_the_beaten_track: 1.832
 ---
 
 Steep mountain peaks serve as a lovely backdrop for Yalta, the jewel of the Crimean peninsula and our favorite Ukrainian city. We're not surprised that the writer Anton Chekhov chose to live in this seaside resort — it seems to be a combination of Carmel, California, the French Riviera, and Greece. Yalta (pop. 80,000) has exemplary resorts, museums, and beaches.

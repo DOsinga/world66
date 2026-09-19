@@ -9,15 +9,19 @@ image_source: https://www.flickr.com/photos/146295563@N08/52175095412
 latitude: 53.020564
 loc_type: city
 longitude: -2.229993
-score: 5.81
+score: 5.622
 snippet: Staffordshire ceramics city known as The Potteries, built from six towns
   and famous English porcelain names
 title: Stoke-on-Trent
 type: location
+heritage: 6.68
+vibrancy: 4.481
+nature: 2.863
+off_the_beaten_track: 1.149
 ---
 
 Stoke-on-Trent — "The Potteries" — is an industrial city in Staffordshire, halfway between Birmingham and Manchester on the M6. It is the historic centre of English ceramics: Wedgwood, Royal Doulton, Spode, and dozens of other famous names all started here, and the pottery industry still defines the city's character. Stoke is unusual in that it is not one place but six — Tunstall, Burslem, Hanley, Stoke, Fenton, and Longton — strung together along the Trent valley and merged into a single city only in 1910.
 
-The [Potteries Museum & Art Gallery](/europe/unitedkingdom/england/birmingham_and_west_midlands/stokeontrent_st/potteries_museum) has an outstanding ceramics collection and the celebrated Staffordshire Hoard. Several working potteries still offer factory tours — the [World of Wedgwood](/europe/unitedkingdom/england/birmingham_and_west_midlands/stokeontrent_st/world_of_wedgwood) at Barlaston, [Middleport Pottery](/europe/unitedkingdom/england/birmingham_and_west_midlands/stokeontrent_st/middleport_pottery) on the canal in Burslem, and the [Gladstone Pottery Museum](/europe/unitedkingdom/england/birmingham_and_west_midlands/stokeontrent_st/gladstone_pottery) in Longton, which preserves a complete Victorian factory with its bottle ovens still standing.
+The [Potteries Museum & Art Gallery](/europe/unitedkingdom/england/west_midlands/stokeontrent_st/potteries_museum) has an outstanding ceramics collection and the celebrated Staffordshire Hoard. Several working potteries still offer factory tours — the [World of Wedgwood](/europe/unitedkingdom/england/west_midlands/stokeontrent_st/world_of_wedgwood) at Barlaston, [Middleport Pottery](/europe/unitedkingdom/england/west_midlands/stokeontrent_st/middleport_pottery) on the canal in Burslem, and the [Gladstone Pottery Museum](/europe/unitedkingdom/england/west_midlands/stokeontrent_st/gladstone_pottery) in Longton, which preserves a complete Victorian factory with its bottle ovens still standing.
 
-Alton Towers theme park and [Trentham Gardens](/europe/unitedkingdom/england/birmingham_and_west_midlands/stokeontrent_st/trentham_gardens) are both a short drive away, the latter sharing the same estate as the surprising [Trentham Monkey Forest](/europe/unitedkingdom/england/birmingham_and_west_midlands/stokeontrent_st/trentham_monkey_forest), where Barbary macaques roam free across sixty acres of woodland. Stoke sits in the foothills of the Pennines and is a practical starting point for visiting the Peak District — buses run to Leek, Buxton, Bakewell, and Sheffield.
+Alton Towers theme park and [Trentham Gardens](/europe/unitedkingdom/england/west_midlands/stokeontrent_st/trentham_gardens) are both a short drive away, the latter sharing the same estate as the surprising [Trentham Monkey Forest](/europe/unitedkingdom/england/west_midlands/stokeontrent_st/trentham_monkey_forest), where Barbary macaques roam free across sixty acres of woodland. Stoke sits in the foothills of the Pennines and is a practical starting point for visiting the Peak District — buses run to Leek, Buxton, Bakewell, and Sheffield.

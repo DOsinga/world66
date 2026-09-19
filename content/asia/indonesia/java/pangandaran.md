@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -7.685
 longitude: 108.654
-score: 0.47
+score: 5.679
 snippet: South Java beach town known for black sand, surf, and the Pananjung nature
   reserve.
 sources:
@@ -14,6 +14,10 @@ image: pangandaran.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Pantai_Pangandaran.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Hahnsaja
+heritage: 2.986
+vibrancy: 2.071
+nature: 7.311
+off_the_beaten_track: 4.889
 ---
 
 Pangandaran is a relaxed beach town on the south coast of [Java](/asia/indonesia/java), popular with Indonesian families but still far from the international beach crowds of Bali. The sand is dark, the sea can be rough, and the town has a simple resort feel: guesthouses, seafood stalls, surfboards, and becaks waiting near the bus terminal.

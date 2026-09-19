@@ -15,7 +15,7 @@ quick_facts:
   Grand Mosque: Holds 40,000 worshippers
   Louvre Abu Dhabi: Under a vast silver dome
   Population: ~1.5 million
-score: 8.48
+score: 6.169
 snippet: United Arab Emirates capital on a Gulf island, with federal institutions
   and Bani Yas roots.
 tip: Abu Dhabi is the UAE's wealthy, calmer capital — more measured than neighbouring
@@ -25,6 +25,10 @@ tip: Abu Dhabi is the UAE's wealthy, calmer capital — more measured than neigh
   indoor air-con.
 title: Abu Dhabi
 type: location
+heritage: 5.239
+vibrancy: 6.568
+nature: 2.152
+off_the_beaten_track: 1.053
 ---
 
 Abu Dhabi is the capital of the United Arab Emirates and the seat of its federal government. It sits on a T-shaped island jutting into the Persian Gulf, connected to the mainland by three bridges. First settled in the 18th century by the Bani Yas tribe, who found fresh water there — Abu Dhabi translates roughly as "land of the gazelle" — the city has transformed beyond recognition since oil was discovered in 1958.
@@ -35,4 +39,4 @@ Today it is a global city of gleaming towers, sprawling boulevards, and ambitiou
 
 [Yas Island](/asia/unitedarabemirates/abudhabi/yas_island), out by the airport, holds the leisure and motorsport district: [Ferrari World](/asia/unitedarabemirates/abudhabi/ferrari_world), the [Yas Marina F1 Circuit](/asia/unitedarabemirates/abudhabi/yas_marina_circuit), [Warner Bros World](/asia/unitedarabemirates/abudhabi/warner_bros_world), [SeaWorld](/asia/unitedarabemirates/abudhabi/seaworld_yas), and [Yas Waterworld](/asia/unitedarabemirates/abudhabi/yas_waterworld), all close together.
 
-Abu Dhabi is distinctly different from Dubai: less frantic, more planned, more traditional. The pace is slower, the streets less crowded, and the mix of cultures — with a large South Asian and Arab expatriate population alongside Emirati nationals — makes it an interesting place to spend a few days. The deeper Emirati landscape — [Sir Bani Yas](/asia/unitedarabemirates/sir_bani_yas) to the west, the [Liwa](/asia/unitedarabemirates/liwa) dunes to the south, [Jebel Hafit](/asia/unitedarabemirates/abudhabi/jebel_hafit) and [Al Ain](/asia/unitedarabemirates/al_ain) to the east — repays anyone with a day or two to spare.
+Abu Dhabi is distinctly different from Dubai: less frantic, more planned, more traditional. The pace is slower, the streets less crowded, and the mix of cultures — with a large South Asian and Arab expatriate population alongside Emirati nationals — makes it an interesting place to spend a few days. The deeper Emirati landscape — [Sir Bani Yas](/asia/unitedarabemirates/sir_bani_yas) to the west, the [Liwa](/asia/unitedarabemirates/liwa) dunes to the south, [Jebel Hafit](/asia/unitedarabemirates/jebel_hafit) and [Al Ain](/asia/unitedarabemirates/al_ain) to the east — repays anyone with a day or two to spare.

@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - nightlife
 - bars_and_cafes
+- westhollywood
 title: Bar Marmont
 type: poi
 url: www.chateaumarmont.com

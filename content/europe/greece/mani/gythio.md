@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Gythio_Port,_Greece_-_Dili
 latitude: 36.761578
 loc_type: city
 longitude: 22.56595
-score: 8.14
+score: 5.162
 title: Gythio
 type: location
 snippet: Laconian Gulf harbour town with hillside mansions, fish tavernas, and Homeric
   traces on Kranai island.
+heritage: 5.231
+vibrancy: 2.29
+nature: 5.784
+off_the_beaten_track: 3.55
 ---
 
 Gythio is a charming harbour town on the Laconian Gulf, at the eastern edge of [Mani](/europe/greece/mani). Neoclassical mansions climb the steep hillside above a long waterfront promenade lined with fish tavernas and colourful fishing boats. It serves as the gateway to Mesa Mani from the east and to the island of Kythira by ferry.

@@ -5,11 +5,15 @@ done:
 latitude: 42.7751
 loc_type: city
 longitude: 11.2878
-score: 7.79
+score: 4.995
 title: Grosseto
 type: location
 snippet: Maremma capital ringed by Medici walls, opening onto southern Tuscany's beaches,
   farms, and Etruscan sites.
+heritage: 4.646
+vibrancy: 4.761
+nature: 5.442
+off_the_beaten_track: 2.92
 ---
 
 Grosseto is the capital of the Maremma, the wild southern stretch of Tuscany that most tourists skip in favour of Florence, Siena, and the Chianti hills. The city itself is a modest provincial centre ringed by well-preserved [Medici walls](/europe/italy/tuscany/grosseto/medici_walls), but the real draw is the surrounding countryside — rolling farmland, cork-oak forests, thermal springs, and a coastline that includes some of Tuscany's best beaches.

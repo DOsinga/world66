@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:318_Sciacca_(Ag)_-_Sicily.
 latitude: 37.508
 loc_type: city
 longitude: 13.083
-score: 7.46
+score: 4.865
 snippet: South-coast Sicilian port of ceramics, thermal hills, carnival noise, and
   working fishing boats.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://www.visitsicily.info/en/sciacca/
 title: Sciacca
 type: location
+heritage: 4.582
+vibrancy: 3.562
+nature: 5.598
+off_the_beaten_track: 3.723
 ---
 
 Sciacca is a working port and spa town on Sicily's south coast, roughly between Agrigento and Selinunte. It does not have the polished museum-piece feel of some Sicilian hill towns; it tumbles down toward the harbour in layers, with ceramics shops, churches, fishing boats, and traffic all mixed together.

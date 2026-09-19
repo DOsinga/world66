@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 28.5475
 longitude: -81.7494
-score: 6.5
-snippet: Central Florida lake town with citrus-era landmarks and rolling hills west of Orlando.
+score: 3.992
+snippet: Central Florida lake town with citrus-era landmarks and rolling hills west
+  of Orlando.
 wikidata: Q531446
 sources:
-  - https://en.wikivoyage.org/wiki/Clermont
-  - https://www.visitflorida.com/places-to-go/central/clermont/
-  - https://www.floridastateparks.org/parks-and-trails/lake-louisa-state-park
+- https://en.wikivoyage.org/wiki/Clermont
+- https://www.visitflorida.com/places-to-go/central/clermont/
+- https://www.floridastateparks.org/parks-and-trails/lake-louisa-state-park
+heritage: 2.149
+vibrancy: 3.907
+nature: 4.212
+off_the_beaten_track: 0.955
 ---
 
 Clermont sits on the sandy ridges west of [Orlando](/northamerica/unitedstates/florida/orlando), where Central Florida briefly forgets it is supposed to be flat. It grew on citrus groves and lakes rather than theme parks, and that older Florida identity is still the best reason to come.

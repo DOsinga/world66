@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Skopje_view_from_Kale_3.jp
 latitude: 41.996182
 loc_type: city
 longitude: 21.431921
-score: 7.51
+score: 5.499
 title: Skopje
 type: location
 snippet: North Macedonian capital where Ottoman bazaar lanes sit beside the theatrical
   Skopje 2014 centre.
+heritage: 6.245
+vibrancy: 4.968
+nature: 4.211
+off_the_beaten_track: 2.334
 ---
 
 Skopje is the capital and by far the largest city in North Macedonia. At first glance it can be disorienting — a city centre packed with neo-baroque monuments, statues of warriors, and triumphal arches erected as part of the "Skopje 2014" urban redesign project. The effect is surreal and controversial. Look past it, and you'll find one of the most interesting Ottoman bazaars in the Balkans.

@@ -11,7 +11,7 @@ Buses are the backbone of Croatian public transport and the best way to move bet
 
 Ferries and catamarans are essential for reaching the islands. Jadrolinija is the main operator, running car ferries and passenger-only catamarans. Krilo also runs fast catamaran services on Dalmatian routes.
 
-Key routes: Split to Hvar (about 1 hour, from €10), Split to Brač (50 minutes), Dubrovnik to Korčula, and the long-distance summer catamaran linking Dubrovnik, Hvar, Korčula, and Split. Only Krk and Pag are connected to the mainland by bridge; all other islands need a ferry.
+Key routes: Split to Hvar (about 1 hour, from €10), Split to Brač (50 minutes), Dubrovnik to Korčula, and the long-distance summer catamaran linking Dubrovnik, Hvar, Korčula, and Split. The busiest single connection is Split to Supetar on Brač, running four or five times daily. Only Krk and Pag are connected to the mainland by bridge; all other islands need a ferry.
 
 Car ferries are first-come, first-served for vehicles — arrive early in summer or you may miss the boat literally. Foot passengers can board up to 10 minutes before departure. Most inter-island schedules thin out significantly between November and April.
 

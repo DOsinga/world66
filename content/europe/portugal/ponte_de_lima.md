@@ -5,7 +5,7 @@ done:
 latitude: 41.767502
 loc_type: city
 longitude: -8.583099
-score: 8.4
+score: 5.07
 snippet: Minho riverside town with a medieval bridge, compact old centre, and legends
   of the river Lethe
 title: Ponte de Lima
@@ -14,6 +14,10 @@ image: ponte_de_lima.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aerial_Ponte_de_Lima.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Joseolgon
+heritage: 4.989
+vibrancy: 3.351
+nature: 5.744
+off_the_beaten_track: 2.915
 ---
 
 The Romans are supposed to have thought the Lima was the mythical river Lethe, so beautiful it took men's memories away. The story goes that the legionaries would not cross until their commander swam to the far bank and proved he still remembered their names.

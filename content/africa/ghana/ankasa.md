@@ -5,11 +5,15 @@ done:
 latitude: 5.3
 loc_type: city
 longitude: -2.6133
-score: 6.41
+score: 6.362
 snippet: Remote rainforest national park in southwest Ghana, protecting swamp forest,
   bamboo groves, and dense canopy.
 title: Ankasa
 type: location
+heritage: 1.626
+vibrancy: 0.892
+nature: 7.971
+off_the_beaten_track: 6.196
 ---
 
 Ankasa National Park sits in the far southwest of Ghana, close to the Ivorian border. It protects around 500 sq km of tropical rainforest — swamp forest, bamboo groves, and dense canopy — and is one of the least-visited reserves in the country, which is part of its appeal.

@@ -2,16 +2,21 @@
 title: Spetses
 type: location
 loc_type: city
-latitude: 37.2610
+latitude: 37.261
 longitude: 23.1595
 wikidata: Q368275
-score: 8.35
-snippet: Saronic island of sea-captain mansions, pine roads, old shipyards, and 1821 naval history.
+score: 5.596
+snippet: Saronic island of sea-captain mansions, pine roads, old shipyards, and 1821
+  naval history.
 sources:
 - https://en.wikivoyage.org/wiki/Spetses
 - https://www.wikidata.org/wiki/Q368275
 - https://spetses.gov.gr/en/tourism/attractions
 - https://bouboulinamuseum.com/en/museum/
+heritage: 5.356
+vibrancy: 5.729
+nature: 5.024
+off_the_beaten_track: 1.916
 ---
 
 Spetses is one of the Saronic islands closest to the Peloponnese, with a handsome harbour town, pine-covered back roads, and a proud role in the Greek War of Independence. It feels more polished than nearby Hydra, but less museum-like: fishing boats, water taxis, summer yachts, old shipyards, and horse carriages all share the same waterfront.

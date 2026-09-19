@@ -5,11 +5,15 @@ done:
 latitude: 53.2852
 loc_type: city
 longitude: 69.3815
-score: 5.86
+score: 4.223
 snippet: Northern Kazakhstan provincial capital on the steppe edge, gateway to Burabay's
   lakes and granite hills.
 title: Kokshetau
 type: location
+heritage: 4.266
+vibrancy: 4.188
+nature: 4.315
+off_the_beaten_track: 4.263
 ---
 
 Kokshetau is the administrative capital of Akmola Region in northern [Kazakhstan](/asia/kazakhstan), a quiet provincial city of about 150,000 people on the edge of the Kazakh steppe. The city itself is unremarkable, but its setting is the draw: the Burabay (Borovoe) lake and mountain district lies about 70 kilometres to the south and is one of Kazakhstan's most popular domestic holiday destinations.

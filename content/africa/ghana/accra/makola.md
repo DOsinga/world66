@@ -1,13 +1,16 @@
 ---
 latitude: 5.5485
 longitude: -0.2107
+score: 8.1
 snippet: Accra's chaotic, vibrant central market
+sources:
+- https://www.beingchristinajane.com/things-to-do-in-accra/
 tags:
 - things_to_do
 - market
+- blogs_that_show_you_accra
 title: Makola Market
 type: poi
-score: 8.1
 ---
 
 Accra's central market, gutted by fire in 1979 (during Rawlings' first coup) and again in 1993, but always rebuilt. Beads and printed fabrics are the classic buys, alongside food, soap, kitchenware, and just about anything else. Go in the morning, mind your bag, ask before photographing.

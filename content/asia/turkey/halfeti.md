@@ -2,14 +2,19 @@
 latitude: 37.24
 loc_type: city
 longitude: 37.87
-score: 7.9
-snippet: Euphrates town where old stone houses and mosques sit half-submerged by dam waters.
+score: 5.205
+snippet: Euphrates town where old stone houses and mosques sit half-submerged by dam
+  waters.
 sources:
-  - https://en.wikivoyage.org/wiki/Halfeti
-  - https://en.wikipedia.org/wiki/Halfeti
-  - https://www.wikidata.org/wiki/Q258838
+- https://en.wikivoyage.org/wiki/Halfeti
+- https://en.wikipedia.org/wiki/Halfeti
+- https://www.wikidata.org/wiki/Q258838
 title: Halfeti
 type: location
+heritage: 4.761
+vibrancy: 2.803
+nature: 6.05
+off_the_beaten_track: 5.209
 ---
 
 Halfeti is a small town on the Euphrates in southeastern Turkey, known for the half-submerged remains of its old settlement. When the Birecik Dam filled in 2001, the river gorge became a long lake and part of Eski Halfeti slipped under the water.

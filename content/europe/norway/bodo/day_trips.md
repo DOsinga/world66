@@ -2,7 +2,7 @@
 title: "Day Trips"
 type: section
 linked_locations:
-  - europe/norway/lofoten
+  - europe/norway/lofotenislands
 ---
 
 The two obvious day trips from Bodø are Saltstraumen and Lofoten, at opposite ends of the scale: one is a 30-minute drive to a natural phenomenon, the other is a full day (or longer) to an archipelago that deserves a week.

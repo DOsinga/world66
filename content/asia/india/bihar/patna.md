@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view,_Patna_(314731
 latitude: 25.6093
 loc_type: city
 longitude: 85.1235
-score: 5.88
+score: 4.414
 snippet: Bihar capital on the Ganges, heir to ancient Pataliputra and the Maurya and
   Gupta empires
 title: Patna
 type: location
+heritage: 4.785
+vibrancy: 4.307
+nature: 2.959
+off_the_beaten_track: 3.482
 ---
 
 Patna is one of the oldest continuously inhabited cities in the world. As Pataliputra, it was the capital of the Maurya and Gupta empires -- the seat of Ashoka and Chandragupta -- and one of the great cities of the ancient world. Today it is the capital of Bihar, a sprawling, chaotic, and fascinating city stretched along the southern bank of the Ganges.

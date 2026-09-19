@@ -5,11 +5,15 @@ done:
 latitude: 36.1451
 loc_type: city
 longitude: -82.4184
-score: 5.87
+score: 2.539
 snippet: Appalachian Tennessee town in the Nolichucky valley, edged by whitewater
   gorge and mountain wilderness
 title: Erwin
 type: location
+heritage: 1.872
+vibrancy: 1.598
+nature: 3.142
+off_the_beaten_track: 2.079
 ---
 
 Nestled in the Appalachian Mountains of northeastern Tennessee, Erwin sits in the Nolichucky River valley — a sun-drenched stretch of green that locals call "The Valley Beautiful." With a population under 6,000, it is small by any measure, but the surrounding mountains pack in more outdoor recreation than towns ten times its size.

@@ -5,11 +5,15 @@ done:
 latitude: 44.6365
 loc_type: city
 longitude: -123.1059
-score: 6.11
+score: 4.182
 snippet: Willamette Valley city with four heritage districts and a large concentration
   of Victorian-era architecture.
 title: Albany
 type: location
+heritage: 3.528
+vibrancy: 2.859
+nature: 4.986
+off_the_beaten_track: 2.233
 ---
 
 Albany sits at the confluence of the Calapooia and Willamette rivers in the heart of Oregon's fertile Willamette Valley. As the Linn County seat, it's one of the oldest cities in the state, and its downtown is packed with beautifully preserved Victorian-era buildings — more than 700 historic structures spread across four distinct heritage districts. The [Monteith Historic District](/northamerica/unitedstates/oregon/albany/monteith_historic_district) and the [Hackleman Historic District](/northamerica/unitedstates/oregon/albany/hackleman_historic_district) are the heart of this, and together they form one of the most impressive concentrations of 19th-century architecture in the Pacific Northwest.

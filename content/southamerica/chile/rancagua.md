@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Chile,_Rancagua,_Gobierno_
 latitude: -34.170243
 loc_type: city
 longitude: -70.740718
-score: 6.46
+score: 4.54
 snippet: Central Valley Chilean city known for the 1814 Battle of Rancagua in its
   main plaza.
 title: Rancagua
 type: location
+heritage: 3.806
+vibrancy: 4.699
+nature: 4.128
+off_the_beaten_track: 1.514
 ---
 
 Rancagua sits in the Central Valley 85 kilometres south of Santiago, a working city of around 250,000 people on the banks of the Cachapoal River. Founded in 1743 by José Antonio Manso de Velasco, it is best known for the Desastre de Rancagua in 1814, when Chilean independence forces were overwhelmed by royalist troops in the central plaza — a defeat that sent the independence movement into exile before its eventual triumph. The [Plaza de los Héroes](/southamerica/chile/rancagua/plaza_de_los_heroes) and the nearby [Iglesia de la Merced](/southamerica/chile/rancagua/iglesia_de_la_merced) — O'Higgins's wartime command post — still mark the spot.

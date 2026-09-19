@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Berbera_Somaliland_view_no
 latitude: 10.438621
 loc_type: city
 longitude: 45.013401
-score: 5.61
+score: 4.76
 snippet: Gulf of Aden port city where Somaliland's trade meets hot beaches and offshore
   shipwrecks.
 sources:
 - https://en.wikipedia.org/wiki/Berbera
 title: Berbera
 type: location
+heritage: 5.104
+vibrancy: 1.423
+nature: 3.316
+off_the_beaten_track: 7.388
 ---
 
 Berbera is a coastal city on the Gulf of Aden in the northwestern corner of Somaliland — hot, port-dominated, and quietly important to the economy of the Horn of Africa. It is not an easy place to visit, but travellers who make the effort find [one of the finest beaches in East Africa](/africa/somaliland/berbera/berbera_beach), a functioning deep-water [port](/africa/somaliland/berbera/berbera_port) that handles a substantial share of landlocked Ethiopia's trade, and [shipwrecks](/africa/somaliland/berbera/berbera_shipwrecks) lying in snorkellable depths just offshore.

@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: -41.6333
 longitude: 171.85
-score: 6.1
-snippet: Tiny northern West Coast coal town between the Tasman Sea and old mining hills.
+score: 5.718
+snippet: Tiny northern West Coast coal town between the Tasman Sea and old mining
+  hills.
 sources:
-  - https://en.wikivoyage.org/wiki/Granity
-  - https://www.newzealand.com/us/feature/charming-creek/
-  - https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westport/things-to-do/tracks/charming-creek-walkway/
+- https://en.wikivoyage.org/wiki/Granity
+- https://www.newzealand.com/us/feature/charming-creek/
+- https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westport/things-to-do/tracks/charming-creek-walkway/
 wikidata: Q2076873
+heritage: 2.051
+vibrancy: 1.328
+nature: 7.656
+off_the_beaten_track: 3.957
 ---
 
 Granity is a small settlement on the northern [West Coast](/australiaandpacific/newzealand/south_island/west_coast), squeezed between the Tasman Sea and the steep coal hills above State Highway 67. It is not a polished destination. That is exactly why it works: weathered timber buildings, mining relics, sea air, and the feeling that the coast still belongs to people who live there.

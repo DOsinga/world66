@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Chengxian,_Longnan,_Gansu,
 latitude: 33.535
 loc_type: city
 longitude: 105.349
-score: 6.03
+score: 3.821
 snippet: Southern Gansu mountain prefecture where loess country gives way to forests,
   rivers, and ancient ginkgo villages
 sources:
 - https://en.wikivoyage.org/wiki/Gansu
 title: Longnan
 type: location
+heritage: 3.015
+vibrancy: 1.663
+nature: 4.644
+off_the_beaten_track: 4.121
 ---
 
 Longnan occupies the southernmost tip of Gansu, where the province narrows to a point between Sichuan and Shaanxi, and the landscape shifts from the arid loess of central Gansu into something almost subtropical — forested mountains, rivers, terraced fields. The administrative centre is Wudu, a valley town of modest size on the Bailong River, but the prefecture as a whole is one of the most topographically diverse parts of the province.

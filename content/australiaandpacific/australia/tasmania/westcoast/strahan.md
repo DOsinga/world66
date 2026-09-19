@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -42.15
 longitude: 145.3167
-score: 7.5
+score: 6.169
 snippet: Remote Tasmanian harbour town for Gordon River cruises, convict ruins, and
   wild west-coast surf.
 sources:
@@ -14,6 +14,10 @@ image: strahan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:130131_7000_Foreshore_walk_Strahan_Tas_Australia.jpg
 image_license: CC BY-SA 3.0
 image_attribution: 夏目・龍之介
+heritage: 2.047
+vibrancy: 1.404
+nature: 7.677
+off_the_beaten_track: 6.175
 ---
 
 Strahan is the small harbour town where Tasmania's west coast becomes accessible without becoming tame. It sits on Macquarie Harbour, a huge sheet of dark water cut off from the Southern Ocean by the narrow, dangerous entrance of Hells Gates.

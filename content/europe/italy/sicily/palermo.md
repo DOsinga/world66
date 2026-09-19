@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Sicilia_Palermo5_tango7174
 latitude: 38.1113
 loc_type: city
 longitude: 13.3524
-score: 9.19
+score: 6.966
 snippet: Sicily's largest city, set in the Conca d'Oro with a layered Arab-Norman
   architectural inheritance.
 title: Palermo
 type: location
+heritage: 6.07
+vibrancy: 7.359
+nature: 4.788
+off_the_beaten_track: 2.032
 ---
 
 Palermo is the capital of [Sicily](/europe/italy/sicily) and its largest city, set in the Conca d'Oro — a wide bay between the sea and a ring of limestone mountains, with Monte Pellegrino rising dramatically to the north. It is fast, brash, and unlike anywhere else in Italy. The mix of Arab and Norman influences is one of the city's strangest and most rewarding surprises, visible in buildings from the 11th and 12th centuries that blend Islamic geometry with Christian iconography.

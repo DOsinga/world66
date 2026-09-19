@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Entrance_to_Valley_Gardens
 latitude: 53.992149
 loc_type: city
 longitude: -1.539104
-score: 8.25
+score: 5.611
 snippet: Victorian spa town in North Yorkshire, built around mineral springs and formal
   gardens.
 sources:
@@ -16,6 +16,10 @@ sources:
 title: Harrogate
 type: location
 image_attribution: Neil Theasby
+heritage: 5.872
+vibrancy: 5.554
+nature: 5.017
+off_the_beaten_track: 1.422
 ---
 
 Harrogate is a handsome Victorian spa town in North Yorkshire, one of England's most elegant and self-assured small cities. The town grew rich in the 18th and 19th centuries on the strength of its mineral springs — visitors came from across Europe to "take the waters" — and the legacy shows everywhere: in the broad tree-lined avenues, the immaculate public gardens, the confident stone architecture, and a civic pride that keeps everything polished and well-planted.
@@ -26,4 +30,4 @@ The 200-acre Stray — an expanse of protected common grassland — wraps around
 
 Betty's Tea Rooms on Parliament Street has been a Harrogate institution since 1919. The queues outside on a Saturday morning are testament to its enduring appeal — the Fat Rascal (a large scone-like pastry studded with cherries and peel) is the thing to order. Harrogate punches well above its weight for restaurants generally, partly because it hosts major national conferences and exhibitions, which keeps standards high and the scene varied. The Turkish Baths, still operating in their original Victorian premises off Parliament Street, are a genuine experience rather than a tourist attraction.
 
-Day trips from Harrogate are excellent. The [Yorkshire Dales](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/yorkshire_dales) are a short drive west, [Ripon](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/ripon) with its cathedral and Fountains Abbey is 12 miles north, and [York](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/york) is an easy half-hour by train.
+Day trips from Harrogate are excellent. The [Yorkshire Dales](/europe/unitedkingdom/england/yorkshire/yorkshire_dales) are a short drive west, [Ripon](/europe/unitedkingdom/england/yorkshire/ripon) with its cathedral and Fountains Abbey is 12 miles north, and [York](/europe/unitedkingdom/england/yorkshire/york) is an easy half-hour by train.

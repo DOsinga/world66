@@ -9,10 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Beautiful_views_from_Oumaa
 latitude: 31.2406
 loc_type: city
 longitude: -6.1193
-score: 7.77
+score: 5.31
 snippet: Dadès Valley town at the centre of Morocco's damask rose-growing country.
 title: Kelaa M'Gouna
 type: location
+heritage: 3.77
+vibrancy: 1.917
+nature: 6.632
+off_the_beaten_track: 4.383
 ---
 
 Kelaa M'Gouna sits at the heart of Morocco's rose-growing country, a small town in the Dadès Valley about 95 km east of Ouarzazate. The surrounding hillsides and valley floors are planted with thousands of damask rose bushes — *Rosa damascena* — brought here centuries ago, possibly along trade routes from Persia. Every May the [Rose Valley](/africa/morocco/kelaa_mgouna/rose_valley) turns pink and fragrant.

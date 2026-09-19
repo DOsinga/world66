@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Toulouse_-_vue_du_Vieux_To
 latitude: 43.6047
 loc_type: city
 longitude: 1.4442
-score: 8.41
+score: 6.139
 snippet: Pink-brick Garonne city whose student energy and aerospace wealth animate
   a compact southern French centre.
 title: Toulouse
 type: location
+heritage: 6.742
+vibrancy: 5.957
+nature: 4.784
+off_the_beaten_track: 1.978
 ---
 
 Toulouse — "la Ville Rose" — is the fourth largest city in France and the capital of the Midi-Pyrénées, named for the warm pink-terracotta brick that characterises its architecture. Situated on the Garonne River, halfway between the Atlantic and the Mediterranean, it's a wealthy, youthful city (one of France's largest student populations) with a compact, walkable historic centre and a thriving food and bar scene.

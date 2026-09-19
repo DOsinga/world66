@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gros_Morne_NP_westernbrook
 latitude: 49.65
 loc_type: feature
 longitude: -57.75
-score: 7.56
+score: 6.15
 snippet: UNESCO-listed Newfoundland park of fjords, tablelands, fishing villages,
   and mountain hikes.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Gros_Morne_National_Park
 title: Gros Morne National Park
 type: location
+heritage: 2.054
+vibrancy: 1.245
+nature: 7.549
+off_the_beaten_track: 6.502
 ---
 
 *North America > Canada > Newfoundland > Gros Morne National Park*

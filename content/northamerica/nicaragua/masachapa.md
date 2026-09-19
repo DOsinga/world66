@@ -5,11 +5,15 @@ done:
 latitude: 11.7769
 loc_type: city
 longitude: -86.5128
-score: 6.05
+score: 4.947
 snippet: Pacific fishing village near Managua, with dark sand, weekend crowds, and
   simple beachfront seafood comedores.
 title: Masachapa
 type: location
+heritage: 2.003
+vibrancy: 1.844
+nature: 6.051
+off_the_beaten_track: 5.297
 ---
 
 Masachapa is a small fishing village on [Nicaragua's](/northamerica/nicaragua) Pacific coast, about an hour's drive from [Managua](/northamerica/nicaragua/managua). It is one of the closest beaches to the capital and gets busy on weekends with Managuan families, but during the week it is quiet and unhurried. The [beach](/northamerica/nicaragua/masachapa/masachapa_beach) is a long, dark-sand stretch with decent surf and strong currents — swim with caution.

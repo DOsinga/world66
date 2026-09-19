@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:57244-Shangri-La_(28273611
 latitude: 27.871702
 loc_type: city
 longitude: 99.83655
-score: 8.72
+score: 6.169
 title: Shangri-La
 type: location
 snippet: High Tibetan town in northwestern Yunnan, known for monasteries, prayer flags,
   and mountain scenery.
+heritage: 1.965
+vibrancy: 3.002
+nature: 7.678
+off_the_beaten_track: 6.176
 ---
 
 Shangri-La (香格里拉, formerly Zhongdian) is a small Tibetan town at 3,200 metres in northwestern Yunnan, about five hours north of [Lijiang](/asia/china/yunnanprovince/lijiang). The name was officially changed in 2001 to capitalise on the James Hilton connection, but the town's Tibetan character is genuine — prayer flags, yak butter tea, and monasteries set against a backdrop of snow-capped mountains.

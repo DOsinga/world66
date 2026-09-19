@@ -5,11 +5,15 @@ done:
 latitude: 57.6141
 loc_type: city
 longitude: -3.097447
-score: 6.79
+score: 3.745
 title: Fochabers
 snippet: Georgian planned village beside the River Spey, shaped by Gordon Castle and
   Scotland's salmon country.
 type: location
+heritage: 3.707
+vibrancy: 2.365
+nature: 4.233
+off_the_beaten_track: 2.081
 ---
 
 Fochabers is a neat Georgian village on the main road between Aberdeen and Inverness, standing beside the [River Spey](/europe/unitedkingdom/scotland/fochabers/river_spey_walk) — one of Scotland's premier salmon rivers. The village was planned and laid out by the Duke of Gordon in the late 18th century when the original settlement was moved to make way for the expansion of [Gordon Castle](/europe/unitedkingdom/scotland/fochabers/gordon_castle_walled_garden), which still stands on the edge of the village. The result is one of the better-preserved planned villages in Scotland: a simple grid of stone houses centred on a square dominated by the neoclassical [Bellie Kirk](/europe/unitedkingdom/scotland/fochabers/bellie_kirk).

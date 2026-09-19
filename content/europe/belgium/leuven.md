@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Tafelrond_Leuven_-_385956_
 latitude: 50.8792
 loc_type: city
 longitude: 4.7012
-score: 8.34
+score: 6.595
 snippet: Belgian university city shaped by KU Leuven, medieval streets, and a large
   student population.
 title: Leuven
 type: location
+heritage: 7.537
+vibrancy: 5.863
+nature: 2.574
+off_the_beaten_track: 1.32
 ---
 
 Leuven is Belgium's ultimate university town. With more than 25,000 students at the 500-year-old KU Leuven — one of Europe's oldest universities — the city has an energy that belies its modest size. The campus is woven into the fabric of the town itself: medieval colleges stand alongside research labs, and the student population keeps the bars, restaurants, and cultural scene thriving year-round.

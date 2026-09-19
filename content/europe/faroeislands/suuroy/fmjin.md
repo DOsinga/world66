@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Suduroy_F%C3%A1mjin_K%C3%B
 latitude: 61.524687
 loc_type: city
 longitude: -6.87927
-score: 7.49
+score: 6.042
 snippet: Sheltered Suðuroy west-coast village below sea cliffs, whose church holds
   the original Faroese flag.
 title: Fámjin
 type: location
+heritage: 4.033
+vibrancy: 0.985
+nature: 7.117
+off_the_beaten_track: 7.366
 ---
 
 Fámjin is one of only two villages on the wild west coast of Suðuroy, the southernmost island in the Faroe Islands. The high vertical sea cliffs that line this coast make habitation almost impossible — Fámjin occupies one of the rare sheltered spots.

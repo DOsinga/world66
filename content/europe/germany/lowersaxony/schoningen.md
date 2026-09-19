@@ -2,13 +2,17 @@
 latitude: 52.1385
 loc_type: city
 longitude: 10.9671
-score: 6.8
+score: 4.885
 snippet: Lower Saxon town known for prehistoric spears and a small Welf castle.
 sources:
-  - https://en.wikivoyage.org/wiki/Sch%C3%B6ningen
-  - https://en.wikipedia.org/wiki/Sch%C3%B6ningen
+- https://en.wikivoyage.org/wiki/Sch%C3%B6ningen
+- https://en.wikipedia.org/wiki/Sch%C3%B6ningen
 title: Schöningen
 type: location
+heritage: 5.317
+vibrancy: 1.463
+nature: 5.318
+off_the_beaten_track: 3.575
 ---
 
 Schöningen is a small town on the southeastern edge of Lower Saxony, close to the old border with Saxony-Anhalt and the wooded Elm hills. It would be easy to pass it by as another quiet German market town, but the place has one claim that changes the whole scale: the Schöningen spears, among the oldest known wooden weapons ever found.

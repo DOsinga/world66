@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:ALKULTURASI_BUDAYA.jpg
 latitude: -7.5692
 loc_type: city
 longitude: 110.8284
-score: 7.86
+score: 5.093
 snippet: Relaxed Javanese cultural city, formerly Surakarta, with royal palaces, batik
   workshops, and gamelan traditions.
 title: Solo
 type: location
+heritage: 2.01
+vibrancy: 2.411
+nature: 6.267
+off_the_beaten_track: 5.331
 ---
 
 An hour by train from [Yogyakarta](/asia/indonesia/java/yogyakarta), Solo (formally Surakarta) was the capital of the Mataram kings and remains one of Java's most important cultural centers. There are two royal palaces here, Solo is a major center for the batik industry, and it has schools for traditional dance, wayang, and gamelan music.

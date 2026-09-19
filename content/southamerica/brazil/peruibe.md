@@ -2,12 +2,17 @@
 latitude: -24.31
 loc_type: city
 longitude: -47.0
-score: 7.2
-snippet: São Paulo coast town beside Juréia-Itatins rainforest, broad beaches, and early Jesuit ruins.
+score: 3.188
+snippet: São Paulo coast town beside Juréia-Itatins rainforest, broad beaches, and
+  early Jesuit ruins.
 sources:
-  - https://en.wikivoyage.org/wiki/Peru%C3%ADbe
+- https://en.wikivoyage.org/wiki/Peru%C3%ADbe
 title: Peruíbe
 type: location
+heritage: 2.118
+vibrancy: 2.475
+nature: 3.745
+off_the_beaten_track: 2.347
 ---
 
 Peruíbe is a beach town on the south coast of São Paulo state, far enough from the capital to feel greener and less urban than the Santos-side resorts. The town itself is modern and busy in summer, but its real strength is the wild country just beyond it.

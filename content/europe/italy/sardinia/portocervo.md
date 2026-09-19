@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Porto_Cervo1.jpg
 latitude: 41.1319
 loc_type: city
 longitude: 9.5354
-score: 8.76
+score: 6.23
 snippet: Costa Smeralda marina town built around Sardinia's yacht culture and Aga
   Khan-era resort architecture
 tags:
 - costasmeralda
 title: Porto Cervo
 type: location
+heritage: 2.861
+vibrancy: 6.451
+nature: 5.658
+off_the_beaten_track: 0.86
 ---
 
 Porto Cervo is the social and nautical centre of the Costa Smeralda, the stretch of northeastern Sardinian coast developed from the early 1960s by a consortium led by Aga Khan IV. The town was built almost from scratch to a design intended to evoke a traditional Sardinian village while accommodating one of the most exclusive yacht marinas in the Mediterranean. The result is a planned village of whitewashed architecture, bougainvillea, and boutiques arranged around a natural harbour.

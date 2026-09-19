@@ -2,7 +2,7 @@
 latitude: 20.7647
 loc_type: city
 longitude: -104.8378
-score: 8.0
+score: 6.112
 snippet: Colonial silver-mining village 1,500 m up in the Sierra Madre east of Puerto
   Vallarta
 story: 'At its peak in the late 19th century San Sebastián supported over 20,000 people
@@ -18,6 +18,10 @@ image: sansebastiandeloeste.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Pinus_gordoniana,_San_Sebasti%C3%A1n_del_Oeste,_Jalisco,_Mexico_2.jpg
 image_license: CC BY 4.0
 image_attribution: abrahamsanchez
+heritage: 6.037
+vibrancy: 2.936
+nature: 6.914
+off_the_beaten_track: 4.771
 ---
 
 San Sebastián del Oeste is a near-perfectly preserved colonial mining village set 1,500 metres up in the Sierra Madre, about a 90-minute drive east of [Puerto Vallarta](/northamerica/mexico/puertovallarta). Founded in 1605, it became the centre of an enormous silver-mining district in the 18th and 19th centuries, supplying raw metal to the Mexican mints. When the silver market collapsed and the revolution arrived after 1910, the town shrank to a dot on the map — which is precisely why the cobbled streets, whitewashed adobe houses, and 1608 parish church survive essentially unchanged.

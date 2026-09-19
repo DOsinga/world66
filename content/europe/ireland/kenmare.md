@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Henry_Street,_Kenmare.jpg
 latitude: 51.8791
 loc_type: city
 longitude: -9.584
-score: 8.15
+score: 6.157
 snippet: Colourful Kerry town at Kenmare Bay, laid out for markets between the Ring
   and Beara landscapes.
 title: Kenmare
 type: location
+heritage: 4.339
+vibrancy: 5.028
+nature: 7.113
+off_the_beaten_track: 2.888
 ---
 
 Kenmare sits at the head of Kenmare Bay where the mountains of Cork and Kerry close in around a sheltered inlet. The Irish name is Neidin -- "little nest" -- and you can see why. The town is small, colourful, and tucked into one of the most dramatic landscapes in the southwest.

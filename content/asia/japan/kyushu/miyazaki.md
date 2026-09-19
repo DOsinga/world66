@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 31.916667
 longitude: 131.416667
-score: 7.4
+score: 5.588
 snippet: Sunny Kyushu city of coastal shrines, surf beaches, and myths of Japan's
   first emperor.
 sources:
@@ -17,6 +17,10 @@ image: miyazaki.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aoshima.jpg
 image_license: CC BY 3.0
 image_attribution: STA 3816
+heritage: 4.737
+vibrancy: 5.392
+nature: 6.056
+off_the_beaten_track: 1.978
 ---
 
 Miyazaki is Kyushu at its sunniest: palms, broad streets, surf beaches, and a coastline where shrine mythology sits right beside resort Japan. It is less dense and less famous than Fukuoka or Nagasaki, but it has a relaxed southern pace and enough strong sights for a full day.

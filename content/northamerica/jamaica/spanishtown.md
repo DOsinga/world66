@@ -5,7 +5,7 @@ done:
 latitude: 17.991
 loc_type: city
 longitude: -76.9554
-score: 6.82
+score: 4.563
 snippet: Former Jamaican capital west of Kingston, with colonial monuments gathered
   around Emancipation Square.
 sources:
@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Phillippo_Baptist_Church
 title: Spanish Town
 type: location
+heritage: 3.964
+vibrancy: 3.645
+nature: 5.311
+off_the_beaten_track: 2.997
 ---
 
 Spanish Town, 20 km west of Kingston along the main highway, was Jamaica's capital for over 300 years — from the Spanish founding in the 1530s until Kingston took over in 1872. Almost no visitors come here, which is a pity.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Salina_Turda,_Romania.jpg
 latitude: 46.568521
 loc_type: city
 longitude: 23.785364
-score: 7.47
+score: 3.729
 title: Turda
 type: location
 snippet: Transylvanian city near Cluj, best known for the vast underground chambers
   of Salina Turda.
+heritage: 4.377
+vibrancy: 2.334
+nature: 3.443
+off_the_beaten_track: 2.388
 ---
 
 Turda is a small city in Cluj County, Transylvania, about 30 km south of Cluj-Napoca. For most visitors it's a day trip from Cluj, and one attraction in particular makes it worth the journey: [Salina Turda](/europe/romania/turda/salina_turda).

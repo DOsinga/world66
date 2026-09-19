@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Irkutsk,_Irkutsk,_Russia.j
 latitude: 52.289122
 loc_type: city
 longitude: 104.279829
-score: 7.66
+score: 5.841
 snippet: Siberian river city of carved wooden houses, Decembrist exile history, and
   access to Lake Baikal.
 title: Irkutsk
 type: location
+heritage: 5.064
+vibrancy: 5.089
+nature: 6.594
+off_the_beaten_track: 5.509
 ---
 
 Irkutsk calls itself the Paris of Siberia, which is a stretch, but the nickname gestures at something real. It is a city of pastel 18th-century administrative buildings, ornate wooden houses carved with patterns that look almost like lace, and an educated, cultured population shaped by centuries of forced intellectual exile. The city sits on the Angara River, 60 kilometres from [Lake Baikal](/europe/russia/irkutsk) — which makes it the natural base for exploring the world's deepest lake, but there is more than enough in Irkutsk itself to justify a couple of days.

@@ -4,15 +4,24 @@ type: location
 loc_type: city
 latitude: 10.5425
 longitude: -83.5024
-score: 8.74
-snippet: Roadless Caribbean village beside rainforest canals and one of the great turtle beaches
+score: 5.615
+snippet: Roadless Caribbean village beside rainforest canals and one of the great
+  turtle beaches
 wikidata: Q2482545
 sources:
-  - https://en.wikivoyage.org/wiki/Tortuguero
-  - https://en.wikipedia.org/wiki/Tortuguero,_Costa_Rica
-  - https://www.wikidata.org/wiki/Q2482545
-  - https://www.sinac.go.cr/en-us/ac/acto/pnt/pages/default.aspx
-  - https://www.visitcostarica.com/where-to-go/protected-areas/tortuguero-national-park
+- https://en.wikivoyage.org/wiki/Tortuguero
+- https://en.wikipedia.org/wiki/Tortuguero,_Costa_Rica
+- https://www.wikidata.org/wiki/Q2482545
+- https://www.sinac.go.cr/en-us/ac/acto/pnt/pages/default.aspx
+- https://www.visitcostarica.com/where-to-go/protected-areas/tortuguero-national-park
+image: tortuguero.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Tortuguero,_Costa_Rica.jpg
+image_license: CC BY-SA 2.0
+image_attribution: John Menard from Phoenix, USA
+heritage: 2.078
+vibrancy: 2.558
+nature: 7.301
+off_the_beaten_track: 4.595
 ---
 
 Tortuguero is a small, roadless village on Costa Rica's northern Caribbean coast, squeezed between a black-sand beach and a maze of jungle canals. It is one of the country's great wildlife bases: boats replace cars, rainforest presses close to the water, and sea turtles come ashore on the protected beach in season.

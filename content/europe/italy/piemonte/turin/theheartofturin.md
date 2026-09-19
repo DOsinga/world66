@@ -1,13 +1,13 @@
 ---
-latitude: 45.0710
+latitude: 45.071
 longitude: 7.6862
+score: 6.4
 snippet: Self-guided walk through Turin's arcades to the Mole
 tags:
-- day_trips
+- things_to_do
 - walking_tour
 title: The Heart of Turin
 type: poi
-score: 6.4
 ---
 
 This walking tour begins at Piazza Castello and follows Via Po toward the river, passing under the severe arcades where the king once walked on his way to the Po. Along the way you pass the historic Caffe Florio, the Church of San Francesco da Paola, and the Galleria dell'Accademia Albertina before reaching Piazza Carlo Emanuele II, better known as Piazza Carlina, once the site of a Napoleonic guillotine.

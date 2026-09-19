@@ -10,6 +10,13 @@ Uses the `type` field to classify pages:
   neighbourhood — a district; appears under its section_group in the nav
   theme         — a cross-cutting theme (lgbtq, cold_war, …); appears under its section_group
   poi           — individual point of interest
+  bloglist      — a curated set of outside blogs worth reading about a place
+
+A POI may additionally carry `commercial: true`.  Those are bookable activity
+providers — surf schools, boat trips, nature guides — rather than editorial
+sights.  They render with their contact details and, where the provider
+actually advertises one, a WhatsApp link.  The flag exists so this content can
+be filtered out or swapped for a supplier feed later without hunting for it.
 
 All of section / section_group / neighbourhood / theme are "nav pages": they appear
 in the city sidebar and each collects POIs by tag.  When a POI carries `tags: [de_pijp]`
@@ -18,6 +25,10 @@ and a page `de_pijp.md` exists with `type: neighbourhood`, that POI appears unde
 A nav page's query tag defaults to its slug; set `tag: <value>` in frontmatter to override.
 """
 
+import bisect
+import math
+import urllib.parse
+import sqlite3
 from dataclasses import dataclass, field
 from functools import lru_cache
 from pathlib import Path
@@ -28,6 +39,7 @@ from django.conf import settings
 from . import github
 
 CONTENT_DIR = Path(settings.BASE_DIR) / "content"
+SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
 
 # Page types that participate in city navigation and collect POIs by tag.
 NAV_TYPES = {"section", "section_group", "neighbourhood", "theme"}
@@ -35,6 +47,7 @@ NAV_TYPES = {"section", "section_group", "neighbourhood", "theme"}
 DISPLAY_PROPERTIES = {
     "address": "Address",
     "phone": "Phone",
+    "whatsapp": "WhatsApp",
     "url": "Website",
     "email": "Email",
     "opening_hours": "Opening Hours",
@@ -50,6 +63,15 @@ DISPLAY_PROPERTIES = {
     "price_per_night": "Price/Night",
 }
 
+DIMENSION_FIELDS = ("heritage", "vibrancy", "nature", "off_the_beaten_track")
+DIMENSION_LABELS = {
+    "heritage": "Heritage",
+    "vibrancy": "Vibrancy",
+    "nature": "Nature",
+    "off_the_beaten_track": "Off The Beaten Track",
+}
+_MAX_HIDDEN_DISTANCE = (12 * 2 ** 2) ** 0.5
+
 
 def _score_desc_title_key(page):
     """Sort pages by score descending, then title for stable ties."""
@@ -58,6 +80,12 @@ def _score_desc_title_key(page):
     except (TypeError, ValueError):
         score = 0
     return (-score, page.title.casefold())
+
+
+def _display_domain(url):
+    """example.com from https://www.example.com/blog/ — what to show as the link."""
+    host = url.split("//", 1)[-1].split("/", 1)[0]
+    return host[4:] if host.startswith("www.") else host
 
 
 def _load_md(path):
@@ -84,6 +112,12 @@ class Page:
     meta: dict = field(default_factory=dict)
     revision: str = ""      # short hash used in URLs
     source_ref: str = ""    # full git object used for content reads
+    # Set when a location names this provider in its activities section, so the
+    # panel row can say something specific to that place rather than repeating
+    # the provider's own generic snippet.
+    panel_note: str = ""
+    # Set when a ?p=CODE highlight link names this provider.
+    is_highlighted: bool = False
 
     def get_absolute_url(self):
         if self.revision:
@@ -124,6 +158,88 @@ class Page:
             if t in self._CATEGORY_TAGS:
                 return t.replace("_", " ").title()
         return ""
+
+    @property
+    def outreach_code(self):
+        """Short code identifying this provider in a highlight link.
+
+        Stored in frontmatter rather than derived from the path, because these
+        codes go on printed QR codes and into providers' own websites: a code
+        derived from the path would break the moment a page moved, and this
+        repo restructures content regularly.
+        """
+        return str(self.meta.get("outreach_code") or "").strip().upper()
+
+    @property
+    def is_commercial(self):
+        """A bookable activity provider rather than an editorial sight."""
+        return bool(self.meta.get("commercial"))
+
+    @property
+    def whatsapp_link(self):
+        """wa.me URL for the provider's WhatsApp number, or "".
+
+        Only set on providers that actually advertise WhatsApp — a French 06
+        mobile is not assumed to accept it, so this is never derived from
+        `phone`.
+        """
+        raw = str(self.meta.get("whatsapp") or "").strip()
+        # French businesses commonly write +33 (0)6 …, where the (0) is the
+        # trunk prefix you drop when dialling internationally. Keeping it
+        # yields a plausible-looking number that reaches nobody.
+        digits = "".join(c for c in raw.replace("(0)", "") if c.isdigit())
+        # A leading 0 means it is still in national format, so we don't know
+        # the country — better no link than a wrong one.
+        if not digits or digits.startswith("0"):
+            return ""
+        text = urllib.parse.quote(
+            f"Hello — I found {self.title} on World66 and would like to ask about "
+            "availability."
+        )
+        return f"https://wa.me/{digits}?text={text}"
+
+    # Activity tags that get their own colour and icon in the provider panel.
+    # The first matching tag on a provider decides how it is presented.
+    ACTIVITY_KINDS = {
+        "surf": "Surf",
+        "surf_hire": "Surf hire",
+        "kitesurf": "Kitesurf",
+        "boating": "Boating",
+        "birdwatching": "Bird tours",
+        "seal_watching": "Seal watching",
+        "jungle_tours": "Jungle tours",
+        "wildlife_watching": "Wildlife",
+        "guided_tours": "Guided tours",
+        "fishing": "Fishing",
+        "taxi": "Taxi & transfers",
+        "trekking": "Trekking",
+        "machu_picchu": "Machu Picchu",
+        "sandboarding": "Sandboarding",
+        "scenic_flights": "Scenic flights",
+        "rafting": "Rafting",
+        "restaurant": "Restaurants",
+        "canyoning": "Canyoning",
+        "diving": "Diving",
+        "cruise": "Cruises",
+        "paragliding": "Paragliding",
+        "salt_flat_tours": "Salt flat tours",
+        "mountaineering": "Mountaineering",
+        "cycling": "Cycling",
+        "kayaking": "Kayaking",
+        "stargazing": "Stargazing",
+    }
+
+    @property
+    def activity_kind(self):
+        """Slug of this provider's activity, or "" — drives colour and icon."""
+        for t in self.tags:
+            if t in self.ACTIVITY_KINDS:
+                return t
+        return ""
+
+    @property
+    def activity_label(self):
+        return self.ACTIVITY_KINDS.get(self.activity_kind, "Activity")
 
     @property
     def nav_tag(self):
@@ -178,6 +294,8 @@ class Page:
                     nav_pages.append(page)
                 elif page.page_type == "poi":
                     pois.append(page)
+                elif page.page_type == "bloglist":
+                    pass  # surfaced separately via find_bloglists()
                 else:
                     locations.append(page)
 
@@ -223,6 +341,8 @@ class Page:
                 nav_pages.append(page)
             elif page.page_type == "poi":
                 pois.append(page)
+            elif page.page_type == "bloglist":
+                pass  # surfaced separately via find_bloglists()
             else:
                 locations.append(page)
 
@@ -252,10 +372,76 @@ class Page:
                 nav_pages.append(page)
             elif page.page_type == "poi":
                 pois.append(page)
+            elif page.page_type == "bloglist":
+                pass  # surfaced separately via find_bloglists()
             else:
                 locations.append(page)
 
         return nav_pages, locations, pois
+
+    @property
+    def blog_entries(self):
+        """Outside blogs named by a type: bloglist page, in listed order.
+
+        A bloglist points at the open web rather than at other pages in the
+        tree, so its members live inline in its own frontmatter instead of
+        being resolved with load_page().  Entries without a name and url are
+        dropped rather than half-rendered — the linter reports them.
+        """
+        entries = []
+        for raw in self.meta.get("blogs") or []:
+            if not isinstance(raw, dict):
+                continue
+            name = (raw.get("name") or "").strip()
+            url = (raw.get("url") or "").strip()
+            if not name or not url:
+                continue
+            entries.append({
+                "name": name,
+                "url": url,
+                "domain": _display_domain(url),
+                "note": (raw.get("note") or "").strip(),
+                "author": (raw.get("author") or "").strip(),
+                "blog": (raw.get("blog") or "").strip(),
+                # Stable id so a POI can link straight at the entry that
+                # listed it, and the page can highlight it on arrival.
+                "anchor": "blog-" + _display_domain(url).replace(".", "-"),
+            })
+        return entries
+
+    def find_bloglists(self):
+        """Return type: bloglist pages living directly in this page's directory.
+
+        Like the pages themselves, this is a plain directory scan — a bloglist
+        belongs to the place whose folder it sits in, nothing wider.
+        """
+        if self.source_ref:
+            return self._bloglists_from_revision()
+        dir_path = CONTENT_DIR / self.path
+        if not dir_path.is_dir():
+            return []
+        results = []
+        for entry in sorted(dir_path.iterdir()):
+            if not (entry.is_file() and entry.suffix == ".md"):
+                continue
+            if entry.stem == self.slug:
+                continue
+            page = _load_page_from_file(entry, self.path + "/" + entry.stem)
+            if page and page.page_type == "bloglist":
+                results.append(page)
+        return sorted(results, key=_score_desc_title_key)
+
+    def _bloglists_from_revision(self):
+        results = []
+        for name in _revision_dir_names(self.source_ref, self.path):
+            if not name.endswith(".md") or name[:-3] == self.slug:
+                continue
+            page = load_page_from_revision(
+                f"{self.path}/{name[:-3]}", self.source_ref, url_revision=self.revision
+            )
+            if page and page.page_type == "bloglist":
+                results.append(page)
+        return sorted(results, key=_score_desc_title_key)
 
     def tagged_pois(self, _city_tag_index=None):
         """Return POIs tagged with this nav page's tag, found anywhere in the city.
@@ -268,10 +454,12 @@ class Page:
         city_path = _find_city_path(self.path, self.source_ref, self.revision)
         if not city_path:
             return []
-        # Only aggregate tagged POIs when the parent is a city, not a country/region.
-        # Country- and region-level sections are editorial text, not POI aggregators.
+        # Country- and region-level sections are normally editorial text. Small
+        # destinations can opt in when their POIs genuinely belong island-wide.
         city_page = load_page(city_path) if not self.source_ref else load_page_from_revision(city_path, self.source_ref, self.revision)
-        if city_page and city_page.meta.get('loc_type') not in ('city', 'feature', None):
+        if (city_page
+                and city_page.meta.get('loc_type') not in ('city', 'feature', None)
+                and not city_page.meta.get('aggregate_pois')):
             return self._legacy_dir_pois()
         tag = self.nav_tag
         by_tag = find_tagged_pois(
@@ -859,3 +1047,186 @@ def load_continents():
                 _, locations, _ = loc.children()
                 continents.append((loc, locations))
     return continents
+
+
+@lru_cache(maxsize=1)
+def load_dimension_index():
+    if SEARCH_DB.is_file():
+        conn = sqlite3.connect(f"file:{SEARCH_DB}?mode=ro", uri=True)
+        try:
+            rows = conn.execute(
+                f"SELECT path, {', '.join(DIMENSION_FIELDS)} FROM location_scores"
+            ).fetchall()
+            if rows:
+                return {row[0]: tuple(float(value) for value in row[1:]) for row in rows}
+        except sqlite3.Error:
+            pass
+        finally:
+            conn.close()
+
+    index = {}
+    for md_file in sorted(CONTENT_DIR.rglob("*.md")):
+        result = _load_md(md_file)
+        if not result:
+            continue
+        meta, _ = result
+        if meta.get("type", "location") != "location":
+            continue
+        vector = []
+        for field_name in DIMENSION_FIELDS:
+            try:
+                vector.append(float(meta[field_name]))
+            except (KeyError, TypeError, ValueError):
+                break
+        else:
+            index[str(md_file.relative_to(CONTENT_DIR).with_suffix(""))] = tuple(vector)
+    return index
+
+
+@lru_cache(maxsize=1)
+def _sorted_dimension_scores():
+    index = load_dimension_index()
+    return {
+        field_name: sorted(vector[i] for vector in index.values())
+        for i, field_name in enumerate(DIMENSION_FIELDS)
+    }
+
+
+def dimension_percentile(field_name, value):
+    scores = _sorted_dimension_scores()[field_name]
+    rank_from_bottom = bisect.bisect_left(scores, value)
+    return 100 * (len(scores) - rank_from_bottom) / len(scores)
+
+
+def _country_path(path):
+    parts = path.split("/")
+    return "/".join(parts[:2]) if len(parts) >= 2 else path
+
+
+def _parent_path(path):
+    return path.rsplit("/", 1)[0] if "/" in path else ""
+
+
+@lru_cache(maxsize=1)
+def _country_dimension_ranks():
+    by_country = {}
+    for path, vector in load_dimension_index().items():
+        by_country.setdefault(_country_path(path), []).append((path, vector))
+
+    ranks = {}
+    for rows in by_country.values():
+        total = len(rows)
+        for i, field_name in enumerate(DIMENSION_FIELDS):
+            sorted_rows = sorted(rows, key=lambda row: row[1][i], reverse=True)
+            for rank, (path, _) in enumerate(sorted_rows, 1):
+                ranks.setdefault(path, {})[field_name] = (rank, total)
+    return ranks
+
+
+def dimension_country_rank(path, field_name):
+    return _country_dimension_ranks().get(path, {}).get(field_name, (None, 0))
+
+
+def find_dimension_alternatives(path, k=3):
+    index = load_dimension_index()
+    vector = index.get(path)
+    if not vector:
+        return {field_name: [] for field_name in DIMENSION_FIELDS}
+
+    parent_path = _parent_path(path)
+    result = {}
+    for i, field_name in enumerate(DIMENSION_FIELDS):
+        candidates = []
+        for other_path, other_vector in index.items():
+            if other_path == path or _parent_path(other_path) != parent_path:
+                continue
+            if other_vector[i] > vector[i]:
+                candidates.append((other_path, other_vector[i]))
+        result[field_name] = sorted(candidates, key=lambda row: row[1], reverse=True)[:k]
+    return result
+
+
+def _hidden_columns():
+    return ", ".join(f"hidden_{i}" for i in range(12))
+
+
+def _similar_query(conn, path, country_path, same_country, k):
+    row = conn.execute(
+        f"SELECT {_hidden_columns()} FROM location_scores WHERE path = ?",
+        (path,),
+    ).fetchone()
+    if not row:
+        return []
+
+    expr_parts = []
+    params = []
+    for i, value in enumerate(row):
+        expr_parts.append(f"((hidden_{i} - ?) * (hidden_{i} - ?))")
+        params.extend((value, value))
+    country_op = "=" if same_country else "!="
+    params.extend((path, country_path, k))
+    rows = conn.execute(
+        f"""
+        SELECT path, {' + '.join(expr_parts)} AS distance_sq
+        FROM location_scores
+        WHERE path != ? AND country_path {country_op} ?
+        ORDER BY distance_sq
+        LIMIT ?
+        """,
+        params,
+    ).fetchall()
+    result = []
+    for other_path, distance_sq in rows:
+        distance = math.sqrt(distance_sq)
+        match_pct = round(100 * (1 - distance / _MAX_HIDDEN_DISTANCE))
+        result.append((other_path, max(0, min(100, match_pct))))
+    return result
+
+
+def find_similar_with_match_grouped(path, k=3):
+    if not SEARCH_DB.is_file():
+        return [], []
+    conn = sqlite3.connect(f"file:{SEARCH_DB}?mode=ro", uri=True)
+    try:
+        row = conn.execute(
+            "SELECT country_path FROM location_scores WHERE path = ?",
+            (path,),
+        ).fetchone()
+        if not row:
+            return [], []
+        country_path = row[0]
+        same = _similar_query(conn, path, country_path, True, k)
+        other = _similar_query(conn, path, country_path, False, k)
+        return same, other
+    except sqlite3.Error:
+        return [], []
+    finally:
+        conn.close()
+
+
+@lru_cache(maxsize=1)
+def load_outreach_codes():
+    """code -> (content path, url path, title), from the table indexer.py builds.
+
+    A code is six characters and names nothing, so resolving one means either a
+    lookup table or a walk of the whole tree — and the walk is 135k files, some
+    twenty seconds. The table is built where that walk already happens.
+    """
+    if not SEARCH_DB.is_file():
+        return {}
+    conn = sqlite3.connect(f"file:{SEARCH_DB}?mode=ro", uri=True)
+    try:
+        rows = conn.execute(
+            "SELECT code, path, url_path, title FROM outreach_codes"
+        ).fetchall()
+    except sqlite3.OperationalError:
+        return {}   # search.db predates the table; reindex to populate it
+    finally:
+        conn.close()
+    return {row[0]: (row[1], row[2], row[3]) for row in rows}
+
+
+def load_provider_by_code(code):
+    """The provider a printed code belongs to, or None."""
+    entry = load_outreach_codes().get(str(code or "").strip().upper())
+    return load_page(entry[1]) if entry else None

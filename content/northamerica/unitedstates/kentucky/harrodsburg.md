@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 37.7639
 longitude: -84.8461
-score: 6.8
+score: 3.793
 snippet: Small Bluegrass town where frontier Kentucky history meets Shaker architecture
   and river palisades.
 sources:
@@ -15,6 +15,10 @@ image: harrodsburg.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Downtown_Harrodsburg_Kentucky_2.jpg
 image_license: CC BY-SA 3.0
 image_attribution: FloNight (Sydney Poore) and Russell Poore
+heritage: 4.559
+vibrancy: 2.837
+nature: 3.261
+off_the_beaten_track: 2.187
 ---
 
 Harrodsburg is one of the better small-town history stops in Kentucky's Bluegrass country. It claims the first permanent English settlement west of the Alleghenies, and while the modern town is quiet, the surrounding countryside gives it more weight than its size suggests.

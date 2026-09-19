@@ -2,14 +2,19 @@
 latitude: 52.017
 loc_type: city
 longitude: 8.517
-score: 7.0
-snippet: Teutoburg Forest city with a hilltop fortress, modern art, and Germany's oddest civic joke.
+score: 3.777
+snippet: Teutoburg Forest city with a hilltop fortress, modern art, and Germany's
+  oddest civic joke.
 sources:
-  - https://en.wikivoyage.org/wiki/Bielefeld
-  - https://en.wikipedia.org/wiki/Bielefeld
-  - https://www.wikidata.org/wiki/Q2112
+- https://en.wikivoyage.org/wiki/Bielefeld
+- https://en.wikipedia.org/wiki/Bielefeld
+- https://www.wikidata.org/wiki/Q2112
 title: Bielefeld
 type: location
+heritage: 3.411
+vibrancy: 3.911
+nature: 3.43
+off_the_beaten_track: 1.586
 ---
 
 Bielefeld is an east Westphalian city at the edge of the Teutoburg Forest. It is famous across Germany for a joke conspiracy theory claiming that it does not exist, which is unfair but useful: it tells you the city is not trying too hard to impress.

@@ -17,7 +17,7 @@ quick_facts:
   Hagia Sophia: Church, mosque, museum, mosque
   Population: 16 million
   Straddles: Europe & Asia
-score: 9.84
+score: 8.998
 snippet: Turkish metropolis on the Bosphorus, layered with Byzantine, Ottoman, and
   modern districts across two continents.
 tip: 'Istanbul straddles two continents — take a cheap public ferry across the Bosphorus
@@ -26,6 +26,10 @@ tip: 'Istanbul straddles two continents — take a cheap public ferry across the
   drops. Mosques close to tourists during the five daily prayers, so plan around them.'
 title: Istanbul
 type: location
+heritage: 7.761
+vibrancy: 9.536
+nature: 3.793
+off_the_beaten_track: 1.438
 ---
 
 No city in the world has been a capital of two empires for so long, on two continents, straddling a strait that separates Europe from Asia. Istanbul is overwhelming in the best possible sense — the kind of place that makes other cities feel thin.

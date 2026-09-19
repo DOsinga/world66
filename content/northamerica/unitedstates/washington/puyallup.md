@@ -7,9 +7,13 @@ loc_type: city
 snippet: Washington valley city below Mount Rainier, known for its state fair and
   agricultural roots
 longitude: -122.29214
-score: 6.25
+score: 4.064
 title: Puyallup
 type: location
+heritage: 3.114
+vibrancy: 2.633
+nature: 4.98
+off_the_beaten_track: 1.526
 ---
 
 **Puyallup** is a city in the shadow of Mount Rainier in Washington state, about 30 minutes south of Seattle and Tacoma. The name comes from the Puyallup people and is pronounced "pew-AL-up."

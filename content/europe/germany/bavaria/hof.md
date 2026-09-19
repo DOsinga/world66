@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/69570948@N04/38259202712
 latitude: 50.318751
 loc_type: city
 longitude: 11.916299
-score: 6.28
+score: 5.213
 snippet: Northern Bavarian city once at the inner-German border, now a rail junction
   with frontier memories
 title: Hof
 type: location
+heritage: 6.729
+vibrancy: 3.07
+nature: 2.968
+off_the_beaten_track: 2.527
 ---
 
 Hof is a small city in the far north of Bavaria, close to the former inner-German border with what was East Germany. Before 1989, Hof was literally at the end of the line — the main railway from Munich and Nuremberg terminated here at a dead border. Reunification changed that: Hof is now a junction on routes north toward Leipzig and Berlin, but the city still carries a slightly peripheral character.

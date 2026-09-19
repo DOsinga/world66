@@ -16,7 +16,7 @@ quick_facts:
   Patuxai: Built from 'runway' cement
   Population: ~950,000
   That Luang: Golden national symbol
-score: 8.02
+score: 4.521
 snippet: Laid-back Mekong capital of Laos, with French-Lao streets, gilded temples,
   and riverside evenings.
 tip: Vientiane is one of the most laid-back capitals in Asia — small, riverside and
@@ -26,6 +26,10 @@ tip: Vientiane is one of the most laid-back capitals in Asia — small, riversid
   and easy.
 title: Vientiane
 type: location
+heritage: 5.175
+vibrancy: 4.002
+nature: 3.45
+off_the_beaten_track: 3.905
 ---
 
 Southeast Asia's smallest and most laid-back capital sits on a bend in the Mekong, gazing across the river at Thailand. With around 800,000 people, Vientiane feels more like a large provincial town than a national capital -- and that is its charm. Tree-lined boulevards, crumbling French colonial mansions, and gilded Buddhist temples share space with rice paddies and vegetable gardens that somehow survive within the city limits.
@@ -36,4 +40,4 @@ The main sights are easily covered on foot or by bicycle. [Pha That Luang](/asia
 
 No visit is complete without a stop at the [COPE Visitor Centre](/asia/laos/vientiane/cope_visitor_centre), which tells the story of unexploded American ordnance still scattered across the country, and the [Lao National Museum](/asia/laos/vientiane/lao_national_museum), which tells the same war from the Pathet Lao side. The [Mekong riverside](/asia/laos/vientiane/mekong_riverside) at dusk is the best place to end the day.
 
-Vientiane is also the base for day trips to the [Nam Ngum reservoir](/asia/laos/nam_ngum), the ancient site of [Vang Xang](/asia/laos/vientiane/vangxang), and the limestone landscapes of the [Hinboun area](/asia/laos/hinboun). The Laos-China Railway station at Khamsavath, about 15 kilometres from the city center, connects Vientiane to [Vang Vieng](/asia/laos/vangvieng) and [Luang Prabang](/asia/laos/luangprabang).
+Vientiane is also the base for day trips to the [Nam Ngum reservoir](/asia/laos/nam_ngum), the ancient site of [Vang Xang](/asia/laos/vangxang), and the limestone landscapes of the [Hinboun area](/asia/laos/hinboun). The Laos-China Railway station at Khamsavath, about 15 kilometres from the city center, connects Vientiane to [Vang Vieng](/asia/laos/vangvieng) and [Luang Prabang](/asia/laos/luangprabang).

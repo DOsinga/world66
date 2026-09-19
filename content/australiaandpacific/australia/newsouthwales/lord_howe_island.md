@@ -4,11 +4,14 @@ type: location
 loc_type: feature
 latitude: -31.55
 longitude: 159.08
-score: 8.8
+score: 6.129
 snippet: Remote Tasman Sea island of volcanic peaks, coral lagoon, endemic wildlife,
   and capped visitor numbers.
-original_overview: >
-  Lord Howe Island is a UNESCO World Heritage island around 600 km off the coast of New South Wales, with volcanic mountains and rainforest lying between surf and lagoon beaches.
+original_overview: 'Lord Howe Island is a UNESCO World Heritage island around 600
+  km off the coast of New South Wales, with volcanic mountains and rainforest lying
+  between surf and lagoon beaches.
+
+  '
 sources:
 - https://en.wikivoyage.org/wiki/Lord_Howe_Island
 - https://en.wikipedia.org/wiki/Lord_Howe_Island
@@ -17,6 +20,10 @@ image: lord_howe_island.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Green_Turtle_near_Settlement_Beach_Lord_Howe_Island.jpg
 image_license: CC BY-SA 4.0
 image_attribution: PotMart186
+heritage: 3.431
+vibrancy: 0.638
+nature: 7.294
+off_the_beaten_track: 7.228
 ---
 
 Lord Howe Island is a small volcanic island in the Tasman Sea, far enough from mainland New South Wales that arrival already feels like a commitment. The island is only about 10 kilometres long, but it has an astonishing range of scenery: a sheltered coral lagoon, white beaches, rainforest, sea cliffs, and the twin southern peaks of Mount Lidgbird and Mount Gower.

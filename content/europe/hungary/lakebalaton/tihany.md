@@ -4,7 +4,7 @@ done:
 latitude: 46.9089
 loc_type: feature
 longitude: 17.8792
-score: 7.46
+score: 5.067
 snippet: Lake Balaton peninsula of abbey towers, lavender fields, volcanic lakes,
   and wide north-shore views.
 sources:
@@ -16,6 +16,10 @@ image: tihany.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tihany,_Hungary_-_September_2022.jpg
 image_license: CC BY-SA 4.0
 image_attribution: DavidivardiIL
+heritage: 3.398
+vibrancy: 3.66
+nature: 6.085
+off_the_beaten_track: 2.103
 ---
 
 Tihany is the most distinctive place on [Lake Balaton](/europe/hungary/lakebalaton): a volcanic peninsula pushing into the lake, crowned by the twin towers of [Tihany Abbey](/europe/hungary/lakebalaton/tihany/tihany_abbey). It is touristy in summer, no point pretending otherwise, but it earns the attention. The views are broad, the old village has real texture, and the landscape changes quickly from abbey square to reed beds, lavender fields, and quiet inland paths.

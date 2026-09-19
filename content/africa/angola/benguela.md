@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Banco_Nacional,_Benguela,_
 latitude: -12.579005
 loc_type: city
 longitude: 13.403712
-score: 5.96
+score: 4.544
 snippet: Angolan Atlantic port founded by the Portuguese, linked historically to the
   Benguela Railway.
 title: Benguela
 type: location
+heritage: 4.284
+vibrancy: 3.901
+nature: 5.158
+off_the_beaten_track: 4.661
 ---
 
 Benguela is a port city on Angola's Atlantic coast, about 700 kilometres south of [Luanda](/africa/angola/luanda). Founded by the Portuguese in 1617, it was one of the main departure points for the transatlantic slave trade and later a hub for the Benguela Railway, which ran inland to the copper mines of the Congo.

@@ -2,13 +2,17 @@
 latitude: 26.9631
 loc_type: city
 longitude: -82.3519
-score: 7.1
+score: 3.932
 snippet: Low-key Gulf Coast beach town with Manasota Key parks and Lemon Bay water.
 sources:
-  - https://en.wikivoyage.org/wiki/Englewood_(Florida)
-  - https://en.wikipedia.org/wiki/Englewood,_Florida
+- https://en.wikivoyage.org/wiki/Englewood_(Florida)
+- https://en.wikipedia.org/wiki/Englewood,_Florida
 title: Englewood
 type: location
+heritage: 2.557
+vibrancy: 2.393
+nature: 4.938
+off_the_beaten_track: 1.491
 ---
 
 Englewood is a quieter Gulf Coast beach town between Venice and Port Charlotte. It does not have the polish of Sarasota or the high-rise resort feel of bigger Florida beaches, which is part of the point. The town sits behind Manasota Key, with Lemon Bay on one side and the Gulf of Mexico on the other.

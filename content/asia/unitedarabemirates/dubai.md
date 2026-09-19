@@ -16,7 +16,7 @@ quick_facts:
   Indoor Ski Slope: Snow in the desert
   Mostly Expats: ~85% of residents
   Population: ~3.6 million
-score: 9.2
+score: 7.903
 snippet: Arabian Peninsula metropolis known for the Burj Khalifa, engineered islands,
   and rapid transformation from trading port.
 tip: Dubai is a city of superlatives risen from the desert in a single generation
@@ -26,6 +26,10 @@ tip: Dubai is a city of superlatives risen from the desert in a single generatio
   and spice souks.
 title: Dubai
 type: location
+heritage: 7.372
+vibrancy: 8.165
+nature: 6.638
+off_the_beaten_track: 1.854
 ---
 
 Dubai is the spectacle of the modern Arabian Peninsula — a trading post that, in the span of a single generation, transformed itself from a small pearl-diving settlement into a global financial centre with the world's tallest building, the busiest international airport by passenger traffic, and enough engineered islands, indoor ski slopes, and seven-star hotels to make Las Vegas look restrained. Love it or hate it, there is no other city quite like it.

@@ -6,7 +6,7 @@ latitude: -10.422228
 longitude: -160.995904
 title: Manihiki
 type: location
-score: 7.73
+score: 5.648
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Manihiki
@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Tauhunu
 snippet: Remote northern Cook Islands atoll, where small villages ring a pearl-farming
   lagoon.
+heritage: 6.139
+vibrancy: 0.497
+nature: 6.103
+off_the_beaten_track: 8.663
 ---
 
 Manihiki is a remote atoll in the northern Cook Islands, about 1,200km north of Rarotonga. It consists of roughly 40 small islets ringing a large central [lagoon](/australiaandpacific/cookislands/manihiki/manihiki_lagoon), and the population of a few hundred lives in two villages: [Tukao](/australiaandpacific/cookislands/manihiki/tukao_village) on the northern rim and [Tauhunu](/australiaandpacific/cookislands/manihiki/tauhunu_village) on the southern side.

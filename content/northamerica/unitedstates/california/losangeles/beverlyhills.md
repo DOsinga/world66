@@ -4,12 +4,15 @@ done:
   poi_cleanup: '2026-04-21'
 latitude: 34.06965
 longitude: -118.396306
-score: 0.56
 title: Beverly Hills
 type: neighbourhood
 tags:
 - neighbourhood
 - things_to_do
+image: beverlyhills.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Buildings_at_North_Rodeo_Drive,_Beverly_Hills,_West_view_20110806_1.jpg
+image_license: CC BY-SA 4.0
+image_attribution: DXR
 ---
 
 Beverly Hills is an independent city of about 35,000 people surrounded on all sides by Los Angeles. It became synonymous with Hollywood wealth in the 1920s, when movie stars began buying estates in the hills above Sunset Boulevard; that association has only deepened over the decades. The city is small enough to walk around in an hour: Rodeo Drive with its luxury brand flagship stores, the cluster of high-end hotels on Wilshire (the Beverly Hills Hotel, the Beverly Wilshire — the Pretty Woman hotel), and the residential streets north of Santa Monica Boulevard where the mansions begin.

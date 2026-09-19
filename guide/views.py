@@ -14,8 +14,11 @@ from django.utils.safestring import mark_safe
 
 from . import github
 from .models import (
-    CONTENT_DIR, NAV_TYPES, build_city_tag_index, find_tagged_pois, find_locations_tagged,
-    load_page, load_page_from_revision, load_tag_index, resolve_tag_route, _find_city_path,
+    CONTENT_DIR, DIMENSION_FIELDS, DIMENSION_LABELS, NAV_TYPES,
+    build_city_tag_index, dimension_percentile, find_dimension_alternatives,
+    find_similar_with_match_grouped, find_tagged_pois, find_locations_tagged,
+    load_page, load_page_from_revision, load_outreach_codes, load_provider_by_code,
+    load_tag_index, resolve_tag_route, _find_city_path,
 )
 
 SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
@@ -79,6 +82,10 @@ def _prefixed_url(url, url_prefix):
 
 def about(request):
     return render(request, "guide/about.html")
+
+
+def how_we_score(request):
+    return render(request, "guide/how_we_score.html")
 
 
 def _city_snippet(page):
@@ -189,6 +196,8 @@ def widgets(request):
     embed_url = request.build_absolute_uri("/widgets/globe-explore?mode=autoplay")
     explore_url = request.build_absolute_uri("/widgets/globe-explore?mode=explore")
     photo_map_url = request.build_absolute_uri("/widgets/photo-map")
+    scoring_explorer_url = request.build_absolute_uri("/widgets/scoring-explorer")
+    score_composer_url = request.build_absolute_uri("/widgets/score-composer")
     return render(request, "guide/widgets/index.html", {
         "globe_embed_url": embed_url,
         "globe_iframe": _iframe_code(embed_url, 520),
@@ -196,6 +205,10 @@ def widgets(request):
         "globe_explore_iframe": _iframe_code(explore_url, 520),
         "photo_map_embed_url": photo_map_url,
         "photo_map_iframe": _iframe_code(photo_map_url, 520),
+        "scoring_explorer_embed_url": scoring_explorer_url,
+        "scoring_explorer_iframe": _iframe_code(scoring_explorer_url, 640),
+        "score_composer_embed_url": score_composer_url,
+        "score_composer_iframe": _iframe_code(score_composer_url, 720),
     })
 
 
@@ -234,6 +247,24 @@ def widget_photo_map(request):
     })
 
 
+@xframe_options_exempt
+def widget_scoring_explorer(request):
+    widget_url = request.build_absolute_uri()
+    return render(request, "guide/widgets/scoring_explorer.html", {
+        "widget_url": widget_url,
+        "embed_code": _iframe_code(widget_url, 640),
+    })
+
+
+@xframe_options_exempt
+def widget_score_composer(request):
+    widget_url = request.build_absolute_uri()
+    return render(request, "guide/widgets/score_composer.html", {
+        "widget_url": widget_url,
+        "embed_code": _iframe_code(widget_url, 720),
+    })
+
+
 def _bool_param(request, name, default):
     value = request.GET.get(name)
     if value is None:
@@ -262,6 +293,94 @@ def _iframe_code(url, height):
         f'<iframe src="{url}" width="100%" height="{height}" '
         'style="border:0" loading="lazy" allow="fullscreen"></iframe>'
     )
+
+
+def _score_profile_context(page, parent):
+    if page.page_type != "location":
+        return {}, "", []
+
+    scored = []
+    for key in DIMENSION_FIELDS:
+        value = _safe_float(page.meta.get(key))
+        if value is None:
+            return {}, "", []
+        scored.append((key, value))
+
+    scored.sort(key=lambda row: row[1], reverse=True)
+    parent_title = parent.title if parent else ""
+    alternatives_by_field = find_dimension_alternatives(page.path)
+    rows = []
+    for key, value in scored:
+        alternatives = []
+        for alt_path, alt_score in alternatives_by_field.get(key, []):
+            alt_page = load_page(alt_path)
+            if alt_page:
+                alternatives.append({"page": alt_page, "score": f"{alt_score:.1f}"})
+        percentile = dimension_percentile(key, value)
+        percentile_label = f"Top {max(1, round(percentile))}%" if percentile <= 50 else "-"
+        rows.append({
+            "field": key,
+            "label": DIMENSION_LABELS[key],
+            "score": f"{value:.1f}",
+            "width_pct": round(value * 10),
+            "percentile_label": percentile_label,
+            "alternatives": alternatives,
+            "parent_title": parent_title,
+        })
+
+    if page.meta.get("profile_verdict"):
+        verdict = page.meta["profile_verdict"]
+    else:
+        top = DIMENSION_LABELS[scored[0][0]].lower()
+        second = DIMENSION_LABELS[scored[1][0]].lower()
+        verdict = f"{page.title} is strongest on {top}, with {second} close behind."
+
+    similar_in_country, _ = find_similar_with_match_grouped(page.path)
+    similar = []
+    for similar_path, match_pct in similar_in_country:
+        similar_page = load_page(similar_path)
+        if similar_page:
+            similar.append({"page": similar_page, "match_pct": match_pct})
+    if len(similar) < 3:
+        similar = []
+
+    return rows, verdict, similar
+
+
+def _country_title(page):
+    parts = page.path.split("/")
+    if len(parts) < 2:
+        return ""
+    country = load_page("/".join(parts[:2]))
+    return country.title if country else ""
+
+
+
+def provider_qr(request, code):
+    """The landing page a provider reaches from their outreach mail.
+
+    Shows the link that puts them first on their town's page, and the QR that
+    encodes it, ready to print. The QR files are built once into static/qr by
+    tools/provider_qr.py rather than rendered per request — 53 providers is
+    about 80 KB, and a static file needs no Python at all.
+    """
+    code = str(code or "").strip().upper()
+    entry = load_outreach_codes().get(code)
+    if not entry:
+        raise Http404
+    provider = load_provider_by_code(code)
+    if not provider:
+        raise Http404
+
+    location_path = entry[1].rsplit("/", 1)[0]
+    location = load_page(location_path)
+    return render(request, "guide/provider_qr.html", {
+        "provider": provider,
+        "location": location,
+        "location_path": location_path,
+        "code": code,
+        "highlight_url": request.build_absolute_uri(f"/{location_path}?p={code}"),
+    })
 
 
 def location_or_section(request, path):
@@ -393,6 +512,12 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     hero_image_url = f'{page.url_prefix}/content-image/{image_path}' if image_path else None
     hero_image_source = page.meta.get('image_source', '') if image_path else ''
     hero_image_license = page.meta.get('image_license', '') if image_path else ''
+    if not hero_image_url and page.page_type == "bloglist":
+        cover = _bloglist_cover_image(page, source_ref, url_revision=url_revision)
+        if cover:
+            hero_image_url = cover["url"]
+            hero_image_source = cover["source"]
+            hero_image_license = cover["license"]
 
     # Attach image_url to each neighbourhood for card display
     for nb in neighbourhoods:
@@ -525,10 +650,10 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                     country_map_markers.append(cm)
                     city_count += 1
 
-    # For feature pages: cities/locations that tag into this feature via tags: [feature_slug]
+    # For feature/island pages: cities/locations that tag into this page via tags: [slug]
     linked_locations = []
     more_linked_locations = []
-    if page.meta.get('loc_type') == 'feature':
+    if page.meta.get('loc_type') in ('feature', 'island'):
         linked_locations = sorted(
             find_locations_tagged(page.slug, page.path),
             key=lambda p: float(p.meta.get('score', 0) or 0), reverse=True,
@@ -610,7 +735,102 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     # keeps far-flung children like Sumatra or Okinawa on screen.
     map_fit_all = page.meta.get("loc_type") in ("country", "region")
 
+    # Bloglists: a type=bloglist page points outward, at blogs on the open web,
+    # so its members come straight from its own frontmatter — nothing to resolve
+    # against the content tree, and nothing to put on the map.
+    blog_entries = page.blog_entries if page.page_type == "bloglist" else None
+    if blog_entries:
+        # Arriving from a POI's "Listed by …" tag: mark the entry that sent
+        # them, so the reader lands on the list and can see which of the six
+        # mentioned the place they were just reading about.
+        wanted = (request.GET.get("blog") or "").strip().lower()
+        for entry in blog_entries:
+            entry["is_highlighted"] = bool(wanted) and entry["domain"].lower() == wanted
+
+    # A location shows the bloglists sitting in its own directory as a
+    # "Further Reading" callout — the way in to the pages above.
+    location_bloglists = page.find_bloglists() if page.page_type == "location" else []
+    # Providers panel under the sidebar map: the bookable activities in this
+    # town. WhatsApp first, because that is the channel we are pitching, then
+    # by score. Capped so the sticky sidebar stays inside the viewport — the
+    # activities section page carries the full list.
+    # A provider's own QR code / referral link: ?p=CODE highlights them and
+    # hides their direct competitors, so the page they point customers at leads
+    # with them rather than with whoever happens to score highest.
+    highlight_code = (request.GET.get("p") or "").strip().upper()
+    highlighted_provider = None
+
+    PROVIDER_PANEL_MAX = 5
+    location_providers = []
+    location_providers_all = []
+    provider_categories = []
+    providers_on_whatsapp = False
+    provider_count = 0
+    if page.page_type == "location":
+        found = [p for p in pois if p.is_commercial]
+        # A location can also name providers that live elsewhere — the capital's
+        # tour operators sell trips to the whole country, so listing them once
+        # per place they serve meant six copies of the same company. The
+        # activities section names them, resolved like linked_locations:, with
+        # an optional note so the copy stays specific to this place.
+        _seen = {p.path for p in found}
+        _act = next((n for n in nav_pages if n.slug == "activities"), None)
+        for entry in (_act.meta.get("providers") if _act else None) or []:
+            if isinstance(entry, dict):
+                prov_path, prov_note = entry.get("path", ""), entry.get("note", "")
+            else:
+                prov_path, prov_note = entry, ""
+            if not prov_path or prov_path in _seen:
+                continue
+            prov = (load_page_from_revision(prov_path, source_ref, url_revision=url_revision)
+                    if source_ref else load_page(prov_path))
+            if not prov or not prov.is_commercial:
+                continue
+            prov.panel_note = prov_note
+            _seen.add(prov.path)
+            found.append(prov)
+        found.sort(key=lambda p: (
+            not p.whatsapp_link,
+            -_safe_float(p.meta.get("score")) if p.meta.get("score") else 0,
+            p.title.casefold(),
+        ))
+        if highlight_code:
+            match = next(
+                (p for p in found if p.outreach_code and p.outreach_code == highlight_code),
+                None,
+            )
+            if match:
+                highlighted_provider = match
+                match.is_highlighted = True
+                # Hide only their direct competitors — same activity, someone
+                # else's page. Other categories still serve the reader.
+                found = [
+                    p for p in found
+                    if p.path == match.path or p.activity_kind != match.activity_kind
+                ]
+                found.sort(key=lambda p: p.path != match.path)
+
+        provider_count = len(found)
+        location_providers = found[:PROVIDER_PANEL_MAX]
+        # The dialog carries every provider; the panel shows the first few.
+        location_providers_all = found
+        # Filter chips for the dialog, biggest category first. Pointless with
+        # only one category, which is most towns.
+        _cats = {}
+        for prov in found:
+            c = _cats.setdefault(prov.activity_kind, {
+                "kind": prov.activity_kind, "label": prov.activity_label, "count": 0,
+            })
+            c["count"] += 1
+        if len(_cats) > 1:
+            provider_categories = sorted(
+                _cats.values(), key=lambda c: (-c["count"], c["label"])
+            )
+        # Only promise WhatsApp when a shown provider actually offers it.
+        providers_on_whatsapp = any(p.whatsapp_link for p in location_providers)
+
     breadcrumbs = page.breadcrumbs()
+    dimension_rows, score_verdict, similar_in_country = _score_profile_context(page, parent)
 
     return render(request, "guide/page.html", {
         "page": page,
@@ -642,7 +862,11 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "hero_image_url": hero_image_url,
         "hero_image_source": hero_image_source,
         "hero_image_license": hero_image_license,
-        "tags": [t.replace("_", " ") for t in page.tags],
+        "dimension_rows": dimension_rows,
+        "score_verdict": score_verdict,
+        "similar_in_country": similar_in_country,
+        "country_title": _country_title(page),
+        "tags": _tag_chips(page, source_ref, url_revision),
         "is_poi": page.page_type == "poi",
         "poi_categories": poi_categories,
         "poi_context_prefix": poi_context_prefix,
@@ -651,6 +875,14 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "daytrip_cards": daytrip_cards,
         "more_linked_locations": more_linked_locations,
         "url_prefix": page.url_prefix,
+        "blog_entries": blog_entries,
+        "location_bloglists": location_bloglists,
+        "location_providers": location_providers,
+        "highlighted_provider": highlighted_provider,
+        "location_providers_all": location_providers_all,
+        "provider_categories": provider_categories,
+        "providers_on_whatsapp": providers_on_whatsapp,
+        "provider_count": provider_count,
     })
 
 
@@ -1002,6 +1234,72 @@ def _image_path(page, source_ref=None):
         elif (CONTENT_DIR / candidate).is_file():
             return candidate
     return None
+
+
+def _tag_chips(page, source_ref=None, url_revision=None):
+    """Tags for the chip row, as {label, url}.
+
+    A tag that names a bloglist sitting in the same directory becomes a link to
+    it — that is how a POI credits the list it came off, without an outbound
+    link in its body or a sentence of throat-clearing on the section page.
+
+    Which blog gets the credit is worked out rather than restated: a POI already
+    records where it came from in `sources:`, so a source matching one of the
+    bloglist's entries names the blog. Several can match, and the first one in
+    the list wins — a bloglist is ordered by how much use each entry is, so the
+    earliest entry that covers a place is the one worth sending a reader to.
+    Only if none matches does the chip fall back to the list's own title. Every
+    other tag is plain text, as before.
+    """
+    lists = {}
+    parent = _bloglist_parent(page, source_ref, url_revision)
+    if parent:
+        lists = {bl.slug: bl for bl in parent.find_bloglists()}
+    sources = {str(u).strip() for u in (page.meta.get("sources") or [])}
+
+    chips = []
+    for tag in page.tags:
+        bl = lists.get(tag)
+        if not bl:
+            chips.append({"label": tag.replace("_", " "), "url": None})
+            continue
+        credit = next(
+            (e for e in bl.blog_entries if e["url"] in sources), None
+        )
+        url = bl.get_absolute_url()
+        if credit:
+            label = f"Listed by {credit['blog'] or credit['domain']}"
+            url = f"{url}?blog={credit['domain']}#{credit['anchor']}"
+        else:
+            label = bl.title
+        chips.append({"label": label, "url": url})
+    return chips
+
+
+def _bloglist_parent(page, source_ref=None, url_revision=None):
+    """The place a bloglist belongs to — it has no image of its own and wears
+    the hero of the location whose directory it sits in."""
+    if "/" not in page.path:
+        return None
+    parent_path = page.path.rsplit("/", 1)[0]
+    return (load_page_from_revision(parent_path, source_ref, url_revision=url_revision)
+            if source_ref else load_page(parent_path))
+
+
+def _bloglist_cover_image(page, source_ref=None, url_revision=None):
+    """A bloglist wears its place's hero rather than sourcing a photo of its own
+    for what is, after all, a page of outbound links."""
+    parent = _bloglist_parent(page, source_ref, url_revision)
+    if not parent:
+        return None
+    img = _image_path(parent, source_ref)
+    if not img:
+        return None
+    return {
+        "url": f"{parent.url_prefix}/content-image/{img}",
+        "source": parent.meta.get("image_source", ""),
+        "license": parent.meta.get("image_license", ""),
+    }
 
 
 def content_image(request, path):

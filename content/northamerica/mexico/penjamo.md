@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 20.4311
 longitude: -101.7222
-score: 7.1
-snippet: Guanajuato city of Hidalgo history, Plazuelas ruins, old haciendas, and rugged Sierra de Pénjamo.
+score: 4.376
+snippet: Guanajuato city of Hidalgo history, Plazuelas ruins, old haciendas, and rugged
+  Sierra de Pénjamo.
 sources:
 - https://en.wikivoyage.org/wiki/P%C3%A9njamo
 - https://en.wikipedia.org/wiki/P%C3%A9njamo
 - https://www.inah.gob.mx/zonas/167-zona-arqueologica-plazuelas
+heritage: 4.677
+vibrancy: 4.295
+nature: 3.307
+off_the_beaten_track: 4.025
 ---
 
 Pénjamo sits in southwestern Guanajuato, away from the state's better-known colonial showpieces. Its claim is not polish but identity: Miguel Hidalgo y Costilla, the Father of Mexican Independence, was born at nearby Corralejo, and the surrounding hills hold one of the Bajío's more interesting archaeological sites.

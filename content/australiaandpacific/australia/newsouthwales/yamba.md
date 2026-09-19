@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -29.44
 longitude: 153.3594
-score: 7.6
+score: 5.322
 snippet: Clarence River beach town with surf beaches, a headland lighthouse and Angourie's
   old quarry pools.
 sources:
@@ -16,6 +16,10 @@ image: yamba.jpg
 image_source: https://commons.wikimedia.org/wiki/File:A_female_surfer_in_Yamba,_New_South_Wales_paddling_out.jpg
 image_license: CC BY 2.0
 image_attribution: Mike van Dalen from Australia
+heritage: 2.456
+vibrancy: 3.986
+nature: 6.323
+off_the_beaten_track: 2.643
 ---
 
 Yamba sits where the Clarence River meets the Pacific, a small North Coast town with more salt air than polish. It has the beaches and cafes you expect from this stretch of New South Wales, but it is not just another resort strip: the river mouth, headland, old lighthouse and Angourie pools give it a clear shape and a good day's worth of wandering.

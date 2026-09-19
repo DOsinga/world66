@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Place_de_la_Mairie,_Rennes
 latitude: 48.111339
 loc_type: city
 longitude: -1.68002
-score: 8.41
+score: 5.631
 snippet: Breton capital and university city, with half-timbered streets, crêperies,
   markets, and a lively old-town bar scene.
 title: Rennes
 type: location
+heritage: 6.433
+vibrancy: 5.012
+nature: 4.541
+off_the_beaten_track: 1.822
 ---
 
 Rennes is the capital of Brittany and one of the most liveable cities in France — a university town with a young population, beautiful half-timbered medieval streets, and a food and bar scene that punches well above its size. The old town around [Place des Lices](/europe/france/normandybrittany/rennes/place_des_lices) and Rue Saint-Michel (known locally as Rue de la Soif — "Thirst Street") is packed with restaurants, crêperies, and bars that fill every evening.

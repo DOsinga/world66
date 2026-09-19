@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aregua_church_040.jpg
 latitude: -25.2953
 loc_type: city
 longitude: -57.4147
-score: 6.76
+score: 4.08
 snippet: Lakeside Paraguayan town near Asuncion, known for ceramics workshops and
   colonial-era streets.
 title: Areguá
 type: location
+heritage: 3.159
+vibrancy: 3.808
+nature: 4.484
+off_the_beaten_track: 1.546
 ---
 
 Areguá is a small lakeside town on the shore of [Lake Ypacaraí](/southamerica/paraguay/aregua/lake_ypacarai), 30km east of Asunción and a popular weekend destination for the capital's residents. It's known for its [strawberry cultivation](/southamerica/paraguay/aregua/strawberry_festival) — you'll see roadside stalls selling fruit and jam from July to November — and for a [growing community of ceramic artists](/southamerica/paraguay/aregua/calle_estigarribia) whose workshops line the hillside streets.

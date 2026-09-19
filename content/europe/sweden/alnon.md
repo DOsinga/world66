@@ -2,11 +2,15 @@
 latitude: 62.4
 loc_type: feature
 longitude: 17.466666666666665
-score: 7.1
+score: 4.652
 snippet: Forested island just east of Sundsvall, reached by road bridge, with beaches,
   fishing villages, and unusual volcanic geology.
 title: Alnön
 type: location
+heritage: 3.277
+vibrancy: 2.214
+nature: 5.822
+off_the_beaten_track: 2.028
 ---
 
 Alnön is the forested island directly east of Sundsvall, connected to the mainland by the Alnöbron road bridge — a crossing that takes only a few minutes by car. Despite its proximity, the island feels removed from the city: quiet fishing villages dot the shoreline, sandy beaches face the Gulf of Bothnia on the eastern coast, and the interior is covered in pine and birch forest laced with flat, well-marked hiking trails. A slow circuit drive around the island's 40 kilometres takes a comfortable afternoon.

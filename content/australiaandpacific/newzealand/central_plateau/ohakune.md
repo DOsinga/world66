@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -39.4186
 longitude: 175.3994
-score: 7.2
+score: 6.964
 snippet: Mountain town below Ruapehu, with ski fields, old rail trails, and a giant
   carrot.
 sources:
@@ -16,6 +16,10 @@ image: ohakune.jpg
 image_source: https://commons.wikimedia.org/wiki/File:NZ-Ohakune-mainstreet.jpg
 image_license: Public domain
 image_attribution: Stagking
+heritage: 5.365
+vibrancy: 6.157
+nature: 7.819
+off_the_beaten_track: 3.847
 ---
 
 Ohakune sits on the southern edge of Tongariro National Park, close to the road up to Turoa ski field on Mount Ruapehu. In winter it is a ski town. In summer it becomes a practical base for cycling, short walks, and the rough volcanic country between the Central Plateau and Whanganui.

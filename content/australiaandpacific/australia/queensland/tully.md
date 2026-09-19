@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Butler_Street,_Tully,_with
 latitude: -17.942923
 loc_type: city
 longitude: 145.928582
-score: 6.29
+score: 3.473
 snippet: Wet Tropics sugar town known for extreme rainfall and white-water rafting
   on the Tully River.
 title: Tully
 type: location
+heritage: 2.355
+vibrancy: 1.532
+nature: 4.385
+off_the_beaten_track: 2.347
 ---
 
 Tully is a small town in Queensland's Wet Tropics, about 140 km south of Cairns, and claims the title of Australia's wettest town — annual rainfall regularly exceeds 4 metres. The surrounding country is almost entirely sugarcane and banana plantations, which is the economic backbone of the area.

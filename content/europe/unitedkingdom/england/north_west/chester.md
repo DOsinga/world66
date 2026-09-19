@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Bridge_Street_and_the_Rows
 latitude: 53.190887
 loc_type: city
 longitude: -2.890896
-score: 8.22
+score: 6.26
 title: Chester
 snippet: Walled English city on the River Dee, known for Roman remains and medieval
   shopping rows.
 type: location
+heritage: 7.108
+vibrancy: 5.659
+nature: 3.953
+off_the_beaten_track: 1.544
 ---
 
-Chester is the most complete walled city in the UK. Walk the full two-mile circuit of the [city walls](/europe/unitedkingdom/england/manchester_liverpool_and_north_west/chester/city_walls) for views over the River Dee and the racecourse, then drop down into [The Rows](/europe/unitedkingdom/england/manchester_liverpool_and_north_west/chester/chester_rows) — the half-timbered galleried shopping streets on two levels that are unique in England, and genuinely medieval in origin.
+Chester is the most complete walled city in the UK. Walk the full two-mile circuit of the [city walls](/europe/unitedkingdom/england/north_west/chester/city_walls) for views over the River Dee and the racecourse, then drop down into [The Rows](/europe/unitedkingdom/england/north_west/chester/chester_rows) — the half-timbered galleried shopping streets on two levels that are unique in England, and genuinely medieval in origin.
 
-The city has Roman origins: the fortress of Deva Victrix was established here in the first century, and the [Roman Amphitheatre](/europe/unitedkingdom/england/manchester_liverpool_and_north_west/chester/roman_amphitheatre) just outside the Newgate is the largest ever excavated in Britain. [Chester Cathedral](/europe/unitedkingdom/england/manchester_liverpool_and_north_west/chester/chester_cathedral), largely rebuilt in the 14th century, has some of the finest Gothic choir stalls in England and a peaceful cloister garden. Three miles north of the centre, [Chester Zoo](/europe/unitedkingdom/england/manchester_liverpool_and_north_west/chester/chester_zoo) is one of Europe's best and a full day's outing in itself.
+The city has Roman origins: the fortress of Deva Victrix was established here in the first century, and the [Roman Amphitheatre](/europe/unitedkingdom/england/north_west/chester/roman_amphitheatre) just outside the Newgate is the largest ever excavated in Britain. [Chester Cathedral](/europe/unitedkingdom/england/north_west/chester/chester_cathedral), largely rebuilt in the 14th century, has some of the finest Gothic choir stalls in England and a peaceful cloister garden. Three miles north of the centre, [Chester Zoo](/europe/unitedkingdom/england/north_west/chester/chester_zoo) is one of Europe's best and a full day's outing in itself.

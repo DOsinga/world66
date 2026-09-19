@@ -9,15 +9,19 @@ image_source: https://www.flickr.com/photos/92024986@N00/6225045960
 latitude: 52.8293
 loc_type: city
 longitude: 0.4626
-score: 5.84
+score: 4.238
 snippet: Tiny Norfolk village on the Sandringham Estate, centred on a former royal
   railway station in secluded woodland
 title: Wolferton
 type: location
+heritage: 4.753
+vibrancy: 1.966
+nature: 4.417
+off_the_beaten_track: 1.843
 ---
 
-Wolferton is a tiny village on the western edge of Norfolk, about 3 miles from [Sandringham House](/europe/unitedkingdom/england/norfolk/wolferton/sandringham_house). It sits within the Sandringham Estate woodland, surrounded by stands of mature trees that give it an unexpectedly secluded feel.
+Wolferton is a tiny village on the western edge of Norfolk, about 3 miles from [Sandringham House](/europe/unitedkingdom/england/east_of_england/wolferton/sandringham_house). It sits within the Sandringham Estate woodland, surrounded by stands of mature trees that give it an unexpectedly secluded feel.
 
-The village is dominated by its former [royal railway station](/europe/unitedkingdom/england/norfolk/wolferton/wolferton_station), closed in the 1960s and now converted into private apartments. The station served the Royal Family on their journeys to and from Sandringham, and the platform buildings survive in good condition. The station is private, but the owners have traditionally been welcoming to visitors who wish to look around and photograph it.
+The village is dominated by its former [royal railway station](/europe/unitedkingdom/england/east_of_england/wolferton/wolferton_station), closed in the 1960s and now converted into private apartments. The station served the Royal Family on their journeys to and from Sandringham, and the platform buildings survive in good condition. The station is private, but the owners have traditionally been welcoming to visitors who wish to look around and photograph it.
 
-Bus services connect Wolferton to King's Lynn and Hunstanton. Within a few miles you can also walk through [Dersingham Bog](/europe/unitedkingdom/england/norfolk/wolferton/dersingham_bog), watch winter geese at the [Snettisham RSPB reserve](/europe/unitedkingdom/england/norfolk/wolferton/snettisham_rspb), or climb the Norman keep of [Castle Rising](/europe/unitedkingdom/england/norfolk/wolferton/castle_rising).
+Bus services connect Wolferton to King's Lynn and Hunstanton. Within a few miles you can also walk through [Dersingham Bog](/europe/unitedkingdom/england/east_of_england/wolferton/dersingham_bog), watch winter geese at the [Snettisham RSPB reserve](/europe/unitedkingdom/england/east_of_england/wolferton/snettisham_rspb), or climb the Norman keep of [Castle Rising](/europe/unitedkingdom/england/east_of_england/wolferton/castle_rising).

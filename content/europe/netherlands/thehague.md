@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/12962905@N05/49518511857
 latitude: 52.074946
 loc_type: city
 longitude: 4.26968
-score: 8.56
+score: 6.561
 snippet: Dutch government city of royal palaces, international courts, the Binnenhof,
   and North Sea beaches
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Mauritshuis
 title: The Hague
 type: location
+heritage: 6.888
+vibrancy: 6.487
+nature: 2.245
+off_the_beaten_track: 0.802
 ---
 
 The Hague is not the capital of the Netherlands — that honour goes to Amsterdam — but it is the seat of government, the home of the royal family, and the city where international justice is administered. The [Binnenhof](/europe/netherlands/thehague/binnenhof), a medieval complex of parliament buildings around a central courtyard, sits at the heart of it all, and the [Mauritshuis](/europe/netherlands/thehague/mauritshuis) — one of the great small museums of Europe — stands just across the Hofvijver pond. The city also hosts the International Court of Justice at the [Peace Palace](/europe/netherlands/thehague/peace_palace), making The Hague the closest thing the world has to an international capital.

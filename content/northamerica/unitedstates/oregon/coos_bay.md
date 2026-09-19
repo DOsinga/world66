@@ -6,11 +6,15 @@ done:
 latitude: 43.3679
 loc_type: city
 longitude: -124.2175
-score: 6.86
+score: 4.83
 snippet: Southern Oregon coast city on Coos Bay, shaped by timber, shipping, dunes,
   and Native place names.
 title: Coos Bay
 type: location
+heritage: 2.654
+vibrancy: 3.249
+nature: 5.917
+off_the_beaten_track: 1.916
 ---
 
 Coos Bay is the largest city on the Oregon coast and has been the commercial hub of the region's southern reaches since the 1850s. Founded as Marshfield — named after the Massachusetts hometown of settler J. C. Tolman — the city incorporated in 1874 and only adopted the name Coos Bay in 1944. The name itself comes from a local Native American tribe and carries two meanings: lake and place of pines.

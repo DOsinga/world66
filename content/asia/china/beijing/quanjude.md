@@ -4,8 +4,9 @@ type: poi
 tags:
   - eating_out
   - restaurant
-latitude: 39.9022
-longitude: 116.3963
+  - dashilan
+latitude: 39.8953
+longitude: 116.3921
 score: 5.8
 ---
 

@@ -4,7 +4,7 @@ done:
 latitude: 42.862
 loc_type: city
 longitude: -112.4506
-score: 6.86
+score: 4.076
 snippet: Eastern Idaho railroad and university city where the Snake River plain meets
   basalt hills.
 sources:
@@ -13,6 +13,10 @@ sources:
 - https://idahohighcountry.org/item/bannock-county-historical-museum/
 title: Pocatello
 type: location
+heritage: 3.015
+vibrancy: 2.527
+nature: 5.04
+off_the_beaten_track: 2.743
 ---
 
 Pocatello is not Idaho's prettiest town, but it is one of its most useful. It sits in the southeast of the state, where the high desert, rail lines, and old Oregon Trail routes meet the foothills above the Portneuf Valley. Idaho State University gives it more life than you might expect from a highway stop.

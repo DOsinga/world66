@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:San_juan_del_sur.jpg
 latitude: 11.2527
 loc_type: city
 longitude: -85.8709
-score: 7.6
+score: 5.564
 snippet: Pacific fishing town turned surf base, wrapped around a crescent bay near
   Nicaragua's Costa Rican border.
 title: San Juan del Sur
 type: location
+heritage: 3.382
+vibrancy: 4.227
+nature: 6.582
+off_the_beaten_track: 4.806
 ---
 
 **San Juan del Sur** is a small fishing town on Nicaragua's Pacific coast, about 140 km south of Managua and close to the Costa Rican border. It was for a brief period in the 1850s one of the busiest ports in the Americas — the Atlantic–Pacific route across Nicaragua, running from Greytown on the Caribbean up the Rio San Juan to Lake Nicaragua and then by stagecoach over the 20 km to San Juan del Sur, was a key shortcut for gold-rush travellers heading from New York to California before the Panama Canal was built. That lively moment passed, and for a century San Juan del Sur was back to being a fishing village. In the past twenty years it has reinvented itself again, this time as the **surfing capital of Nicaragua** and the country's most popular beach destination for international travellers.

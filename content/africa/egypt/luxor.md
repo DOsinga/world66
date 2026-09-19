@@ -16,7 +16,7 @@ quick_facts:
   Karnak Built Over: 2,000 years
   Open-Air Museum: World's largest
   Royal Tombs: 60+ in the Valley
-score: 9.51
+score: 6.765
 snippet: Nile city built over ancient Thebes, with Karnak, Luxor Temple, and West
   Bank necropolises nearby.
 tip: 'Luxor splits in two: the temples (Karnak, Luxor) on the East Bank of the living,
@@ -25,6 +25,10 @@ tip: 'Luxor splits in two: the temples (Karnak, Luxor) on the East Bank of the l
   Theban necropolis is the splurge worth making.'
 title: Luxor
 type: location
+heritage: 8.597
+vibrancy: 4.257
+nature: 4.573
+off_the_beaten_track: 2.829
 ---
 
 Luxor is built on top of ancient Thebes, and the weight of that history is everywhere. This was the capital of Egypt during the New Kingdom — arguably the most powerful civilization in the ancient world — and what remains is staggering: two enormous temple complexes on the East Bank, and across the Nile, an entire necropolis carved into the limestone cliffs of the West Bank. Few places on earth have this density of monumental architecture.

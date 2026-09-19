@@ -4,10 +4,15 @@ type: location
 loc_type: city
 latitude: 41.7601
 longitude: -70.0828
-score: 6.6
-snippet: Quiet Cape Cod town on Route 6A, with bay beaches, pine ponds, museums, and old mills.
+score: 5.326
+snippet: Quiet Cape Cod town on Route 6A, with bay beaches, pine ponds, museums, and
+  old mills.
 source: Wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Brewster_(Massachusetts)
+heritage: 4.366
+vibrancy: 4.582
+nature: 6.041
+off_the_beaten_track: 1.54
 ---
 
 Brewster is one of the calmer Route 6A towns on [Cape Cod](/northamerica/unitedstates/massachusetts/capecod). It does not have Provincetown's theatre or Chatham's polish, but it has a good Cape mix: bay-side light, old houses, galleries, kettle ponds, and bike paths through pine woods.

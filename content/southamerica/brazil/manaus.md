@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Manaus_amazonas.jpg
 latitude: -3.131633
 loc_type: city
 longitude: -59.982504
-score: 8.16
+score: 6.492
 snippet: Amazon river city at the Negro and Solimões meeting point, built on rubber-boom
   wealth.
 title: Manaus
 type: location
+heritage: 4.448
+vibrancy: 6.496
+nature: 6.48
+off_the_beaten_track: 5.863
 ---
 
 Manaus is located at Negro River, just 10 kilometres upstream from the point this river meets the Solimoes to form the Amazon. When in the area you should pay a visit to this point for the mingling of black and yellow water from the two rivers is really a sight worth seeing.

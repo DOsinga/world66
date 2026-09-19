@@ -7,11 +7,15 @@ done:
 latitude: 44.2312
 loc_type: city
 longitude: -76.486
-score: 7.45
+score: 4.754
 title: Kingston
 type: location
 snippet: Ontario limestone city where Lake Ontario, the St. Lawrence, and the Rideau
   Canal meet.
+heritage: 4.021
+vibrancy: 4.309
+nature: 5.287
+off_the_beaten_track: 2.64
 ---
 
 Kingston sits at the point where Lake Ontario meets the St. Lawrence River, with the mouth of the Rideau Canal just above it — a geography that made it strategically vital and historically rich. It was Canada's first capital city after Confederation in 1841, and the limestone buildings from that era give downtown a solidity and grandeur unusual for a mid-sized Ontario city.

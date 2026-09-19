@@ -1,12 +1,16 @@
 ---
-latitude: 25.6030
+latitude: 25.603
 loc_type: feature
-longitude: -109.0540
-score: 7.3
+longitude: -109.054
+score: 4.869
 snippet: Vast enclosed bay on Sinaloa's Pacific coast, rich in dolphins, mangroves,
   and seabirds, with ferry connections to Baja California.
 title: Bahía de Topolobampo
 type: location
+heritage: 1.859
+vibrancy: 2.044
+nature: 6.282
+off_the_beaten_track: 4.143
 ---
 
 Bahía de Topolobampo is one of the largest natural bays on Mexico's Pacific coast — a vast enclosed harbour protected from the open sea by a chain of barrier islands. The water is deep enough to accommodate cargo ships and cruise liners, which is why Topolobampo grew into a serious port, yet the bay remains rich in wildlife. Dolphins are a near-daily sight in the main channel, and the mangroves lining the northern shore shelter herons, egrets, roseate spoonbills, and large numbers of migratory shorebirds in winter.

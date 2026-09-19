@@ -5,7 +5,7 @@ done:
 latitude: 45.4397
 loc_type: city
 longitude: 4.3872
-score: 7.06
+score: 6.184
 snippet: Former Loire industrial city where coal and arms factories have given way
   to serious modern art
 sources:
@@ -18,6 +18,10 @@ image: stetienne.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Castelginest_-_%C3%89glise_Saint-%C3%89tienne.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Didier Descouens
+heritage: 5.131
+vibrancy: 3.788
+nature: 7.411
+off_the_beaten_track: 4.075
 ---
 
 Saint-Étienne is a former industrial city in the Loire valley, about 60 km southwest of [Lyon](/europe/france/alpes/lyon). It built its wealth on coal, steel, and arms manufacturing — the city once produced weapons for Napoleon's armies — and the traces of that past are everywhere, from the grid of workers' terraces to the great factory sheds now repurposed as cultural spaces.

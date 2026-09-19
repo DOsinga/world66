@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_in_Bantayan_Island.j
 latitude: 11.16669
 loc_type: city
 longitude: 123.718882
-score: 7.74
+score: 4.763
 snippet: Island municipality off northern Cebu, known for Santa Fe's white-sand beaches
   and slower island pace
 title: Bantayan
 type: location
+heritage: 2.832
+vibrancy: 3.546
+nature: 5.669
+off_the_beaten_track: 3.566
 ---
 
 Bantayan is an island municipality off the northern tip of Cebu, reached by a ferry crossing from Hagnaya Wharf. It is far quieter than the resort strip around Cebu City, and its beaches — particularly the long white-sand stretch at Santa Fe's [Kota Beach](/asia/philippines/cebu/bantayan/kota_beach) — are among the finest in the Visayas. The water is shallow and calm, the crowds are manageable outside Holy Week, and the pace is resolutely unhurried.

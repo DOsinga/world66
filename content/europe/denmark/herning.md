@@ -1,16 +1,21 @@
 ---
 attribution:
-  - https://en.wikivoyage.org/wiki/Herning
-  - https://www.visitherning.com/herning/things-do/heart-herning-museum-contemporary-art-gdk607417
+- https://en.wikivoyage.org/wiki/Herning
+- https://www.visitherning.com/herning/things-do/heart-herning-museum-contemporary-art-gdk607417
 done:
   wikivoyage_missing_locations: '2026-06-27'
 latitude: 56.1333
 loc_type: city
 longitude: 8.9833
-score: 6.6
-snippet: Central Jutland textile town turned art-and-event city, with a striking museum cluster at Birk.
+score: 3.409
+snippet: Central Jutland textile town turned art-and-event city, with a striking museum
+  cluster at Birk.
 title: Herning
 type: location
+heritage: 3.566
+vibrancy: 3.375
+nature: 3.161
+off_the_beaten_track: 1.89
 ---
 
 Herning sits in central Jutland, a practical Danish town whose old textile wealth has been turned into art, events, and sport. It is not a postcard town, and that is useful to know before you come. The best parts are specific: a serious contemporary-art cluster at Birk, a huge fair and arena complex, and the flat heathland sense of being in the middle of Jutland.

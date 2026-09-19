@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_Kish_Island_Iran.jpg
 latitude: 26.535066
 loc_type: city
 longitude: 53.97198
-score: 7.22
+score: 4.388
 title: Kish island
 type: location
 snippet: Persian Gulf coral island and Iranian free-trade resort, known for beaches
   and a looser holiday atmosphere.
+heritage: 3.144
+vibrancy: 4.596
+nature: 3.852
+off_the_beaten_track: 1.942
 ---
 
 Kish is Iran's answer to a beach resort — a small coral island in the Persian Gulf, about 20 kilometres off the southern coast, that operates as a free-trade zone and visa-free destination. That last detail matters: you can visit Kish without an Iranian visa, which makes it accessible to travelers who might otherwise find Iran's entry requirements daunting.

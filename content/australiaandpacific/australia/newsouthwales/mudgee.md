@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mudgee,_New_South_Wales,_C
 latitude: -32.6125
 loc_type: city
 longitude: 149.587222
-score: 6.8
+score: 4.467
 snippet: Central West wine town with gold-era streets, cellar doors, and sandstone
   gorge walks nearby.
 sources:
@@ -20,6 +20,10 @@ sources:
 title: Mudgee
 type: location
 wikidata: Q59819
+heritage: 3.185
+vibrancy: 3.564
+nature: 5.201
+off_the_beaten_track: 3.129
 ---
 
 Mudgee is a Central West town that has turned its old wool, gold, and railway bones into one of inland New South Wales' better food and wine bases. The name comes up often as a weekend escape from Sydney, but it does not feel like a resort strip. It still has a working country-town centre, broad streets, pubs, and handsome 19th-century buildings.

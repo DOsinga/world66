@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Washington_State_Capitol_a
 latitude: 47.045102
 loc_type: city
 longitude: -122.895008
-score: 7.07
+score: 4.92
 snippet: Puget Sound state capital with an independent college-town streak and views
   toward the Olympics.
 title: Olympia
 type: location
+heritage: 2.979
+vibrancy: 4.012
+nature: 5.687
+off_the_beaten_track: 2.034
 ---
 
 Olympia is the capital of Washington State, sitting at the southern tip of Puget Sound. It is a small city — around 55,000 people — with a college-town vibe driven by the presence of Evergreen State College and a strong independent streak in its politics, art, and food scenes.

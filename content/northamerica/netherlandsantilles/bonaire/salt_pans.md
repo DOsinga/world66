@@ -8,10 +8,14 @@ tags:
 latitude: 12.0567
 longitude: -68.2589
 snippet: "Pink salt pans and flamingo breeding ground in the south"
-story: "The four obelisks standing on the salt flats — white, blue, red, and orange — were colour-coded markers used in the slavery era to direct anchored ships to the right loading dock. Each colour identified a different grade of salt. The slave huts beside them, tiny stone shelters where the salt workers slept, still stand on the seaward side of the road."
 score: 7.6
+sources:
+  - https://bonaireisland.com/experiences/sightseeing/sites/salt-pans/
+  - https://stinapabonaire.org/bonaire-national-marine-park/ramsar-sites/
 ---
 
-The flat southern third of Bonaire is one vast salt pan, divided into evaporation ponds that produce sodium chloride for de-icing roads, cattle feed, and industry. Cargill operates the works today. The ponds glow pink from the brine-tolerant algae, and the colour gets stronger toward harvest in spring. Conical white salt mountains rise beside the loading pier.
+The southern end of Bonaire is an industrial landscape on an extraordinary scale: shallow evaporation ponds shift from blue to rust and pink, white salt mountains rise beside the loading works, and a narrow public road runs between the pans and the sea. Salt is still produced here, so barriers and warning signs mark working ground rather than an open nature reserve.
 
-The eastern edge of the pans is a designated flamingo sanctuary — one of only four breeding sites in the Caribbean. The birds nest from January to July; the public road skirts the reserve, and you can see hundreds of pink dots in the heat haze across the brine flats. Bring binoculars and don't approach the fence.
+Pekelmeer and the protected sanctuary support Caribbean flamingos, but they are often distant and numbers vary. Bring binoculars and use roadside pull-offs without crossing the fence. The pink water is caused by salt-loving microorganisms, not by the flamingos.
+
+The salt road also passes the [slave huts and obelisks](/northamerica/netherlandsantilles/bonaire/slave_huts_and_obelisks). Stop there separately: the small stone shelters explain who once carried out the brutal labour behind the serene-looking pans.

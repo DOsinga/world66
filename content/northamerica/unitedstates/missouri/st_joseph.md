@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 39.7581
 longitude: -94.8367
-score: 6.86
+score: 3.828
 snippet: Missouri River city where the Pony Express began and Jesse James met his
   end.
 wikidata: Q745120
@@ -18,6 +18,10 @@ image: st_joseph.jpg
 image_source: https://commons.wikimedia.org/wiki/File:St_Joseph_Missouri_skyline.jpg
 image_license: CC BY-SA 2.5
 image_attribution: Tim Kiser (w:User:Malepheasant)
+heritage: 4.894
+vibrancy: 2.35
+nature: 2.27
+off_the_beaten_track: 1.81
 ---
 
 St. Joseph sits on the Missouri River north of [Kansas City](/northamerica/unitedstates/missouri/kansascity), and its best stories belong to the restless nineteenth-century West. This was where the Pony Express began in 1860, where emigrants outfitted themselves before pushing onto the plains, and where Jesse James was shot in 1882 after years as America's most famous outlaw.

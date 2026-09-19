@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -42.755278
 longitude: 146.626667
-score: 6.5
+score: 5.751
 snippet: Derwent Valley village for mountain biking, pedal rail rides, and cave-country
   walks.
 sources:
@@ -16,6 +16,10 @@ image: maydena.jpg
 image_source: https://commons.wikimedia.org/wiki/File:IMG_2146_Tasmania_Highlands_Center_Maydena_Village_(5214917646).jpg
 image_license: CC BY 2.0
 image_attribution: DANIEL JULIE from Paris, France
+heritage: 2.431
+vibrancy: 1.13
+nature: 7.493
+off_the_beaten_track: 4.658
 ---
 
 Maydena is a tiny forestry village west of Hobart, close to the rainforest and karst country around Mount Field. It is not a polished resort town, and that is part of the point: a few streets, wet forest, mountain air, and enough oddball activity to justify the drive if you like the outdoors.

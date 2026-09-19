@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Wormser_Dom_Seitenansicht.
 latitude: 49.6305
 loc_type: city
 longitude: 8.3636
-score: 7.72
+score: 4.399
 snippet: Rhine cathedral city with Roman roots, Nibelungen lore, Reformation history,
   and an ancient Jewish quarter.
 title: Worms
 type: location
+heritage: 4.414
+vibrancy: 3.618
+nature: 4.947
+off_the_beaten_track: 3.935
 ---
 
 Worms is a small city on the left bank of the Rhine in the Rhineland-Palatinate, roughly halfway between Mannheim and Mainz. The unfortunate English name aside — it has nothing to do with worms, and is pronounced "Vorms" in German — this is one of the oldest continuously inhabited cities in Germany, and one of the most historically weighty for its size. It was a Celtic settlement, then a Roman garrison town called Borbetomagus, then the Burgundian capital before being destroyed by the Huns in the 5th century (the event that forms the backdrop of the Nibelungenlied, the German medieval epic). It was later a Holy Roman imperial city, the site of more than a hundred imperial diets, and — most famously — the place where Martin Luther refused to recant his Reformation writings before Emperor Charles V in 1521.

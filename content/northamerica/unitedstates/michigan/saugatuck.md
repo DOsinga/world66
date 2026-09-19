@@ -2,16 +2,21 @@
 title: Saugatuck
 type: location
 loc_type: city
-latitude: 42.6550
+latitude: 42.655
 longitude: -86.2019
-score: 7.4
-snippet: Lake Michigan art-and-beach town known for Oval Beach, dunes, and a hand-cranked ferry.
+score: 5.565
+snippet: Lake Michigan art-and-beach town known for Oval Beach, dunes, and a hand-cranked
+  ferry.
 wikidata: Q2686437
 sources:
-  - https://www.michigan.org/city/saugatuck
-  - https://www.michigan.org/property/mount-baldhead-and-oval-beach-recreation-area
-  - https://www.saugatuckcity.com/chain-ferry.html
-  - https://www.michigan.gov/recsearch/parks/saugatuck
+- https://www.michigan.org/city/saugatuck
+- https://www.michigan.org/property/mount-baldhead-and-oval-beach-recreation-area
+- https://www.saugatuckcity.com/chain-ferry.html
+- https://www.michigan.gov/recsearch/parks/saugatuck
+heritage: 2.72
+vibrancy: 3.856
+nature: 6.763
+off_the_beaten_track: 2.23
 ---
 
 Saugatuck is one of the better small towns on Michigan's Lake Michigan shore, and it earns that reputation by being more than a strip of sand. The Kalamazoo River, wooded dunes, galleries, summer theatre, and a compact downtown give it a real shape. It is polished and busy in season, but not empty behind the postcard.

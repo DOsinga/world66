@@ -1,11 +1,10 @@
 ---
-latitude: 38.724444
-longitude: -9.152778
+latitude: 38.7282
+longitude: -9.153
 snippet: Lisbon's largest central park with city views and tropical glasshouses
 tags:
 - things_to_do
 - landmark
-- bairro_alto
 title: Parque Eduardo VII
 type: poi
 score: 6.2

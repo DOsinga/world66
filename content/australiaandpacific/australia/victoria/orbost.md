@@ -2,15 +2,20 @@
 title: Orbost
 type: location
 loc_type: city
-latitude: -37.7000
-longitude: 148.4500
-score: 6.8
-snippet: East Gippsland Snowy River town with rail-trail history, forest walks, and coastal backroads.
+latitude: -37.7
+longitude: 148.45
+score: 4.458
+snippet: East Gippsland Snowy River town with rail-trail history, forest walks, and
+  coastal backroads.
 wikidata: Q2028572
 sources:
-  - https://en.wikivoyage.org/wiki/Orbost
-  - https://www.visitgippsland.com.au/destinations/east-gippsland/orbost
-  - https://www.exploreoutdoors.vic.gov.au/regions/gippsland/orbost
+- https://en.wikivoyage.org/wiki/Orbost
+- https://www.visitgippsland.com.au/destinations/east-gippsland/orbost
+- https://www.exploreoutdoors.vic.gov.au/regions/gippsland/orbost
+heritage: 2.959
+vibrancy: 3.18
+nature: 5.374
+off_the_beaten_track: 2.271
 ---
 
 Orbost is a small East Gippsland town on the Snowy River, inland from Marlo and the coast. It looks like a service stop on the Princes Highway, but it has enough local texture for a spare day: river flats, timber history, the East Gippsland Rail Trail, and access to pockets of rainforest and palm country that feel far removed from the dry inland road.

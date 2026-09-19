@@ -14,7 +14,7 @@ quick_facts:
   Livraria Lello: Inspired Harry Potter
   Population: 230,000
   Port Wine: Named after the city
-score: 9.47
+score: 7.991
 snippet: Granite Douro city of tiled facades, iron bridges, and port-wine cellars
   across the river.
 tip: Cross the Dom Luís I bridge to Vila Nova de Gaia, where the port-wine cellars
@@ -23,6 +23,10 @@ tip: Cross the Dom Luís I bridge to Vila Nova de Gaia, where the port-wine cell
   Harry Potter and now charges entry. Try a francesinha if you dare; it's enormous.
 title: Porto
 type: location
+heritage: 7.193
+vibrancy: 8.355
+nature: 4.884
+off_the_beaten_track: 1.773
 ---
 
 Porto is Portugal's second city and, in many ways, its most honest one. As the Portuguese saying goes: "Lisbon shows off, Braga prays, Coimbra studies, and Porto works." It is a place that has never tried to be pretty for visitors, yet its unvarnished beauty — crumbling azulejo facades, granite churches, iron bridges spanning the Douro gorge — makes it one of Europe's most rewarding cities.

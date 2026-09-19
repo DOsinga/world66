@@ -1,13 +1,14 @@
 ---
 image: aydincik.jpg
-image_attribution: "Nur Çağlar"
+image_attribution: Nur Çağlar
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Gilindire_cave_lake.jpg
 latitude: 36.1452033
 loc_type: city
 longitude: 33.3224232
-score: 6.1
-snippet: Small Cilician coast town near Gilindire Cave and the remains of ancient Kelenderis.
+score: 4.764
+snippet: Small Cilician coast town near Gilindire Cave and the remains of ancient
+  Kelenderis.
 sources:
 - https://en.wikivoyage.org/wiki/Ayd%C4%B1nc%C4%B1k
 - https://www.wikidata.org/wiki/Q583185
@@ -16,6 +17,10 @@ sources:
 title: Aydıncık
 type: location
 wikidata: Q583185
+heritage: 3.054
+vibrancy: 1.638
+nature: 5.87
+off_the_beaten_track: 4.96
 ---
 
 Aydıncık is a small town on Turkey's rougher, quieter Cilician coast, between Silifke and Anamur. The modern highway now slips past it, which leaves the harbour, beach, and old centre with a sleepy feel that suits the place.

@@ -5,11 +5,15 @@ done:
 latitude: 35.262265
 loc_type: city
 longitude: -81.183819
-score: 5.87
+score: 1.778
 snippet: Gaston County city west of Charlotte, marked by textile history and nearby
   Kings Mountain battlefields.
 title: Gastonia
 type: location
+heritage: 1.958
+vibrancy: 1.723
+nature: 1.653
+off_the_beaten_track: 1.514
 ---
 
 Gastonia sits just west of [Charlotte](/northamerica/unitedstates/northcarolina/charlotte) in Gaston County, an area settled by German and Scotch-Irish pioneers along the Catawba and South Fork Rivers in the late 1700s. The Battle of Kings Mountain, a turning point in the Revolutionary War, was fought about 20 miles away.

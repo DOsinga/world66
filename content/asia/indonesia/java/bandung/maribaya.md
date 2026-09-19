@@ -1,14 +1,14 @@
 ---
-title: Maribaya and Tebing Keraton
-type: poi
-tags:
-  - day_trips
-  - nature
-  - hiking
-snippet: Forest waterfall and clifftop viewpoint above the Dago plateau
 latitude: -6.8267
 longitude: 107.6541
 score: 7.1
+snippet: Forest waterfall and clifftop viewpoint above the Dago plateau
+tags:
+- things_to_do
+- nature
+- hiking
+title: Maribaya and Tebing Keraton
+type: poi
 ---
 
 Maribaya is a forested park in the hills above Lembang, with two waterfalls (Curug Maribaya and Curug Cikoleang), a cluster of warm pools, and trails through pine and bamboo forest. The wooden walkways and lit night-trail "Orchid Forest" extension are reasonably done. Most visitors stop here as part of the wider Dago Pakar circuit.

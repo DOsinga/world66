@@ -2,7 +2,7 @@
 latitude: 45.2167
 loc_type: city
 longitude: -72.5167
-score: 6.8
+score: 4.579
 snippet: Eastern Townships lake town anchored by Knowlton's Loyalist village core
   and gentle country roads.
 sources:
@@ -17,6 +17,10 @@ image: lac_brome.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Brome_Lake_20190823_154004.jpg
 image_license: CC BY-SA 4.0
 image_attribution: NewtonCourt
+heritage: 3.013
+vibrancy: 2.392
+nature: 5.82
+off_the_beaten_track: 2.45
 ---
 
 Lac-Brome is the kind of Eastern Townships place that works best at a slow pace: a lake, a ring of small villages, wooded roads, vineyards, and the old Loyalist centre of Knowlton. It is not a big-ticket destination, but it has enough texture for a satisfying day if you are already in southern Quebec.

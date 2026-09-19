@@ -10,11 +10,15 @@ image_source: HP Harmsen
 latitude: -1.3312
 loc_type: city
 longitude: 31.8126
-score: 6.54
+score: 5.826
 snippet: Tanzanian town on Lake Victoria's western shore, capital of Kagera and centre
   of Bahaya banana-and-coffee country.
 title: Bukoba
 type: location
+heritage: 3.093
+vibrancy: 4.224
+nature: 6.99
+off_the_beaten_track: 5.598
 ---
 
 Bukoba is on the western shore of Lake Victoria in the extreme northwest of Tanzania, the regional capital of the Kagera region, which borders Uganda to the north, Rwanda to the west, and Burundi to the southwest. The town has a population of about 100,000 and the wider Kagera region over one million. The main ethnic group are the Bahaya; most people in town speak Swahili, and basic English is understood in shops and hotels. Agriculture is the primary occupation, coffee the main commercial product, and matoke — large green bananas roasted or steamed — the dietary staple.

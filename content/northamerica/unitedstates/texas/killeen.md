@@ -5,10 +5,14 @@ done:
 latitude: 31.1171
 loc_type: city
 longitude: -97.7278
-score: 5.59
+score: 2.022
 snippet: Central Texas military city shaped by Fort Cavazos and nearby lake country.
 title: Killeen
 type: location
+heritage: 1.78
+vibrancy: 2.092
+nature: 1.842
+off_the_beaten_track: 1.302
 ---
 
 Killeen sits in central Texas, about an hour north of Austin, in the shadow of Fort Cavazos — the largest military installation in the United States. The town exists largely to serve the base, and that shapes everything about it: the demographics, the pace, the economy. It isn't a destination in the usual sense, but if you're passing through or visiting someone stationed here, there's more to do than you might expect.

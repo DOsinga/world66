@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:B%C3%BCki_Gy%C3%B3gyf%C3%B
 latitude: 47.383396
 loc_type: city
 longitude: 16.753305
-score: 6.95
+score: 3.143
 snippet: Western Hungarian village near Austria, known for the mineral pools of Bükfürdő
   thermal spa
 title: Bük
 type: location
+heritage: 3.468
+vibrancy: 2.127
+nature: 3.401
+off_the_beaten_track: 1.729
 ---
 
 Bük is a small village of about 3,000 people in western Hungary, close to the Austrian border between Szombathely and Sopron. It is known almost exclusively for its thermal baths, which rank among the best in a country that takes thermal bathing seriously.

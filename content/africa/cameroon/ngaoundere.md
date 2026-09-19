@@ -5,11 +5,15 @@ done:
 latitude: 7.321154
 loc_type: city
 longitude: 13.587821
-score: 5.9
+score: 4.02
 snippet: Northern Cameroonian rail terminus and highland crossroads for Bénoué National
   Park and the far north.
 title: Ngaoundéré
 type: location
+heritage: 3.743
+vibrancy: 4.156
+nature: 1.994
+off_the_beaten_track: 3.761
 ---
 
 Ngaoundéré is the northern terminus of the railway from Yaoundé, some 800 kilometres southwest, and a natural stop on the way to [Bénoué National Park](/africa/cameroon/benouepark) or Maroua in the far north of [Cameroon](/africa/cameroon). The arrival of the overnight Camrail train at [Ngaoundéré Central Station](/africa/cameroon/ngaoundere/ngaoundere_central_station) is the main event in town most mornings.

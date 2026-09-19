@@ -1,20 +1,20 @@
 ---
-title: Buffalo Bill Grave and Museum
-type: poi
-tags:
-- day_trips
-- sight
-- museum
+image: buffalo_bill_grave.jpg
+image_attribution: Jami Dwyer from Portland, OR, USA
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Buffalo_Bill_Museum,_Lookout_Mountain,_2006.jpg
 latitude: 39.7339
 longitude: -105.2392
+score: 7.4
 story: Cody's family fought a long battle with the city of Cody, Wyoming, over the
   location of the grave, which Denver businessmen secured for the city after his death
   in 1917 by pouring concrete over the grave to deter Cody-led grave robbers.
-score: 7.4
-image: buffalo_bill_grave.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Buffalo_Bill_Museum,_Lookout_Mountain,_2006.jpg
-image_license: CC BY-SA 2.0
-image_attribution: Jami Dwyer from Portland, OR, USA
+tags:
+- things_to_do
+- sight
+- museum
+title: Buffalo Bill Grave and Museum
+type: poi
 ---
 
 On Lookout Mountain above Golden, the grave and modest museum of William F. "Buffalo Bill" Cody is one of the strangest must-stops on the Front Range. Cody, the Pony Express rider, Union scout, buffalo hunter and Wild West showman who effectively invented America's myth of itself, asked to be buried with a view; from the grave site the prairie opens out to the east for a hundred miles.

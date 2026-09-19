@@ -30,5 +30,5 @@ Each of the four prefectures has its own capital city and its own character. **[
 - [Kotohira](/asia/japan/shikoku/kotohira)
 - [Uwajima](/asia/japan/shikoku/uwajima)
 - [Marugame](/asia/japan/shikoku/marugame)
-- [Ehime](/asia/japan/shikoku/ehime)
+- [Ehime](/asia/japan/shikoku/matsuyama)
 - [Hiwasa (Tokushima)](/asia/japan/shikoku/hiwasa_tokushima)

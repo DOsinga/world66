@@ -5,8 +5,9 @@ tags:
   - things_to_do
   - sight
   - architecture
-latitude: 39.9374
-longitude: 116.3871
+  - gulou
+latitude: 39.9393176
+longitude: 116.3897454
 story: >
   The drums in the tower were beaten 108 times each evening at dusk — 108 being an auspicious number in Buddhism — to signal the closing of the city gates and the beginning of the night curfew. The same rhythm was repeated at dawn to open the gates. For centuries, these two towers were the timekeepers of Beijing.
 score: 6.3

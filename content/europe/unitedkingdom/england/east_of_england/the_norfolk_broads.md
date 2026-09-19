@@ -4,7 +4,7 @@ done:
 latitude: 52.6307
 loc_type: feature
 longitude: 1.55
-score: 7.93
+score: 5.425
 snippet: Protected English wetland of navigable rivers, flooded medieval peat diggings,
   reedbeds, and hire-boat villages
 title: The Norfolk Broads
@@ -13,6 +13,10 @@ image: the_norfolk_broads.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Barton_Broad,_Norfolk.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Mike Hudson
+heritage: 4.766
+vibrancy: 2.464
+nature: 6.388
+off_the_beaten_track: 2.794
 ---
 
 The Norfolk Broads is England's largest protected wetland and one of its most distinctive landscapes — a place that most visitors arrive at by boat and many never want to leave. Formed by medieval peat diggings that flooded over centuries, the Broads now comprise around 125 miles of navigable waterways: rivers, lakes (called broads), and drainage channels spread across Norfolk and into neighbouring Suffolk.
@@ -21,4 +25,4 @@ The area carries National Park status and is a haven for wildlife. Otters are ma
 
 The main access towns are Wroxham (the self-styled "capital of the Broads") and Potter Heigham, where a low medieval bridge limits which boats can pass. Boat hire is available from several points along the river system, including the village of Loddon in the south. If you prefer dry land, walking and cycling trails run alongside many of the waterways, and the Wherryman's Way long-distance footpath follows the River Yare from Norwich to Great Yarmouth.
 
-[Great Yarmouth](/europe/unitedkingdom/england/norfolk/greatyarmouth) and Lowestoft lie at the southern end of the system, while the Broads extend north towards North Walsham and west towards [Norwich](/europe/unitedkingdom/norfolk/norwich), where the River Yare is navigable into the city itself. The pace of life on the water is slow and deliberate — this is a place for drifting, watching herons, and stopping for lunch at a riverside pub.
+[Great Yarmouth](/europe/unitedkingdom/england/east_of_england/greatyarmouth) and Lowestoft lie at the southern end of the system, while the Broads extend north towards North Walsham and west towards [Norwich](/europe/unitedkingdom/norfolk/norwich), where the River Yare is navigable into the city itself. The pace of life on the water is slow and deliberate — this is a place for drifting, watching herons, and stopping for lunch at a riverside pub.

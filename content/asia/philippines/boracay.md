@@ -9,12 +9,16 @@ image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Boracay_Island,_Philippines_-_panoramio.jpg
 latitude: 11.969369
 longitude: 121.922734
-score: 9.26
+score: 7.169
 title: Boracay
 type: location
 snippet: Philippine island resort known for White Beach, clear shallow water, and
   hilly tropical scenery.
 loc_type: city
+heritage: 0.478
+vibrancy: 7.782
+nature: 5.586
+off_the_beaten_track: 1.759
 ---
 
 Travel Guide

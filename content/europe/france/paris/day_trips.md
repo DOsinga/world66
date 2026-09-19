@@ -1,7 +1,8 @@
 ---
 linked_locations:
 - europe/france/nord/chantilly
-title: "Day Trips"
+- europe/france/normandybrittany/giverny
+title: Day Trips
 type: section
 ---
 
@@ -11,7 +12,7 @@ Paris is ideally placed for day trips. The Paris Basin is large and flat, the ra
 
 **[Chantilly](/europe/france/nord/chantilly)** (50km north) offers the Château de Chantilly with its remarkable art collection, the extraordinary baroque stables, and a great forest for walking. Fast train from Gare du Nord.
 
-**[Giverny — Monet's Gardens](/europe/france/paris/the_village_of_giv)** (80km north-west) is where Monet lived and created his famous water gardens. Train to Vernon from Gare Saint-Lazare, then a short taxi or bike ride. Worth the effort in May and June when the gardens are at their best.
+**[Giverny — Monet's Gardens](/europe/france/normandybrittany/giverny)** (80km north-west) is where Monet lived and created his famous water gardens. Train to Vernon from Gare Saint-Lazare, then a short taxi or bike ride. Worth the effort in May and June when the gardens are at their best.
 
 **Fontainebleau** (65km south-east) has a magnificent royal forest — the largest in France — and a château that was home to French kings from François I to Napoleon III. The forest has exceptional rock climbing and is popular with Parisian weekenders. RER D from Gare de Lyon, then a short bus ride.
 

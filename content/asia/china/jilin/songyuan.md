@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:%E6%9D%BE%E5%8E%9F%E5%B8%8
 latitude: 45.1388
 loc_type: city
 longitude: 124.808
-score: 5.52
+score: 2.336
 snippet: Jilin river city at the Songhua-Nen confluence, with Fuyu, Bohai, and petroleum-era
   history.
 sources:
 - https://en.wikivoyage.org/wiki/Songyuan
 title: Songyuan
 type: location
+heritage: 1.758
+vibrancy: 1.614
+nature: 2.835
+off_the_beaten_track: 2.573
 ---
 
 Songyuan sits at the [confluence of the Songhua and Nen Rivers](/asia/china/jilin/songyuan/songhua_nen_confluence) in the northern flatlands of Jilin Province, a position that gave it strategic value in the agricultural and trading economy of the northeast and accounts for the infrastructure investment that arrived in the early twentieth century. The city has Neolithic foundations — archaeological finds confirm human habitation going back thousands of years — and was part of the ancient Fuyu and Bohai states before the region was incorporated into successive Chinese imperial systems. The [Boduna Fortress](/asia/china/jilin/songyuan/boduna_fortress), established in 1693, survives as a remnant of this long history.

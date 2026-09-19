@@ -13,7 +13,7 @@ quick_facts:
   Niemeyer: Designed its white landmarks
   Population: ~3 million
   Shaped Like: An aeroplane from above
-score: 7.79
+score: 5.417
 snippet: Purpose-built Brazilian capital of Niemeyer curves, monumental axes, and
   vast modernist government spaces
 tip: Brasília was built from nothing in just 41 months and inaugurated in 1960 — a
@@ -23,6 +23,10 @@ tip: Brasília was built from nothing in just 41 months and inaugurated in 1960 
   with little street life.
 title: Brasilia
 type: location
+heritage: 5.16
+vibrancy: 5.555
+nature: 3.409
+off_the_beaten_track: 1.57
 ---
 
 Brasília is Brazil's purpose-built capital, a city that exists because someone decided it should. Inaugurated in 1960, it was designed by urbanist Lúcio Costa and architect Oscar Niemeyer as a modernist utopia — a city shaped like an aeroplane when seen from above, with monumental government buildings, sweeping concrete curves, and vast open spaces where most capitals would have narrow streets.

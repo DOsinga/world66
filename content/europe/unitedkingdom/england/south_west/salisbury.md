@@ -5,7 +5,7 @@ done:
 latitude: 51.069061
 loc_type: city
 longitude: -1.795413
-score: 8.23
+score: 6.647
 sources:
 - https://en.wikipedia.org/wiki/Salisbury
 - https://en.wikipedia.org/wiki/Salisbury_Cathedral
@@ -17,6 +17,10 @@ image: salisbury.jpg
 image_source: https://commons.wikimedia.org/wiki/File:View_across_water_meadows_to_Salisbury_Cathedral_-_geograph.org.uk_-_4097134.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Philip Halling
+heritage: 7.962
+vibrancy: 5.166
+nature: 4.126
+off_the_beaten_track: 1.914
 ---
 
 Salisbury is a compact cathedral city in Wiltshire where the medieval skyline still belongs entirely to the church. The spire of Salisbury Cathedral rises to 123 metres — the tallest in England — and is visible for miles across the surrounding chalk downland. On a clear day you can see it from Old Sarum, the Iron Age hillfort north of town where the original settlement stood before the city moved to its present site in the thirteenth century.
@@ -25,4 +29,4 @@ The cathedral close is one of the finest in England: a walled precinct of Georgi
 
 The old town beyond the close rewards aimless wandering. The Market Place has been the commercial heart of Salisbury since the thirteenth century and still runs markets on Tuesdays and Saturdays. The medieval Poultry Cross at the market's edge is one of only four surviving market crosses in England. Half-timbered buildings cluster along the lanes nearby, including the fifteenth-century Hall of John Halle, now the foyer of the cinema on New Canal.
 
-Salisbury is the obvious base for visiting [Stonehenge](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/stonehenge), just fourteen kilometres north-west. But do not overlook the stone circle at [Avebury](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/avebury) — less famous but in many ways more impressive, since you can walk among the stones.
+Salisbury is the obvious base for visiting [Stonehenge](/europe/unitedkingdom/england/south_west/stonehenge), just fourteen kilometres north-west. But do not overlook the stone circle at [Avebury](/europe/unitedkingdom/england/south_west/avebury) — less famous but in many ways more impressive, since you can walk among the stones.

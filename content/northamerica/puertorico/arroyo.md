@@ -2,7 +2,7 @@
 latitude: 17.9658
 loc_type: city
 longitude: -66.0614
-score: 6.35
+score: 4.359
 snippet: Southern Puerto Rican seaside town with telegraph history, sugar ruins, beaches,
   and a weathered lighthouse.
 sources:
@@ -15,6 +15,10 @@ image: arroyo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Faro_de_Punta_de_las_Figuras_south_-_Arroyo_Puerto_Rico.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Ian Poellet
+heritage: 2.787
+vibrancy: 2.126
+nature: 5.575
+off_the_beaten_track: 2.747
 ---
 
 Arroyo is a small seaside town on Puerto Rico's south coast, just east of Guayama. It is not a polished resort town, and that is part of its appeal. The waterfront is local, the beaches are low-key, and the town's history turns up in odd places: an old customs house, sugar ruins, and a monument to Samuel Morse, who helped introduce the telegraph to Puerto Rico here in the 1850s.

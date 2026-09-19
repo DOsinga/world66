@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 27.4389
 longitude: -80.3356
-score: 0.42
+score: 3.478
 snippet: Historic Treasure Coast city with a working waterfront, beaches, marine museums,
   and old Florida edges.
 sources:
@@ -14,6 +14,10 @@ image: fort_pierce.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Fort_Pierce_Inlet_State_Park.jpg
 image_license: CC BY-SA 4.0
 image_attribution: JonathanPuello
+heritage: 2.182
+vibrancy: 2.093
+nature: 4.379
+off_the_beaten_track: 1.717
 ---
 
 *North America > United States > Florida > Fort Pierce*

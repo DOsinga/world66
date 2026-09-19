@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 51.2108
 longitude: -102.4635
-score: 6.1
-snippet: East-central Saskatchewan service city with prairie museums, public art, and Ukrainian settler roots.
+score: 3.127
+snippet: East-central Saskatchewan service city with prairie museums, public art,
+  and Ukrainian settler roots.
 sources:
 - https://en.wikivoyage.org/wiki/Yorkton
 - https://tourismyorkton.com/
 - https://www.tourismsaskatchewan.com/listings/24/godfrey-dean-art-gallery
 - https://www.yorktonflourmill.ca/history
+heritage: 3.618
+vibrancy: 1.74
+nature: 3.006
+off_the_beaten_track: 2.869
 ---
 
 Yorkton is the main service city of east-central Saskatchewan, set where prairie farm country starts to look toward Manitoba. It is not a glamorous stop, but it has more substance than a highway map suggests: immigrant settlement history, old grain-and-rail industry, public art, and one of the province's Western Development Museum branches.

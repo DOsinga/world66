@@ -11,7 +11,7 @@ Buses and shared minibuses (furgons) are the main way to get between towns. The 
 
 Kosovo is small enough that a car opens up the country considerably, especially for reaching monasteries, mountain villages, and the Rugova Gorge. Roads on the main corridors (Pristina–Prizren, Pristina–Peja, Pristina–Skopje border) are good — there has been heavy investment in infrastructure since independence. Secondary roads can be poor, poorly signed, and dangerous at night. A car can be hired in Pristina from international and local agencies; rates are reasonable.
 
-Driving from [Pristina](/europe/kosovo/pristina) to Prizren takes about 1 hour; Pristina to Peja about 1 hour 20 minutes.
+Driving from [Pristina](/europe/kosovo/pristina) to [Prizren](/europe/kosovo/prizren) takes about 1 hour; Pristina to [Peja](/europe/kosovo/peja) about 1 hour 20 minutes.
 
 ## Taxi
 

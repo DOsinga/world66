@@ -4,10 +4,15 @@ type: location
 loc_type: city
 latitude: 39.8017
 longitude: -83.8928
-score: 7.7
-snippet: Liberal Ohio village with Antioch College, independent shops, and wooded gorge walks nearby.
+score: 3.983
+snippet: Liberal Ohio village with Antioch College, independent shops, and wooded
+  gorge walks nearby.
 sources:
-  - https://en.wikivoyage.org/wiki/Yellow_Springs
+- https://en.wikivoyage.org/wiki/Yellow_Springs
+heritage: 3.537
+vibrancy: 3.641
+nature: 4.414
+off_the_beaten_track: 2.403
 ---
 
 Yellow Springs is a small southwest Ohio village with more personality than its size suggests. Antioch College, independent shops, a long activist streak, and a walkable downtown give it a clear identity.

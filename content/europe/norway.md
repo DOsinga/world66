@@ -22,69 +22,22 @@ title: Norway
 type: location
 ---
 
-One look at the map of Norway and you know immediately what the biggest attraction of the country is. The wierdly shaped coast line, with its mainy deep fjords. At that Norway has stunning mountains, and many historic towns dating , [Bergen](/europe/norway/bergen) and [Trondheim](/europe/norway/trondheim) date back 1000 years and have many monuments to prove it. [Tromso](/europe/norway/tromso) the northernmost city of the country is pretty as well and an ideal base for exploring the Arctic region.
+One look at a map of Norway and you know what the country is about: a coastline so deeply cut by fjords that it runs to 25,000 km, backed by mountains that push settlements into narrow strips of flat land wherever they can find one. It's an expensive country to visit — a beer can run you the equivalent of $12 — but the compensation is a coast and interior with almost no equal for scenery.
 
+[Oslo](/europe/norway/oslo), the capital, sits at the head of its own fjord, ringed by forest close enough to reach by tram. West along the coast, [Bergen](/europe/norway/bergen) is the historic gateway to the fjords, its Hanseatic wharves at Bryggen dating back to the 14th century, and the obvious base for reaching [Sognefjorden](/europe/norway/sognefjorden) and [Geirangerfjord](/europe/norway/geirangerfjord), Norway's two grandest fjords, or the boat trip into [Lysefjord](/europe/norway/lysefjord) further south from Stavanger. [Trondheim](/europe/norway/trondheim), the old medieval capital further north, is built around Nidaros Cathedral, Scandinavia's largest medieval building.
 
- If you want even more adventure, you should head for the [North Cape](/europe/norway/northcape) or even [Spitsbergen](/europe/norway/spitsbergen). Both offer unparalleled beauty in an Arctic surrounding.
+Past Trondheim the country narrows and the light gets stranger. [Tromsø](/europe/norway/tromso), the "Gateway to the Arctic," is the natural base for the far north — northern lights in winter, sun that never sets in summer — and from there the country's real edge cases begin: the mountainous, midnight-sun-lit [Lofoten](/europe/norway/lofotenislands) and [Vesterålen](/europe/norway/vesteralen) archipelagos, the cliffs of [North Cape](/europe/norway/northcape), and, further out to sea still, the Arctic archipelago of [Spitsbergen](/europe/norway/spitsbergen) — polar bear country, and about as far as you can travel and still call it Norway.
 
 ## Highlights
 
-Norway is a large country and there are many **Norway must do’s**
-all over the country. This is a Nordic country located on the western
-part of the Scandinavian Peninsula and part of the Svalbard, the Arctic
-Archipelago. This is actually one of the most sparsely populated
-European countries when you take its size into account. Below are the
-top five things you must do when in Norway.
-**1. Medieval Cathedral
+**[Nidaros Cathedral](/europe/norway/trondheim)** — Trondheim's Gothic cathedral, the largest medieval building in Scandinavia, has been a pilgrimage destination and national shrine since the 12th century. The Crown Jewels are on display in summer, and the west front is covered in a great gallery of carved statues, restored and replaced piece by piece since the 19th century.
 
-**
+**[Geirangerfjord and Sognefjorden](/europe/norway/geirangerfjord)** — Norway's two most celebrated fjords, both UNESCO-listed, both reachable by boat with waterfalls dropping straight into the water from sheer walls. Combine either with the Flåm railway and a fjord cruise for the classic "Norway in a Nutshell" day.
 
-Nidaros Cathedral, located in Trondheim, is the largest medieval
-building, and is considered a national shrine. The oldest parts of the
-cathedral are from the 12th century. There are many royal stone statues,
-religious statues and many ornate statues. There are also many stained
-glass windows, and if you visit during the summer, you can see the Crown
-Jewels.
-**2. Gateway to the Arctic
+**[Pulpit Rock and Kjerag](/europe/norway/lysefjord)** — Two of the most photographed spots in the country sit above the same fjord near Stavanger: a flat-topped cliff 604 metres over Lysefjord, and further inland, a boulder wedged in a crevasse that hikers queue up to stand on.
 
-**
+**[Lofoten and Vesterålen](/europe/norway/lofotenislands)** — Jagged Arctic peaks rising straight from the sea, fishing villages of red-painted rorbu huts you can rent for the night, and the midnight sun from late May to mid-July. Lofoten gets the crowds; neighbouring Vesterålen has the same scenery, sperm whales year-round off Andenes, and far fewer visitors.
 
-If you are in the area, you should stop at Tromso, known as the
-Gateway to the Arctic. This town has plenty of bars, breweries, cultural
-activities, and winter activities. The scenery is absolutely stunning,
-and you can see period buildings interspersed among the fjords. One of
-the main attractions in Tromso is the Northern Lights Planetarium.
-**3. Visit a Glacier
+**[Saltstraumen](/europe/norway/bodo/saltstraumen)** — The strongest tidal current on earth, just outside Bodø: four times a day, the tide forces enormous volumes of water through a narrow strait, throwing up whirlpools and standing waves loud enough to hear before you see them.
 
-**
-
-Ajostedal Glacier National Park is found between the Jostedalsbreen
-Glacier, the largest glacier in Europe, and a fjord. Walking on a
-glacier is an exhilarating experience, and one not to miss. This park
-stretches over 432 square kilometers. Some of the impressive daily sites
-include the frozen waterfalls and the glacier's movement. You can hike,
-walk and ski in the national park, or learn all about the glacier at
-the museum and glacier center. There are different activities during the
-summer and winter months.
-**4. The Lofoten Islands
-
-**
-
-Within the Arctic Circle are the Lofoten Islands. These are
-mountainous islands along the northern coastline. You can find the
-oldest mountain in the world, which is now an extinct volcano. The
-islands have been inhabited for 6,000 years, and you can stay over in a
-fisherman’s hut. These huts are traditional and can easily be rented.
-The islands are fairly warm because of the Gulf Stream. This also means
-that there is plenty of plant, marine and animal life to see. It is here
-that you can view the midnight sun from May to July.
-**5. The Maelstrom
-
-**
-
-Near the Saltstraumen Bridge is the Saltstraumen Experience, the
-strongest maelstrom found in the world. You can view the maelstrom,
-multimedia show, exhibits, models, and more, all focused on the
-maelstrom. You can even see seals, fish and penguins in the large pools
-along the bridge. If you are near Bodo then you should definitely stop
-in to see the maelstrom.
+**[North Cape and Spitsbergen](/europe/norway/northcape)** — For travellers who want to keep going north, North Cape's cliffs mark the continent's edge, and Spitsbergen, out in the Arctic Ocean, is glaciers, polar bears, and the midnight sun taken about as far as it goes.

@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Dzongsar_Monastery_02.jpg
 latitude: 31.83
 loc_type: city
 longitude: 98.67
-score: 7.01
+score: 5.552
 snippet: Remote Tibetan town in Sichuan, set near the upper Jinsha River at 3,100
   metres.
 sources:
 - https://en.wikivoyage.org/wiki/Dege
 title: Dege
 type: location
+heritage: 3.387
+vibrancy: 3.775
+nature: 6.782
+off_the_beaten_track: 5.961
 ---
 
 Dege is a Tibetan town at 3,100 metres near the upper Jinsha River, not far from the border with Tibet Autonomous Region, and the journey to reach it is as significant as the destination itself. Two days by bus from Kangding, through passes that exceed 4,000 metres and along river valleys of extraordinary drama, Dege sits at the far edge of what most travellers reach in Sichuan. That remoteness is part of what has preserved it.

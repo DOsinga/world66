@@ -6,11 +6,15 @@ done:
 latitude: 57.5375
 loc_type: city
 longitude: -2.4641
-score: 6.25
+score: 1.739
 snippet: Small Aberdeenshire market town known for its agricultural show and nearby
   northeast castles.
 title: Turriff
 type: location
+heritage: 1.997
+vibrancy: 1.528
+nature: 1.568
+off_the_beaten_track: 1.598
 ---
 
 Turriff is a small market town in Aberdeenshire, sitting in gently rolling farmland about 35 miles north of Aberdeen. It's not a destination in itself, but it makes a decent base for exploring the castles and coastal towns of the northeast.

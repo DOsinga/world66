@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Tomb-of-Ferdowsi_%D8%A2%D8
 latitude: 36.3848
 loc_type: city
 longitude: 59.3177
-score: 5.75
+score: 3.798
 title: Tus
 snippet: Ancient Iranian city near Mashhad, revered for the tomb of Ferdowsi, poet
   of the Shahnameh.
 type: location
+heritage: 4.472
+vibrancy: 2.048
+nature: 3.476
+off_the_beaten_track: 3.005
 ---
 
 Tus (also spelled Tous) is an ancient city near [Mashhad](/asia/iran/mashhad) in northeastern Iran, easily visited as a day trip from that city — the drive is about 30km and takes around 40 minutes. The main reason to come is the tomb of Ferdowsi, author of the Shahnameh (Book of Kings) — the national epic of the Persian-speaking world, written around 1000 AD. The mausoleum, rebuilt in the 1930s in a style evoking ancient Persian architecture, sits in a garden and is a place of genuine reverence for Iranians. It is open daily from early morning.

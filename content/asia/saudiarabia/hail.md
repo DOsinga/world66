@@ -4,7 +4,7 @@ done:
 latitude: 26.992099
 loc_type: city
 longitude: 41.489258
-score: 5.43
+score: 3.586
 snippet: Saudi desert crossroads between the Great Nafud and Aja-Salma mountains,
   with Rashidi history and rock art nearby
 sources:
@@ -12,6 +12,10 @@ sources:
 - https://whc.unesco.org/en/list/1472/
 title: Ha'il
 type: location
+heritage: 3.097
+vibrancy: 2.201
+nature: 2.337
+off_the_beaten_track: 6.015
 ---
 
 Ha'il occupies a striking position in the Saudi landscape, sitting between the Great Nafud desert to the north and the Aja and Salma mountain ranges that frame the city. For centuries it served as a crossroads for pilgrims, traders, and Bedouin tribes moving across the Arabian interior. The Rashidi dynasty ruled from here in the 19th century, and the city retains a proud sense of its own identity, distinct from the Hejaz to the west and the Najd heartland to the south. Visitors who make the effort to reach Ha'il find a city that feels authentically Saudi in ways that the more cosmopolitan coastal cities do not.

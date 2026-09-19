@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Hotel_Aldridge_Wewoka.jpg
 latitude: 35.151164
 loc_type: city
 longitude: -96.493551
-score: 4.79
+score: 1.672
 snippet: Central Oklahoma prairie city and Seminole Nation capital, named for barking
   water and shaped by tribal history.
 title: Wewoka
 type: location
+heritage: 1.898
+vibrancy: 1.513
+nature: 1.584
+off_the_beaten_track: 1.685
 ---
 
 Wewoka is the capital of the Seminole Nation of Oklahoma, a small city in the rolling prairie of central Oklahoma. The name means "barking water" in the Seminole language, a reference to the sound of a nearby creek cascading over rocks.

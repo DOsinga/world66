@@ -1,18 +1,22 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: hallingdal.jpg
+image_attribution: Unknown
+image_license: CC BY-SA 2.5
+image_source: https://commons.wikimedia.org/wiki/File:Nesbyen,_Nes.jpg
 latitude: 60.660362
-loc_type: region
+loc_type: feature
 longitude: 8.59
-score: 0.54
-title: Hallingdal
-type: location
+score: 5.364
 snippet: Central Norwegian valley route linking Geilo, Ål, Gol, and mountain access
   to Hardangervidda.
-image: hallingdal.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Nesbyen,_Nes.jpg
-image_license: CC BY-SA 2.5
-image_attribution: Unknown
+title: Hallingdal
+type: location
+heritage: 3.495
+vibrancy: 1.565
+nature: 6.833
+off_the_beaten_track: 4.256
 ---
 
 Hallingdal is a long, broad valley in central Norway that stretches roughly 150 kilometres from the mountains around Geilo down to the lake at Krøderen. The Hallingdalselva river runs its entire length, and the valley has been a natural travel route between eastern and western Norway for centuries.

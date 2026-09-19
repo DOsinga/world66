@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Oberon_(AU),_Hills_--_2019
 latitude: -33.716667
 loc_type: city
 longitude: 149.866667
-score: 6.7
+score: 4.346
 snippet: Cool-climate town on the western Blue Mountains, with gardens, caves, trout
   water, and high-country forest.
 sources:
@@ -17,6 +17,10 @@ sources:
 title: Oberon
 type: location
 wikidata: Q3348059
+heritage: 2.221
+vibrancy: 1.856
+nature: 5.35
+off_the_beaten_track: 4.544
 ---
 
 Oberon sits on the cold western side of the Blue Mountains, where the country opens into pine forest, trout streams, sheep paddocks, and high granite ridges. It is a practical little town rather than a polished resort, but the surrounding landscape gives it a stronger travel case than its size suggests.

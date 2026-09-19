@@ -4,13 +4,17 @@ done:
 latitude: 43.6482
 loc_type: city
 longitude: 111.9729
-score: 5.74
+score: 4.637
 snippet: Inner Mongolian rail border town, known for Cretaceous fossils and the Trans-Mongolian
   bogie change
 sources:
 - https://en.wikivoyage.org/wiki/Erlian
 title: Erlian
 type: location
+heritage: 3.24
+vibrancy: 2.043
+nature: 5.814
+off_the_beaten_track: 4.502
 ---
 
 Erlian (Erenhot in Mongolian,二连浩特 in Chinese) is a small desert border town at the northern tip of Inner Mongolia, the last stop on Chinese territory before the Trans-Mongolian Railway crosses into Mongolia proper. Most visitors pass through in transit — the border crossing at Erlian connects to Zamiin-Uud on the Mongolian side, where the carriages are lifted and their bogies changed to match the wider Mongolian gauge — but the town has enough character and a strong enough claim on geological history to justify a short stay.

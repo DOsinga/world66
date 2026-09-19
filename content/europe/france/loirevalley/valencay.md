@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Chateau_Valencay_20050726.
 latitude: 47.1615
 loc_type: city
 longitude: 1.5666
-score: 7.82
+score: 4.743
 snippet: Loire Valley town dominated by Talleyrand’s grand Château de Valençay and
   its formal gardens.
 title: Valençay
 type: location
+heritage: 5.347
+vibrancy: 1.835
+nature: 4.879
+off_the_beaten_track: 2.659
 ---
 
 The [Château de Valençay](/europe/france/loirevalley/valencay/chateau_de_valencay) rivals [Chambord](/europe/france/loirevalley/chambord) in scale but draws a fraction of the visitors — a real advantage if you prefer your Loire châteaux without the crowds. The building is a handsome blend of Renaissance and classical styles, set above beautifully designed English-style gardens with formal parterres, a deer park, and a children's playground.

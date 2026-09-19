@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 29.7017
 longitude: -98.1236
-score: 6.7
+score: 4.406
 wikidata: Q574612
 snippet: Texas Hill Country river town with German roots, spring-fed tubing, and the
   Gruene dance-hall district.
@@ -16,6 +16,10 @@ image: new_braunfels.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Guadalupe_river_new_braunfels_north.jpg
 image_license: CC BY 4.0
 image_attribution: Larry D. Moore
+heritage: 3.1
+vibrancy: 4.617
+nature: 3.861
+off_the_beaten_track: 1.114
 ---
 
 New Braunfels sits between [San Antonio](/northamerica/unitedstates/texas/sanantonio) and [Austin](/northamerica/unitedstates/texas/austin), but it is not just a suburb with river access. The town was founded by German settlers in 1845, and that background still shows in its festivals, place names, beer gardens, and old limestone buildings.

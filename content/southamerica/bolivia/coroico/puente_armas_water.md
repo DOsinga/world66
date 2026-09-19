@@ -1,12 +1,12 @@
 ---
-snippet: "Jungle canyon waterfalls with a swimmable lagoon"
-latitude: -16.2700
-longitude: -67.5900
+latitude: -16.27
+longitude: -67.59
+score: 7.5
+snippet: Jungle canyon waterfalls with a swimmable lagoon
 tags:
-- day_trips
+- things_to_do
 title: Puente Armas Waterfalls
 type: poi
-score: 7.5
 ---
 
 A spectacular forested canyon with several huge waterfalls, named after an old metal bridge in Choro. The easiest to reach is the Rio Cajon waterfall, just 100 metres from the main road. A short path leads into a small canyon and opens onto a large chilly lagoon with the powerful falls crashing down. Excellent for a swim on sunny days — bring an inner tube if you want to get right under the falls. Try to arrive before 2pm for the best light.

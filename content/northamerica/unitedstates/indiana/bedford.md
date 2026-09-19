@@ -5,11 +5,15 @@ done:
 latitude: 38.8612
 loc_type: city
 longitude: -86.4875
-score: 5.63
+score: 1.588
 snippet: Southern Indiana limestone city whose pale stone shaped landmarks from the
   Pentagon to the Empire State Building.
 title: Bedford
 type: location
+heritage: 1.686
+vibrancy: 1.563
+nature: 1.507
+off_the_beaten_track: 1.559
 ---
 
 Bedford is a small city of around 13,000 people in southern Indiana, best known as the self-proclaimed Limestone Capital of the World. The pale grey oolitic limestone quarried from the hills around town has shaped some of the most recognizable buildings in the United States — the Empire State Building, the Pentagon, the National Cathedral in Washington, and the facade of the United States Holocaust Memorial Museum all owe their stone to Lawrence County.

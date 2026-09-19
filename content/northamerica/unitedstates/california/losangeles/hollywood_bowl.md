@@ -9,6 +9,7 @@ phone: 323-850-2000
 snippet: LA's iconic outdoor amphitheatre under summer stars
 tags:
 - things_to_do
+- hollywood
 title: Hollywood Bowl
 type: poi
 url: www.hollywoodbowl.com

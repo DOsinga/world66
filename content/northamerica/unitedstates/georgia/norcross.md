@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Lillian_Webb_Park,_Norcros
 latitude: 33.941213
 loc_type: city
 longitude: -84.213531
-score: 5.51
+score: 2.501
 snippet: Small Gwinnett County city with a preserved historic downtown near the Buford
   Highway food corridor.
 title: Norcross
 type: location
+heritage: 2.25
+vibrancy: 2.615
+nature: 1.768
+off_the_beaten_track: 0.887
 ---
 
 Norcross is a small city in Gwinnett County, about 20 miles northeast of downtown [Atlanta](/northamerica/unitedstates/georgia/atlanta). It sits in the middle of metro Atlanta's sprawling suburbs but has managed to keep a distinct identity, centered on a compact historic downtown with tree-lined streets, Victorian-era buildings, and a town green that hosts community events throughout the year.

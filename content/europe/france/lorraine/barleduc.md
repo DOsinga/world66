@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bar-le-Duc_Place_Saint-Pie
 latitude: 48.7713
 loc_type: city
 longitude: 5.1624
-score: 6.74
+score: 5.298
 snippet: Meuse town whose upper quarter preserves Renaissance stone architecture in
   northeastern France.
 title: Bar-le-Duc
 type: location
+heritage: 6.824
+vibrancy: 3.148
+nature: 3.332
+off_the_beaten_track: 2.323
 ---
 
 Bar-le-Duc is a quiet town in the Meuse département whose [upper town](/europe/france/lorraine/barleduc/ville_haute) contains one of the finest collections of Renaissance architecture in northeastern France. The old centre feels like an open-air museum: elegant stone facades, mullioned windows, sculptured medallions, and pilasters line the streets and squares, all built from the warm blond limestone of the Meuse.

@@ -5,7 +5,7 @@ done:
 latitude: 52.952181
 loc_type: feature
 longitude: -8.303211
-score: 7.45
+score: 5.099
 snippet: Broad River Shannon lake bordered by Clare, Tipperary, and Galway villages
   and wooded hillsides.
 sources:
@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Dromineer
 title: Lough Derg
 type: location
+heritage: 4.676
+vibrancy: 2.476
+nature: 5.921
+off_the_beaten_track: 4.688
 ---
 
 Lough Derg is Ireland's third-largest lake and the broadest, most beautiful stretch of the River Shannon. Straddling the borders of County Clare, Tipperary and Galway, it runs for about 40 kilometres through a landscape of wooded hillsides, stone-walled fields and quiet lakeshore villages. The water is broad enough that on a grey morning you can mistake it for the sea, yet calm enough that a kayaker can cross it on a good day.

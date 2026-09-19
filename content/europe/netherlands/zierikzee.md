@@ -14,6 +14,11 @@ image: zierikzee.jpg
 image_source: https://commons.wikimedia.org/wiki/File:41012_Zuidhavenpoort_zierikzee_Met_Noordhavenpoort.jpg
 image_license: CC BY-SA 3.0 nl
 image_attribution: Johan Bakker
+score: 3.297
+heritage: 3.808
+vibrancy: 2.658
+nature: 3.184
+off_the_beaten_track: 1.913
 ---
 
 Zierikzee is one of Zeeland's best small-town stops: a compact harbour city on Schouwen-Duiveland with old gates, brick quays, and enough monuments to make a slow wander feel rewarding. It is not as famous as Middelburg, but that is part of the pleasure. The town still feels like a trading port that happened to be left largely intact.

@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ulcinj,_Montenegro_-_Sept.
 latitude: 41.926012
 loc_type: city
 longitude: 19.205556
-score: 8.03
+score: 6.163
 snippet: Southern Montenegrin coastal town near Albania, with an old town above long
   Adriatic beaches.
 title: Ulcinj
 type: location
+heritage: 2.757
+vibrancy: 2.87
+nature: 7.747
+off_the_beaten_track: 5.915
 ---
 
 Ulcinj is the southernmost town on the Montenegrin coast, just a few kilometres from the Albanian border. It's the most ethnically distinct town in Montenegro — the majority of the population is Albanian, and the town has a different character from the rest of the coast: minarets alongside churches, Albanian heard in the streets alongside Serbian, and a slightly rougher, less polished tourist infrastructure.

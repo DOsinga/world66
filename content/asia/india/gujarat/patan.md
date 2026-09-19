@@ -11,9 +11,13 @@ loc_type: city
 snippet: Former Gujarat capital known for Rani ki Vav, a richly carved 11th-century
   stepwell
 longitude: 72.125
-score: 7.1
+score: 5.611
 title: Patan
 type: location
+heritage: 7.319
+vibrancy: 3.149
+nature: 2.416
+off_the_beaten_track: 4.837
 ---
 
 Patan was the capital of Gujarat for nearly six centuries under the Chaulukya (Solanki) dynasty, founded in 745 CE by Vanraj Chavda and later sacked by the Delhi sultans in the late 13th century. What survives is a small town built on the layered debris of a much larger medieval city — and one of the most extraordinary single monuments in India.

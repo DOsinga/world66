@@ -7,7 +7,7 @@ done:
 latitude: 30.248963
 loc_type: city
 longitude: 120.205234
-score: 9.05
+score: 5.557
 sources:
 - https://en.wikipedia.org/wiki/Hangzhou
 - https://en.wikipedia.org/wiki/West_Lake
@@ -19,6 +19,10 @@ image: hangzhou.jpg
 image_source: https://commons.wikimedia.org/wiki/File:62998-Hangzhou_(49152700816).jpg
 image_license: CC BY 2.0
 image_attribution: xiquinhosilva
+heritage: 5.181
+vibrancy: 5.742
+nature: 4.826
+off_the_beaten_track: 1.657
 ---
 
 Hangzhou is one of China's most celebrated cities, famous since Marco Polo reportedly called it the finest city in the world. The claim still has some force: [West Lake](/asia/china/zhejiang/hangzhou/west_lake), right at the city's centre, is a genuinely beautiful expanse of water ringed by pagodas, willow-lined causeways and wooded hills. It's been a place of literary and artistic pilgrimage for a thousand years, and even with the crowds it manages to feel serene in the early morning.

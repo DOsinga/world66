@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Stoupa_village_in_Greece.J
 latitude: 36.8468
 loc_type: city
 longitude: 22.2647
-score: 8.47
+score: 6.002
 snippet: Small beach village on the Outer Mani coast, set around two sheltered Peloponnese
   bays.
 title: Stoupa
 type: location
+heritage: 4.555
+vibrancy: 2.956
+nature: 7.373
+off_the_beaten_track: 4.097
 ---
 
 Stoupa is a small beach village on the Outer Mani coast of the southern Peloponnese, about 45km south of Kalamata. It sits in a sheltered bay with two main beaches — [Stoupa Beach](/europe/greece/mani/stoupa/stoupa_beach) and [Kalogria Beach](/europe/greece/mani/stoupa/kalogria_beach) — and has been a popular destination with British and German summer visitors since the 1980s. It remains small and relatively undeveloped by Greek resort standards.

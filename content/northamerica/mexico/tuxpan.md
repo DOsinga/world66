@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 20.9586
 longitude: -97.3808
-score: 6.2
-snippet: Northern Veracruz port city where river history, Gulf beaches, and mangrove lagoons meet.
+score: 3.706
+snippet: Northern Veracruz port city where river history, Gulf beaches, and mangrove
+  lagoons meet.
 sources:
-  - https://en.wikivoyage.org/wiki/Tuxpan
-  - https://visitmexico.com/en/destino/18078/estuxpanentuxpan
+- https://en.wikivoyage.org/wiki/Tuxpan
+- https://visitmexico.com/en/destino/18078/estuxpanentuxpan
 wikidata: Q6154758
+heritage: 3.138
+vibrancy: 2.708
+nature: 4.415
+off_the_beaten_track: 1.91
 ---
 
 Tuxpan sits on the Tuxpan River in northern Veracruz, close enough to the Gulf that the city feels half port, half beach town. It is industrial around the edges, with oil terminals and naval traffic, but there is enough coast, river life, and odd history here to make a day worthwhile if you are already in the Huasteca or coming down from Poza Rica.

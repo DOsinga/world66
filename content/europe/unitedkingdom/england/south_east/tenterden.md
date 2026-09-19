@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 51.0697
 longitude: 0.6896
-score: 6.7
+score: 3.425
 snippet: Small Kent market town of weatherboard houses, steam railway, vineyards,
   and Wealden lanes.
 sources:
@@ -15,6 +15,10 @@ image: tenterden.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tenterden_-_2016_-_geograph.org.uk_-_5172507.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Helmut Zozmann
+heritage: 3.851
+vibrancy: 2.284
+nature: 3.546
+off_the_beaten_track: 1.386
 ---
 
 Tenterden is one of the more convincing small towns in the Kentish Weald: broad High Street, weatherboard houses, brick Georgian fronts, antique shops, and countryside that still feels close at hand. It is not a grand cathedral city or a seaside resort, which is part of the appeal. The day here is slower and more local.

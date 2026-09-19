@@ -3,7 +3,7 @@ latitude: 62.1038
 longitude: 7.2058
 snippet: Summer fjord cruise into spectacular Geirangerfjord
 tags:
-- sights
+- things_to_do
 title: Day 2 - Geiranger [summer only]
 type: poi
 score: 9.1

@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Nasino,_Borgo_e_Vignolo,_p
 latitude: 44.11375
 loc_type: city
 longitude: 8.031713
-score: 6.58
+score: 5.095
 snippet: Agricultural village in the Pennavaire valley, surrounded by woods, pastures,
   and prehistoric cave sites.
 tags:
 - rivieradellepalme
 title: Nasino
 type: location
+heritage: 3.434
+vibrancy: 1.907
+nature: 6.442
+off_the_beaten_track: 3.835
 ---
 
 Nasino is a small agricultural village spread across the Pennavaire valley, sheltered between the southern slopes of Monte Galero (1,708 m) and the steep face of Monte Peso Grande (1,092 m). The valley straddles the provinces of Imperia, Cuneo, and Savona, and is surrounded by woods and pastures that give the area a quietly scenic character.

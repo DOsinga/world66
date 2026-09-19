@@ -27,7 +27,7 @@ North of Sundsvall, the High Coast offers some of Sweden's most dramatic scenery
 
 ## Dalarna
 
-The heartland of traditional Swedish culture — folk costumes, Dala horses, midsummer celebrations done properly. Lake Siljan and the villages around it feel like the Sweden of a picture book. [Falun](/europe/sweden/falun) has a UNESCO-listed copper mine.
+The heartland of traditional Swedish culture — folk costumes, Dala horses, midsummer celebrations done properly. Lake Siljan and the villages around it feel like the Sweden of a picture book. [Falun](/europe/sweden/falun) has a UNESCO-listed copper mine, and [Mora](/europe/sweden/mora), on Siljan's western shore, is the finish line of the Vasaloppet, the world's largest cross-country ski race.
 
 ## Öresund Region (Skåne)
 

@@ -3,12 +3,12 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 17.620919
 longitude: -101.551548
+score: 8.0
 snippet: Snorkeling beach reached by water taxi, with reef fish and seafood restaurants
 tags:
-- day_trips
+- things_to_do
 title: Playa Las Gatas
 type: poi
-score: 8.0
 ---
 
 Las Gatas is a short water-taxi ride from the municipal pier in Zihuatanejo — boats run from around 9am to 5pm for a small round-trip fare. The crossing itself is pleasant, with views of the town and the surrounding hills.

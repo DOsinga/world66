@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bamiyan_Valley2.jpg
 latitude: 34.8206
 loc_type: city
 longitude: 67.8278
-score: 7.0
+score: 5.407
 snippet: High Hindu Kush valley where cliff niches and Band-e Amir lakes frame Bamiyan's
   history
 title: Bamiyan
 type: location
+heritage: 6.552
+vibrancy: 1.676
+nature: 4.528
+off_the_beaten_track: 6.28
 ---
 
 The Bamiyan valley sits at 2,590 metres in the Hindu Kush, roughly 230 km northwest of [Kabul](/asia/afghanistan/kabul). It is a place of stunning natural beauty — surrounded by dramatic cliffs and the turquoise [Band-e Amir](/asia/afghanistan/bamian/band_e_amir) lakes — and carries one of the most poignant stories in world archaeology: the two giant [Buddha statues](/asia/afghanistan/bamian/buddhas_of_bamiyan) that once dominated the valley cliffs, carved in the 6th and 7th centuries AD, were dynamited by the Taliban in March 2001 in an act of deliberate cultural destruction that shocked the world.

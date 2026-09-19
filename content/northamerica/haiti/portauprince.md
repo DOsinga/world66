@@ -10,7 +10,7 @@ quick_facts:
   Founded: '1749'
   Haitian Art: A world-renowned tradition
   Population: ~1 million
-score: 5.04
+score: 5.128
 snippet: Haitian capital of hillside neighborhoods, tap-taps, markets, and the cooler
   heights of Pétion-Ville.
 tip: Port-au-Prince has endured earthquakes, hurricanes and deep instability; check
@@ -20,6 +20,10 @@ tip: Port-au-Prince has endured earthquakes, hurricanes and deep instability; ch
   visit needs serious local support.
 title: Port-au-Prince
 type: location
+heritage: 4.52
+vibrancy: 5.338
+nature: 4.587
+off_the_beaten_track: 5.706
 ---
 
 Port-au-Prince is Haiti's capital and by far its largest city, with well over two million people in the metropolitan area. Despite its size, much of it feels like an overgrown market town — low-slung buildings climbing steep hillsides, tap-taps threading through traffic, street vendors on every corner.

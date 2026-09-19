@@ -5,7 +5,7 @@ done:
 latitude: 40.0581
 loc_type: city
 longitude: -82.4013
-score: 5.81
+score: 2.207
 snippet: Central Ohio county seat near the Newark Earthworks, among the world's largest
   geometric earthwork complexes.
 sources:
@@ -13,6 +13,10 @@ sources:
 - https://hopewellearthworks.org/city/newark/
 title: Newark
 type: location
+heritage: 1.825
+vibrancy: 2.13
+nature: 2.391
+off_the_beaten_track: 1.23
 ---
 
 Newark is the county seat of Licking County, about 40 miles east of Columbus in central Ohio. It sits close enough to the capital to draw on its amenities while retaining a small-city character — but the real reason to come here is the [Newark Earthworks](/northamerica/unitedstates/ohio/newark/newark_earthworks), a UNESCO World Heritage Site and the largest set of geometric earthworks in the world.

@@ -30,7 +30,7 @@ address: 5776 Desson Ave
 
 email:
 
-### [Greater Niagara Falls Coach Terminal](/northamerica/canada/ontario/niagrafalls/getting_around/greater_niagara_fa)
+### [Greater Niagara Falls Coach Terminal](/northamerica/canada/ontario/niagrafalls/greater_niagara_fa)
 
 The location to be at when trying to transfer between intercity and local services.
 
@@ -44,7 +44,7 @@ Note that Coach Canada (Trentway Wagar) offers a number of lower rates for SAME 
 
 
 
-[[rate it]](/northamerica/canada/ontario/niagrafalls/getting_around/greater_niagara_fa)
+[[rate it]](/northamerica/canada/ontario/niagrafalls/greater_niagara_fa)
 
 address: Bridge @ Erie, Downtown Niagara Falls
 

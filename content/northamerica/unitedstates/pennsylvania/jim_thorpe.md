@@ -2,14 +2,19 @@
 latitude: 40.8759
 loc_type: city
 longitude: -75.7324
-score: 7.3
-snippet: Victorian mountain town in the Lehigh Gorge, known for rail history, mansions, and trails.
+score: 4.228
+snippet: Victorian mountain town in the Lehigh Gorge, known for rail history, mansions,
+  and trails.
 sources:
-  - https://en.wikivoyage.org/wiki/Jim_Thorpe
-  - https://www.wikidata.org/wiki/Q1025791
-  - https://en.wikipedia.org/wiki/Jim_Thorpe,_Pennsylvania
+- https://en.wikivoyage.org/wiki/Jim_Thorpe
+- https://www.wikidata.org/wiki/Q1025791
+- https://en.wikipedia.org/wiki/Jim_Thorpe,_Pennsylvania
 title: Jim Thorpe
 type: location
+heritage: 4.058
+vibrancy: 1.862
+nature: 4.833
+off_the_beaten_track: 2.5
 ---
 
 Jim Thorpe is a small mountain town packed tightly into the Lehigh Gorge, with steep wooded slopes, Victorian storefronts, and a rail line running along the river. It was once Mauch Chunk, a coal and railroad town; today it is one of Pennsylvania's strongest small-town day trips.

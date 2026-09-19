@@ -3,7 +3,7 @@ latitude: 31.7039
 longitude: -8.0303
 score: 6.7
 tags:
-- day_trips
+- things_to_do
 title: Cactus Thiemann
 type: poi
 ---

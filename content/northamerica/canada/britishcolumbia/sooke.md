@@ -2,7 +2,7 @@
 latitude: 48.3761
 loc_type: city
 longitude: -123.7378
-score: 6.9
+score: 5.195
 snippet: Vancouver Island harbor town with rocky coast walks, river pools, and rainforest
   trails west of Victoria.
 sources:
@@ -15,6 +15,10 @@ image: sooke.jpg
 image_source: https://commons.wikimedia.org/wiki/File:A_small_island_off_the_coast_of_East_Sooke_Regional_Park,_British_Columbia,_Canada_21.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Michal Klajban
+heritage: 3.204
+vibrancy: 2.13
+nature: 6.695
+off_the_beaten_track: 3.712
 ---
 
 Sooke is a harbor town west of Victoria, useful as a base but strong enough for a day in its own right. It sits where southern Vancouver Island starts to feel rougher: rocky points, cold Pacific water, rainforest trails, and the road onward to Port Renfrew.

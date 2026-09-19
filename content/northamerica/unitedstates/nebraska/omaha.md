@@ -10,11 +10,15 @@ image_source: https://www.flickr.com/photos/59081381@N03/53710734967
 latitude: 41.258746
 loc_type: city
 longitude: -95.938376
-score: 6.5
+score: 4.442
 snippet: Missouri River city and Nebraska's largest, historically the eastern terminus
   of the first transcontinental railroad.
 title: Omaha
 type: location
+heritage: 2.607
+vibrancy: 4.746
+nature: 3.657
+off_the_beaten_track: 0.827
 ---
 
 Omaha sits on the western bank of the Missouri River and has been a transit and trade hub since the mid-19th century, when it served as the eastern terminus of the first transcontinental railroad. Today it's Nebraska's largest city, home to several Fortune 500 companies (including Berkshire Hathaway) and a quietly confident place that rewards visitors who spend more than a day.

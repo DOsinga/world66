@@ -8,19 +8,23 @@ image_source: https://commons.wikimedia.org/wiki/File:1_sarlat_la_caneda_2016.jp
 latitude: 44.8879
 loc_type: city
 longitude: 1.2161
-score: 8.85
+score: 5.902
 snippet: Dordogne market town with a dense medieval centre of honey-coloured stone
   and Renaissance houses.
 tags:
 - dordogne
 title: Sarlat
 type: location
+heritage: 5.084
+vibrancy: 6.257
+nature: 4.558
+off_the_beaten_track: 1.595
 ---
 
 Sarlat-la-Caneda is the capital of the Périgord Noir and one of the best-preserved medieval towns in France. The old centre is a dense cluster of golden sandstone buildings, turrets, and steep slate roofs — so perfectly intact that it is regularly used as a film set. The [Cathédrale Saint-Sacerdos](/europe/france/aquitaine/sarlat/cathedrale_saint_sacerdos) anchors the historic core, and behind it lie the atmospheric Jardin des Enfeux and the twelfth-century [Lanterne des Morts](/europe/france/aquitaine/sarlat/lanterne_des_morts) — a mysterious funerary tower whose original purpose nobody can agree on.
 
 The [Place de la Liberté](/europe/france/aquitaine/sarlat/place_de_la_liberte) is the social heart of the town, and on Saturday mornings it becomes one of the great Dordogne markets: foie gras, truffles, walnuts, and duck confit from local producers. Not to be missed is the house of [Étienne de La Boétie](/europe/france/aquitaine/sarlat/maison_etienne_de_la_boetie), the philosopher and friend of Montaigne, on the street bearing his name.
 
-The town is an excellent base for exploring the Dordogne valley. Châteaux — [Castelnaud](/europe/france/aquitaine/sarlat/chateau_de_castelnaud), [Beynac](/europe/france/aquitaine/sarlat/chateau_de_beynac), Puymartin — dot the surrounding hillsides, and the prehistoric caves of the Vézère valley are 25 kilometres to the north. The replica of [Lascaux IV](/europe/france/aquitaine/sarlat/lascaux) near Montignac is one of the best museum experiences in southwest France.
+The town is an excellent base for exploring the Dordogne valley. Châteaux — [Castelnaud](/europe/france/aquitaine/sarlat/chateau_de_castelnaud), [Beynac](/europe/france/aquitaine/sarlat/chateau_de_beynac), Puymartin — dot the surrounding hillsides, and the prehistoric caves of the Vézère valley are 25 kilometres to the north. The replica of [Lascaux IV](/europe/france/aquitaine/lascaux) near Montignac is one of the best museum experiences in southwest France.
 
 Sarlat is packed in July and August. Come in May, June, September, or October for the same landscape and market with considerably fewer people.

@@ -5,11 +5,15 @@ done:
 latitude: 36.823881
 loc_type: city
 longitude: -4.706301
-score: 7.75
+score: 6.149
 snippet: Andalucian hill village on the Málaga rail line, built across terraces below
   its castle.
 title: Alora
 type: location
+heritage: 6.049
+vibrancy: 6.233
+nature: 5.248
+off_the_beaten_track: 1.753
 ---
 
 Alora is a small village on the rail line from Málaga to Bobadilla and Córdoba, and also on two of the three bus routes to [Ronda](/europe/spain/andalucia/ronda). Its position makes it a reasonable alternative to Málaga for a first or last night if you are traveling between the coast and the Andalucian interior.

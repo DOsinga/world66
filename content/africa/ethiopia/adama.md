@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:SaintMaryAdama01.jpg
 latitude: 8.541026
 loc_type: city
 longitude: 39.270546
-score: 5.74
+score: 4.882
 snippet: Ethiopian Rift Valley crossroads city, shaped by trucks, traders, rail links,
   and Oromo administration.
 title: Adama
 type: location
+heritage: 4.524
+vibrancy: 3.741
+nature: 5.517
+off_the_beaten_track: 6.716
 ---
 
 Adama — known through much of the 20th century as Nazreth, though Adama is the original Oromo name — has been the capital of Oromia state since 2000. It sits in the Great Rift Valley at a strategic crossroads: on the main highway from [Addis Ababa](/africa/ethiopia/addisababa) to [Djibouti](/africa/djibouti), and at the junction for roads heading south toward Hawassa and east into the Arsi highlands. The result is a town defined by movement — trucks, traders, buses, and goods from across the region flowing through constantly. New construction is always underway somewhere, and the city has grown fast as Oromia's administrative and commercial centre.

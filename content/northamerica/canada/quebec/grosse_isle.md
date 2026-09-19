@@ -3,7 +3,7 @@ country: Canada
 latitude: 47.0282
 loc_type: feature
 longitude: -70.6718
-score: 7.4
+score: 4.601
 snippet: St. Lawrence quarantine island and Irish Famine memorial reached by seasonal
   boat.
 sources:
@@ -18,6 +18,10 @@ image: grosse_isle.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ecole_Grosse_Ile.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Cephas
+heritage: 5.121
+vibrancy: 2.908
+nature: 4.881
+off_the_beaten_track: 3.734
 ---
 
 Grosse Isle sits in the St. Lawrence River east of Québec City, a green island with one of Canada's heaviest immigration stories. From 1832 to 1937 it served as a quarantine station for ships arriving at the port of Québec. In 1847, during the Irish Famine, the station was overwhelmed by sick passengers from the coffin ships.

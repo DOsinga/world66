@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Puerto_Montt_2009.jpg
 latitude: -41.4717
 loc_type: city
 longitude: -72.9396
-score: 7.71
+score: 5.744
 snippet: Southern Chilean port where the Lake District gives way to Patagonia and
   Chiloé-bound ferries.
 title: Puerto Montt
 type: location
+heritage: 3.85
+vibrancy: 4.717
+nature: 6.624
+off_the_beaten_track: 2.333
 ---
 
 Puerto Montt is where Chile's Lake District ends and Patagonia begins. Founded in 1853 by German settlers — you can still see their influence in the shingled wooden houses, steep-pitched roofs, and ornate balconies — the city has grown into the main transport hub for the entire south. If you are heading to [Chiloé](/southamerica/chile/chiloe), the southern fjords, or anywhere in Chilean Patagonia, you will almost certainly pass through here.

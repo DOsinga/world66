@@ -15,7 +15,7 @@ type: poi
 ---
 
 In soviet times it was named *ulitsa Razina* (Razin Street)
-It is the most ancient street in Moscow and dates and to [the Kremlin](/europe/russia/moscow/sights/the_kremlin). Or back from Red Square.
+It is the most ancient street in Moscow and dates and to [the Kremlin](/europe/russia/moscow/the_kremlin). Or back from Red Square.
 Note that now (summer 2006) the Rossia Hotel that was between Varvarka Street and the Moskva River has been dismantling and then some new buildings will be constructed there.
 
 Lets walk along Varvarka from it's beginning (note that in Moscow all streets begin in point nearest to the Kremlin).

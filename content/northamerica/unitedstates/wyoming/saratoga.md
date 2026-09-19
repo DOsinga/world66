@@ -5,11 +5,15 @@ done:
 latitude: 41.4549
 loc_type: city
 longitude: -106.8062
-score: 6.51
+score: 4.379
 snippet: Small Wyoming town in the North Platte valley, built around natural hot springs
   near the Snowy Range.
 title: Saratoga
 type: location
+heritage: 2.127
+vibrancy: 2.767
+nature: 5.45
+off_the_beaten_track: 3.314
 ---
 
 Saratoga lies in Wyoming's upper North Platte River valley, just west of the Snowy Range Mountains, surrounded by high sage desert. The town exists because of the natural hot springs that surface along the river, and with a population under 2,000 it remains a quiet, friendly place.

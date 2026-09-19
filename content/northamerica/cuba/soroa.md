@@ -5,11 +5,16 @@ loc_type: city
 latitude: 22.7732
 longitude: -82.9965
 wikidata: Q2303484
-score: 7.1
-snippet: Western Cuban mountain village with orchids, a waterfall, and Sierra del Rosario forest around it.
+score: 5.792
+snippet: Western Cuban mountain village with orchids, a waterfall, and Sierra del
+  Rosario forest around it.
 sources:
 - https://en.wikivoyage.org/wiki/Soroa
 - https://en.wikipedia.org/wiki/Soroa
+heritage: 2.461
+vibrancy: 1.264
+nature: 7.425
+off_the_beaten_track: 5.086
 ---
 
 Soroa is a thin village strung along the road into the Sierra del Rosario, west of Havana. It is not a town of plazas and museums. Its pull is greener and quieter: orchids, wet forest, a waterfall, and the feeling of being in the hills after the heat of the plain.

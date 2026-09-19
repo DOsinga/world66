@@ -8,10 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_Fribourg_107.JPG
 latitude: 46.8065
 loc_type: city
 longitude: 7.162
-score: 8.37
+score: 5.829
 snippet: Bilingual Swiss medieval city on a sandstone peninsula above the Sarine river.
 title: Fribourg
 type: location
+heritage: 6.57
+vibrancy: 5.369
+nature: 4.275
+off_the_beaten_track: 1.795
 ---
 
 Fribourg is one of Switzerland's most striking medieval cities, built on a dramatic sandstone peninsula carved out by a loop of the Sarine (Saane) river. The old town tumbles down steep terraces to the river below, connected by covered wooden bridges and Gothic fountains. It is also one of the few genuinely bilingual cities in Switzerland — French on one side of the river, German on the other — and that duality gives it an unusually layered character.

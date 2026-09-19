@@ -5,11 +5,15 @@ done:
 latitude: 38.9429
 loc_type: city
 longitude: 34.5609
-score: 7.59
+score: 4.972
 snippet: Anatolian pilgrimage town centred on the Hacı Bektaş Veli Complex and the
   Alevi-Bektaşi tradition.
 title: Hacıbektaş
 type: location
+heritage: 6.512
+vibrancy: 1.541
+nature: 3.057
+off_the_beaten_track: 4.266
 ---
 
 Hacıbektaş is a small Anatolian town about an hour's drive north of Nevşehir, reached by taking a local minibus through the town of Gülşehir. It belongs on any serious Cappadocia itinerary because it illuminates a side of Turkey that most visitors never encounter: the Alevi-Bektaşi tradition of Islam, a humanist and syncretic strand that has shaped perhaps a quarter of all Turkish Muslims.

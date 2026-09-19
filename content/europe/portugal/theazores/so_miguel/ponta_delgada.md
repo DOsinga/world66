@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ayuntamiento,_Ponta_Delgad
 latitude: 37.73934
 loc_type: city
 longitude: -25.66895
-score: 8.67
+score: 5.781
 snippet: Azorean capital and São Miguel gateway, with a busy harbour and black-and-white
   volcanic-stone streets.
 title: Ponta Delgada
 type: location
+heritage: 3.917
+vibrancy: 2.93
+nature: 7.3
+off_the_beaten_track: 3.011
 ---
 
 Ponta Delgada is the administrative capital of the Azores and the main gateway to the archipelago. It has direct flights from Lisbon, London, Frankfurt, and Boston — for most visitors it's the first Portuguese soil they touch. Most people spend a day or two here before fanning out across São Miguel and beyond, and the city rewards the pause.

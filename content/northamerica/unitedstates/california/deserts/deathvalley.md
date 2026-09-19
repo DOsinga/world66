@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Death_Valley_exit_SR190_vi
 latitude: 36.4614
 loc_type: feature
 longitude: -116.8672
-score: 7.76
+score: 6.12
 snippet: Desert national park of extreme heat, salt flats, and below-sea-level basins
   ringed by mountains.
 title: Death Valley
 type: location
+heritage: 3.178
+vibrancy: 1.532
+nature: 7.867
+off_the_beaten_track: 5.305
 ---
 
 Death Valley is the hottest, driest, and lowest national park in the United States — and one of the most dramatic landscapes on earth. The valley floor sits 86 metres below sea level at Badwater Basin, surrounded by mountains that trap summer heat until the air itself seems to shimmer. The record high here is 56.7°C (134°F), set in 1913. It is not a place you visit casually.

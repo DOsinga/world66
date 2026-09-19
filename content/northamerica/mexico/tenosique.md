@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 17.4729
 longitude: -91.4258
-score: 6.7
+score: 4.738
 snippet: Tabasco river town on the Usumacinta, known for Maya ruins and the Danza
   del Pocho.
 sources:
@@ -14,6 +14,10 @@ image: tenosique.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Calle_26,_Tenosique,_Tabasco_01.jpg
 image_license: CC BY-SA 4.0
 image_attribution: ProtoplasmaKid
+heritage: 3.343
+vibrancy: 3.703
+nature: 5.554
+off_the_beaten_track: 4.807
 ---
 
 Tenosique is a small city in eastern [Tabasco](/northamerica/mexico), on the banks of the Usumacinta River near the border with Guatemala. It is not one of Mexico's polished tourist towns, but that is part of the point: the riverfront, the humid lowland air, and the nearby Maya sites give it a frontier feel that is hard to find in the bigger Yucatan Peninsula stops.

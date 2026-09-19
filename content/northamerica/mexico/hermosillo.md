@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Hermosillo_y_K
 latitude: 29.094821
 loc_type: city
 longitude: -110.96922
-score: 6.22
+score: 4.953
 snippet: Sonoran state capital and desert commercial hub, known for cattle country
   and northern Mexico's beef culture
 title: Hermosillo
 type: location
+heritage: 4.747
+vibrancy: 5.069
+nature: 4.293
+off_the_beaten_track: 2.851
 ---
 
 Hermosillo is the capital of Sonora, a prosperous northern state that feels as much influenced by the American Southwest as by central Mexico. Set in the low desert at about 215 metres above sea level, it is a practical, fast-moving city of around 900,000 people — the industrial and commercial hub of a region known for cattle ranching, wheat farming, car manufacturing, and some of the best beef in Mexico.
@@ -22,4 +26,4 @@ The historic centre holds its own. [Plaza Zaragoza](/northamerica/mexico/hermosi
 
 Eating here is a genuine pleasure: [Sonoran carne asada](/northamerica/mexico/hermosillo/carne_asada_sonorense) — beef grilled over mesquite with handmade flour tortillas — is as good as it gets anywhere in Mexico, and the [mariscos](/northamerica/mexico/hermosillo/mariscos_hermosillo) are superb, fed by daily catches from the Gulf of California.
 
-Day trips from the city are the real reward. Bahía Kino, 54 miles to the west, is a relaxed seaside town on the Sea of Cortez where you can hire a boat to reach Isla Tiburón, Mexico's largest island and a Seri biosphere reserve. Southeast of the city, [La Pintada](/northamerica/mexico/hermosillo/la_pintada) shelters one of the largest concentrations of rock art in Mexico — more than 1,500 petroglyphs and pictographs left by the Seri and Pima people on canyon walls above a dry riverbed.
+Day trips from the city are the real reward. Bahía Kino, 54 miles to the west, is a relaxed seaside town on the Sea of Cortez where you can hire a boat to reach Isla Tiburón, Mexico's largest island and a Seri biosphere reserve. Southeast of the city, [La Pintada](/northamerica/mexico/la_pintada) shelters one of the largest concentrations of rock art in Mexico — more than 1,500 petroglyphs and pictographs left by the Seri and Pima people on canyon walls above a dry riverbed.

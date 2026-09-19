@@ -5,7 +5,7 @@ done:
 latitude: 47.656558
 loc_type: city
 longitude: 23.571984
-score: 6.7
+score: 3.974
 sources:
 - https://en.wikipedia.org/wiki/Baia_Mare
 - https://en.wikivoyage.org/wiki/Baia_Mare
@@ -13,6 +13,10 @@ snippet: Maramureș regional capital with a medieval core, mining history, and a
   to wooden-church villages.
 title: Baia Mare
 type: location
+heritage: 4.354
+vibrancy: 3.838
+nature: 4.305
+off_the_beaten_track: 4.188
 ---
 
 Baia Mare is the capital of Maramureș County in northwestern Romania, about 450 km from [Budapest](/europe/hungary/budapest). It sits at the foot of the Gutai Mountains, a compact volcanic range that gives the surrounding landscape a dramatic, rugged quality. The city itself is a pleasant regional centre with a well-preserved medieval core, a pair of good museums, and a mining heritage that stretches back to the Middle Ages — the name Baia Mare means "Great Mine."

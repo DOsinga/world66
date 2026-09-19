@@ -1,12 +1,15 @@
 ---
-title: "Bosnian Coffee"
-type: poi
-latitude: 43.8600
-longitude: 18.4320
-tags:
-  - bars_and_cafes
-  - bar
+latitude: 43.86
+longitude: 18.432
 score: 7.8
+sources:
+- https://www.indietraveller.co/sarajevo-travel-guide/
+tags:
+- bars_and_cafes
+- bar
+- blogs_worth_reading_on_sarajevo
+title: Bosnian Coffee
+type: poi
 ---
 
 Bosnian coffee (bosanska kafa) is not Turkish coffee, and Sarajevans will gently but firmly explain this distinction to anyone who conflates the two. The grounds are not boiled with the water — instead, hot water is poured over finely ground coffee in the džezva and allowed to steep. The result is served with a small glass of cold water (drunk before the coffee, to clear the palate) and a cube of sugar (placed in the mouth, not stirred in). A piece of rahat lokum comes on the side.

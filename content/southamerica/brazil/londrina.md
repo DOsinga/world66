@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_metropolitana_de_
 latitude: -23.311288
 loc_type: city
 longitude: -51.159502
-score: 6.56
+score: 4.339
 sources:
 - https://en.wikipedia.org/wiki/Londrina
 - https://en.wikipedia.org/wiki/Sacred_Heart_of_Jesus_Cathedral,_Londrina
@@ -16,6 +16,10 @@ title: Londrina
 snippet: Northern Paraná city founded as a coffee boomtown, with British roots and
   a large Japanese-Brazilian community.
 type: location
+heritage: 2.786
+vibrancy: 4.769
+nature: 3.229
+off_the_beaten_track: 1.454
 ---
 
 Londrina is northern Paraná's largest city, a planned agricultural boomtown that grew with extraordinary speed from a patch of Atlantic forest. It was founded in 1929 by a British land company — the name means "Little London" in Portuguese — which sold parcels of the fertile red soil to thousands of European and Japanese immigrants who came to grow coffee. For several decades in the mid-20th century it was one of the fastest-growing cities in South America.

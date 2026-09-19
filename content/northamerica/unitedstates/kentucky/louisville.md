@@ -6,7 +6,7 @@ longitude: -85.7594
 done:
   location_cleanup: 2026-04-06
   location_enrich: '2026-05-29'
-score: 7.74
+score: 6.117
 loc_type: city
 snippet: Kentucky river city of bourbon, horse racing, and Ohio River neighborhoods
   at the edge of the South
@@ -14,6 +14,10 @@ image: louisville.jpg
 image_source: https://www.flickr.com/photos/27119975@N00/21535469791
 image_license: CC BY-SA 2.0
 image_attribution: Edsel L on Flickr
+heritage: 6.448
+vibrancy: 6.038
+nature: 4.04
+off_the_beaten_track: 1.33
 ---
 
 Louisville sits at the crossroads of the urban north and the rural south, and it feels like both. The largest city in Kentucky, it has a vibrant music scene, a growing arts community, and a bourbon culture that runs deep — this is the gateway to the Kentucky Bourbon Trail, and distilleries line the downtown [Whiskey Row](/northamerica/unitedstates/kentucky/louisville/whiskey_row).

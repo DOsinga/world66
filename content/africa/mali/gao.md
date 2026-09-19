@@ -9,10 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Tombeau_dAskia_in_Gao_by_D
 latitude: 16.278813
 loc_type: city
 longitude: -0.041239
-score: 4.76
+score: 4.991
 snippet: Niger River city in Mali's Sahel, once a capital of the Songhai Empire.
 title: Gao
 type: location
+heritage: 5.724
+vibrancy: 1.839
+nature: 4.913
+off_the_beaten_track: 5.285
 ---
 
 Gao sits on the eastern bank of the Niger River, in the harsh scrubland where the Sahara begins to soften into the Sahel. It is not a beautiful city — the 1591 raid by Moulay Ismail's Moroccan warriors ended Gao's role as the great Songhai empire's capital and it has never quite recovered. But for travellers crossing the Sahara or threading between West Africa's major routes, it is a significant waypoint: buses run west to [Bamako](/africa/mali/bamako) and [Mopti](/africa/mali/mopti), east to [Niamey](/africa/niger/niamey), and north towards [Tamanrasset](/africa/algeria/tamanrasset) in Algeria.

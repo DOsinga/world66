@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -29.6881
 longitude: 121.0369
-score: 6.8
+score: 5.293
 snippet: Goldfields ghost town base for Lake Ballard and the Inside Australia sculptures.
 sources:
 - https://en.wikivoyage.org/wiki/Menzies
@@ -13,6 +13,10 @@ image: menzies.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Menzies_Hotel,_Menzies.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Michal Lewi
+heritage: 4.343
+vibrancy: 1.735
+nature: 6.364
+off_the_beaten_track: 5.551
 ---
 
 Menzies sits on the Goldfields Highway north of Kalgoorlie, a small town with the bones of something much larger. The gold rush brought banks, hotels, a railway station, a town hall, and a population that briefly made grand public buildings seem sensible. The rush moved on, but the wide streets and old stone facades still tell the story plainly.

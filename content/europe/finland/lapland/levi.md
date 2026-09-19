@@ -2,14 +2,19 @@
 title: Levi
 type: location
 loc_type: city
-latitude: 67.8050
+latitude: 67.805
 longitude: 24.8061
-score: 7.5
-snippet: Finnish Lapland fell resort known for skiing, snow trails, and Arctic winter activity.
+score: 6.007
+snippet: Finnish Lapland fell resort known for skiing, snow trails, and Arctic winter
+  activity.
 sources:
-  - https://en.wikivoyage.org/wiki/Levi
-  - https://en.wikipedia.org/wiki/Levi,_Finland
-  - https://www.fis-ski.com/en/alpine-skiing/alpine-news-multimedia/news-multimedia/venues/article%3Dlevi
+- https://en.wikivoyage.org/wiki/Levi
+- https://en.wikipedia.org/wiki/Levi,_Finland
+- https://www.fis-ski.com/en/alpine-skiing/alpine-news-multimedia/news-multimedia/venues/article%3Dlevi
+heritage: 2.63
+vibrancy: 2.098
+nature: 7.564
+off_the_beaten_track: 5.723
 ---
 
 Levi is Finland's big Lapland resort, built around Levitunturi fell in the municipality of Kittilä. It is commercial, busy in season, and not the place to look for untouched wilderness. It is also very good at what it does.

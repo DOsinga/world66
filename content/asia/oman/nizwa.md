@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Nizwa_(7).jpg
 latitude: 22.932388
 loc_type: city
 longitude: 57.5311
-score: 8.55
+score: 6.156
 snippet: Omani interior city beneath the Hajar Mountains, centred on a great fort
   and old souq.
 title: Nizwa
 type: location
+heritage: 7.981
+vibrancy: 3.554
+nature: 3.818
+off_the_beaten_track: 4.078
 ---
 
 Nizwa was once the capital of Oman's interior — the seat of the imamate that governed the mountain heartland for much of Oman's history — and it still has an authority that the coastal cities lack. The 17th-century [Nizwa Fort](/asia/oman/nizwa/nizwa_fort) is one of the most imposing in the country, its great circular tower rising over the date palm groves and the old town. The attached [souq](/asia/oman/nizwa/nizwa_souq) sells silver khanjar daggers, copper vessels, pottery, and frankincense, and on Friday mornings a livestock market sets up in the shadow of the walls.

@@ -4,8 +4,9 @@ type: poi
 tags:
   - shopping
   - sight
-latitude: 39.8961
-longitude: 116.3732
+  - dashilan
+latitude: 39.8949
+longitude: 116.3784
 score: 7.0
 ---
 

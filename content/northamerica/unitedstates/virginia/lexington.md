@@ -5,7 +5,7 @@ done:
 latitude: 37.7839
 loc_type: city
 longitude: -79.4428
-score: 7.04
+score: 5.554
 snippet: Shenandoah Valley college town dense with Civil War sites and two historic
   campuses.
 sources:
@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Virginia_Military_Institute
 title: Lexington
 type: location
+heritage: 7.022
+vibrancy: 3.569
+nature: 3.376
+off_the_beaten_track: 2.574
 ---
 
 Lexington sits in the Shenandoah Valley, a small and walkable town that contains more American history per square mile than almost anywhere outside Washington DC. Two campuses dominate the centre — [Washington and Lee University](/northamerica/unitedstates/virginia/lexington/washington_and_lee_university), one of the oldest in America, and the [Virginia Military Institute](/northamerica/unitedstates/virginia/lexington/virginia_military_institute), the country's oldest state military college — and between them they give the town its particular atmosphere: serious, well-kept, and acutely conscious of its past.

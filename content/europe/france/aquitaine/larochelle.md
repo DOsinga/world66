@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:La_rochelle,_Le_vieux_port
 latitude: 46.1597
 loc_type: city
 longitude: -1.1516
-score: 8.9
+score: 5.108
 snippet: Atlantic port city with arcaded streets, a tower-guarded Vieux Port, and
   a strong maritime past
 sources:
 - https://en.wikipedia.org/wiki/La_Rochelle
 title: La Rochelle
 type: location
+heritage: 5.723
+vibrancy: 4.775
+nature: 4.259
+off_the_beaten_track: 1.774
 ---
 
 La Rochelle is one of the most attractive coastal towns in France — a handsome port city with a seventeenth-century waterfront, arcaded streets, and a rich maritime history. The [Vieux Port](/europe/france/aquitaine/larochelle/vieux_port), flanked by the medieval [Tour Saint-Nicolas](/europe/france/aquitaine/larochelle/tour_saint_nicolas) and [Tour de la Chaîne](/europe/france/aquitaine/larochelle/tour_de_la_chaine), with the [Grosse Horloge](/europe/france/aquitaine/larochelle/grosse_horloge) gateway behind, is the heart of the town and one of the most photographed waterfronts on the Atlantic coast.

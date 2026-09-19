@@ -10,9 +10,13 @@ image: phu_quoc.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bai-sao-phu-quoc-tuonglamphotos.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Trantuonglam
-score: 8.95
+score: 6.139
 snippet: Vietnam's largest island, a Gulf of Thailand beach destination still known
   for fish sauce and forests.
+heritage: 3.465
+vibrancy: 5.37
+nature: 6.921
+off_the_beaten_track: 4.466
 ---
 
 Phu Quoc is Vietnam's largest island and its most ambitious tourist project. Lying in the Gulf of Thailand off the southwestern coast, it is closer to Cambodia than to the Vietnamese mainland, and that geographic isolation gave it a century-long reputation as an obscure, unhurried place famous for fish sauce and pristine beaches. That reputation is increasingly historical: the island has been transformed in the past decade by a massive resort development programme, and parts of it now look like a tropical version of any other large-scale beach destination.

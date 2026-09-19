@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_(Lerici).jpg
 latitude: 44.073607
 loc_type: city
 longitude: 9.909914
-score: 8.63
+score: 5.406
 snippet: Liguria harbour town on the Bay of Poets, clustered below a medieval castle
   above the Gulf of La Spezia
 title: Lerici
 type: location
+heritage: 5.105
+vibrancy: 3.157
+nature: 6.216
+off_the_beaten_track: 3.902
 ---
 
 Lerici sits at the eastern end of the [Gulf of La Spezia](/europe/italy/liguria/lerici/gulf_of_la_spezia) — the "Bay of Poets," so named because Byron, Shelley, and Keats all spent time along these shores. The town clusters around a [medieval castle](/europe/italy/liguria/lerici/castello_di_lerici) on a rocky promontory, with pastel houses tumbling down to a small harbour.

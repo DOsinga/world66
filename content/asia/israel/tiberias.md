@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:St_peters_tiberias_1.jpg
 latitude: 32.7883
 loc_type: city
 longitude: 35.5424
-score: 8.12
+score: 5.994
 snippet: Sea of Galilee resort town and pilgrimage centre, sacred to Jewish, Christian,
   and Muslim traditions.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Tiberias
 title: Tiberias
 type: location
+heritage: 7.105
+vibrancy: 4.812
+nature: 4.488
+off_the_beaten_track: 1.721
 ---
 
 *Asia > Israel > Tiberias*

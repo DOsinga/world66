@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Vista_da_Igreja_de_Sant%27
 latitude: -22.759781
 loc_type: city
 longitude: -41.887527
-score: 8.69
+score: 6.359
 snippet: Brazilian beach resort on a rocky peninsula east of Rio, with more than twenty
   distinct beaches.
 title: Búzios
 type: location
+heritage: 3.581
+vibrancy: 5.836
+nature: 7.036
+off_the_beaten_track: 2.818
 ---
 
 Armação dos Búzios sits on a rocky peninsula about 170 km east of Rio de Janeiro, and it has been Brazil's most fashionable beach resort since Brigitte Bardot put it on the map in 1964. A bronze statue of her still stands on the [Orla Bardot](/southamerica/brazil/buzios/orla_bardot) boardwalk, a reminder of the moment this quiet fishing village turned into something altogether more stylish.

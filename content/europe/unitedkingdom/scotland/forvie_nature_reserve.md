@@ -2,7 +2,7 @@
 latitude: 57.331964
 loc_type: feature
 longitude: -1.970719
-score: 7.0
+score: 5.909
 snippet: Vast coastal sand dunes and eider-duck estuary on Aberdeenshire's coast,
   with a ruined medieval chapel buried by a legendary curse.
 sources:
@@ -10,6 +10,10 @@ sources:
 - https://www.nature.scot/forvie-national-nature-reserve
 title: Forvie Nature Reserve
 type: location
+heritage: 2.603
+vibrancy: 1.108
+nature: 7.699
+off_the_beaten_track: 4.786
 ---
 
 Forvie National Nature Reserve stretches along the Aberdeenshire coast between the mouth of the River Ythan and the small harbour village of Collieston, about 15 miles north of Aberdeen. The reserve is dominated by vast sand dune systems — some of the most extensive in Britain — that earned it the nickname the "Northern Sahara." The dunes were shaped by wind and sea after the last ice age some 15,000 years ago, and the present landform is thought to be around 2,000 years old: ancient, unstable-looking terrain that somehow feels permanent.

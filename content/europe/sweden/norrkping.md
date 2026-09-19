@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Arbetets_museum_i_Norrk%C3
 latitude: 58.5909
 loc_type: city
 longitude: 16.1904
-score: 7.46
+score: 4.68
 snippet: Former Swedish textile city where riverside factories now hold museums, concerts,
   and a university campus
 title: Norrköping
 type: location
+heritage: 4.764
+vibrancy: 4.684
+nature: 4.48
+off_the_beaten_track: 1.084
 ---
 
 Norrköping is a former textile and manufacturing city on Sweden's east coast, about 160 kilometres south of Stockholm. Its defining feature is the [Industrilandskapet](/europe/sweden/norrkping/industrilandskapet) — a cluster of 19th-century factories along the Motala Ström river, beautifully repurposed into a university campus, concert halls, and museums. The old industrial buildings give the city centre a character quite different from other mid-sized Swedish towns.

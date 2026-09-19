@@ -1,10 +1,12 @@
 ---
-title: Jumièges Abbey
-type: poi
 latitude: 49.4322
 longitude: 0.8181
-tags: [day_trips, sight]
 score: 8.9
+tags:
+- things_to_do
+- sight
+title: Jumièges Abbey
+type: poi
 ---
 
 The ruins of Jumièges Abbey lie 30 km west of Rouen in a great loop of the Seine. Founded in 654 and destroyed during the French Revolution, the Romanesque abbey was once one of the most powerful religious houses in Normandy. The roofless white limestone arches of the nave still soar above the lawn, fifty metres high and bracketed by the surviving twin towers.

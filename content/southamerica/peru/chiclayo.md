@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Chiclayo-Peru3.jpg
 latitude: -6.771615
 loc_type: city
 longitude: -79.838718
-score: 7.52
+score: 4.752
 snippet: Northern Peruvian city used as a base for Sipán tombs, Huaca Rajada, and
   Lambayeque museums.
 title: Chiclayo
 type: location
+heritage: 5.251
+vibrancy: 4.59
+nature: 3.49
+off_the_beaten_track: 3.183
 ---
 
 Chiclayo is the gateway to some of Peru's most important archaeological sites. This bustling city of about 250,000 on the northern coast is not much to look at itself, but it is the base for visiting the [Royal Tombs of Sipán Museum](/southamerica/peru/chiclayo/royal_tombs_museum) — one of the most significant archaeological discoveries in the Americas — and the actual [excavation site at Huaca Rajada](/southamerica/peru/chiclayo/huaca_rajada) where the Lord of Sipán was found in 1987.

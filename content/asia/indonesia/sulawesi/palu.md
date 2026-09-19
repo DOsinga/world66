@@ -1,15 +1,19 @@
 ---
-latitude: -0.8950
+latitude: -0.895
 loc_type: city
 longitude: 119.8597
-score: 6.3
+score: 6.265
 snippet: Central Sulawesi bay city with Kaili culture, dry hills, and a rebuilt waterfront.
 sources:
-  - https://en.wikivoyage.org/wiki/Palu
-  - https://www.wikidata.org/wiki/Q15826
-  - https://en.wikipedia.org/wiki/Palu
+- https://en.wikivoyage.org/wiki/Palu
+- https://www.wikidata.org/wiki/Q15826
+- https://en.wikipedia.org/wiki/Palu
 title: Palu
 type: location
+heritage: 4.303
+vibrancy: 3.083
+nature: 7.862
+off_the_beaten_track: 6.058
 ---
 
 Palu is the main city of Central Sulawesi, set where the Palu River meets a long, narrow bay. It is not a polished resort town, and the 2018 earthquake and tsunami are still part of the city's recent memory. But it has a stronger sense of place than a simple transit stop.

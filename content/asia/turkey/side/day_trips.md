@@ -1,9 +1,10 @@
 ---
-title: "Day Trips"
-type: section
 linked_locations:
-  - asia/turkey/koprulu_canyon
-  - asia/turkey/antalya
+- asia/turkey/koprulu_canyon
+- asia/turkey/antalya
+- asia/turkey/aspendos
+title: Day Trips
+type: section
 ---
 
 The Manavgat Waterfall, 5km north, is an easy half-day trip: the falls themselves are modest but the setting is pleasant and there are fish restaurants alongside. [Köprülü Canyon](/asia/turkey/koprulu_canyon), about 50km north, is the main destination for white-water rafting in this part of Turkey, with two intact Roman bridges spanning the gorge. Aspendos, 35km west, has one of the best-preserved Roman theatres in the entire Mediterranean world — still used for operas in summer.

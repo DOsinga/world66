@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Urbino_-_Comune_di_Urbino_
 latitude: 43.726261
 loc_type: city
 longitude: 12.636313
-score: 8.51
+score: 5.975
 title: Urbino
 type: location
 snippet: Renaissance hill town in the Marche, shaped by Federico da Montefeltro and
   Raphael's early world.
+heritage: 7.471
+vibrancy: 4.007
+nature: 3.476
+off_the_beaten_track: 2.615
 ---
 
 Urbino is one of the best-preserved Renaissance towns in Italy, perched on twin hills in the Marche region and remarkably unchanged since the 15th century. It was the birthplace of both Raphael and the architect Bramante, and under the rule of Federico da Montefeltro it became one of the most brilliant courts in Europe.

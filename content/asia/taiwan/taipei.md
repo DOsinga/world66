@@ -16,7 +16,7 @@ quick_facts:
   Night Markets: Dozens across the city
   Population: ~2.6 million
   Taipei 101: 508 m, once world's tallest
-score: 9.31
+score: 8.881
 snippet: Taiwanese capital in a mountain-ringed basin, mixing night markets, temples,
   and a modern skyline.
 tip: Taipei is friendly, safe and superbly organised — get an EasyCard for the spotless
@@ -25,6 +25,10 @@ tip: Taipei is friendly, safe and superbly organised — get an EasyCard for the
   Beitou hot springs, and the National Palace Museum holds China's imperial treasures.
 title: Taipei
 type: location
+heritage: 7.933
+vibrancy: 9.308
+nature: 5.523
+off_the_beaten_track: 1.349
 ---
 
 Taipei is the capital and by far the largest city in [Taiwan](/asia/taiwan), home to about 2.6 million people in the city proper and around 7 million in the greater metropolitan area. It sits in a basin surrounded by low mountains, with the Danshui River running along its western edge. The city has rebuilt itself almost entirely since 1949 and is thoroughly modern, though older temple districts and Japanese colonial buildings survive in pockets throughout.

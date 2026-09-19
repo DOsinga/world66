@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cardiff_Bay_WMC.jpg
 latitude: 51.481655
 loc_type: city
 longitude: -3.179193
-score: 8.16
+score: 7.011
 title: Cardiff
 snippet: Compact Welsh capital where a castle-centred core meets bayfront redevelopment
   and a strong cultural life.
 type: location
+heritage: 6.583
+vibrancy: 7.227
+nature: 5.012
+off_the_beaten_track: 1.297
 ---
 
 Cardiff only became the capital of [Wales](/europe/unitedkingdom/wales) in 1955, but it has grown into the role with impressive speed. The city has a genuinely European feel — compact, walkable, and with a cultural life that punches well above the weight of its 350,000 population.

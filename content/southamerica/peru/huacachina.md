@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Oasis_de_Huacachina,_Ica,_
 latitude: -14.0876
 loc_type: feature
 longitude: -75.764
-score: 8.89
+score: 6.49
 snippet: Desert oasis feature outside Ica, a palm-fringed lagoon enclosed by towering
   sand dunes
 sources:
 - https://en.wikipedia.org/wiki/Huacachina
 title: Huacachina
 type: location
+heritage: 2.783
+vibrancy: 6.204
+nature: 7.061
+off_the_beaten_track: 4.706
 ---
 
 Huacachina is a real desert oasis — a green lagoon ringed by towering white sand dunes, about five kilometres outside the city of [Ica](/southamerica/peru/ica) on Peru's south coast. The village around the water consists of little more than a single ring of hotels, hostels, restaurants, and souvenir stalls, all facing the [lagoon](/southamerica/peru/huacachina/lagoon). It takes ten minutes to walk around. There is essentially one thing to do — climb the dunes — and people do it for several days running.

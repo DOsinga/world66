@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kaiserslautern_19.JPG
 latitude: 49.443217
 loc_type: city
 longitude: 7.768995
-score: 6.75
+score: 4.872
 snippet: Palatinate Forest city with medieval roots and a distinctive American military
   presence around Ramstein.
 title: Kaiserslautern
 type: location
+heritage: 4.765
+vibrancy: 4.95
+nature: 3.52
+off_the_beaten_track: 2.193
 ---
 
 Kaiserslautern, known locally as K-Town or simply Lautern, sits in the heart of the [Palatinate Forest](/europe/germany/rhinelandpalatinate/kaiserslautern/palatinate_forest), the largest contiguous area of woodland in Germany. The city has a dual identity that makes it unlike almost anywhere else in the country: it is simultaneously a mid-sized German city with medieval roots and a major American military hub, home to Ramstein Air Base and a large US Army garrison. This gives the city a distinctive atmosphere, with American diners and car dealerships sitting alongside traditional German bakeries and Weinstuben.

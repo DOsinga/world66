@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Denver,_Colorado_skyline_(
 latitude: 39.739236
 loc_type: city
 longitude: -104.984862
-score: 8.32
+score: 7.262
 snippet: Mile-high Rocky Mountain city where Colorado's urban museums and food scene
   meet fast access to the Front Range.
 title: Denver
 type: location
+heritage: 3.747
+vibrancy: 6.355
+nature: 8.185
+off_the_beaten_track: 1.808
 ---
 
 Denver sits at the base of the Rocky Mountains at exactly one mile above sea level, a fact marked by a step on the west side of the [State Capitol](/northamerica/unitedstates/colorado/denver/colorado_state_capitol) building. The city has reinvented itself over the past two decades from a quiet cowtown into a genuinely interesting place to spend time, with a strong food scene, good museums, and easy access to the mountains.
@@ -21,4 +25,4 @@ The downtown core is anchored by [LoDo](/northamerica/unitedstates/colorado/denv
 
 Denver's food scene has come into its own. The [RiNo](/northamerica/unitedstates/colorado/denver/rino) (River North) arts district is packed with breweries, taquerias, and inventive restaurants — [Hop Alley](/northamerica/unitedstates/colorado/denver/hop_alley) does excellent modern Chinese, and [Ratio Beerworks](/northamerica/unitedstates/colorado/denver/ratio_beerworks) is a good local brewery. For something more traditional, [Buckhorn Exchange](/northamerica/unitedstates/colorado/denver/buckhorn_exchange) has been serving game meat since 1893. The city has more breweries per capita than almost anywhere in the country, and the craft beer culture is deeply embedded. The [Highlands](/northamerica/unitedstates/colorado/denver/highlands) across the Platte and historic [Capitol Hill](/northamerica/unitedstates/colorado/denver/capitol_hill) east of downtown round out the most walkable neighborhoods; [Five Points](/northamerica/unitedstates/colorado/denver/five_points), once "the Harlem of the West", is the city's Black historic centre.
 
-The mountains are right there. You can be skiing at [Loveland Pass](/northamerica/unitedstates/colorado/loveland_pass) in 90 minutes, hiking in [Rocky Mountain National Park](/northamerica/unitedstates/colorado/rocky_mountain_national_park) in two hours, or soaking in hot springs at [Idaho Springs](/northamerica/unitedstates/colorado/idaho_springs) in 45 minutes. The world's most beautiful concert venue, [Red Rocks Amphitheatre](/northamerica/unitedstates/colorado/denver/red_rocks), is fifteen miles west. Denver itself has an excellent park system — [City Park](/northamerica/unitedstates/colorado/denver/city_park), with views of the mountains over the lake, is a fine place to spend an afternoon, and [Cheesman Park](/northamerica/unitedstates/colorado/denver/cheesman_park) next to the [Denver Botanic Gardens](/northamerica/unitedstates/colorado/denver/denver_botanic_gardens) is the prettiest green space in the central neighborhoods.
+The mountains are right there. You can be skiing at [Loveland Pass](/northamerica/unitedstates/colorado/loveland_pass) in 90 minutes, hiking in [Rocky Mountain National Park](/northamerica/unitedstates/colorado/rocky_mountain_national_park) in two hours, or soaking in hot springs at [Idaho Springs](/northamerica/unitedstates/colorado/idaho_springs) in 45 minutes. The world's most beautiful concert venue, [Red Rocks Amphitheatre](/northamerica/unitedstates/colorado/red_rocks), is fifteen miles west. Denver itself has an excellent park system — [City Park](/northamerica/unitedstates/colorado/denver/city_park), with views of the mountains over the lake, is a fine place to spend an afternoon, and [Cheesman Park](/northamerica/unitedstates/colorado/denver/cheesman_park) next to the [Denver Botanic Gardens](/northamerica/unitedstates/colorado/denver/denver_botanic_gardens) is the prettiest green space in the central neighborhoods.

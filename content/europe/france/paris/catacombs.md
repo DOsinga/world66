@@ -11,6 +11,7 @@ tags:
 - things_to_do
 - museum
 - sight
+- montparnasse
 title: The Catacombs
 type: poi
 url: www.catacombes.paris.fr

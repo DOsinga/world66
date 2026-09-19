@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Duna_Mayor,_Valle_de_la_Lu
 latitude: -22.9112
 loc_type: feature
 longitude: -68.323
-score: 9.1
+score: 5.792
 snippet: Atacama desert valley of salt crust, dunes, and wind-carved ridges near San
   Pedro de Atacama
 sources:
 - https://en.wikipedia.org/wiki/Valle_de_la_Luna_(Chile)
 title: Valle de la Luna
 type: location
+heritage: 1.783
+vibrancy: 1.26
+nature: 7.575
+off_the_beaten_track: 4.598
 ---
 
 Valle de la Luna is the Atacama's most famous close-to-town landscape, a wind-carved pocket of the Cordillera de la Sal about 13 kilometres west of San Pedro de Atacama. The name is obvious once you arrive: pale salt crust, red-brown ridges, dunes, dry ravines, and a silence that makes the place feel less like a valley than a set from another planet.

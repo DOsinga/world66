@@ -4,11 +4,15 @@ done:
 latitude: 54.629569
 loc_type: city
 longitude: 39.742504
-score: 6.21
+score: 4.408
 snippet: Central Russian city on the Oka River, rebuilt after one of the Mongol invasion's
   harshest destructions
 title: Ryazan
 type: location
+heritage: 5.219
+vibrancy: 3.55
+nature: 3.23
+off_the_beaten_track: 3.663
 ---
 
 Ryazan is a city of about half a million people in central European Russia, capital of Ryazan Oblast, sitting on the Oka River about 180 kilometres southeast of Moscow. It is an old place — originally founded in the eleventh century some 50 kilometres downstream — but the original city was completely destroyed by the Mongol khan Batu in 1237, one of the first and most thorough obliterations of the invasion. The city was rebuilt at a new site, eventually taking the Ryazan name in 1778. That history gives the city an unusual distinction: it was essentially started over from nothing after the Mongol destruction.

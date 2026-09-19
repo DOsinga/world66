@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Castello_di_Zuccarello.jpg
 latitude: 44.111029
 loc_type: city
 longitude: 8.115849
-score: 7.35
+score: 5.954
 snippet: Fortified Ligurian hamlet in the Neva valley, preserving a porticoed medieval
   street below Del Carretto ruins
 tags:
 - rivieradellepalme
 title: Zuccarello
 type: location
+heritage: 2.497
+vibrancy: 2.217
+nature: 7.55
+off_the_beaten_track: 5.501
 ---
 
 Zuccarello is a fortified medieval hamlet in the Neva valley of the Ligurian hinterland, far enough inland from the coast to feel like a different world. Founded in 1248, it was bitterly contested for centuries owing to its position controlling the mountain road between the Ligurian coast and Piedmont. The Del Carretto family ruled it for most of the Middle Ages, and their [ruined castle](/europe/italy/liguria/zuccarello/del_carretto_castle) still dominates the hill above.

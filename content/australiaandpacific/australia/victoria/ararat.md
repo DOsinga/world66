@@ -2,7 +2,7 @@
 latitude: -37.285
 loc_type: city
 longitude: 142.933
-score: 6.5
+score: 4.313
 snippet: Western Victorian goldfields town shaped by Chinese mining history and stark
   asylum heritage.
 sources:
@@ -18,6 +18,10 @@ image: ararat.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ararat_Court_House_001.JPG
 image_license: CC BY 3.0
 image_attribution: Mattinbgn
+heritage: 4.663
+vibrancy: 3.087
+nature: 4.708
+off_the_beaten_track: 3.771
 ---
 
 Ararat is a western Victorian goldfields town with a sharper identity than most highway stops between Ballarat and the Grampians. Its foundation story runs through Chinese miners heading inland during the 1850s gold rush, and its darker nineteenth-century buildings later became some of Victoria's most unsettling institutional heritage.

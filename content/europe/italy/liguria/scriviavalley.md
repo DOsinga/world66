@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ferrovia_Genova-Casella.jp
 latitude: 44.55
 loc_type: feature
 longitude: 8.97
-score: 7.13
+score: 3.869
 snippet: Inland Ligurian valley of chestnut woods, small towns, and old routes toward
   the Giovi pass.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Torriglia
 title: Scrivia Valley
 type: location
+heritage: 3.247
+vibrancy: 1.56
+nature: 4.62
+off_the_beaten_track: 2.891
 ---
 
 The Scrivia Valley runs inland from [Genoa](/europe/italy/liguria/genoa) through a corridor of hills and chestnut woods toward the Giovi pass, which for centuries marked the boundary between the Ligurian Republic and the Holy Roman Empire. It's a quiet, workaday valley — more weekend retreat for Genoese than international tourist destination — but that's part of its appeal.

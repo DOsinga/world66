@@ -11,10 +11,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Main_Street_New_Zealand_-_
 latitude: -35.114126
 loc_type: city
 longitude: 173.263996
-score: 7.18
+score: 5.714
 title: Kaitaia
 type: location
 snippet: Far North town at the base of the road to Cape Rēinga and Ninety Mile Beach.
+heritage: 3.967
+vibrancy: 2.649
+nature: 7.175
+off_the_beaten_track: 5.104
 ---
 
 Kaitaia is the northernmost town of any size in New Zealand, sitting at the base of the long finger of land that reaches up to Cape Rēinga. With a population of around 5,000, it is a working rural town — not a resort — and it feels like one. The pace is unhurried, the people are friendly, and the sense that you are at the end of the world is very real.

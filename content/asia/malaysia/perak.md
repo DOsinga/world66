@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Masjid_Ubudiah.jpg
 latitude: 4.812181
 loc_type: city
 longitude: 100.979791
-score: 7.56
+score: 4.959
 snippet: Malaysian state shaped by tin mining, Ipoh shophouses, royal Kuala Kangsar,
   and mountain rainforest.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Perak
 title: Perak
 type: location
+heritage: 4.497
+vibrancy: 3.862
+nature: 5.781
+off_the_beaten_track: 3.233
 ---
 
 Perak is [Malaysia's](/asia/malaysia) third-largest state, stretching from the jungle-covered mountains of the Main Range down to the mangrove coast of the Strait of Malacca. The name means "silver" in Malay — a reference to the tin that once made this one of the wealthiest states in Southeast Asia. The tin boom built the capital [Ipoh](/asia/malaysia/ipoh) into a grand colonial city with ornate shophouses, cave temples, and some of the best street food in Malaysia. The state's royal town, **Kuala Kangsar**, sits 50 km north on the Perak River — a quieter, greener place with the golden-domed [Ubudiah Mosque](/asia/malaysia/perak/ubudiah_mosque), the [Sultan's palace](/asia/malaysia/perak/istana_iskandariah) and the old "Eton of the East", [Malay College](/asia/malaysia/perak/malay_college).

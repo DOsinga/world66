@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2009-0620-WI017-Wausau-400
 latitude: 44.9598
 loc_type: city
 longitude: -89.6273
-score: 6.19
+score: 3.856
 snippet: Central Wisconsin city on the Wisconsin River, known for whitewater kayaking
   and easy access to Rib Mountain
 title: Wausau
 type: location
+heritage: 2.538
+vibrancy: 3.034
+nature: 4.51
+off_the_beaten_track: 1.202
 ---
 
 Wausau is an unassuming central Wisconsin city that punches above its weight for outdoor recreation. The Wisconsin River runs through the centre of town, and a series of rapids just below the downtown bridge has made Wausau one of the top whitewater kayaking venues in the Midwest — the city has hosted numerous national and world championships over the past two decades.

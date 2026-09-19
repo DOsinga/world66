@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ruins_at_Tulum,_QR_Mexico_
 latitude: 20.2114
 loc_type: city
 longitude: -87.4654
-score: 9.34
+score: 5.253
 snippet: Maya coastal town where cliff-top ruins look over the turquoise Caribbean
   and surrounding jungle.
 title: Tulum
 type: location
+heritage: 3.703
+vibrancy: 4.478
+nature: 5.979
+off_the_beaten_track: 4.83
 ---
 
 Few places on the Yucatán Peninsula deliver such a concentrated hit of beauty. Tulum is where the ancient Maya chose to build one of their few coastal cities, and it is easy to see why: the cliffs here are dramatic, the turquoise Caribbean stretches away below them, and the jungle presses in on three sides. The ruins of Tulum remain one of the most striking archaeological sites in Mexico, not because they rival Chichen Itza in scale, but because nowhere else can you watch the sea from a Maya temple.

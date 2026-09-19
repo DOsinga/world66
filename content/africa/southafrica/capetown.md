@@ -14,7 +14,7 @@ quick_facts:
   Plant Species: More than all of Britain
   Robben Island: Mandela jailed 18 years
   Table Mountain: 1,085 m high
-score: 9.86
+score: 7.047
 snippet: South African coastal city beneath Table Mountain, blending beaches, vineyards,
   colonial history, and post-apartheid complexity.
 tip: Cable-car or climb Table Mountain on a clear morning — the 'tablecloth' cloud
@@ -23,6 +23,10 @@ tip: Cable-car or climb Table Mountain on a clear morning — the 'tablecloth' c
   after dark and don't flash valuables.
 title: Cape Town
 type: location
+heritage: 6.041
+vibrancy: 7.268
+nature: 6.475
+off_the_beaten_track: 2.434
 ---
 
 Cape Town has the most beautiful of settings, wedged between the Atlantic and the flat-topped massif of [Table Mountain](/africa/southafrica/capetown/tablemountain). Combine that with a Mediterranean climate, a layered colonial and post-apartheid history, and one of the most varied collections of sights in any African city, and you have one of the world's great travel destinations.

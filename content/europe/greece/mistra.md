@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Despot%27s_Palace_(2026).j
 latitude: 37.068905
 loc_type: feature
 longitude: 22.375748
-score: 8.2
+score: 6.271
 snippet: Byzantine ghost city above Sparta, with hillside palaces, monasteries, and
   late medieval frescoes
 title: Mistra
 type: location
+heritage: 7.552
+vibrancy: 1.927
+nature: 5.358
+off_the_beaten_track: 2.931
 ---
 
 Mistra is a ghost city clinging to a steep hillside above the Laconian plain, about six kilometers west of Sparta. A UNESCO World Heritage Site since 1989, it was the last great flowering of Byzantine civilization: a fortified city of palaces, churches, and monasteries that served as capital of the Despotate of the Morea from the thirteenth century until the Ottomans took it in 1460. The last Byzantine emperor, Constantine XI Palaiologos, was crowned here before going to die defending Constantinople.

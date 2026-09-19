@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Jokulsarlon_lake,_Iceland.
 latitude: 64.0781
 loc_type: feature
 longitude: -16.23
-score: 9.43
+score: 5.725
 snippet: Southeastern Iceland glacial lagoon where Breiðamerkurjökull icebergs drift
   toward black-sand Diamond Beach.
 sources:
 - https://en.wikipedia.org/wiki/J%C3%B6kuls%C3%A1rl%C3%B3n
 title: Jökulsárlón
 type: location
+heritage: 1.721
+vibrancy: 1.291
+nature: 7.407
+off_the_beaten_track: 4.808
 ---
 
 Jökulsárlón is a glacial lagoon in southeastern Iceland, fed by icebergs calving from the Breiðamerkurjökull glacier — an outlet of the vast Vatnajökull ice cap. The lagoon has formed within living memory: in 1935 it barely existed; today it is Iceland's deepest lake at over 200 metres and still growing as the glacier retreats. The floating icebergs range from house-sized chunks to smaller pieces worn smooth by waves, and they range in colour from brilliant white to deep blue, with occasional streaks of ash-black from volcanic layers trapped in the ice.

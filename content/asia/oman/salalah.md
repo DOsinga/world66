@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Dunst_Oman_scan0322_-_Burj
 latitude: 17.017495
 loc_type: city
 longitude: 54.101092
-score: 8.2
+score: 6.117
 snippet: Dhofar coastal city transformed by the khareef monsoon into Oman's greenest
   landscape.
 title: Salalah
 type: location
+heritage: 4.619
+vibrancy: 5.735
+nature: 6.71
+off_the_beaten_track: 4.487
 ---
 
 Salalah is about as far from the rest of Oman as you can get — a twelve-hour drive or a ninety-minute flight from Muscat, deep in the southern province of Dhofar. It is a different country in almost every respect. Where the north is desert, Dhofar is subtropical. The Indian Ocean monsoon — the khareef — rolls in every June and soaks the hills in mist and rain until September. The landscape turns an almost improbable green. Waterfalls run in the limestone hills. Cattle stand in meadows. It feels more like East Africa than Arabia, which is historically accurate: Oman's sultans ruled Zanzibar for two centuries, and the cultural exchange ran in both directions.

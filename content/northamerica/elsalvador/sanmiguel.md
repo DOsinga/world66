@@ -5,13 +5,17 @@ done:
 latitude: 13.4833
 loc_type: city
 longitude: -88.1833
-score: 5.87
+score: 4.233
 snippet: Eastern Salvadoran commercial city below Volcán Chaparrastique, known for
   its large November carnival.
 sources:
 - https://en.wikipedia.org/wiki/San_Miguel,_El_Salvador
 title: San Miguel
 type: location
+heritage: 3.086
+vibrancy: 3.113
+nature: 5.057
+off_the_beaten_track: 3.765
 ---
 
 San Miguel is El Salvador's third-largest city, set in the hot eastern lowlands about 140 km from [San Salvador](/northamerica/elsalvador/sansalvador). It is the commercial capital of eastern El Salvador — a working city of around 250,000 people that functions as the main transit hub for the region. Most travelers pass through, but there is more here than the transit stop reputation suggests.

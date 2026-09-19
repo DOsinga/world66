@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 36.351
 longitude: 127.385
-score: 7.8
+score: 4.696
 snippet: Central Korean rail hub and science city with hot springs, museums, mountain
   parks, and a famous bakery culture.
 sources:
@@ -14,6 +14,10 @@ image: daejeon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Daejeoncheon_river_in_Daejeon_South_Korea.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Pmlydon
+heritage: 3.508
+vibrancy: 5.182
+nature: 2.684
+off_the_beaten_track: 0.955
 ---
 
 Daejeon is South Korea's central crossroads: a major rail junction, administrative city, and research hub about an hour from [Seoul](/asia/southkorea/seoul) by KTX. It is less immediately showy than Seoul or Busan, but it works well as a practical base for central Korea and has a calm, local rhythm.

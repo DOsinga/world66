@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cliff_Palace_Mesa_Verde_Na
 latitude: 37.3495
 loc_type: city
 longitude: -108.5841
-score: 6.98
+score: 4.932
 snippet: Four Corners high-desert town, gateway to Mesa Verde and Ancestral Puebloan
   cliff dwellings.
 title: Cortez
 type: location
+heritage: 3.891
+vibrancy: 2.7
+nature: 5.996
+off_the_beaten_track: 4.249
 ---
 
 Cortez sits in the southwest corner of Colorado, surrounded by high desert and the ancient landscape of the Four Corners region. Its main draw is as the gateway to Mesa Verde National Park, where the Ancestral Puebloans built their cliff dwellings into the canyon walls around 1,400 years ago — Mesa Verde is one of the most significant pre-Columbian archaeological sites in North America and is worth at least a full day.

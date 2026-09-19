@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cekungan_Bandung.jpg
 latitude: -6.9218
 loc_type: city
 longitude: 107.6071
-score: 7.86
+score: 5.832
 title: Bandung
 type: location
 snippet: West Java highland city ringed by volcanoes, known for cool air and Dutch
   Art Deco streets.
+heritage: 4.907
+vibrancy: 5.796
+nature: 5.926
+off_the_beaten_track: 3.135
 ---
 
 Indonesia's third-largest city and capital of West Java, Bandung sits at 750 metres above sea level on a highland plateau ringed by volcanoes. The elevation keeps the air noticeably cooler than sweltering [Jakarta](/asia/indonesia/java/jakarta), two hours to the northwest, and the Dutch colonials used it as a summer retreat. They left behind some of Java's finest Art Deco architecture — a walkable cluster of 1920s and 30s buildings that earned Bandung the nickname "Paris van Java." [Braga Street](/asia/indonesia/java/bandung/braga_street), [Gedung Sate](/asia/indonesia/java/bandung/gedung_sate), the [Hotel Savoy Homann](/asia/indonesia/java/bandung/hotel_savoy_homann), and [Villa Isola](/asia/indonesia/java/bandung/villa_isola) are the obvious starting points.
@@ -24,4 +28,4 @@ This is Sundanese territory, culturally distinct from the Javanese heartland aro
 
 Bandung is also a university city. The [Bandung Institute of Technology (ITB)](/asia/indonesia/java/bandung/itb_campus), founded in 1920, was where Sukarno studied engineering before becoming Indonesia's founding president. The student population gives the city energy and a creative streak — the indie music scene and street art culture that emerged here in the 2000s spread across the country. Factory outlet shopping, clustered especially along Jalan Riau and [Jalan Cihampelas](/asia/indonesia/java/bandung/cihampelas_walk), draws a steady stream of weekend visitors from Jakarta looking for discounted clothing and leather goods.
 
-The main reason visitors come, however, is the landscape. Bandung sits in a caldera, and active volcanoes are visible from the city on clear mornings. [Tangkuban Perahu](/asia/indonesia/java/bandung/tangkuban_perahu), with its accessible craters and sulphurous vents, is 30km north. Beyond it, tea plantations stretch across the hills toward the [Ciater hot springs](/asia/indonesia/java/bandung/ciater_hot_springs). To the south, the roads wind past strawberry farms and dramatic gorges toward [Kawah Putih](/asia/indonesia/java/bandung/kawah_putih) and the highland lake of [Situ Patenggang](/asia/indonesia/java/situ_patenggang). You could spend a week in Bandung and not exhaust what the surrounding countryside offers.
+The main reason visitors come, however, is the landscape. Bandung sits in a caldera, and active volcanoes are visible from the city on clear mornings. [Tangkuban Perahu](/asia/indonesia/java/tangkuban_perahu), with its accessible craters and sulphurous vents, is 30km north. Beyond it, tea plantations stretch across the hills toward the [Ciater hot springs](/asia/indonesia/java/bandung/ciater_hot_springs). To the south, the roads wind past strawberry farms and dramatic gorges toward [Kawah Putih](/asia/indonesia/java/kawah_putih) and the highland lake of [Situ Patenggang](/asia/indonesia/java/situ_patenggang). You could spend a week in Bandung and not exhaust what the surrounding countryside offers.

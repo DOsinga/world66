@@ -1,0 +1,20 @@
+{% extends "guide/base.html" %}
+
+{% block title %}How We Score - World66{% endblock %}
+
+{% block content %}
+<h1>How We Score</h1>
+
+<p>
+World66 scores destinations on four travel dimensions: heritage, vibrancy,
+nature, and off the beaten track. The scores are generated from a travel-specific
+model, then written into each location's frontmatter so the site can render them
+without doing model work at request time.
+</p>
+
+<p>
+The public score combines those four dimensions with extra weight on a
+destination's strongest and second-strongest qualities. Similar destinations are
+based on the model's 12 hidden travel components, stored in the search index.
+</p>
+{% endblock %}

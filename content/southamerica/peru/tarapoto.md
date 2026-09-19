@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bandera_de_Tarapoto_con_es
 latitude: -6.48772
 loc_type: city
 longitude: -76.359871
-score: 7.36
+score: 5.835
 snippet: High-Amazon city of palms and waterfalls, gateway to the forested San Martín
   plateau
 title: Tarapoto
 type: location
+heritage: 3.526
+vibrancy: 4.656
+nature: 6.795
+off_the_beaten_track: 5.027
 ---
 
 Tarapoto, known as "the City of Palms," sits on the edge of the high Amazon in northern Peru — the commercial centre of the San Martín region, at the point where the Cumbaza and Shilcayo rivers meet on a forested plateau at 350 metres elevation. The local name for the area is "la tierra de las cataratas" — the land of waterfalls — and that is the main reason travellers come: the jungle begins immediately east of the city in the [Cordillera Escalera](/southamerica/peru/tarapoto/cordillera_escalera) reserve, and within a couple of hours' drive you can reach dozens of waterfalls like the [Catarata de Ahuashiyacu](/southamerica/peru/tarapoto/catarata_de_ahuash), cloud-forest reserves, and indigenous villages like [Lamas](/southamerica/peru/tarapoto/lamas_peru) and [Chazuta](/southamerica/peru/chazuta).

@@ -1,4 +1,5 @@
 {% extends "guide/base.html" %}
+{% load static %}
 
 {% block title %}
 {{ page.title }}{% if page.page_type == "location" %} Travel Guide{% endif %} - World66
@@ -25,10 +26,15 @@
 {% endblock %}
 
 {% block sidebar %}
+{% if page.page_type != "bloglist" %}
 <aside id="sidebar">
-  {% if sections or top_locations %}
+  {% comment %}Sections moved into the main column for location pages, where they
+  render at every width — so listing them here too showed them twice on mobile.
+  Other page types still need this list; the main column has no sections block
+  for them.{% endcomment %}
+  {% if sections and page.page_type != "location" or top_locations %}
   <nav class="sidebar-mobile-nav">
-    {% if sections %}
+    {% if sections and page.page_type != "location" %}
     <div class="sidebar-mobile-heading">Sections</div>
     <ul class="sidebar-mobile-list">
       {% for s in sections %}
@@ -69,6 +75,114 @@
     </div>
     <div class="sidebar-map-canvas" id="sidebar-map"></div>
   </div>
+  {% endif %}
+
+  {% if location_providers %}
+  <div class="svc-panel">
+    <div class="svc-panel-head">
+      <span class="svc-panel-title">Arrange your trip</span>
+    </div>
+    {% if highlighted_provider %}
+    <p class="svc-panel-sub svc-panel-sub--featured">You followed a link from <strong>{{ highlighted_provider.title }}</strong>. <a href="{{ request.path }}">Show everyone</a></p>
+    {% else %}
+    <p class="svc-panel-sub">{% if providers_on_whatsapp %}Contact providers directly on WhatsApp &mdash; no booking fee, no middleman.{% else %}Contact these providers directly &mdash; no booking fee, no middleman.{% endif %}</p>
+    {% endif %}
+    {% for p in location_providers %}
+    {% include "guide/widgets/provider_row.html" %}
+    {% endfor %}
+    {% if provider_count > location_providers|length %}
+    <button type="button" class="svc-all" id="svc-all-btn" aria-haspopup="dialog">
+      See all {{ provider_count }} activities &rarr;
+    </button>
+    {% endif %}
+  </div>
+
+  <dialog class="svc-modal" id="svc-modal" aria-labelledby="svc-modal-title">
+    <div class="svc-modal-head">
+      <span class="svc-panel-title" id="svc-modal-title">Arrange your trip in {{ page.title }}</span>
+      <button type="button" class="svc-modal-close" id="svc-modal-close" aria-label="Close">&times;</button>
+    </div>
+    <p class="svc-panel-sub">{% if providers_on_whatsapp %}Contact providers directly on WhatsApp &mdash; no booking fee, no middleman.{% else %}Contact these providers directly &mdash; no booking fee, no middleman.{% endif %}</p>
+    {% if provider_categories %}
+    <div class="svc-filter-bar" id="svc-filter-bar">
+      <button type="button" class="svc-filter-btn is-active" data-filter="">All {{ location_providers_all|length }}</button>
+      {% for cat in provider_categories %}
+      <button type="button" class="svc-filter-btn" data-activity="{{ cat.kind }}" data-filter="{{ cat.kind }}">{{ cat.label }} {{ cat.count }}</button>
+      {% endfor %}
+    </div>
+    {% endif %}
+    <div class="svc-modal-list" id="svc-modal-list">
+      {% for p in location_providers_all %}
+      {% include "guide/widgets/provider_row.html" %}
+      {% endfor %}
+    </div>
+  </dialog>
+  {% endif %}
+
+  {% if dimension_rows %}
+  <div class="sidebar-block-head">
+    <span class="svc-panel-title">Travel profile</span>
+  </div>
+  <div class="score-profile-card" id="score-profile-card">
+    <div class="score-profile-verdict">{{ score_verdict }}</div>
+
+    <button type="button" class="score-profile-toggle" id="score-profile-toggle"
+            aria-expanded="false" aria-controls="score-profile-body">
+      <span class="score-profile-toggle-label" data-collapsed-label="See the four dimensions" data-expanded-label="Hide the four dimensions">See the four dimensions</span>
+      <span class="score-profile-toggle-glyph" aria-hidden="true">+</span>
+    </button>
+
+    <div class="score-profile-body" id="score-profile-body">
+      <div class="score-profile-rows">
+        {% for row in dimension_rows %}
+        <div class="score-profile-row" tabindex="0">
+          <div class="score-profile-row-head">
+            <span class="score-profile-row-name">{{ row.label }}</span>
+            <span class="score-profile-row-meta">
+              <span class="score-profile-row-rank">{{ row.percentile_label }}</span>
+              <span class="score-profile-row-score">{{ row.score }}</span>
+            </span>
+          </div>
+          <div class="score-profile-bar-track">
+            <div class="score-profile-bar-fill" style="width: {{ row.width_pct }}%"></div>
+          </div>
+          {% if row.alternatives %}
+          <div class="score-profile-row-alts">
+            <div class="score-profile-row-alts-label">Higher in {{ row.parent_title }}</div>
+            <div class="score-profile-chips">
+              {% for alt in row.alternatives %}
+              <a href="{{ alt.page.get_absolute_url }}" class="score-profile-chip">{{ alt.page.title }} <span class="score-profile-chip-match">{{ alt.score }}</span></a>
+              {% endfor %}
+            </div>
+          </div>
+          {% elif row.parent_title %}
+          <div class="score-profile-row-alts">
+            <div class="score-profile-chips">
+              <span class="score-profile-chip score-profile-chip--static">Highest in {{ row.parent_title }}</span>
+            </div>
+          </div>
+          {% endif %}
+        </div>
+        {% endfor %}
+      </div>
+
+      {% if similar_in_country %}
+      <div class="score-profile-similar">
+        <div class="score-profile-similar-label">Similar in {{ country_title }}</div>
+        <div class="score-profile-chips">
+          {% for item in similar_in_country %}
+          <a href="{{ item.page.get_absolute_url }}" class="score-profile-chip">{{ item.page.title }} <span class="score-profile-chip-match">{{ item.match_pct }}%</span></a>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+
+      <div class="score-profile-footer">
+        <a href="/how-we-score">HOW WE SCORE</a>
+      </div>
+    </div>
+  </div>
+  <script src="{% static 'js/score-profile.js' %}"></script>
   {% endif %}
 
   {% if parent_sections|length > 1 %}
@@ -118,6 +232,7 @@
   {% endif %}
 
 </aside>
+{% endif %}
 {% endblock %}
 
 {% block background %}{% endblock %}
@@ -125,8 +240,25 @@
 {% block hero %}
 {% if hero_image_url %}
 <div id="hero" class="hero">
-  <div class="hero-card">
+  <div class="hero-card" id="hero-card">
     <img src="{{ hero_image_url }}" alt="{{ page.title }}">
+    {% if markers_full_json != "[]" or lat and lng %}
+    <div class="mobile-hero-map-slot" id="mobile-hero-map-slot"></div>
+    {% endif %}
+    {% if page.meta.quick_facts %}
+    <div class="mobile-hero-facts-slot" id="mobile-hero-facts-slot"></div>
+    {% endif %}
+    {% if page.meta.quick_facts or markers_full_json != "[]" or lat and lng %}
+    <div class="hero-media-switch" role="group" aria-label="Choose page media">
+      <button type="button" data-hero-media="photo" aria-pressed="true">Photo</button>
+      {% if markers_full_json != "[]" or lat and lng %}
+      <button type="button" data-hero-media="map" aria-pressed="false">Map</button>
+      {% endif %}
+      {% if page.meta.quick_facts %}
+      <button type="button" data-hero-media="facts" aria-pressed="false">Facts</button>
+      {% endif %}
+    </div>
+    {% endif %}
     {% if hero_image_source %}
     <a class="hero-attribution" href="{{ hero_image_source }}" target="_blank" rel="noopener noreferrer" title="{{ hero_image_license }}">&#169;</a>
     {% endif %}
@@ -141,10 +273,19 @@
 {% block body_style %}{% endblock %}
 
 {% block content %}
-<h1 class="{% if hero_image_url or is_continent %}page-title-hidden{% endif %}"><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
+<h1 class="{% if hero_image_url or is_continent %}page-title-hidden{% endif %}">{% if page.page_type != "bloglist" %}<button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{% endif %}{{ page.title }}</h1>
 
 {% if page.meta.snippet %}
 <p class="page-snippet">{{ page.meta.snippet }}</p>
+{% endif %}
+
+{% if not hero_image_url %}
+{% if markers_full_json != "[]" or lat and lng %}
+<div class="mobile-map-slot" id="mobile-map-slot"></div>
+{% endif %}
+{% if page.meta.quick_facts %}
+<div class="mobile-facts-slot" id="mobile-facts-slot"></div>
+{% endif %}
 {% endif %}
 
 {% if page.properties %}
@@ -153,10 +294,23 @@
     {% for key, value in page.properties.items %}
     <tr>
       <th>{{ key }}</th>
-      <td>{% if key == "Website" %}<a href="http://{{ value }}" target="_blank" rel="noopener noreferrer">{{ value }}</a>{% elif key == "Email" %}<a href="mailto:{{ value }}">{{ value }}</a>{% else %}{{ value }}{% endif %}</td>
+      <td>{% if key == "Website" %}<a href="http://{{ value }}" target="_blank" rel="noopener noreferrer">{{ value }}</a>{% elif key == "Email" %}<a href="mailto:{{ value }}">{{ value }}</a>{% elif key == "WhatsApp" %}{% if page.whatsapp_link %}<a href="{{ page.whatsapp_link }}" target="_blank" rel="noopener noreferrer">{{ value }}</a>{% else %}{{ value }}{% endif %}{% else %}{{ value }}{% endif %}</td>
     </tr>
     {% endfor %}
   </table>
+</div>
+{% endif %}
+
+{% if page.is_commercial %}
+<div class="book-box">
+  <div class="book-box-label">{% if page.whatsapp_link %}Book on WhatsApp{% else %}Book directly with the provider{% endif %}</div>
+  <div class="book-box-actions">
+    {% if page.whatsapp_link %}<a class="book-btn book-btn--whatsapp" href="{{ page.whatsapp_link }}" target="_blank" rel="noopener noreferrer">Message on WhatsApp</a>{% endif %}
+    {% if page.meta.phone %}<a class="book-btn" href="tel:{{ page.meta.phone|cut:" " }}">{{ page.meta.phone }}</a>{% endif %}
+    {% if page.meta.email %}<a class="book-btn" href="mailto:{{ page.meta.email }}">{{ page.meta.email }}</a>{% endif %}
+    {% if page.meta.url %}<a class="book-btn" href="http://{{ page.meta.url }}" target="_blank" rel="noopener noreferrer">Website</a>{% endif %}
+  </div>
+  <p class="book-box-note">World66 takes no commission and has no relationship with the providers listed here. Prices and availability are the provider&rsquo;s own.</p>
 </div>
 {% endif %}
 
@@ -181,10 +335,57 @@
 </div>
 {% endif %}
 
+{% if page.page_type == "location" and sections and inline_sections %}
+{% for item in inline_sections %}
+<div class="poi-section poi-section--inline">
+  <span class="section-kicker">Guide</span>
+  <h2 class="poi-section-title">{{ item.section.title }}</h2>
+  {% if item.body_html %}
+  <div class="body-text">{{ item.body_html|safe }}</div>
+  {% endif %}
+  {% if item.pois %}
+  <ul class="poi-list">
+    {% for poi in item.pois %}
+    <li>
+      <a href="{{ poi.get_absolute_url }}" class="poi-list-link">
+        <span class="poi-num">{{ forloop.counter|stringformat:"02d" }}</span>
+        <div class="poi-meat">
+          <div class="poi-name">{{ poi.title }}</div>
+          <div class="poi-blurb">{% if poi.meta.snippet %}{{ poi.meta.snippet }}{% elif poi.body %}{{ poi.body|truncatewords:24 }}{% endif %}</div>
+        </div>
+        <div class="poi-tag">{% if poi.category %}{{ poi.category }}{% endif %}</div>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+</div>
+{% endfor %}
+{% endif %}
+
+{% if page.page_type == "location" and sections and not inline_sections %}
+<div class="sections-row-wrap">
+  <span class="section-kicker">Guide</span>
+  <h2 class="section-block-heading">Sections</h2>
+  <div class="sections-row">
+    {% for s in sections %}
+    {% if s.slug != "neighbourhoods" %}
+    <a href="{{ s.get_absolute_url }}" class="section-card" data-slug="{{ s.slug }}">
+      <div class="section-card-icon"></div>
+      <div class="section-card-name">{{ s.title }}</div>
+      <span class="section-card-arrow">&#8594;</span>
+    </a>
+    {% endif %}
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
 {% if tags %}
 <div class="tags">
   {% for tag in tags %}
-  <span class="tag">{{ tag }}</span>
+  {% if tag.url %}<a class="tag tag-link" href="{{ tag.url }}">{{ tag.label }}</a>
+  {% else %}<span class="tag">{{ tag.label }}</span>{% endif %}
   {% endfor %}
 </div>
 {% endif %}
@@ -199,6 +400,28 @@
 {% endblock %}
 
 {% block wide_content %}
+
+{% if blog_entries %}
+<div class="wide-block bloglist-section">
+  <span class="section-kicker">Further Reading</span>
+  <h2 class="section-block-heading">{{ page.title }}</h2>
+  <ol class="bloglist-grid">
+    {% for blog in blog_entries %}
+    <li class="bloglist-card{% if blog.is_highlighted %} bloglist-card--featured{% endif %}" id="{{ blog.anchor }}">
+      <a class="bloglist-card-link" href="{{ blog.url }}" target="_blank" rel="noopener noreferrer">
+        <span class="bloglist-rank">{{ forloop.counter|stringformat:"02d" }}</span>
+        <span class="bloglist-txt">
+          <span class="bloglist-name">{{ blog.name }}</span>
+          <span class="bloglist-domain">{{ blog.domain }}{% if blog.author %} &middot; {{ blog.author }}{% endif %}</span>
+          {% if blog.note %}<span class="bloglist-note">{{ blog.note }}</span>{% endif %}
+        </span>
+      </a>
+    </li>
+    {% endfor %}
+  </ol>
+  <p class="bloglist-footnote">These are other people&rsquo;s blogs, out on the open web. We don&rsquo;t run them and we don&rsquo;t earn anything from the links &mdash; they&rsquo;re here because they are good.</p>
+</div>
+{% endif %}
 {% if page.page_type == "section" or page.page_type == "neighbourhood" or page.page_type == "section_group" %}{% if pois and not daytrip_cards %}
 <div class="wide-block poi-section">
   <span class="section-kicker">{% if page.page_type == "neighbourhood" %}Neighbourhood{% else %}Guide{% endif %}</span>
@@ -223,6 +446,7 @@
           <div class="poi-blurb">{% if poi.meta.snippet %}{{ poi.meta.snippet }}{% elif poi.body %}{{ poi.body|truncatewords:24 }}{% endif %}</div>
         </div>
         <div class="poi-tag">
+          
           {% if poi.category %}{{ poi.category }}{% endif %}
           {% if poi.meta.neighbourhood %} · {{ poi.meta.neighbourhood }}{% endif %}
         </div>
@@ -317,51 +541,6 @@
 </div>
 {% endif %}
 
-{% if page.page_type == "location" and sections %}
-{% if inline_sections %}
-{% for item in inline_sections %}
-<div class="wide-block poi-section">
-  <span class="section-kicker">Guide</span>
-  <h2 class="poi-section-title">{{ item.section.title }}</h2>
-  {% if item.body_html %}
-  <div class="body-text">{{ item.body_html|safe }}</div>
-  {% endif %}
-  {% if item.pois %}
-  <ul class="poi-list">
-    {% for poi in item.pois %}
-    <li>
-      <a href="{{ poi.get_absolute_url }}" class="poi-list-link">
-        <span class="poi-num">{{ forloop.counter|stringformat:"02d" }}</span>
-        <div class="poi-meat">
-          <div class="poi-name">{{ poi.title }}</div>
-          <div class="poi-blurb">{% if poi.meta.snippet %}{{ poi.meta.snippet }}{% elif poi.body %}{{ poi.body|truncatewords:24 }}{% endif %}</div>
-        </div>
-        <div class="poi-tag">{% if poi.category %}{{ poi.category }}{% endif %}</div>
-      </a>
-    </li>
-    {% endfor %}
-  </ul>
-  {% endif %}
-</div>
-{% endfor %}
-{% else %}
-<div class="wide-block sections-row-wrap">
-  <span class="section-kicker">Guide</span>
-  <h2 class="section-block-heading">Sections</h2>
-<div class="sections-row">
-  {% for s in sections %}
-  {% if s.slug != "neighbourhoods" %}
-  <a href="{{ s.get_absolute_url }}" class="section-card" data-slug="{{ s.slug }}">
-    <div class="section-card-icon"></div>
-    <div class="section-card-name">{{ s.title }}</div>
-    <span class="section-card-arrow">&#8594;</span>
-  </a>
-  {% endif %}
-  {% endfor %}
-</div>
-</div>
-{% endif %}
-{% endif %}
 
 {% if daytrip_cards %}
 <div class="wide-block destinations-section">
@@ -451,6 +630,22 @@
 </script>
 {% endif %}
 
+{% if location_bloglists %}
+<div class="wide-block bloglist-callout-section">
+  <span class="section-kicker">Further Reading</span>
+  <h2 class="section-block-heading">Blogs Worth Reading</h2>
+  <div class="bloglist-callout-row">
+    {% for bl in location_bloglists %}
+    <a href="{{ bl.get_absolute_url }}" class="bloglist-callout">
+      <div class="bloglist-callout-name">{{ bl.title }}</div>
+      {% if bl.meta.snippet %}<p class="bloglist-callout-snippet">{{ bl.meta.snippet }}</p>{% endif %}
+      <span class="bloglist-callout-more">Read the list &rarr;</span>
+    </a>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
 {% if nav_siblings %}
 <div class="wide-block poi-elsewhere">
   <p class="poi-elsewhere-label">Other places in {{ context_nav.title }}</p>
@@ -466,17 +661,105 @@
 {% block extra_js %}
 <script>
 (function() {
+  var svcFilters = document.getElementById('svc-filter-bar');
+  if (svcFilters) {
+    svcFilters.addEventListener('click', function(e) {
+      var btn = e.target.closest('.svc-filter-btn');
+      if (!btn) return;
+      var want = btn.getAttribute('data-filter');
+      svcFilters.querySelectorAll('.svc-filter-btn').forEach(function(b) {
+        b.classList.toggle('is-active', b === btn);
+      });
+      document.getElementById('svc-modal-list').querySelectorAll('.svc').forEach(function(row) {
+        row.hidden = want !== '' && row.getAttribute('data-activity') !== want;
+      });
+    });
+  }
+
+  var svcAll = document.getElementById('svc-all-btn');
+  var svcModal = document.getElementById('svc-modal');
+  if (svcAll && svcModal && typeof svcModal.showModal === 'function') {
+    var svcClose = document.getElementById('svc-modal-close');
+    svcAll.addEventListener('click', function() { svcModal.showModal(); });
+    if (svcClose) { svcClose.addEventListener('click', function() { svcModal.close(); }); }
+    // Clicking the backdrop closes it: the dialog fills its own box, so a click
+    // landing on the element itself rather than its contents is outside.
+    svcModal.addEventListener('click', function(e) {
+      if (e.target === svcModal) { svcModal.close(); }
+    });
+  } else if (svcAll) {
+    // No <dialog> support: fall back to just showing every row inline.
+    svcAll.addEventListener('click', function() {
+      var panel = svcAll.closest('.svc-panel');
+      if (svcModal && panel) {
+        panel.appendChild(svcModal.querySelector('.svc-modal-list'));
+        svcModal.remove();
+      }
+      svcAll.remove();
+    });
+  }
+
+  var mapCard = document.getElementById('sidebar-map-card');
+  var mobileMapSlot = document.getElementById('mobile-hero-map-slot') || document.getElementById('mobile-map-slot');
+  var mobileMapQuery = window.matchMedia('(max-width: 768px)');
+  var desktopMapParent = mapCard && mapCard.parentNode;
+  var desktopMapNext = mapCard && mapCard.nextSibling;
+  var quickFacts = document.querySelector('.sidebar-quick-facts');
+  var mobileFactsSlot = document.getElementById('mobile-hero-facts-slot') || document.getElementById('mobile-facts-slot');
+  var desktopFactsParent = quickFacts && quickFacts.parentNode;
+  var desktopFactsNext = quickFacts && quickFacts.nextSibling;
+
+  function placeMap() {
+    if (!mapCard || !mobileMapSlot) return;
+    if (mobileMapQuery.matches) {
+      mobileMapSlot.appendChild(mapCard);
+    } else {
+      desktopMapParent.insertBefore(mapCard, desktopMapNext);
+    }
+  }
+
+  function placeFacts() {
+    if (!quickFacts || !mobileFactsSlot) return;
+    if (mobileMapQuery.matches) {
+      mobileFactsSlot.appendChild(quickFacts);
+    } else {
+      desktopFactsParent.insertBefore(quickFacts, desktopFactsNext);
+    }
+  }
+
+  placeMap();
+  placeFacts();
+
+  var sideMap = null;
   {% if is_continent %}
-  initCountryMap('sidebar-map', '{{ continent_slug|escapejs }}', {{ continent_bounds }});
+  sideMap = initCountryMap('sidebar-map', '{{ continent_slug|escapejs }}', {{ continent_bounds }});
   {% else %}
   var fullMarkers = {% if markers_full_json != "[]" %}{{ markers_full_json }}{% elif markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
-  var sideMap = null;
   if (fullMarkers.length && document.getElementById('sidebar-map')) {
     sideMap = initLocationMap('sidebar-map', fullMarkers, {isPoi: {{ is_poi|yesno:"true,false" }}, bounds: {{ page_map_bounds }}, fitAll: {{ map_fit_all|yesno:"true,false" }}});
   }
-
-
   {% endif %}
+
+  var heroCard = document.getElementById('hero-card');
+  var mediaButtons = document.querySelectorAll('[data-hero-media]');
+  mediaButtons.forEach(function(button) {
+    button.addEventListener('click', function() {
+      var view = button.dataset.heroMedia;
+      var showMap = view === 'map';
+      heroCard.classList.toggle('hero-card--map', showMap);
+      heroCard.classList.toggle('hero-card--facts', view === 'facts');
+      mediaButtons.forEach(function(otherButton) {
+        otherButton.setAttribute('aria-pressed', otherButton === button ? 'true' : 'false');
+      });
+      if (showMap && sideMap) requestAnimationFrame(function() { sideMap.invalidateSize(); });
+    });
+  });
+
+  mobileMapQuery.addEventListener('change', function() {
+    placeMap();
+    placeFacts();
+    if (sideMap) requestAnimationFrame(function() { sideMap.invalidateSize(); });
+  });
 })();
 </script>
 {% endblock %}

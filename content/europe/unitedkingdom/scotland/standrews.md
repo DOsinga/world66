@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:St_Andrews_from_Regulus_to
 latitude: 56.3398
 loc_type: city
 longitude: -2.7967
-score: 8.77
+score: 6.526
 title: St Andrews
 type: location
 snippet: Fife coast university town where medieval church ruins share the stage with
   golf's oldest links.
+heritage: 6.389
+vibrancy: 6.628
+nature: 4.267
+off_the_beaten_track: 1.2
 ---
 
 St Andrews is a small, handsome Scottish town on the Fife coast, about an hour north of Edinburgh, and for the size of the place it punches remarkably above its weight. It is the home of golf — the game has been played on the Links here since at least 1457, and the [Royal and Ancient Golf Club](/europe/unitedkingdom/scotland/standrews/r_and_a_clubhouse) of St Andrews, founded in 1754, is still the guardian of the rules worldwide. It is also the home of Scotland's oldest [university](/europe/unitedkingdom/scotland/standrews/university), founded in 1413 and famous in recent years as the place where Prince William met Kate Middleton. And it was, for several centuries, the ecclesiastical capital of Scotland, until the Reformation left its cathedral and castle in ruins.

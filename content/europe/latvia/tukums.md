@@ -5,11 +5,16 @@ loc_type: city
 latitude: 56.9667
 longitude: 23.15
 wikidata: Q636935
-score: 7.1
-snippet: Small Latvian town of roses, cobbled streets, manor museums, and easy rail links from Riga
+score: 2.881
+snippet: Small Latvian town of roses, cobbled streets, manor museums, and easy rail
+  links from Riga
 sources:
-  - https://en.wikivoyage.org/wiki/Tukums
-  - https://visittukums.lv/en
+- https://en.wikivoyage.org/wiki/Tukums
+- https://visittukums.lv/en
+heritage: 3.314
+vibrancy: 1.873
+nature: 2.812
+off_the_beaten_track: 1.542
 ---
 
 Tukums is a small town west of [Riga](/europe/latvia/riga), close enough for an easy day trip but slower and more local than nearby [Jurmala](/europe/latvia/jurmala). It sells itself as a town of roses, and that fits: modest, tidy, a little old-fashioned, with flowers and cobbled streets doing much of the work.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Fort_Port_Royal_Jamaica.JP
 latitude: 17.9355
 loc_type: city
 longitude: -76.8424
-score: 7.62
+score: 4.447
 snippet: Kingston Harbour village built on pirate history, sunken earthquake ruins,
   and Fort Charles.
 title: Port Royal
 type: location
+heritage: 3.765
+vibrancy: 3.48
+nature: 5.211
+off_the_beaten_track: 3.482
 ---
 
 Port Royal sits at the tip of the Palisadoes spit that encloses Kingston Harbour. In the 17th century it was one of the largest cities in the Americas — a notorious pirate haven and trading post where Henry Morgan and other buccaneers brought their plunder. In 1692 a massive earthquake dropped much of the city into the harbour, killing thousands instantly. The sunken city and its cargo are still down there.

@@ -5,11 +5,15 @@ done:
 latitude: -14.3325
 loc_type: city
 longitude: -75.499722
-score: 7.95
+score: 4.814
 snippet: Peruvian desert city at the heart of pisco country, near dunes, bodegas,
   and ancient cemeteries
 title: Ica
 type: location
+heritage: 5.367
+vibrancy: 2.472
+nature: 5.088
+off_the_beaten_track: 4.198
 ---
 
 Ica sits in the middle of [Peru's](/southamerica/peru) wine country, and this is where Pisco — the grape brandy behind the Pisco Sour — is produced. Several bodegas can be visited, and a tour of the wineries like [Bodega Tacama](/southamerica/peru/ica/bodega_tacama), [Vista Alegre](/southamerica/peru/ica/bodega_vista_alegre), or [El Catador](/southamerica/peru/ica/bodega_el_catador) makes a pleasant half-day excursion.

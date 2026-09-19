@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Sinnamary.jpg
 latitude: 5.377056
 loc_type: city
 longitude: -52.957159
-score: 6.0
+score: 5.808
 snippet: Small Creole river town on French Guiana's coast, used for pirogue trips
   into the interior.
 title: Sinnamary
 type: location
+heritage: 2.088
+vibrancy: 1.09
+nature: 7.301
+off_the_beaten_track: 5.575
 ---
 
 Sinnamary is a small Creole town of around 3,000 people on the coast between Kourou and Saint-Laurent-du-Maroni. Unlike its neighbor Kourou, shaped by the space industry, Sinnamary has kept its quiet creole character — wooden houses along the river, a modest market, and a relaxed pace that coastal French Guiana doesn't always offer.

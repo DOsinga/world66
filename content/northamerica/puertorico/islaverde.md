@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Shoreline_of_Isla_Verde,_C
 latitude: 18.4494
 loc_type: city
 longitude: -66.0017
-score: 7.7
+score: 5.607
 snippet: San Juan beach neighborhood beside the airport, known for wide sand and resort-lined
   Isla Verde Beach
 title: Isla Verde
 type: location
+heritage: 2.085
+vibrancy: 4.471
+nature: 6.53
+off_the_beaten_track: 1.578
 ---
 
 Isla Verde is the easternmost beach neighborhood in the San Juan metropolitan area, sitting right next to Luis Muñoz Marín International Airport. [Isla Verde Beach](/northamerica/puertorico/islaverde/isla_verde_beach) is arguably the best in the city — a wide, palm-lined stretch of golden sand with clear water and enough wave action to keep things interesting without being dangerous. The big resort hotels (Ritz-Carlton, Intercontinental) line the waterfront, but the beach itself is public and accessible. At the eastern end, [Pine Grove Beach](/northamerica/puertorico/islaverde/pine_grove_beach) draws the local surf crowd.

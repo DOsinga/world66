@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Salar_d%27Atacama_h%C3%A9.
 latitude: -23.5
 loc_type: feature
 longitude: -68.25
-score: 8.8
+score: 5.697
 snippet: High desert salt basin near San Pedro de Atacama, broken by volcano-framed
   lagoons and flamingos
 sources:
 - https://en.wikipedia.org/wiki/Salar_de_Atacama
 title: Salar de Atacama
 type: location
+heritage: 1.69
+vibrancy: 1.221
+nature: 7.312
+off_the_beaten_track: 4.977
 ---
 
 The Salar de Atacama is the great white basin south of San Pedro de Atacama, a crusted salt flat hemmed in by volcanoes and fed by hidden Andean water. It is not smooth like Bolivia's famous Uyuni; it is rough, broken, and alive in unexpected places, with briny lagoons shining blue and green through the salt.

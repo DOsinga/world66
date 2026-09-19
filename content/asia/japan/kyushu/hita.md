@@ -4,14 +4,19 @@ type: location
 loc_type: city
 latitude: 33.3213
 longitude: 130.9414
-score: 7.1
-snippet: Inland Oita merchant town with Edo streets, mountain pottery, and clear river water.
+score: 4.672
+snippet: Inland Oita merchant town with Edo streets, mountain pottery, and clear river
+  water.
 wikidata: Q386968
 sources:
-  - https://en.wikivoyage.org/wiki/Hita
-  - https://oita-tourism.com/en/attractions/detail_1023.html
-  - https://oita-tourism.com/en/attractions/detail_1025.html
-  - https://www.japan.travel/en/spot/429/
+- https://en.wikivoyage.org/wiki/Hita
+- https://oita-tourism.com/en/attractions/detail_1023.html
+- https://oita-tourism.com/en/attractions/detail_1025.html
+- https://www.japan.travel/en/spot/429/
+heritage: 3.809
+vibrancy: 4.313
+nature: 5.157
+off_the_beaten_track: 2.615
 ---
 
 Hita sits in the river basin of western Oita Prefecture, close to the border with Fukuoka. It is often sold as a "little Kyoto", which is a bit generous, but the old merchant quarter of [Mameda-machi](/asia/japan/kyushu/hita/mameda_machi) does have real texture: white-walled storehouses, narrow lanes, sake shops, and the memory of a town once ruled directly by the Tokugawa shogunate.

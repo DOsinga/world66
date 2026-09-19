@@ -4,10 +4,15 @@ type: location
 loc_type: city
 latitude: 37.4563
 longitude: 126.7052
-score: 7.6
-snippet: Korean port city beside Seoul, with Chinatown, open-port history, islands, and Songdo's planned skyline.
+score: 5.101
+snippet: Korean port city beside Seoul, with Chinatown, open-port history, islands,
+  and Songdo's planned skyline.
 source: Wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Incheon
+heritage: 4.713
+vibrancy: 5.287
+nature: 3.496
+off_the_beaten_track: 1.163
 ---
 
 Incheon is South Korea's great west-coast port and the city most travellers meet first through the airport. It is easy to treat it as Seoul's transport appendage, but that misses the point. Incheon has its own story: an open port, Korea's only official Chinatown, old harbour districts, island ferries, and the polished future-city experiment of Songdo.

@@ -5,7 +5,7 @@ done:
 latitude: 16.900055
 loc_type: feature
 longitude: 7.967952
-score: 4.36
+score: 6.067
 sources:
 - https://en.wikipedia.org/wiki/Trans-Sahara_Highway
 - https://sahara-overland.com/routes/
@@ -13,6 +13,10 @@ snippet: Historic trans-Saharan crossing route through Niger, linking Agadez to 
   tracks toward Algeria and Libya.
 title: Trans Sahara
 type: location
+heritage: 4.482
+vibrancy: 0.742
+nature: 7.194
+off_the_beaten_track: 7.242
 ---
 
 Crossing the Sahara through Niger is one of the classic overland adventures — or was, until security deteriorated across the region. As of the mid-2020s, both trans-Saharan routes from Niger are effectively closed to independent travelers and extremely dangerous for any traveler. This page documents the routes for historical reference and future research.

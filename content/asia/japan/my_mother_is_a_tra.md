@@ -10,4 +10,4 @@ title: My Mother is a Tractor
 type: theme
 ---
 
-A wry, entertaining account of life as an English teacher on the JET Programme in [Niigata](/asia/japan/honshu/niigata), deep in rural Japan. Nicholas Klar captures the daily absurdities, cultural collisions, and quiet revelations of small-town Japanese life with warmth and sharp observation. The Rough Guide to Japan called it "required reading" for anyone contemplating the JET Programme or teaching English in Japan.
+A wry, entertaining account of life as an English teacher on the JET Programme in [Niigata](/asia/japan/chubu/niigata), deep in rural Japan. Nicholas Klar captures the daily absurdities, cultural collisions, and quiet revelations of small-town Japanese life with warmth and sharp observation. The Rough Guide to Japan called it "required reading" for anyone contemplating the JET Programme or teaching English in Japan.

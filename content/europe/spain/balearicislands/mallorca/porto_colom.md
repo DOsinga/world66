@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Faro_Portocolom_-_52305850
 latitude: 39.423044
 loc_type: city
 longitude: 3.261471
-score: 8.32
+score: 4.979
 title: Porto Colom
 type: location
 snippet: Mallorcan harbour town where pastel boathouses and fishing boats edge a quieter
   east-coast inlet.
+heritage: 4.162
+vibrancy: 4.896
+nature: 5.193
+off_the_beaten_track: 1.586
 ---
 
 Porto Colom is a natural harbour on the east coast of [Mallorca](/europe/spain/balearicislands/mallorca), the main coastal settlement of the municipality of Felanitx. It has a quieter, more local feel than the big resorts on the island's south and west coasts — the harbour is still used by working fishing boats, and the waterfront is lined with traditional [boathouses (escars)](/europe/spain/balearicislands/mallorca/porto_colom/escars) painted in faded pastels. The 19th-century [lighthouse](/europe/spain/balearicislands/mallorca/porto_colom/lighthouse) at the harbour mouth is one of the oldest in the Balearics.

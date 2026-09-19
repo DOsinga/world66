@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 32.2686
 longitude: -107.7586
-score: 6.65
+score: 4.284
 snippet: Southwest New Mexico desert town used as a base for rockhounding and Mimbres
   history.
 sources:
@@ -17,6 +17,10 @@ image: deming.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Deming_Luna_Mimbres_Museum.jpg
 image_license: Public domain
 image_attribution: AllenS
+heritage: 2.823
+vibrancy: 1.704
+nature: 5.429
+off_the_beaten_track: 3.969
 ---
 
 Deming sits in the open desert of southwest New Mexico, close to the Florida Mountains and the old Mimbres country. The town itself is plain and practical, but it makes a useful base for a day of rockhounding, desert geology, and regional history.

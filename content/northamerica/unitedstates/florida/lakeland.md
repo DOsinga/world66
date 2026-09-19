@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aeroshell_Team_at_Sun_%27n
 latitude: 28.039465
 loc_type: city
 longitude: -81.949804
-score: 6.61
+score: 3.961
 snippet: Central Florida lake city with Frank Lloyd Wright buildings across Florida
   Southern College
 title: Lakeland
 type: location
+heritage: 2.532
+vibrancy: 3.551
+nature: 4.424
+off_the_beaten_track: 1.019
 ---
 
 Lakeland sits halfway between Tampa and Orlando, a central Florida city that most travelers blow right past on I-4. That is a mistake. The city is home to the largest single-site collection of Frank Lloyd Wright architecture in the world, spread across the campus of [Florida Southern College](/northamerica/unitedstates/florida/lakeland/florida_southern_college). The twelve structures Wright designed here, collectively called "Child of the Sun," are stunning examples of his organic architecture, and you can walk the campus freely to admire them.

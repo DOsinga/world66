@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Abad%C3%ADa_Neum%C3%BCnste
 latitude: 49.599833
 loc_type: city
 longitude: 6.13572
-score: 8.87
+score: 6.982
 snippet: Luxembourg capital on Alzette and Pétrusse gorges, with fortress cliffs and
   European institutions
 title: Luxembourg City
 type: location
+heritage: 7.45
+vibrancy: 6.858
+nature: 3.92
+off_the_beaten_track: 1.095
 ---
 
 Luxembourg City is the country's capital and its cultural, political, and financial centre. It sits on a rocky outcrop above the deep gorges of the Alzette and Pétrusse rivers — a setting that gave rise to some of the most impressive fortifications in Europe, and that earned the old town and its fortresses a UNESCO World Heritage listing in 1994.

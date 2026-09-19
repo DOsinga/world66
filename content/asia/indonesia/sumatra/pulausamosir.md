@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Huta_Ginjang_Samosir_2_(Te
 latitude: 2.593629
 loc_type: city
 longitude: 98.801082
-score: 8.36
+score: 6.202
 snippet: Batak island inside Lake Toba's volcanic caldera, ringed by cliffs, dark
   water, and clan-house villages.
 sources:
 - https://en.wikipedia.org/wiki/Samosir
 title: Pulau Samosir
 type: location
+heritage: 6.105
+vibrancy: 3.801
+nature: 7.026
+off_the_beaten_track: 3.679
 ---
 
 Samosir is a large island sitting within the caldera of [Lake Toba](/asia/indonesia/sumatra/pulausamosir/toba_caldera), itself a supervolcanic lake in the highlands of North Sumatra. The combination — an island within a lake within a volcanic caldera — is geologically remarkable, and the scenery is extraordinary: steep green cliffs dropping to dark water, with the island's plateau rising in the centre. The eruption that created the caldera around 74,000 years ago was one of the largest in Earth's history; what you are looking at when you gaze across the lake is the vast hollow it left behind.

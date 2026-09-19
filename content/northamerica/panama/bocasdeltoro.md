@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bocas_del_Toro_Panama.jpg
 latitude: 9.3403
 loc_type: city
 longitude: -82.242
-score: 8.67
+score: 6.089
 snippet: Panamanian Caribbean island archipelago of stilt-house towns, coral reefs,
   and jungle-backed beaches.
 title: Bocas del Toro
 type: location
+heritage: 2.268
+vibrancy: 5.792
+nature: 6.639
+off_the_beaten_track: 3.668
 ---
 
 The Bocas del Toro Archipelago sits close to the border with [Costa Rica](/northamerica/costarica), a scatter of islands and islets off Panama's Caribbean coast that have become one of the country's most visited destinations. The appeal is simple: luminous turquoise water, coral reefs thick with fish and turtles, and a laid-back Caribbean rhythm that is unlike anything in Panama City or the Pacific coast.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Central_Raahe_20250627_01.
 latitude: 64.684531
 loc_type: city
 longitude: 24.481635
-score: 6.38
+score: 4.401
 snippet: Gulf of Bothnia coastal city with a preserved wooden old town and shipbuilding
   port history.
 title: Raahe
 type: location
+heritage: 4.623
+vibrancy: 4.135
+nature: 4.824
+off_the_beaten_track: 4.083
 ---
 
 Raahe is a small coastal city on the Gulf of Bothnia, about 75 km south of [Oulu](/europe/finland/oulu). Count Pehr Brahe founded the town in 1649, and its history as a trading and shipbuilding port is still visible in the [old town quarter](/europe/finland/raahe/old_town) — one of the best-preserved wooden town centres in Finland. The old streets and 19th-century timber houses have been carefully maintained and still function as a lived-in neighbourhood, centred on the market square of [Pekkatori](/europe/finland/raahe/pekkatori).

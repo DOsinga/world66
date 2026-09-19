@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2010-10-26-112535_-_Adrar_
 latitude: 27.8742
 loc_type: city
 longitude: -0.2939
-score: 5.0
+score: 5.153
 title: Adrar
 type: location
 snippet: Saharan oasis town on the Tidikelt plateau, known for ancient foggara water
   channels beneath its palms.
+heritage: 4.835
+vibrancy: 1.741
+nature: 5.693
+off_the_beaten_track: 7.515
 ---
 
 Adrar is a Saharan oasis town in southwestern Algeria, sitting at the edge of the Tidikelt plateau. It is a functional desert town rather than a scenic one — the kind of place you pass through on long hauls through the western Sahara rather than a destination in itself.

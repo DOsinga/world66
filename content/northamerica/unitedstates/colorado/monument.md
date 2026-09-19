@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2nd_Street_in_Monument_Col
 latitude: 39.0917
 loc_type: city
 longitude: -104.8728
-score: 6.06
+score: 4.535
 snippet: Colorado Front Range town on the Palmer Divide, with pine forests and a mountain-town
   feel.
 title: Monument
 type: location
+heritage: 4.322
+vibrancy: 2.708
+nature: 5.198
+off_the_beaten_track: 1.41
 ---
 
 Monument sits on the Palmer Divide, the high ridge separating the South Platte and Arkansas River watersheds, roughly halfway between [Denver](/northamerica/unitedstates/colorado/denver) and [Colorado Springs](/northamerica/unitedstates/colorado/coloradosprings) along I-25. At nearly 7,000 feet, it is one of the higher towns along the Front Range corridor, and the surrounding Ponderosa pine forests give it a distinctly mountain-town feel despite being just minutes from the interstate.

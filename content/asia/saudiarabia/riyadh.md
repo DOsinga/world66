@@ -12,7 +12,7 @@ quick_facts:
   Kingdom Centre: 302 m, with a sky bridge
   Name Means: '''The gardens'''
   Population: ~7.7 million
-score: 6.06
+score: 4.748
 snippet: Saudi Arabia's desert capital, grown from a Najd oasis around the old Masmak
   Fortress.
 tip: Riyadh is a fast-modernising desert capital, drier and more conservative than
@@ -22,6 +22,10 @@ tip: Riyadh is a fast-modernising desert capital, drier and more conservative th
   heat is extreme.
 title: Riyadh
 type: location
+heritage: 3.717
+vibrancy: 5.175
+nature: 2.54
+off_the_beaten_track: 4.048
 ---
 
 Riyadh is the capital and largest city of Saudi Arabia, sitting at around 600 metres above sea level on the high limestone plateau of the Nejd in the centre of the Arabian Peninsula. The name in Arabic means "gardens," a reference to the date palms and cultivated plots that once made this desert settlement viable. Today it is a sprawling metropolitan area of over seven million people, one of the fastest-growing cities on earth in the latter half of the twentieth century, and a place undergoing a second transformation in the third decade of the twenty-first.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:G%C3%A4vle_brandstation_Ju
 latitude: 60.675013
 loc_type: city
 longitude: 17.146702
-score: 6.83
+score: 4.685
 snippet: Swedish Gulf of Bothnia port city, famous for its Advent straw goat and surviving
   wooden quarter.
 title: Gävle
 type: location
+heritage: 2.9
+vibrancy: 3.515
+nature: 5.564
+off_the_beaten_track: 1.184
 ---
 
 Gävle (pronounced roughly "Yev-leh") is a port city of about 100,000 people in the province of Gästrikland, two hours north of [Stockholm](/europe/sweden/stockholm) on the E4 and the main rail line heading north. It sits at the mouth of the Gavleån river where it meets the Gulf of Bothnia, and for centuries was one of the most important trading ports on the Swedish coast.

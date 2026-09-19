@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 50.1489
 longitude: -95.8811
-score: 5.9
-snippet: Planned Manitoba riverside town with old hydro ruins, forest trails, and a nuclear-research past.
+score: 4.557
+snippet: Planned Manitoba riverside town with old hydro ruins, forest trails, and
+  a nuclear-research past.
 sources:
-  - https://en.wikivoyage.org/wiki/Pinawa
-  - https://en.wikipedia.org/wiki/Pinawa
-  - https://www.wikidata.org/wiki/Q7194846
+- https://en.wikivoyage.org/wiki/Pinawa
+- https://en.wikipedia.org/wiki/Pinawa
+- https://www.wikidata.org/wiki/Q7194846
+heritage: 2.522
+vibrancy: 1.322
+nature: 5.995
+off_the_beaten_track: 3.23
 ---
 
 Pinawa sits on the Winnipeg River at the edge of the Canadian Shield, about 90 minutes northeast of Winnipeg. It is a small planned town, but it has a stronger identity than its size suggests: river trails, old hydro ruins, a suspension bridge over the Pinawa Channel, and the legacy of Whiteshell Laboratories, the nuclear research site that brought the modern town into being.

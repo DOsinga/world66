@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/22098403@N00/3804100429
 latitude: 12.3827
 loc_type: city
 longitude: 75.6641
-score: 8.07
+score: 6.142
 snippet: Misty Karnataka hill district of coffee estates, Kodava culture, and Western
   Ghats forest ridges.
 title: Coorg
 type: location
+heritage: 5.132
+vibrancy: 5.415
+nature: 6.904
+off_the_beaten_track: 3.644
 ---
 
 Coorg — officially known as Kodagu — is a hilly district in southwestern [Karnataka](/asia/india/karnataka), draped in coffee plantations and spice estates. It sits in the Western Ghats at elevations between 900 and 1800 metres, which gives it a cool, misty climate that comes as a relief after the heat of the Indian plains.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Baleines_04.jpg
 latitude: 46.2005
 loc_type: feature
 longitude: -1.4003
-score: 0.68
+score: 5.268
 snippet: Flat French Atlantic island of whitewashed villages, salt pans, green shutters,
   and easy cycling.
 title: Île de Ré
 type: location
+heritage: 4.348
+vibrancy: 5.015
+nature: 5.742
+off_the_beaten_track: 2.334
 ---
 
 **Île de Ré** is a long, flat island off the coast of La Rochelle, connected to the mainland by a toll bridge. It is one of the sunniest spots on the French Atlantic coast, and the locals will tell you it gets more hours of sunshine than anywhere north of the Loire.

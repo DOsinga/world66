@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2025-09-12_12_24_59_Aerial
 latitude: 40.735657
 loc_type: city
 longitude: -74.172367
-score: 5.56
+score: 3.43
 title: Newark
 type: location
 snippet: New Jersey's largest city, with deep colonial roots, Ironbound restaurants,
   and major cultural institutions.
+heritage: 2.604
+vibrancy: 3.77
+nature: 2.146
+off_the_beaten_track: 0.807
 ---
 
 Newark is New Jersey's largest city and one of the oldest in the United States, founded in 1666. It sits on the western shore of Newark Bay directly across from lower Manhattan — the skyline is visible from the [Ironbound](/northamerica/unitedstates/newjersey/newark/ironbound), Newark's most energetic neighbourhood. The city gets a bad reputation it does not entirely deserve; it has real character, a diverse population, and a cultural life that punches above its weight.

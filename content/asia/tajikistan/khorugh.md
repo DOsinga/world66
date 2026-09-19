@@ -5,15 +5,20 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Khorog_1.jpg
 latitude: 37.4897
 loc_type: city
-longitude: 71.5530
-score: 6.8
-snippet: Pamir valley capital on the Afghan border, with mountain views and Ismaili culture.
+longitude: 71.553
+score: 6.247
+snippet: Pamir valley capital on the Afghan border, with mountain views and Ismaili
+  culture.
 sources:
-  - https://en.wikivoyage.org/wiki/Khorugh
-  - https://en.wikipedia.org/wiki/Khorog
+- https://en.wikivoyage.org/wiki/Khorugh
+- https://en.wikipedia.org/wiki/Khorog
 title: Khorugh
 type: location
 wikidata: Q216165
+heritage: 2.262
+vibrancy: 0.634
+nature: 7.36
+off_the_beaten_track: 7.61
 ---
 
 Khorugh is the Pamir town where the long road east starts to feel properly high and remote. It sits in a steep valley at the meeting of the Gunt and Panj rivers, with Afghanistan just across the water and bare mountains rising fast above the streets.

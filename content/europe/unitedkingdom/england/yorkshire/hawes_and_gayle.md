@@ -9,16 +9,20 @@ image_source: https://commons.wikimedia.org/wiki/File:Hawes_-_geograph.org.uk_-_
 latitude: 54.303275
 loc_type: city
 longitude: -2.197243
-score: 7.41
+score: 5.846
 snippet: Yorkshire Dales market town in upper Wensleydale, known for cheese, rope-making,
   and fellside atmosphere.
 tags:
 - yorkshire_dales
 title: Hawes and Gayle
 type: location
+heritage: 4.651
+vibrancy: 1.771
+nature: 7.09
+off_the_beaten_track: 3.283
 ---
 
-Hawes is the main market town at the head of Wensleydale in the [Yorkshire Dales](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/yorkshire_dales), and the nearby hamlet of Gayle sits just a few minutes' walk to the south. At 260 metres above sea level, it is one of the highest market towns in England, and on the days when cloud sits on the surrounding fells and the stone buildings darken in the rain, it is also one of the most atmospheric.
+Hawes is the main market town at the head of Wensleydale in the [Yorkshire Dales](/europe/unitedkingdom/england/yorkshire/yorkshire_dales), and the nearby hamlet of Gayle sits just a few minutes' walk to the south. At 260 metres above sea level, it is one of the highest market towns in England, and on the days when cloud sits on the surrounding fells and the stone buildings darken in the rain, it is also one of the most atmospheric.
 
 The town centre is more interesting than most Dales towns of its size. Within a short walk of the market place you will find the Wensleydale Creamery (where the famous crumbly white cheese is made and sold direct), the Dales Countryside Museum in the old station yard, and W.R. Outhwaite & Son — one of England's last working ropemakers, where rope is still made on Victorian machinery in the same building as it has been since 1905. The Tuesday market is small but real.
 

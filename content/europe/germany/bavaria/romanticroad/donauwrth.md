@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Reichsstrassedonauworth.JP
 latitude: 48.718036
 loc_type: city
 longitude: 10.78073
-score: 7.93
+score: 4.412
 snippet: Bavarian Romantic Road town at the Wörnitz-Danube confluence, rebuilt around
   its photogenic Reichsstrasse.
 title: Donauwörth
 type: location
+heritage: 5.227
+vibrancy: 3.546
+nature: 3.808
+off_the_beaten_track: 3.334
 ---
 
 Donauwörth sits where the Wörnitz meets the Danube, making it one of the more substantial stops on the Romantic Road. It is a working Bavarian town rather than a museum piece — rebuilt after heavy Second World War bombing but done carefully, so the old streets still feel like themselves.

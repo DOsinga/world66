@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:CA-2,_La_Libertad,_El_Salv
 latitude: 13.4833
 loc_type: city
 longitude: -89.3167
-score: 6.72
+score: 4.334
 snippet: Pacific port town and surf-coast gateway, known for seafood, black-sand beaches,
   and Punta Roca.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://elsalvador.travel/destination/parque-de-diversiones-sunset-park/en/
 title: La Libertad
 type: location
+heritage: 4.454
+vibrancy: 4.286
+nature: 4.458
+off_the_beaten_track: 4.187
 ---
 
 La Libertad is the old Pacific port of El Salvador and the easiest beach escape from [San Salvador](/northamerica/elsalvador/sansalvador). It is not pretty in a polished resort sense. The town is busy, salty, and practical, with fishing boats, seafood stalls, surfboards on bus roofs, and traffic rolling along the coast road. That is exactly why it works.

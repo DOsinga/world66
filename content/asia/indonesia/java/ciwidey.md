@@ -2,12 +2,16 @@
 latitude: -7.1256
 loc_type: city
 longitude: 107.417
-score: 7.0
+score: 4.979
 snippet: Cool West Java highland village known for crater lakes, tea estates and strawberries.
 sources:
-  - https://en.wikivoyage.org/wiki/Ciwidey
+- https://en.wikivoyage.org/wiki/Ciwidey
 title: Ciwidey
 type: location
+heritage: 2.025
+vibrancy: 1.569
+nature: 6.7
+off_the_beaten_track: 3.334
 ---
 
 Ciwidey is the southern highland escape from [Bandung](/asia/indonesia/java/bandung): cooler, greener and more open than the city, with tea estates, strawberry farms and volcanic scenery packed into a small area. The village itself is plain, but the district has some of West Java's most satisfying day-trip landscapes.

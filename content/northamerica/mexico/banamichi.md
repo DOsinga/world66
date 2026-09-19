@@ -6,12 +6,16 @@ latitude: 30.0635
 longitude: -110.2985
 title: Banamichi
 type: location
-score: 6.2
+score: 3.718
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Banam%C3%ADchi
 snippet: Small Sonoran pueblo on the Ruta Rio Sonora, founded by Jesuit missionaries
   beside a turning river.
+heritage: 1.753
+vibrancy: 1.687
+nature: 4.037
+off_the_beaten_track: 5.657
 ---
 
 Banamichi is a small pueblo on the [Ruta Rio Sonora](/northamerica/mexico/sonora), tucked into a river valley about two hours north of Hermosillo and three hours south of Bisbee, Arizona. The name comes from the Opata language — Banamitzi, meaning "where the river turns" — which says something about both the geography and the age of the place. Jesuit missionaries Bartolome Castonas and Pedro Pantoja founded the settlement in 1639, and it has been quietly going about its business ever since.

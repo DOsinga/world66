@@ -1,12 +1,12 @@
 ---
 latitude: 35.4536
 longitude: 129.0448
+score: 5.5
 snippet: Mountainside water park near Tongdo temple
 tags:
-- day_trips
+- things_to_do
 title: Tongdo Aqua Fantasia
 type: poi
-score: 5.5
 ---
 
 A water park about an hour west of Ulsan, set against a mountainside backdrop near the Tongdo temple area. The park has a wave pool, six water slides of varying intensity, a lazy river, kids' pools, and basketball hoops in the water. The steep cream-coloured slide is the standout thrill.

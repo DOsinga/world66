@@ -10,11 +10,15 @@ image_source: https://www.flickr.com/photos/35034346917@N01/861286250
 latitude: -41.1335
 loc_type: city
 longitude: -71.3101
-score: 9.06
+score: 6.417
 snippet: Patagonian mountain town on Lago Nahuel Huapi, known for skiing, hiking,
   lakes, and Swiss-style architecture.
 title: Bariloche
 type: location
+heritage: 0.304
+vibrancy: 4.606
+nature: 7.72
+off_the_beaten_track: 4.632
 ---
 
 Bariloche is Argentina's premier mountain town, set on the shores of [Lago Nahuel Huapi](/southamerica/argentina/bariloche/nahuel_huapi_lake) in the northern Patagonian Andes. It is famous as a ski resort, but that barely scratches the surface — the surrounding national park offers hiking, mountain biking, rafting, and kayaking through scenery that rivals the Swiss Alps, with dark-blue lakes, snow-capped peaks, and forests of ancient arrayanes.

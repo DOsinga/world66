@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Gwangandaegyo_Bridge_in_Bu
 latitude: 35.179953
 loc_type: city
 longitude: 129.075236
-score: 9.17
+score: 7.808
 snippet: South Korea's second city, a busy port framed by hills, beaches, fish markets,
   and coastal neighbourhoods.
 title: Busan
 type: location
+heritage: 7.044
+vibrancy: 8.157
+nature: 5.742
+off_the_beaten_track: 1.664
 ---
 
 Busan is South Korea's second city — a sprawling port of nearly four million people wedged between steep hills and the sea. It's louder, saltier, and more working-class than Seoul: container ships crowd the horizon, the fish market starts before dawn, and the mountains drop so abruptly into the coastline that entire neighbourhoods cling to the cliffs.

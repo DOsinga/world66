@@ -11,9 +11,13 @@ loc_type: city
 snippet: Senegalese holy city and Mouride Brotherhood capital, dominated by the vast
   Great Mosque of Touba.
 longitude: -15.876
-score: 6.0
+score: 5.136
 title: Touba
 type: location
+heritage: 6.188
+vibrancy: 3.92
+nature: 3.218
+off_the_beaten_track: 5.097
 ---
 
 Touba is Senegal's second city and its holiest. Located about 200 km east of [Dakar](/africa/senegal/dakar), it is the spiritual capital of the Mouride Brotherhood, the most powerful Islamic Sufi order in West Africa. The city was founded in 1887 by Cheikh Amadou Bamba, who was later exiled by the French colonial authorities — an act that only deepened his followers' devotion. Today, Touba is a city shaped entirely by faith, and it operates by its own rules: alcohol is banned, smoking is banned, and the authority of the Khalife General carries more weight than the Senegalese state.

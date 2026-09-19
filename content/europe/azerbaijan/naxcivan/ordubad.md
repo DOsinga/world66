@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ordubad_2014-02-11_23-35.j
 latitude: 39.076
 loc_type: city
 longitude: 45.9228
-score: 6.07
+score: 3.926
 snippet: Mountain town in Nakhchivan, noted for preserved mosques and a long printing
   and cultural tradition.
 title: Ordubad
 type: location
+heritage: 2.098
+vibrancy: 1.657
+nature: 4.417
+off_the_beaten_track: 5.467
 ---
 
 After Nakhchivan City, Ordubad is the most important town in the Nakhchivan Autonomous Republic, once the capital of a semi-independent sultanate that yielded sovereignty to the Russian tsars in 1828. Situated near the river of the same name — a tributary of the Araz — Ordubad is a mountain town, built at 850 metres under the imposing presence of the Zangezur range.

@@ -5,11 +5,15 @@ done:
 latitude: 11.7833
 loc_type: city
 longitude: 42.8833
-score: 6.37
+score: 6.006
 snippet: Historic port on the Gulf of Tadjoura, with whitewashed old-town buildings
   and Afar heritage.
 title: Tadjoura
 type: location
+heritage: 2.755
+vibrancy: 1.126
+nature: 7.371
+off_the_beaten_track: 6.354
 ---
 
 Tadjoura is the oldest town in Djibouti, sitting on the north shore of the Gulf of Tadjoura about 100 kilometres from the capital by road (or a scenic boat crossing from L'Escale in [Djibouti City](/africa/djibouti/djibouticity)). It was a trading port and seat of an Afar sultanate long before the French arrived, and the [old town's](/africa/djibouti/tadjoura/tadjoura_old_town) whitewashed buildings and old mosques still give it a quiet, historic character that the capital lacks entirely.

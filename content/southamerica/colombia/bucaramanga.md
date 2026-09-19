@@ -5,7 +5,7 @@ done:
 latitude: 7.1197
 loc_type: city
 longitude: -73.1227
-score: 7.09
+score: 4.649
 snippet: Santander's Andean capital, known for green parks, regional food, and nearby
   Chicamocha Canyon.
 sources:
@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Chicamocha_Canyon
 title: Bucaramanga
 type: location
+heritage: 4.101
+vibrancy: 4.567
+nature: 4.862
+off_the_beaten_track: 4.392
 ---
 
 Bucaramanga is the capital of Santander department, perched on a broad plateau in the eastern Andes at around 960 metres. The altitude gives it one of Colombia's most reliably pleasant climates — warm but not oppressive, rarely cold — which earned it the nickname "City of Parks." Wide green plazas punctuate the urban grid, and the air carries the smell of guayaba and roasting corn from street vendors. A large student population from several major universities keeps the city energetic and surprisingly cosmopolitan for its size.

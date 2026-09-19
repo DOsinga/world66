@@ -7,6 +7,6 @@ London has around 3,500 pubs, which is both a lot and somehow not quite enough. 
 
 The neighbourhood you're in determines the character of the night. Soho is the historic entertainment district, dense with bars and clubs on Old Compton Street and its side streets, with a strong LGBTQ+ presence. East London — Shoreditch, Hackney, Dalston — has been the centre of the younger, more alternative scene for two decades, and though it has become considerably more expensive, the concentration of music venues, bars, and clubs remains high. Brixton in the south has a similar energy with more Afro-Caribbean and multicultural character.
 
-For live music at the mid-size level, [O2 Academy Brixton](/europe/unitedkingdom/england/london/bars_and_cafes/brixton_academy) is one of the best venues in the country. For electronic music, [Fabric](/europe/unitedkingdom/england/london/bars_and_cafes/fabric) in Clerkenwell remains the standard against which everything else is measured.
+For live music at the mid-size level, [O2 Academy Brixton](/europe/unitedkingdom/england/london/brixton_academy) is one of the best venues in the country. For electronic music, [Fabric](/europe/unitedkingdom/england/london/fabric) in Clerkenwell remains the standard against which everything else is measured.
 
 Pub hours: traditional pubs open around 11am and close at 11pm (midnight on Friday and Saturday). Clubs and venues with late licences run until 3am or 6am. Last entry is typically an hour before closing.

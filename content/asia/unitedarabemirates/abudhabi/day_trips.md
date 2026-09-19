@@ -1,10 +1,11 @@
 ---
-title: "Day Trips"
-type: section
 linked_locations:
-  - asia/unitedarabemirates/al_ain
-  - asia/unitedarabemirates/liwa
-  - asia/unitedarabemirates/sir_bani_yas
+- asia/unitedarabemirates/al_ain
+- asia/unitedarabemirates/liwa
+- asia/unitedarabemirates/sir_bani_yas
+- asia/unitedarabemirates/jebel_hafit
+title: Day Trips
+type: section
 ---
 
 [Al Ain](/asia/unitedarabemirates/al_ain), about 140km east of Abu Dhabi, is the UAE's largest inland city and a UNESCO World Heritage site for its ancient falaj (irrigation) system and oasis gardens. The walled palm grove of the Al Ain Oasis, the Al Jahili Fort, and the switchback drive up Jebel Hafit at sunset make for a full day out; the Al Ain Zoo is one of the best in the region. The drive across the dunes to reach the city is itself part of the appeal.

@@ -4,10 +4,15 @@ type: location
 loc_type: city
 latitude: 26.48
 longitude: 90.56
-score: 6.5
-snippet: Lower Assam rail town near hill temples, wetlands, forest, and Brahmaputra cave sites.
+score: 4.144
+snippet: Lower Assam rail town near hill temples, wetlands, forest, and Brahmaputra
+  cave sites.
 sources:
-  - https://en.wikivoyage.org/wiki/Bongaigaon
+- https://en.wikivoyage.org/wiki/Bongaigaon
+heritage: 2.62
+vibrancy: 2.414
+nature: 4.972
+off_the_beaten_track: 4.755
 ---
 
 Bongaigaon is a busy Lower Assam town and rail junction. It is not one of Assam's graceful old river towns, but it has enough nearby nature and archaeological stops to reward a spare day if you are already in the western Brahmaputra valley.

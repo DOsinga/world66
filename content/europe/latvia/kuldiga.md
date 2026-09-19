@@ -5,16 +5,21 @@ loc_type: city
 latitude: 56.9667
 longitude: 21.9833
 wikidata: Q155281
-score: 7.8
-snippet: Courland river town with a UNESCO-listed old centre, brick bridge, and Europe's widest waterfall
+score: 5.121
+snippet: Courland river town with a UNESCO-listed old centre, brick bridge, and Europe's
+  widest waterfall
 sources:
-  - https://en.wikivoyage.org/wiki/Kuld%C4%ABga
-  - https://whc.unesco.org/en/list/1658/
-  - https://www.wikidata.org/wiki/Q155281
+- https://en.wikivoyage.org/wiki/Kuld%C4%ABga
+- https://whc.unesco.org/en/list/1658/
+- https://www.wikidata.org/wiki/Q155281
 image: kuldiga.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kuldiga-Venta_Rumba.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Christopher Voitus
+heritage: 5.788
+vibrancy: 3.255
+nature: 5.236
+off_the_beaten_track: 1.773
 ---
 
 Kuldīga is the prettiest small town in western Latvia, set where the Alekšupīte stream slips through old streets before joining the Venta River. Its centre is now a UNESCO World Heritage Site, recognised for the way a Courland trading town survived with its low wooden houses, red roofs, cobbles, and river pattern intact.

@@ -5,11 +5,15 @@ done:
 latitude: 10.072844
 loc_type: city
 longitude: 78.779519
-score: 6.54
+score: 4.463
 snippet: Tamil Nadu town and Chettiar cultural centre, known for mansions built with
   imported luxury materials.
 title: Karaikudi
 type: location
+heritage: 4.994
+vibrancy: 4.184
+nature: 2.924
+off_the_beaten_track: 3.839
 ---
 
 Karaikudi is the largest town in Sivaganga district in central Tamil Nadu, and the cultural centre of the **Nattukotai Chettiar** (Nagarathar) community — the merchant caste whose trading networks spread across Southeast Asia in the 19th and early 20th centuries. The town and surrounding villages are full of [their mansions](/asia/india/tamilnadu/karaikudi/chettinad_mansions): enormous houses built with teak, Burmese timber, Italian marble, and Belgian tiles imported when the community was at its most prosperous. Many stand empty or semi-abandoned now; some have been converted into heritage hotels.

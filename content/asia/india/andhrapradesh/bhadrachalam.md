@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Sri_sita_rama_temple_bhadr
 latitude: 17.668802
 loc_type: city
 longitude: 80.894008
-score: 6.0
+score: 3.926
 snippet: Godavari River pilgrimage town centred on the Sita Ramachandraswamy Temple
   dedicated to Lord Rama.
 title: Bhadrachalam
 type: location
+heritage: 2.988
+vibrancy: 2.117
+nature: 4.759
+off_the_beaten_track: 4.347
 ---
 
 Bhadrachalam is a Hindu pilgrimage town on the banks of the Godavari River in what is now Telangana state. The town's principal draw is the [Sita Ramachandraswamy Temple](/asia/india/andhrapradesh/bhadrachalam/sita_ramachandraswamy_temple), one of the most revered Vaishnavite shrines in South India, dedicated to Lord Rama and believed to mark the site where he spent time during his forest exile. The temple's Rama Navami festival in March–April draws hundreds of thousands of devotees each year.

@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:ISS002-E-6431_-_View_of_Tu
 latitude: -7.4833
 loc_type: island
 longitude: 178.6833
-score: 6.11
+score: 5.274
 snippet: Tuvaluan reef island known for Motufoua Secondary School and a closely settled
   village life
 sources:
 - https://en.wikipedia.org/wiki/Vaitupu
 title: Vaitupu Island
 type: location
+heritage: 4.893
+vibrancy: 1.313
+nature: 3.783
+off_the_beaten_track: 8.642
 ---
 
 Vaitupu is the largest island of [Tuvalu](/australiaandpacific/tuvalu) by land area and one of the more densely populated. It is a classic reef island rather than a true atoll: a roughly oval lump of coral and palm forest about five and a half kilometres long, enclosing two small shallow lagoons in its interior. Around 1,600 people live here, almost all of them in the village of [Asau](/australiaandpacific/tuvalu/vaitupuisland/asau) on the western side.

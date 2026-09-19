@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Old_mosque,_Awjilah.jp
 latitude: 29.1081
 loc_type: city
 longitude: 21.2869
-score: 3.47
+score: 5.433
 snippet: Historic Saharan oasis town on old caravan routes, with Amazigh language
   and palm groves
 title: Awjila
 type: location
+heritage: 5.87
+vibrancy: 1.724
+nature: 2.234
+off_the_beaten_track: 8.405
 ---
 
 Awjila (also written Awjilah, Aujila, or Augila) is a historic oasis deep in the Libyan desert, about 260 km south of [Agedabia](/africa/libya/agedabia). For centuries it sat at the crossroads of the great east-west North African caravan routes and the north-south routes from the coast into sub-Saharan Africa, making it one of the most important stops in the Saharan trade network.

@@ -3,9 +3,9 @@ title: Getting There
 type: section
 ---
 
-Daily flights from Lima make getting to Tarapoto easy. From Tarapoto, travellers can access Iquitos, the city at the start of the Amazon River or head via [Chachapoyas](/southamerica/peru/chachapoyas/chachapoyas) on the [Northern Pacific to Amazon crossing](/southamerica/peru/northern_pacific_t).
+Daily flights from Lima make getting to Tarapoto easy. From Tarapoto, travellers can access Iquitos, the city at the start of the Amazon River or head via [Chachapoyas](/southamerica/peru/chachapoyas) on the [Northern Pacific to Amazon crossing](/southamerica/peru/northern_pacific_t).
 
-### [Star Peru](/southamerica/peru/tarapoto/getting_there/star_peru)
+### [Star Peru](/southamerica/peru/tarapoto/star_peru)
 
 Flights on Star Peru from Lima to Tarapoto are generally scheduled for 2:30 p.m. each day, and the flight is about one hour long. Passengers are required to check in at the airport two hours ahead of the scheduled time of the flight.
 

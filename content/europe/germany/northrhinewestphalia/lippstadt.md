@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2012-05_Lippstadt_Wassertu
 latitude: 51.674707
 loc_type: city
 longitude: 8.347194
-score: 6.4
+score: 3.275
 snippet: Westphalian river town with a medieval core threaded by Lippe channels and
   crowned by Große Marienkirche.
 sources:
@@ -18,6 +18,10 @@ sources:
 - https://historisches-lippstadt.de/stiftsruine/
 title: Lippstadt
 type: location
+heritage: 3.91
+vibrancy: 2.571
+nature: 2.478
+off_the_beaten_track: 1.142
 ---
 
 Lippstadt is a small town in eastern North Rhine-Westphalia, on the Lippe river between [Paderborn](/europe/germany/northrhinewestphalia/paderborn) and Soest. Founded in 1185 by Bernhard II zur Lippe, it is one of the older planned towns in the region and has a compact medieval core threaded by several branches of the river — a network dense enough to earn the town the nickname "Venice of Westphalia."

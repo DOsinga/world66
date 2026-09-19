@@ -1,0 +1,302 @@
+{
+  "africa/kenya/lakes/laketurkana": {
+    "heritage": 8,
+    "nature": 9,
+    "off_the_beaten_track": 9,
+    "vibrancy": 1
+  },
+  "africa/kenya/northernkenya/lodwar": {
+    "heritage": 5,
+    "nature": 6,
+    "off_the_beaten_track": 8,
+    "vibrancy": 2
+  },
+  "africa/morocco/taroudant": {
+    "heritage": 6,
+    "nature": 3,
+    "off_the_beaten_track": 4,
+    "vibrancy": 6
+  },
+  "africa/tanzania/iringa": {
+    "heritage": 4,
+    "nature": 6,
+    "off_the_beaten_track": 5,
+    "vibrancy": 3
+  },
+  "asia/china/hainanisland/danzhou": {
+    "heritage": 2,
+    "nature": 5,
+    "off_the_beaten_track": 3,
+    "vibrancy": 3
+  },
+  "asia/china/hunan/dehang": {
+    "heritage": 5,
+    "nature": 7,
+    "off_the_beaten_track": 4,
+    "vibrancy": 2
+  },
+  "asia/china/ningxia/yongning": {
+    "heritage": 3,
+    "nature": 4,
+    "off_the_beaten_track": 4,
+    "vibrancy": 2
+  },
+  "asia/china/sichuanprovince/jiuzhaigou": {
+    "heritage": 5,
+    "nature": 10,
+    "off_the_beaten_track": 5,
+    "vibrancy": 2
+  },
+  "asia/india/andhrapradesh/vijayawada": {
+    "heritage": 5,
+    "nature": 4,
+    "off_the_beaten_track": 4,
+    "vibrancy": 6
+  },
+  "asia/india/maharashtra/mahabaleshwar": {
+    "heritage": 4,
+    "nature": 7,
+    "off_the_beaten_track": 3,
+    "vibrancy": 4
+  },
+  "asia/japan/honshu/echizen": {
+    "heritage": 5,
+    "nature": 5,
+    "off_the_beaten_track": 3,
+    "vibrancy": 2
+  },
+  "asia/laos/vangvieng": {
+    "heritage": 2,
+    "nature": 7,
+    "off_the_beaten_track": 4,
+    "vibrancy": 6
+  },
+  "asia/malaysia/perak": {
+    "heritage": 5,
+    "nature": 6,
+    "off_the_beaten_track": 3,
+    "vibrancy": 4
+  },
+  "asia/mongolia/gungaluut": {
+    "heritage": 4,
+    "nature": 7,
+    "off_the_beaten_track": 6,
+    "vibrancy": 1
+  },
+  "asia/mongolia/khovd": {
+    "heritage": 5,
+    "nature": 7,
+    "off_the_beaten_track": 6,
+    "vibrancy": 3
+  },
+  "asia/pakistan/rawalpindi": {
+    "heritage": 4,
+    "nature": 2,
+    "off_the_beaten_track": 6,
+    "vibrancy": 6
+  },
+  "asia/southkorea/gimcheon": {
+    "heritage": 3,
+    "nature": 4,
+    "off_the_beaten_track": 2,
+    "vibrancy": 3
+  },
+  "asia/uzbekistan/bukhara": {
+    "heritage": 9,
+    "nature": 2,
+    "off_the_beaten_track": 5,
+    "vibrancy": 6
+  },
+  "australiaandpacific/guam/cettibay": {
+    "heritage": 4,
+    "nature": 6,
+    "off_the_beaten_track": 5,
+    "vibrancy": 1
+  },
+  "europe/bosniaandherzegovina/trebinje": {
+    "heritage": 7,
+    "nature": 5,
+    "off_the_beaten_track": 3,
+    "vibrancy": 4
+  },
+  "europe/croatia/pasman_island/mrljane": {
+    "heritage": 3,
+    "nature": 6,
+    "off_the_beaten_track": 3,
+    "vibrancy": 2
+  },
+  "europe/faroeislands/suuroy/hvalba": {
+    "heritage": 4,
+    "nature": 8,
+    "off_the_beaten_track": 7,
+    "vibrancy": 2
+  },
+  "europe/germany/bavaria/bamberg": {
+    "heritage": 8,
+    "nature": 3,
+    "off_the_beaten_track": 1,
+    "vibrancy": 5
+  },
+  "europe/germany/bavaria/rosenheim": {
+    "heritage": 5,
+    "nature": 4,
+    "off_the_beaten_track": 2,
+    "vibrancy": 3
+  },
+  "europe/greece/dion": {
+    "heritage": 7,
+    "nature": 6,
+    "off_the_beaten_track": 3,
+    "vibrancy": 2
+  },
+  "europe/greece/patras": {
+    "heritage": 6,
+    "nature": 4,
+    "off_the_beaten_track": 2,
+    "vibrancy": 6
+  },
+  "europe/hungary/szeged": {
+    "heritage": 6,
+    "nature": 3,
+    "off_the_beaten_track": 2,
+    "vibrancy": 6
+  },
+  "europe/ireland/westport": {
+    "heritage": 5,
+    "nature": 7,
+    "off_the_beaten_track": 3,
+    "vibrancy": 4
+  },
+  "europe/italy/liguria/riomaggiore": {
+    "heritage": 7,
+    "nature": 7,
+    "off_the_beaten_track": 2,
+    "vibrancy": 6
+  },
+  "europe/italy/sardinia/costasmeralda": {
+    "heritage": 4,
+    "nature": 8,
+    "off_the_beaten_track": 2,
+    "vibrancy": 7
+  },
+  "europe/italy/sicily/pelagianislands": {
+    "heritage": 3,
+    "nature": 8,
+    "off_the_beaten_track": 5,
+    "vibrancy": 2
+  },
+  "europe/netherlands/harlingen": {
+    "heritage": 5,
+    "nature": 4,
+    "off_the_beaten_track": 2,
+    "vibrancy": 3
+  },
+  "europe/portugal/dourovalley": {
+    "heritage": 7,
+    "nature": 8,
+    "off_the_beaten_track": 3,
+    "vibrancy": 6
+  },
+  "europe/russia/yakutsk": {
+    "heritage": 3,
+    "nature": 8,
+    "off_the_beaten_track": 8,
+    "vibrancy": 3
+  },
+  "europe/spain/cantabria/santillana_del_mar": {
+    "heritage": 7,
+    "nature": 4,
+    "off_the_beaten_track": 2,
+    "vibrancy": 4
+  },
+  "europe/sweden/stersund": {
+    "heritage": 4,
+    "nature": 6,
+    "off_the_beaten_track": 3,
+    "vibrancy": 4
+  },
+  "europe/switzerland/ascona": {
+    "heritage": 5,
+    "nature": 6,
+    "off_the_beaten_track": 2,
+    "vibrancy": 5
+  },
+  "northamerica/canada/ontario/niagara_on_the_lake": {
+    "heritage": 7,
+    "nature": 6,
+    "off_the_beaten_track": 2,
+    "vibrancy": 5
+  },
+  "northamerica/grenada/grandetangforestreserve": {
+    "heritage": 3,
+    "nature": 7,
+    "off_the_beaten_track": 4,
+    "vibrancy": 1
+  },
+  "northamerica/unitedstates/alaska/unalaska": {
+    "heritage": 4,
+    "nature": 7,
+    "off_the_beaten_track": 8,
+    "vibrancy": 2
+  },
+  "northamerica/unitedstates/arkansas/littlerock": {
+    "heritage": 5,
+    "nature": 3,
+    "off_the_beaten_track": 2,
+    "vibrancy": 5
+  },
+  "northamerica/unitedstates/colorado/leadville": {
+    "heritage": 6,
+    "nature": 7,
+    "off_the_beaten_track": 4,
+    "vibrancy": 3
+  },
+  "northamerica/unitedstates/florida/tampabayarea/pinellastrail": {
+    "heritage": 1,
+    "nature": 5,
+    "off_the_beaten_track": 1,
+    "vibrancy": 3
+  },
+  "northamerica/unitedstates/nevada/redrockcanyon": {
+    "heritage": 1,
+    "nature": 8,
+    "off_the_beaten_track": 2,
+    "vibrancy": 1
+  },
+  "northamerica/unitedstates/newyorkstate/troy": {
+    "heritage": 5,
+    "nature": 3,
+    "off_the_beaten_track": 2,
+    "vibrancy": 4
+  },
+  "northamerica/unitedstates/oklahoma/shawnee": {
+    "heritage": 2,
+    "nature": 3,
+    "off_the_beaten_track": 1,
+    "vibrancy": 2
+  },
+  "northamerica/unitedstates/pennsylvania/bucks_county/doylestown": {
+    "heritage": 6,
+    "nature": 3,
+    "off_the_beaten_track": 2,
+    "vibrancy": 4
+  },
+  "northamerica/unitedstates/pennsylvania/punxsutawney": {
+    "heritage": 3,
+    "nature": 3,
+    "off_the_beaten_track": 2,
+    "vibrancy": 4
+  },
+  "northamerica/unitedstates/southdakota/bellefourche": {
+    "heritage": 2,
+    "nature": 3,
+    "off_the_beaten_track": 3,
+    "vibrancy": 1
+  },
+  "southamerica/venezuela/maracaibolake": {
+    "heritage": 2,
+    "nature": 6,
+    "off_the_beaten_track": 7,
+    "vibrancy": 3
+  }
+}

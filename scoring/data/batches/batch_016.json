@@ -1,0 +1,788 @@
+[
+  {
+    "embedding_text": "Davenport, Iowa, United States, North America",
+    "lat": 41.5225,
+    "latitude": 41.5225,
+    "lng": -90.5756,
+    "longitude": -90.5756,
+    "name": "Davenport",
+    "parent": "North America, United States, Iowa",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Iowa"
+    ],
+    "path": "northamerica/unitedstates/iowa/davenport",
+    "url": "/northamerica/unitedstates/iowa/davenport/"
+  },
+  {
+    "embedding_text": "Kaliningrad, Russia, Europe",
+    "lat": 54.7119,
+    "latitude": 54.7119,
+    "lng": 20.5082,
+    "longitude": 20.5082,
+    "name": "Kaliningrad",
+    "parent": "Europe, Russia",
+    "parent_chain": [
+      "Europe",
+      "Russia"
+    ],
+    "path": "europe/russia/kaliningrad",
+    "url": "/europe/russia/kaliningrad/"
+  },
+  {
+    "embedding_text": "Manu National Park, Peru, South America",
+    "lat": -12.0,
+    "latitude": -12.0,
+    "lng": -71.5,
+    "longitude": -71.5,
+    "name": "Manu National Park",
+    "parent": "South America, Peru",
+    "parent_chain": [
+      "South America",
+      "Peru"
+    ],
+    "path": "southamerica/peru/manunationalpark",
+    "url": "/southamerica/peru/manunationalpark/"
+  },
+  {
+    "embedding_text": "Newark, Ohio, United States, North America",
+    "lat": 40.0581,
+    "latitude": 40.0581,
+    "lng": -82.4013,
+    "longitude": -82.4013,
+    "name": "Newark",
+    "parent": "North America, United States, Ohio",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Ohio"
+    ],
+    "path": "northamerica/unitedstates/ohio/newark",
+    "url": "/northamerica/unitedstates/ohio/newark/"
+  },
+  {
+    "embedding_text": "Valley of Flowers, Uttaranchal, India, Asia",
+    "lat": 30.70568,
+    "latitude": 30.70568,
+    "lng": 79.595855,
+    "longitude": 79.595855,
+    "name": "Valley of Flowers",
+    "parent": "Asia, India, Uttaranchal",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Uttaranchal"
+    ],
+    "path": "asia/india/uttaranchal/valley_of_flowers",
+    "url": "/asia/india/uttaranchal/valley_of_flowers/"
+  },
+  {
+    "embedding_text": "Ouray, Colorado, United States, North America",
+    "lat": 38.0228,
+    "latitude": 38.0228,
+    "lng": -107.6717,
+    "longitude": -107.6717,
+    "name": "Ouray",
+    "parent": "North America, United States, Colorado",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Colorado"
+    ],
+    "path": "northamerica/unitedstates/colorado/ouray",
+    "url": "/northamerica/unitedstates/colorado/ouray/"
+  },
+  {
+    "embedding_text": "Canoa Quebrada, Brazil, South America",
+    "lat": -4.528333,
+    "latitude": -4.528333,
+    "lng": -37.692778,
+    "longitude": -37.692778,
+    "name": "Canoa Quebrada",
+    "parent": "South America, Brazil",
+    "parent_chain": [
+      "South America",
+      "Brazil"
+    ],
+    "path": "southamerica/brazil/canoa_quebrada",
+    "url": "/southamerica/brazil/canoa_quebrada/"
+  },
+  {
+    "embedding_text": "Sackets Harbor, New York State, United States, North America",
+    "lat": 43.945,
+    "latitude": 43.945,
+    "lng": -76.12,
+    "longitude": -76.12,
+    "name": "Sackets Harbor",
+    "parent": "North America, United States, New York State",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "New York State"
+    ],
+    "path": "northamerica/unitedstates/newyorkstate/sackets_harbor",
+    "url": "/northamerica/unitedstates/newyorkstate/sackets_harbor/"
+  },
+  {
+    "embedding_text": "Feodosia, Crimea, Ukraine, Europe",
+    "lat": 45.0319,
+    "latitude": 45.0319,
+    "lng": 35.3813,
+    "longitude": 35.3813,
+    "name": "Feodosia",
+    "parent": "Europe, Ukraine, Crimea",
+    "parent_chain": [
+      "Europe",
+      "Ukraine",
+      "Crimea"
+    ],
+    "path": "europe/ukraine/crimea/feodosia",
+    "url": "/europe/ukraine/crimea/feodosia/"
+  },
+  {
+    "embedding_text": "Kenilworth, East Midlands, England, United Kingdom, Europe",
+    "lat": 52.345053,
+    "latitude": 52.345053,
+    "lng": -1.581603,
+    "longitude": -1.581603,
+    "name": "Kenilworth",
+    "parent": "Europe, United Kingdom, England, East Midlands",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "East Midlands"
+    ],
+    "path": "europe/unitedkingdom/england/east_midlands/kenilworth",
+    "url": "/europe/unitedkingdom/england/east_midlands/kenilworth/"
+  },
+  {
+    "embedding_text": "Karaman, Turkey, Asia",
+    "lat": 37.183333,
+    "latitude": 37.183333,
+    "lng": 33.216667,
+    "longitude": 33.216667,
+    "name": "Karaman",
+    "parent": "Asia, Turkey",
+    "parent_chain": [
+      "Asia",
+      "Turkey"
+    ],
+    "path": "asia/turkey/karaman",
+    "url": "/asia/turkey/karaman/"
+  },
+  {
+    "embedding_text": "F\u00fcrth, Bavaria, Germany, Europe",
+    "lat": 49.488571,
+    "latitude": 49.488571,
+    "lng": 10.95872,
+    "longitude": 10.95872,
+    "name": "F\u00fcrth",
+    "parent": "Europe, Germany, Bavaria",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Bavaria"
+    ],
+    "path": "europe/germany/bavaria/fuerth",
+    "url": "/europe/germany/bavaria/fuerth/"
+  },
+  {
+    "embedding_text": "Yuzhou, Henan Province, China, Asia",
+    "lat": 34.1511,
+    "latitude": 34.1511,
+    "lng": 113.4733,
+    "longitude": 113.4733,
+    "name": "Yuzhou",
+    "parent": "Asia, China, Henan Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Henan Province"
+    ],
+    "path": "asia/china/henan_province/yuzhou",
+    "url": "/asia/china/henan_province/yuzhou/"
+  },
+  {
+    "embedding_text": "Ulaanbaatar, Mongolia, Asia",
+    "lat": 47.9184,
+    "latitude": 47.9184,
+    "lng": 106.9177,
+    "longitude": 106.9177,
+    "name": "Ulaanbaatar",
+    "parent": "Asia, Mongolia",
+    "parent_chain": [
+      "Asia",
+      "Mongolia"
+    ],
+    "path": "asia/mongolia/ulaanbaatar",
+    "url": "/asia/mongolia/ulaanbaatar/"
+  },
+  {
+    "embedding_text": "Landskrona, Sweden, Europe",
+    "lat": 55.8698,
+    "latitude": 55.8698,
+    "lng": 12.8297,
+    "longitude": 12.8297,
+    "name": "Landskrona",
+    "parent": "Europe, Sweden",
+    "parent_chain": [
+      "Europe",
+      "Sweden"
+    ],
+    "path": "europe/sweden/landskrona",
+    "url": "/europe/sweden/landskrona/"
+  },
+  {
+    "embedding_text": "Robin Hood's Bay, Yorkshire, England, United Kingdom, Europe",
+    "lat": 54.4332,
+    "latitude": 54.4332,
+    "lng": -0.5345,
+    "longitude": -0.5345,
+    "name": "Robin Hood's Bay",
+    "parent": "Europe, United Kingdom, England, Yorkshire",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "Yorkshire"
+    ],
+    "path": "europe/unitedkingdom/england/yorkshire/robin_hoods_bay",
+    "url": "/europe/unitedkingdom/england/yorkshire/robin_hoods_bay/"
+  },
+  {
+    "embedding_text": "Kilgore, Texas, United States, North America",
+    "lat": 32.3856,
+    "latitude": 32.3856,
+    "lng": -94.8686,
+    "longitude": -94.8686,
+    "name": "Kilgore",
+    "parent": "North America, United States, Texas",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Texas"
+    ],
+    "path": "northamerica/unitedstates/texas/kilgore",
+    "url": "/northamerica/unitedstates/texas/kilgore/"
+  },
+  {
+    "embedding_text": "Kuelap, Peru, South America",
+    "lat": -6.423103,
+    "latitude": -6.423103,
+    "lng": -77.910721,
+    "longitude": -77.910721,
+    "name": "Kuelap",
+    "parent": "South America, Peru",
+    "parent_chain": [
+      "South America",
+      "Peru"
+    ],
+    "path": "southamerica/peru/kuelap",
+    "url": "/southamerica/peru/kuelap/"
+  },
+  {
+    "embedding_text": "Quba, Azerbaijan, Europe",
+    "lat": 41.188089,
+    "latitude": 41.188089,
+    "lng": 48.372145,
+    "longitude": 48.372145,
+    "name": "Quba",
+    "parent": "Europe, Azerbaijan",
+    "parent_chain": [
+      "Europe",
+      "Azerbaijan"
+    ],
+    "path": "europe/azerbaijan/quba",
+    "url": "/europe/azerbaijan/quba/"
+  },
+  {
+    "embedding_text": "Ferrol, Galicia, Spain, Europe",
+    "lat": 43.4844,
+    "latitude": 43.4844,
+    "lng": -8.2328,
+    "longitude": -8.2328,
+    "name": "Ferrol",
+    "parent": "Europe, Spain, Galicia",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Galicia"
+    ],
+    "path": "europe/spain/galicia/ferrol",
+    "url": "/europe/spain/galicia/ferrol/"
+  },
+  {
+    "embedding_text": "Ames, Iowa, United States, North America",
+    "lat": 42.026757,
+    "latitude": 42.026757,
+    "lng": -93.617045,
+    "longitude": -93.617045,
+    "name": "Ames",
+    "parent": "North America, United States, Iowa",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Iowa"
+    ],
+    "path": "northamerica/unitedstates/iowa/ames",
+    "url": "/northamerica/unitedstates/iowa/ames/"
+  },
+  {
+    "embedding_text": "Concepci\u00f3n, Paraguay, South America",
+    "lat": -23.1775,
+    "latitude": -23.1775,
+    "lng": -57.1675,
+    "longitude": -57.1675,
+    "name": "Concepci\u00f3n",
+    "parent": "South America, Paraguay",
+    "parent_chain": [
+      "South America",
+      "Paraguay"
+    ],
+    "path": "southamerica/paraguay/concepcion",
+    "url": "/southamerica/paraguay/concepcion/"
+  },
+  {
+    "embedding_text": "Zakopane, Poland, Europe",
+    "lat": 49.2969,
+    "latitude": 49.2969,
+    "lng": 19.9505,
+    "longitude": 19.9505,
+    "name": "Zakopane",
+    "parent": "Europe, Poland",
+    "parent_chain": [
+      "Europe",
+      "Poland"
+    ],
+    "path": "europe/poland/zakopane",
+    "url": "/europe/poland/zakopane/"
+  },
+  {
+    "embedding_text": "Tam Giang Lagoon, Around Hue, Vietnam, Asia",
+    "lat": 16.373383,
+    "latitude": 16.373383,
+    "lng": 107.876348,
+    "longitude": 107.876348,
+    "name": "Tam Giang Lagoon",
+    "parent": "Asia, Vietnam, Around Hue",
+    "parent_chain": [
+      "Asia",
+      "Vietnam",
+      "Around Hue"
+    ],
+    "path": "asia/vietnam/aroundhue/tamgianglagoon",
+    "url": "/asia/vietnam/aroundhue/tamgianglagoon/"
+  },
+  {
+    "embedding_text": "Al Khums, Libya, Africa",
+    "lat": 32.652183,
+    "latitude": 32.652183,
+    "lng": 14.26801,
+    "longitude": 14.26801,
+    "name": "Al Khums",
+    "parent": "Africa, Libya",
+    "parent_chain": [
+      "Africa",
+      "Libya"
+    ],
+    "path": "africa/libya/al_khums",
+    "url": "/africa/libya/al_khums/"
+  },
+  {
+    "embedding_text": "Bolton, Massachusetts, United States, North America",
+    "lat": 42.434234,
+    "latitude": 42.434234,
+    "lng": -71.609774,
+    "longitude": -71.609774,
+    "name": "Bolton",
+    "parent": "North America, United States, Massachusetts",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Massachusetts"
+    ],
+    "path": "northamerica/unitedstates/massachusetts/bolton",
+    "url": "/northamerica/unitedstates/massachusetts/bolton/"
+  },
+  {
+    "embedding_text": "Derby, East Midlands, England, United Kingdom, Europe",
+    "lat": 52.923301,
+    "latitude": 52.923301,
+    "lng": -1.476549,
+    "longitude": -1.476549,
+    "name": "Derby",
+    "parent": "Europe, United Kingdom, England, East Midlands",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "East Midlands"
+    ],
+    "path": "europe/unitedkingdom/england/east_midlands/derby",
+    "url": "/europe/unitedkingdom/england/east_midlands/derby/"
+  },
+  {
+    "embedding_text": "Thunder Bay, Ontario, Canada, North America",
+    "lat": 48.382,
+    "latitude": 48.382,
+    "lng": -89.2502,
+    "longitude": -89.2502,
+    "name": "Thunder Bay",
+    "parent": "North America, Canada, Ontario",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "Ontario"
+    ],
+    "path": "northamerica/canada/ontario/thunder_bay",
+    "url": "/northamerica/canada/ontario/thunder_bay/"
+  },
+  {
+    "embedding_text": "Tegernsee, Bavaria, Germany, Europe",
+    "lat": 47.7119,
+    "latitude": 47.7119,
+    "lng": 11.7576,
+    "longitude": 11.7576,
+    "name": "Tegernsee",
+    "parent": "Europe, Germany, Bavaria",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Bavaria"
+    ],
+    "path": "europe/germany/bavaria/tegernsee",
+    "url": "/europe/germany/bavaria/tegernsee/"
+  },
+  {
+    "embedding_text": "Warri, Nigeria, Africa",
+    "lat": 5.5186,
+    "latitude": 5.5186,
+    "lng": 5.748,
+    "longitude": 5.748,
+    "name": "Warri",
+    "parent": "Africa, Nigeria",
+    "parent_chain": [
+      "Africa",
+      "Nigeria"
+    ],
+    "path": "africa/nigeria/warri",
+    "url": "/africa/nigeria/warri/"
+  },
+  {
+    "embedding_text": "Cheltenham, South West England, England, United Kingdom, Europe",
+    "lat": 51.899569,
+    "latitude": 51.899569,
+    "lng": -2.071156,
+    "longitude": -2.071156,
+    "name": "Cheltenham",
+    "parent": "Europe, United Kingdom, England, South West England",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "South West England"
+    ],
+    "path": "europe/unitedkingdom/england/south_west/cheltenham",
+    "url": "/europe/unitedkingdom/england/south_west/cheltenham/"
+  },
+  {
+    "embedding_text": "York, Yorkshire, England, United Kingdom, Europe",
+    "lat": 53.965658,
+    "latitude": 53.965658,
+    "lng": -1.074305,
+    "longitude": -1.074305,
+    "name": "York",
+    "parent": "Europe, United Kingdom, England, Yorkshire",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "Yorkshire"
+    ],
+    "path": "europe/unitedkingdom/england/yorkshire/york",
+    "url": "/europe/unitedkingdom/england/yorkshire/york/"
+  },
+  {
+    "embedding_text": "Viroqua, Wisconsin, United States, North America",
+    "lat": 43.556917,
+    "latitude": 43.556917,
+    "lng": -90.888741,
+    "longitude": -90.888741,
+    "name": "Viroqua",
+    "parent": "North America, United States, Wisconsin",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Wisconsin"
+    ],
+    "path": "northamerica/unitedstates/wisconsin/viroqua",
+    "url": "/northamerica/unitedstates/wisconsin/viroqua/"
+  },
+  {
+    "embedding_text": "Sunriver, Oregon, United States, North America",
+    "lat": 43.884,
+    "latitude": 43.884,
+    "lng": -121.4385,
+    "longitude": -121.4385,
+    "name": "Sunriver",
+    "parent": "North America, United States, Oregon",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Oregon"
+    ],
+    "path": "northamerica/unitedstates/oregon/sunriver",
+    "url": "/northamerica/unitedstates/oregon/sunriver/"
+  },
+  {
+    "embedding_text": "Remedios, Cuba, North America",
+    "lat": 22.4947,
+    "latitude": 22.4947,
+    "lng": -79.5453,
+    "longitude": -79.5453,
+    "name": "Remedios",
+    "parent": "North America, Cuba",
+    "parent_chain": [
+      "North America",
+      "Cuba"
+    ],
+    "path": "northamerica/cuba/remedios",
+    "url": "/northamerica/cuba/remedios/"
+  },
+  {
+    "embedding_text": "Lepakshi, Andhra Pradesh, India, Asia",
+    "lat": 13.8032,
+    "latitude": 13.8032,
+    "lng": 77.6097,
+    "longitude": 77.6097,
+    "name": "Lepakshi",
+    "parent": "Asia, India, Andhra Pradesh",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Andhra Pradesh"
+    ],
+    "path": "asia/india/andhrapradesh/lepakshi",
+    "url": "/asia/india/andhrapradesh/lepakshi/"
+  },
+  {
+    "embedding_text": "Ti\u00e9b\u00e9l\u00e9, Burkina Faso, Africa",
+    "lat": 11.103756,
+    "latitude": 11.103756,
+    "lng": -0.924685,
+    "longitude": -0.924685,
+    "name": "Ti\u00e9b\u00e9l\u00e9",
+    "parent": "Africa, Burkina Faso",
+    "parent_chain": [
+      "Africa",
+      "Burkina Faso"
+    ],
+    "path": "africa/burkinafaso/tibl",
+    "url": "/africa/burkinafaso/tibl/"
+  },
+  {
+    "embedding_text": "Jining, Shandong Province, China, Asia",
+    "lat": 35.4,
+    "latitude": 35.4,
+    "lng": 116.58,
+    "longitude": 116.58,
+    "name": "Jining",
+    "parent": "Asia, China, Shandong Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Shandong Province"
+    ],
+    "path": "asia/china/shandong_province/jining",
+    "url": "/asia/china/shandong_province/jining/"
+  },
+  {
+    "embedding_text": "Walsrode, Lower Saxony, Germany, Europe",
+    "lat": 52.8615,
+    "latitude": 52.8615,
+    "lng": 9.5926,
+    "longitude": 9.5926,
+    "name": "Walsrode",
+    "parent": "Europe, Germany, Lower Saxony",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Lower Saxony"
+    ],
+    "path": "europe/germany/lowersaxony/walsrode",
+    "url": "/europe/germany/lowersaxony/walsrode/"
+  },
+  {
+    "embedding_text": "Wind River Canyon, Wyoming, United States, North America",
+    "lat": 43.57,
+    "latitude": 43.57,
+    "lng": -108.2,
+    "longitude": -108.2,
+    "name": "Wind River Canyon",
+    "parent": "North America, United States, Wyoming",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Wyoming"
+    ],
+    "path": "northamerica/unitedstates/wyoming/windrivercanyon",
+    "url": "/northamerica/unitedstates/wyoming/windrivercanyon/"
+  },
+  {
+    "embedding_text": "Hameenlinna, Finland, Europe",
+    "lat": 60.996619,
+    "latitude": 60.996619,
+    "lng": 24.465141,
+    "longitude": 24.465141,
+    "name": "Hameenlinna",
+    "parent": "Europe, Finland",
+    "parent_chain": [
+      "Europe",
+      "Finland"
+    ],
+    "path": "europe/finland/hameenlinna",
+    "url": "/europe/finland/hameenlinna/"
+  },
+  {
+    "embedding_text": "Siedlce, Poland, Europe",
+    "lat": 52.161594,
+    "latitude": 52.161594,
+    "lng": 22.281253,
+    "longitude": 22.281253,
+    "name": "Siedlce",
+    "parent": "Europe, Poland",
+    "parent_chain": [
+      "Europe",
+      "Poland"
+    ],
+    "path": "europe/poland/siedlce",
+    "url": "/europe/poland/siedlce/"
+  },
+  {
+    "embedding_text": "Niigata, Honshu, Japan, Asia",
+    "lat": 37.9026,
+    "latitude": 37.9026,
+    "lng": 139.0232,
+    "longitude": 139.0232,
+    "name": "Niigata",
+    "parent": "Asia, Japan, Honshu",
+    "parent_chain": [
+      "Asia",
+      "Japan",
+      "Honshu"
+    ],
+    "path": "asia/japan/honshu/niigata",
+    "url": "/asia/japan/honshu/niigata/"
+  },
+  {
+    "embedding_text": "Lakes Entrance, Victoria, Australia, Australia, Pacific & Antarctica",
+    "lat": -37.86,
+    "latitude": -37.86,
+    "lng": 147.98,
+    "longitude": 147.98,
+    "name": "Lakes Entrance",
+    "parent": "Australia, Pacific & Antarctica, Australia, Victoria",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "Victoria"
+    ],
+    "path": "australiaandpacific/australia/victoria/lakes_entrance",
+    "url": "/australiaandpacific/australia/victoria/lakes_entrance/"
+  },
+  {
+    "embedding_text": "Nako, Himachal Pradesh, India, Asia",
+    "lat": 31.8815,
+    "latitude": 31.8815,
+    "lng": 78.6275,
+    "longitude": 78.6275,
+    "name": "Nako",
+    "parent": "Asia, India, Himachal Pradesh",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Himachal Pradesh"
+    ],
+    "path": "asia/india/himachalpradesh/nako",
+    "url": "/asia/india/himachalpradesh/nako/"
+  },
+  {
+    "embedding_text": "Bethel, Maine, United States, North America",
+    "lat": 44.4042,
+    "latitude": 44.4042,
+    "lng": -70.7906,
+    "longitude": -70.7906,
+    "name": "Bethel",
+    "parent": "North America, United States, Maine",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Maine"
+    ],
+    "path": "northamerica/unitedstates/maine/bethel",
+    "url": "/northamerica/unitedstates/maine/bethel/"
+  },
+  {
+    "embedding_text": "Bucharest, Romania, Europe",
+    "lat": 44.4361,
+    "latitude": 44.4361,
+    "lng": 26.1027,
+    "longitude": 26.1027,
+    "name": "Bucharest",
+    "parent": "Europe, Romania",
+    "parent_chain": [
+      "Europe",
+      "Romania"
+    ],
+    "path": "europe/romania/bucharest",
+    "url": "/europe/romania/bucharest/"
+  },
+  {
+    "embedding_text": "Greenville Junction, Maine, United States, North America",
+    "lat": 45.4609,
+    "latitude": 45.4609,
+    "lng": -69.6162,
+    "longitude": -69.6162,
+    "name": "Greenville Junction",
+    "parent": "North America, United States, Maine",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Maine"
+    ],
+    "path": "northamerica/unitedstates/maine/greenville_junction",
+    "url": "/northamerica/unitedstates/maine/greenville_junction/"
+  },
+  {
+    "embedding_text": "Tamgaly Petroglyphs (Day Trip), Kazakhstan, Asia",
+    "lat": 43.8408,
+    "latitude": 43.8408,
+    "lng": 75.5347,
+    "longitude": 75.5347,
+    "name": "Tamgaly Petroglyphs (Day Trip)",
+    "parent": "Asia, Kazakhstan",
+    "parent_chain": [
+      "Asia",
+      "Kazakhstan"
+    ],
+    "path": "asia/kazakhstan/tamgaly_petroglyphs",
+    "url": "/asia/kazakhstan/tamgaly_petroglyphs/"
+  },
+  {
+    "embedding_text": "Lauterbrunnen, Switzerland, Europe",
+    "lat": 46.593904,
+    "latitude": 46.593904,
+    "lng": 7.907802,
+    "longitude": 7.907802,
+    "name": "Lauterbrunnen",
+    "parent": "Europe, Switzerland",
+    "parent_chain": [
+      "Europe",
+      "Switzerland"
+    ],
+    "path": "europe/switzerland/lauterbrunnen",
+    "url": "/europe/switzerland/lauterbrunnen/"
+  }
+]

@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/47764477@N05/4380032847
 latitude: -42.917305
 loc_type: city
 longitude: -71.321651
-score: 7.66
+score: 5.888
 snippet: Patagonian foothill city near Los Alerces National Park, surrounded by lakes,
   rivers, and ancient alerce forest.
 title: Esquel
 type: location
+heritage: 3.344
+vibrancy: 3.001
+nature: 7.572
+off_the_beaten_track: 5.094
 ---
 
 Esquel is a small city in the Andean foothills of Chubut Province, in the Argentine Patagonian lake district. It sits at the edge of the Andes, surrounded by lakes, rivers, and the vast Lago Futalaufquen in [Los Alerces National Park](/southamerica/argentina/esquel/los_alerces_national_park) to the west. The national park protects an ancient alerce forest — alerce trees (Fitzroya cupressoides) can live for over 3,000 years, and some of the specimens in the park are among the oldest living things on earth.

@@ -4,7 +4,6 @@ longitude: -9.1458
 tags:
 - things_to_do
 - sight
-- bairro_alto
 title: Avenida da Liberdade
 type: poi
 score: 6.8

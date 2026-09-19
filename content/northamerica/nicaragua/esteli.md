@@ -2,12 +2,17 @@
 latitude: 13.0833
 loc_type: city
 longitude: -86.35
-score: 7.2
-snippet: Nicaraguan highland city of tobacco, coffee, Sandinista murals and nearby cloud forest.
+score: 3.637
+snippet: Nicaraguan highland city of tobacco, coffee, Sandinista murals and nearby
+  cloud forest.
 sources:
-  - https://en.wikivoyage.org/wiki/Esteli
+- https://en.wikivoyage.org/wiki/Esteli
 title: Estelí
 type: location
+heritage: 2.889
+vibrancy: 2.636
+nature: 4.324
+off_the_beaten_track: 4.303
 ---
 
 Estelí is a cool, workmanlike city in Nicaragua's northern highlands, famous for tobacco, coffee and politics. It is not as pretty as [León](/northamerica/nicaragua/len) or Granada, but it has a stronger sense of itself: cigar factories on the edge of town, revolutionary murals on ordinary walls, leather shops near the market, and mountain air that makes the lowlands feel far away.

@@ -13,13 +13,13 @@ The sea coast approximately 330 mi (530 km) from the Daman Ganga River north of 
 **Contributors**
 February 07, 2008
 
-### [Kashid Beach](/asia/india/maharashtra/konkan/beaches/kashid_beach)
+### [Kashid Beach](/asia/india/maharashtra/konkan/kashid_beach)
 
 135 kms from Mumbai on the North Konkan coast lies this beach between two rocky hills.This is by far the best beach in North Konkan and miles ahead of the ones in Alibag,Kihim and Murud.The beach is usually deserted on weekdays and sparsely populated on week-ends.If you don;t want to take the trouble of going to Goa,try this one out.
 
 
 
-[[rate it]](/asia/india/maharashtra/konkan/beaches/kashid_beach)
+[[rate it]](/asia/india/maharashtra/konkan/kashid_beach)
 
 tel: 95-2144-278629
 
@@ -27,16 +27,16 @@ address: Kashid Beach
 
 email:
 
-### [Harihareshwar](/asia/india/maharashtra/konkan/beaches/harihareshwar)
+### [Harihareshwar](/asia/india/maharashtra/konkan/harihareshwar)
 
 Harihareshwar is one of the finest places in Konkan. It is just 230 Kms. from Pune. It is famous for a temple on the seashore as well as the beach and the natural beauties here. Harihareshwar is only 25 Kms for Shri Vardhan. If one wants to enjoy travelling by sea, the launches are also available between the two towns. The temple here is one of the major attractions. Harihareshwar is known as Kashi of Southern India . The hill on the seashore at Harihareshwar is also known as 'Harihar' or 'Pushpadri'.
 The temple is old and the construction period of this temple can be traced back several centuries, making it one of the most revered Shiva shrines on the Konkan coast.
 
 
 
-[[rate it]](/asia/india/maharashtra/konkan/beaches/harihareshwar)
+[[rate it]](/asia/india/maharashtra/konkan/harihareshwar)
 
-### [Ganapatipule](/asia/india/maharashtra/konkan/beaches/ganapatipule)
+### [Ganapatipule](/asia/india/maharashtra/konkan/ganapatipule)
 
 The sun-kissed beach and lush greenery of Ganapatipule inevitably draws tourists back, year after year. Many consider it as a spiritual place and the added attraction is a 400-year old temple which houses the "**Swayambhu Ganapati **".
 
@@ -46,7 +46,7 @@ The sun-kissed beach and lush greenery of Ganapatipule inevitably draws tourists
 
 
 
-[[rate it]](/asia/india/maharashtra/konkan/beaches/ganapatipule)
+[[rate it]](/asia/india/maharashtra/konkan/ganapatipule)
 
 ### [Diveagar Beach](/asia/india/maharashtra/konkan/beaches/diveagar_beach)
 
@@ -60,17 +60,17 @@ The beach is a real revelation, a six km stretch of clean, casuarina-lined sand 
 
 [[rate it]](/asia/india/maharashtra/konkan/beaches/diveagar_beach)
 
-### [Murud - Harne Beach](/asia/india/maharashtra/konkan/beaches/murud__harnai_bea)
+### [Murud - Harne Beach](/asia/india/maharashtra/konkan/murud__harnai_bea)
 
 Excellent virgin beaches. Can see dolphins by the coast too. Very good resorts around. Around 10 kms. from Dapoli, 200 kms. from Pune and 250 kms. from Mumbai.
 
 
 
-[[rate it]](/asia/india/maharashtra/konkan/beaches/murud__harnai_bea)
+[[rate it]](/asia/india/maharashtra/konkan/murud__harnai_bea)
 
 email:
 
-### [Tarkarli](/asia/india/maharashtra/konkan/beaches/tarkarli)
+### [Tarkarli](/asia/india/maharashtra/konkan/tarkarli)
 
 Tarkarli situated 6 kms. south of Malvan has the long and narrow stretch of beach, with its pristine waters.
 
@@ -90,7 +90,7 @@ From Mumbai: Panvel - Pen - Ratnagiri - Kankawali - Malvan
 
 
 
-[[rate it]](/asia/india/maharashtra/konkan/beaches/tarkarli)
+[[rate it]](/asia/india/maharashtra/konkan/tarkarli)
 
 ### [Kunkeshwar Beach](/asia/india/maharashtra/konkan/deogad/kunkeshwar_temple)
 

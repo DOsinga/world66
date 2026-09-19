@@ -21,4 +21,4 @@ Reverence for the royal family is deep and backed by strict *lèse-majesté* law
 
 ## The South
 
-The three southernmost provinces — Yala, Pattani, and Narathiwat — have a predominantly Malay-Muslim population and have been the site of a long-running separatist insurgency, with periodic bombings and attacks on security forces. Most tourists have no reason to travel to this area, and most Western governments advise against non-essential travel there. The rest of southern Thailand, including [Phuket](/asia/thailand/phuket), [Krabi](/asia/thailand/krabi), and the Gulf islands, is entirely unaffected.
+The three southernmost provinces — Yala, Pattani, and Narathiwat — have a predominantly Malay-Muslim population and have been the site of a long-running separatist insurgency, with periodic bombings and attacks on security forces. Most tourists have no reason to travel to this area, and most Western governments advise against non-essential travel there. The rest of southern Thailand, including [Phuket](/asia/thailand/andamancoast/phuket), [Krabi](/asia/thailand/andamancoast/krabi), and the Gulf islands, is entirely unaffected.

@@ -1,12 +1,10 @@
 ---
-latitude: 9.7489
-longitude: -83.7534
 score: 7.0
 snippet: Paddle quietly into mangroves and estuaries along both coasts
 tags:
 - things_to_do
 title: Sea kayaking
-type: poi
+type: theme
 ---
 
 Good arms and a strong back will help you practice this sport. Offered up and down the Pacific and Caribbean coasts, sea kayaking is very popular.

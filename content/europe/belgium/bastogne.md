@@ -5,7 +5,7 @@ done:
 latitude: 50.00231
 loc_type: city
 longitude: 5.717339
-score: 7.67
+score: 4.637
 snippet: Ardennes town defined by the Battle of the Bulge and surrounded by forested
   cycling country.
 sources:
@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Battle_of_the_Bulge
 title: Bastogne
 type: location
+heritage: 5.526
+vibrancy: 3.664
+nature: 4.078
+off_the_beaten_track: 3.137
 ---
 
 Bastogne is best known for its role in the Battle of the Bulge, the last major German offensive of World War II. In December 1944, American forces were encircled here and held out against overwhelming odds — a moment commemorated in [McAuliffe Square](/europe/belgium/bastogne/mcauliffe_square), named for the general whose defiant one-word reply to a German surrender demand has passed into military legend. The [Bastogne War Museum](/europe/belgium/bastogne/bastogne_war_museum) and the [Mardasson Memorial](/europe/belgium/bastogne/mardasson_memorial) together make this one of the most powerful WWII sites in Europe.

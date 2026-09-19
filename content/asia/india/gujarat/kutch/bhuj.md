@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:A_stitched_panorama_of_a_C
 latitude: 23.247245
 loc_type: city
 longitude: 69.668339
-score: 7.26
+score: 4.671
 snippet: Kutch base city with palaces, earthquake memory, and craft villages spread
   across the surrounding desert region
 title: Bhuj
 type: location
+heritage: 5.496
+vibrancy: 3.832
+nature: 3.956
+off_the_beaten_track: 3.644
 ---
 
 Bhuj is the largest city in [Kutch](/asia/india/gujarat/kutch) and the ideal base for exploring the region. It is a very old city with a fascinating old walled quarter, several palaces, and the excellent [Aina Mahal](/asia/india/gujarat/kutch/bhuj/aina_mahal) (Hall of Mirrors), built by a Kutchi craftsman who spent years studying in Europe. Right next door, the Italianate [Prag Mahal](/asia/india/gujarat/kutch/bhuj/prag_mahal) was the home of the last Maharao and still bears the scars of the 2001 earthquake.

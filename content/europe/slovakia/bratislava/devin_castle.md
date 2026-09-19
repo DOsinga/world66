@@ -1,23 +1,22 @@
 ---
-title: Devín Castle
-type: poi
-tags:
-- things_to_do
-- sight
-- historic
-- day_trips
+image: devin_castle.jpg
+image_attribution: Jules Verne Times Two
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Donkey_(Equus_africanus_asinus)_at_Dev%C3%ADn_Castle_(Bratislava,_Slovakia)_julesvernex2.jpg
 latitude: 48.1775
 longitude: 16.9805
+score: 9.2
 story: Devín Castle stands at the confluence of the Danube and Morava rivers, at a
   point that was for decades the Iron Curtain. The river here was mined and patrolled
   by border guards; crossing it meant near-certain death. The ruins of the castle
   now overlook a stretch of river that is a popular cycling destination for Bratislava
   residents.
-score: 9.2
-image: devin_castle.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Donkey_(Equus_africanus_asinus)_at_Dev%C3%ADn_Castle_(Bratislava,_Slovakia)_julesvernex2.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Jules Verne Times Two
+tags:
+- things_to_do
+- sight
+- historic
+title: Devín Castle
+type: poi
 ---
 
 Devín Castle is a ruined medieval fortress perched on a cliff at the confluence of the Danube and Morava rivers, about 12 km west of central Bratislava. The setting is one of the most dramatically sited in Central Europe — the castle is built into an almost vertical rock face, with the two rivers meeting directly below and Austria visible on the far bank.

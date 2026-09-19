@@ -14,7 +14,7 @@ quick_facts:
   Distinction: World's southernmost capital
   Population: ~215,000
   Te Papa: The free national museum
-score: 8.78
+score: 6.546
 snippet: Compact harbour capital wedged between forested hills, wild coast, parliament,
   cafes, and relentless wind
 tip: Wellington is the world's southernmost capital and famously windy — locals joke
@@ -24,6 +24,10 @@ tip: Wellington is the world's southernmost capital and famously windy — local
   It's also the home of Middle-earth's film studios.
 title: Wellington
 type: location
+heritage: 4.177
+vibrancy: 6.001
+nature: 7.247
+off_the_beaten_track: 3.626
 ---
 
 Wellington is the southernmost capital in the world, wedged between a deep harbour and a ring of forested hills. It is a compact, walkable city where you can go from [parliament](/australiaandpacific/newzealand/north_island/greater_wellington/wellington/beehive) to a wild south coast beach in twenty minutes. The wind is relentless — Wellingtonians will tell you that with a mix of pride and resignation.

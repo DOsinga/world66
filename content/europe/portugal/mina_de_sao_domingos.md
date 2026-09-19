@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Milky_Way_over_Mina_de_S_D
 latitude: 37.671347
 loc_type: city
 longitude: -7.498263
-score: 6.66
+score: 4.929
 snippet: Abandoned Alentejo mining village near Spain, with Roman roots, British-era
   remains, and an acid-red pit lake.
 sources:
 - https://en.wikipedia.org/wiki/S%C3%A3o_Domingos_Mine
 title: Mina de São Domingos
 type: location
+heritage: 5.618
+vibrancy: 2.411
+nature: 4.932
+off_the_beaten_track: 4.485
 ---
 
 Mina de São Domingos is a deserted mining village in the Alentejo, deep in the southeast of [Portugal](/europe/portugal) near the Spanish border. The Romans mined here for gold and silver for about four hundred years, and the British reopened the mines in the 19th century to extract copper pyrite, building a railway and an English-style village for the workers.

@@ -42,7 +42,7 @@ great day trip, but expect the return ferry to be packed if you leave with the l
 
 
 
-[[rate it]](/asia/china/shandong_province/qingdao/beaches/golden_beach)
+[[rate it]](/asia/china/shandong_province/qingdao/golden_beach)
 
 ### Beach 1
 

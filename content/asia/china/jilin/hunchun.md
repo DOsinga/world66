@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Hunchun_Yanhe_Xijie.jpg
 latitude: 42.866
 loc_type: city
 longitude: 130.366
-score: 5.91
+score: 4.904
 snippet: Chinese border city where Russia, North Korea, and Korean-Chinese trading
   cultures meet.
 sources:
 - https://en.wikivoyage.org/wiki/Hunchun
 title: Hunchun
 type: location
+heritage: 1.695
+vibrancy: 1.221
+nature: 6.202
+off_the_beaten_track: 4.584
 ---
 
 Hunchun occupies one of the more unusual geographic positions of any city in China: it sits at the point where China, Russia, and North Korea converge, with North Korean territory a few kilometres to the southwest and the Russian border close to the east. This trilateral proximity gives the city its primary identity as a border trading hub and its most distinctive feature — signage in three languages, Chinese, Russian, and Korean, which appears throughout the city as a matter of practical necessity rather than symbolic gesture. Russian traders come here to buy Chinese goods, Korean-Chinese traders maintain family connections that complicate simple national narratives, and the whole place has the slightly vertiginous feel of somewhere that doesn't quite map onto any single country's version of normal.

@@ -4,9 +4,15 @@ type: location
 loc_type: city
 latitude: 50.2399
 longitude: -117.8023
-snippet: Arrow Lakes village known for hot springs, a quiet waterfront, and Selkirk forest trails.
+snippet: Arrow Lakes village known for hot springs, a quiet waterfront, and Selkirk
+  forest trails.
 sources:
-  - https://en.wikivoyage.org/wiki/Nakusp
+- https://en.wikivoyage.org/wiki/Nakusp
+score: 6.115
+heritage: 4.896
+vibrancy: 1.576
+nature: 7.403
+off_the_beaten_track: 5.499
 ---
 
 Nakusp is a small village on Upper Arrow Lake in British Columbia's West Kootenay region. It is not a big mountain resort, and that is part of its appeal. The lakefront is quiet, the roads arrive by long valley drives and ferries, and the surrounding Selkirk forest gives the place a slightly end-of-the-road feel.

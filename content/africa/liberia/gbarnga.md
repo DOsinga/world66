@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Monrovia_to_Gbarnga_highwa
 latitude: 7.0005
 loc_type: city
 longitude: -9.4751
-score: 4.8
+score: 4.185
 snippet: Central Liberian market city in Bong County, surrounded by Kpelle villages,
   farms, and green hills.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Bong_County
 title: Gbarnga
 type: location
+heritage: 4.533
+vibrancy: 1.974
+nature: 3.222
+off_the_beaten_track: 6.467
 ---
 
 *Africa > [Liberia](/africa/liberia) > Gbarnga*

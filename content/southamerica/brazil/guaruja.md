@@ -4,7 +4,7 @@ done:
   location_enrich: '2026-05-22'
 latitude: -23.992777
 longitude: -46.255833
-score: 6.96
+score: 4.323
 title: Guarujá
 type: location
 loc_type: city
@@ -14,6 +14,10 @@ image_license: CC BY-SA 4.0
 image_attribution: Photograph by Mike Peel (www.mikepeel.net).
 snippet: São Paulo beach city on Santo Amaro island, with crowded urban sands and
   quieter coastal escapes.
+heritage: 1.354
+vibrancy: 3.203
+nature: 5.153
+off_the_beaten_track: 2.407
 ---
 
 Guarujá is a beach city on the São Paulo coast, the closest major beach destination to [São Paulo](/southamerica/brazil/saopaulo) — about 85 kilometres southeast via the Anchieta highway. Paulistanos flood here on weekends and holidays, which tells you both that the beaches are good and that the crowds can be intense.

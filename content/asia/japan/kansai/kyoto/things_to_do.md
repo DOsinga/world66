@@ -1,0 +1,14 @@
+---
+title: "Things to Do"
+type: section
+---
+
+Kyoto's problem is not finding things to do but narrowing them down. Seventeen sites in the city are inscribed together as a single UNESCO World Heritage entry, and you could spend a week on those alone without seeing everything. A sensible first trip would include [Kinkaku-ji](/asia/japan/kansai/kyoto/kinkakuji) (the Golden Pavilion), [Ginkaku-ji](/asia/japan/kansai/kyoto/ginkakuji), [Ryōan-ji](/asia/japan/kansai/kyoto/ryoanji) with its famous dry stone garden, [Kiyomizu-dera](/asia/japan/kansai/kyoto/kiyomizudera) on its hillside platform, and the vermilion-gate tunnels of [Fushimi Inari](/asia/japan/kansai/kyoto/fushimi_inari).
+
+The east side of the city — [Higashiyama](/asia/japan/kansai/kyoto/higashiyama) — is best explored on foot: the lantern-lit lanes of [Ninen-zaka and Sannen-zaka](/asia/japan/kansai/kyoto/ninenzaka_sannenzaka) leading up to Kiyomizu, the [Yasaka Pagoda](/asia/japan/kansai/kyoto/yasaka_pagoda) on the skyline, the great Zen monastery of [Nanzen-ji](/asia/japan/kansai/kyoto/nanzenji) at the foot of the hills, and the bamboo grove of [Arashiyama](/asia/japan/kansai/kyoto/arashiyama_bamboo) on the western outskirts.
+
+[Nijō Castle](/asia/japan/kansai/kyoto/nijo_castle), with its famous nightingale floors, is the main surviving Tokugawa-era residence. The [Kyoto Imperial Palace](/asia/japan/kansai/kyoto/imperial_palace) and the two great imperial garden villas at [Katsura](/asia/japan/kansai/kyoto/katsura_villa) and [Shūgakuin](/asia/japan/kansai/kyoto/shugakuin_villa) reward the extra planning required to book them.
+
+For a quieter day, the [Philosopher's Path](/asia/japan/kansai/kyoto/philosophers_walk) walks you between [Nanzen-ji](/asia/japan/kansai/kyoto/nanzenji) and [Ginkaku-ji](/asia/japan/kansai/kyoto/ginkakuji) along a canal lined with cherry trees, with a string of small temples ([Hōnen-in](/asia/japan/kansai/kyoto/honenin), [Eikan-dō](/asia/japan/kansai/kyoto/eikando)) just off to the sides. Out toward the western foothills, the moss garden of [Saihō-ji](/asia/japan/kansai/kyoto/saihoji_kokedera) and the more accessible moss garden of [Sanzen-in](/asia/japan/kansai/kyoto/sanzenin) in Ōhara are some of the country's finest. For unforgettable Kannon sculpture, head to [Sanjūsangen-dō](/asia/japan/kansai/kyoto/sanjusangendo) and its 1,001 statues.
+
+After dark, the best thing to do is simply to wander the back streets of [Gion](/asia/japan/kansai/kyoto/gion) — the lantern-lit [Hanamikōji](/asia/japan/kansai/kyoto/hanami_koji) and the willow-edged canal of [Shirakawa](/asia/japan/kansai/kyoto/shirakawa) — and watch the lights come on in the wooden teahouses. The narrow alley of [Pontochō](/asia/japan/kansai/kyoto/ponto_cho) on the far bank of the Kamo is the parallel choice for an evening's wander.

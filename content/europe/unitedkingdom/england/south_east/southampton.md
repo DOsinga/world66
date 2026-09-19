@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Leaving_Southampton_-_geog
 latitude: 50.9025
 loc_type: city
 longitude: -1.4042
-score: 6.99
+score: 5.293
 snippet: English cruise port city where Mayflower and Titanic history sits beside
   medieval walls and waterfront quays.
 title: Southampton
 type: location
+heritage: 5.057
+vibrancy: 5.386
+nature: 5.051
+off_the_beaten_track: 1.769
 ---
 
 Southampton has been sending ships out into the world for centuries. The [Mayflower departed from here in 1620](/europe/unitedkingdom/england/south_east/southampton/pilgrim_fathers_memorial). The [Titanic](/europe/unitedkingdom/england/south_east/southampton/seacity_museum) left on its maiden voyage in April 1912. Today the city is still one of Europe's busiest cruise ports, and that maritime identity — part pride, part melancholy — runs through everything.

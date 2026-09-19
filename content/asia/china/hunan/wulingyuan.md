@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:1_zhangjiajie_huangshizhai
 latitude: 29.3456
 loc_type: feature
 longitude: 110.4667
-score: 9.15
+score: 6.125
 snippet: UNESCO sandstone landscape in Hunan, where thousands of forest-crowned pillars
   rise from deep gorges.
 sources:
 - https://en.wikivoyage.org/wiki/Wulingyuan
 title: Wulingyuan
 type: location
+heritage: 3.95
+vibrancy: 2.663
+nature: 7.82
+off_the_beaten_track: 2.574
 ---
 
 Wulingyuan is the name given to the broader UNESCO World Heritage landscape of which Zhangjiajie National Forest Park is the most famous part. The designation covers some 630 square kilometres of karst and sandstone terrain in northwestern [Hunan](/asia/china/hunan), encompassing four separate scenic areas — Zhangjiajie National Forest Park, Suoxiyu, Tianzi Mountain, and Yangjiajie — administered together under a single multi-day ticket. The defining landform is the quartzite sandstone column: more than 3,000 of them, most rising over 200 metres, densely wooded to the crown, emerging from forested gorges in formations that look less like geology than like something a painter invented.

@@ -5,7 +5,7 @@ done:
 latitude: 18.75
 loc_type: city
 longitude: 110.15
-score: 6.6
+score: 5.048
 snippet: Hainan hot-spring town where Southeast Asian Chinese communities shaped coffee,
   farms, and food culture.
 sources:
@@ -13,6 +13,10 @@ sources:
 - https://www.cits.net/china-travel-guide/Xinglong-County/xinglong-hot-spring.html
 title: Xinglong
 type: location
+heritage: 2.1
+vibrancy: 2.675
+nature: 6.532
+off_the_beaten_track: 1.939
 ---
 
 Xinglong is a small town on Hainan's eastern coast, known across China for its natural [hot springs](/asia/china/hainanisland/xinglong/hot_springs) and tropical produce. The mineral-rich spring water is piped directly into hotel rooms at a regulated temperature — a genuinely distinctive amenity — making Xinglong a popular destination for Chinese tourists seeking a warm soak without the large-resort atmosphere of [Sanya](/asia/china/hainanisland/sanya). Rubber and coffee are the main cash crops here; the local Xinglong coffee has a devoted following and offers a curious counterpoint in the world's largest tea-drinking country.

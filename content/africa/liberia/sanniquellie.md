@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_F._van_der_Kr
 latitude: 7.3622
 loc_type: city
 longitude: -8.7061
-score: 4.61
+score: 5.415
 snippet: Nimba County capital known for the 1959 Sanniquellie Declaration, a precursor
   to the African Union.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Nimba_County
 title: Sanniquellie
 type: location
+heritage: 4.922
+vibrancy: 2.212
+nature: 5.304
+off_the_beaten_track: 8.641
 ---
 
 *Africa > [Liberia](/africa/liberia) > Sanniquellie*

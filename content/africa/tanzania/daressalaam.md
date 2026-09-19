@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bank_of_Tanzania_before_du
 latitude: -6.7924
 loc_type: city
 longitude: 39.2083
-score: 7.32
+score: 4.482
 snippet: Sweltering Tanzanian port city and commercial engine, staging point for Zanzibar
   and inland safari routes.
 title: Dar es Salaam
 type: location
+heritage: 4.001
+vibrancy: 4.547
+nature: 4.315
+off_the_beaten_track: 4.339
 ---
 
 Dar es Salaam — "House of Peace" in Arabic — is anything but. Tanzania's largest city and former capital is a sweltering, sprawling, energetic port of around five million people, the country's commercial engine and the staging point for almost every traveller heading on to [Zanzibar](/africa/tanzania/zanzibar) or up-country to the safari parks. Most visitors plan to skip it. They are wrong to.

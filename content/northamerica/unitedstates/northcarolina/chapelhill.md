@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Chapel_Hill_Franklin_Stree
 latitude: 35.9132
 loc_type: city
 longitude: -79.0558
-score: 7.18
+score: 5.129
 title: Chapel Hill
 type: location
 snippet: North Carolina college town centered on the University of North Carolina
   and its walkable campus streets.
+heritage: 3.287
+vibrancy: 5.867
+nature: 2.896
+off_the_beaten_track: 0.642
 ---
 
 Chapel Hill is a quintessential college town, home to the University of North Carolina -- the nation's first public university. The campus is beautiful, especially in spring when the dogwoods bloom, and the surrounding streets are walkable, lively, and packed with good restaurants.

@@ -3,23 +3,23 @@ address: Stiftsplatz 1, 3400 Klosterneuburg
 done:
   poi_cleanup: '2026-04-20'
 email: tickets@stift-klosterneuburg.at
+image: klosterneuburg_abb.jpg
+image_attribution: David Davies from Birmingham, UK
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Marble_Hall_ceiling_fresco_in_Klosterneuburg,_Vienna_(6114354474).jpg
 latitude: 48.307203
 longitude: 16.326158
 phone: '02243411212'
+score: 8.9
 snippet: 900-year-old monastery with wine cellars and the Verdun Altar
 tags:
-- day_trips
+- things_to_do
 - museum
 - sight
 - architecture
 title: Klosterneuburg Abbey
 type: poi
 url: www.stift-klosterneuburg.at
-score: 8.9
-image: klosterneuburg_abb.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Marble_Hall_ceiling_fresco_in_Klosterneuburg,_Vienna_(6114354474).jpg
-image_license: CC BY-SA 2.0
-image_attribution: David Davies from Birmingham, UK
 ---
 
 Located only 12km from Vienna, easily accessible by public transport, Stift Klosterneuburg makes for an excellent destination for a day trip. You might start your day with a tour through the 900-year-old monastery.

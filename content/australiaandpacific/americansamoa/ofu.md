@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ofu_Beach_American_Samoa_U
 latitude: -14.184507
 loc_type: city
 longitude: -169.669072
-score: 7.67
+score: 6.116
 snippet: Manu'a island with a national park beach and fringing reef off American Samoa's
   eastern edge
 title: Ofu
 type: location
+heritage: 4.671
+vibrancy: 0.425
+nature: 7.222
+off_the_beaten_track: 7.397
 ---
 
 Ofu is part of the Manu'a Island group, about 100 kilometres east of Tutuila and a 30-minute flight on a small plane. It's connected to its twin island Olosega by a short bridge.

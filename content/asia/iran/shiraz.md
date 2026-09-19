@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ba%C3%B1os_de_Vakil,_Shira
 latitude: 29.606
 loc_type: city
 longitude: 52.5378
-score: 7.87
+score: 4.571
 snippet: Iranian city of poets, gardens, and orange blossom, with Hafez, Saadi, and
   Persepolis close by.
 title: Shiraz
 type: location
+heritage: 5.194
+vibrancy: 4.123
+nature: 3.714
+off_the_beaten_track: 3.647
 ---
 
 Shiraz is Iran's city of poets, roses, and wine — the wine long gone, the roses and poetry very much intact. At 1,600 metres on a fertile plain ringed by mountains, the climate is unusually kind: mild winters, warm but not brutal summers, and air that carries the scent of orange blossom in spring.

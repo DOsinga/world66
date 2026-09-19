@@ -5,7 +5,7 @@ done:
 latitude: 51.492314
 loc_type: city
 longitude: -0.263818
-score: 7.06
+score: 4.1
 title: Chiswick
 type: location
 snippet: Leafy west London neighbourhood with village streets, Thames walks, and Palladian
@@ -14,6 +14,10 @@ image: chiswick.jpg
 image_source: https://commons.wikimedia.org/wiki/File:20210602_123430_Looking_east_along_Chiswick_Mall_from_Church_Street.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Chiswick Chap
+heritage: 5.177
+vibrancy: 2.647
+nature: 1.796
+off_the_beaten_track: 0.683
 ---
 
 Chiswick is a leafy west [London](/europe/unitedkingdom/england/london) neighbourhood with a village feel that belies its proximity to central London — Turnham Green tube station is about 20 minutes from the West End on the District line.

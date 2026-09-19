@@ -7,9 +7,13 @@ loc_type: city
 snippet: Finland's southernmost seaside town, with Baltic beaches, wooden villas,
   and an old resort-harbour atmosphere.
 longitude: 22.9695
-score: 7.38
+score: 4.646
 title: Hanko
 type: location
+heritage: 3.454
+vibrancy: 1.874
+nature: 5.738
+off_the_beaten_track: 2.575
 ---
 
 Hanko is Finland's southernmost town, a narrow cape jutting into the Baltic where the sea presses in on three sides. Over 30 kilometres of sandy [beaches](/europe/finland/hanko/beaches) line the shore, and the waterfront is backed by a parade of ornate wooden villas around the [Eastern Harbour](/europe/finland/hanko/eastern_harbour) — built in the late 19th century for Russian nobility seeking sea air, many of them still standing and available to rent. The town has the unhurried feel of a resort that has been fashionable for a very long time.

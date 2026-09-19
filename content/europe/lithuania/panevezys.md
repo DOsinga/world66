@@ -5,11 +5,15 @@ done:
 latitude: 55.734499
 loc_type: city
 longitude: 24.357806
-score: 6.2
+score: 4.916
 snippet: Northern Lithuanian provincial city in Aukštaitija, known for Juozas Miltinis
   theatre and public murals.
 title: Panevėžys
 type: location
+heritage: 6.093
+vibrancy: 3.406
+nature: 2.967
+off_the_beaten_track: 2.508
 ---
 
 Panevėžys is Lithuania's fifth-largest city, a quiet provincial centre of about 85,000 in the flat Aukštaitija farmlands of the north, roughly halfway between Vilnius and Riga on the Via Baltica. It is not a place most travellers will make a detour for — the historic core is small and the 20th century dealt harshly with its old synagogues and interwar buildings — but it is one of Lithuania's major cultural towns, home to the **Juozas Miltinis Drama Theatre**, one of the most famous stage companies in the country, and a surprisingly rich scene of public murals and street art across the centre.

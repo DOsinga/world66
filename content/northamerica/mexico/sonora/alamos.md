@@ -1,14 +1,19 @@
 ---
-title: "Álamos"
+title: Álamos
 type: location
 loc_type: city
 latitude: 27.0211
-longitude: -108.9350
-score: 7.6
-snippet: Colonial silver town in southern Sonora, known for arcaded streets and restored 18th-century mansions.
+longitude: -108.935
+score: 3.943
+snippet: Colonial silver town in southern Sonora, known for arcaded streets and restored
+  18th-century mansions.
 sources:
-  - https://en.wikivoyage.org/wiki/%C3%81lamos
-  - https://en.wikipedia.org/wiki/%C3%81lamos
+- https://en.wikivoyage.org/wiki/%C3%81lamos
+- https://en.wikipedia.org/wiki/%C3%81lamos
+heritage: 4.253
+vibrancy: 2.828
+nature: 4.309
+off_the_beaten_track: 3.328
 ---
 
 Álamos is the best colonial town in Sonora, a former silver-mining city set where the desert begins to fold into the Sierra Madre Occidental. Its wealth peaked in the 18th and 19th centuries, then faded sharply enough that many mansions survived by being left alone.

@@ -5,7 +5,7 @@ done:
 latitude: 11.0801
 loc_type: city
 longitude: 106.2611
-score: 7.34
+score: 2.803
 title: Tay Ninh
 type: location
 snippet: Vietnamese provincial capital and spiritual centre of Cao Dai, northwest
@@ -14,6 +14,10 @@ image: tayninh.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ba_Den_Mountain_summit_temple_illuminated_night_fog_Tay_Ninh_Vietnam.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Vivu Vietnam
+heritage: 3.353
+vibrancy: 2.188
+nature: 2.111
+off_the_beaten_track: 2.979
 ---
 
 Tay Ninh is a small provincial capital about 100 kilometres northwest of [Ho Chi Minh City](/asia/vietnam/hochiminhcity), best known as the seat of the Cao Dai religion — one of the most distinctive and unusual faiths in the world. Cao Dai blends elements of Buddhism, Christianity, Islam, Taoism, and European humanism into a single syncretic religion with over a million followers in Vietnam.

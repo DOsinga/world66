@@ -14,7 +14,11 @@ snippet: Gansu mountain market town known as Little Mecca, with Hui mosques, Suf
   shrines, and Islamic architecture.
 title: Linxia
 type: location
-score: 6.13
+score: 3.617
+heritage: 4.285
+vibrancy: 2.621
+nature: 3.251
+off_the_beaten_track: 3.688
 ---
 
 Linxia is known in China as "Little Mecca" — a market town in the mountains of southern Gansu where Chinese Islam has a centuries-deep presence. The Hui Muslim community dominates, and the city is dense with mosques, Sufi shrines called gong bei, and madrasahs. The call to prayer echoes across the valley. Walking the [old bazaar streets](/asia/china/gansu/linxia/old_bazaar) around the central mosque, you could be somewhere significantly further west.

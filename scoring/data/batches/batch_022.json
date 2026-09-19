@@ -1,0 +1,786 @@
+[
+  {
+    "embedding_text": "'Uoleva, Ha'apai Group, Tonga, Australia, Pacific & Antarctica",
+    "lat": -19.846878,
+    "latitude": -19.846878,
+    "lng": -174.402455,
+    "longitude": -174.402455,
+    "name": "'Uoleva",
+    "parent": "Australia, Pacific & Antarctica, Tonga, Ha'apai Group",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Tonga",
+      "Ha'apai Group"
+    ],
+    "path": "australiaandpacific/tonga/haapaigroup/uoleva",
+    "url": "/australiaandpacific/tonga/haapaigroup/uoleva/"
+  },
+  {
+    "embedding_text": "Constantine, Algeria, Africa",
+    "lat": 36.364164,
+    "latitude": 36.364164,
+    "lng": 6.608428,
+    "longitude": 6.608428,
+    "name": "Constantine",
+    "parent": "Africa, Algeria",
+    "parent_chain": [
+      "Africa",
+      "Algeria"
+    ],
+    "path": "africa/algeria/constantine",
+    "url": "/africa/algeria/constantine/"
+  },
+  {
+    "embedding_text": "Cuernavaca, Mexico, North America",
+    "lat": 18.933132,
+    "latitude": 18.933132,
+    "lng": -99.259958,
+    "longitude": -99.259958,
+    "name": "Cuernavaca",
+    "parent": "North America, Mexico",
+    "parent_chain": [
+      "North America",
+      "Mexico"
+    ],
+    "path": "northamerica/mexico/cuernavaca",
+    "url": "/northamerica/mexico/cuernavaca/"
+  },
+  {
+    "embedding_text": "Deogad, Konkan, Maharashtra, India, Asia",
+    "lat": 16.3808,
+    "latitude": 16.3808,
+    "lng": 73.3565,
+    "longitude": 73.3565,
+    "name": "Deogad",
+    "parent": "Asia, India, Maharashtra, Konkan",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Maharashtra",
+      "Konkan"
+    ],
+    "path": "asia/india/maharashtra/konkan/deogad",
+    "url": "/asia/india/maharashtra/konkan/deogad/"
+  },
+  {
+    "embedding_text": "Kent, Ohio, United States, North America",
+    "lat": 41.1537,
+    "latitude": 41.1537,
+    "lng": -81.3579,
+    "longitude": -81.3579,
+    "name": "Kent",
+    "parent": "North America, United States, Ohio",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Ohio"
+    ],
+    "path": "northamerica/unitedstates/ohio/kent",
+    "url": "/northamerica/unitedstates/ohio/kent/"
+  },
+  {
+    "embedding_text": "Guymon, Oklahoma, United States, North America",
+    "lat": 36.682804,
+    "latitude": 36.682804,
+    "lng": -101.481549,
+    "longitude": -101.481549,
+    "name": "Guymon",
+    "parent": "North America, United States, Oklahoma",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Oklahoma"
+    ],
+    "path": "northamerica/unitedstates/oklahoma/guymon",
+    "url": "/northamerica/unitedstates/oklahoma/guymon/"
+  },
+  {
+    "embedding_text": "Daman, India, Asia",
+    "lat": 20.3974,
+    "latitude": 20.3974,
+    "lng": 72.8328,
+    "longitude": 72.8328,
+    "name": "Daman",
+    "parent": "Asia, India",
+    "parent_chain": [
+      "Asia",
+      "India"
+    ],
+    "path": "asia/india/daman",
+    "url": "/asia/india/daman/"
+  },
+  {
+    "embedding_text": "Tok, Alaska, United States, North America",
+    "lat": 63.336667,
+    "latitude": 63.336667,
+    "lng": -142.985555,
+    "longitude": -142.985555,
+    "name": "Tok",
+    "parent": "North America, United States, Alaska",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Alaska"
+    ],
+    "path": "northamerica/unitedstates/alaska/tok",
+    "url": "/northamerica/unitedstates/alaska/tok/"
+  },
+  {
+    "embedding_text": "Miami, Florida, United States, North America",
+    "lat": 25.774157,
+    "latitude": 25.774157,
+    "lng": -80.193597,
+    "longitude": -80.193597,
+    "name": "Miami",
+    "parent": "North America, United States, Florida",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Florida"
+    ],
+    "path": "northamerica/unitedstates/florida/miami",
+    "url": "/northamerica/unitedstates/florida/miami/"
+  },
+  {
+    "embedding_text": "Castle Howard, Yorkshire, England, United Kingdom, Europe",
+    "lat": 54.121563,
+    "latitude": 54.121563,
+    "lng": -0.906648,
+    "longitude": -0.906648,
+    "name": "Castle Howard",
+    "parent": "Europe, United Kingdom, England, Yorkshire",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "Yorkshire"
+    ],
+    "path": "europe/unitedkingdom/england/yorkshire/castle_howard",
+    "url": "/europe/unitedkingdom/england/yorkshire/castle_howard/"
+  },
+  {
+    "embedding_text": "Gunung Leuser National Park, Sumatra, Indonesia, Asia",
+    "lat": 3.5,
+    "latitude": 3.5,
+    "lng": 97.5,
+    "longitude": 97.5,
+    "name": "Gunung Leuser National Park",
+    "parent": "Asia, Indonesia, Sumatra",
+    "parent_chain": [
+      "Asia",
+      "Indonesia",
+      "Sumatra"
+    ],
+    "path": "asia/indonesia/sumatra/gununglesuer",
+    "url": "/asia/indonesia/sumatra/gununglesuer/"
+  },
+  {
+    "embedding_text": "Sandefjord, Norway, Europe",
+    "lat": 59.0799,
+    "latitude": 59.0799,
+    "lng": 10.280432,
+    "longitude": 10.280432,
+    "name": "Sandefjord",
+    "parent": "Europe, Norway",
+    "parent_chain": [
+      "Europe",
+      "Norway"
+    ],
+    "path": "europe/norway/sandefjord",
+    "url": "/europe/norway/sandefjord/"
+  },
+  {
+    "embedding_text": "Greenville, South Carolina, United States, North America",
+    "lat": 34.8514,
+    "latitude": 34.8514,
+    "lng": -82.3985,
+    "longitude": -82.3985,
+    "name": "Greenville",
+    "parent": "North America, United States, South Carolina",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "South Carolina"
+    ],
+    "path": "northamerica/unitedstates/southcarolina/greenville",
+    "url": "/northamerica/unitedstates/southcarolina/greenville/"
+  },
+  {
+    "embedding_text": "Quillota, Chile, South America",
+    "lat": -32.879997,
+    "latitude": -32.879997,
+    "lng": -71.247355,
+    "longitude": -71.247355,
+    "name": "Quillota",
+    "parent": "South America, Chile",
+    "parent_chain": [
+      "South America",
+      "Chile"
+    ],
+    "path": "southamerica/chile/quillota",
+    "url": "/southamerica/chile/quillota/"
+  },
+  {
+    "embedding_text": "Hama, Syria, Asia",
+    "lat": 35.134337,
+    "latitude": 35.134337,
+    "lng": 36.749628,
+    "longitude": 36.749628,
+    "name": "Hama",
+    "parent": "Asia, Syria",
+    "parent_chain": [
+      "Asia",
+      "Syria"
+    ],
+    "path": "asia/syria/hama",
+    "url": "/asia/syria/hama/"
+  },
+  {
+    "embedding_text": "Boca Chica, Dominican Republic, North America",
+    "lat": 18.4539,
+    "latitude": 18.4539,
+    "lng": -69.6103,
+    "longitude": -69.6103,
+    "name": "Boca Chica",
+    "parent": "North America, Dominican Republic",
+    "parent_chain": [
+      "North America",
+      "Dominican Republic"
+    ],
+    "path": "northamerica/dominicanrepublic/bocachica",
+    "url": "/northamerica/dominicanrepublic/bocachica/"
+  },
+  {
+    "embedding_text": "Combe Martin, South West England, England, United Kingdom, Europe",
+    "lat": 51.2032,
+    "latitude": 51.2032,
+    "lng": -4.006,
+    "longitude": -4.006,
+    "name": "Combe Martin",
+    "parent": "Europe, United Kingdom, England, South West England",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "South West England"
+    ],
+    "path": "europe/unitedkingdom/england/south_west/combe_martin",
+    "url": "/europe/unitedkingdom/england/south_west/combe_martin/"
+  },
+  {
+    "embedding_text": "Bolifushi, South Mal\u00e9 Atoll, Maldives, Asia",
+    "lat": 4.097216,
+    "latitude": 4.097216,
+    "lng": 73.400108,
+    "longitude": 73.400108,
+    "name": "Bolifushi",
+    "parent": "Asia, Maldives, South Mal\u00e9 Atoll",
+    "parent_chain": [
+      "Asia",
+      "Maldives",
+      "South Mal\u00e9 Atoll"
+    ],
+    "path": "asia/maldives/south_male_atoll/bolifushi",
+    "url": "/asia/maldives/south_male_atoll/bolifushi/"
+  },
+  {
+    "embedding_text": "Kuala Terengganu, Malaysia, Asia",
+    "lat": 5.3296,
+    "latitude": 5.3296,
+    "lng": 103.1383,
+    "longitude": 103.1383,
+    "name": "Kuala Terengganu",
+    "parent": "Asia, Malaysia",
+    "parent_chain": [
+      "Asia",
+      "Malaysia"
+    ],
+    "path": "asia/malaysia/kuala_terengganu",
+    "url": "/asia/malaysia/kuala_terengganu/"
+  },
+  {
+    "embedding_text": "Stoupa, Mani, Greece, Europe",
+    "lat": 36.8468,
+    "latitude": 36.8468,
+    "lng": 22.2647,
+    "longitude": 22.2647,
+    "name": "Stoupa",
+    "parent": "Europe, Greece, Mani",
+    "parent_chain": [
+      "Europe",
+      "Greece",
+      "Mani"
+    ],
+    "path": "europe/greece/mani/stoupa",
+    "url": "/europe/greece/mani/stoupa/"
+  },
+  {
+    "embedding_text": "Ilh\u00e9us, Brazil, South America",
+    "lat": -14.7926,
+    "latitude": -14.7926,
+    "lng": -39.0454,
+    "longitude": -39.0454,
+    "name": "Ilh\u00e9us",
+    "parent": "South America, Brazil",
+    "parent_chain": [
+      "South America",
+      "Brazil"
+    ],
+    "path": "southamerica/brazil/lheus",
+    "url": "/southamerica/brazil/lheus/"
+  },
+  {
+    "embedding_text": "Easton, Pennsylvania, United States, North America",
+    "lat": 40.691608,
+    "latitude": 40.691608,
+    "lng": -75.209987,
+    "longitude": -75.209987,
+    "name": "Easton",
+    "parent": "North America, United States, Pennsylvania",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Pennsylvania"
+    ],
+    "path": "northamerica/unitedstates/pennsylvania/easton_pa",
+    "url": "/northamerica/unitedstates/pennsylvania/easton_pa/"
+  },
+  {
+    "embedding_text": "Xianyang, Shaanxi Province, China, Asia",
+    "lat": 34.3297,
+    "latitude": 34.3297,
+    "lng": 108.7092,
+    "longitude": 108.7092,
+    "name": "Xianyang",
+    "parent": "Asia, China, Shaanxi Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Shaanxi Province"
+    ],
+    "path": "asia/china/shaanxi/xianyang",
+    "url": "/asia/china/shaanxi/xianyang/"
+  },
+  {
+    "embedding_text": "Nashville, Tennessee, United States, North America",
+    "lat": 36.162277,
+    "latitude": 36.162277,
+    "lng": -86.774298,
+    "longitude": -86.774298,
+    "name": "Nashville",
+    "parent": "North America, United States, Tennessee",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Tennessee"
+    ],
+    "path": "northamerica/unitedstates/tennessee/nashville",
+    "url": "/northamerica/unitedstates/tennessee/nashville/"
+  },
+  {
+    "embedding_text": "Tsavo West, Tsavo N.P., National Parks and Reserves, Kenya, Africa",
+    "lat": -3.2335,
+    "latitude": -3.2335,
+    "lng": 38.0,
+    "longitude": 38.0,
+    "name": "Tsavo West",
+    "parent": "Africa, Kenya, National Parks and Reserves, Tsavo N.P.",
+    "parent_chain": [
+      "Africa",
+      "Kenya",
+      "National Parks and Reserves",
+      "Tsavo N.P."
+    ],
+    "path": "africa/kenya/nationalparksandreserves/tsavonp/tsavowest",
+    "url": "/africa/kenya/nationalparksandreserves/tsavonp/tsavowest/"
+  },
+  {
+    "embedding_text": "Bulawayo, Zimbabwe, Africa",
+    "lat": -20.15606,
+    "latitude": -20.15606,
+    "lng": 28.588706,
+    "longitude": 28.588706,
+    "name": "Bulawayo",
+    "parent": "Africa, Zimbabwe",
+    "parent_chain": [
+      "Africa",
+      "Zimbabwe"
+    ],
+    "path": "africa/zimbabwe/bulawayo",
+    "url": "/africa/zimbabwe/bulawayo/"
+  },
+  {
+    "embedding_text": "Bismarck, North Dakota, United States, North America",
+    "lat": 46.808327,
+    "latitude": 46.808327,
+    "lng": -100.783739,
+    "longitude": -100.783739,
+    "name": "Bismarck",
+    "parent": "North America, United States, North Dakota",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "North Dakota"
+    ],
+    "path": "northamerica/unitedstates/northdakota/bismarck",
+    "url": "/northamerica/unitedstates/northdakota/bismarck/"
+  },
+  {
+    "embedding_text": "Huancabamba, Peru, South America",
+    "lat": -5.4221,
+    "latitude": -5.4221,
+    "lng": -79.5174,
+    "longitude": -79.5174,
+    "name": "Huancabamba",
+    "parent": "South America, Peru",
+    "parent_chain": [
+      "South America",
+      "Peru"
+    ],
+    "path": "southamerica/peru/huancabamba",
+    "url": "/southamerica/peru/huancabamba/"
+  },
+  {
+    "embedding_text": "Folgaria, Trentino Alto Adige, Italy, Europe",
+    "lat": 45.914973,
+    "latitude": 45.914973,
+    "lng": 11.173015,
+    "longitude": 11.173015,
+    "name": "Folgaria",
+    "parent": "Europe, Italy, Trentino Alto Adige",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Trentino Alto Adige"
+    ],
+    "path": "europe/italy/trentinoaltoadige/folgaria",
+    "url": "/europe/italy/trentinoaltoadige/folgaria/"
+  },
+  {
+    "embedding_text": "Dr\u00f8bak, Norway, Europe",
+    "lat": 59.6667,
+    "latitude": 59.6667,
+    "lng": 10.6333,
+    "longitude": 10.6333,
+    "name": "Dr\u00f8bak",
+    "parent": "Europe, Norway",
+    "parent_chain": [
+      "Europe",
+      "Norway"
+    ],
+    "path": "europe/norway/drobak",
+    "url": "/europe/norway/drobak/"
+  },
+  {
+    "embedding_text": "Carlisle, North West England, England, United Kingdom, Europe",
+    "lat": 54.8951,
+    "latitude": 54.8951,
+    "lng": -2.9382,
+    "longitude": -2.9382,
+    "name": "Carlisle",
+    "parent": "Europe, United Kingdom, England, North West England",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "North West England"
+    ],
+    "path": "europe/unitedkingdom/england/north_west/carlisle",
+    "url": "/europe/unitedkingdom/england/north_west/carlisle/"
+  },
+  {
+    "embedding_text": "Phnom Penh, Cambodia, Asia",
+    "lat": 11.5564,
+    "latitude": 11.5564,
+    "lng": 104.9282,
+    "longitude": 104.9282,
+    "name": "Phnom Penh",
+    "parent": "Asia, Cambodia",
+    "parent_chain": [
+      "Asia",
+      "Cambodia"
+    ],
+    "path": "asia/cambodia/phnompenh",
+    "url": "/asia/cambodia/phnompenh/"
+  },
+  {
+    "embedding_text": "Daviston, Alabama, United States, North America",
+    "lat": 33.052899,
+    "latitude": 33.052899,
+    "lng": -85.639678,
+    "longitude": -85.639678,
+    "name": "Daviston",
+    "parent": "North America, United States, Alabama",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Alabama"
+    ],
+    "path": "northamerica/unitedstates/alabama/daviston",
+    "url": "/northamerica/unitedstates/alabama/daviston/"
+  },
+  {
+    "embedding_text": "Boone, North Carolina, United States, North America",
+    "lat": 36.216389,
+    "latitude": 36.216389,
+    "lng": -81.674444,
+    "longitude": -81.674444,
+    "name": "Boone",
+    "parent": "North America, United States, North Carolina",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "North Carolina"
+    ],
+    "path": "northamerica/unitedstates/northcarolina/boone",
+    "url": "/northamerica/unitedstates/northcarolina/boone/"
+  },
+  {
+    "embedding_text": "Cavan, Ireland, Europe",
+    "lat": 54.034975,
+    "latitude": 54.034975,
+    "lng": -7.293702,
+    "longitude": -7.293702,
+    "name": "Cavan",
+    "parent": "Europe, Ireland",
+    "parent_chain": [
+      "Europe",
+      "Ireland"
+    ],
+    "path": "europe/ireland/cavan",
+    "url": "/europe/ireland/cavan/"
+  },
+  {
+    "embedding_text": "Henningsv\u00e6r, Lofoten islands, Norway, Europe",
+    "lat": 68.1529,
+    "latitude": 68.1529,
+    "lng": 14.2007,
+    "longitude": 14.2007,
+    "name": "Henningsv\u00e6r",
+    "parent": "Europe, Norway, Lofoten islands",
+    "parent_chain": [
+      "Europe",
+      "Norway",
+      "Lofoten islands"
+    ],
+    "path": "europe/norway/lofotenislands/henningsvr",
+    "url": "/europe/norway/lofotenislands/henningsvr/"
+  },
+  {
+    "embedding_text": "Avoca, Ireland, Europe",
+    "lat": 52.823021,
+    "latitude": 52.823021,
+    "lng": -6.209618,
+    "longitude": -6.209618,
+    "name": "Avoca",
+    "parent": "Europe, Ireland",
+    "parent_chain": [
+      "Europe",
+      "Ireland"
+    ],
+    "path": "europe/ireland/avoca",
+    "url": "/europe/ireland/avoca/"
+  },
+  {
+    "embedding_text": "Birr, Ireland, Europe",
+    "lat": 53.0914,
+    "latitude": 53.0914,
+    "lng": -7.9133,
+    "longitude": -7.9133,
+    "name": "Birr",
+    "parent": "Europe, Ireland",
+    "parent_chain": [
+      "Europe",
+      "Ireland"
+    ],
+    "path": "europe/ireland/birr",
+    "url": "/europe/ireland/birr/"
+  },
+  {
+    "embedding_text": "Rethimno, Crete, Greece, Europe",
+    "lat": 35.367647,
+    "latitude": 35.367647,
+    "lng": 24.473608,
+    "longitude": 24.473608,
+    "name": "Rethimno",
+    "parent": "Europe, Greece, Crete",
+    "parent_chain": [
+      "Europe",
+      "Greece",
+      "Crete"
+    ],
+    "path": "europe/greece/crete/rethimno",
+    "url": "/europe/greece/crete/rethimno/"
+  },
+  {
+    "embedding_text": "Simon's Town, South Africa, Africa",
+    "lat": -34.1928,
+    "latitude": -34.1928,
+    "lng": 18.4308,
+    "longitude": 18.4308,
+    "name": "Simon's Town",
+    "parent": "Africa, South Africa",
+    "parent_chain": [
+      "Africa",
+      "South Africa"
+    ],
+    "path": "africa/southafrica/simonstown",
+    "url": "/africa/southafrica/simonstown/"
+  },
+  {
+    "embedding_text": "Regina, Saskatchewan, Canada, North America",
+    "lat": 50.447973,
+    "latitude": 50.447973,
+    "lng": -104.615876,
+    "longitude": -104.615876,
+    "name": "Regina",
+    "parent": "North America, Canada, Saskatchewan",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "Saskatchewan"
+    ],
+    "path": "northamerica/canada/saskatchewan/regina",
+    "url": "/northamerica/canada/saskatchewan/regina/"
+  },
+  {
+    "embedding_text": "Rencontre East, Newfoundland, Canada, North America",
+    "lat": 47.6375,
+    "latitude": 47.6375,
+    "lng": -55.2153,
+    "longitude": -55.2153,
+    "name": "Rencontre East",
+    "parent": "North America, Canada, Newfoundland",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "Newfoundland"
+    ],
+    "path": "northamerica/canada/newfoundland/rencontre_east",
+    "url": "/northamerica/canada/newfoundland/rencontre_east/"
+  },
+  {
+    "embedding_text": "Side, Turkey, Asia",
+    "lat": 36.7664,
+    "latitude": 36.7664,
+    "lng": 31.3892,
+    "longitude": 31.3892,
+    "name": "Side",
+    "parent": "Asia, Turkey",
+    "parent_chain": [
+      "Asia",
+      "Turkey"
+    ],
+    "path": "asia/turkey/side",
+    "url": "/asia/turkey/side/"
+  },
+  {
+    "embedding_text": "Monastir, Tunisia, Africa",
+    "lat": 35.770758,
+    "latitude": 35.770758,
+    "lng": 10.828051,
+    "longitude": 10.828051,
+    "name": "Monastir",
+    "parent": "Africa, Tunisia",
+    "parent_chain": [
+      "Africa",
+      "Tunisia"
+    ],
+    "path": "africa/tunisia/monastir",
+    "url": "/africa/tunisia/monastir/"
+  },
+  {
+    "embedding_text": "Huntsville, Alabama, United States, North America",
+    "lat": 34.7304,
+    "latitude": 34.7304,
+    "lng": -86.5861,
+    "longitude": -86.5861,
+    "name": "Huntsville",
+    "parent": "North America, United States, Alabama",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Alabama"
+    ],
+    "path": "northamerica/unitedstates/alabama/huntsville",
+    "url": "/northamerica/unitedstates/alabama/huntsville/"
+  },
+  {
+    "embedding_text": "Tonghua, Jilin Province, China, Asia",
+    "lat": 41.7302,
+    "latitude": 41.7302,
+    "lng": 125.9471,
+    "longitude": 125.9471,
+    "name": "Tonghua",
+    "parent": "Asia, China, Jilin Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Jilin Province"
+    ],
+    "path": "asia/china/jilin/tonghua",
+    "url": "/asia/china/jilin/tonghua/"
+  },
+  {
+    "embedding_text": "Lanqu\u00edn, Guatemala, North America",
+    "lat": 15.5667,
+    "latitude": 15.5667,
+    "lng": -89.9667,
+    "longitude": -89.9667,
+    "name": "Lanqu\u00edn",
+    "parent": "North America, Guatemala",
+    "parent_chain": [
+      "North America",
+      "Guatemala"
+    ],
+    "path": "northamerica/guatemala/lanquin",
+    "url": "/northamerica/guatemala/lanquin/"
+  },
+  {
+    "embedding_text": "Asheville, North Carolina, United States, North America",
+    "lat": 35.595363,
+    "latitude": 35.595363,
+    "lng": -82.550841,
+    "longitude": -82.550841,
+    "name": "Asheville",
+    "parent": "North America, United States, North Carolina",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "North Carolina"
+    ],
+    "path": "northamerica/unitedstates/northcarolina/asheville",
+    "url": "/northamerica/unitedstates/northcarolina/asheville/"
+  },
+  {
+    "embedding_text": "Thakhek, Laos, Asia",
+    "lat": 17.403,
+    "latitude": 17.403,
+    "lng": 104.8338,
+    "longitude": 104.8338,
+    "name": "Thakhek",
+    "parent": "Asia, Laos",
+    "parent_chain": [
+      "Asia",
+      "Laos"
+    ],
+    "path": "asia/laos/thakhek",
+    "url": "/asia/laos/thakhek/"
+  },
+  {
+    "embedding_text": "Bendigo, Victoria, Australia, Australia, Pacific & Antarctica",
+    "lat": -36.757,
+    "latitude": -36.757,
+    "lng": 144.2794,
+    "longitude": 144.2794,
+    "name": "Bendigo",
+    "parent": "Australia, Pacific & Antarctica, Australia, Victoria",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "Victoria"
+    ],
+    "path": "australiaandpacific/australia/victoria/bendigo",
+    "url": "/australiaandpacific/australia/victoria/bendigo/"
+  }
+]

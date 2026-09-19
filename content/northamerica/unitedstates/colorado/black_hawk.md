@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Black_Hawk,_Colorado_(1864
 latitude: 39.7997
 loc_type: city
 longitude: -105.4903
-score: 6.29
+score: 4.421
 snippet: Rocky Mountain mining town transformed into a casino corridor above Clear
   Creek Canyon.
 title: Black Hawk
 type: location
+heritage: 3.506
+vibrancy: 2.275
+nature: 5.367
+off_the_beaten_track: 3.207
 ---
 
 **Black Hawk** is a former gold mining town in the Rocky Mountains about an hour west of Denver, now almost entirely given over to casinos. Along with neighbouring Central City, it became one of three Colorado towns to legalise gambling in 1991, and the old mining town has been transformed beyond recognition — Victorian buildings sit alongside large casino complexes.

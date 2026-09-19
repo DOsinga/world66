@@ -5,6 +5,7 @@ snippet: "Vast ceremonial plaza at the political heart of modern China"
 tags:
 - things_to_do
 - landmark
+- dongcheng
 title: Tiananmen Square
 type: poi
 score: 8.4

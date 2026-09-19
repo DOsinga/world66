@@ -2,7 +2,7 @@
 latitude: 61.1308
 loc_type: city
 longitude: -146.3483
-score: 8.0
+score: 5.825
 snippet: Prince William Sound port ringed by glaciers, waterfalls, oil history, and
   Chugach peaks.
 sources:
@@ -15,6 +15,10 @@ image: valdez.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Valdez,_Alaska_Harbor_Panorama.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Srvora at English Wikipedia
+heritage: 2.013
+vibrancy: 1.814
+nature: 7.505
+off_the_beaten_track: 4.994
 ---
 
 Valdez sits at the head of a deep fjord in Prince William Sound, boxed in by the Chugach Mountains and approached through one of Alaska's most dramatic road corridors. It is a working port, the southern terminus of the Trans-Alaska Pipeline, and a town whose modern story is marked by the 1964 earthquake and the 1989 Exxon Valdez oil spill.

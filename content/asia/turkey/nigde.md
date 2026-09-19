@@ -2,15 +2,20 @@
 title: Niğde
 type: location
 loc_type: city
-latitude: 37.9670
-longitude: 34.6790
-score: 7.2
-snippet: Central Anatolian city with Seljuk mosques, a hilltop castle, and a nearby rock-cut monastery.
+latitude: 37.967
+longitude: 34.679
+score: 4.636
+snippet: Central Anatolian city with Seljuk mosques, a hilltop castle, and a nearby
+  rock-cut monastery.
 wikidata: Q194146
 sources:
-  - https://en.wikivoyage.org/wiki/Ni%C4%9Fde
-  - https://goturkiye.com/nigde/48-hours
-  - https://www.ktb.gov.tr/EN-99285/nigde.html
+- https://en.wikivoyage.org/wiki/Ni%C4%9Fde
+- https://goturkiye.com/nigde/48-hours
+- https://www.ktb.gov.tr/EN-99285/nigde.html
+heritage: 5.486
+vibrancy: 3.74
+nature: 4.121
+off_the_beaten_track: 3.388
 ---
 
 Niğde sits south of Cappadocia in the drier, more workaday heart of Central Anatolia. It does not have the fairy-chimney drama of Göreme or the easy polish of Ürgüp, but it has a good old centre, several serious medieval monuments, and the feeling of a Turkish city that still belongs mostly to itself.

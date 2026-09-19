@@ -9,16 +9,20 @@ image_source: https://commons.wikimedia.org/wiki/File:Richmond_Castle_from_Bridg
 latitude: 54.4049
 loc_type: city
 longitude: -1.738
-score: 7.27
+score: 5.177
 snippet: Historic Swaledale market town above the River Swale, dominated by an 11th-century
   Norman castle.
 tags:
 - yorkshire_dales
 title: Richmond
 type: location
+heritage: 6.243
+vibrancy: 3.004
+nature: 4.405
+off_the_beaten_track: 2.377
 ---
 
-Richmond is a lovely historic town in Swaledale, one of the most fascinating of the [Yorkshire Dales](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/yorkshire_dales). Not to be confused with its many namesakes — this is the original, perched above a bend in the River Swale.
+Richmond is a lovely historic town in Swaledale, one of the most fascinating of the [Yorkshire Dales](/europe/unitedkingdom/england/yorkshire/yorkshire_dales). Not to be confused with its many namesakes — this is the original, perched above a bend in the River Swale.
 
 Its history goes back a long way. The castle, commenced by William Rufus in 1071, dominates the town from its hilltop position. A short walk along the river brings you to Easby Abbey, founded in 1152. The town also has a beautifully restored Georgian theatre, one of the oldest in the country.
 

@@ -4,14 +4,19 @@ type: location
 loc_type: city
 latitude: 47.5136
 longitude: 10.2811
-score: 6.2
-snippet: Allgau mountain town with gorge walks, waterfall paths, and Grunten foothill trails.
+score: 4.062
+snippet: Allgau mountain town with gorge walks, waterfall paths, and Grunten foothill
+  trails.
 wikidata: Q162845
 sources:
-  - https://en.wikivoyage.org/wiki/Sonthofen
-  - https://www.wikidata.org/wiki/Q162845
-  - https://www.starzlachklamm.de/
-  - https://www.erzgruben.de/
+- https://en.wikivoyage.org/wiki/Sonthofen
+- https://www.wikidata.org/wiki/Q162845
+- https://www.starzlachklamm.de/
+- https://www.erzgruben.de/
+heritage: 2.763
+vibrancy: 3.319
+nature: 4.693
+off_the_beaten_track: 1.501
 ---
 
 *Europe > Germany > Bavaria > Sonthofen*

@@ -4,19 +4,24 @@ type: location
 loc_type: feature
 latitude: 38.4883
 longitude: 28.0403
-score: 7.9
-snippet: Ancient Lydian capital near Sart, with a vast temple, synagogue, and Roman gymnasium.
+score: 5.385
+snippet: Ancient Lydian capital near Sart, with a vast temple, synagogue, and Roman
+  gymnasium.
 wikidata: Q232615
 sources:
-  - https://en.wikivoyage.org/wiki/Sardis
-  - https://en.wikipedia.org/wiki/Sardis
-  - https://www.wikidata.org/wiki/Q232615
-  - https://whc.unesco.org/en/list/1731/
-  - https://sardisexpedition.org/en/essays/about-synagogue
+- https://en.wikivoyage.org/wiki/Sardis
+- https://en.wikipedia.org/wiki/Sardis
+- https://www.wikidata.org/wiki/Q232615
+- https://whc.unesco.org/en/list/1731/
+- https://sardisexpedition.org/en/essays/about-synagogue
 image: sardis.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Sardis_Temple_of_Artemis_from_SW_(1991).jpg
 image_license: CC BY 4.0
 image_attribution: Mark Landon
+heritage: 7.425
+vibrancy: 1.822
+nature: 2.256
+off_the_beaten_track: 3.496
 ---
 
 Sardis is the ruined capital of ancient Lydia, beside the modern village of Sart in western Turkey. It sits inland from Izmir, backed by the slopes of Mount Tmolus and tied to the old stories of Croesus, Persian roads, early coinage, Roman rebuilding, and the Seven Churches of Asia.

@@ -1,11 +1,15 @@
 ---
-title: "Sanlitun"
+title: Sanlitun
 type: neighbourhood
 tags:
-  - things_to_do
-  - neighbourhood
+- things_to_do
+- neighbourhood
 latitude: 39.9332
 longitude: 116.4541
+image: sanlitun.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Taikoo_Li_Sanlitun_South_(20200808170437).jpg
+image_license: CC BY-SA 4.0
+image_attribution: N509FZ
 ---
 
 The main expat and nightlife district in Beijing, east of the Workers' Stadium in Chaoyang District. Sanlitun has shifted considerably since its heyday as a grubby strip of expat bars in the 1990s — it now hosts a sprawling outdoor mall (Taikoo Li), a dense concentration of bars, restaurants, clubs, and boutiques, and some of the most interesting restaurant openings in the city. The area around Gongti (the Workers' Stadium) remains the densest concentration of nightlife.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:ChiancianoTermePanoramaChi
 latitude: 43.058255
 loc_type: city
 longitude: 11.828429
-score: 7.76
+score: 6.164
 snippet: Southern Tuscan spa town where Etruscan springs feed thermal parks below
   a hilltop old centre.
 title: Chianciano Terme
 type: location
+heritage: 5.739
+vibrancy: 4.913
+nature: 7.121
+off_the_beaten_track: 1.507
 ---
 
 Chianciano Terme is a spa town in the hills of southern [Tuscany](/europe/italy/tuscany), about 90 km southeast of [Florence](/europe/italy/tuscany/florence) and 50 km from [Siena](/europe/italy/tuscany/siena). The town has been known for its thermal waters since Etruscan and Roman times — the springs are said to be particularly good for the liver, which the Italians take seriously.

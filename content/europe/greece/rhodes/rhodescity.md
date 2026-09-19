@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Apellou,_Medieval_City_of_
 latitude: 36.4438
 loc_type: city
 longitude: 28.2274
-score: 9.37
+score: 6.035
 snippet: Walled medieval island city where Knights of St. John streets still shape
   a living Old Town.
 title: Rhodes City
 type: location
+heritage: 6.181
+vibrancy: 6.025
+nature: 4.531
+off_the_beaten_track: 1.244
 ---
 
 Rhodes City is one of the finest medieval towns in Europe. The Old Town, enclosed within massive walls built by the Knights of St. John in the fourteenth century, is a living monument -- some 6,000 people still live and work in the same buildings the Knights occupied six centuries ago. UNESCO granted it World Heritage status, and it deserves every bit of the recognition.

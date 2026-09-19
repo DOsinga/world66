@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:MS_Plaskus_Nora_kyrka.jpg
 latitude: 59.533333
 loc_type: city
 longitude: 15.016667
-score: 7.4
+score: 4.019
 snippet: Preserved Bergslagen mining town with cobbled streets, wooden houses, and
   a historic railway.
 title: Nora
 type: location
+heritage: 4.502
+vibrancy: 3.759
+nature: 4.037
+off_the_beaten_track: 1.614
 ---
 
 Nora is a small, well-preserved town in Örebro county, in the old Swedish mining district of Bergslagen. Its centre is a grid of cobblestoned streets lined with wooden houses from the eighteenth and nineteenth centuries, painted in the traditional deep reds and yellows. It has the feel of a place that has changed very little.

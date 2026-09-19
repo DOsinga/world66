@@ -8,17 +8,21 @@ image_source: https://commons.wikimedia.org/wiki/File:Headland_near_Newquay_harb
 latitude: 50.413625
 loc_type: city
 longitude: -5.084336
-score: 8.19
+score: 5.614
 snippet: Cornish resort town and surf capital, centred on Fistral Beach and north-coast
   sandy bays.
 tags:
 - cornwall
 title: Newquay
 type: location
+heritage: 3.121
+vibrancy: 4.286
+nature: 6.631
+off_the_beaten_track: 2.774
 ---
 
-Newquay is Cornwall's largest resort town and England's surf capital. Set on the north coast, it looks out over [Fistral Beach](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/newquay/fistral_beach) — one of the finest surf beaches in Europe — and a string of sandy bays stretching north and south. The town has been drawing visitors since the Victorian era, but its modern identity is built around surfing, beach culture, and a lively summer nightlife.
+Newquay is Cornwall's largest resort town and England's surf capital. Set on the north coast, it looks out over [Fistral Beach](/europe/unitedkingdom/england/south_west/newquay/fistral_beach) — one of the finest surf beaches in Europe — and a string of sandy bays stretching north and south. The town has been drawing visitors since the Victorian era, but its modern identity is built around surfing, beach culture, and a lively summer nightlife.
 
-Fistral is the main surf beach, hosting national and international competitions and served by numerous surf schools. [Towan](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/newquay/towan_beach), Great Western, [Tolcarne](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/newquay/tolcarne_beach), and [Lusty Glaze](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/newquay/lusty_glaze) are sheltered town beaches better suited to families and swimmers. The old [harbour](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/newquay/newquay_harbour) at the foot of the cliffs, with its small fishing fleet, offers a glimpse of Newquay before tourism took over, with the [Huer's Hut](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/newquay/huers_hut) and [The Island](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/newquay/the_island) as quiet reminders of the town's earlier life.
+Fistral is the main surf beach, hosting national and international competitions and served by numerous surf schools. [Towan](/europe/unitedkingdom/england/south_west/newquay/towan_beach), Great Western, [Tolcarne](/europe/unitedkingdom/england/south_west/newquay/tolcarne_beach), and [Lusty Glaze](/europe/unitedkingdom/england/south_west/newquay/lusty_glaze) are sheltered town beaches better suited to families and swimmers. The old [harbour](/europe/unitedkingdom/england/south_west/newquay/newquay_harbour) at the foot of the cliffs, with its small fishing fleet, offers a glimpse of Newquay before tourism took over, with the [Huer's Hut](/europe/unitedkingdom/england/south_west/newquay/huers_hut) and [The Island](/europe/unitedkingdom/england/south_west/newquay/the_island) as quiet reminders of the town's earlier life.
 
 The town is busy and noisy in high summer; the surf and the beaches are at their best in autumn when the crowds thin out and the Atlantic swell builds.

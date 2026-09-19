@@ -1,4 +1,8 @@
 ---
+image: finca_vigia.jpg
+image_attribution: Tony Hisgett from Birmingham, UK
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Hemingways_House_(3204609340).jpg
 latitude: 23.068
 longitude: -82.296
 score: 7.8
@@ -11,13 +15,9 @@ story: 'Hemingway kept his Nobel Prize medal not in a vault but on the altar of 
 
   '
 tags:
-- day_trips
+- things_to_do
 title: Finca Vigía (Hemingway House Museum)
 type: poi
-image: finca_vigia.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Hemingways_House_(3204609340).jpg
-image_license: CC BY 2.0
-image_attribution: Tony Hisgett from Birmingham, UK
 ---
 
 Finca Vigía (Lookout Farm) is the house Ernest Hemingway lived in from 1939 until the revolution — a white Spanish colonial farmhouse on a hill in the San Francisco de Paula municipality, about 15 kilometres southeast of central Havana. He wrote "For Whom the Bell Tolls" and "The Old Man and the Sea" here, kept a boat in the harbour, and raised a menagerie of cats, dogs, and fighting cocks on the property.

@@ -4,8 +4,9 @@ type: poi
 tags:
   - things_to_do
   - museum
-latitude: 39.9052
-longitude: 116.3873
+  - dongcheng
+latitude: 39.9046
+longitude: 116.4019
 story: >
   The museum's collection includes bronze vessels from the Shang dynasty (c. 1600 BC) cast with some of the earliest examples of Chinese writing. One of them, the Simuwu ding — a massive bronze cauldron weighing 832 kg — is the largest known piece of ancient Chinese bronze casting and was used in ritual ceremonies more than three thousand years ago.
 score: 6.9

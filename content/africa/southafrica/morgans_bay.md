@@ -1,16 +1,21 @@
 ---
-title: "Morgan's Bay"
+title: Morgan's Bay
 type: location
 loc_type: city
 latitude: -32.705
 longitude: 28.34
 wikidata: Q6911964
-score: 7.1
-snippet: Wild Coast beach village backed by dolerite cliffs, a tidal lagoon, and rough Eastern Cape coast.
+score: 5.51
+snippet: Wild Coast beach village backed by dolerite cliffs, a tidal lagoon, and rough
+  Eastern Cape coast.
 sources:
-  - https://en.wikivoyage.org/wiki/Morgan%27s_Bay
-  - https://en.wikipedia.org/wiki/Morgan_Bay
-  - https://www.morganbay.co.za/
+- https://en.wikivoyage.org/wiki/Morgan%27s_Bay
+- https://en.wikipedia.org/wiki/Morgan_Bay
+- https://www.morganbay.co.za/
+heritage: 2.52
+vibrancy: 3.263
+nature: 6.964
+off_the_beaten_track: 2.228
 ---
 
 Morgan's Bay is a small Eastern Cape beach village with a bigger landscape than its size suggests. It sits where the softer holiday coast begins to feel like the Wild Coast: a sandy beach, a shallow lagoon, black rock shelves, and cliffs that catch the last light over the Indian Ocean.

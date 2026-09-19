@@ -8,15 +8,19 @@ image_source: https://commons.wikimedia.org/wiki/File:The_war_memorial_in_Skipto
 latitude: 53.962
 loc_type: city
 longitude: -2.0166
-score: 7.91
+score: 4.617
 snippet: Yorkshire market town with a medieval castle, canal towpath, and access to
   the Dales.
 tags:
 - yorkshire_dales
 title: Skipton
 type: location
+heritage: 5.184
+vibrancy: 3.236
+nature: 4.798
+off_the_beaten_track: 3.019
 ---
 
-Skipton bills itself as the Gateway to the Dales, and it earns the title. This handsome market town sits just south of the [Yorkshire Dales](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/yorkshire_dales), with a medieval castle, a [wide high street that fills with market stalls](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/skipton/skipton_market) four days a week, and the [Leeds-Liverpool Canal](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/skipton/leeds_liverpool_canal) threading through the centre.
+Skipton bills itself as the Gateway to the Dales, and it earns the title. This handsome market town sits just south of the [Yorkshire Dales](/europe/unitedkingdom/england/yorkshire/yorkshire_dales), with a medieval castle, a [wide high street that fills with market stalls](/europe/unitedkingdom/england/yorkshire/skipton/skipton_market) four days a week, and the [Leeds-Liverpool Canal](/europe/unitedkingdom/england/yorkshire/skipton/leeds_liverpool_canal) threading through the centre.
 
-[Skipton Castle](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/skipton/skipton_castle) is one of the best-preserved medieval castles in England, having survived a three-year siege during the English Civil War and been restored by the determined Lady Anne Clifford in 1658. The canal towpath makes for pleasant walking, and narrowboat trips run through the surrounding countryside. The [Craven Museum](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/skipton/craven_museum) in the town hall provides good local and natural history context. It is an easy day trip from Leeds or a good base if you want to explore the Dales without staying in the national park itself.
+[Skipton Castle](/europe/unitedkingdom/england/yorkshire/skipton/skipton_castle) is one of the best-preserved medieval castles in England, having survived a three-year siege during the English Civil War and been restored by the determined Lady Anne Clifford in 1658. The canal towpath makes for pleasant walking, and narrowboat trips run through the surrounding countryside. The [Craven Museum](/europe/unitedkingdom/england/yorkshire/skipton/craven_museum) in the town hall provides good local and natural history context. It is an easy day trip from Leeds or a good base if you want to explore the Dales without staying in the national park itself.

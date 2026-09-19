@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:970_Silkeborg_station_og_l
 latitude: 56.169453
 loc_type: city
 longitude: 9.549514
-score: 7.76
+score: 4.248
 snippet: Danish lake-district town in central Jutland, linked by the Gudenå and the
   Hjejlen paddle steamer.
 title: Silkeborg
 type: location
+heritage: 3.861
+vibrancy: 3.83
+nature: 4.733
+off_the_beaten_track: 1.241
 ---
 
 Silkeborg sits at the heart of Denmark's lake district, surrounded by the country's largest connected network of [lakes](/europe/denmark/silkeborg/silkeborg_lakes) and the Gudenå river, which winds its way east to Randers Fjord. It is a pleasant, prosperous town of around 45,000 people and one of the best bases for exploring the gentle landscape of central Jutland.

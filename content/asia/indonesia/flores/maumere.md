@@ -5,15 +5,20 @@ image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Gunung_Egon_volcano.jpg
 latitude: -8.6167
 loc_type: city
-longitude: 122.2000
-score: 6.8
-snippet: East Flores port city with ikat villages, fishing settlements, and volcanic day trips.
+longitude: 122.2
+score: 5.999
+snippet: East Flores port city with ikat villages, fishing settlements, and volcanic
+  day trips.
 sources:
-  - https://en.wikivoyage.org/wiki/Maumere
-  - https://www.wikidata.org/wiki/Q1911163
-  - https://en.wikipedia.org/wiki/Maumere
+- https://en.wikivoyage.org/wiki/Maumere
+- https://www.wikidata.org/wiki/Q1911163
+- https://en.wikipedia.org/wiki/Maumere
 title: Maumere
 type: location
+heritage: 3.744
+vibrancy: 1.792
+nature: 7.132
+off_the_beaten_track: 7.098
 ---
 
 Maumere is the main city of eastern Flores, a working port and airport town that is more useful than pretty at first glance. Stay a little longer and the appeal becomes clearer: Bugis and Bajo fishing villages on the bay, Sikka ikat weaving inland, and volcanic hills close enough for a hard day trip.

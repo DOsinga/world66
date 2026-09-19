@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/56468373@N00/108911823
 latitude: -37.328289
 loc_type: city
 longitude: -59.135696
-score: 7.55
+score: 4.609
 snippet: Buenos Aires province city where granite hills break the flat pampa and shape
   a food-loving interior town
 title: Tandil
 type: location
+heritage: 4.181
+vibrancy: 3.279
+nature: 5.372
+off_the_beaten_track: 3.301
 ---
 
 Tandil is a city of about 130,000 people in the Sierras de Tandil, a range of low granite hills in the Buenos Aires province, roughly 350 kilometres south of the capital. It's the most characterful city in the bonaerense interior — a place where the flat pampa suddenly folds into something hillier, greener, and more European in feel. The city was founded by immigrants from Spain, France, Italy, and the Basque Country in the 19th century, and that heritage shows in the architecture and especially in the food.

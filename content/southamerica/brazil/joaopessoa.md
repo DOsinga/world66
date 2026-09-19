@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Centro_Hist%C3%B3rico_de_J
 latitude: -7.1216
 loc_type: city
 longitude: -34.882
-score: 7.49
+score: 4.901
 snippet: Northeastern Brazilian coastal city at the Americas' eastern tip, with baroque
   churches and beach districts
 title: Joao Pessoa
 type: location
+heritage: 4.315
+vibrancy: 4.856
+nature: 5.018
+off_the_beaten_track: 3.985
 ---
 
 João Pessoa sits at the easternmost point of the Americas — [Cabo Branco](/southamerica/brazil/joaopessoa/cabo_branco_lighthouse), at longitude W34°44'55", is where the continent's land runs out. That geography alone makes it worth a stop on any northeast Brazil itinerary, but there's more to it than a bragging right. It's often cited as Brazil's second-greenest city, and the pace is noticeably slower than Recife or Natal.

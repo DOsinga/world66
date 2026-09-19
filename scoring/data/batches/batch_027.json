@@ -1,0 +1,785 @@
+[
+  {
+    "embedding_text": "Slavonice, Czech Republic, Europe",
+    "lat": 48.998,
+    "latitude": 48.998,
+    "lng": 15.352,
+    "longitude": 15.352,
+    "name": "Slavonice",
+    "parent": "Europe, Czech Republic",
+    "parent_chain": [
+      "Europe",
+      "Czech Republic"
+    ],
+    "path": "europe/czechrepublic/slavonice",
+    "url": "/europe/czechrepublic/slavonice/"
+  },
+  {
+    "embedding_text": "Winnemucca, Nevada, United States, North America",
+    "lat": 40.9724,
+    "latitude": 40.9724,
+    "lng": -117.7348,
+    "longitude": -117.7348,
+    "name": "Winnemucca",
+    "parent": "North America, United States, Nevada",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Nevada"
+    ],
+    "path": "northamerica/unitedstates/nevada/winnemucca",
+    "url": "/northamerica/unitedstates/nevada/winnemucca/"
+  },
+  {
+    "embedding_text": "Tinos, Greece, Europe",
+    "lat": 37.601713,
+    "latitude": 37.601713,
+    "lng": 25.154022,
+    "longitude": 25.154022,
+    "name": "Tinos",
+    "parent": "Europe, Greece",
+    "parent_chain": [
+      "Europe",
+      "Greece"
+    ],
+    "path": "europe/greece/tinos",
+    "url": "/europe/greece/tinos/"
+  },
+  {
+    "embedding_text": "Oologah, Oklahoma, United States, North America",
+    "lat": 36.447366,
+    "latitude": 36.447366,
+    "lng": -95.692735,
+    "longitude": -95.692735,
+    "name": "Oologah",
+    "parent": "North America, United States, Oklahoma",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Oklahoma"
+    ],
+    "path": "northamerica/unitedstates/oklahoma/oolagah",
+    "url": "/northamerica/unitedstates/oklahoma/oolagah/"
+  },
+  {
+    "embedding_text": "Tarangire National Park, Tanzania, Africa",
+    "lat": -4.015,
+    "latitude": -4.015,
+    "lng": 36.01,
+    "longitude": 36.01,
+    "name": "Tarangire National Park",
+    "parent": "Africa, Tanzania",
+    "parent_chain": [
+      "Africa",
+      "Tanzania"
+    ],
+    "path": "africa/tanzania/tarangire_np",
+    "url": "/africa/tanzania/tarangire_np/"
+  },
+  {
+    "embedding_text": "Rehoboth Beach, Delaware, United States, North America",
+    "lat": 38.716477,
+    "latitude": 38.716477,
+    "lng": -75.083511,
+    "longitude": -75.083511,
+    "name": "Rehoboth Beach",
+    "parent": "North America, United States, Delaware",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Delaware"
+    ],
+    "path": "northamerica/unitedstates/delaware/rehobothbeach",
+    "url": "/northamerica/unitedstates/delaware/rehobothbeach/"
+  },
+  {
+    "embedding_text": "Wells, South West England, England, United Kingdom, Europe",
+    "lat": 51.209451,
+    "latitude": 51.209451,
+    "lng": -2.64512,
+    "longitude": -2.64512,
+    "name": "Wells",
+    "parent": "Europe, United Kingdom, England, South West England",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "South West England"
+    ],
+    "path": "europe/unitedkingdom/england/south_west/wells",
+    "url": "/europe/unitedkingdom/england/south_west/wells/"
+  },
+  {
+    "embedding_text": "State College, Pennsylvania, United States, North America",
+    "lat": 40.79445,
+    "latitude": 40.79445,
+    "lng": -77.861639,
+    "longitude": -77.861639,
+    "name": "State College",
+    "parent": "North America, United States, Pennsylvania",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Pennsylvania"
+    ],
+    "path": "northamerica/unitedstates/pennsylvania/state_college",
+    "url": "/northamerica/unitedstates/pennsylvania/state_college/"
+  },
+  {
+    "embedding_text": "Bruges, Belgium, Europe",
+    "lat": 51.208553,
+    "latitude": 51.208553,
+    "lng": 3.226772,
+    "longitude": 3.226772,
+    "name": "Bruges",
+    "parent": "Europe, Belgium",
+    "parent_chain": [
+      "Europe",
+      "Belgium"
+    ],
+    "path": "europe/belgium/bruges",
+    "url": "/europe/belgium/bruges/"
+  },
+  {
+    "embedding_text": "Su Nuraxi di Barumini, Sardinia, Italy, Europe",
+    "lat": 39.705867,
+    "latitude": 39.705867,
+    "lng": 8.990894,
+    "longitude": 8.990894,
+    "name": "Su Nuraxi di Barumini",
+    "parent": "Europe, Italy, Sardinia",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Sardinia"
+    ],
+    "path": "europe/italy/sardinia/sunuraxi",
+    "url": "/europe/italy/sardinia/sunuraxi/"
+  },
+  {
+    "embedding_text": "Motueka, New Zealand, Australia, Pacific & Antarctica",
+    "lat": -41.112493,
+    "latitude": -41.112493,
+    "lng": 173.009488,
+    "longitude": 173.009488,
+    "name": "Motueka",
+    "parent": "Australia, Pacific & Antarctica, New Zealand",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "New Zealand"
+    ],
+    "path": "australiaandpacific/newzealand/motueka",
+    "url": "/australiaandpacific/newzealand/motueka/"
+  },
+  {
+    "embedding_text": "Kuwolsan, North Korea, Asia",
+    "lat": 38.58,
+    "latitude": 38.58,
+    "lng": 125.27,
+    "longitude": 125.27,
+    "name": "Kuwolsan",
+    "parent": "Asia, North Korea",
+    "parent_chain": [
+      "Asia",
+      "North Korea"
+    ],
+    "path": "asia/northkorea/kuwolsan",
+    "url": "/asia/northkorea/kuwolsan/"
+  },
+  {
+    "embedding_text": "K\u0131y\u0131k\u00f6y, Turkey, Asia",
+    "lat": 41.6353,
+    "latitude": 41.6353,
+    "lng": 28.0961,
+    "longitude": 28.0961,
+    "name": "K\u0131y\u0131k\u00f6y",
+    "parent": "Asia, Turkey",
+    "parent_chain": [
+      "Asia",
+      "Turkey"
+    ],
+    "path": "asia/turkey/kiyikoy",
+    "url": "/asia/turkey/kiyikoy/"
+  },
+  {
+    "embedding_text": "St. George's, Grenada, North America",
+    "lat": 12.053,
+    "latitude": 12.053,
+    "lng": -61.7488,
+    "longitude": -61.7488,
+    "name": "St. George's",
+    "parent": "North America, Grenada",
+    "parent_chain": [
+      "North America",
+      "Grenada"
+    ],
+    "path": "northamerica/grenada/stgeorges",
+    "url": "/northamerica/grenada/stgeorges/"
+  },
+  {
+    "embedding_text": "Magnetic Island, Queensland, Australia, Australia, Pacific & Antarctica",
+    "lat": -19.1421,
+    "latitude": -19.1421,
+    "lng": 146.8335,
+    "longitude": 146.8335,
+    "name": "Magnetic Island",
+    "parent": "Australia, Pacific & Antarctica, Australia, Queensland",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "Queensland"
+    ],
+    "path": "australiaandpacific/australia/queensland/magnetic_island",
+    "url": "/australiaandpacific/australia/queensland/magnetic_island/"
+  },
+  {
+    "embedding_text": "Renmark, South Australia, Australia, Australia, Pacific & Antarctica",
+    "lat": -34.166667,
+    "latitude": -34.166667,
+    "lng": 140.733333,
+    "longitude": 140.733333,
+    "name": "Renmark",
+    "parent": "Australia, Pacific & Antarctica, Australia, South Australia",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "South Australia"
+    ],
+    "path": "australiaandpacific/australia/southaustralia/renmark",
+    "url": "/australiaandpacific/australia/southaustralia/renmark/"
+  },
+  {
+    "embedding_text": "Xuzhou, Jiangsu Province, China, Asia",
+    "lat": 34.26,
+    "latitude": 34.26,
+    "lng": 117.21,
+    "longitude": 117.21,
+    "name": "Xuzhou",
+    "parent": "Asia, China, Jiangsu Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Jiangsu Province"
+    ],
+    "path": "asia/china/jiangsu_province/xuzhou",
+    "url": "/asia/china/jiangsu_province/xuzhou/"
+  },
+  {
+    "embedding_text": "Noto Peninsula, Honshu, Japan, Asia",
+    "lat": 37.1833,
+    "latitude": 37.1833,
+    "lng": 136.8833,
+    "longitude": 136.8833,
+    "name": "Noto Peninsula",
+    "parent": "Asia, Japan, Honshu",
+    "parent_chain": [
+      "Asia",
+      "Japan",
+      "Honshu"
+    ],
+    "path": "asia/japan/honshu/notohanto",
+    "url": "/asia/japan/honshu/notohanto/"
+  },
+  {
+    "embedding_text": "Sayulita, Mexico, North America",
+    "lat": 20.8689,
+    "latitude": 20.8689,
+    "lng": -105.4407,
+    "longitude": -105.4407,
+    "name": "Sayulita",
+    "parent": "North America, Mexico",
+    "parent_chain": [
+      "North America",
+      "Mexico"
+    ],
+    "path": "northamerica/mexico/sayulita",
+    "url": "/northamerica/mexico/sayulita/"
+  },
+  {
+    "embedding_text": "Tikal, Guatemala, North America",
+    "lat": 17.222,
+    "latitude": 17.222,
+    "lng": -89.6237,
+    "longitude": -89.6237,
+    "name": "Tikal",
+    "parent": "North America, Guatemala",
+    "parent_chain": [
+      "North America",
+      "Guatemala"
+    ],
+    "path": "northamerica/guatemala/tikal",
+    "url": "/northamerica/guatemala/tikal/"
+  },
+  {
+    "embedding_text": "Pecos, New Mexico, United States, North America",
+    "lat": 35.575,
+    "latitude": 35.575,
+    "lng": -105.676,
+    "longitude": -105.676,
+    "name": "Pecos",
+    "parent": "North America, United States, New Mexico",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "New Mexico"
+    ],
+    "path": "northamerica/unitedstates/newmexico/pecos",
+    "url": "/northamerica/unitedstates/newmexico/pecos/"
+  },
+  {
+    "embedding_text": "Jac\u00f3, Costa Rica, North America",
+    "lat": 9.6167,
+    "latitude": 9.6167,
+    "lng": -84.6333,
+    "longitude": -84.6333,
+    "name": "Jac\u00f3",
+    "parent": "North America, Costa Rica",
+    "parent_chain": [
+      "North America",
+      "Costa Rica"
+    ],
+    "path": "northamerica/costarica/jaco",
+    "url": "/northamerica/costarica/jaco/"
+  },
+  {
+    "embedding_text": "Ehden, Lebanon, Asia",
+    "lat": 34.290658,
+    "latitude": 34.290658,
+    "lng": 35.965676,
+    "longitude": 35.965676,
+    "name": "Ehden",
+    "parent": "Asia, Lebanon",
+    "parent_chain": [
+      "Asia",
+      "Lebanon"
+    ],
+    "path": "asia/lebanon/ehden",
+    "url": "/asia/lebanon/ehden/"
+  },
+  {
+    "embedding_text": "Florence, South Carolina, United States, North America",
+    "lat": 34.1954,
+    "latitude": 34.1954,
+    "lng": -79.7626,
+    "longitude": -79.7626,
+    "name": "Florence",
+    "parent": "North America, United States, South Carolina",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "South Carolina"
+    ],
+    "path": "northamerica/unitedstates/southcarolina/florence",
+    "url": "/northamerica/unitedstates/southcarolina/florence/"
+  },
+  {
+    "embedding_text": "Gili Trawangan, Gili Islands, Lombok, Indonesia, Asia",
+    "lat": -8.3485,
+    "latitude": -8.3485,
+    "lng": 116.0425,
+    "longitude": 116.0425,
+    "name": "Gili Trawangan",
+    "parent": "Asia, Indonesia, Lombok, Gili Islands",
+    "parent_chain": [
+      "Asia",
+      "Indonesia",
+      "Lombok",
+      "Gili Islands"
+    ],
+    "path": "asia/indonesia/lombok/giliislands/gili_trawangan",
+    "url": "/asia/indonesia/lombok/giliislands/gili_trawangan/"
+  },
+  {
+    "embedding_text": "Lake Wales, Florida, United States, North America",
+    "lat": 27.901413,
+    "latitude": 27.901413,
+    "lng": -81.58591,
+    "longitude": -81.58591,
+    "name": "Lake Wales",
+    "parent": "North America, United States, Florida",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Florida"
+    ],
+    "path": "northamerica/unitedstates/florida/lake_wales",
+    "url": "/northamerica/unitedstates/florida/lake_wales/"
+  },
+  {
+    "embedding_text": "Cloudcroft, New Mexico, United States, North America",
+    "lat": 32.9577,
+    "latitude": 32.9577,
+    "lng": -105.7427,
+    "longitude": -105.7427,
+    "name": "Cloudcroft",
+    "parent": "North America, United States, New Mexico",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "New Mexico"
+    ],
+    "path": "northamerica/unitedstates/newmexico/cloudcroft",
+    "url": "/northamerica/unitedstates/newmexico/cloudcroft/"
+  },
+  {
+    "embedding_text": "San Antonio, Texas, United States, North America",
+    "lat": 29.4246,
+    "latitude": 29.4246,
+    "lng": -98.4951,
+    "longitude": -98.4951,
+    "name": "San Antonio",
+    "parent": "North America, United States, Texas",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Texas"
+    ],
+    "path": "northamerica/unitedstates/texas/sanantonio",
+    "url": "/northamerica/unitedstates/texas/sanantonio/"
+  },
+  {
+    "embedding_text": "Harar, Ethiopia, Africa",
+    "lat": 9.31184,
+    "latitude": 9.31184,
+    "lng": 42.128445,
+    "longitude": 42.128445,
+    "name": "Harar",
+    "parent": "Africa, Ethiopia",
+    "parent_chain": [
+      "Africa",
+      "Ethiopia"
+    ],
+    "path": "africa/ethiopia/harar",
+    "url": "/africa/ethiopia/harar/"
+  },
+  {
+    "embedding_text": "Dimmuborgir, Iceland, Europe",
+    "lat": 65.588055,
+    "latitude": 65.588055,
+    "lng": -16.907936,
+    "longitude": -16.907936,
+    "name": "Dimmuborgir",
+    "parent": "Europe, Iceland",
+    "parent_chain": [
+      "Europe",
+      "Iceland"
+    ],
+    "path": "europe/iceland/dimmuborgir",
+    "url": "/europe/iceland/dimmuborgir/"
+  },
+  {
+    "embedding_text": "Prakasham, Andhra Pradesh, India, Asia",
+    "lat": 15.506,
+    "latitude": 15.506,
+    "lng": 80.049,
+    "longitude": 80.049,
+    "name": "Prakasham",
+    "parent": "Asia, India, Andhra Pradesh",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Andhra Pradesh"
+    ],
+    "path": "asia/india/andhrapradesh/prakasham",
+    "url": "/asia/india/andhrapradesh/prakasham/"
+  },
+  {
+    "embedding_text": "Zhuhai, Guangdong Province, China, Asia",
+    "lat": 22.261,
+    "latitude": 22.261,
+    "lng": 113.551,
+    "longitude": 113.551,
+    "name": "Zhuhai",
+    "parent": "Asia, China, Guangdong Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Guangdong Province"
+    ],
+    "path": "asia/china/guangdong/zhuhai",
+    "url": "/asia/china/guangdong/zhuhai/"
+  },
+  {
+    "embedding_text": "Kurunegala, Sri Lanka, Asia",
+    "lat": 7.487046,
+    "latitude": 7.487046,
+    "lng": 80.364908,
+    "longitude": 80.364908,
+    "name": "Kurunegala",
+    "parent": "Asia, Sri Lanka",
+    "parent_chain": [
+      "Asia",
+      "Sri Lanka"
+    ],
+    "path": "asia/srilanka/kurunegala",
+    "url": "/asia/srilanka/kurunegala/"
+  },
+  {
+    "embedding_text": "Jaluit Atoll, Marshall Islands, Australia, Pacific & Antarctica",
+    "lat": 6.0,
+    "latitude": 6.0,
+    "lng": 169.583333,
+    "longitude": 169.583333,
+    "name": "Jaluit Atoll",
+    "parent": "Australia, Pacific & Antarctica, Marshall Islands",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Marshall Islands"
+    ],
+    "path": "australiaandpacific/marshallislands/jaluitatoll",
+    "url": "/australiaandpacific/marshallislands/jaluitatoll/"
+  },
+  {
+    "embedding_text": "Ambala, Haryana, India, Asia",
+    "lat": 30.38,
+    "latitude": 30.38,
+    "lng": 76.78,
+    "longitude": 76.78,
+    "name": "Ambala",
+    "parent": "Asia, India, Haryana",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Haryana"
+    ],
+    "path": "asia/india/haryana/ambala",
+    "url": "/asia/india/haryana/ambala/"
+  },
+  {
+    "embedding_text": "Pai, Thailand, Asia",
+    "lat": 19.3583,
+    "latitude": 19.3583,
+    "lng": 98.4394,
+    "longitude": 98.4394,
+    "name": "Pai",
+    "parent": "Asia, Thailand",
+    "parent_chain": [
+      "Asia",
+      "Thailand"
+    ],
+    "path": "asia/thailand/pai",
+    "url": "/asia/thailand/pai/"
+  },
+  {
+    "embedding_text": "Devonport, North-West, Tasmania, Australia, Australia, Pacific & Antarctica",
+    "lat": -41.1796,
+    "latitude": -41.1796,
+    "lng": 146.3513,
+    "longitude": 146.3513,
+    "name": "Devonport",
+    "parent": "Australia, Pacific & Antarctica, Australia, Tasmania, North-West",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "Tasmania",
+      "North-West"
+    ],
+    "path": "australiaandpacific/australia/tasmania/northwest/devonport_tasmania",
+    "url": "/australiaandpacific/australia/tasmania/northwest/devonport_tasmania/"
+  },
+  {
+    "embedding_text": "Albi, Languedoc, France, Europe",
+    "lat": 43.9274,
+    "latitude": 43.9274,
+    "lng": 2.1454,
+    "longitude": 2.1454,
+    "name": "Albi",
+    "parent": "Europe, France, Languedoc",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Languedoc"
+    ],
+    "path": "europe/france/languedoc/albi",
+    "url": "/europe/france/languedoc/albi/"
+  },
+  {
+    "embedding_text": "Sargodha, Pakistan, Asia",
+    "lat": 32.083651,
+    "latitude": 32.083651,
+    "lng": 72.676461,
+    "longitude": 72.676461,
+    "name": "Sargodha",
+    "parent": "Asia, Pakistan",
+    "parent_chain": [
+      "Asia",
+      "Pakistan"
+    ],
+    "path": "asia/pakistan/sargodha",
+    "url": "/asia/pakistan/sargodha/"
+  },
+  {
+    "embedding_text": "Parksville, British Columbia, Canada, North America",
+    "lat": 49.317951,
+    "latitude": 49.317951,
+    "lng": -124.311739,
+    "longitude": -124.311739,
+    "name": "Parksville",
+    "parent": "North America, Canada, British Columbia",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "British Columbia"
+    ],
+    "path": "northamerica/canada/britishcolumbia/parksville",
+    "url": "/northamerica/canada/britishcolumbia/parksville/"
+  },
+  {
+    "embedding_text": "Recanati, Marche, Italy, Europe",
+    "lat": 43.403509,
+    "latitude": 43.403509,
+    "lng": 13.548602,
+    "longitude": 13.548602,
+    "name": "Recanati",
+    "parent": "Europe, Italy, Marche",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Marche"
+    ],
+    "path": "europe/italy/marche/recanati",
+    "url": "/europe/italy/marche/recanati/"
+  },
+  {
+    "embedding_text": "Jiamusi, Heilongjiang Province, China, Asia",
+    "lat": 46.8081,
+    "latitude": 46.8081,
+    "lng": 130.3653,
+    "longitude": 130.3653,
+    "name": "Jiamusi",
+    "parent": "Asia, China, Heilongjiang Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Heilongjiang Province"
+    ],
+    "path": "asia/china/heilongjiang/jiamusi",
+    "url": "/asia/china/heilongjiang/jiamusi/"
+  },
+  {
+    "embedding_text": "B\u00e9nouville, Normandy and Brittany, France, Europe",
+    "lat": 49.2466,
+    "latitude": 49.2466,
+    "lng": -0.2782,
+    "longitude": -0.2782,
+    "name": "B\u00e9nouville",
+    "parent": "Europe, France, Normandy and Brittany",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Normandy and Brittany"
+    ],
+    "path": "europe/france/normandybrittany/bnouville",
+    "url": "/europe/france/normandybrittany/bnouville/"
+  },
+  {
+    "embedding_text": "Makassar, Sulawesi, Indonesia, Asia",
+    "lat": -5.1348,
+    "latitude": -5.1348,
+    "lng": 119.4124,
+    "longitude": 119.4124,
+    "name": "Makassar",
+    "parent": "Asia, Indonesia, Sulawesi",
+    "parent_chain": [
+      "Asia",
+      "Indonesia",
+      "Sulawesi"
+    ],
+    "path": "asia/indonesia/sulawesi/makassar",
+    "url": "/asia/indonesia/sulawesi/makassar/"
+  },
+  {
+    "embedding_text": "Jyv\u00e4skyl\u00e4, Finland, Europe",
+    "lat": 62.2414,
+    "latitude": 62.2414,
+    "lng": 25.7475,
+    "longitude": 25.7475,
+    "name": "Jyv\u00e4skyl\u00e4",
+    "parent": "Europe, Finland",
+    "parent_chain": [
+      "Europe",
+      "Finland"
+    ],
+    "path": "europe/finland/jyvaskyla",
+    "url": "/europe/finland/jyvaskyla/"
+  },
+  {
+    "embedding_text": "Vagan, Lofoten islands, Norway, Europe",
+    "lat": 68.2777,
+    "latitude": 68.2777,
+    "lng": 14.6631,
+    "longitude": 14.6631,
+    "name": "Vagan",
+    "parent": "Europe, Norway, Lofoten islands",
+    "parent_chain": [
+      "Europe",
+      "Norway",
+      "Lofoten islands"
+    ],
+    "path": "europe/norway/lofotenislands/vagan",
+    "url": "/europe/norway/lofotenislands/vagan/"
+  },
+  {
+    "embedding_text": "Hotan, Xinjiang, China, Asia",
+    "lat": 37.1012,
+    "latitude": 37.1012,
+    "lng": 79.9327,
+    "longitude": 79.9327,
+    "name": "Hotan",
+    "parent": "Asia, China, Xinjiang",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Xinjiang"
+    ],
+    "path": "asia/china/xinjiangprovince/hotan",
+    "url": "/asia/china/xinjiangprovince/hotan/"
+  },
+  {
+    "embedding_text": "Bariloche, Argentina, South America",
+    "lat": -41.1335,
+    "latitude": -41.1335,
+    "lng": -71.3101,
+    "longitude": -71.3101,
+    "name": "Bariloche",
+    "parent": "South America, Argentina",
+    "parent_chain": [
+      "South America",
+      "Argentina"
+    ],
+    "path": "southamerica/argentina/bariloche",
+    "url": "/southamerica/argentina/bariloche/"
+  },
+  {
+    "embedding_text": "Claremore, Oklahoma, United States, North America",
+    "lat": 36.3126,
+    "latitude": 36.3126,
+    "lng": -95.6161,
+    "longitude": -95.6161,
+    "name": "Claremore",
+    "parent": "North America, United States, Oklahoma",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Oklahoma"
+    ],
+    "path": "northamerica/unitedstates/oklahoma/claremore",
+    "url": "/northamerica/unitedstates/oklahoma/claremore/"
+  },
+  {
+    "embedding_text": "Mount Rushmore, South Dakota, United States, North America",
+    "lat": 43.879403,
+    "latitude": 43.879403,
+    "lng": -103.459805,
+    "longitude": -103.459805,
+    "name": "Mount Rushmore",
+    "parent": "North America, United States, South Dakota",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "South Dakota"
+    ],
+    "path": "northamerica/unitedstates/southdakota/mountrushmore",
+    "url": "/northamerica/unitedstates/southdakota/mountrushmore/"
+  }
+]

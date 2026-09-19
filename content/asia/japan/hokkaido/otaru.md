@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 43.1833
 longitude: 141.0
-score: 7.7
+score: 5.3
 snippet: Hokkaido port city of canal warehouses, glass shops, sushi, and easy Sapporo
   day trips.
 sources:
@@ -13,6 +13,10 @@ image: otaru.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Otaru-overview.JPG
 image_license: CC BY-SA 3.0
 image_attribution: ja:user:Umidori
+heritage: 5.255
+vibrancy: 5.357
+nature: 4.534
+off_the_beaten_track: 1.78
 ---
 
 Otaru is a port city on Hokkaido's Sea of Japan coast, close enough to [Sapporo](/asia/japan/hokkaido/sapporo) for an easy day trip but different enough to feel like a proper change of scene. Its old canal, stone warehouses, glass shops, and steep streets give it a softer, more historic face than the modern capital nearby.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Pripyat01.jpg
 latitude: 51.4064
 loc_type: city
 longitude: 30.0548
-score: 6.87
+score: 3.784
 snippet: Abandoned Soviet city beside Chernobyl, evacuated in 1986 and slowly overtaken
   by trees and silence.
 title: Pripyat
 type: location
+heritage: 4.289
+vibrancy: 2.47
+nature: 1.817
+off_the_beaten_track: 5.441
 ---
 
 Pripyat was built in 1970 as a model Soviet city for workers at the nearby Chernobyl Nuclear Power Plant. By 1986 it had nearly 50,000 residents — young, educated, well-housed by Soviet standards. Then, on the morning of 27 April 1986, the entire population was given two hours to pack a bag and board buses. They were told it was temporary. It wasn't.

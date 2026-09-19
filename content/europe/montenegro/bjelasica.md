@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bjelasica_08_70111.jpg
 latitude: 42.8666
 loc_type: feature
 longitude: 19.6981
-score: 7.69
+score: 6.062
 snippet: Northern Montenegro mountain massif of rounded volcanic peaks, glacial lakes,
   and Biogradska Gora forest.
 title: Bjelasica
 type: location
+heritage: 1.487
+vibrancy: 1.678
+nature: 7.667
+off_the_beaten_track: 5.666
 ---
 
 Bjelasica is a rolling, rounded mountain massif in northern Montenegro — green and forested in summer, snow-covered for six months of the year — that forms the heart of one of the country's two main winter playgrounds, and one of the last refuges of European primeval forest. It is the gentler cousin of [Durmitor](/europe/montenegro/dormitor) across the Tara canyon: lower peaks, less drama, more accessible.

@@ -4,12 +4,16 @@ type: location
 loc_type: city
 latitude: 39.3942
 longitude: -7.3772
-score: 7.35
+score: 5.731
 snippet: Alentejo hill village walled along a quartzite ridge above the Spanish border.
 sources:
-  - https://en.wikivoyage.org/wiki/Marv%C3%A3o
-  - https://en.wikipedia.org/wiki/Marv%C3%A3o
+- https://en.wikivoyage.org/wiki/Marv%C3%A3o
+- https://en.wikipedia.org/wiki/Marv%C3%A3o
 wikidata: Q988863
+heritage: 6.537
+vibrancy: 2.117
+nature: 5.722
+off_the_beaten_track: 4.369
 ---
 
 Marvão is one of Portugal's great high places: a white village squeezed inside walls on a quartzite ridge, with the Alentejo falling away on one side and Spain visible beyond the hills. It is small, but the setting gives it the drama of a much larger destination.

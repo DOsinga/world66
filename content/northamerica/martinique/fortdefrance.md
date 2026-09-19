@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Fort-de-france-harbor.jpg
 latitude: 14.6037
 loc_type: city
 longitude: -61.0586
-score: 8.12
+score: 5.351
 snippet: French Caribbean capital with Creole markets, balconied streets, and ferries
   from La Savane waterfront.
 title: Fort-de-France
 type: location
+heritage: 5.256
+vibrancy: 4.714
+nature: 6.016
+off_the_beaten_track: 3.407
 ---
 
 Fort-de-France is the capital of Martinique — a thoroughly French city in the Caribbean, balancing colonial architecture with the rhythms of Creole life. Narrow streets lined with balconied buildings wind through a compact downtown where the smells of spiced cooking drift from market stalls.

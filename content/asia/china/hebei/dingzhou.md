@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Dingzhou,_Baoding,_Hebei,_
 latitude: 38.516
 loc_type: city
 longitude: 114.99
-score: 5.6
+score: 3.776
 snippet: Hebei city on the North China Plain, home to the 84-metre Liaodi Pagoda from
   1055.
 sources:
 - https://en.wikipedia.org/wiki/Dingzhou
 title: Dingzhou
 type: location
+heritage: 5.199
+vibrancy: 1.502
+nature: 1.748
+off_the_beaten_track: 2.465
 ---
 
 Dingzhou holds a record that most Chinese cities would advertise more aggressively: the [Liaodi Pagoda](/asia/china/hebei/dingzhou/liaodi_pagoda), completed in 1055 during the Northern Song dynasty, is the tallest surviving pre-modern pagoda in China, rising 84 metres above the surrounding plain. It was built not for purely religious purposes but partly as a military watchtower — the flat terrain of the North China Plain meant that a tall structure here could monitor movement for a considerable distance in every direction. The combination of devotional and defensive function is reflected in the building itself, which has a more austere character than purely ceremonial pagodas of the same period.

@@ -2,20 +2,25 @@
 title: Colditz
 type: location
 loc_type: city
-latitude: 51.1300
-longitude: 12.8100
-score: 6.8
-snippet: Saxon Mulde valley town dominated by the castle made famous by wartime escape stories.
+latitude: 51.13
+longitude: 12.81
+score: 4.607
+snippet: Saxon Mulde valley town dominated by the castle made famous by wartime escape
+  stories.
 wikidata: Q10762
 sources:
-  - https://en.wikivoyage.org/wiki/Colditz
-  - https://en.wikipedia.org/wiki/Colditz
-  - https://www.wikidata.org/wiki/Q10762
-  - https://www.schloss-colditz.de/en/colditz-castle/
+- https://en.wikivoyage.org/wiki/Colditz
+- https://en.wikipedia.org/wiki/Colditz
+- https://www.wikidata.org/wiki/Q10762
+- https://www.schloss-colditz.de/en/colditz-castle/
 image: colditz.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Colditz_Castle_2011.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Lowgoz
+heritage: 5.821
+vibrancy: 1.935
+nature: 3.317
+off_the_beaten_track: 3.069
 ---
 
 Colditz is a small town in Saxony's Mulde valley, southeast of [Leipzig](/europe/germany/saxony/leipzig). It would be a quiet riverside place without its castle, but that castle has made the name travel far beyond Germany.

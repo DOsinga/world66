@@ -5,13 +5,17 @@ done:
 latitude: 44.032116
 loc_type: city
 longitude: 8.050223
-score: 7.14
+score: 4.801
 snippet: Quiet Ligurian farming comune in the Lerrone valley, with feudal castle ruins
   and baroque churches.
 tags:
 - rivieradellepalme
 title: Casanova Lerrone
 type: location
+heritage: 3.398
+vibrancy: 2.203
+nature: 6.001
+off_the_beaten_track: 3.612
 ---
 
 Casanova Lerrone is a quiet farming comune in the upper valley of the Lerrone River, inland from the Ligurian coast between Albenga and Alassio. Its history is typical of the small fiefdoms that changed hands repeatedly between Genoa's noble families — Del Carretto, Clavesana, and Doria — and it was the centre of a short-lived uprising against Genoa in 1763–64, prompted by excessive taxation.

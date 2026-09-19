@@ -11,9 +11,13 @@ loc_type: city
 snippet: Lakeside Swiss city and Bernese Oberland gateway, with a castle-topped old
   town above the Aare.
 longitude: 7.628086
-score: 8.64
+score: 5.372
 title: Thun
 type: location
+heritage: 3.765
+vibrancy: 2.412
+nature: 6.731
+off_the_beaten_track: 2.412
 ---
 
 Thun is a small city of around 40,000 at the northwest end of Lake Thun, just 20 minutes by train from [Bern](/europe/switzerland/bern). It is the gateway to the Bernese Oberland — Interlaken, Grindelwald, and the Jungfrau region are all easily reached from here — and has more character than its transit-hub status might suggest.

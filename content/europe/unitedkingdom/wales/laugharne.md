@@ -7,13 +7,17 @@ done:
 latitude: 51.770035
 loc_type: city
 longitude: -4.464705
-score: 7.49
+score: 4.051
 snippet: Taf estuary town in southwest Wales, inseparable from Dylan Thomas and Under
   Milk Wood.
 sources:
 - https://en.wikipedia.org/wiki/Laugharne
 title: Laugharne
 type: location
+heritage: 4.568
+vibrancy: 2.074
+nature: 4.166
+off_the_beaten_track: 2.905
 ---
 
 Laugharne is a small, unhurried town on the Taf estuary in southwest Wales, and it would be a footnote in any guidebook were it not for one fact: Dylan Thomas lived here, wrote here, and drank here. He called it "the strangest town in Wales" and made it the model for Llareggub in *Under Milk Wood*. Coming to Laugharne is a literary pilgrimage, but it is also simply a pleasant place to spend a day.

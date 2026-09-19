@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: -36.0842
 longitude: 146.9097
-score: 7.0
-snippet: Twin Murray River city split by the New South Wales-Victoria border and rich in borderland history.
+score: 3.445
+snippet: Twin Murray River city split by the New South Wales-Victoria border and rich
+  in borderland history.
 sources:
-  - https://en.wikivoyage.org/wiki/Albury-Wodonga
-  - https://en.wikipedia.org/wiki/Albury%E2%80%93Wodonga
+- https://en.wikivoyage.org/wiki/Albury-Wodonga
+- https://en.wikipedia.org/wiki/Albury%E2%80%93Wodonga
+heritage: 2.946
+vibrancy: 3.386
+nature: 3.599
+off_the_beaten_track: 1.532
 ---
 
 Albury-Wodonga is a twin city on the Murray River, with Albury in New South Wales and Wodonga in Victoria. For travellers it works as one place: a border crossing, rail town, river city, and useful base for the wineries, gold towns, and alpine country nearby.

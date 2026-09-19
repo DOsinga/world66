@@ -5,7 +5,7 @@ type: section
 
 **Thailand: A Short History** by David K. Wyatt is the standard one-volume history — clear, scholarly, and genuinely readable. It covers the rise of the Thai kingdoms from Sukhothai through Ayutthaya and the modernising Chakri dynasty to the late twentieth century. If you want to understand why the country looks and feels the way it does, start here.
 
-**The Railway Man** by Eric Lomax is the memoir of a British officer who survived the construction of the Burma-Thailand Railway as a prisoner of war under the Japanese. Brutal and ultimately remarkable — about survival, memory, and an extraordinary act of reconciliation with a former captor. Essential reading before visiting [Kanchanaburi](/asia/thailand/kanchanaburi).
+**The Railway Man** by Eric Lomax is the memoir of a British officer who survived the construction of the Burma-Thailand Railway as a prisoner of war under the Japanese. Brutal and ultimately remarkable — about survival, memory, and an extraordinary act of reconciliation with a former captor. Essential reading before visiting [Kanchanaburi](/asia/thailand/centralthailand/kanchanaburi).
 
 **Very Thai** by Philip Cornwel-Smith is a witty, illustrated guide to the textures of everyday Thai life — spirit houses, noodle shops, pink taxis, the culture of *sanuk*. Not a narrative but endlessly useful for understanding what you're looking at.
 

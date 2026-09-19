@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:%D5%8D%D6%87%D5%A1%D5%B6%D
 latitude: 40.5644
 loc_type: city
 longitude: 44.9389
-score: 7.93
+score: 6.616
 snippet: Armenian monastery on Lake Sevan's peninsula, once isolated on an island
   of penitential monks
 title: Sevanavank
 type: location
+heritage: 7.797
+vibrancy: 2.26
+nature: 6.04
+off_the_beaten_track: 3.622
 ---
 
 Sevanavank (Սևանավանք) is a monastery on the peninsula of Lake Sevan, near the town of Sevan. The lake is a popular summer destination — [Armenia](/europe/armenia) is landlocked, and Sevan is the closest thing to a sea resort. The monastery's setting on the lake shore is beautiful.

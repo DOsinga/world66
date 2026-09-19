@@ -4,10 +4,15 @@ type: location
 loc_type: city
 latitude: 47.1626
 longitude: 18.9451
-snippet: Small Danube island town south of Budapest with Serbian church art and Baroque Savoy architecture.
-score: 6.8
+snippet: Small Danube island town south of Budapest with Serbian church art and Baroque
+  Savoy architecture.
+score: 3.052
 sources:
-  - https://en.wikivoyage.org/wiki/R%C3%A1ckeve
+- https://en.wikivoyage.org/wiki/R%C3%A1ckeve
+heritage: 3.95
+vibrancy: 1.715
+nature: 1.984
+off_the_beaten_track: 1.9
 ---
 
 Ráckeve is a small town on the southern end of Csepel Island, about 40 kilometres south of [Budapest](/europe/hungary/budapest). It sits by a quieter branch of the Danube, with a modest centre, a Serb minority history, and enough architecture to make a good slow day from the capital.

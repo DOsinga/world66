@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bidar_Fort,_Bidar,_Karnata
 latitude: 17.912
 loc_type: city
 longitude: 77.52
-score: 6.82
+score: 3.324
 snippet: Northern Karnataka fortress city of Bahmani tombs, Persianate ruins, and
   quiet Deccan lanes near Telangana.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Mahmud_Gawan_Madrasa
 title: Bidar
 type: location
+heritage: 3.738
+vibrancy: 2.455
+nature: 3.44
+off_the_beaten_track: 3.285
 ---
 
 Bidar sits on the northern edge of Karnataka, closer in feeling to the Deccan plateau of Telangana than to the greener south of the state. It is a small, dry, workaday city, but its monuments are far better than its low profile suggests. If you are tracing the old Bahmani and Barid Shahi capitals after [Gulbarga](/asia/india/karnataka/gulbarga) and [Bijapur](/asia/india/karnataka/bijapur), Bidar is an essential stop.

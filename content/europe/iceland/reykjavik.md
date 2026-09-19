@@ -16,7 +16,7 @@ quick_facts:
   Distinction: World's northernmost capital
   Geothermal Heat: Warms the whole city
   Population: 140,000
-score: 9.52
+score: 6.833
 snippet: Compact Icelandic capital of corrugated-iron houses, a working harbour, and
   hilltop Hallgrímskirkja.
 tip: Reykjavik is the base, not the sight — most of Iceland's wonders are day trips
@@ -26,6 +26,10 @@ tip: Reykjavik is the base, not the sight — most of Iceland's wonders are day 
   on arrival.
 title: Reykjavik
 type: location
+heritage: 5.136
+vibrancy: 5.991
+nature: 7.696
+off_the_beaten_track: 2.34
 ---
 
 Reykjavik is the world's northernmost capital and one of its smallest — about 140,000 people live in the city itself, around two-thirds of the country's entire population. It is also one of the youngest, having spent most of its history as a fishing village before stepping into a capital's role only in the late nineteenth century. The result is a city that feels more like an unusually cosmopolitan small town: brightly painted corrugated-iron houses, a working harbour, and a centre you can walk across in twenty minutes.

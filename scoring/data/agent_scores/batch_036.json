@@ -1,0 +1,302 @@
+{
+  "africa/eritrea/senafe": {
+    "heritage": 6,
+    "nature": 5,
+    "off_the_beaten_track": 7,
+    "vibrancy": 2
+  },
+  "africa/guineeconakry/dalaba": {
+    "heritage": 3,
+    "nature": 6,
+    "off_the_beaten_track": 7,
+    "vibrancy": 1
+  },
+  "asia/bhutan/phuntsholing": {
+    "heritage": 5,
+    "nature": 6,
+    "off_the_beaten_track": 6,
+    "vibrancy": 4
+  },
+  "asia/china/hubei/shennongjia": {
+    "heritage": 2,
+    "nature": 9,
+    "off_the_beaten_track": 7,
+    "vibrancy": 2
+  },
+  "asia/china/shaanxi/yan_an": {
+    "heritage": 7,
+    "nature": 4,
+    "off_the_beaten_track": 4,
+    "vibrancy": 3
+  },
+  "asia/india/goa/candolim": {
+    "heritage": 4,
+    "nature": 6,
+    "off_the_beaten_track": 1,
+    "vibrancy": 6
+  },
+  "asia/india/uttaranchal/dehradun": {
+    "heritage": 4,
+    "nature": 6,
+    "off_the_beaten_track": 3,
+    "vibrancy": 5
+  },
+  "asia/indonesia/java/dieng_plateau": {
+    "heritage": 6,
+    "nature": 7,
+    "off_the_beaten_track": 5,
+    "vibrancy": 2
+  },
+  "asia/taiwan/maokong": {
+    "heritage": 5,
+    "nature": 6,
+    "off_the_beaten_track": 1,
+    "vibrancy": 4
+  },
+  "asia/tajikistan/khorugh": {
+    "heritage": 4,
+    "nature": 9,
+    "off_the_beaten_track": 8,
+    "vibrancy": 4
+  },
+  "asia/thailand/phuket/patong": {
+    "heritage": 1,
+    "nature": 5,
+    "off_the_beaten_track": 1,
+    "vibrancy": 8
+  },
+  "australiaandpacific/micronesiafederatedstatesof/yap": {
+    "heritage": 7,
+    "nature": 8,
+    "off_the_beaten_track": 7,
+    "vibrancy": 2
+  },
+  "australiaandpacific/palau/koror": {
+    "heritage": 4,
+    "nature": 9,
+    "off_the_beaten_track": 6,
+    "vibrancy": 3
+  },
+  "australiaandpacific/tuvalu/vaitupuisland": {
+    "heritage": 4,
+    "nature": 6,
+    "off_the_beaten_track": 9,
+    "vibrancy": 1
+  },
+  "europe/belgium/jabbeke": {
+    "heritage": 1,
+    "nature": 2,
+    "off_the_beaten_track": 1,
+    "vibrancy": 1
+  },
+  "europe/faroeislands/suuroy/sandvk": {
+    "heritage": 4,
+    "nature": 8,
+    "off_the_beaten_track": 7,
+    "vibrancy": 1
+  },
+  "europe/finland/lapland/hetta": {
+    "heritage": 4,
+    "nature": 9,
+    "off_the_beaten_track": 7,
+    "vibrancy": 1
+  },
+  "europe/germany/brandenburg/wittenberg": {
+    "heritage": 8,
+    "nature": 2,
+    "off_the_beaten_track": 1,
+    "vibrancy": 4
+  },
+  "europe/germany/northrhinewestphalia/wuppertal": {
+    "heritage": 5,
+    "nature": 4,
+    "off_the_beaten_track": 1,
+    "vibrancy": 5
+  },
+  "europe/greece/aegina": {
+    "heritage": 7,
+    "nature": 5,
+    "off_the_beaten_track": 1,
+    "vibrancy": 5
+  },
+  "europe/greece/crete/knossos": {
+    "heritage": 9,
+    "nature": 5,
+    "off_the_beaten_track": 1,
+    "vibrancy": 4
+  },
+  "europe/hungary/salgotarjan": {
+    "heritage": 4,
+    "nature": 4,
+    "off_the_beaten_track": 2,
+    "vibrancy": 3
+  },
+  "europe/ireland/glengarriff": {
+    "heritage": 4,
+    "nature": 7,
+    "off_the_beaten_track": 2,
+    "vibrancy": 2
+  },
+  "europe/italy/calabria/crotone": {
+    "heritage": 5,
+    "nature": 5,
+    "off_the_beaten_track": 2,
+    "vibrancy": 3
+  },
+  "europe/italy/veneto/vodo_di_cadore": {
+    "heritage": 3,
+    "nature": 8,
+    "off_the_beaten_track": 3,
+    "vibrancy": 1
+  },
+  "europe/poland/boleslawiec": {
+    "heritage": 6,
+    "nature": 2,
+    "off_the_beaten_track": 1,
+    "vibrancy": 2
+  },
+  "europe/portugal/castelo_branco/alcains": {
+    "heritage": 4,
+    "nature": 3,
+    "off_the_beaten_track": 2,
+    "vibrancy": 2
+  },
+  "europe/russia/maykop": {
+    "heritage": 3,
+    "nature": 5,
+    "off_the_beaten_track": 4,
+    "vibrancy": 2
+  },
+  "europe/serbia/novi_beograd": {
+    "heritage": 2,
+    "nature": 1,
+    "off_the_beaten_track": 1,
+    "vibrancy": 5
+  },
+  "europe/switzerland/andermatt": {
+    "heritage": 3,
+    "nature": 9,
+    "off_the_beaten_track": 3,
+    "vibrancy": 5
+  },
+  "northamerica/canada/britishcolumbia/tumbler_ridge": {
+    "heritage": 2,
+    "nature": 7,
+    "off_the_beaten_track": 6,
+    "vibrancy": 1
+  },
+  "northamerica/canada/newbrunswick/moncton": {
+    "heritage": 3,
+    "nature": 6,
+    "off_the_beaten_track": 1,
+    "vibrancy": 4
+  },
+  "northamerica/canada/nunavut/pangnirtung": {
+    "heritage": 6,
+    "nature": 9,
+    "off_the_beaten_track": 9,
+    "vibrancy": 1
+  },
+  "northamerica/canada/ontario/red_rock": {
+    "heritage": 2,
+    "nature": 6,
+    "off_the_beaten_track": 5,
+    "vibrancy": 1
+  },
+  "northamerica/canada/quebec/saint_elie_de_caxton": {
+    "heritage": 4,
+    "nature": 4,
+    "off_the_beaten_track": 1,
+    "vibrancy": 1
+  },
+  "northamerica/honduras/gracias": {
+    "heritage": 6,
+    "nature": 7,
+    "off_the_beaten_track": 5,
+    "vibrancy": 3
+  },
+  "northamerica/honduras/santarosadecop": {
+    "heritage": 7,
+    "nature": 5,
+    "off_the_beaten_track": 5,
+    "vibrancy": 4
+  },
+  "northamerica/mexico/acapulco": {
+    "heritage": 4,
+    "nature": 6,
+    "off_the_beaten_track": 4,
+    "vibrancy": 6
+  },
+  "northamerica/mexico/aguaprieta": {
+    "heritage": 1,
+    "nature": 2,
+    "off_the_beaten_track": 2,
+    "vibrancy": 3
+  },
+  "northamerica/nicaragua/laguna_de_apoyo": {
+    "heritage": 2,
+    "nature": 7,
+    "off_the_beaten_track": 5,
+    "vibrancy": 3
+  },
+  "northamerica/unitedstates/alaska/ketchikan": {
+    "heritage": 6,
+    "nature": 8,
+    "off_the_beaten_track": 3,
+    "vibrancy": 4
+  },
+  "northamerica/unitedstates/arizona/page": {
+    "heritage": 3,
+    "nature": 8,
+    "off_the_beaten_track": 3,
+    "vibrancy": 4
+  },
+  "northamerica/unitedstates/california/escondido": {
+    "heritage": 2,
+    "nature": 4,
+    "off_the_beaten_track": 1,
+    "vibrancy": 3
+  },
+  "northamerica/unitedstates/california/goldcountry/sonora": {
+    "heritage": 6,
+    "nature": 6,
+    "off_the_beaten_track": 2,
+    "vibrancy": 4
+  },
+  "northamerica/unitedstates/delaware/lewes": {
+    "heritage": 6,
+    "nature": 5,
+    "off_the_beaten_track": 1,
+    "vibrancy": 4
+  },
+  "northamerica/unitedstates/illinois/wheeling": {
+    "heritage": 2,
+    "nature": 1,
+    "off_the_beaten_track": 1,
+    "vibrancy": 3
+  },
+  "northamerica/unitedstates/newmexico/gallup": {
+    "heritage": 5,
+    "nature": 4,
+    "off_the_beaten_track": 3,
+    "vibrancy": 2
+  },
+  "northamerica/unitedstates/rhodeisland/coventry": {
+    "heritage": 3,
+    "nature": 3,
+    "off_the_beaten_track": 1,
+    "vibrancy": 2
+  },
+  "northamerica/unitedstates/wisconsin/wausau": {
+    "heritage": 2,
+    "nature": 4,
+    "off_the_beaten_track": 1,
+    "vibrancy": 3
+  },
+  "southamerica/venezuela/margaritaisland/juangriego": {
+    "heritage": 2,
+    "nature": 6,
+    "off_the_beaten_track": 4,
+    "vibrancy": 3
+  }
+}

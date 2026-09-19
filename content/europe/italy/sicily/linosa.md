@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Case_colorate_linosa.jpg
 latitude: 35.8652
 loc_type: city
 longitude: 12.8675
-score: 7.66
+score: 6.176
 snippet: Tiny volcanic Pelagian island with black lava shores, cube-shaped houses,
   and nesting sea turtles.
 tags:
 - pelagianislands
 title: Linosa
 type: location
+heritage: 6.357
+vibrancy: 2.963
+nature: 6.878
+off_the_beaten_track: 4.437
 ---
 
 Linosa is a tiny volcanic island in the Strait of Sicily, part of the Pelagian archipelago along with Lampedusa and the uninhabited rock of Lampione. With its black lava coastline, colourful cube-shaped houses, and crystal-clear water, it feels closer to Africa than to mainland Italy — because geographically, it is.

@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Noia_Galicia_Concello_2006
 latitude: 42.7851
 loc_type: city
 longitude: -8.8877
-score: 7.61
+score: 5.708
 title: Noia
 type: location
 snippet: Noia is a Galician fishing town with a medieval centre and a notable Gothic
   churchyard museum.
+heritage: 6.15
+vibrancy: 3.786
+nature: 6.24
+off_the_beaten_track: 3.243
 ---
 
 Noia sits at the inland tip of the [Ría de Muros e Noia](/europe/spain/galicia/noia/ria_de_muros), about 35 km southwest of [Santiago de Compostela](/europe/spain/galicia/santiagodecompostela) — close enough for a day trip, interesting enough to deserve longer. The town has a well-preserved medieval centre, a famous old church with an extraordinary graveyard, and the relaxed waterfront atmosphere of a Galician fishing town that also happens to have decent architecture.

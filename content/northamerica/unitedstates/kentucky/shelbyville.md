@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 38.2122
 longitude: -85.2258
-score: 6.4
-snippet: Bluegrass horse town where American Saddlebred farms meet bourbon distilleries between Louisville and Frankfort.
+score: 2.921
+snippet: Bluegrass horse town where American Saddlebred farms meet bourbon distilleries
+  between Louisville and Frankfort.
 sources:
-  - https://en.wikivoyage.org/wiki/Shelbyville_(Kentucky)
-  - https://www.visitshelbyky.com/things-to-do/
-  - https://www.visitshelbyky.com/things-to-do/farm-tours/
-  - https://kybourbontrail.com/distillery/jeptha-creed-distillery/
+- https://en.wikivoyage.org/wiki/Shelbyville_(Kentucky)
+- https://www.visitshelbyky.com/things-to-do/
+- https://www.visitshelbyky.com/things-to-do/farm-tours/
+- https://kybourbontrail.com/distillery/jeptha-creed-distillery/
+heritage: 3.287
+vibrancy: 2.077
+nature: 3.02
+off_the_beaten_track: 1.492
 ---
 
 Shelbyville sits in rolling Bluegrass country between [Louisville](/northamerica/unitedstates/kentucky/louisville) and [Frankfort](/northamerica/unitedstates/kentucky/frankfort). It is not a big-city stop, but it has a clear reason to exist on a Kentucky trip: horses, bourbon, and a compact downtown that still feels tied to the surrounding farms.

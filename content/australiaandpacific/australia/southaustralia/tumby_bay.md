@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: -34.3667
 longitude: 136.1
-score: 5.9
+score: 4.105
 wikidata: Q2219899
-snippet: Eyre Peninsula fishing town with calm blue water, street art, and a jetty-side holiday rhythm.
+snippet: Eyre Peninsula fishing town with calm blue water, street art, and a jetty-side
+  holiday rhythm.
 sources:
-  - https://en.wikivoyage.org/wiki/Tumby_Bay
-  - https://portlincoln.com.au/towns/tumby-bay/
-  - https://tumby-bay.com.au/
+- https://en.wikivoyage.org/wiki/Tumby_Bay
+- https://portlincoln.com.au/towns/tumby-bay/
+- https://tumby-bay.com.au/
+heritage: 2.875
+vibrancy: 2.096
+nature: 5.044
+off_the_beaten_track: 4.323
 ---
 
 Tumby Bay is a small coastal town on the eastern side of South Australia's Eyre Peninsula, north of Port Lincoln. It has the easy bones of a fishing and family-holiday place: a long foreshore, a working jetty, sheltered blue water, and enough boats to remind you what people actually come here to do.

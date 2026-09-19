@@ -5,11 +5,15 @@ done:
 latitude: 30.537787
 loc_type: city
 longitude: 79.565724
-score: 7.9
+score: 6.342
 snippet: Garhwal Himalayan ski resort with high-altitude slopes and views toward Nanda
   Devi and Kamet
 title: Auli
 type: location
+heritage: 2.195
+vibrancy: 3.977
+nature: 7.909
+off_the_beaten_track: 5.06
 ---
 
 Auli is a high-altitude ski resort in the Garhwal Himalayas of Uttarakhand, sitting at around 2,500 metres and offering some of the most dramatic mountain scenery in India. The slopes are managed by the state-owned Garhwal Mandal Vikas Nigam (GMVN), which keeps prices low enough to make it one of the most affordable ski destinations in the world — a welcome contrast to the glossy resorts of Europe or North America.

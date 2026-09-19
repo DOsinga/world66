@@ -6,11 +6,15 @@ done:
 latitude: 28.1471
 loc_type: city
 longitude: -82.7564
-score: 7.71
+score: 4.024
 snippet: Gulf Coast sponge town shaped by Greek immigrants, waterfront tavernas, and
   Dodecanese Boulevard.
 title: Tarpon Springs
 type: location
+heritage: 3.697
+vibrancy: 3.481
+nature: 4.555
+off_the_beaten_track: 1.514
 ---
 
 Tarpon Springs is a small Florida Gulf Coast town with a character unlike anything else in the state. In the early twentieth century, Greek immigrants arrived to harvest sea sponges from the Gulf waters, and their presence shaped the town so thoroughly that it still feels like a transplanted Greek village — complete with [Greek Orthodox churches](/northamerica/unitedstates/florida/tarpon_springs/saint_nicholas_greek_orthodox_cathedral), waterfront tavernas, and the smell of fresh-baked baklava drifting off Dodecanese Boulevard.

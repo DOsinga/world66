@@ -2,13 +2,19 @@
 latitude: 38.186944
 loc_type: city
 longitude: -76.434444
-snippet: Former Maryland capital preserved as an archaeology-rich living history site on the St. Marys River.
+snippet: Former Maryland capital preserved as an archaeology-rich living history site
+  on the St. Marys River.
 sources:
-  - https://en.wikivoyage.org/wiki/St._Mary%27s_City
-  - https://www.wikidata.org/wiki/Q2321360
-  - https://en.wikipedia.org/wiki/St._Mary%27s_City,_Maryland
+- https://en.wikivoyage.org/wiki/St._Mary%27s_City
+- https://www.wikidata.org/wiki/Q2321360
+- https://en.wikipedia.org/wiki/St._Mary%27s_City,_Maryland
 title: St. Mary's City
 type: location
+score: 4.886
+heritage: 6.283
+vibrancy: 2.927
+nature: 3.001
+off_the_beaten_track: 2.637
 ---
 
 St. Mary's City is not really a city now. It is the site of Maryland's first colonial capital, spread along the St. Marys River in southern Maryland, with a small college campus beside it and a large historic area where archaeologists have rebuilt pieces of the 17th-century settlement.

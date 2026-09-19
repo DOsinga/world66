@@ -5,7 +5,7 @@ loc_type: feature
 latitude: 55.133333
 longitude: 8.516667
 wikidata: Q21191
-score: 7.8
+score: 4.486
 snippet: Danish Wadden Sea island with vast drive-on beaches, whaling houses, and
   kite-filled skies.
 sources:
@@ -17,6 +17,10 @@ image: romo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:13-09-29-nordfriesisches-wattenmeer-RalfR-06.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Ralf Roletschek
+heritage: 2.421
+vibrancy: 1.831
+nature: 5.928
+off_the_beaten_track: 2.828
 ---
 
 Rømø is the southernmost of Denmark's Wadden Sea islands, tied to the mainland by a long causeway and facing the North Sea with an absurd amount of sand. The beaches are the reason most people come: hard, flat, and so wide that cars, horses, kites, beach sailors, and walkers can all seem lost in their own private weather system.

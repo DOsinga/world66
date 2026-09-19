@@ -2,7 +2,7 @@
 latitude: 32.3856
 loc_type: city
 longitude: -94.8686
-score: 6.2
+score: 1.656
 snippet: East Texas oil town whose downtown derricks recall the 1930s boom.
 sources:
 - https://en.wikivoyage.org/wiki/Kilgore
@@ -13,6 +13,10 @@ image: kilgore.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kilgore_May_2016_16_(Main_Street).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Michael Barera
+heritage: 1.814
+vibrancy: 1.608
+nature: 1.47
+off_the_beaten_track: 1.551
 ---
 
 Kilgore is an East Texas town in the pine woods south of Longview, best known for the East Texas Oil Field. The city still wears that history openly: downtown derricks, oil-boom stories, and the excellent [East Texas Oil Museum](/northamerica/unitedstates/texas/kilgore/east_texas_oil_museum) make the 1930s feel close.

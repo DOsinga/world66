@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Mauritius_23.08.2009_10-31
 latitude: -20.518724
 loc_type: city
 longitude: 57.522503
-score: 8.18
+score: 4.877
 snippet: South-coast Mauritian town near wave-battered basalt cliffs, Gris-Gris beach,
   and Rochester Falls.
 title: Souillac
 type: location
+heritage: 2.697
+vibrancy: 2.581
+nature: 6.313
+off_the_beaten_track: 3.914
 ---
 
 Souillac is a small town on the south coast, one of the rougher and more dramatic parts of the island. The sea here is exposed and often stormy — not ideal for swimming but striking to look at. Gris-Gris beach nearby has towering black basalt cliffs that get battered by waves; it's one of the most atmospheric spots on the island.

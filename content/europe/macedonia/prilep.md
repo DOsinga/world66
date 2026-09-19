@@ -2,7 +2,7 @@
 latitude: 41.3464
 loc_type: city
 longitude: 21.5542
-score: 6.7
+score: 4.567
 snippet: Pelagonia tobacco city below Marko's Towers, with granite hills, monasteries,
   and an Ottoman bazaar.
 sources:
@@ -16,6 +16,10 @@ image: prilep.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Old_wall_Prilep_P1016901mod.jpg
 image_license: CC BY-SA 4.0
 image_attribution: JYB Devot
+heritage: 4.188
+vibrancy: 2.748
+nature: 5.304
+off_the_beaten_track: 3.244
 ---
 
 Prilep sits in the Pelagonia plain of southern [Macedonia](/europe/macedonia), watched over by the broken medieval walls of [Marko's Towers](/europe/macedonia/prilep/markos_towers). The town is famous in North Macedonia for tobacco, marble, beer, and a stubborn local pride that comes partly from its dramatic granite landscape.

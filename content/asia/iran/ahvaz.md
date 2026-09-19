@@ -5,11 +5,15 @@ done:
 latitude: 31.323064
 loc_type: city
 longitude: 48.67932
-score: 5.19
+score: 3.609
 snippet: Industrial Khuzestan city on the Karun River, used as a base for ancient
   Elamite sites.
 title: Ahvaz
 type: location
+heritage: 3.049
+vibrancy: 3.849
+nature: 2.381
+off_the_beaten_track: 2.796
 ---
 
 Ahvaz is one of the least appealing cities in [Iran](/asia/iran). Located in Khuzestan province, it is mainly a commercial and industrial centre built around the Karun River, Iran's only navigable waterway. It was heavily bombed during the Iran–Iraq War and reconstruction has not made the place more attractive — summer temperatures regularly hit 50°C and dust storms are frequent.

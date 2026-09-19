@@ -2,7 +2,7 @@
 latitude: -34.3568
 loc_type: feature
 longitude: 18.4972
-score: 9.4
+score: 5.976
 snippet: Wind-blown nature reserve at the dramatic tip of the Cape Peninsula, with
   clifftop lighthouses, fynbos and roaming wildlife.
 sources:
@@ -13,6 +13,10 @@ image: cape_point.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cape_of_Good_Hope_from_Cape_Point.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Martinvl
+heritage: 3.739
+vibrancy: 2.164
+nature: 7.574
+off_the_beaten_track: 5.532
 ---
 
 Cape Point and the adjoining Cape of Good Hope are the weather-beaten tip of the Cape Peninsula, an hour and a half south of central [Cape Town](/africa/southafrica/capetown). Despite the legend, this is not the southernmost point of Africa — that honour belongs to Cape Agulhas, 150 km further east — but it is the dramatic southwestern corner of the continent, and one of the most photographed clifftop lighthouses anywhere in the world.

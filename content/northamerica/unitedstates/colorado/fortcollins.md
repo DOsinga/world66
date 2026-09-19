@@ -5,11 +5,15 @@ done:
 latitude: 40.587178
 loc_type: city
 longitude: -105.077011
-score: 7.38
+score: 5.23
 snippet: Colorado college town where Rocky Mountain foothills, craft breweries, and
   a walkable Old Town meet.
 title: Fort Collins
 type: location
+heritage: 2.646
+vibrancy: 4.458
+nature: 5.953
+off_the_beaten_track: 1.27
 ---
 
 Fort Collins sits where the plains meet the foothills of the Rocky Mountains, a college town with a disproportionate number of breweries. [Colorado State University](/northamerica/unitedstates/colorado/fortcollins/colorado_state_university) sets the pace, but it is the craft beer scene that put Fort Collins on the map — [New Belgium](/northamerica/unitedstates/colorado/fortcollins/new_belgium), [Odell](/northamerica/unitedstates/colorado/fortcollins/odell_brewing), and Horse & Dragon are all here, and you can spend a full day hopping between taprooms along the river.

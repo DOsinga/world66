@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Festung_am_Lago_Izabal,Gua
 latitude: 15.5
 loc_type: feature
 longitude: -89.1667
-score: 7.48
+score: 5.652
 snippet: Guatemala's largest lake, draining through the Río Dulce gorge and sheltering
   manatees, mangroves, and waterbirds.
 sources:
@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Castillo_de_San_Felipe_de_Lara
 title: Lake Izabal
 type: location
+heritage: 2.58
+vibrancy: 1.482
+nature: 7.214
+off_the_beaten_track: 5.068
 ---
 
 Lake Izabal is Guatemala's largest lake, a broad expanse of freshwater hemmed in by the Sierra de las Minas to the south and the Santa Cruz range to the north. The lake empties east through the [Río Dulce gorge](/northamerica/guatemala/lakeizabal/rio_dulce_gorge), one of the most dramatic stretches of waterway in Central America, before reaching the Caribbean at Livingston.

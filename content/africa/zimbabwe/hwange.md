@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Herd_of_elephants_in_the_H
 latitude: -18.735
 loc_type: feature
 longitude: 26.955
-score: 7.56
+score: 5.971
 snippet: Zimbabwe's largest national park, famous for huge elephant herds gathering
   at pumped dry-season waterholes.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://zimfieldguide.com/accommodation/hwange-national-park
 title: Hwange National Park
 type: location
+heritage: 1.192
+vibrancy: 1.178
+nature: 7.414
+off_the_beaten_track: 6.031
 ---
 
 Hwange National Park is Zimbabwe's largest and best-known wildlife reserve, stretching across nearly 15,000 square kilometres of Kalahari sand, teak woodland, mopane, fossil riverbeds, and open pans. It is close enough to [Victoria Falls](/africa/zimbabwe/victoriafalls) to be practical, but once you are inside the park the tourist town feels a long way away.

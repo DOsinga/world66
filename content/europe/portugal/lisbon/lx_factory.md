@@ -1,12 +1,12 @@
 ---
 title: LX Factory
 type: poi
-latitude: 38.7043
-longitude: -9.1737
+latitude: 38.7026
+longitude: -9.1787
 tags:
   - things_to_do
   - sight
-  - neighbourhood
+  - alcantara
 score: 7.0
 ---
 

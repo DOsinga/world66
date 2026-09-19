@@ -4,9 +4,13 @@ type: location
 loc_type: feature
 latitude: -15.37
 longitude: 35.34
-score: 7.55
+score: 6.074
 snippet: Cool highland plateau above Zomba, with forests, waterfalls, trout streams,
   and wide valley views.
+heritage: 2.14
+vibrancy: 1.712
+nature: 7.591
+off_the_beaten_track: 5.974
 ---
 
 The Zomba Plateau rises to over 2,000 metres above the town of Zomba in southern Malawi, a flat-topped massif of forest, streams, and waterfalls that provides a welcome escape from the heat of the lowlands below. The plateau is cooler by ten degrees than the surrounding plain, and the cedar and pine forests at the top hold trout streams, walking trails, and viewpoints looking out over Lake Malawi to the east and the Shire Valley to the west.

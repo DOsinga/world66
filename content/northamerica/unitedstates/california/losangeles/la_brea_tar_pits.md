@@ -11,6 +11,7 @@ snippet: Ice Age fossil site with bubbling asphalt on Miracle Mile
 tags:
 - things_to_do
 - sights
+- miracle_mile
 title: La Brea Tar Pits
 type: poi
 url: www.tarpits.org

@@ -5,7 +5,7 @@ done:
 latitude: 57.25
 loc_type: region
 longitude: 15.25
-score: 7.63
+score: 0.62
 snippet: Forested southern Swedish province known for glassworks, red cottages, and
   emigrant history.
 title: Småland

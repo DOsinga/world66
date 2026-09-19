@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Faro,_Puerto_de_la_Cruz,_T
 latitude: 28.4159
 loc_type: city
 longitude: -16.5533
-score: 8.76
+score: 5.256
 snippet: Northern Tenerife resort town with a Canarian old harbour below the Orotava
   valley and Mount Teide.
 title: Puerto de la Cruz
 type: location
+heritage: 2.851
+vibrancy: 4.016
+nature: 6.207
+off_the_beaten_track: 1.557
 ---
 
 Puerto de la Cruz is the main town on Tenerife's green northern coast, set at the foot of the Orotava valley with Mount Teide rising behind it. It has been attracting visitors since the 19th century and has a warmth and character that the purpose-built southern resorts lack. The [old harbour](/europe/spain/canaryislands/tenerife/puertodelacruz/old_harbour), the tree-lined streets around [Plaza del Charco](/europe/spain/canaryislands/tenerife/puertodelacruz/plaza_del_charco), and the [Lago Martiánez](/europe/spain/canaryislands/tenerife/puertodelacruz/lago_martinaz) lido designed by César Manrique give it a sense of place that feels genuinely Canarian rather than generically tourist.

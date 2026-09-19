@@ -9,7 +9,7 @@ tags:
 - things_to_do
 - sight
 - architecture
-- latin_quarter
+- ile_de_la_cite
 title: Sainte-Chapelle
 type: poi
 url: www.sainte-chapelle.fr

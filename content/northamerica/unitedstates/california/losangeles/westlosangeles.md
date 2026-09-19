@@ -5,10 +5,13 @@ latitude: 34.037
 longitude: -118.4298
 done:
   location_cleanup: 2026-04-06
-score: 0.44
 tags:
 - neighbourhood
 - things_to_do
+image: westlosangeles.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Japanese_Businesses_on_Sawtelle_north_of_Oympic.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Cbl62 (talk)
 ---
 
 West Los Angeles sits between the 405 freeway and [Santa Monica](/northamerica/unitedstates/california/santamonica), south of Westwood and the UCLA campus. It is one of those LA neighbourhoods that most visitors drive through without realising it is a destination in its own right. That is a mistake.

@@ -15,6 +15,11 @@ image: barmera.jpg
 image_source: https://commons.wikimedia.org/wiki/File:BarmeraLakeBonney.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Mattinbgn
+score: 3.881
+heritage: 2.417
+vibrancy: 1.472
+nature: 4.851
+off_the_beaten_track: 3.814
 ---
 
 Barmera is a small Riverland town that earns its page because it is not just another Murray service stop. Its centre faces [Lake Bonney](/australiaandpacific/australia/southaustralia/barmera/lake_bonney), a broad freshwater lake used for swimming, sailing, paddling, fishing, and sunset watching.

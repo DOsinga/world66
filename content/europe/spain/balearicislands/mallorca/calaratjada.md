@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Cala_Ratjad
 latitude: 39.710638
 loc_type: city
 longitude: 3.460213
-score: 8.51
+score: 4.419
 snippet: Northeastern Mallorca fishing port turned resort, with working boats and
   beaches around the Llevant peninsula.
 title: Cala Ratjada
 type: location
+heritage: 2.116
+vibrancy: 4.289
+nature: 4.756
+off_the_beaten_track: 1.828
 ---
 
 Cala Ratjada is a fishing-port-turned-resort at the northeastern tip of Mallorca, the part of the island that has changed least from its pre-tourism character. The small [harbour](/europe/spain/balearicislands/mallorca/calaratjada/harbour) still has working fishing boats alongside the pleasure craft, and the surrounding area has some of the best beaches on the island — [Cala Agulla](/europe/spain/balearicislands/mallorca/calaratjada/cala_agulla) to the north is a long arc of white sand backed by dunes and pine forest, and [Cala Mesquida](/europe/spain/balearicislands/mallorca/calaratjada/cala_mesquida) beyond it is wider and wilder. The rugged Llevant peninsula is within easy reach for walking and cycling.

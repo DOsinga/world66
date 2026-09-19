@@ -5,11 +5,15 @@ done:
 latitude: 34.5034
 loc_type: city
 longitude: -82.6501
-score: 5.97
+score: 3.168
 snippet: Blue Ridge foothills city nicknamed The Electric City for its early hydroelectric
   power.
 title: Anderson
 type: location
+heritage: 1.625
+vibrancy: 1.948
+nature: 3.969
+off_the_beaten_track: 2.014
 ---
 
 Anderson sits at the western edge of South Carolina, a small city in the foothills of the Blue Ridge Mountains that calls itself "The Electric City" — it was one of the first cities in the southeastern United States to have electricity, powered by a hydroelectric plant on the Rocky River in 1895. The [Anderson County Museum](/northamerica/unitedstates/southcarolina/anderson/electric_city_museum) tells this story alongside the broader history of the upstate region.

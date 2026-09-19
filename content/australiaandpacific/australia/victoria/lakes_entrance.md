@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -37.86
 longitude: 147.98
-score: 7.7
+score: 4.861
 snippet: East Gippsland seaside town where the Gippsland Lakes open through dunes
   to Ninety Mile Beach.
 sources:
@@ -15,6 +15,10 @@ image: lakes_entrance.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lakes_Entrance_(AU),_Cunningham_Quay_--_2019_--_1697.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Dietmar Rabich
+heritage: 1.862
+vibrancy: 3.26
+nature: 5.96
+off_the_beaten_track: 1.672
 ---
 
 Lakes Entrance is exactly named: the place where the Gippsland Lakes cut through the coastal dunes and meet the Southern Ocean. The town is a working fishing port and holiday base on the edge of Ninety Mile Beach, with jetties, pelicans, lake cruises, and surf all within a short walk.

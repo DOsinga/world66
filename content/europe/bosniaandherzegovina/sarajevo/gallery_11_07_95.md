@@ -1,15 +1,22 @@
 ---
-title: "Gallery 11/07/95"
-type: poi
 latitude: 43.8568
 longitude: 18.4248
-tags:
-  - things_to_do
-  - museum
-  - historic
-story: >
-  The gallery is named for its date of foundation: 11 July 1995, the day Serb forces under General Ratko Mladić entered Srebrenica and began the killing of more than 8,000 Bosniak men and boys — the worst mass atrocity in Europe since World War II.
 score: 8.1
+sources:
+- https://eternalarrival.com/sniper-tower-mostar-olympic-bobsled-sarajevo/
+story: 'The gallery is named for its date of foundation: 11 July 1995, the day Serb
+  forces under General Ratko Mladić entered Srebrenica and began the killing of more
+  than 8,000 Bosniak men and boys — the worst mass atrocity in Europe since World
+  War II.
+
+  '
+tags:
+- things_to_do
+- museum
+- historic
+- blogs_worth_reading_on_sarajevo
+title: Gallery 11/07/95
+type: poi
 ---
 
 Gallery 11/07/95 is Sarajevo's dedicated memorial to the Srebrenica genocide, housed in a street-level gallery near the old town. The exhibition consists primarily of large-format photographs from the aftermath — the exhumation of mass graves, the identification of remains, the faces of victims from before the war — accompanied by survivor testimonies and forensic documentation.

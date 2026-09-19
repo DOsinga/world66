@@ -1,0 +1,779 @@
+[
+  {
+    "embedding_text": "Reims, Champagne, France, Europe",
+    "lat": 49.257789,
+    "latitude": 49.257789,
+    "lng": 4.031926,
+    "longitude": 4.031926,
+    "name": "Reims",
+    "parent": "Europe, France, Champagne",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Champagne"
+    ],
+    "path": "europe/france/champagne/reims",
+    "url": "/europe/france/champagne/reims/"
+  },
+  {
+    "embedding_text": "Arcos de la Frontera, White Villages, Andalucia, Spain, Europe",
+    "lat": 36.7508,
+    "latitude": 36.7508,
+    "lng": -5.8106,
+    "longitude": -5.8106,
+    "name": "Arcos de la Frontera",
+    "parent": "Europe, Spain, Andalucia, White Villages",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Andalucia",
+      "White Villages"
+    ],
+    "path": "europe/spain/andalucia/whitevillages/arcos_de_la_frontera",
+    "url": "/europe/spain/andalucia/whitevillages/arcos_de_la_frontera/"
+  },
+  {
+    "embedding_text": "Zion National Park, Utah, United States, North America",
+    "lat": 37.2982,
+    "latitude": 37.2982,
+    "lng": -113.0263,
+    "longitude": -113.0263,
+    "name": "Zion National Park",
+    "parent": "North America, United States, Utah",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Utah"
+    ],
+    "path": "northamerica/unitedstates/utah/zion",
+    "url": "/northamerica/unitedstates/utah/zion/"
+  },
+  {
+    "embedding_text": "Mount Bromo, Java, Indonesia, Asia",
+    "lat": -7.9425,
+    "latitude": -7.9425,
+    "lng": 112.953,
+    "longitude": 112.953,
+    "name": "Mount Bromo",
+    "parent": "Asia, Indonesia, Java",
+    "parent_chain": [
+      "Asia",
+      "Indonesia",
+      "Java"
+    ],
+    "path": "asia/indonesia/java/mountbromo",
+    "url": "/asia/indonesia/java/mountbromo/"
+  },
+  {
+    "embedding_text": "Banamichi, Mexico, North America",
+    "lat": 30.0635,
+    "latitude": 30.0635,
+    "lng": -110.2985,
+    "longitude": -110.2985,
+    "name": "Banamichi",
+    "parent": "North America, Mexico",
+    "parent_chain": [
+      "North America",
+      "Mexico"
+    ],
+    "path": "northamerica/mexico/banamichi",
+    "url": "/northamerica/mexico/banamichi/"
+  },
+  {
+    "embedding_text": "Punkaharju, Finland, Europe",
+    "lat": 61.756102,
+    "latitude": 61.756102,
+    "lng": 29.389238,
+    "longitude": 29.389238,
+    "name": "Punkaharju",
+    "parent": "Europe, Finland",
+    "parent_chain": [
+      "Europe",
+      "Finland"
+    ],
+    "path": "europe/finland/punkaharju",
+    "url": "/europe/finland/punkaharju/"
+  },
+  {
+    "embedding_text": "Kandy, Sri Lanka, Asia",
+    "lat": 7.293121,
+    "latitude": 7.293121,
+    "lng": 80.635036,
+    "longitude": 80.635036,
+    "name": "Kandy",
+    "parent": "Asia, Sri Lanka",
+    "parent_chain": [
+      "Asia",
+      "Sri Lanka"
+    ],
+    "path": "asia/srilanka/kandy",
+    "url": "/asia/srilanka/kandy/"
+  },
+  {
+    "embedding_text": "Ilhabela, Brazil, South America",
+    "lat": -23.816628,
+    "latitude": -23.816628,
+    "lng": -45.368685,
+    "longitude": -45.368685,
+    "name": "Ilhabela",
+    "parent": "South America, Brazil",
+    "parent_chain": [
+      "South America",
+      "Brazil"
+    ],
+    "path": "southamerica/brazil/ilhabela",
+    "url": "/southamerica/brazil/ilhabela/"
+  },
+  {
+    "embedding_text": "Coca (Puerto Francisco de Orellana), Ecuador, South America",
+    "lat": -0.4504,
+    "latitude": -0.4504,
+    "lng": -76.9993,
+    "longitude": -76.9993,
+    "name": "Coca (Puerto Francisco de Orellana)",
+    "parent": "South America, Ecuador",
+    "parent_chain": [
+      "South America",
+      "Ecuador"
+    ],
+    "path": "southamerica/ecuador/coca_puerto_francisco_de_orellana",
+    "url": "/southamerica/ecuador/coca_puerto_francisco_de_orellana/"
+  },
+  {
+    "embedding_text": "Winter Park, Colorado, United States, North America",
+    "lat": 39.8917,
+    "latitude": 39.8917,
+    "lng": -105.7631,
+    "longitude": -105.7631,
+    "name": "Winter Park",
+    "parent": "North America, United States, Colorado",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Colorado"
+    ],
+    "path": "northamerica/unitedstates/colorado/winter_park",
+    "url": "/northamerica/unitedstates/colorado/winter_park/"
+  },
+  {
+    "embedding_text": "Canowindra, New South Wales, Australia, Australia, Pacific & Antarctica",
+    "lat": -33.5667,
+    "latitude": -33.5667,
+    "lng": 148.6667,
+    "longitude": 148.6667,
+    "name": "Canowindra",
+    "parent": "Australia, Pacific & Antarctica, Australia, New South Wales",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "New South Wales"
+    ],
+    "path": "australiaandpacific/australia/newsouthwales/canowindra",
+    "url": "/australiaandpacific/australia/newsouthwales/canowindra/"
+  },
+  {
+    "embedding_text": "Monticello, Utah, United States, North America",
+    "lat": 37.8722,
+    "latitude": 37.8722,
+    "lng": -109.3428,
+    "longitude": -109.3428,
+    "name": "Monticello",
+    "parent": "North America, United States, Utah",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Utah"
+    ],
+    "path": "northamerica/unitedstates/utah/monticello",
+    "url": "/northamerica/unitedstates/utah/monticello/"
+  },
+  {
+    "embedding_text": "Oban, Scotland, United Kingdom, Europe",
+    "lat": 56.412017,
+    "latitude": 56.412017,
+    "lng": -5.472373,
+    "longitude": -5.472373,
+    "name": "Oban",
+    "parent": "Europe, United Kingdom, Scotland",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Scotland"
+    ],
+    "path": "europe/unitedkingdom/scotland/oban",
+    "url": "/europe/unitedkingdom/scotland/oban/"
+  },
+  {
+    "embedding_text": "Thurnau, Bavaria, Germany, Europe",
+    "lat": 50.0244,
+    "latitude": 50.0244,
+    "lng": 11.3945,
+    "longitude": 11.3945,
+    "name": "Thurnau",
+    "parent": "Europe, Germany, Bavaria",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Bavaria"
+    ],
+    "path": "europe/germany/bavaria/thurnau",
+    "url": "/europe/germany/bavaria/thurnau/"
+  },
+  {
+    "embedding_text": "Chihuahua, Mexico, North America",
+    "lat": 28.6353,
+    "latitude": 28.6353,
+    "lng": -106.0889,
+    "longitude": -106.0889,
+    "name": "Chihuahua",
+    "parent": "North America, Mexico",
+    "parent_chain": [
+      "North America",
+      "Mexico"
+    ],
+    "path": "northamerica/mexico/chihuahua",
+    "url": "/northamerica/mexico/chihuahua/"
+  },
+  {
+    "embedding_text": "Derinkuyu, Cappadocia, Turkey, Asia",
+    "lat": 38.400309,
+    "latitude": 38.400309,
+    "lng": 34.699588,
+    "longitude": 34.699588,
+    "name": "Derinkuyu",
+    "parent": "Asia, Turkey, Cappadocia",
+    "parent_chain": [
+      "Asia",
+      "Turkey",
+      "Cappadocia"
+    ],
+    "path": "asia/turkey/cappadocia/derinkuyu",
+    "url": "/asia/turkey/cappadocia/derinkuyu/"
+  },
+  {
+    "embedding_text": "Ferghana Valley, Uzbekistan, Asia",
+    "lat": 40.85,
+    "latitude": 40.85,
+    "lng": 71.7,
+    "longitude": 71.7,
+    "name": "Ferghana Valley",
+    "parent": "Asia, Uzbekistan",
+    "parent_chain": [
+      "Asia",
+      "Uzbekistan"
+    ],
+    "path": "asia/uzbekistan/ferghanavalley",
+    "url": "/asia/uzbekistan/ferghanavalley/"
+  },
+  {
+    "embedding_text": "Alexandria, Virginia, United States, North America",
+    "lat": 38.8051,
+    "latitude": 38.8051,
+    "lng": -77.047,
+    "longitude": -77.047,
+    "name": "Alexandria",
+    "parent": "North America, United States, Virginia",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Virginia"
+    ],
+    "path": "northamerica/unitedstates/virginia/alexandria",
+    "url": "/northamerica/unitedstates/virginia/alexandria/"
+  },
+  {
+    "embedding_text": "Atlantic City, New Jersey, United States, North America",
+    "lat": 39.364285,
+    "latitude": 39.364285,
+    "lng": -74.422935,
+    "longitude": -74.422935,
+    "name": "Atlantic City",
+    "parent": "North America, United States, New Jersey",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "New Jersey"
+    ],
+    "path": "northamerica/unitedstates/newjersey/atlanticcity",
+    "url": "/northamerica/unitedstates/newjersey/atlanticcity/"
+  },
+  {
+    "embedding_text": "Goroka, Papua New Guinea, Asia",
+    "lat": -6.083333,
+    "latitude": -6.083333,
+    "lng": 145.383333,
+    "longitude": 145.383333,
+    "name": "Goroka",
+    "parent": "Asia, Papua New Guinea",
+    "parent_chain": [
+      "Asia",
+      "Papua New Guinea"
+    ],
+    "path": "asia/papuanewguinea/goroka",
+    "url": "/asia/papuanewguinea/goroka/"
+  },
+  {
+    "embedding_text": "Silverton, Colorado, United States, North America",
+    "lat": 37.8119,
+    "latitude": 37.8119,
+    "lng": -107.6645,
+    "longitude": -107.6645,
+    "name": "Silverton",
+    "parent": "North America, United States, Colorado",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Colorado"
+    ],
+    "path": "northamerica/unitedstates/colorado/silverton",
+    "url": "/northamerica/unitedstates/colorado/silverton/"
+  },
+  {
+    "embedding_text": "Aspen, Colorado, United States, North America",
+    "lat": 39.191113,
+    "latitude": 39.191113,
+    "lng": -106.82356,
+    "longitude": -106.82356,
+    "name": "Aspen",
+    "parent": "North America, United States, Colorado",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Colorado"
+    ],
+    "path": "northamerica/unitedstates/colorado/aspen",
+    "url": "/northamerica/unitedstates/colorado/aspen/"
+  },
+  {
+    "embedding_text": "Tiger Leaping Gorge, Yunnan Province, China, Asia",
+    "lat": 27.2359,
+    "latitude": 27.2359,
+    "lng": 100.1325,
+    "longitude": 100.1325,
+    "name": "Tiger Leaping Gorge",
+    "parent": "Asia, China, Yunnan Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Yunnan Province"
+    ],
+    "path": "asia/china/yunnanprovince/tiger_leaping_gorge",
+    "url": "/asia/china/yunnanprovince/tiger_leaping_gorge/"
+  },
+  {
+    "embedding_text": "Yuzhno-Sakhalinsk, Russia, Europe",
+    "lat": 46.9667,
+    "latitude": 46.9667,
+    "lng": 142.7333,
+    "longitude": 142.7333,
+    "name": "Yuzhno-Sakhalinsk",
+    "parent": "Europe, Russia",
+    "parent_chain": [
+      "Europe",
+      "Russia"
+    ],
+    "path": "europe/russia/yuzhno_sakhalinsk",
+    "url": "/europe/russia/yuzhno_sakhalinsk/"
+  },
+  {
+    "embedding_text": "Lanark, Scotland, United Kingdom, Europe",
+    "lat": 55.674903,
+    "latitude": 55.674903,
+    "lng": -3.777019,
+    "longitude": -3.777019,
+    "name": "Lanark",
+    "parent": "Europe, United Kingdom, Scotland",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Scotland"
+    ],
+    "path": "europe/unitedkingdom/scotland/lanark",
+    "url": "/europe/unitedkingdom/scotland/lanark/"
+  },
+  {
+    "embedding_text": "Vilsandi National Park, Estonia, Europe",
+    "lat": 58.383,
+    "latitude": 58.383,
+    "lng": 21.81,
+    "longitude": 21.81,
+    "name": "Vilsandi National Park",
+    "parent": "Europe, Estonia",
+    "parent_chain": [
+      "Europe",
+      "Estonia"
+    ],
+    "path": "europe/estonia/vilsandi_national_park",
+    "url": "/europe/estonia/vilsandi_national_park/"
+  },
+  {
+    "embedding_text": "Mandal, Norway, Europe",
+    "lat": 58.0274,
+    "latitude": 58.0274,
+    "lng": 7.4534,
+    "longitude": 7.4534,
+    "name": "Mandal",
+    "parent": "Europe, Norway",
+    "parent_chain": [
+      "Europe",
+      "Norway"
+    ],
+    "path": "europe/norway/mandal",
+    "url": "/europe/norway/mandal/"
+  },
+  {
+    "embedding_text": "Tarapoto, Peru, South America",
+    "lat": -6.48772,
+    "latitude": -6.48772,
+    "lng": -76.359871,
+    "longitude": -76.359871,
+    "name": "Tarapoto",
+    "parent": "South America, Peru",
+    "parent_chain": [
+      "South America",
+      "Peru"
+    ],
+    "path": "southamerica/peru/tarapoto",
+    "url": "/southamerica/peru/tarapoto/"
+  },
+  {
+    "embedding_text": "Gastonia, North Carolina, United States, North America",
+    "lat": 35.262265,
+    "latitude": 35.262265,
+    "lng": -81.183819,
+    "longitude": -81.183819,
+    "name": "Gastonia",
+    "parent": "North America, United States, North Carolina",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "North Carolina"
+    ],
+    "path": "northamerica/unitedstates/northcarolina/gastonia",
+    "url": "/northamerica/unitedstates/northcarolina/gastonia/"
+  },
+  {
+    "embedding_text": "Diano San Pietro, Liguria, Italy, Europe",
+    "lat": 43.931424,
+    "latitude": 43.931424,
+    "lng": 8.071651,
+    "longitude": 8.071651,
+    "name": "Diano San Pietro",
+    "parent": "Europe, Italy, Liguria",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Liguria"
+    ],
+    "path": "europe/italy/liguria/dianosanpietro",
+    "url": "/europe/italy/liguria/dianosanpietro/"
+  },
+  {
+    "embedding_text": "Andong, South Korea, Asia",
+    "lat": 36.5684,
+    "latitude": 36.5684,
+    "lng": 128.7294,
+    "longitude": 128.7294,
+    "name": "Andong",
+    "parent": "Asia, South Korea",
+    "parent_chain": [
+      "Asia",
+      "South Korea"
+    ],
+    "path": "asia/southkorea/andong",
+    "url": "/asia/southkorea/andong/"
+  },
+  {
+    "embedding_text": "Giethoorn, Netherlands, Europe",
+    "lat": 52.7411,
+    "latitude": 52.7411,
+    "lng": 6.0774,
+    "longitude": 6.0774,
+    "name": "Giethoorn",
+    "parent": "Europe, Netherlands",
+    "parent_chain": [
+      "Europe",
+      "Netherlands"
+    ],
+    "path": "europe/netherlands/giethoorn",
+    "url": "/europe/netherlands/giethoorn/"
+  },
+  {
+    "embedding_text": "Maracaibo, Venezuela, South America",
+    "lat": 10.649809,
+    "latitude": 10.649809,
+    "lng": -71.64436,
+    "longitude": -71.64436,
+    "name": "Maracaibo",
+    "parent": "South America, Venezuela",
+    "parent_chain": [
+      "South America",
+      "Venezuela"
+    ],
+    "path": "southamerica/venezuela/maracaibo",
+    "url": "/southamerica/venezuela/maracaibo/"
+  },
+  {
+    "embedding_text": "Xinchang, China, Asia",
+    "lat": 30.9075,
+    "latitude": 30.9075,
+    "lng": 121.6566,
+    "longitude": 121.6566,
+    "name": "Xinchang",
+    "parent": "Asia, China",
+    "parent_chain": [
+      "Asia",
+      "China"
+    ],
+    "path": "asia/china/xinchang",
+    "url": "/asia/china/xinchang/"
+  },
+  {
+    "embedding_text": "Eupen, Belgium, Europe",
+    "lat": 50.633,
+    "latitude": 50.633,
+    "lng": 6.033,
+    "longitude": 6.033,
+    "name": "Eupen",
+    "parent": "Europe, Belgium",
+    "parent_chain": [
+      "Europe",
+      "Belgium"
+    ],
+    "path": "europe/belgium/eupen",
+    "url": "/europe/belgium/eupen/"
+  },
+  {
+    "embedding_text": "Cadereyta, Mexico, North America",
+    "lat": 20.6949,
+    "latitude": 20.6949,
+    "lng": -99.8153,
+    "longitude": -99.8153,
+    "name": "Cadereyta",
+    "parent": "North America, Mexico",
+    "parent_chain": [
+      "North America",
+      "Mexico"
+    ],
+    "path": "northamerica/mexico/cadereyta",
+    "url": "/northamerica/mexico/cadereyta/"
+  },
+  {
+    "embedding_text": "Wakayama, Japan, Asia",
+    "lat": 34.2333,
+    "latitude": 34.2333,
+    "lng": 135.1667,
+    "longitude": 135.1667,
+    "name": "Wakayama",
+    "parent": "Asia, Japan",
+    "parent_chain": [
+      "Asia",
+      "Japan"
+    ],
+    "path": "asia/japan/wakayama",
+    "url": "/asia/japan/wakayama/"
+  },
+  {
+    "embedding_text": "Beauvais, \u00cele-de-France, France, Europe",
+    "lat": 49.4301,
+    "latitude": 49.4301,
+    "lng": 2.082336,
+    "longitude": 2.082336,
+    "name": "Beauvais",
+    "parent": "Europe, France, \u00cele-de-France",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "\u00cele-de-France"
+    ],
+    "path": "europe/france/ile_de_france/beauvais",
+    "url": "/europe/france/ile_de_france/beauvais/"
+  },
+  {
+    "embedding_text": "Mount Isa, Queensland, Australia, Australia, Pacific & Antarctica",
+    "lat": -20.7256,
+    "latitude": -20.7256,
+    "lng": 139.4927,
+    "longitude": 139.4927,
+    "name": "Mount Isa",
+    "parent": "Australia, Pacific & Antarctica, Australia, Queensland",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "Queensland"
+    ],
+    "path": "australiaandpacific/australia/queensland/mount_isa",
+    "url": "/australiaandpacific/australia/queensland/mount_isa/"
+  },
+  {
+    "embedding_text": "Naracoorte, South Australia, Australia, Australia, Pacific & Antarctica",
+    "lat": -36.9564,
+    "latitude": -36.9564,
+    "lng": 140.7419,
+    "longitude": 140.7419,
+    "name": "Naracoorte",
+    "parent": "Australia, Pacific & Antarctica, Australia, South Australia",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "South Australia"
+    ],
+    "path": "australiaandpacific/australia/southaustralia/naracoorte",
+    "url": "/australiaandpacific/australia/southaustralia/naracoorte/"
+  },
+  {
+    "embedding_text": "S\u00f8by, Denmark, Europe",
+    "lat": 54.9396,
+    "latitude": 54.9396,
+    "lng": 10.2562,
+    "longitude": 10.2562,
+    "name": "S\u00f8by",
+    "parent": "Europe, Denmark",
+    "parent_chain": [
+      "Europe",
+      "Denmark"
+    ],
+    "path": "europe/denmark/soby",
+    "url": "/europe/denmark/soby/"
+  },
+  {
+    "embedding_text": "Neuchatel, Switzerland, Europe",
+    "lat": 46.9896,
+    "latitude": 46.9896,
+    "lng": 6.9293,
+    "longitude": 6.9293,
+    "name": "Neuchatel",
+    "parent": "Europe, Switzerland",
+    "parent_chain": [
+      "Europe",
+      "Switzerland"
+    ],
+    "path": "europe/switzerland/neuchatel",
+    "url": "/europe/switzerland/neuchatel/"
+  },
+  {
+    "embedding_text": "Chiavari, Liguria, Italy, Europe",
+    "lat": 44.316449,
+    "latitude": 44.316449,
+    "lng": 9.323338,
+    "longitude": 9.323338,
+    "name": "Chiavari",
+    "parent": "Europe, Italy, Liguria",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Liguria"
+    ],
+    "path": "europe/italy/liguria/chiavari",
+    "url": "/europe/italy/liguria/chiavari/"
+  },
+  {
+    "embedding_text": "Schweinfurt, Bavaria, Germany, Europe",
+    "lat": 50.049932,
+    "latitude": 50.049932,
+    "lng": 10.233509,
+    "longitude": 10.233509,
+    "name": "Schweinfurt",
+    "parent": "Europe, Germany, Bavaria",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Bavaria"
+    ],
+    "path": "europe/germany/bavaria/schweinfurt",
+    "url": "/europe/germany/bavaria/schweinfurt/"
+  },
+  {
+    "embedding_text": "Longueuil, Qu\u00e9bec, Canada, North America",
+    "lat": 45.521906,
+    "latitude": 45.521906,
+    "lng": -73.464458,
+    "longitude": -73.464458,
+    "name": "Longueuil",
+    "parent": "North America, Canada, Qu\u00e9bec",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "Qu\u00e9bec"
+    ],
+    "path": "northamerica/canada/quebec/longueuil",
+    "url": "/northamerica/canada/quebec/longueuil/"
+  },
+  {
+    "embedding_text": "Yoro, Japan, Asia",
+    "lat": 35.3,
+    "latitude": 35.3,
+    "lng": 136.5667,
+    "longitude": 136.5667,
+    "name": "Yoro",
+    "parent": "Asia, Japan",
+    "parent_chain": [
+      "Asia",
+      "Japan"
+    ],
+    "path": "asia/japan/yoro",
+    "url": "/asia/japan/yoro/"
+  },
+  {
+    "embedding_text": "Zug, Switzerland, Europe",
+    "lat": 47.148614,
+    "latitude": 47.148614,
+    "lng": 8.553938,
+    "longitude": 8.553938,
+    "name": "Zug",
+    "parent": "Europe, Switzerland",
+    "parent_chain": [
+      "Europe",
+      "Switzerland"
+    ],
+    "path": "europe/switzerland/zug",
+    "url": "/europe/switzerland/zug/"
+  },
+  {
+    "embedding_text": "Arlington, Texas, United States, North America",
+    "lat": 32.7356,
+    "latitude": 32.7356,
+    "lng": -97.1071,
+    "longitude": -97.1071,
+    "name": "Arlington",
+    "parent": "North America, United States, Texas",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Texas"
+    ],
+    "path": "northamerica/unitedstates/texas/arlington",
+    "url": "/northamerica/unitedstates/texas/arlington/"
+  },
+  {
+    "embedding_text": "Nacogdoches, Texas, United States, North America",
+    "lat": 31.60361,
+    "latitude": 31.60361,
+    "lng": -94.65556,
+    "longitude": -94.65556,
+    "name": "Nacogdoches",
+    "parent": "North America, United States, Texas",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Texas"
+    ],
+    "path": "northamerica/unitedstates/texas/nacogdoches",
+    "url": "/northamerica/unitedstates/texas/nacogdoches/"
+  },
+  {
+    "embedding_text": "Dhulikhel, Nepal, Asia",
+    "lat": 27.6206,
+    "latitude": 27.6206,
+    "lng": 85.5561,
+    "longitude": 85.5561,
+    "name": "Dhulikhel",
+    "parent": "Asia, Nepal",
+    "parent_chain": [
+      "Asia",
+      "Nepal"
+    ],
+    "path": "asia/nepal/dhulikel",
+    "url": "/asia/nepal/dhulikel/"
+  }
+]

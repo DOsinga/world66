@@ -9,11 +9,15 @@ done:
 latitude: 29.7205
 loc_type: city
 longitude: -8.9745
-score: 7.9
+score: 6.187
 snippet: Anti-Atlas mountain town ringed by pink granite formations, palm groves,
   and Berber villages
 title: Tafraoute
 type: location
+heritage: 2.153
+vibrancy: 1.93
+nature: 7.676
+off_the_beaten_track: 6.273
 ---
 
 Tafraoute is a laid-back mountain town in Morocco's Anti-Atlas, east of Tiznit and southeast of Agadir. After hours of barren landscape, the cool air drifting up from the palm grove at the edge of town feels like a reward. The granite peaks and lunar rock formations surrounding the town are spectacular — pink and orange at sunset, otherworldly at any hour.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_San_Vicente,_E
 latitude: 13.6453
 loc_type: city
 longitude: -88.7842
-score: 6.36
+score: 4.456
 snippet: Central Salvadoran city below Chichontepec volcano, with a landmark clock
   tower and nearby crater lakes.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://elsalvador.travel/destination/apastepeque-lagoon/en/
 title: San Vicente
 type: location
+heritage: 3.503
+vibrancy: 3.154
+nature: 5.383
+off_the_beaten_track: 3.946
 ---
 
 San Vicente is a central Salvadoran city that most travellers pass on the highway without stopping. That is a shame, because it has one of the country's most distinctive town centres: the white [Torre Vicentina](/northamerica/elsalvador/sanvicente/torre_vicentina) standing beside the cathedral, with [Volcán San Vicente](/northamerica/elsalvador/sanvicente/volcan_san_vicente) rising to the south.

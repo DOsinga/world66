@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 40.35
 longitude: 30.0167
-score: 6.3
+score: 4.587
 snippet: Sakarya River town with Ottoman houses, Greek church ruins, and a preserved
   backwater feel.
 wikidata: Q736759
@@ -15,6 +15,10 @@ image: osmaneli.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Osmaneli_evler_1.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Unknown
+heritage: 5.352
+vibrancy: 3.136
+nature: 4.309
+off_the_beaten_track: 3.381
 ---
 
 Osmaneli sits in the Sakarya River valley between Bilecik and Iznik, a small town that became more interesting because modern traffic passed it by. It was once called Lefke and had a large Greek population; silk, river agriculture, and the old road toward Istanbul shaped the place before rail and highways shifted elsewhere.

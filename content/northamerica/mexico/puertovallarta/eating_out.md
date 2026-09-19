@@ -11,7 +11,7 @@ Puerto Vallarta holds a gourmet festival yearly (http://www.festivalgourmet.com/
 **Contributors**
 September 18, 2006
 
-### [Miquel Angels](/northamerica/mexico/puertovallarta/eating_out/miquel_angels)
+### [Miquel Angels](/northamerica/mexico/puertovallarta/miquel_angels)
 
 Just north of Puerto Vallarta is a small town named Bucerias. In this town we had a most amazing meal and experience. The restaurant of Miquel Angels is a rare gem, with the owner Miquel as your host, and his wife in the kitchen we experienced a meal of a lifetime.
 
@@ -21,7 +21,7 @@ type: International
 
 
 
-[[rate it]](/northamerica/mexico/puertovallarta/eating_out/miquel_angels)
+[[rate it]](/northamerica/mexico/puertovallarta/miquel_angels)
 
 accessibility: taxi.
 

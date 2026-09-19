@@ -2,12 +2,17 @@
 latitude: 35.5431
 loc_type: city
 longitude: -100.9647
-score: 0.31
-snippet: High Plains oil-and-ranch town with Woody Guthrie roots and Texas Panhandle museums.
+score: 2.14
+snippet: High Plains oil-and-ranch town with Woody Guthrie roots and Texas Panhandle
+  museums.
 sources:
-  - https://en.wikivoyage.org/wiki/Pampa
+- https://en.wikivoyage.org/wiki/Pampa
 title: Pampa
 type: location
+heritage: 2.309
+vibrancy: 1.644
+nature: 2.339
+off_the_beaten_track: 2.824
 ---
 
 Pampa sits in the open ranch country of the Texas Panhandle, about an hour northeast of [Amarillo](/northamerica/unitedstates/texas/amarillo). It is not a polished tourist town, and that is part of the point: the grain elevators, oil-field roads, and wind-scoured streets feel very much like the High Plains.

@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Julian_Californien.JPG
 latitude: 33.073963
 loc_type: city
 longitude: -116.587846
-score: 7.42
+score: 5.028
 snippet: Cuyamaca Mountains gold-rush town east of San Diego, known for wooden storefronts
   and apple pie.
 sources:
 - https://en.wikipedia.org/wiki/Julian,_California
 title: Julian
 type: location
+heritage: 4.187
+vibrancy: 2.927
+nature: 6.018
+off_the_beaten_track: 3.425
 ---
 
 Julian is a small gold-rush town in the Cuyamaca Mountains east of [San Diego](/northamerica/unitedstates/california/sandiego), sitting at about 1,250 metres. Gold was discovered here in 1870 by Fred Coleman, a formerly enslaved man who spotted colour in a creek, and the town's Main Street still has the look of a 19th-century mining settlement — wooden storefronts, a one-room schoolhouse, and the [Eagle and High Peak Mine](/northamerica/unitedstates/california/julian/eagle_mine), which offers underground tours.

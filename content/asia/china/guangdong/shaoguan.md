@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:39002-Danxiashan_(48989060
 latitude: 24.8011
 loc_type: city
 longitude: 113.5927
-score: 6.43
+score: 3.355
 snippet: Northern Guangdong city serving Danxiashan's red cliffs, cooler air, and
   the Nanling mountains.
 sources:
 - https://en.wikivoyage.org/wiki/Shaoguan
 title: Shaoguan
 type: location
+heritage: 3.447
+vibrancy: 3.346
+nature: 2.892
+off_the_beaten_track: 2.333
 ---
 
 Shaoguan sits at the northern edge of Guangdong, where the province bumps up against the Nanling mountains and the air is noticeably cooler than the Pearl River Delta. The city itself is unremarkable, but it serves as the base for two of the most interesting natural sites in southern China. The first is [Danxiashan](/asia/china/guangdong/shaoguan/danxiashan), a UNESCO World Natural Heritage site about an hour away by bus, where millions of years of red sandstone deposition and erosion have produced a landscape of towers, cliffs, and canyon slots the colour of dried blood — the defining example of what geologists call danxia landform. The second is the [Nanling National Forest Park](/asia/china/guangdong/shaoguan/nanling_national_forest_park), which contains the only remaining primary forest in Guangdong and the province's highest peak, Shikengkong, at 1,902 metres.

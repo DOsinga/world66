@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Minneapolis_City_Hall_and_
 latitude: 44.9773
 loc_type: city
 longitude: -93.2655
-score: 7.8
+score: 5.715
 snippet: Mississippi River city of lakes, parks, and serious culture, with neighbourhood
   life threaded through green space.
 title: Minneapolis
 type: location
+heritage: 4.849
+vibrancy: 5.719
+nature: 5.703
+off_the_beaten_track: 1.026
 ---
 
 Minneapolis is a city that punches well above its weight in culture, food, and green space. It sits on both banks of the Mississippi River, connected by a network of parks and lakes that would make most American cities jealous. The Chain of Lakes — Cedar, Isles, [Bde Maka Ska](/northamerica/unitedstates/minnesota/minneapolis/bde_maka_ska), and [Lake Harriet](/northamerica/unitedstates/minnesota/minneapolis/lake_harriet) — threads through the western neighbourhoods, drawing runners, cyclists, and swimmers year-round. In winter, the lakes freeze and the city doesn't slow down.

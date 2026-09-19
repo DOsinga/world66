@@ -10,11 +10,15 @@ image_source: https://www.flickr.com/photos/79721788@N00/6556996125
 latitude: 35.557727
 loc_type: city
 longitude: 45.432802
-score: 6.31
+score: 4.405
 snippet: Kurdish cultural city with museums, poetry, and mountain-framed streets distinct
   from neighbouring Erbil.
 title: Sulaymaniyah
 type: location
+heritage: 4.969
+vibrancy: 1.946
+nature: 2.019
+off_the_beaten_track: 6.41
 ---
 
 Sulaymaniyah (also spelled Sulaimaniyah, or "Slemani" in Kurdish) is the second city of the Kurdistan Region, with a population of around 800,000. It has a different character from Erbil — more cosmopolitan in some ways, with a strong cultural and intellectual tradition, a lively arts scene, and a reputation as the most liberal city in Kurdistan.

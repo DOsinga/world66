@@ -10,4 +10,4 @@ score: 7.9
 
 The National Museum of Šumadija is the principal city museum and the best place to put Kragujevac's outsized role in 19th-century Serbian history into context. The collections cover prehistoric and Roman archaeology from the surrounding region, the period when Kragujevac was the first capital of modern Serbia, the development of the Zastava arms and car industries, and the events of both world wars.
 
-The museum is housed in several buildings in the old court complex, including the [Amidža Konak](/europe/serbiaandmontenegro/kragujevac/amidza_konak). Allow about an hour and a half across all the buildings. Information panels are in Serbian, with some English summaries.
+The museum is housed in several buildings in the old court complex, including the [Amidža Konak](/europe/serbia/kragujevac/amidza_konak). Allow about an hour and a half across all the buildings. Information panels are in Serbian, with some English summaries.

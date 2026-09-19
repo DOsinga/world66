@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 24.804722
 longitude: 120.971389
-score: 7.35
-snippet: Windy northern Taiwanese city with Qing-era temples, glass craft, and wooded hills.
+score: 4.999
+snippet: Windy northern Taiwanese city with Qing-era temples, glass craft, and wooded
+  hills.
 sources:
 - https://en.wikivoyage.org/wiki/Hsinchu
 - https://en.wikipedia.org/wiki/Hsinchu
+heritage: 4.364
+vibrancy: 4.945
+nature: 5.138
+off_the_beaten_track: 1.65
 ---
 
 Hsinchu is one of northern [Taiwan](/asia/taiwan)'s oldest cities, a windy, prosperous place halfway between [Taipei](/asia/taiwan/taipei) and Taichung. It is best known today for the science park that anchors Taiwan's semiconductor industry, but the centre still has older layers: Qing temples, a surviving city gate, Japanese-era civic buildings, and food stalls packed around the City God Temple.

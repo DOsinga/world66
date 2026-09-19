@@ -1,19 +1,18 @@
 ---
+image: karen_blixen_museum.jpg
+image_attribution: Alexander Leisser
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Karen_blixen_museum_in_nairobi_kenya_01.jpg
 latitude: -1.3619
 longitude: 36.7129
+neighbourhood: Karen
+score: 8.0
 snippet: The Out of Africa farmhouse, preserved since the 1930s
 tags:
 - things_to_do
-- day_trips
 - karen
-neighbourhood: Karen
 title: Karen Blixen Museum
 type: poi
-score: 8.0
-image: karen_blixen_museum.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Karen_blixen_museum_in_nairobi_kenya_01.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Alexander Leisser
 ---
 
 The Karen Blixen Museum is the farmhouse where the Danish writer lived from 1917 to 1931, when she ran a coffee farm on the slopes of the Ngong Hills. Her account of those years, *Out of Africa*, was published in 1937 and later adapted into a 1985 film starring Meryl Streep. The house is preserved largely as it was when she left Kenya, and the Ngong Hills are visible from the gardens.

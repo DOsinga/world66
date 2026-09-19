@@ -16,7 +16,11 @@ sources:
 - https://whc.unesco.org/en/list/1060/
 title: Lake Bogoria National Reserve
 type: location
-score: 7.6
+score: 6.047
+heritage: 2.902
+vibrancy: 2.697
+nature: 7.98
+off_the_beaten_track: 4.563
 ---
 
 Lake Bogoria National Reserve is one of Kenya's strangest Rift Valley landscapes: a narrow alkaline lake under steep escarpments, with steam rising from hot springs along the shore and flamingos massing in pink bands when the feeding conditions are right. It feels rawer and less packaged than Lake Nakuru, which is part of the appeal.

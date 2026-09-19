@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 42.4128
 longitude: 141.1067
-score: 7.55
-snippet: Hokkaido hot-spring city known for sulfur vents, forest footbaths, and theatrical onsen scenery.
+score: 4.993
+snippet: Hokkaido hot-spring city known for sulfur vents, forest footbaths, and theatrical
+  onsen scenery.
 wikidata: Q428989
 sources:
-  - https://en.wikivoyage.org/wiki/Noboribetsu
-  - https://www.japan.travel/en/spot/1908/
-  - https://www.visit-hokkaido.jp/en/spa/spot/detail_10614.html
+- https://en.wikivoyage.org/wiki/Noboribetsu
+- https://www.japan.travel/en/spot/1908/
+- https://www.visit-hokkaido.jp/en/spa/spot/detail_10614.html
+heritage: 2.777
+vibrancy: 3.786
+nature: 5.909
+off_the_beaten_track: 2.456
 ---
 
 Noboribetsu is one of Hokkaido's great onsen towns, though the useful travel centre is not the coastal station but Noboribetsu Onsen in the hills above it. The valley steams, smells of sulfur, and feels more volcanic than polished.

@@ -7,7 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
-  - baixa
+  - alfama
 story: >
   The Casa dos Bicos was built around 1523 by Brás de Albuquerque, son of
   Afonso de Albuquerque — the governor who established Portuguese power in

@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Haibowan,_Wuhai,_Inner_Mon
 latitude: 39.6708
 loc_type: city
 longitude: 106.8114
-score: 5.63
+score: 4.55
 snippet: Inner Mongolian desert city where the Yellow River cuts through Gobi-edge
   vineyards and reservoir scenery
 sources:
 - https://en.wikivoyage.org/wiki/Wuhai
 title: Wuhai
 type: location
+heritage: 4.064
+vibrancy: 3.039
+nature: 5.33
+off_the_beaten_track: 4.942
 ---
 
 Wuhai sits in the far west of Inner Mongolia, squeezed between the Gobi Desert and the Yellow River in a landscape that looks nothing like the grasslands that define the region's reputation. The city is small by Chinese standards — a quarter of a million people across three districts connected by the Yellow River Road Bridge — and rarely visited by foreign travellers, which is part of its appeal. It is a place where the desert and the river create genuinely unusual scenery, and where wine grapes apparently thrive in the intense solar radiation of the high-altitude desert.

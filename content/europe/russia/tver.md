@@ -4,7 +4,7 @@ done:
 latitude: 56.8625
 loc_type: city
 longitude: 35.9242
-score: 7.11
+score: 3.685
 snippet: Historic Volga city between Moscow and St Petersburg, with imperial palaces
   and river embankments.
 sources:
@@ -12,6 +12,10 @@ sources:
 - https://russiatrek.org/tver-city
 title: Tver
 type: location
+heritage: 4.375
+vibrancy: 2.656
+nature: 3.289
+off_the_beaten_track: 2.973
 ---
 
 Tver sits on the upper Volga between [Moscow](/europe/russia/moscow) and [St. Petersburg](/europe/russia/stpetersburg), close enough to both to be overlooked and old enough to resent that fact. In the medieval period it was a serious rival to Moscow; later it became a planned imperial stop on the road between the two capitals. The result is a city with broad classical streets, river views, and a quieter provincial confidence.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bad-Schwartau_Brunnen_Im-S
 latitude: 53.919643
 loc_type: city
 longitude: 10.697869
-score: 6.15
+score: 3.721
 snippet: Small spa town north of Lübeck, known for iodine-saline springs and Schwartau
   jam production.
 title: Bad Schwartau
 type: location
+heritage: 3.981
+vibrancy: 2.284
+nature: 4.08
+off_the_beaten_track: 1.5
 ---
 
 Bad Schwartau is a small spa town just north of [Lübeck](/europe/germany/schleswigholstein/lubeck), on the river Schwartau where it bends toward the Bay of Lübeck. The "Bad" prefix marks it as a recognised health resort: there is an iodine-saline spring and the [Sole-Therme](/europe/germany/schleswigholstein/badschwartau/sole_therme) spa, along with the [Kurpark](/europe/germany/schleswigholstein/badschwartau/kurpark) with its Wandelhalle and Kneipp pools.

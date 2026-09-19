@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:00_3266_Stavanger_-_Norweg
 latitude: 58.969968
 loc_type: city
 longitude: 5.73181
-score: 8.59
+score: 5.695
 snippet: Southern Norwegian oil city where white timber lanes overlook a modern North
   Sea energy capital.
 title: Stavanger
 type: location
+heritage: 3.066
+vibrancy: 4.412
+nature: 6.695
+off_the_beaten_track: 2.657
 ---
 
 Stavanger is a charming southern Norwegian city and an exciting mix of old and new. Its proximity to the North Sea oil fields has made it the fast-growing and wealthy oil capital of Norway. But its narrow lanes and white timber houses are all in well-preserved traditional style. It is a modern city with a wide variety of shops, cafes and restaurants — contrast characterises this city, the people who live there, the surrounding landscape, and the weather.
@@ -23,4 +27,4 @@ Stavanger is Norway's fourth largest city. A city charter was obtained in 1125 w
 
 The [Norwegian Canning Museum](/europe/norway/stavanger/canning_museum) is the only one of its kind in the world, housed in a genuine 1916 sardine cannery. The [Norwegian Petroleum Museum](/europe/norway/stavanger/norwegian_petroleum_museum) makes an honest and engaging case for the oil era that transformed the country. Elsewhere, [Ledaal](/europe/norway/stavanger/ledaal) manor house and the [Stavanger Museum](/europe/norway/stavanger/stavanger_museum) cover the city's older history.
 
-The surrounding landscape is spectacular. [Pulpit Rock (Preikestolen)](/europe/norway/stavanger/pulpit_rock) — a flat-topped cliff rising 604 metres sheer above Lysefjorden — is one of the great walks in Norway. Seven kilometres southwest of the city, three giant bronze [Swords in Rock](/europe/norway/stavanger/sverd_i_fjell) mark the site of the 872 AD battle that united Norway under Harald Fairhair. The bars and cafes of [Øvre Holmegate](/europe/norway/stavanger/ovre_holmegate) — the brightly painted Colour Street — are the liveliest place to spend an evening.
+The surrounding landscape is spectacular. [Lysefjord](/europe/norway/lysefjord), with Pulpit Rock and Kjeragbolten, is the obvious day trip and one of the best reasons to base yourself here. Seven kilometres southwest of the city, three giant bronze [Swords in Rock](/europe/norway/stavanger/sverd_i_fjell) mark the site of the 872 AD battle that united Norway under Harald Fairhair. The bars and cafes of [Øvre Holmegate](/europe/norway/stavanger/ovre_holmegate) — the brightly painted Colour Street — are the liveliest place to spend an evening.

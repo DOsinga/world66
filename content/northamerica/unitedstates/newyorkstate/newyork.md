@@ -17,7 +17,7 @@ quick_facts:
   Pizza Principle: A slice ≈ a subway fare
   Population: 8.3 million
   Subway: 472 stations, 24/7
-score: 9.89
+score: 9.321
 snippet: Vast five-borough city of museums, theaters, immigrant neighborhoods, and
   restless street life beside the Hudson.
 tip: 'Glance at Times Square once, then avoid it like locals do. Get OMNY/contactless
@@ -26,6 +26,10 @@ tip: 'Glance at Times Square once, then avoid it like locals do. Get OMNY/contac
   for nothing. Tip 18–20% on every restaurant bill; it''s not optional here.'
 title: New York
 type: location
+heritage: 7.717
+vibrancy: 10.0
+nature: 5.179
+off_the_beaten_track: 2.178
 ---
 
 New York City is five boroughs, eight million people, and an argument that has never quite been settled. It is overwhelming in the best possible way: dense, loud, expensive, and unlike anywhere else. You can spend weeks here and still feel like you've barely scratched the surface, which is partly the point.

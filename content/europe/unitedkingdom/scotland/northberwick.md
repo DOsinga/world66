@@ -13,7 +13,11 @@ title: North Berwick
 snippet: East Lothian seaside town facing Bass Rock, with beaches, harbour boats,
   and seabird watching near Edinburgh.
 type: location
-score: 8.0
+score: 4.789
+heritage: 3.296
+vibrancy: 3.24
+nature: 5.858
+off_the_beaten_track: 2.201
 ---
 
 North Berwick is a small seaside town on the East Lothian coast of Scotland, about 40 km east of Edinburgh and easily reached by train in under an hour. It has an excellent beach, a compact and pleasant town centre, and the [Bass Rock](/europe/unitedkingdom/scotland/northberwick/bass_rock) offshore — a massive volcanic plug that holds one of the largest gannet colonies in the world, with over 150,000 birds visible from the shore and reachable by boat in summer.

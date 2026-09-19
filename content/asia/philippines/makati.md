@@ -5,11 +5,15 @@ done:
 latitude: 14.5568
 loc_type: city
 longitude: 121.0211
-score: 6.81
+score: 5.662
 snippet: Metro Manila business district of glass towers, walkable malls, and Poblacion
   nightlife.
 title: Makati
 type: location
+heritage: 4.917
+vibrancy: 5.987
+nature: 2.58
+off_the_beaten_track: 0.93
 ---
 
 Makati is the financial heart of Metro Manila, a dense grid of glass towers, upscale shopping malls, and some of the best restaurants in the [Philippines](/asia/philippines). If Manila can feel chaotic and overwhelming, Makati is the part that works — the streets in the central business district are relatively clean, the pavements walkable, and the infrastructure noticeably better than in much of the capital.

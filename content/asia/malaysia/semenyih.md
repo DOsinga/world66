@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 2.9472
 longitude: 101.8458
-score: 0.42
-snippet: Edge-of-KL Selangor town where breakfast crowds give way to Broga hills and forest streams.
+score: 3.987
+snippet: Edge-of-KL Selangor town where breakfast crowds give way to Broga hills and
+  forest streams.
 sources:
-  - https://en.wikivoyage.org/wiki/Semenyih
-  - https://en.wikipedia.org/wiki/Semenyih
+- https://en.wikivoyage.org/wiki/Semenyih
+- https://en.wikipedia.org/wiki/Semenyih
+heritage: 2.052
+vibrancy: 2.357
+nature: 5.041
+off_the_beaten_track: 2.261
 ---
 
 Semenyih sits southeast of Kuala Lumpur, close enough to feel suburban on a weekday and far enough out to be useful when the city has worn you down. The town itself is busy rather than pretty, but the hills and forest east of it make a good, low-effort escape from KL.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Duisburg,_Landschaftspark_
 latitude: 51.434999
 loc_type: city
 longitude: 6.759562
-score: 6.01
+score: 4.585
 sources:
 - https://en.wikipedia.org/wiki/Duisburg
 - https://en.wikipedia.org/wiki/Landschaftspark_Duisburg-Nord
@@ -18,6 +18,10 @@ title: Duisburg
 snippet: Ruhr city at the Rhine-Ruhr confluence, known for turning industrial sites
   into public spaces.
 type: location
+heritage: 3.015
+vibrancy: 5.216
+nature: 2.016
+off_the_beaten_track: 1.012
 ---
 
 Duisburg is a Ruhr city that has reinvented its industrial heritage more creatively than most. The standout is [Landschaftspark Duisburg-Nord](/europe/germany/northrhinewestphalia/duisburg/landschaftspark), a former ironworks and blast furnace complex converted into a public park. By day you can climb the ore bunkers and walk through the industrial ruins; by night the whole site is lit up with coloured lights by artist Jonathan Park. The old gasometer has been turned into a diving centre, and rock climbers scale the concrete walls of the ore storage bunkers.

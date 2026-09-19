@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bah%C3%ADa_de_Spinola,_San
 latitude: 35.919922
 loc_type: city
 longitude: 14.487712
-score: 8.37
+score: 5.436
 snippet: Maltese waterfront town where Spinola Bay, Paceville nightlife, and rocky
   swimming spots sit close together.
 title: St Julian's
 type: location
+heritage: 5.416
+vibrancy: 5.373
+nature: 5.599
+off_the_beaten_track: 1.473
 ---
 
 St Julian's (San Ġiljan) is Malta's nightlife capital. During the day the waterfront around [Spinola Bay](/europe/malta/stjulian/spinola_bay) is pleasant enough — fishermen's luzzu boats bob in the harbour, and there are good spots for lunch — but it is after dark that the place comes alive. [Paceville](/europe/malta/stjulian/paceville), the compact entertainment district, is where most of Malta goes out on a Friday and Saturday night: clubs, bars, restaurants and fast food packed into a few blocks.

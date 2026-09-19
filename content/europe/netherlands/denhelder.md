@@ -11,14 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:2_IC_in_Den_Helder_Station
 latitude: 52.952989
 loc_type: city
 longitude: 4.826759
-score: 6.91
+score: 4.748
 snippet: Northern Dutch navy city at the Wadden Sea, serving maritime museums and
   the ferry to Texel.
 title: Den Helder
 type: location
+heritage: 2.933
+vibrancy: 2.891
+nature: 5.962
+off_the_beaten_track: 2.465
 ---
 
-Den Helder is the northernmost city on the Dutch mainland, sitting at the tip of the North Holland peninsula where the North Sea meets the Wadden Sea. It is best known as a navy town -- the Royal Netherlands Navy has been based here since the early nineteenth century -- and as the departure point for the [Texel ferry](/europe/netherlands/denhelder/texel_ferry) to the island of [Texel](/europe/netherlands/waddenislands/texel_island), one of the most popular of the Wadden Islands.
+Den Helder is the northernmost city on the Dutch mainland, sitting at the tip of the North Holland peninsula where the North Sea meets the Wadden Sea. It is best known as a navy town -- the Royal Netherlands Navy has been based here since the early nineteenth century -- and as the departure point for the [Texel ferry](/europe/netherlands/denhelder/texel_ferry) to the island of [Texel](/europe/netherlands/texel_island), one of the most popular of the Wadden Islands.
 
 The [Marinemuseum](/europe/netherlands/denhelder/marinemuseum), set in the historic [Willemsoord](/europe/netherlands/denhelder/willemsoord) naval dockyard, is the main attraction and one of the best maritime museums in the Netherlands. You can board a submarine, walk around the minesweeper [HNLMS Abraham Crijnssen](/europe/netherlands/denhelder/hnlms_abraham_crijnssen) — famous for disguising itself as a tropical island to escape the Japanese in 1942 — and examine the 1860s ironclad [HNLMS Schorpioen](/europe/netherlands/denhelder/hnlms_schorpioen), the oldest surviving Dutch warship. The [Fort Kijkduin](/europe/netherlands/denhelder/fort_kijkduin) complex, a Napoleonic-era fortification, and the nearby [Lange Jaap](/europe/netherlands/denhelder/lange_jaap) lighthouse together make for a good coastal walk.
 

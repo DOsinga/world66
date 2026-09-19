@@ -5,7 +5,7 @@ loc_type: city
 latitude: 48.4167
 longitude: -71.0667
 wikidata: Q139229
-score: 7.0
+score: 5.198
 snippet: Large Quebec fjord city mixing pulp-mill history, aluminum heritage, and
   easy river excursions.
 sources:
@@ -18,6 +18,10 @@ image: saguenay.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cap_Trinit%C3%A9,_Saguenay_(Qu%C3%A9bec).jpg
 image_license: Public domain
 image_attribution: Unknown author
+heritage: 4.343
+vibrancy: 3.008
+nature: 6.216
+off_the_beaten_track: 4.127
 ---
 
 Saguenay is the main city of the Saguenay-Lac-Saint-Jean region, formed from Chicoutimi, Jonquiere, La Baie, and several smaller communities along the Saguenay River. It is not a postcard town; it is a spread-out northern Quebec city with working districts, hydroelectric history, and a dramatic fjord close enough to shape the way the place feels.

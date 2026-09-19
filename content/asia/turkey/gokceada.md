@@ -4,9 +4,15 @@ type: location
 loc_type: feature
 latitude: 40.160833
 longitude: 25.844444
-snippet: Windswept Aegean island with old Greek villages, empty coves, and Turkey's westernmost point.
+snippet: Windswept Aegean island with old Greek villages, empty coves, and Turkey's
+  westernmost point.
 sources:
-  - https://en.wikivoyage.org/wiki/G%C3%B6k%C3%A7eada
+- https://en.wikivoyage.org/wiki/G%C3%B6k%C3%A7eada
+score: 4.998
+heritage: 4.84
+vibrancy: 3.838
+nature: 5.696
+off_the_beaten_track: 3.978
 ---
 
 Gokceada is Turkey's largest island, set in the northern Aegean near the mouth of the Dardanelles. It is not a polished resort island. The roads cross dry hills, the wind is part of daily life, and the best villages sit inland or on ridges where Greek-speaking islanders once kept away from pirates and winter storms.

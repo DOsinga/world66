@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ocean_Shores_clam_digging.
 latitude: 46.973703
 loc_type: city
 longitude: -124.156277
-score: 6.79
+score: 5.278
 snippet: Washington coast resort town on a sandy peninsula, known for wide Pacific
   beaches and moody dune-backed weather
 title: Ocean Shores
 type: location
+heritage: 1.702
+vibrancy: 2.888
+nature: 6.786
+off_the_beaten_track: 2.065
 ---
 
 Ocean Shores is a small resort community on a sandy peninsula between Grays Harbor and the Pacific Ocean, on Washington's central coast. The beaches here are wide and dramatic — miles of flat sand backed by dunes, with the kind of moody Pacific weather that makes the Washington coast distinctive.

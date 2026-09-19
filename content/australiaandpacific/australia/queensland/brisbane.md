@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Brisbane_CBD_seen_from_Kan
 latitude: -27.465991
 loc_type: city
 longitude: 153.020563
-score: 8.29
+score: 6.755
 title: Brisbane
 snippet: Subtropical Queensland capital built along looping bends of the Brisbane
   River near Moreton Bay.
 type: location
+heritage: 5.358
+vibrancy: 6.219
+nature: 7.465
+off_the_beaten_track: 1.447
 ---
 
 Brisbane is the capital of Queensland and Australia's third-largest city, built along the looping bends of the Brisbane River about 25 km upstream from Moreton Bay. The subtropical climate — warm and sunny for most of the year — shapes city life, and the outdoor spaces along the river are heavily used. The [South Bank Parklands](/australiaandpacific/australia/queensland/brisbane/south_bank), built on the site of Expo 88 on the south bank of the river, contain [Streets Beach](/australiaandpacific/australia/queensland/brisbane/south_bank_beach), the [Gallery of Modern Art](/australiaandpacific/australia/queensland/brisbane/gallery_of_modern_art), [Queensland Museum](/australiaandpacific/australia/queensland/brisbane/queensland_museum), and a good cafe strip.

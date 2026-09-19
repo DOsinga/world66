@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Gabon_Mining_Logistics_au_
 latitude: 0.4087
 loc_type: city
 longitude: 9.4419
-score: 6.0
+score: 5.821
 snippet: Atlantic capital of Gabon, polished and cosmopolitan along the estuary, with
   beaches and forest nearby.
 title: Libreville
 type: location
+heritage: 3.334
+vibrancy: 5.339
+nature: 6.442
+off_the_beaten_track: 5.54
 ---
 
 Libreville is Gabon's capital and its only real city. Perched on the Gabon Estuary facing the Atlantic, it is a surprisingly cosmopolitan place with French restaurants, air-conditioned shopping centers, and a level of polish that most of Central Africa cannot match. If you have been traveling rough through the region, Libreville will feel like a different world.

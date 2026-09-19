@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Montegrotto_Terme_PD,_Ital
 latitude: 45.3317
 loc_type: city
 longitude: 11.7833
-score: 7.67
+score: 4.703
 snippet: Euganean Hills spa town near Padua, built around Roman-used thermal waters,
   sulphurous pools, and vineyard slopes.
 title: Montegrotto Terme
 type: location
+heritage: 3.155
+vibrancy: 3.98
+nature: 5.366
+off_the_beaten_track: 1.763
 ---
 
 Montegrotto Terme is a small spa town in the Euganean Hills, about 12 kilometres south of [Padua](/europe/italy/veneto/padua). The hot springs here have been in use since Roman times — the ancient name was Fons Aponi, and the baths were well known to the empire's elite. Today the town is still essentially built around its thermal waters, with hotels and spa complexes lining the main streets and the smell of sulphur a faint background note.

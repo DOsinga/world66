@@ -2,7 +2,7 @@
 latitude: 53.0167
 loc_type: city
 longitude: 158.65
-score: 7.2
+score: 5.824
 snippet: Remote Kamchatka port on Avacha Bay, ringed by volcanoes and Pacific wilderness.
 sources:
 - https://en.wikivoyage.org/wiki/Petropavlovsk-Kamchatsky
@@ -12,6 +12,10 @@ image: petropavlovsk_kamchatsky.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Koryaksky_volcano_Petropavlovsk-Kamchatsky_oct-2005.jpg
 image_license: Public domain
 image_attribution: Tatyana Rashidova
+heritage: 4.545
+vibrancy: 4.601
+nature: 6.804
+off_the_beaten_track: 4.751
 ---
 
 Petropavlovsk-Kamchatsky is the capital of [Kamchatka](/europe/russia/kamchatka) and the only practical gateway to one of Russia's wildest regions. The city sits on Avacha Bay, backed by snow-capped volcanoes that make even ordinary streets feel dramatic when the weather clears.

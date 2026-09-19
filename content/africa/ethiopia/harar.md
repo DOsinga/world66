@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:City_Gate,_Harar_Jugol_(14
 latitude: 9.31184
 loc_type: city
 longitude: 42.128445
-score: 8.12
+score: 7.511
 snippet: Walled Ethiopian holy city whose Jugol encloses mosques, shrines, and medieval
   lanes
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Arthur_Rimbaud
 title: Harar
 type: location
+heritage: 7.987
+vibrancy: 7.387
+nature: 2.509
+off_the_beaten_track: 9.039
 ---
 
 The old walled city of Harar used to be strictly off limits for non-Muslims. It was one of the most holy cities in the country and remains the fourth holiest city in Islam. Today [Jugol](/africa/ethiopia/harar/jugol_walls) — the fortified historic town — is a UNESCO World Heritage Site, its roughly 4-kilometre perimeter wall enclosing 82 mosques, over 100 shrines, and one of the most intact medieval urban fabrics in Africa.

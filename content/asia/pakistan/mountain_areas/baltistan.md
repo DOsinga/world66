@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Keris_Village_(Gilgit-balt
 latitude: 35.5
 loc_type: city
 longitude: 75.6
-score: 7.71
+score: 6.327
 snippet: High mountain region of Gilgit-Baltistan, where Balti culture meets Karakoram
   giants including K2
 title: Baltistan
 type: location
+heritage: 6.193
+vibrancy: 0.147
+nature: 7.182
+off_the_beaten_track: 7.191
 ---
 
 Baltistan sits in the far north of Pakistan, wedged between the Karakoram and Himalayan ranges in what is now Gilgit-Baltistan territory. This is one of the most dramatic mountain regions on earth. Four of the world's fourteen 8,000-metre peaks are here: K2 (8,611 m), the second highest mountain on earth, along with Broad Peak, Gasherbrum I (Hidden Peak), and Gasherbrum II. If you come to climb or trek seriously, this is the destination.

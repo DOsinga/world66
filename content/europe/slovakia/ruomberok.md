@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:PA260021.JPG
 latitude: 49.0816
 loc_type: city
 longitude: 19.3034
-score: 6.55
+score: 5.019
 snippet: Working Slovak mountain town at the Váh and Revúca confluence, close to Vlkolínec
   and Greater Fatra trails.
 title: Ružomberok
 type: location
+heritage: 3.424
+vibrancy: 3.382
+nature: 6.145
+off_the_beaten_track: 1.557
 ---
 
 Ružomberok sits in a broad valley where the Váh and Revúca rivers meet, hemmed in by the Greater Fatra mountains, the Low Tatras, and the jagged limestone peaks of Chočské vrchy. It is not a postcard town — a paper mill dominates the skyline and the communist-era housing blocks are hard to miss — but it is an honest working town with real character, and the surroundings are spectacular.

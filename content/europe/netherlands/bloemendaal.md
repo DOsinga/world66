@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Gemeentehuis_Bloemendaal_i
 latitude: 52.374292
 loc_type: city
 longitude: 4.591535
-score: 7.13
+score: 4.885
 snippet: North Holland coastal municipality known for dunes, Bloemendaal aan Zee,
   and lively beach clubs.
 title: Bloemendaal
 type: location
+heritage: 2.782
+vibrancy: 3.926
+nature: 5.674
+off_the_beaten_track: 1.042
 ---
 
 Bloemendaal is a prosperous municipality on the North Holland coast, sandwiched between the dunes and the city of Haarlem just to the east. It is best known for its stretch of beach — Bloemendaal aan Zee — which rivals nearby [Zandvoort](/europe/netherlands/zandvoort) for sand and surf but has a livelier, more festive atmosphere, particularly in summer when its beach clubs draw large crowds from [Amsterdam](/europe/netherlands/amsterdam).

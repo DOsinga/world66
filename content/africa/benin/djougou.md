@@ -8,12 +8,16 @@ image_source: https://commons.wikimedia.org/wiki/File:Stra%C3%9Fenbild_djougou.J
 latitude: 9.7107
 loc_type: city
 longitude: 1.6652
-score: 5.07
+score: 3.582
 snippet: Northwestern Benin city with a lively grand market and a predominantly Muslim
   rhythm between trade routes
 title: Djougou
 todo_location_cleanup: done
 type: location
+heritage: 2.737
+vibrancy: 3.107
+nature: 4.05
+off_the_beaten_track: 4.552
 ---
 
 Djougou is a city of around 300,000 people in the Donga department of northwestern Benin — actually the largest city in the northwest and the fourth largest in the country, though it receives almost no tourist attention relative to Cotonou, Ouidah, or the Atacora region to the north. Most travellers pass through on the way to Natitingou and the dramatic Tata Somba fortified houses, but the town has a lively [Grand Marché](/africa/benin/djougou/grand_marche) and a predominantly Muslim character that distinguishes it from the coastal cities.

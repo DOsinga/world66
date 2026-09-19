@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Daisy_Geyser_erupting_in_Y
 latitude: 44.428
 loc_type: feature
 longitude: -110.5885
-score: 9.79
+score: 7.27
 snippet: Vast American national park on a volcanic hotspot, packed with geysers, hot
   springs, and wildlife.
 title: Yellowstone
 type: location
+heritage: 3.999
+vibrancy: 1.265
+nature: 9.305
+off_the_beaten_track: 6.433
 ---
 
 Yellowstone became the world's first national park in 1872, and it remains one of the most extraordinary landscapes on earth. The park sits on top of a volcanic hotspot that powers over 10,000 thermal features — geysers, hot springs, mud pots and fumaroles — more than anywhere else on the planet.

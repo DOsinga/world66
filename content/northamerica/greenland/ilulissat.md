@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:The_colors_from_Ilulissat_
 latitude: 69.219713
 loc_type: city
 longitude: -51.098638
-score: 8.99
+score: 7.782
 snippet: Greenland town on Disko Bay, gateway to the UNESCO-listed Ilulissat Icefjord.
 sources:
 - https://en.wikipedia.org/wiki/Ilulissat
 - https://en.wikipedia.org/wiki/Ilulissat_Icefjord
 title: Ilulissat
 type: location
+heritage: 6.581
+vibrancy: 0.331
+nature: 9.272
+off_the_beaten_track: 6.971
 ---
 
 Ilulissat — the name means "icebergs" in Greenlandic — is the third-largest town in Greenland and the main gateway to the Disko Bay region. It was founded in 1741 by Danish trader Jakob Severin and long known by its Danish name, Jakobshavn. About 4,500 people live here alongside roughly 3,000 sled dogs, which outnumber the human population for most of the year and are an unmistakable part of the town's character.

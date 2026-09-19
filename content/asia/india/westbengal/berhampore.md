@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Babulbona_Cemetery,_Bahara
 latitude: 24.1
 loc_type: city
 longitude: 88.25
-score: 7.1
+score: 3.871
 snippet: Murshidabad district city on the Bhagirathi, useful for Bengal's Nawabi heritage.
 sources:
 - https://en.wikivoyage.org/wiki/Berhampore
@@ -17,6 +17,10 @@ sources:
 title: Berhampore
 type: location
 wikidata: Q633530
+heritage: 4.365
+vibrancy: 3.05
+nature: 3.978
+off_the_beaten_track: 2.997
 ---
 
 Berhampore, also written Baharampur, is the working city beside the old Nawabi landscape of Murshidabad. It is not as atmospheric as the palace quarter upriver, but it is the practical base for exploring the Bhagirathi's mix of Indo-Islamic monuments, Armenian and Dutch traces, and faded river-port wealth.

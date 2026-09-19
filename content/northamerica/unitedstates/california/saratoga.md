@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Memorial_Arch_Saratoga_Cal
 latitude: 37.2638
 loc_type: city
 longitude: -122.023
-score: 6.84
+score: 3.863
 snippet: Santa Cruz Mountains foothill town in the South Bay, with redwood hills and
   wine-country roots.
 title: Saratoga
 type: location
+heritage: 2.63
+vibrancy: 4.232
+nature: 2.911
+off_the_beaten_track: 0.685
 ---
 
 Saratoga sits at the base of the Santa Cruz Mountains in the southern Bay Area, a quiet, affluent town that feels a world away from the tech campuses of nearby Cupertino and San Jose. The village centre along Big Basin Way has a relaxed, almost small-town character — good restaurants, wine bars, and boutiques tucked between the redwoods — while the surrounding hillsides conceal some genuinely surprising cultural treasures.

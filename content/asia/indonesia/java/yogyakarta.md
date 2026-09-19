@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Eastern_face_of_west_gate,
 latitude: -7.797068
 loc_type: city
 longitude: 110.370529
-score: 9.12
+score: 5.013
 snippet: Javanese cultural city ruled by a sultan, with batik, gamelan, and royal
   traditions at its core
 title: Yogyakarta
 type: location
+heritage: 5.949
+vibrancy: 4.011
+nature: 3.353
+off_the_beaten_track: 3.079
 ---
 
 Yogyakarta — known simply as Jogja to most Indonesians — is the cultural capital of Java and one of the most compelling cities in Southeast Asia. It is the only province in Indonesia still governed by its pre-colonial monarchy: the Sultan of Yogyakarta serves as the elected governor, and the royal palace (Kraton) remains the heart of the city's identity. Javanese art, batik, wayang puppet theatre, and gamelan music all have their deepest roots here.

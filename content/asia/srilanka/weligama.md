@@ -15,7 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Taprobane_Island_(Weligama)
 title: Weligama
 type: location
-score: 8.0
+score: 4.957
+heritage: 2.836
+vibrancy: 4.09
+nature: 5.707
+off_the_beaten_track: 2.504
 ---
 
 Weligama is the softer, more local-feeling neighbour of [Mirissa](/asia/srilanka/mirissa), set around a wide sandy bay on Sri Lanka's south coast. The name means "sandy village", which is unusually literal: the beach is long, shallow, and forgiving, making it one of the best beginner surf spots in the country.

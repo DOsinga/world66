@@ -7,12 +7,16 @@ image_source: https://commons.wikimedia.org/wiki/File:Sardinia,_Olbia,_Aeroporto
 latitude: 40.899377
 loc_type: feature
 longitude: 9.517747
-score: 7.9
+score: 7.661
 snippet: Northeastern Sardinian coast developed as a planned resort area around granite
   coves and turquoise water.
 title: Costa Smeralda
 type: location
 image_attribution: Dr. Thomas Liptak
+heritage: 2.473
+vibrancy: 7.336
+nature: 8.33
+off_the_beaten_track: 1.198
 ---
 
 The Costa Smeralda — the Emerald Coast — is a 55-kilometre stretch of northeastern Sardinia's coastline between the Gulf of Cugnana and the Gulf of Arzachena. The Aga Khan IV purchased the land in the early 1960s and developed it as a planned resort destination for the international wealthy, and it has remained one of Europe's most expensive holiday areas ever since. The granite-fringed coves, turquoise water, and pink-sand beaches are genuinely spectacular; the price levels are equally so.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Metsovo,Greece_-_panoramio
 latitude: 39.7693
 loc_type: city
 longitude: 21.183
-score: 8.14
+score: 5.441
 title: Metsovo
 snippet: Stone-built Pindos mountain town where Vlach traditions, benefactor museums,
   and Alpine streets meet.
 type: location
+heritage: 5.219
+vibrancy: 2.136
+nature: 6.221
+off_the_beaten_track: 4.502
 ---
 
 Metsovo is a stone-built mountain town perched at 1,150 metres on the Pindos range, at the crossroads where [Epirus](/europe/greece/epirus), Thessaly, and western Macedonia meet. It feels more Alpine than Mediterranean — steep cobbled streets, slate-roofed houses, wood smoke in the air, and locals who still wear traditional Vlach dress on festival days.

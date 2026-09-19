@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 60.2586
 longitude: 18.3635
-score: 6.4
+score: 4.428
 snippet: Roslagen coast town near Öregrund, Gräsö, and the old Walloon ironworks of
   northern Uppland.
 wikidata: Q59088
@@ -17,6 +17,10 @@ image: osthammar.jpg
 image_source: https://commons.wikimedia.org/wiki/File:%C3%96regrunds_hamn_WNW.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Jan Ainali
+heritage: 3.042
+vibrancy: 1.74
+nature: 5.574
+off_the_beaten_track: 3.065
 ---
 
 Östhammar is a small town on the northern Roslagen coast, east of Uppsala and north of Stockholm. It is quiet for much of the year, then becomes more obviously coastal in summer, when boats, beaches, and nearby Öregrund pull Stockholm and Uppsala visitors toward the Baltic.

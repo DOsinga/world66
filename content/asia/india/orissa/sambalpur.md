@@ -5,11 +5,15 @@ done:
 latitude: 21.5571
 loc_type: city
 longitude: 84.1529
-score: 6.16
+score: 3.507
 snippet: Mahanadi River city known for Sambalpuri ikat textiles, Samaleswari Temple,
   and nearby Hirakud Dam
 title: Sambalpur
 type: location
+heritage: 3.591
+vibrancy: 3.141
+nature: 3.913
+off_the_beaten_track: 3.714
 ---
 
 Sambalpur is a connecting point between Madhya Pradesh and Odisha, set on the banks of the Mahanadi River. Once known as a diamond trading centre, today the city is recognised for its handloom textiles — Sambalpuri saris and fabrics, woven with traditional ikat patterns, are prized across India.

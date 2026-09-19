@@ -1,11 +1,15 @@
 ---
-title: "Wudaokou"
+title: Wudaokou
 type: neighbourhood
 tags:
-  - things_to_do
-  - neighbourhood
+- things_to_do
+- neighbourhood
 latitude: 40.0097
 longitude: 116.3366
+image: wudaokou.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Wudaokou.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Mfrk
 ---
 
 The university district of Beijing, clustered around Wudaokou subway station in the northwest of the city near Peking University and Tsinghua University. A younger, more student-focused neighbourhood than the hutong areas, with Korean restaurants, cheap noodle shops, bookshops, and a lively cafe and bar scene that runs late and cheaply. The Korean population around Wudaokou has produced an unusually high concentration of good Korean barbecue restaurants.

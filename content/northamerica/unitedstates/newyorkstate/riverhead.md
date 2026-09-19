@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 40.928333
 longitude: -72.662222
-score: 6.7
+score: 3.991
 snippet: Suffolk County town at the head of Long Island's North Fork, mixing wineries,
   outlets, and family attractions.
 sources:
@@ -14,6 +14,10 @@ image: riverhead.jpg
 image_source: https://commons.wikimedia.org/wiki/File:LD_block_limit_Riverhead_station_240727.jpg
 image_license: CC BY-SA 4.0
 image_attribution: ComplexRational
+heritage: 3.431
+vibrancy: 2.912
+nature: 4.732
+off_the_beaten_track: 1.086
 ---
 
 Riverhead sits where Long Island begins to split into the North Fork and South Fork. It is the seat of Suffolk County, but it feels less like a courthouse town than a practical gateway to eastern Long Island: wineries to the east, outlet shopping near the expressway, and family attractions clustered around the Peconic River.

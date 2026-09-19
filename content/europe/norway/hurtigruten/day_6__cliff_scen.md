@@ -5,7 +5,7 @@ latitude: 70.6634
 longitude: 23.6821
 snippet: Dramatic coastal cliffs and seabird colonies along the Hurtigruten route
 tags:
-- sights
+- things_to_do
 title: Day 6 - Cliff scenery
 type: poi
 score: 7.4

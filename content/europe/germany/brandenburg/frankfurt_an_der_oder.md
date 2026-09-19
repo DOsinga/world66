@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 52.3417
 longitude: 14.5506
-score: 6.5
-snippet: Oder border city with Brick Gothic churches, Kleist history, and an easy walk into Poland.
+score: 5.384
+snippet: Oder border city with Brick Gothic churches, Kleist history, and an easy
+  walk into Poland.
 sources:
-  - https://en.wikivoyage.org/wiki/Frankfurt_an_der_Oder
-  - https://en.wikipedia.org/wiki/Frankfurt_(Oder)
-  - https://www.wikidata.org/wiki/Q4024
+- https://en.wikivoyage.org/wiki/Frankfurt_an_der_Oder
+- https://en.wikipedia.org/wiki/Frankfurt_(Oder)
+- https://www.wikidata.org/wiki/Q4024
+heritage: 6.137
+vibrancy: 4.82
+nature: 2.42
+off_the_beaten_track: 1.983
 ---
 
 Frankfurt an der Oder is the smaller, eastern Frankfurt: a [Brandenburg](/europe/germany/brandenburg) city on the Oder River, directly facing Słubice in Poland. It is not a polished postcard town, and wartime destruction left gaps in the centre, but the border setting gives it a character that is different from the towns around Berlin.

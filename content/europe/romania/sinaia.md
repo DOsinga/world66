@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Camil_Iamandescu-Castelul_
 latitude: 45.345549
 loc_type: city
 longitude: 25.54815
-score: 8.31
+score: 5.294
 snippet: Carpathian resort town where Peleș Castle rises from forest above the railway
   line
 sources:
 - https://en.wikipedia.org/wiki/Sinaia
 title: Sinaia
 type: location
+heritage: 5.227
+vibrancy: 3.155
+nature: 5.99
+off_the_beaten_track: 3.537
 ---
 
 Sinaia is Romania's most celebrated mountain resort, tucked into a valley of the Bucegi Mountains about 120 kilometres north of [Bucharest](/europe/romania/bucharest). It became the summer retreat of the Romanian royal family in the 19th century, and the palace they built here — [Peleș Castle](/europe/romania/sinaia/peles_castle) — is one of the most extraordinary royal residences in Europe: a Neo-Renaissance confection of turrets, carved galleries, and themed interior rooms rising from the Carpathian forest.

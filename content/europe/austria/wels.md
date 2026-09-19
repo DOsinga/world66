@@ -6,13 +6,17 @@ done:
 latitude: 48.156547
 loc_type: city
 longitude: 14.024375
-score: 6.89
+score: 4.345
 snippet: Working Upper Austrian city on the Traun, with Roman Ovilava traces beneath
   its long Stadtplatz.
 sources:
 - https://en.wikipedia.org/wiki/Wels
 title: Wels
 type: location
+heritage: 4.691
+vibrancy: 3.225
+nature: 4.746
+off_the_beaten_track: 3.456
 ---
 
 Wels is a working Upper Austrian city of about 60,000 people on the river Traun, halfway between [Linz](/europe/austria/linz) and Salzburg. The Romans founded it as **Ovilava**, a key trading colony on the road to the Danube — pieces of that history still surface in cellar walls and the layout of the long main square. Today Wels is best known in Austria for the [Messe Wels](https://en.wikipedia.org/wiki/Messezentrum_Wels) trade-fair complex, which keeps the hotels full several weeks a year.

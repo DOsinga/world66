@@ -7,6 +7,7 @@ snippet: Mondrian's iconic rooftop pool bar with city views
 tags:
 - bars_and_cafes
 - nightlife
+- westhollywood
 title: SkyBar
 type: poi
 url: www.mondrianhotel.com

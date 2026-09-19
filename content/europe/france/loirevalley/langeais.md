@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Langeais._
 latitude: 47.323934
 loc_type: city
 longitude: 0.407296
-score: 8.33
+score: 5.811
 snippet: Small Loire town dominated by a unified medieval château tied to Brittany's
   royal marriage.
 title: Langeais
 type: location
+heritage: 7.609
+vibrancy: 1.885
+nature: 3.578
+off_the_beaten_track: 2.352
 ---
 
 Langeais is a small Loire Valley town dominated by one of the best-preserved medieval castles in France. The Château de Langeais was built between 1465 and 1469 for Louis XI — an unusually rapid construction that gives it a striking architectural unity, neither ruined nor excessively restored. The exterior looks like a fortress; the interior is furnished as a late 15th-century residence, with original tapestries, carved fireplaces, and period furniture largely intact.

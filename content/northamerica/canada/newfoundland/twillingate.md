@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 49.6482
 longitude: -54.7635
-score: 7.8
-snippet: Newfoundland outport known for icebergs, whales, cliff walks, and Long Point Lighthouse.
+score: 4.883
+snippet: Newfoundland outport known for icebergs, whales, cliff walks, and Long Point
+  Lighthouse.
 sources:
 - https://en.wikivoyage.org/wiki/Twillingate
 - https://en.wikipedia.org/wiki/Twillingate
 - https://www.newfoundlandlabrador.com/trip-ideas/travel-stories/iceberg-finding-in-twillingate
 - https://www.pc.gc.ca/apps/dfhd/page_hl_eng.aspx?id=14554
+heritage: 3.676
+vibrancy: 1.858
+nature: 6.01
+off_the_beaten_track: 3.895
 ---
 
 Twillingate sits at the edge of northeastern Newfoundland, where fishing villages, empty coves, and Atlantic headlands face Iceberg Alley. It calls itself the Iceberg Capital of the World, and while that is tourist-board language, the view from [Long Point Lighthouse](/northamerica/canada/newfoundland/twillingate/long_point_lighthouse) in spring can make the claim feel fair.

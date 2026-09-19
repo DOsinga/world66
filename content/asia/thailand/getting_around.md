@@ -5,11 +5,11 @@ type: section
 
 ## Trains
 
-The State Railway of Thailand runs from [Bangkok](/asia/thailand/bangkok) in three main directions: north to [Chiang Mai](/asia/thailand/chiangmai), northeast to [Nong Khai](/asia/thailand/nongkhai) and Ubon Ratchathani, and south through [Surat Thani](/asia/thailand/surat_thani) to the Malaysian border. Night trains with sleeper cars are a great way to cover long distances — comfortable, scenic, and cheap. Book a few days ahead, especially for sleepers, at any main station or through the SRT website.
+The State Railway of Thailand runs from [Bangkok](/asia/thailand/bangkok) in three main directions: north to [Chiang Mai](/asia/thailand/northernthailand/chiangmai), northeast to [Nong Khai](/asia/thailand/isaan/nongkhai) and Ubon Ratchathani, and south through [Surat Thani](/asia/thailand/gulfislands/surat_thani) to the Malaysian border. Night trains with sleeper cars are a great way to cover long distances — comfortable, scenic, and cheap. Book a few days ahead, especially for sleepers, at any main station or through the SRT website.
 
 ## Buses
 
-Long-distance buses go virtually everywhere trains don't. Bangkok's main terminals are Mo Chit (north and northeast), Ekkamai (east), and Sai Tai Mai (south). VIP and first-class overnight coaches are reasonably comfortable and cost less than 1,500 THB even for long routes. The bus from Bangkok to [Chiang Mai](/asia/thailand/chiangmai) takes about 10 hours; to [Krabi](/asia/thailand/krabi) about 13.
+Long-distance buses go virtually everywhere trains don't. Bangkok's main terminals are Mo Chit (north and northeast), Ekkamai (east), and Sai Tai Mai (south). VIP and first-class overnight coaches are reasonably comfortable and cost less than 1,500 THB even for long routes. The bus from Bangkok to [Chiang Mai](/asia/thailand/northernthailand/chiangmai) takes about 10 hours; to [Krabi](/asia/thailand/andamancoast/krabi) about 13.
 
 ## Domestic Flights
 

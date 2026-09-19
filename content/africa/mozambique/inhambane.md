@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nu_wel,_30_graadjes_en_lek
 latitude: -23.865
 loc_type: city
 longitude: 35.3834
-score: 7.28
+score: 6.134
 snippet: Old Mozambican port town with fading Portuguese buildings, dhow harbours,
   and beaches across the Inhambane peninsula.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Our_Lady_of_the_Immaculate_Conception_Cathedral,_Inhambane
 title: Inhambane
 type: location
+heritage: 3.448
+vibrancy: 3.927
+nature: 7.61
+off_the_beaten_track: 5.271
 ---
 
 Inhambane is a photographer's dream: a crumbling old port town where dilapidated colonial buildings, rusting tin roofs, and overgrown courtyards give every street corner a faded grandeur. One of the oldest settlements on the East African coast, it has been a trading post for over a thousand years, and the mix of African, Portuguese, and Muslim cultures still shapes daily life.

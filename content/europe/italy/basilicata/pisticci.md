@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:La_bellezza_del_Rione_Diru
 latitude: 40.390527
 loc_type: city
 longitude: 16.556732
-score: 6.87
+score: 5.53
 snippet: Basilicata hill town of whitewashed houses perched above the eroded clay
   ravines of the calanchi
 title: Pisticci
 type: location
+heritage: 6.281
+vibrancy: 1.771
+nature: 5.583
+off_the_beaten_track: 3.633
 ---
 
 Pisticci is a hilltop town in [Basilicata](/europe/italy/basilicata), perched dramatically above the [calanchi](/europe/italy/basilicata/pisticci/calanchi_di_pisticci) — deeply eroded clay ravines that give the surrounding landscape a stark, lunar beauty. The town has a long history: it flourished under the Normans, and the old centre retains a tangle of narrow streets and white-washed houses.

@@ -6,17 +6,22 @@ image_source: https://commons.wikimedia.org/wiki/File:YeppoonNov062024_04.jpg
 latitude: -23.1268
 loc_type: city
 longitude: 150.7441
-score: 6.8
-snippet: Capricorn Coast beach town facing Keppel Bay, with island ferries and volcanic headland walks nearby.
+score: 4.372
+snippet: Capricorn Coast beach town facing Keppel Bay, with island ferries and volcanic
+  headland walks nearby.
 sources:
-  - https://en.wikivoyage.org/wiki/Yeppoon
-  - https://visitcapricorn.com.au/this-is-yeppoon-see-you-soon
-  - https://visitcapricorn.com.au/service/great-keppel-island
-  - https://www.queensland.com/us/en/plan-your-holiday/journeys/p-56b262272880253d74c4aef8-capricorn-coast-and-great-keppel-island-drive-itinerary
-  - https://parks.desi.qld.gov.au/parks/capricorn-coast
+- https://en.wikivoyage.org/wiki/Yeppoon
+- https://visitcapricorn.com.au/this-is-yeppoon-see-you-soon
+- https://visitcapricorn.com.au/service/great-keppel-island
+- https://www.queensland.com/us/en/plan-your-holiday/journeys/p-56b262272880253d74c4aef8-capricorn-coast-and-great-keppel-island-drive-itinerary
+- https://parks.desi.qld.gov.au/parks/capricorn-coast
 title: Yeppoon
 type: location
 wikidata: Q2098901
+heritage: 3.429
+vibrancy: 2.782
+nature: 5.323
+off_the_beaten_track: 2.596
 ---
 
 Yeppoon is the main beach town of Queensland's Capricorn Coast, about 40 km east of [Rockhampton](/australiaandpacific/australia/rockhampton). It faces Keppel Bay rather than the open surf, so the mood is gentler than the big-name resort strips farther south and north. The foreshore has been rebuilt around a lagoon pool, water play, lawns, palms, and cafes, with the Keppel Islands sitting out on the horizon.

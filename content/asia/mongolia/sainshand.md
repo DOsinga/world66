@@ -2,7 +2,7 @@
 latitude: 44.8917
 loc_type: city
 longitude: 110.1367
-score: 6.2
+score: 5.599
 snippet: Gobi railway town and Dornogovi capital, used for Hamriin Hiid and desert
   pilgrimages.
 sources:
@@ -13,6 +13,10 @@ image: sainshand.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Danzanravjaa_Museum_of_Sainshand-4.jpg
 image_license: CC BY 2.0
 image_attribution: David Berkowitz
+heritage: 3.885
+vibrancy: 1.27
+nature: 6.548
+off_the_beaten_track: 6.982
 ---
 
 Sainshand is the capital of Dornogovi province, a small Gobi city on the Trans-Mongolian Railway between [Ulaanbaatar](/asia/mongolia/ulaanbaatar) and the Chinese border at Zamiin-Uud. It is dry, windswept and practical, the kind of place where the railway station is as important as the main square.

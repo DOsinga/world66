@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Brattleboro,_VT_downtown_a
 latitude: 42.8508
 loc_type: city
 longitude: -72.5573
-score: 7.14
+score: 4.624
 title: Brattleboro
 type: location
 snippet: Southern Vermont town at the West and Connecticut rivers, known for independent
   shops and arts venues.
+heritage: 3.238
+vibrancy: 3.601
+nature: 5.427
+off_the_beaten_track: 2.573
 ---
 
 Brattleboro is the largest town in southern Vermont, sitting where the West River meets the Connecticut. It has a reputation for progressive politics, independent-minded residents, and a lively arts scene that punches well above its size — the town has more artists and musicians per capita than almost anywhere in New England.

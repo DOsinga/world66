@@ -5,11 +5,15 @@ done:
 latitude: 38.538
 loc_type: city
 longitude: -75.0589
-score: 6.98
+score: 4.997
 snippet: Quiet Delaware beach town with a short boardwalk, summer bandstand concerts,
   and family-focused sands.
 title: Bethany Beach
 type: location
+heritage: 2.762
+vibrancy: 4.203
+nature: 5.715
+off_the_beaten_track: 0.994
 ---
 
 Bethany Beach is a small, family-oriented beach town on the Delaware coast, often called one of the "Quiet Resorts" along with Fenwick Island and South Bethany. It lacks the boardwalk amusements and nightlife of [Rehoboth Beach](/northamerica/unitedstates/delaware/rehobothbeach) a few miles north, and that is exactly the point — people come here for the beach itself and not much else.

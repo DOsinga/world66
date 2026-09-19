@@ -12,9 +12,13 @@ sources:
 - https://en.wikivoyage.org/wiki/Liupanshui
 title: Liupanshui
 type: location
-score: 5.88
+score: 5.185
 snippet: Liupanshui is a high plateau city in western Guizhou known for cool summers
   and industrial heritage.
+heritage: 4.125
+vibrancy: 1.828
+nature: 6.288
+off_the_beaten_track: 3.831
 ---
 
 Liupanshui occupies a plateau in western Guizhou at around 1,700 metres elevation, which earns it the local marketing designation "Cool City" — average summer temperatures run about 19°C, making it a genuine refuge when the lowlands are suffocating. It's a coal and steel city, built up in the 1960s as part of Mao's "Third Front" industrial dispersal programme, and it carries that industrial heritage honestly: this is not a place prettied up for visitors, and the character it has comes from being a functioning mid-sized Chinese city at altitude.

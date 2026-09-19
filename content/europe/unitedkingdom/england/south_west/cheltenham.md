@@ -9,16 +9,20 @@ image_source: https://commons.wikimedia.org/wiki/File:Cheltenham_Art_Gallery_%26
 latitude: 51.899569
 loc_type: city
 longitude: -2.071156
-score: 7.91
+score: 5.516
 snippet: Regency spa town beside the Cotswolds, with festivals, racecourse traditions,
   and Pittville Pump Room.
 tags:
 - cotswolds
 title: Cheltenham
 type: location
+heritage: 5.288
+vibrancy: 5.644
+nature: 3.914
+off_the_beaten_track: 1.109
 ---
 
-Cheltenham is the most sophisticated town in the county and the obvious base for exploring the [Cotswolds](/europe/unitedkingdom/england/gloucestershire/cotswolds). It became fashionable after George III took the waters here in 1788, and the Regency building boom that followed left it with wide tree-lined streets, ornate ironwork balconies, and a sense of confident elegance that has worn well.
+Cheltenham is the most sophisticated town in the county and the obvious base for exploring the [Cotswolds](/europe/unitedkingdom/england/cotswolds). It became fashionable after George III took the waters here in 1788, and the Regency building boom that followed left it with wide tree-lined streets, ornate ironwork balconies, and a sense of confident elegance that has worn well.
 
 The spa is still operating in a fashion: the Pittville Pump Room, set in its own parkland, will let you drink the mineral water if you want to know what all the fuss was about. The Cheltenham Art Gallery and Museum holds one of the best collections of Arts and Crafts furniture outside London. The town also has a strong literary and musical tradition — the Literature Festival in October and the Jazz Festival in April both draw serious programmes.
 

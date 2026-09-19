@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:(Melilla)_Aterrizando_en_M
 latitude: 35.29187
 loc_type: city
 longitude: -2.940903
-score: 7.33
+score: 4.808
 snippet: Spanish autonomous city on Morocco's Mediterranean coast, known for its old
   citadel and Modernista architecture.
 sources:
 - https://en.wikipedia.org/wiki/Melilla
 title: Melilla
 type: location
+heritage: 4.618
+vibrancy: 4.664
+nature: 5.18
+off_the_beaten_track: 4.268
 ---
 
 Melilla is one of two Spanish enclaves on the coast of [Morocco](/africa/morocco), a small autonomous city that has been in Spanish hands since 1497. It sits on the eastern edge of the Rif mountains, facing the Mediterranean.

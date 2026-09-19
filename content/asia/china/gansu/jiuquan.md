@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Jiuquan-06.JPG
 latitude: 39.737
 loc_type: city
 longitude: 98.5049
-score: 6.42
+score: 3.622
 snippet: Gansu city tied to a Han wine-spring legend and China's nearby satellite
   launch centre.
 sources:
 - https://en.wikivoyage.org/wiki/Jiuquan
 title: Jiuquan
 type: location
+heritage: 1.58
+vibrancy: 2.941
+nature: 4.193
+off_the_beaten_track: 2.716
 ---
 
 Jiuquan has two claims on travellers' attention that sit at opposite ends of Chinese history. The name itself translates as "wine spring" and refers to a legend in which the Han general Huo Qubing, celebrating his victory over the Xiongnu nomads in 121 BC, poured his imperial gift of wine into a spring so that all his soldiers could share it. The spring still exists, set in a pleasant park near the city centre. The other claim is more contemporary: Jiuquan is the nearest city to the Jiuquan Satellite Launch Center, the facility from which China launched its first crewed spacecraft in 2003 and from which most subsequent missions have departed.

@@ -8,9 +8,13 @@ tags:
   - kralendijk
 latitude: 12.1488
 longitude: -68.2767
-snippet: "1639 Dutch fort at the southern end of the seawall"
+snippet: Small 17th-century Dutch fort and lighthouse at the south end of Kralendijk's waterfront.
 neighbourhood: Kralendijk
 score: 6.0
+sources:
+  - https://www.bonaire.nl/over-bonaire/geschiedenis-van-bonaire/
 ---
 
-The small fort at the southern end of Kralendijk's waterfront was built by the Dutch West India Company in 1639 to protect the harbour entrance. The walls are low and the bastions tiny — Bonaire was never a major military prize — but the ochre stone, the four old cannons, and the candy-striped lighthouse added in 1932 make for the prettiest corner of town. Climb the steps for the view across the channel to Klein Bonaire.
+Fort Orange is a compact Dutch fort at the southern end of Kralendijk's waterfront. Low ochre walls, surviving cannon, and the striped lighthouse form one of the town's most recognisable corners, though this is a brief outdoor stop rather than a large fort complex.
+
+The site works best as part of a waterfront walk through Wilhelmina Square and past the old customs buildings. Government use can restrict entry to parts of the structure, but the exterior and harbour setting still make the detour worthwhile.

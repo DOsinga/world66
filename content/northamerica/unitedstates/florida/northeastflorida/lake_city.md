@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ichetucknee_Springs_State_
 latitude: 30.189425
 loc_type: city
 longitude: -82.63948
-score: 5.6
+score: 4.104
 snippet: North Florida junction town used as a base for spring-fed rivers, forests,
   and Ichetucknee tubing
 sources:
@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Osceola_National_Forest
 title: Lake City
 type: location
+heritage: 4.413
+vibrancy: 4.018
+nature: 4.056
+off_the_beaten_track: 2.811
 ---
 
 Lake City sits at the junction of I-10 and I-75 in north Florida, a practical stop and a reasonable base for the spring-fed rivers and forests of the region. The town itself is modest — its past as a farming community is still visible — but the surrounding area has real attractions.

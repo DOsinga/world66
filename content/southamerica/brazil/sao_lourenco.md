@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -22.1167
 longitude: -45.05
-score: 6.9
+score: 4.808
 snippet: Minas Gerais spa town in the Water Circuit, centred on mineral springs and
   a steam train.
 wikidata: Q985496
@@ -17,6 +17,10 @@ image: sao_lourenco.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Fachada_da_Esta%C3%A7%C3%A3o_de_S%C3%A3o_Louren%C3%A7o_MG.jpg
 image_license: CC BY 2.0
 image_attribution: Rosanetur from Rio de Janeiro, Brazil
+heritage: 3.591
+vibrancy: 3.663
+nature: 5.683
+off_the_beaten_track: 3.342
 ---
 
 São Lourenço is one of the classic spa towns of southern Minas Gerais, part of the Circuito das Águas in the Mantiqueira foothills. Its identity is old-fashioned in a pleasant way: mineral springs, lake paths, family visitors, and a little tourist train rather than dramatic scenery or big-city culture.

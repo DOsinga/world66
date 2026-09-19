@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 36.1398
 longitude: 128.1136
-score: 7.0
-snippet: Inland Korean crossroads with an old Buddhist temple, spring pond walks, and mountain reservoirs.
+score: 3.344
+snippet: Inland Korean crossroads with an old Buddhist temple, spring pond walks,
+  and mountain reservoirs.
 sources:
-  - https://en.wikivoyage.org/wiki/Gimcheon
-  - https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=94392
+- https://en.wikivoyage.org/wiki/Gimcheon
+- https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=94392
+heritage: 2.862
+vibrancy: 2.868
+nature: 3.798
+off_the_beaten_track: 1.682
 ---
 
 Gimcheon is an inland city in North Gyeongsang, long shaped by roads and railways crossing between Korea's southeast and the central provinces. That transport role still shows, but the better reason to stop is just outside the centre, where temples, ponds, and mountain water make the city feel less like a junction and more like a low-key day trip.

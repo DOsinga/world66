@@ -4,13 +4,17 @@ done:
 latitude: 36.088
 loc_type: city
 longitude: 111.519
-score: 4.87
+score: 3.382
 snippet: Southern Shanxi city in the Fen River valley, tied to early Chinese civilisation
   and Emperor Yao.
 sources:
 - https://en.wikivoyage.org/wiki/Linfen
 title: Linfen
 type: location
+heritage: 3.825
+vibrancy: 3.089
+nature: 2.358
+off_the_beaten_track: 3.837
 ---
 
 Linfen sits in the Fen River valley of southern Shanxi, a broad agricultural basin that Chinese archaeologists have long argued was the heartland of early Chinese civilisation. The legendary sage-emperor Yao is traditionally said to have established his capital here — the Yaodu district name still preserves the connection — and archaeological digs in the surrounding loess have turned up Neolithic and early Bronze Age settlements that support the claim. The modern city is an unremarkable industrial centre built around coal and power generation, but the surrounding area contains an unusual concentration of historical sites.

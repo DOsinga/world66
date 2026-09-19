@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bossier_City_September_201
 latitude: 32.515887
 loc_type: city
 longitude: -93.733654
-score: 5.99
+score: 2.988
 snippet: Louisiana city across the Red River from Shreveport, with riverboat casinos
   and military connections.
 title: Bossier City
 type: location
+heritage: 1.658
+vibrancy: 2.594
+nature: 3.378
+off_the_beaten_track: 1.361
 ---
 
 Bossier City sits across the [Red River](/northamerica/unitedstates/louisiana/bossiercity/red_river) from [Shreveport](/northamerica/unitedstates/louisiana/shreveport), and the two cities function as a single metropolitan area. Bossier's main draw is its cluster of riverboat casinos along the river — [Horseshoe](/northamerica/unitedstates/louisiana/bossiercity/horseshoe_bossier_city), [Margaritaville](/northamerica/unitedstates/louisiana/bossiercity/margaritaville_resort_casino), and [Boomtown](/northamerica/unitedstates/louisiana/bossiercity/boomtown_bossier_city) — where most of the area's gaming action is concentrated.

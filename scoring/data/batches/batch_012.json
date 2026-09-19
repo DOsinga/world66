@@ -1,0 +1,777 @@
+[
+  {
+    "embedding_text": "Redlands, Inland Empire, California, United States, North America",
+    "lat": 34.055033,
+    "latitude": 34.055033,
+    "lng": -117.182744,
+    "longitude": -117.182744,
+    "name": "Redlands",
+    "parent": "North America, United States, California, Inland Empire",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California",
+      "Inland Empire"
+    ],
+    "path": "northamerica/unitedstates/california/inlandempire/redlands",
+    "url": "/northamerica/unitedstates/california/inlandempire/redlands/"
+  },
+  {
+    "embedding_text": "Gisenyi, Rwanda, Africa",
+    "lat": -1.6935,
+    "latitude": -1.6935,
+    "lng": 29.2599,
+    "longitude": 29.2599,
+    "name": "Gisenyi",
+    "parent": "Africa, Rwanda",
+    "parent_chain": [
+      "Africa",
+      "Rwanda"
+    ],
+    "path": "africa/rwanda/gisenyi",
+    "url": "/africa/rwanda/gisenyi/"
+  },
+  {
+    "embedding_text": "Kribi, Cameroon, Africa",
+    "lat": 2.94341,
+    "latitude": 2.94341,
+    "lng": 9.912699,
+    "longitude": 9.912699,
+    "name": "Kribi",
+    "parent": "Africa, Cameroon",
+    "parent_chain": [
+      "Africa",
+      "Cameroon"
+    ],
+    "path": "africa/cameroon/kribi",
+    "url": "/africa/cameroon/kribi/"
+  },
+  {
+    "embedding_text": "Robertsganj, Uttar Pradesh, India, Asia",
+    "lat": 24.7,
+    "latitude": 24.7,
+    "lng": 83.0667,
+    "longitude": 83.0667,
+    "name": "Robertsganj",
+    "parent": "Asia, India, Uttar Pradesh",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Uttar Pradesh"
+    ],
+    "path": "asia/india/uttarpradesh/robertsganj",
+    "url": "/asia/india/uttarpradesh/robertsganj/"
+  },
+  {
+    "embedding_text": "Zhytomyr, Ukraine, Europe",
+    "lat": 50.25,
+    "latitude": 50.25,
+    "lng": 28.6667,
+    "longitude": 28.6667,
+    "name": "Zhytomyr",
+    "parent": "Europe, Ukraine",
+    "parent_chain": [
+      "Europe",
+      "Ukraine"
+    ],
+    "path": "europe/ukraine/zhytomyr",
+    "url": "/europe/ukraine/zhytomyr/"
+  },
+  {
+    "embedding_text": "Sheikhupura, Pakistan, Asia",
+    "lat": 31.7131,
+    "latitude": 31.7131,
+    "lng": 73.985,
+    "longitude": 73.985,
+    "name": "Sheikhupura",
+    "parent": "Asia, Pakistan",
+    "parent_chain": [
+      "Asia",
+      "Pakistan"
+    ],
+    "path": "asia/pakistan/sheikhu_pura",
+    "url": "/asia/pakistan/sheikhu_pura/"
+  },
+  {
+    "embedding_text": "Lake Geneva, Wisconsin, United States, North America",
+    "lat": 42.5917,
+    "latitude": 42.5917,
+    "lng": -88.4334,
+    "longitude": -88.4334,
+    "name": "Lake Geneva",
+    "parent": "North America, United States, Wisconsin",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Wisconsin"
+    ],
+    "path": "northamerica/unitedstates/wisconsin/lake_geneva",
+    "url": "/northamerica/unitedstates/wisconsin/lake_geneva/"
+  },
+  {
+    "embedding_text": "Stavanger, Norway, Europe",
+    "lat": 58.969968,
+    "latitude": 58.969968,
+    "lng": 5.73181,
+    "longitude": 5.73181,
+    "name": "Stavanger",
+    "parent": "Europe, Norway",
+    "parent_chain": [
+      "Europe",
+      "Norway"
+    ],
+    "path": "europe/norway/stavanger",
+    "url": "/europe/norway/stavanger/"
+  },
+  {
+    "embedding_text": "Cyangugu, Rwanda, Africa",
+    "lat": -2.485,
+    "latitude": -2.485,
+    "lng": 28.908,
+    "longitude": 28.908,
+    "name": "Cyangugu",
+    "parent": "Africa, Rwanda",
+    "parent_chain": [
+      "Africa",
+      "Rwanda"
+    ],
+    "path": "africa/rwanda/chyangugu",
+    "url": "/africa/rwanda/chyangugu/"
+  },
+  {
+    "embedding_text": "Northampton, East Midlands, England, United Kingdom, Europe",
+    "lat": 52.23433,
+    "latitude": 52.23433,
+    "lng": -0.902804,
+    "longitude": -0.902804,
+    "name": "Northampton",
+    "parent": "Europe, United Kingdom, England, East Midlands",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "East Midlands"
+    ],
+    "path": "europe/unitedkingdom/england/east_midlands/northampton",
+    "url": "/europe/unitedkingdom/england/east_midlands/northampton/"
+  },
+  {
+    "embedding_text": "Humberstone Nitrate Works, Chile, South America",
+    "lat": -20.2042,
+    "latitude": -20.2042,
+    "lng": -69.7919,
+    "longitude": -69.7919,
+    "name": "Humberstone Nitrate Works",
+    "parent": "South America, Chile",
+    "parent_chain": [
+      "South America",
+      "Chile"
+    ],
+    "path": "southamerica/chile/humberstone",
+    "url": "/southamerica/chile/humberstone/"
+  },
+  {
+    "embedding_text": "Lughaya, Somaliland, Africa",
+    "lat": 10.730573,
+    "latitude": 10.730573,
+    "lng": 43.691688,
+    "longitude": 43.691688,
+    "name": "Lughaya",
+    "parent": "Africa, Somaliland",
+    "parent_chain": [
+      "Africa",
+      "Somaliland"
+    ],
+    "path": "africa/somaliland/lughaya",
+    "url": "/africa/somaliland/lughaya/"
+  },
+  {
+    "embedding_text": "Jinja, Uganda, Africa",
+    "lat": 0.4244,
+    "latitude": 0.4244,
+    "lng": 33.2041,
+    "longitude": 33.2041,
+    "name": "Jinja",
+    "parent": "Africa, Uganda",
+    "parent_chain": [
+      "Africa",
+      "Uganda"
+    ],
+    "path": "africa/uganda/jinja",
+    "url": "/africa/uganda/jinja/"
+  },
+  {
+    "embedding_text": "Windhoek, Namibia, Africa",
+    "lat": -22.57761,
+    "latitude": -22.57761,
+    "lng": 17.077274,
+    "longitude": 17.077274,
+    "name": "Windhoek",
+    "parent": "Africa, Namibia",
+    "parent_chain": [
+      "Africa",
+      "Namibia"
+    ],
+    "path": "africa/namibia/windhoek",
+    "url": "/africa/namibia/windhoek/"
+  },
+  {
+    "embedding_text": "La Paz Centro, Nicaragua, North America",
+    "lat": 12.3388,
+    "latitude": 12.3388,
+    "lng": -86.6753,
+    "longitude": -86.6753,
+    "name": "La Paz Centro",
+    "parent": "North America, Nicaragua",
+    "parent_chain": [
+      "North America",
+      "Nicaragua"
+    ],
+    "path": "northamerica/nicaragua/la_paz_centro",
+    "url": "/northamerica/nicaragua/la_paz_centro/"
+  },
+  {
+    "embedding_text": "Kornati National Park, Croatia, Europe",
+    "lat": 43.7734,
+    "latitude": 43.7734,
+    "lng": 15.3365,
+    "longitude": 15.3365,
+    "name": "Kornati National Park",
+    "parent": "Europe, Croatia",
+    "parent_chain": [
+      "Europe",
+      "Croatia"
+    ],
+    "path": "europe/croatia/kornati_national_park",
+    "url": "/europe/croatia/kornati_national_park/"
+  },
+  {
+    "embedding_text": "F\u00f6hren, Rhineland-Palatinate, Germany, Europe",
+    "lat": 49.859309,
+    "latitude": 49.859309,
+    "lng": 6.767826,
+    "longitude": 6.767826,
+    "name": "F\u00f6hren",
+    "parent": "Europe, Germany, Rhineland-Palatinate",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Rhineland-Palatinate"
+    ],
+    "path": "europe/germany/rhinelandpalatinate/fhren",
+    "url": "/europe/germany/rhinelandpalatinate/fhren/"
+  },
+  {
+    "embedding_text": "Bergerac, Bordeaux and the Atlantic Coast, France, Europe",
+    "lat": 44.8535,
+    "latitude": 44.8535,
+    "lng": 0.4875,
+    "longitude": 0.4875,
+    "name": "Bergerac",
+    "parent": "Europe, France, Bordeaux and the Atlantic Coast",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Bordeaux and the Atlantic Coast"
+    ],
+    "path": "europe/france/aquitaine/bergerac",
+    "url": "/europe/france/aquitaine/bergerac/"
+  },
+  {
+    "embedding_text": "Tazumal Ruins, El Salvador, North America",
+    "lat": 13.9817,
+    "latitude": 13.9817,
+    "lng": -89.6833,
+    "longitude": -89.6833,
+    "name": "Tazumal Ruins",
+    "parent": "North America, El Salvador",
+    "parent_chain": [
+      "North America",
+      "El Salvador"
+    ],
+    "path": "northamerica/elsalvador/tazumal",
+    "url": "/northamerica/elsalvador/tazumal/"
+  },
+  {
+    "embedding_text": "Quweira, Wadi Rum, Jordan, Asia",
+    "lat": 29.805227,
+    "latitude": 29.805227,
+    "lng": 35.311861,
+    "longitude": 35.311861,
+    "name": "Quweira",
+    "parent": "Asia, Jordan, Wadi Rum",
+    "parent_chain": [
+      "Asia",
+      "Jordan",
+      "Wadi Rum"
+    ],
+    "path": "asia/jordan/wadirum/quweira",
+    "url": "/asia/jordan/wadirum/quweira/"
+  },
+  {
+    "embedding_text": "Monterrico, Guatemala, North America",
+    "lat": 13.8933,
+    "latitude": 13.8933,
+    "lng": -90.4783,
+    "longitude": -90.4783,
+    "name": "Monterrico",
+    "parent": "North America, Guatemala",
+    "parent_chain": [
+      "North America",
+      "Guatemala"
+    ],
+    "path": "northamerica/guatemala/monterrico",
+    "url": "/northamerica/guatemala/monterrico/"
+  },
+  {
+    "embedding_text": "Nogent-le-Rotrou, Centre, France, Europe",
+    "lat": 48.3217,
+    "latitude": 48.3217,
+    "lng": 0.8217,
+    "longitude": 0.8217,
+    "name": "Nogent-le-Rotrou",
+    "parent": "Europe, France, Centre",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Centre"
+    ],
+    "path": "europe/france/centre/nogent_le_rotrou",
+    "url": "/europe/france/centre/nogent_le_rotrou/"
+  },
+  {
+    "embedding_text": "Dijon, Burgundy, France, Europe",
+    "lat": 47.321581,
+    "latitude": 47.321581,
+    "lng": 5.04147,
+    "longitude": 5.04147,
+    "name": "Dijon",
+    "parent": "Europe, France, Burgundy",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Burgundy"
+    ],
+    "path": "europe/france/burgundy/dijon",
+    "url": "/europe/france/burgundy/dijon/"
+  },
+  {
+    "embedding_text": "Brodnica, Poland, Europe",
+    "lat": 53.258092,
+    "latitude": 53.258092,
+    "lng": 19.399363,
+    "longitude": 19.399363,
+    "name": "Brodnica",
+    "parent": "Europe, Poland",
+    "parent_chain": [
+      "Europe",
+      "Poland"
+    ],
+    "path": "europe/poland/brodnica",
+    "url": "/europe/poland/brodnica/"
+  },
+  {
+    "embedding_text": "Verbier, Switzerland, Europe",
+    "lat": 46.096101,
+    "latitude": 46.096101,
+    "lng": 7.228676,
+    "longitude": 7.228676,
+    "name": "Verbier",
+    "parent": "Europe, Switzerland",
+    "parent_chain": [
+      "Europe",
+      "Switzerland"
+    ],
+    "path": "europe/switzerland/verbier",
+    "url": "/europe/switzerland/verbier/"
+  },
+  {
+    "embedding_text": "Kruger National Park, South Africa, Africa",
+    "lat": -23.9884,
+    "latitude": -23.9884,
+    "lng": 31.5547,
+    "longitude": 31.5547,
+    "name": "Kruger National Park",
+    "parent": "Africa, South Africa",
+    "parent_chain": [
+      "Africa",
+      "South Africa"
+    ],
+    "path": "africa/southafrica/krugernationalpark",
+    "url": "/africa/southafrica/krugernationalpark/"
+  },
+  {
+    "embedding_text": "Dallas, Texas, United States, North America",
+    "lat": 32.7767,
+    "latitude": 32.7767,
+    "lng": -96.797,
+    "longitude": -96.797,
+    "name": "Dallas",
+    "parent": "North America, United States, Texas",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Texas"
+    ],
+    "path": "northamerica/unitedstates/texas/dallas",
+    "url": "/northamerica/unitedstates/texas/dallas/"
+  },
+  {
+    "embedding_text": "Verbania, Piemonte, Italy, Europe",
+    "lat": 45.9224,
+    "latitude": 45.9224,
+    "lng": 8.5521,
+    "longitude": 8.5521,
+    "name": "Verbania",
+    "parent": "Europe, Italy, Piemonte",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Piemonte"
+    ],
+    "path": "europe/italy/piemonte/verbania",
+    "url": "/europe/italy/piemonte/verbania/"
+  },
+  {
+    "embedding_text": "St Vincent Island, Saint Vincent and the Grenadines, North America",
+    "lat": 13.25,
+    "latitude": 13.25,
+    "lng": -61.2,
+    "longitude": -61.2,
+    "name": "St Vincent Island",
+    "parent": "North America, Saint Vincent and the Grenadines",
+    "parent_chain": [
+      "North America",
+      "Saint Vincent and the Grenadines"
+    ],
+    "path": "northamerica/saintvincentandthegrenadines/stvincentisland",
+    "url": "/northamerica/saintvincentandthegrenadines/stvincentisland/"
+  },
+  {
+    "embedding_text": "Florence, Oregon, United States, North America",
+    "lat": 43.9826,
+    "latitude": 43.9826,
+    "lng": -124.0998,
+    "longitude": -124.0998,
+    "name": "Florence",
+    "parent": "North America, United States, Oregon",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Oregon"
+    ],
+    "path": "northamerica/unitedstates/oregon/florence",
+    "url": "/northamerica/unitedstates/oregon/florence/"
+  },
+  {
+    "embedding_text": "Nova Friburgo, Brazil, South America",
+    "lat": -22.306166,
+    "latitude": -22.306166,
+    "lng": -42.493418,
+    "longitude": -42.493418,
+    "name": "Nova Friburgo",
+    "parent": "South America, Brazil",
+    "parent_chain": [
+      "South America",
+      "Brazil"
+    ],
+    "path": "southamerica/brazil/novafriburgo",
+    "url": "/southamerica/brazil/novafriburgo/"
+  },
+  {
+    "embedding_text": "Bonaventure, Qu\u00e9bec, Canada, North America",
+    "lat": 48.051,
+    "latitude": 48.051,
+    "lng": -65.481,
+    "longitude": -65.481,
+    "name": "Bonaventure",
+    "parent": "North America, Canada, Qu\u00e9bec",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "Qu\u00e9bec"
+    ],
+    "path": "northamerica/canada/quebec/bonaventure",
+    "url": "/northamerica/canada/quebec/bonaventure/"
+  },
+  {
+    "embedding_text": "Panpur, Assam, India, Asia",
+    "lat": 26.7167,
+    "latitude": 26.7167,
+    "lng": 90.9167,
+    "longitude": 90.9167,
+    "name": "Panpur",
+    "parent": "Asia, India, Assam",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Assam"
+    ],
+    "path": "asia/india/assam/panpur",
+    "url": "/asia/india/assam/panpur/"
+  },
+  {
+    "embedding_text": "Issoudun, Centre, France, Europe",
+    "lat": 46.9608,
+    "latitude": 46.9608,
+    "lng": 1.9944,
+    "longitude": 1.9944,
+    "name": "Issoudun",
+    "parent": "Europe, France, Centre",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Centre"
+    ],
+    "path": "europe/france/centre/issoudun",
+    "url": "/europe/france/centre/issoudun/"
+  },
+  {
+    "embedding_text": "Volubilis, Morocco, Africa",
+    "lat": 34.073473,
+    "latitude": 34.073473,
+    "lng": -5.555366,
+    "longitude": -5.555366,
+    "name": "Volubilis",
+    "parent": "Africa, Morocco",
+    "parent_chain": [
+      "Africa",
+      "Morocco"
+    ],
+    "path": "africa/morocco/volubilis",
+    "url": "/africa/morocco/volubilis/"
+  },
+  {
+    "embedding_text": "Penang, Malaysia, Asia",
+    "lat": 5.406501,
+    "latitude": 5.406501,
+    "lng": 100.255908,
+    "longitude": 100.255908,
+    "name": "Penang",
+    "parent": "Asia, Malaysia",
+    "parent_chain": [
+      "Asia",
+      "Malaysia"
+    ],
+    "path": "asia/malaysia/penang",
+    "url": "/asia/malaysia/penang/"
+  },
+  {
+    "embedding_text": "Pereira, Colombia, South America",
+    "lat": 4.8133,
+    "latitude": 4.8133,
+    "lng": -75.6961,
+    "longitude": -75.6961,
+    "name": "Pereira",
+    "parent": "South America, Colombia",
+    "parent_chain": [
+      "South America",
+      "Colombia"
+    ],
+    "path": "southamerica/colombia/pereira",
+    "url": "/southamerica/colombia/pereira/"
+  },
+  {
+    "embedding_text": "Town of 1770, Queensland, Australia, Australia, Pacific & Antarctica",
+    "lat": -24.1615,
+    "latitude": -24.1615,
+    "lng": 151.88,
+    "longitude": 151.88,
+    "name": "Town of 1770",
+    "parent": "Australia, Pacific & Antarctica, Australia, Queensland",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "Queensland"
+    ],
+    "path": "australiaandpacific/australia/queensland/town_of_1770",
+    "url": "/australiaandpacific/australia/queensland/town_of_1770/"
+  },
+  {
+    "embedding_text": "Szentes, Hungary, Europe",
+    "lat": 46.6524,
+    "latitude": 46.6524,
+    "lng": 20.2566,
+    "longitude": 20.2566,
+    "name": "Szentes",
+    "parent": "Europe, Hungary",
+    "parent_chain": [
+      "Europe",
+      "Hungary"
+    ],
+    "path": "europe/hungary/szentes",
+    "url": "/europe/hungary/szentes/"
+  },
+  {
+    "embedding_text": "Nyeri, Central Highlands, Kenya, Africa",
+    "lat": -0.4169,
+    "latitude": -0.4169,
+    "lng": 36.951,
+    "longitude": 36.951,
+    "name": "Nyeri",
+    "parent": "Africa, Kenya, Central Highlands",
+    "parent_chain": [
+      "Africa",
+      "Kenya",
+      "Central Highlands"
+    ],
+    "path": "africa/kenya/centralhighlands/nyeri",
+    "url": "/africa/kenya/centralhighlands/nyeri/"
+  },
+  {
+    "embedding_text": "Sharur, Nakhchivan, Azerbaijan, Europe",
+    "lat": 39.589265,
+    "latitude": 39.589265,
+    "lng": 45.036218,
+    "longitude": 45.036218,
+    "name": "Sharur",
+    "parent": "Europe, Azerbaijan, Nakhchivan",
+    "parent_chain": [
+      "Europe",
+      "Azerbaijan",
+      "Nakhchivan"
+    ],
+    "path": "europe/azerbaijan/naxcivan/sharur",
+    "url": "/europe/azerbaijan/naxcivan/sharur/"
+  },
+  {
+    "embedding_text": "Leamington Spa, West Midlands, England, United Kingdom, Europe",
+    "lat": 52.2913,
+    "latitude": 52.2913,
+    "lng": -1.5364,
+    "longitude": -1.5364,
+    "name": "Leamington Spa",
+    "parent": "Europe, United Kingdom, England, West Midlands",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "West Midlands"
+    ],
+    "path": "europe/unitedkingdom/england/west_midlands/leamingtonspa",
+    "url": "/europe/unitedkingdom/england/west_midlands/leamingtonspa/"
+  },
+  {
+    "embedding_text": "J\u00f6kuls\u00e1rl\u00f3n, Iceland, Europe",
+    "lat": 64.0781,
+    "latitude": 64.0781,
+    "lng": -16.23,
+    "longitude": -16.23,
+    "name": "J\u00f6kuls\u00e1rl\u00f3n",
+    "parent": "Europe, Iceland",
+    "parent_chain": [
+      "Europe",
+      "Iceland"
+    ],
+    "path": "europe/iceland/jokulsarlon",
+    "url": "/europe/iceland/jokulsarlon/"
+  },
+  {
+    "embedding_text": "Mazatlan, Mexico, North America",
+    "lat": 23.203578,
+    "latitude": 23.203578,
+    "lng": -106.420839,
+    "longitude": -106.420839,
+    "name": "Mazatlan",
+    "parent": "North America, Mexico",
+    "parent_chain": [
+      "North America",
+      "Mexico"
+    ],
+    "path": "northamerica/mexico/mazatlan",
+    "url": "/northamerica/mexico/mazatlan/"
+  },
+  {
+    "embedding_text": "Lac Abbe, Djibouti, Africa",
+    "lat": 11.1667,
+    "latitude": 11.1667,
+    "lng": 41.8833,
+    "longitude": 41.8833,
+    "name": "Lac Abbe",
+    "parent": "Africa, Djibouti",
+    "parent_chain": [
+      "Africa",
+      "Djibouti"
+    ],
+    "path": "africa/djibouti/lakeabbe",
+    "url": "/africa/djibouti/lakeabbe/"
+  },
+  {
+    "embedding_text": "Foumban, Cameroon, Africa",
+    "lat": 5.7269,
+    "latitude": 5.7269,
+    "lng": 10.905,
+    "longitude": 10.905,
+    "name": "Foumban",
+    "parent": "Africa, Cameroon",
+    "parent_chain": [
+      "Africa",
+      "Cameroon"
+    ],
+    "path": "africa/cameroon/foumban",
+    "url": "/africa/cameroon/foumban/"
+  },
+  {
+    "embedding_text": "Arta, Greece, Europe",
+    "lat": 39.161321,
+    "latitude": 39.161321,
+    "lng": 20.986264,
+    "longitude": 20.986264,
+    "name": "Arta",
+    "parent": "Europe, Greece",
+    "parent_chain": [
+      "Europe",
+      "Greece"
+    ],
+    "path": "europe/greece/arta",
+    "url": "/europe/greece/arta/"
+  },
+  {
+    "embedding_text": "A Lanzada, Galicia, Spain, Europe",
+    "lat": 42.4469,
+    "latitude": 42.4469,
+    "lng": -8.876,
+    "longitude": -8.876,
+    "name": "A Lanzada",
+    "parent": "Europe, Spain, Galicia",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Galicia"
+    ],
+    "path": "europe/spain/galicia/a_lanzada_beach",
+    "url": "/europe/spain/galicia/a_lanzada_beach/"
+  },
+  {
+    "embedding_text": "Tela, Honduras, North America",
+    "lat": 15.7833,
+    "latitude": 15.7833,
+    "lng": -87.4667,
+    "longitude": -87.4667,
+    "name": "Tela",
+    "parent": "North America, Honduras",
+    "parent_chain": [
+      "North America",
+      "Honduras"
+    ],
+    "path": "northamerica/honduras/tela",
+    "url": "/northamerica/honduras/tela/"
+  },
+  {
+    "embedding_text": "Warsash, South East England, England, United Kingdom, Europe",
+    "lat": 50.8547,
+    "latitude": 50.8547,
+    "lng": -1.2989,
+    "longitude": -1.2989,
+    "name": "Warsash",
+    "parent": "Europe, United Kingdom, England, South East England",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "South East England"
+    ],
+    "path": "europe/unitedkingdom/england/south_east/warsash",
+    "url": "/europe/unitedkingdom/england/south_east/warsash/"
+  }
+]

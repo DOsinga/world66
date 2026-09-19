@@ -5,11 +5,15 @@ done:
 latitude: 10.2623
 loc_type: city
 longitude: 12.9479
-score: 4.3
+score: 3.384
 snippet: Small Adamawa plateau town near the Mandara Mountains, known for the granite
   formations of the Hong Hills.
 title: Hong
 type: location
+heritage: 1.862
+vibrancy: 2.165
+nature: 3.688
+off_the_beaten_track: 5.103
 ---
 
 Hong is a small town in Adamawa State, northeast [Nigeria](/africa/nigeria), roughly 120 km north of [Yola](/africa/nigeria/yola). It sits on a plateau at the edge of the Mandara Mountains, surrounded by rocky hills and farmland, and serves as the headquarters of Hong Local Government Area.

@@ -4,7 +4,7 @@ type: location
 loc_type: feature
 latitude: 40.6475
 longitude: -73.1467
-score: 7.8
+score: 5.384
 snippet: Car-free barrier island off Long Island, known for Atlantic beaches, maritime
   forest, and queer summer communities.
 wikidata: Q1418789
@@ -18,6 +18,10 @@ image: fire_island.jpg
 image_source: https://commons.wikimedia.org/wiki/File:FireIslandLighthouse_080507.jpg
 image_license: Public domain
 image_attribution: Paul Costello
+heritage: 1.417
+vibrancy: 2.971
+nature: 6.91
+off_the_beaten_track: 2.107
 ---
 
 Fire Island is the long, narrow barrier island off the south shore of [Long Island](/northamerica/unitedstates/newyorkstate/long_island), close enough to New York City for a day trip but strange enough to feel like a real departure. Cars are mostly absent, ferries set the rhythm, and the Atlantic side is one continuous run of dunes, surf, and pale sand.

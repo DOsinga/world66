@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cidade_de_Silves.jpg
 latitude: 37.1888
 loc_type: city
 longitude: -8.4387
-score: 8.56
+score: 6.137
 snippet: Historic Algarve hill town, once Moorish al-Gharb's capital and still dominated
   by a red sandstone castle.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Silves
 title: Silves
 type: location
+heritage: 7.404
+vibrancy: 3.248
+nature: 5.214
+off_the_beaten_track: 2.841
 ---
 
 Silves is the most historically significant town in the [Algarve](/europe/portugal/algarve), though you would not know it from its quiet current state. For several centuries during the Moorish period it was the capital of al-Gharb, a city of scholars, poets, and traders whose population and wealth exceeded that of Lisbon. The Crusaders took it in 1189 and the Portuguese recovered it definitively in 1242, after which the town gradually declined in importance, and now it sits peacefully on a hill above the orange groves of the Arade river valley, more pleasant than impressive.

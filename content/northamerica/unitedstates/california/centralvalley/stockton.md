@@ -5,11 +5,15 @@ done:
 latitude: 37.957702
 loc_type: city
 longitude: -121.290779
-score: 4.99
+score: 3.414
 snippet: Central Valley city on the Sacramento–San Joaquin Delta, with waterways,
   levees, and historic river towns nearby.
 title: Stockton
 type: location
+heritage: 3.812
+vibrancy: 3.218
+nature: 3.224
+off_the_beaten_track: 2.695
 ---
 
 Stockton is a large city in California's Central Valley, sitting at the eastern edge of the [Sacramento–San Joaquin River Delta](/northamerica/unitedstates/california/centralvalley/stockton/sacramento_san_joaquin_delta). It is not a tourist destination in the conventional sense, but the surrounding delta — a maze of waterways, levees, and small towns — is one of the most distinctive landscapes in the state.

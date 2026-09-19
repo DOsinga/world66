@@ -2,7 +2,8 @@
 linked_locations:
 - asia/laos/nam_ngum
 - asia/laos/hinboun
-title: 'Day Trips'
+- asia/laos/vangxang
+title: Day Trips
 type: section
 ---
 

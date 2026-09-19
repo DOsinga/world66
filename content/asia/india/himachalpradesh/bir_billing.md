@@ -5,11 +5,15 @@ done:
 latitude: 32.047219
 loc_type: city
 longitude: 76.74065
-score: 7.77
+score: 6.573
 snippet: Himachal village and paragliding hub below Billing meadow, backed by tea
   gardens and Dhauladhar peaks.
 title: Bir Billing
 type: location
+heritage: 0.712
+vibrancy: 5.594
+nature: 7.485
+off_the_beaten_track: 4.732
 ---
 
 Bir is a small village in the Kangra valley of Himachal Pradesh, set among tea gardens and monasteries with the snow wall of the Dhauladhar range rising directly behind it. Half an hour's drive up the mountain, a meadow at 2,400 metres called **Billing** is one of the world's great paragliding launch sites — and the two names have become inseparable. Pilots come here from all over the world, especially in the autumn season, and the village below has grown up around the sport.

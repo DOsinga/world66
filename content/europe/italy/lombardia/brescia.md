@@ -6,7 +6,7 @@ done:
 latitude: 45.539711
 loc_type: city
 longitude: 10.220347
-score: 8.03
+score: 4.896
 title: Brescia
 snippet: Lombard city between Milan and Verona, with Roman ruins, Venetian streets,
   and the Santa Giulia complex.
@@ -15,6 +15,10 @@ image: brescia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:481BresciaLoggia.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Geobia
+heritage: 5.958
+vibrancy: 3.616
+nature: 3.465
+off_the_beaten_track: 2.126
 ---
 
 Brescia is Lombardy's second city after Milan — an old Roman, medieval and industrial town of about 200,000 people halfway between [Milan](/europe/italy/lombardia/milan) and [Verona](/europe/italy/veneto/verona), and a short drive from the southern shore of **Lake Garda**. Most travellers skip it, which is a pity, because the compact historic centre has one of the best-preserved Roman quarters in northern Italy and a distinct Venetian atmosphere (Brescia spent four centuries under the Serenissima's rule).

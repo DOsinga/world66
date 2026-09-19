@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kaohsiung_Music_Center_and
 latitude: 22.620335
 loc_type: city
 longitude: 120.312038
-score: 8.21
+score: 6.349
 snippet: Tropical port city in southern Taiwan, reshaped from heavy industry by riverfront
   and harbour renewal.
 title: Kaohsiung
 type: location
+heritage: 6.306
+vibrancy: 6.414
+nature: 5.333
+off_the_beaten_track: 1.811
 ---
 
 Kaohsiung is Taiwan's second city and its main port, sitting at the southern end of the island where the climate is truly tropical. It spent most of the 20th century as a heavy industry hub — steel, shipbuilding, petrochemicals — and is still reinventing itself, but the transformation is well underway.

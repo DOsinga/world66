@@ -1,12 +1,12 @@
 ---
 title: Conserveira de Lisboa
 type: poi
-latitude: 38.7097
-longitude: -9.1330
+latitude: 38.7093
+longitude: -9.1347
 tags:
   - shopping
-  - baixa
   - market
+  - alfama
 story: >
   The Portuguese sardine-canning industry began in the late 19th century along
   the Atlantic coast, supplying the same protein that fresh sardines provided

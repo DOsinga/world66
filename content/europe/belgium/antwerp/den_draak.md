@@ -11,7 +11,7 @@ type: poi
 score: 4.7
 ---
 
-Gay and Lesbian cafe near [Cogels Ocylei](/europe/belgium/antwerp/sights/cogelsosylei)profits are going to community projects for gay integration.
+Gay and Lesbian cafe near [Cogels Ocylei](/europe/belgium/antwerp/cogelsosylei)profits are going to community projects for gay integration.
 
 type: Gay and Lesbian
 

@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Shravanabelagola_Hillview.
 latitude: 12.8547
 loc_type: city
 longitude: 76.4859
-score: 7.57
+score: 5.933
 snippet: Jain pilgrimage town in Karnataka, dominated by the monolithic Gommateshwara
   statue on Vindhyagiri Hill.
 title: Sravanabelagola
 type: location
+heritage: 7.689
+vibrancy: 3.43
+nature: 3.523
+off_the_beaten_track: 2.306
 ---
 
 Sravanabelagola is home to the [Gommateshwara statue](/asia/india/karnataka/sravanabelagola/gommateshwara_statue), a 17-metre monolithic figure of Lord Bahubali carved in 981 AD and widely considered the tallest freestanding monolithic statue in the world. It stands on top of Vindhyagiri Hill and can be seen for miles across the surrounding plains. Climbing the 614 rock-cut steps to the top is part of the experience.

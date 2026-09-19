@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Amalfi_veduta_dalla_barca.
 latitude: 40.63367
 loc_type: city
 longitude: 14.602609
-score: 8.9
+score: 5.894
 snippet: Cliff-hung Campanian coast where pastel towns and lemon terraces line the
   southern Sorrento peninsula.
 tags:
 - amalfi_coast
 title: Amalfi
 type: location
+heritage: 2.916
+vibrancy: 4.128
+nature: 7.141
+off_the_beaten_track: 1.459
 ---
 
 *Europe > Italy > Campania > Amalfi*

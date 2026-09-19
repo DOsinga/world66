@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 37.9414
 longitude: -114.4489
-score: 6.7
+score: 5.992
 snippet: High-desert Nevada silver town with a violent boomtown past and stubborn
   historic buildings.
 sources:
@@ -14,6 +14,10 @@ image: pioche.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2015-01-15_12_29_35_View_northeast_across_Pioche,_Nevada_from_Nevada_State_Route_321.JPG
 image_license: CC BY-SA 4.0
 image_attribution: Famartin
+heritage: 3.355
+vibrancy: 1.684
+nature: 7.402
+off_the_beaten_track: 6.18
 ---
 
 Pioche is a former silver mining town in eastern Nevada, high enough above the desert to be cooler than Las Vegas and remote enough to feel like the edge of the map. It was one of the roughest mining camps in the Old West, with a local legend that dozens of men died violently before the town recorded its first natural death.

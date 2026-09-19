@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Casa_condado_espinoza_de_L
 latitude: 25.792806
 loc_type: city
 longitude: -108.990188
-score: 6.63
+score: 4.5
 title: Los Mochis
 type: location
 snippet: Sinaloa city serving as the western gateway to Copper Canyon and the Chepe
   railway.
+heritage: 2.68
+vibrancy: 3.062
+nature: 5.495
+off_the_beaten_track: 2.074
 ---
 
 Los Mochis is the western gateway to the Copper Canyon (Barrancas del Cobre), one of Mexico's most spectacular natural landscapes. Most travellers pass through on their way to or from the famous Chepe railway, which climbs from sea level into the Sierra Madre Occidental — but the city and its surroundings are worth more than a quick overnight.

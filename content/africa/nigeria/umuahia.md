@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 5.5333
 longitude: 7.4833
-score: 6.65
-snippet: Abia State capital with Nigeria's main Civil War museum and Biafran command bunker.
+score: 3.894
+snippet: Abia State capital with Nigeria's main Civil War museum and Biafran command
+  bunker.
 wikidata: Q203301
 sources:
-  - https://en.wikivoyage.org/wiki/Umuahia
-  - https://en.wikipedia.org/wiki/Umuahia
-  - https://en.wikipedia.org/wiki/National_War_Museum,_Umuahia
+- https://en.wikivoyage.org/wiki/Umuahia
+- https://en.wikipedia.org/wiki/Umuahia
+- https://en.wikipedia.org/wiki/National_War_Museum,_Umuahia
+heritage: 4.182
+vibrancy: 2.165
+nature: 3.809
+off_the_beaten_track: 6.039
 ---
 
 Umuahia is the capital of Abia State and a busy Igbo market city in southeastern Nigeria. For most travellers it is not a casual sightseeing town. Its pull is specific and serious: it was the second capital of Biafra during the Nigerian Civil War, and two of the country's most important Civil War memory sites are here.

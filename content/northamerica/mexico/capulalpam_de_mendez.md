@@ -2,7 +2,7 @@
 latitude: 17.3037
 loc_type: city
 longitude: -96.4473
-score: 7.25
+score: 5.498
 snippet: Zapotec mountain village in Oaxaca's Sierra Norte, known for traditional
   medicine and forest walks.
 sources:
@@ -14,6 +14,10 @@ image: capulalpam_de_mendez.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Capulalpam24.JPG
 image_license: CC BY-SA 3.0
 image_attribution: AlejandroLinaresGarcia
+heritage: 5.428
+vibrancy: 3.621
+nature: 6.221
+off_the_beaten_track: 4.283
 ---
 
 Capulalpam de Méndez is a small Zapotec village high in Oaxaca's Sierra Norte, usually shortened to Capulalpam. It has fewer than 1,500 residents, a cool mountain climate, and the kind of zócalo where sitting still for half an hour feels like part of the trip.

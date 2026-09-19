@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Boat_hanger_near_Chirala_b
 latitude: 15.836152
 loc_type: city
 longitude: 80.363664
-score: 5.68
+score: 3.888
 snippet: Andhra Pradesh weaving town on the Bay of Bengal, known for Chirala sarees
   and fishing beaches
 sources:
 - https://en.wikipedia.org/wiki/Chirala
 title: Chirala
 type: location
+heritage: 1.961
+vibrancy: 2.557
+nature: 4.791
+off_the_beaten_track: 1.781
 ---
 
 Chirala is a coastal town in Andhra Pradesh, set on the Bay of Bengal about 60 kilometres south of Guntur. It is best known for its handloom weaving industry — the town produces fine cotton fabrics, particularly the Chirala saree, a lightweight cloth sold here at prices far below what you pay in Hyderabad or Chennai. The [cloth market](/asia/india/andhrapradesh/chirala/chirala_cloth_market) at the centre of town gives a good sense of the working life of coastal Andhra.

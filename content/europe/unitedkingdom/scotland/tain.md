@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 57.81157
 longitude: -4.05486
-score: 6.3
+score: 5.281
 snippet: Easter Ross royal burgh with whisky, pilgrimage history, and Dornoch Firth
   golf.
 sources:
@@ -17,6 +17,10 @@ image: tain.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Casks_maturing_at_The_Glenmorangie_Distillery.jpg
 image_license: Public domain
 image_attribution: Glenmorangie
+heritage: 4.609
+vibrancy: 1.487
+nature: 6.232
+off_the_beaten_track: 4.085
 ---
 
 Tain is a small Easter Ross town north of [Inverness](/europe/unitedkingdom/scotland/inverness), set just inland from the Dornoch Firth. It is old by Highland standards: Scotland's oldest royal burgh, a medieval pilgrimage stop for St Duthac, and now better known to many travellers as the home of Glenmorangie whisky.

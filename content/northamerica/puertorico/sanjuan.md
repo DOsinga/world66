@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:USA-2016-Puerto_Rico-San_J
 latitude: 18.46633
 loc_type: city
 longitude: -66.10572
-score: 8.96
+score: 6.282
 snippet: Puerto Rican capital where walled Old San Juan meets Caribbean beaches and
   massive Spanish fortifications
 title: San Juan
 type: location
+heritage: 6.029
+vibrancy: 6.425
+nature: 5.619
+off_the_beaten_track: 1.56
 ---
 
 San Juan is Puerto Rico's capital and the largest city in the Caribbean, with a population of about one million. It sits on the northeastern coast of the island, and the contrast between its parts is pronounced: Old San Juan — a 7-square-block walled city on a small peninsula — is one of the best-preserved Spanish colonial towns in the Americas, while the resort strip of Condado and Isla Verde is all high-rise hotels and beach clubs.

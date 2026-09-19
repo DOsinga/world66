@@ -1,13 +1,16 @@
 ---
-title: "Mount Trebević"
-type: poi
 latitude: 43.8289
 longitude: 18.4406
-tags:
-  - things_to_do
-  - sight
-  - wildlife
 score: 8.6
+sources:
+- https://www.kathmanduandbeyond.com/alternative-things-to-do-in-sarajevo-bosnia/
+tags:
+- things_to_do
+- sight
+- wildlife
+- blogs_worth_reading_on_sarajevo
+title: Mount Trebević
+type: poi
 ---
 
 Mount Trebević rises directly behind Sarajevo's old town to 1,629 metres, and a rebuilt cable car (the original was destroyed in the siege) whisks you up from the suburb of Bistrik in a few minutes. The views from the top are panoramic — the city spread below, the Miljacka valley stretching westward, and the Dinaric Alps rolling into the distance.

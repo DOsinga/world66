@@ -4,13 +4,17 @@ type: location
 loc_type: city
 latitude: 46.4
 longitude: 8.1333
-score: 7.4
+score: 5.982
 snippet: Valais village at the cable-car foot of the Eggishorn and Aletsch Glacier.
 wikidata: Q68051
 sources:
-  - https://en.wikivoyage.org/wiki/Fiesch
-  - https://www.myswitzerland.com/en-us/destinations/fiesch/
-  - https://www.myswitzerland.com/en-gb/destinations/aletsch-arena/
+- https://en.wikivoyage.org/wiki/Fiesch
+- https://www.myswitzerland.com/en-us/destinations/fiesch/
+- https://www.myswitzerland.com/en-gb/destinations/aletsch-arena/
+heritage: 3.416
+vibrancy: 2.392
+nature: 7.825
+off_the_beaten_track: 4.094
 ---
 
 Fiesch is a small Valais village with one big trick: the lift from the railway station climbs straight into the Aletsch Arena, giving easy access to the [Eggishorn](/europe/switzerland/fiesch/eggishorn) and one of the best views of the Great Aletsch Glacier.

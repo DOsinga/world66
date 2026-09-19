@@ -5,7 +5,7 @@ loc_type: feature
 latitude: 46.66178
 longitude: -102.55994
 wikidata: Q5375370
-score: 6.5
+score: 3.079
 snippet: Lonely North Dakota farm road lined with giant scrap-metal sculptures between
   Gladstone and Regent.
 sources:
@@ -16,6 +16,10 @@ image: enchanted_highway.jpg
 image_source: https://commons.wikimedia.org/wiki/File:%22Pheasants_on_the_Prairie,%22_Enchanted_Highway,_Regent,_North_Dakota_LCCN2010630885.tif
 image_license: Public domain
 image_attribution: Carol M. Highsmith
+heritage: 3.69
+vibrancy: 1.415
+nature: 2.671
+off_the_beaten_track: 2.321
 ---
 
 The Enchanted Highway is not Regent, and that is the point. The village at the southern end is tiny; the travel value is the 32-mile rural road from Interstate 94 near Gladstone down to Regent, where huge scrap-metal sculptures rise out of wheat fields and prairie sky.

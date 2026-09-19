@@ -4,7 +4,7 @@ done:
 latitude: 12.518
 loc_type: island
 longitude: -61.385
-score: 7.28
+score: 4.985
 snippet: Tiny Grenadian volcanic island with boatbuilding traditions, fishing life,
   and views across the Grenadines.
 sources:
@@ -12,6 +12,10 @@ sources:
 - https://www.puregrenada.com/about-petite-martinique/
 title: Petite Martinique
 type: location
+heritage: 3.272
+vibrancy: 1.579
+nature: 6.194
+off_the_beaten_track: 5.024
 ---
 
 Petite Martinique is the smallest inhabited island in Grenada, a steep volcanic dot east of Carriacou with about 900 residents and a strong boatbuilding and fishing tradition. It is close enough to Carriacou for a day trip, but it feels more remote: fewer vehicles, fewer services, and a social life tied closely to the waterfront.

@@ -5,11 +5,15 @@ done:
 latitude: 0.8281
 loc_type: city
 longitude: -77.6414
-score: 7.22
+score: 5.546
 snippet: Southern Colombian border town near Ecuador, chiefly visited for the canyon-spanning
   Las Lajas Sanctuary.
 title: Ipiales
 type: location
+heritage: 3.496
+vibrancy: 4.019
+nature: 6.654
+off_the_beaten_track: 5.191
 ---
 
 Ipiales is a border town in the far south of Colombia, right on the line with Ecuador. It has the feel of most border crossings — busy, transactional, not somewhere you'd linger by choice. The [Rumichaca Bridge](/southamerica/colombia/ipiales/rumichaca_bridge) to Tulcán is the main land crossing between the two countries, and most travellers pass through quickly in one direction or the other.

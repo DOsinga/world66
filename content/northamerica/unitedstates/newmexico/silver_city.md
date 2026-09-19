@@ -2,19 +2,24 @@
 title: Silver City
 type: location
 loc_type: city
-latitude: 32.7700
+latitude: 32.77
 longitude: -108.2803
-score: 7.1
+score: 5.221
 wikidata: Q985526
-snippet: Southwestern New Mexico mining town with an artsy centre and Gila country on its doorstep.
+snippet: Southwestern New Mexico mining town with an artsy centre and Gila country
+  on its doorstep.
 sources:
-  - https://en.wikivoyage.org/wiki/Silver_City
-  - https://en.wikipedia.org/wiki/Silver_City,_New_Mexico
-  - https://www.wikidata.org/wiki/Q985526
+- https://en.wikivoyage.org/wiki/Silver_City
+- https://en.wikipedia.org/wiki/Silver_City,_New_Mexico
+- https://www.wikidata.org/wiki/Q985526
 image: silver_city.jpg
 image_source: https://commons.wikimedia.org/wiki/File:View_of_Downtown_Silver_City_from_Chihuahua_Hill.jpg
 image_license: CC BY-SA 3.0
 image_attribution: PA Stanley
+heritage: 4.179
+vibrancy: 4.797
+nature: 5.775
+off_the_beaten_track: 4.51
 ---
 
 Silver City is an old mining town in southwest New Mexico, set below the Pinos Altos Range and close to the edge of the Gila Wilderness. It has enough life of its own to be more than a supply stop: a compact historic centre, galleries, a university, and a local habit of turning rough edges into art.

@@ -1,17 +1,21 @@
 ---
-latitude: 18.1500
+latitude: 18.15
 loc_type: feature
-longitude: -68.7200
-score: 8.6
+longitude: -68.72
+score: 5.579
 snippet: Protected island of coconut palms and white-sand beaches at the southeastern
   tip of the Dominican Republic, part of the Parque Nacional del Este.
-story: Christopher Columbus first spotted Saona on his second voyage in 1494 and
-  named it after Michele de Cuneo, a nobleman from Savona in Italy. The island has
-  been largely uninhabited ever since — most of its visitors arrive on day-trip catamarans
+story: Christopher Columbus first spotted Saona on his second voyage in 1494 and named
+  it after Michele de Cuneo, a nobleman from Savona in Italy. The island has been
+  largely uninhabited ever since — most of its visitors arrive on day-trip catamarans
   and are gone by late afternoon, leaving a few hundred residents of the small village
   of Mano Juan.
 title: Isla Saona
 type: location
+heritage: 2.197
+vibrancy: 2.957
+nature: 7.218
+off_the_beaten_track: 3.835
 ---
 
 Isla Saona is the largest island off the southeastern Dominican Republic coast, sitting at the tip of the country where the Caribbean Sea meets the Atlantic. Long, flat, and fringed with coconut palms, it forms part of the Parque Nacional del Este — a designation that has kept hotels off the island and the beaches in largely pristine condition.

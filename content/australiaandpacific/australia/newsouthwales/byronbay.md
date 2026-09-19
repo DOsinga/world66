@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Byron_Bay_Lighthouse,_Beac
 latitude: -28.6434
 loc_type: city
 longitude: 153.6122
-score: 8.87
+score: 7.664
 snippet: Beach town at mainland Australia's easternmost point, known for surf and
   alternative coastal culture.
 tags:
@@ -18,6 +18,10 @@ tags:
 - beaches
 title: Byron Bay
 type: location
+heritage: 0.827
+vibrancy: 7.23
+nature: 8.385
+off_the_beaten_track: 1.939
 ---
 
 Byron Bay is a small beach town on the far northern coast of New South Wales, right at the easternmost tip of the Australian mainland, and one of the most beloved destinations in the country. It started as a whaling station, then became a hippie retreat in the 1970s, and somehow managed to keep enough of that relaxed, alternative identity through decades of development to still feel unlike anywhere else on the east coast. The combination of sub-tropical climate, long white beaches, surf, and a lingering counterculture has made it both a rite of passage for young backpackers and a weekender's paradise for Sydney-siders — and, increasingly, a playground for celebrities and Instagram influencers who have bought up the hinterland.

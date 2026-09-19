@@ -5,11 +5,15 @@ done:
 latitude: 51.152565
 loc_type: city
 longitude: 11.809919
-score: 7.26
+score: 6.322
 title: Naumburg
 snippet: Saale valley cathedral city, known for its UNESCO-listed medieval cathedral
   and lifelike donor statues.
 type: location
+heritage: 8.116
+vibrancy: 3.813
+nature: 3.686
+off_the_beaten_track: 2.622
 ---
 
 Naumburg an der Saale is an old cathedral city on the fast rail line between [Leipzig](/europe/germany/saxony/leipzig) and [Weimar](/europe/germany/thuringia/weimar), reachable from both in under an hour. Rather neglected for decades, the 30,000-inhabitant city has made giant steps in restoring its historic buildings since reunification.

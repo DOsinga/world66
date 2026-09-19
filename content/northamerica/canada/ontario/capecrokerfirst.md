@@ -5,11 +5,15 @@ done:
 latitude: 44.893
 loc_type: city
 longitude: -81.1175
-score: 6.82
+score: 5.688
 snippet: First Nations reserve on the Bruce Peninsula, overlooking Georgian Bay from
   limestone bluffs and cold clear water.
 title: Cape Croker
 type: location
+heritage: 3.576
+vibrancy: 1.399
+nature: 7.301
+off_the_beaten_track: 4.359
 ---
 
 **Cape Croker** (Neyaashiinigmiing) is a [Chippewas of Nawash First Nation](/northamerica/canada/ontario/capecrokerfirst/chippewas_of_nawash) reserve on the Bruce Peninsula, overlooking Georgian Bay. The reserve has never left Indigenous control and is one of the more welcoming First Nations communities for visitors in Ontario.

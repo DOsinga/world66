@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Avioth,_Notre-Dame,_exteri
 latitude: 49.012968
 loc_type: city
 longitude: 5.428669
-score: 6.6
+score: 4.728
 snippet: Quiet Lorraine department of forests and river valleys, marked by Verdun's
   World War I battlefields
 title: Meuse
 type: location
+heritage: 6.353
+vibrancy: 2.277
+nature: 2.464
+off_the_beaten_track: 3.271
 ---
 
 The department of Meuse in the Grand Est region occupies a quiet stretch of historical Lorraine: rolling agricultural plateaux, dense oak and beech forests, and river valleys that see relatively few tourists compared to their neighbors in Alsace and the Vosges. The Meuse river itself gives the department its name, rising in the plateau and flowing north through gently farmed land before crossing into Belgium. For most of the year the landscape has a contemplative, slightly melancholy beauty — which makes it fitting that this is also some of the most fought-over ground in Europe.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Okanagan_Lake,_Kelowna,_BC
 latitude: 49.8879
 loc_type: city
 longitude: -119.4959
-score: 8.09
+score: 5.716
 title: Kelowna
 type: location
 snippet: Okanagan Lake city at the heart of British Columbia wine country, backed
   by orchards and vineyards.
+heritage: 2.826
+vibrancy: 4.982
+nature: 6.453
+off_the_beaten_track: 1.514
 ---
 
 Kelowna is the largest city in British Columbia's Okanagan Valley, spread along the eastern shore of Okanagan Lake. What was once orchard country has grown into a mid-sized city, but the remaining orchards and vineyards still press against the hills, and the lake dominates everything.

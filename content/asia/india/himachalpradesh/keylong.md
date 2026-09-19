@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:East_Keylong_Lahaul_Himach
 latitude: 32.57134
 loc_type: city
 longitude: 77.03452
-score: 7.04
+score: 6.265
 title: Keylong
 type: location
 snippet: High Lahaul valley town on the Manali-Leh road, surrounded by gompas and
   terraced fields.
+heritage: 4.516
+vibrancy: 1.478
+nature: 7.797
+off_the_beaten_track: 6.219
 ---
 
 Keylong is the administrative capital of the Lahaul-Spiti district in Himachal Pradesh, perched at 3,350 metres in the valley of the Bhaga River. It sits on the Manali–Leh highway and makes a natural overnight halt for travellers on that spectacular route — a chance to acclimatise before pushing higher toward Ladakh.

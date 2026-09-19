@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Landing_at_Gallipoli_(1390
 latitude: 40.310675
 loc_type: city
 longitude: 26.406377
-score: 8.4
+score: 5.075
 snippet: Dardanelles peninsula of First World War battlefields, shared memorials,
   and Turkish, Australian, and New Zealand memory
 title: Gallipoli
 type: location
+heritage: 6.522
+vibrancy: 2.237
+nature: 3.406
+off_the_beaten_track: 3.821
 ---
 
 The Gallipoli Peninsula — Gelibolu Yarımadası in Turkish — is one of the most significant WWI battlefield landscapes in the world. For eight and a half months in 1915, men from across the empire fought here in one of the war's most consequential campaigns: an Allied attempt to force open the Dardanelles, knock the Ottoman Empire out of the war, and open a southern route to Russia.

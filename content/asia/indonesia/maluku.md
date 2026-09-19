@@ -9,6 +9,10 @@ snippet: Indonesian island region of historic Spice Islands, colonial forts, cor
   reefs, and volcanic Banda landscapes
 title: Maluku
 type: location
+image: maluku.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Pantai_Kolorai,_Maluku_Utara.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Andika25051996
 ---
 
 The beautiful and unspoilt historic Spice Islands of Maluku have great beaches, old forts and good diving.

@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Sandav%C3%A1gur,_Faroe_Isl
 latitude: 62.0545
 loc_type: city
 longitude: -7.1511
-score: 7.56
+score: 6.045
 snippet: Vágar village reached from the Streymoy subsea tunnel, with a churchyard
   Viking runestone.
 title: Sandavágur
 type: location
+heritage: 2.504
+vibrancy: 1.724
+nature: 7.427
+off_the_beaten_track: 6.368
 ---
 
 Sandavágur is one of the larger villages on the island of Vágar in the Faroe Islands, and the first settlement you reach after emerging from the subsea tunnel from Streymoy. The village has a fine [church](/europe/faroeislands/vagar/sandavgur/sandavagur_church) and sits in a broad valley with views toward the mountains. A runestone in the churchyard, one of the few in the Faroes, dates from the Viking period.

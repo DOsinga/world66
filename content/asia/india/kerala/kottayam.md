@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kottayam,_Kerala,_India_-_
 latitude: 9.628738
 loc_type: city
 longitude: 76.645533
-score: 6.99
+score: 5.317
 snippet: Kerala town between backwaters and hills, known for lakes, latex, letters,
   and routes to Kumarakom.
 title: Kottayam
 type: location
+heritage: 6.51
+vibrancy: 3.848
+nature: 4.283
+off_the_beaten_track: 3.028
 ---
 
 Kottayam sits between the backwaters and the hills, surrounded by rubber plantations, rice paddies and lakes. Known as the "land of lakes, latex and letters," it has one of the highest literacy rates in India and is home to several prominent newspapers and publishing houses.

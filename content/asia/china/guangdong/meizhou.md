@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Hakka_Houses,_Meizhou_2006
 latitude: 24.2998
 loc_type: city
 longitude: 116.1191
-score: 6.29
+score: 4.119
 snippet: Hakka ancestral city in northeastern Guangdong, set in a river valley with
   a far-reaching diaspora.
 sources:
 - https://en.wikivoyage.org/wiki/Meizhou
 title: Meizhou
 type: location
+heritage: 3.854
+vibrancy: 3.194
+nature: 4.751
+off_the_beaten_track: 3.769
 ---
 
 Meizhou is the ancestral capital of the Hakka people — the group whose name means "guest families," a reference to their historical migrations southward from the Central Plains over a thousand years ago. The city sits in a river valley in northeastern Guangdong, surrounded by forested hills, and its overseas diaspora is immense: an estimated 1.3 million Meizhou-origin people live abroad, scattered across Southeast Asia, the Americas, and beyond. The [Hakka Museum of China](/asia/china/guangdong/meizhou/hakka_museum), free to enter, gives this history a serious institutional form and is one of the better ethnographic museums in the province.

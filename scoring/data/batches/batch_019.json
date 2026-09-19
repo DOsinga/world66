@@ -1,0 +1,782 @@
+[
+  {
+    "embedding_text": "Adana, Turkey, Asia",
+    "lat": 36.98636,
+    "latitude": 36.98636,
+    "lng": 35.325286,
+    "longitude": 35.325286,
+    "name": "Adana",
+    "parent": "Asia, Turkey",
+    "parent_chain": [
+      "Asia",
+      "Turkey"
+    ],
+    "path": "asia/turkey/adana",
+    "url": "/asia/turkey/adana/"
+  },
+  {
+    "embedding_text": "Bequia, Saint Vincent and the Grenadines, North America",
+    "lat": 13.0087,
+    "latitude": 13.0087,
+    "lng": -61.2327,
+    "longitude": -61.2327,
+    "name": "Bequia",
+    "parent": "North America, Saint Vincent and the Grenadines",
+    "parent_chain": [
+      "North America",
+      "Saint Vincent and the Grenadines"
+    ],
+    "path": "northamerica/saintvincentandthegrenadines/bequia",
+    "url": "/northamerica/saintvincentandthegrenadines/bequia/"
+  },
+  {
+    "embedding_text": "Panaca, Nevada, United States, North America",
+    "lat": 37.7911,
+    "latitude": 37.7911,
+    "lng": -114.3889,
+    "longitude": -114.3889,
+    "name": "Panaca",
+    "parent": "North America, United States, Nevada",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Nevada"
+    ],
+    "path": "northamerica/unitedstates/nevada/panaca",
+    "url": "/northamerica/unitedstates/nevada/panaca/"
+  },
+  {
+    "embedding_text": "Adelaide, South Australia, Australia, Australia, Pacific & Antarctica",
+    "lat": -34.928181,
+    "latitude": -34.928181,
+    "lng": 138.599931,
+    "longitude": 138.599931,
+    "name": "Adelaide",
+    "parent": "Australia, Pacific & Antarctica, Australia, South Australia",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "South Australia"
+    ],
+    "path": "australiaandpacific/australia/southaustralia/adelaide",
+    "url": "/australiaandpacific/australia/southaustralia/adelaide/"
+  },
+  {
+    "embedding_text": "Eastham, Cape Cod, Massachusetts, United States, North America",
+    "lat": 41.83,
+    "latitude": 41.83,
+    "lng": -69.9744,
+    "longitude": -69.9744,
+    "name": "Eastham",
+    "parent": "North America, United States, Massachusetts, Cape Cod",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Massachusetts",
+      "Cape Cod"
+    ],
+    "path": "northamerica/unitedstates/massachusetts/capecod/eastham",
+    "url": "/northamerica/unitedstates/massachusetts/capecod/eastham/"
+  },
+  {
+    "embedding_text": "Amiens, Nord, France, Europe",
+    "lat": 49.893,
+    "latitude": 49.893,
+    "lng": 2.2993,
+    "longitude": 2.2993,
+    "name": "Amiens",
+    "parent": "Europe, France, Nord",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Nord"
+    ],
+    "path": "europe/france/nord/amiens",
+    "url": "/europe/france/nord/amiens/"
+  },
+  {
+    "embedding_text": "Cartersville, Georgia, United States, North America",
+    "lat": 34.16523,
+    "latitude": 34.16523,
+    "lng": -84.799761,
+    "longitude": -84.799761,
+    "name": "Cartersville",
+    "parent": "North America, United States, Georgia",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Georgia"
+    ],
+    "path": "northamerica/unitedstates/georgia/cartersville",
+    "url": "/northamerica/unitedstates/georgia/cartersville/"
+  },
+  {
+    "embedding_text": "Enschede, Netherlands, Europe",
+    "lat": 52.220985,
+    "latitude": 52.220985,
+    "lng": 6.894054,
+    "longitude": 6.894054,
+    "name": "Enschede",
+    "parent": "Europe, Netherlands",
+    "parent_chain": [
+      "Europe",
+      "Netherlands"
+    ],
+    "path": "europe/netherlands/enschede",
+    "url": "/europe/netherlands/enschede/"
+  },
+  {
+    "embedding_text": "Mistra, Greece, Europe",
+    "lat": 37.068905,
+    "latitude": 37.068905,
+    "lng": 22.375748,
+    "longitude": 22.375748,
+    "name": "Mistra",
+    "parent": "Europe, Greece",
+    "parent_chain": [
+      "Europe",
+      "Greece"
+    ],
+    "path": "europe/greece/mistra",
+    "url": "/europe/greece/mistra/"
+  },
+  {
+    "embedding_text": "El Imposible National Park, El Salvador, North America",
+    "lat": 13.8417,
+    "latitude": 13.8417,
+    "lng": -89.9575,
+    "longitude": -89.9575,
+    "name": "El Imposible National Park",
+    "parent": "North America, El Salvador",
+    "parent_chain": [
+      "North America",
+      "El Salvador"
+    ],
+    "path": "northamerica/elsalvador/elimposiblenationalpark",
+    "url": "/northamerica/elsalvador/elimposiblenationalpark/"
+  },
+  {
+    "embedding_text": "Battle Creek, Michigan, United States, North America",
+    "lat": 42.312222,
+    "latitude": 42.312222,
+    "lng": -85.204167,
+    "longitude": -85.204167,
+    "name": "Battle Creek",
+    "parent": "North America, United States, Michigan",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Michigan"
+    ],
+    "path": "northamerica/unitedstates/michigan/battle_creek",
+    "url": "/northamerica/unitedstates/michigan/battle_creek/"
+  },
+  {
+    "embedding_text": "Ruta de las Flores, El Salvador, North America",
+    "lat": 13.8769,
+    "latitude": 13.8769,
+    "lng": -89.65,
+    "longitude": -89.65,
+    "name": "Ruta de las Flores",
+    "parent": "North America, El Salvador",
+    "parent_chain": [
+      "North America",
+      "El Salvador"
+    ],
+    "path": "northamerica/elsalvador/rutadelasflores",
+    "url": "/northamerica/elsalvador/rutadelasflores/"
+  },
+  {
+    "embedding_text": "Jefferson City, Missouri, United States, North America",
+    "lat": 38.577359,
+    "latitude": 38.577359,
+    "lng": -92.172427,
+    "longitude": -92.172427,
+    "name": "Jefferson City",
+    "parent": "North America, United States, Missouri",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Missouri"
+    ],
+    "path": "northamerica/unitedstates/missouri/jeffersoncity",
+    "url": "/northamerica/unitedstates/missouri/jeffersoncity/"
+  },
+  {
+    "embedding_text": "Diamantina, Brazil, South America",
+    "lat": -18.244086,
+    "latitude": -18.244086,
+    "lng": -43.600649,
+    "longitude": -43.600649,
+    "name": "Diamantina",
+    "parent": "South America, Brazil",
+    "parent_chain": [
+      "South America",
+      "Brazil"
+    ],
+    "path": "southamerica/brazil/diamantina",
+    "url": "/southamerica/brazil/diamantina/"
+  },
+  {
+    "embedding_text": "Loreto, Marche, Italy, Europe",
+    "lat": 43.4406,
+    "latitude": 43.4406,
+    "lng": 13.608,
+    "longitude": 13.608,
+    "name": "Loreto",
+    "parent": "Europe, Italy, Marche",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Marche"
+    ],
+    "path": "europe/italy/marche/loreto",
+    "url": "/europe/italy/marche/loreto/"
+  },
+  {
+    "embedding_text": "Lares, Puerto Rico, North America",
+    "lat": 18.295,
+    "latitude": 18.295,
+    "lng": -66.878611,
+    "longitude": -66.878611,
+    "name": "Lares",
+    "parent": "North America, Puerto Rico",
+    "parent_chain": [
+      "North America",
+      "Puerto Rico"
+    ],
+    "path": "northamerica/puertorico/lares",
+    "url": "/northamerica/puertorico/lares/"
+  },
+  {
+    "embedding_text": "Pasto, Colombia, South America",
+    "lat": 1.214028,
+    "latitude": 1.214028,
+    "lng": -77.27851,
+    "longitude": -77.27851,
+    "name": "Pasto",
+    "parent": "South America, Colombia",
+    "parent_chain": [
+      "South America",
+      "Colombia"
+    ],
+    "path": "southamerica/colombia/pasto",
+    "url": "/southamerica/colombia/pasto/"
+  },
+  {
+    "embedding_text": "Tapachula, Mexico, North America",
+    "lat": 14.9,
+    "latitude": 14.9,
+    "lng": -92.283,
+    "longitude": -92.283,
+    "name": "Tapachula",
+    "parent": "North America, Mexico",
+    "parent_chain": [
+      "North America",
+      "Mexico"
+    ],
+    "path": "northamerica/mexico/tapachula",
+    "url": "/northamerica/mexico/tapachula/"
+  },
+  {
+    "embedding_text": "Holmavik, Iceland, Europe",
+    "lat": 65.706497,
+    "latitude": 65.706497,
+    "lng": -21.669196,
+    "longitude": -21.669196,
+    "name": "Holmavik",
+    "parent": "Europe, Iceland",
+    "parent_chain": [
+      "Europe",
+      "Iceland"
+    ],
+    "path": "europe/iceland/holmavik",
+    "url": "/europe/iceland/holmavik/"
+  },
+  {
+    "embedding_text": "Kolkata, India, Asia",
+    "lat": 22.5726,
+    "latitude": 22.5726,
+    "lng": 88.3639,
+    "longitude": 88.3639,
+    "name": "Kolkata",
+    "parent": "Asia, India",
+    "parent_chain": [
+      "Asia",
+      "India"
+    ],
+    "path": "asia/india/kolkata",
+    "url": "/asia/india/kolkata/"
+  },
+  {
+    "embedding_text": "Dixcove, Ghana, Africa",
+    "lat": 4.7948,
+    "latitude": 4.7948,
+    "lng": -1.9464,
+    "longitude": -1.9464,
+    "name": "Dixcove",
+    "parent": "Africa, Ghana",
+    "parent_chain": [
+      "Africa",
+      "Ghana"
+    ],
+    "path": "africa/ghana/dixcove",
+    "url": "/africa/ghana/dixcove/"
+  },
+  {
+    "embedding_text": "Stoke-on-Trent, West Midlands, England, United Kingdom, Europe",
+    "lat": 53.020564,
+    "latitude": 53.020564,
+    "lng": -2.229993,
+    "longitude": -2.229993,
+    "name": "Stoke-on-Trent",
+    "parent": "Europe, United Kingdom, England, West Midlands",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "West Midlands"
+    ],
+    "path": "europe/unitedkingdom/england/west_midlands/stokeontrent_st",
+    "url": "/europe/unitedkingdom/england/west_midlands/stokeontrent_st/"
+  },
+  {
+    "embedding_text": "Edzna, Mexico, North America",
+    "lat": 19.5968,
+    "latitude": 19.5968,
+    "lng": -90.2291,
+    "longitude": -90.2291,
+    "name": "Edzna",
+    "parent": "North America, Mexico",
+    "parent_chain": [
+      "North America",
+      "Mexico"
+    ],
+    "path": "northamerica/mexico/edzna",
+    "url": "/northamerica/mexico/edzna/"
+  },
+  {
+    "embedding_text": "Pavia, Lombardia, Italy, Europe",
+    "lat": 45.1847,
+    "latitude": 45.1847,
+    "lng": 9.1582,
+    "longitude": 9.1582,
+    "name": "Pavia",
+    "parent": "Europe, Italy, Lombardia",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Lombardia"
+    ],
+    "path": "europe/italy/lombardia/pavia",
+    "url": "/europe/italy/lombardia/pavia/"
+  },
+  {
+    "embedding_text": "Oakleigh, Victoria, Australia, Australia, Pacific & Antarctica",
+    "lat": -37.9006,
+    "latitude": -37.9006,
+    "lng": 145.0886,
+    "longitude": 145.0886,
+    "name": "Oakleigh",
+    "parent": "Australia, Pacific & Antarctica, Australia, Victoria",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "Victoria"
+    ],
+    "path": "australiaandpacific/australia/victoria/oakleigh",
+    "url": "/australiaandpacific/australia/victoria/oakleigh/"
+  },
+  {
+    "embedding_text": "Augustenborg, Denmark, Europe",
+    "lat": 54.9511,
+    "latitude": 54.9511,
+    "lng": 9.88,
+    "longitude": 9.88,
+    "name": "Augustenborg",
+    "parent": "Europe, Denmark",
+    "parent_chain": [
+      "Europe",
+      "Denmark"
+    ],
+    "path": "europe/denmark/augustenborg",
+    "url": "/europe/denmark/augustenborg/"
+  },
+  {
+    "embedding_text": "Ao Nang, Krabi, Thailand, Asia",
+    "lat": 8.0313,
+    "latitude": 8.0313,
+    "lng": 98.8268,
+    "longitude": 98.8268,
+    "name": "Ao Nang",
+    "parent": "Asia, Thailand, Krabi",
+    "parent_chain": [
+      "Asia",
+      "Thailand",
+      "Krabi"
+    ],
+    "path": "asia/thailand/krabi/aonang",
+    "url": "/asia/thailand/krabi/aonang/"
+  },
+  {
+    "embedding_text": "Maysville, Kentucky, United States, North America",
+    "lat": 38.6439,
+    "latitude": 38.6439,
+    "lng": -83.7758,
+    "longitude": -83.7758,
+    "name": "Maysville",
+    "parent": "North America, United States, Kentucky",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Kentucky"
+    ],
+    "path": "northamerica/unitedstates/kentucky/maysville",
+    "url": "/northamerica/unitedstates/kentucky/maysville/"
+  },
+  {
+    "embedding_text": "Saaremaa, Estonia, Europe",
+    "lat": 58.4167,
+    "latitude": 58.4167,
+    "lng": 22.5,
+    "longitude": 22.5,
+    "name": "Saaremaa",
+    "parent": "Europe, Estonia",
+    "parent_chain": [
+      "Europe",
+      "Estonia"
+    ],
+    "path": "europe/estonia/saaremaa",
+    "url": "/europe/estonia/saaremaa/"
+  },
+  {
+    "embedding_text": "Ambaji, Gujarat, India, Asia",
+    "lat": 24.33,
+    "latitude": 24.33,
+    "lng": 72.85,
+    "longitude": 72.85,
+    "name": "Ambaji",
+    "parent": "Asia, India, Gujarat",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Gujarat"
+    ],
+    "path": "asia/india/gujarat/ambaji",
+    "url": "/asia/india/gujarat/ambaji/"
+  },
+  {
+    "embedding_text": "Easter Island, Chile, South America",
+    "lat": -27.1127,
+    "latitude": -27.1127,
+    "lng": -109.3497,
+    "longitude": -109.3497,
+    "name": "Easter Island",
+    "parent": "South America, Chile",
+    "parent_chain": [
+      "South America",
+      "Chile"
+    ],
+    "path": "southamerica/chile/easterisland",
+    "url": "/southamerica/chile/easterisland/"
+  },
+  {
+    "embedding_text": "Snowmass Village, Colorado, United States, North America",
+    "lat": 39.213042,
+    "latitude": 39.213042,
+    "lng": -106.937821,
+    "longitude": -106.937821,
+    "name": "Snowmass Village",
+    "parent": "North America, United States, Colorado",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Colorado"
+    ],
+    "path": "northamerica/unitedstates/colorado/snowmass_village",
+    "url": "/northamerica/unitedstates/colorado/snowmass_village/"
+  },
+  {
+    "embedding_text": "Mycenae, Greece, Europe",
+    "lat": 37.729194,
+    "latitude": 37.729194,
+    "lng": 22.754429,
+    "longitude": 22.754429,
+    "name": "Mycenae",
+    "parent": "Europe, Greece",
+    "parent_chain": [
+      "Europe",
+      "Greece"
+    ],
+    "path": "europe/greece/mycenae",
+    "url": "/europe/greece/mycenae/"
+  },
+  {
+    "embedding_text": "Antequera, Andalucia, Spain, Europe",
+    "lat": 37.018365,
+    "latitude": 37.018365,
+    "lng": -4.559665,
+    "longitude": -4.559665,
+    "name": "Antequera",
+    "parent": "Europe, Spain, Andalucia",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Andalucia"
+    ],
+    "path": "europe/spain/andalucia/antequera",
+    "url": "/europe/spain/andalucia/antequera/"
+  },
+  {
+    "embedding_text": "Eze-bord-de-mer, Cote d'Azur, France, Europe",
+    "lat": 43.7217,
+    "latitude": 43.7217,
+    "lng": 7.3563,
+    "longitude": 7.3563,
+    "name": "Eze-bord-de-mer",
+    "parent": "Europe, France, Cote d'Azur",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Cote d'Azur"
+    ],
+    "path": "europe/france/cotedazur/ezeborddemer",
+    "url": "/europe/france/cotedazur/ezeborddemer/"
+  },
+  {
+    "embedding_text": "Murshidabad, West Bengal, India, Asia",
+    "lat": 24.1833,
+    "latitude": 24.1833,
+    "lng": 88.2667,
+    "longitude": 88.2667,
+    "name": "Murshidabad",
+    "parent": "Asia, India, West Bengal",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "West Bengal"
+    ],
+    "path": "asia/india/westbengal/murshidabad",
+    "url": "/asia/india/westbengal/murshidabad/"
+  },
+  {
+    "embedding_text": "Banfora, Burkina Faso, Africa",
+    "lat": 10.642703,
+    "latitude": 10.642703,
+    "lng": -4.752639,
+    "longitude": -4.752639,
+    "name": "Banfora",
+    "parent": "Africa, Burkina Faso",
+    "parent_chain": [
+      "Africa",
+      "Burkina Faso"
+    ],
+    "path": "africa/burkinafaso/banfora",
+    "url": "/africa/burkinafaso/banfora/"
+  },
+  {
+    "embedding_text": "Del Mar, California, United States, North America",
+    "lat": 32.959489,
+    "latitude": 32.959489,
+    "lng": -117.265315,
+    "longitude": -117.265315,
+    "name": "Del Mar",
+    "parent": "North America, United States, California",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California"
+    ],
+    "path": "northamerica/unitedstates/california/delmar",
+    "url": "/northamerica/unitedstates/california/delmar/"
+  },
+  {
+    "embedding_text": "Bam, Iran, Asia",
+    "lat": 29.105986,
+    "latitude": 29.105986,
+    "lng": 58.356566,
+    "longitude": 58.356566,
+    "name": "Bam",
+    "parent": "Asia, Iran",
+    "parent_chain": [
+      "Asia",
+      "Iran"
+    ],
+    "path": "asia/iran/bam",
+    "url": "/asia/iran/bam/"
+  },
+  {
+    "embedding_text": "Tongren, Qinghai Province, China, Asia",
+    "lat": 35.5165,
+    "latitude": 35.5165,
+    "lng": 102.0166,
+    "longitude": 102.0166,
+    "name": "Tongren",
+    "parent": "Asia, China, Qinghai Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Qinghai Province"
+    ],
+    "path": "asia/china/qinghai/tongren",
+    "url": "/asia/china/qinghai/tongren/"
+  },
+  {
+    "embedding_text": "Carmona, Andalucia, Spain, Europe",
+    "lat": 37.4718,
+    "latitude": 37.4718,
+    "lng": -5.6413,
+    "longitude": -5.6413,
+    "name": "Carmona",
+    "parent": "Europe, Spain, Andalucia",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Andalucia"
+    ],
+    "path": "europe/spain/andalucia/carmona",
+    "url": "/europe/spain/andalucia/carmona/"
+  },
+  {
+    "embedding_text": "Bardejov, Slovakia, Europe",
+    "lat": 49.2927,
+    "latitude": 49.2927,
+    "lng": 21.2756,
+    "longitude": 21.2756,
+    "name": "Bardejov",
+    "parent": "Europe, Slovakia",
+    "parent_chain": [
+      "Europe",
+      "Slovakia"
+    ],
+    "path": "europe/slovakia/bardejov",
+    "url": "/europe/slovakia/bardejov/"
+  },
+  {
+    "embedding_text": "Tv\u00f8royri, Su\u00f0uroy, Faroe Islands, Europe",
+    "lat": 61.555329,
+    "latitude": 61.555329,
+    "lng": -6.804682,
+    "longitude": -6.804682,
+    "name": "Tv\u00f8royri",
+    "parent": "Europe, Faroe Islands, Su\u00f0uroy",
+    "parent_chain": [
+      "Europe",
+      "Faroe Islands",
+      "Su\u00f0uroy"
+    ],
+    "path": "europe/faroeislands/suuroy/tvroyri",
+    "url": "/europe/faroeislands/suuroy/tvroyri/"
+  },
+  {
+    "embedding_text": "Esperance, Western Australia, Australia, Australia, Pacific & Antarctica",
+    "lat": -33.858228,
+    "latitude": -33.858228,
+    "lng": 121.893161,
+    "longitude": 121.893161,
+    "name": "Esperance",
+    "parent": "Australia, Pacific & Antarctica, Australia, Western Australia",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "Western Australia"
+    ],
+    "path": "australiaandpacific/australia/westernaustralia/esperance",
+    "url": "/australiaandpacific/australia/westernaustralia/esperance/"
+  },
+  {
+    "embedding_text": "Hyden, Western Australia, Australia, Australia, Pacific & Antarctica",
+    "lat": -32.449,
+    "latitude": -32.449,
+    "lng": 118.861,
+    "longitude": 118.861,
+    "name": "Hyden",
+    "parent": "Australia, Pacific & Antarctica, Australia, Western Australia",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "Western Australia"
+    ],
+    "path": "australiaandpacific/australia/westernaustralia/hyden",
+    "url": "/australiaandpacific/australia/westernaustralia/hyden/"
+  },
+  {
+    "embedding_text": "Panama City, Florida, United States, North America",
+    "lat": 30.1588,
+    "latitude": 30.1588,
+    "lng": -85.6602,
+    "longitude": -85.6602,
+    "name": "Panama City",
+    "parent": "North America, United States, Florida",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Florida"
+    ],
+    "path": "northamerica/unitedstates/florida/panama_city",
+    "url": "/northamerica/unitedstates/florida/panama_city/"
+  },
+  {
+    "embedding_text": "Padua, Veneto, Italy, Europe",
+    "lat": 45.4077,
+    "latitude": 45.4077,
+    "lng": 11.8734,
+    "longitude": 11.8734,
+    "name": "Padua",
+    "parent": "Europe, Italy, Veneto",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Veneto"
+    ],
+    "path": "europe/italy/veneto/padua",
+    "url": "/europe/italy/veneto/padua/"
+  },
+  {
+    "embedding_text": "Champaner-Pavagadh, Gujarat, India, Asia",
+    "lat": 22.4844,
+    "latitude": 22.4844,
+    "lng": 73.5326,
+    "longitude": 73.5326,
+    "name": "Champaner-Pavagadh",
+    "parent": "Asia, India, Gujarat",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Gujarat"
+    ],
+    "path": "asia/india/gujarat/champaner",
+    "url": "/asia/india/gujarat/champaner/"
+  },
+  {
+    "embedding_text": "Bou Sa\u00e2da, Algeria, Africa",
+    "lat": 35.213312,
+    "latitude": 35.213312,
+    "lng": 4.18097,
+    "longitude": 4.18097,
+    "name": "Bou Sa\u00e2da",
+    "parent": "Africa, Algeria",
+    "parent_chain": [
+      "Africa",
+      "Algeria"
+    ],
+    "path": "africa/algeria/bousaada",
+    "url": "/africa/algeria/bousaada/"
+  },
+  {
+    "embedding_text": "Maduo, Qinghai Province, China, Asia",
+    "lat": 34.9159,
+    "latitude": 34.9159,
+    "lng": 98.2092,
+    "longitude": 98.2092,
+    "name": "Maduo",
+    "parent": "Asia, China, Qinghai Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Qinghai Province"
+    ],
+    "path": "asia/china/qinghai/maduo",
+    "url": "/asia/china/qinghai/maduo/"
+  }
+]

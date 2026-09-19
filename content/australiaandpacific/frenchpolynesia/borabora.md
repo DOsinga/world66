@@ -14,7 +14,7 @@ quick_facts:
   Mt Otemanu: 727 m
   Ring Road: 32 km around
   WWII: Former US supply base
-score: 9.9
+score: 7.197
 snippet: French Polynesian island of volcanic peaks, turquoise lagoon, and sandy motu
   around a coral reef.
 tags:
@@ -32,6 +32,10 @@ tip: Bora Bora is expensive and there's no way around it, so go for the lagoon, 
   reef-safe sunscreen; the coral is the show.
 title: Bora Bora
 type: location
+heritage: 0.949
+vibrancy: 3.831
+nature: 9.304
+off_the_beaten_track: 5.535
 ---
 
 Bora Bora is an almost absurdly beautiful island in French Polynesia, roughly 230 kilometres northwest of Tahiti. A jagged volcanic core — dominated by the extinct peaks of [Mount Otemanu](/australiaandpacific/frenchpolynesia/borabora/mount_otemanu) and [Mount Pahia](/australiaandpacific/frenchpolynesia/borabora/mount_pahia) — rises sharply from a lagoon of implausible turquoise, enclosed by a coral reef and a string of low sandy motu. The combination of lush mountain interior and luminous lagoon is genuinely hard to better anywhere in the Pacific.

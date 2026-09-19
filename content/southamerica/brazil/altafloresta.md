@@ -2,7 +2,7 @@
 latitude: -9.875833
 loc_type: city
 longitude: -56.085833
-score: 7.0
+score: 5.804
 snippet: Southern Amazon gateway in Mato Grosso, known for Cristalino rainforest,
   birding, and river wildlife.
 sources:
@@ -17,6 +17,10 @@ image: altafloresta.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Parque_Estadual_Cristalino_por_THEREZA_COLLOR_HALBREICH_(01).jpg
 image_license: CC BY-SA 4.0
 image_attribution: THEREZA COLLOR HALBREICH
+heritage: 1.598
+vibrancy: 1.661
+nature: 7.274
+off_the_beaten_track: 5.646
 ---
 
 Alta Floresta is a frontier city in northern Mato Grosso, set where cattle country, old gold-rush history, and the southern edge of the Amazon meet. The city itself is functional and spread out, but it is one of Brazil's better access points for serious rainforest travel without starting in Manaus or Belem.

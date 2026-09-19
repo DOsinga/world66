@@ -2,7 +2,7 @@
 latitude: 51.6058
 loc_type: city
 longitude: -2.2237
-score: 0.66
+score: 5.835
 snippet: The national arboretum of England, with one of the largest tree collections
   in the world and spectacular autumn colour.
 tags:
@@ -13,6 +13,10 @@ image: westonbirt.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Autumn.scene.at.westonbirt.arp.jpg
 image_license: Public domain
 image_attribution: Arpingstone
+heritage: 4.667
+vibrancy: 1.865
+nature: 7.066
+off_the_beaten_track: 1.982
 ---
 
 Westonbirt, the National Arboretum, holds one of the world's largest collections of trees and shrubs across 600 acres of Cotswold countryside near Tetbury. The collection was begun in 1829 by Robert Holford, a Victorian landowner of unlimited means, and expanded by his son and subsequent owners before passing to the Forestry Commission in 1956. It now contains around 15,000 labelled specimens from around the world, with particular strengths in Japanese maples, North American oaks, and southern beeches.

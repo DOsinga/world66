@@ -21,7 +21,7 @@ quick_facts:
   Silk Lanterns: Light the old town
   Tailors: Custom clothes in a day
   UNESCO Since: '1999'
-score: 9.46
+score: 6.672
 snippet: Vietnamese trading port with lantern-lit merchant houses, Chinese assembly
   halls, and a Japanese covered bridge.
 tip: Hoi An glows with thousands of silk lanterns at night and is mostly car-free
@@ -31,6 +31,10 @@ tip: Hoi An glows with thousands of silk lanterns at night and is mostly car-fre
   kills the electric lights.
 title: Hoi An
 type: location
+heritage: 7.492
+vibrancy: 6.201
+nature: 2.826
+off_the_beaten_track: 2.425
 ---
 
 Hoi An is a remarkably well-preserved ancient trading port on the central Vietnamese coast, now a UNESCO World Heritage Site. For several centuries it was one of Southeast Asia's most important commercial hubs, drawing merchants from China, Japan, and the West — a history still visible in the architecture of the Old Town, which blends Chinese merchant houses, Japanese covered bridges, and French colonial shopfronts.

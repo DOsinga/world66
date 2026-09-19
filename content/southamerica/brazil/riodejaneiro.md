@@ -17,7 +17,7 @@ quick_facts:
   Christ the Redeemer: 38 m tall
   Population: 6.7 million
   Tijuca: World's largest urban forest
-score: 9.82
+score: 7.563
 snippet: Brazilian harbour city where beaches, green mountains, and Christ the Redeemer
   frame everyday urban life.
 tip: Rio's beaches have an unspoken geography — locals gather at numbered lifeguard
@@ -26,6 +26,10 @@ tip: Rio's beaches have an unspoken geography — locals gather at numbered life
   the view, and never wander into a favela without a trusted local guide.
 title: Rio de Janeiro
 type: location
+heritage: 5.245
+vibrancy: 7.63
+nature: 7.391
+off_the_beaten_track: 2.135
 ---
 
 Rio de Janeiro is one of the most spectacular cities in the world. A natural harbour ringed by steep green mountains, with golden beaches curving along the coast and the iconic Christ the Redeemer statue presiding over it all from the peak of Corcovado. No photograph does it justice — you have to stand on Sugar Loaf Mountain and take in the 360-degree panorama of Guanabara Bay, the city sprawling between jungle-covered peaks, and the Atlantic stretching to the horizon.

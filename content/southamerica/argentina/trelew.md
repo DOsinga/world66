@@ -4,7 +4,7 @@ done:
 latitude: -43.2533
 loc_type: city
 longitude: -65.3094
-score: 7.11
+score: 4.734
 snippet: Chubut Valley city known for dinosaur fossils, Welsh Patagonia history, and
   access to Gaiman.
 sources:
@@ -14,6 +14,10 @@ sources:
 - https://www.interpatagonia.com/trelew/bryn-gwyn-paleontological-park.html
 title: Trelew
 type: location
+heritage: 2.409
+vibrancy: 2.357
+nature: 6.199
+off_the_beaten_track: 3.445
 ---
 
 Trelew is not pretty in the conventional Patagonian way. It is a dry, practical city in the lower Chubut Valley, with traffic, wind, and a working-town feel. But it has two strong claims on a traveller's time: one of South America's best dinosaur museums and a front-row position in Welsh Patagonia.

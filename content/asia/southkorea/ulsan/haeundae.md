@@ -1,17 +1,17 @@
 ---
+image: haeundae.jpg
+image_attribution: Mobius6
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Haeundae_Beach_20200522_001.jpg
 latitude: 35.1588
 longitude: 129.1604
+score: 4.0
 snippet: Korea's most famous beach, an easy day trip from Ulsan
 tags:
-- day_trips
+- things_to_do
 - beach
 title: Haeundae Beach
 type: poi
-score: 4.0
-image: haeundae.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Haeundae_Beach_20200522_001.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Mobius6
 ---
 
 Haeundae is Korea's most famous beach — a 1.5 km crescent of golden sand in the eastern district of Busan, about 90 minutes from Ulsan by express bus. The beach itself is broad and well maintained, backed by a boardwalk lined with seafood restaurants and cafes. Off-peak, it's a genuinely pleasant stretch of coast. In peak summer (late July and August), it gets absurdly crowded — wall-to-wall umbrellas and barely room to lay a towel.

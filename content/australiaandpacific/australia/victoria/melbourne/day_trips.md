@@ -1,6 +1,4 @@
 ---
-title: Day Trips
-type: section
 linked_locations:
 - australiaandpacific/australia/victoria/morningtonpeninsula
 - australiaandpacific/australia/victoria/phillipisland
@@ -9,6 +7,10 @@ linked_locations:
 - australiaandpacific/australia/victoria/ballarat
 - australiaandpacific/australia/victoria/bendigo
 - australiaandpacific/australia/victoria/geelong
+- australiaandpacific/australia/victoria/sovereign_hill
+- australiaandpacific/australia/victoria/healesville_sanctu
+title: Day Trips
+type: section
 ---
 
 Melbourne is ringed by some of Victoria's best escapes, most within a couple of hours by car or train.

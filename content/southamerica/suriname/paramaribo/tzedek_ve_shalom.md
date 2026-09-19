@@ -1,19 +1,19 @@
 ---
-title: "Tzedek ve-Shalom Synagogue"
+title: Former Tzedek ve-Shalom Synagogue
 type: poi
 snippet: "Historic Sephardic synagogue dating from Suriname's oldest Jewish community"
 tags:
   - things_to_do
   - synagogue
   - religious_site
-  - historic_site
+  - sight
 latitude: 5.8278
 longitude: -55.1554
-story: >
-  The Jewish community at Jodensavanne, south of Paramaribo, established one of the first Jewish settlements in the Western Hemisphere in the 17th century. Survivors of that community eventually moved to Paramaribo, bringing their religious traditions with them. The Tzedek ve-Shalom congregation is a direct descendant of that founding community — one of the oldest continuous Jewish congregations in the Americas.
 score: 7.2
+sources:
+  - https://en.wikipedia.org/wiki/Tzedek_ve-Shalom
 ---
 
-The Tzedek ve-Shalom ("Peace and Justice") synagogue is one of two historic synagogues in Paramaribo and, along with the Neveh Shalom, a remnant of what was once a significant Sephardic Jewish population in Suriname. The congregation traces its roots to the 17th-century Jewish settlement at Jodensavanne, a short distance upriver, where the Dutch West India Company granted Jewish settlers the right to practise their faith openly — a rare privilege at the time.
+Tzedek ve-Shalom was built for Paramaribo's Sephardic congregation in 1736. It stopped serving as a synagogue in 1999, when the remaining community consolidated at Neveh Shalom. The building has since been put to secular use, and much of its interior was transferred on long-term loan to the Israel Museum in Jerusalem.
 
-The building itself is a dignified colonial structure in the centre of the city. It is less visited than the Neveh Shalom but has its own historical depth. Suriname's Jewish community has dwindled significantly over the past century through emigration, but the synagogue remains active and services are still held.
+Treat this as an exterior historical stop, not an active synagogue or a museum with regular admission. For a functioning congregation and a visitable religious interior, contact Neveh Shalom instead.

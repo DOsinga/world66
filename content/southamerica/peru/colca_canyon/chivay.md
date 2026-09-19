@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Chivay,_2023_(cropped).jpg
 latitude: -15.636688
 loc_type: city
 longitude: -71.602217
-score: 8.46
+score: 6.709
 snippet: High Colca Valley town and canyon transport hub, with La Calera hot springs
   above terraced fields.
 title: Chivay
 type: location
+heritage: 3.937
+vibrancy: 5.833
+nature: 7.58
+off_the_beaten_track: 4.04
 ---
 
 Chivay is the first town in the Colca Valley when coming from [Arequipa](/southamerica/peru/arequipa), sitting at about 3,700 metres. It is the main transport hub for the canyon, with plenty of hotels at generally low prices — no need to book ahead. Most travellers acclimatise here for a night before heading to Cruz del Condor or beyond.

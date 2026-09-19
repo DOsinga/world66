@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:George_Town_panorama.jpg
 latitude: 5.402553
 loc_type: city
 longitude: 100.303551
-score: 9.06
+score: 8.036
 snippet: Penang capital of shophouses, clan jetties, and layered Straits of Malacca
   trading history
 title: Georgetown
 type: location
+heritage: 8.648
+vibrancy: 7.865
+nature: 5.593
+off_the_beaten_track: 1.734
 ---
 
 Georgetown is the capital of Penang state and one of the most rewarding cities in [Malaysia](/asia/malaysia) for travellers. Its UNESCO-listed historic centre is a dense, walkable grid of shophouses, clan jetties, temples, mosques, and churches — a physical record of the centuries when this was one of the great trading ports of the Straits of Malacca.

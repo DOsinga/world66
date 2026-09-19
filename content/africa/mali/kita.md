@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kita_Gare.jpg
 latitude: 13.207
 loc_type: city
 longitude: -9.3886
-score: 4.43
+score: 4.646
 snippet: Malinké town between Kayes and Bamako, set below the granite inselberg of
   Kita-Kourou
 title: Kita
 type: location
+heritage: 5.354
+vibrancy: 2.765
+nature: 4.514
+off_the_beaten_track: 5.616
 ---
 
 Kita is a small Malinké town halfway between [Kayes](/africa/mali/kayes) and [Bamako](/africa/mali/bamako) on the old Dakar-Niger Railway. It sits in a landscape of rocky hills, baobabs, and dry savanna, dominated by the granite inselberg of [Kita-Kourou](/africa/mali/kita/kita_kourou) rising abruptly to the west. The town is best known for its weekly [market](/africa/mali/kita/kita_market) and for the [Sacred Heart Cathedral](/africa/mali/kita/sacred_heart_cathedral) at the foot of the mountain — one of the most important Catholic pilgrimage sites in West Africa, drawing tens of thousands of pilgrims each November.

@@ -13,6 +13,10 @@ heritage: 2.118
 vibrancy: 2.475
 nature: 3.745
 off_the_beaten_track: 2.347
+image: peruibe.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Praia_do_centro_-_Peru%C3%ADbe_-_S%C3%A3o_Paulo,_Brasil_-_128_-_panoramio.jpg
+image_license: CC BY 3.0
+image_attribution: joão Scarpi
 ---
 
 Peruíbe is a beach town on the south coast of São Paulo state, far enough from the capital to feel greener and less urban than the Santos-side resorts. The town itself is modern and busy in summer, but its real strength is the wild country just beyond it.

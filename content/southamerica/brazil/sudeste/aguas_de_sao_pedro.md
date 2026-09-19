@@ -15,6 +15,10 @@ heritage: 2.894
 vibrancy: 2.89
 nature: 5.065
 off_the_beaten_track: 2.43
+image: aguas_de_sao_pedro.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Aguas_de_Sao_Pedro_Landscape_02.jpg
+image_license: CC BY 2.5
+image_attribution: Eduardo Shiroma (Agente Rolf).
 ---
 
 Águas de São Pedro is one of Brazil's smallest municipalities, a planned spa town folded into the countryside northwest of [São Paulo](/southamerica/brazil/saopaulo). It exists because of water: three mineral springs, a municipal bath house, and a century-old belief that a weekend here should leave you a little healthier.

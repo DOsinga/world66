@@ -14,6 +14,10 @@ heritage: 2.653
 vibrancy: 2.849
 nature: 7.915
 off_the_beaten_track: 4.796
+image: atins.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Atins_Len%C3%A7%C3%B3is,_Atins,_Brazil_(Unsplash).jpg
+image_license: CC0
+image_attribution: Carlos Aguilar cea_lopez
 ---
 
 Atins is a small fishing village on the edge of [Lençóis Maranhenses](/southamerica/brazil/nordeste/lencois_maranhenses) National Park, where the Preguiças River meets the Atlantic. It feels remote in a very physical way: sandy streets, scattered houses, weak mobile signal, and no easy arrival by ordinary road.

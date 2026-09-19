@@ -16,6 +16,10 @@ heritage: 2.874
 vibrancy: 3.408
 nature: 2.606
 off_the_beaten_track: 2.293
+image: taubate.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Igreja_Santa_Terezinha_de_Taubat%C3%A9_(Sep_2019)_08.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Sturm
 ---
 
 Taubaté sits in the Paraíba Valley between [São Paulo](/southamerica/brazil/saopaulo) and Rio de Janeiro, close enough to the Dutra highway that many travellers only know it as a name on road signs. It deserves a longer look if you are interested in Brazilian popular culture.

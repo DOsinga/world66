@@ -7,6 +7,10 @@ snippet: Highland town of the Serra Catarinense, with a rock arch, a canyon and 
   in winter
 title: Urubici
 type: location
+image: urubici.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Pedra_Furada.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Scheridon
 ---
 
 Urubici is a small town in the Serra Catarinense, the highlands of Santa Catarina, and one of the coldest places in Brazil. In winter, frost is routine and snow falls some years — enough of a novelty in Brazil that people drive up from the coast to see it.

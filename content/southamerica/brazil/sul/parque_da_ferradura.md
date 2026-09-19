@@ -11,6 +11,10 @@ heritage: 3.393
 vibrancy: 2.077
 nature: 6.18
 off_the_beaten_track: 3.136
+image: parque_da_ferradura.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Parque_da_ferradura_-_Canela_-_RS.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Rodrigo Mazzola
 ---
 
 The Ferradura — Portuguese for horseshoe — is one of the most dramatic natural lookouts in the Serra Gaúcha. The river Caí has carved a sharp bend through the basalt plateau, cutting a canyon more than 400 metres deep, and from the main viewpoint you stand at the rim with the gorge opening on three sides and the river curling far below. On a clear morning the view can stretch for dozens of kilometres across the plateau.

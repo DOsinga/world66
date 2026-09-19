@@ -14,6 +14,10 @@ heritage: 1.808
 vibrancy: 4.01
 nature: 5.226
 off_the_beaten_track: 2.562
+image: cumbuco.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cumbuco_Beach,_Fortaleza,_Cear%C3%A1,_Brasil_-_panoramio.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Boris Karpuk
 ---
 
 Cumbuco is a small fishing village 25 kilometres north of [Fortaleza](/southamerica/brazil/nordeste/fortaleza), and one of the best kitesurfing destinations in [Brazil](/southamerica/brazil). The setting is dramatic: a long sandy beach with blue sea on one side and towering sand dunes on the other, with palm trees, a small town square, and a football pitch in between.

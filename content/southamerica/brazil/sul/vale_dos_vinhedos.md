@@ -7,6 +7,10 @@ snippet: Brazil's first protected wine region, a valley of Italian-founded winer
   in the Serra Gaúcha
 title: Vale dos Vinhedos
 type: location
+image: vale_dos_vinhedos.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Valedosvinhedos2.jpg
+image_license: Public domain
+image_attribution: Adelano Lázaro
 ---
 
 The Vale dos Vinhedos is a valley of vineyards and wineries in the Serra Gaúcha, between [Bento Gonçalves](/southamerica/brazil/sul/bento_goncalves), Garibaldi and Monte Belo do Sul, and the heart of Brazilian wine. It was settled by Italian immigrants from the Veneto in the 1870s, and many of the wineries are still run by their descendants; in 2002 it became the first wine region in Brazil with a protected geographical indication, and in 2012 the first with a full designation of origin.

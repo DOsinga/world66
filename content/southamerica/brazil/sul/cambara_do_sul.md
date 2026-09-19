@@ -11,6 +11,10 @@ heritage: 3.108
 vibrancy: 1.499
 nature: 7.415
 off_the_beaten_track: 4.429
+image: cambara_do_sul.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Canion_Fortaleza,_Cambar%C3%A1_do_Sul_-_Brasil_02.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Jjunoo
 ---
 
 Cambará do Sul sits at around 1,000 metres on the southern edge of the Serra Gaúcha plateau, where the basalt cliffs fall away into spectacular canyons. It is a small, rural village with little to offer beyond a couple of restaurants and a handful of pousadas — but its position puts it within easy reach of some of the most dramatic scenery in southern Brazil.

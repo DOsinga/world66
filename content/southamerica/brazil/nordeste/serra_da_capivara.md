@@ -7,6 +7,10 @@ snippet: UNESCO rock-art park in the Piauí backlands, with thousands of prehist
   paintings in sandstone canyons
 title: Serra da Capivara
 type: location
+image: serra_da_capivara.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Parque_nacional_serra_da_capivara-THIAGO_CAMPI-03.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Thiagomarcelcampi
 ---
 
 The Serra da Capivara national park, in the dry sertão of southern Piauí, holds the largest concentration of prehistoric rock art in the Americas. In its sandstone canyons and rock shelters there are more than a thousand archaeological sites, many of them covered in red-painted figures of deer, capybara, hunters, dancers and scenes of sex and ritual. It is a UNESCO World Heritage Site.

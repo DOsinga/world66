@@ -16,6 +16,10 @@ heritage: 3.92
 vibrancy: 4.933
 nature: 6.972
 off_the_beaten_track: 4.844
+image: trancoso.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Trancoso,_Bahia_(4348864311).jpg
+image_license: CC BY 2.0
+image_attribution: Leonardo Quintino from Belo Horizonte, Brasil
 ---
 
 Trancoso is the polished, barefoot village south of [Arraial da Ajuda](/southamerica/brazil/nordeste/arraial_da_ajuda), famous for the grassy [Quadrado](/southamerica/brazil/nordeste/trancoso/quadrado), a line of low colonial houses, and beaches that still look half wild once you walk beyond the first cluster of restaurants. It began as a Jesuit settlement in the 16th century, became a quiet fishing village, and then slowly turned into one of Bahia's most desirable coastal escapes.

@@ -7,6 +7,10 @@ snippet: Sand-swallowed village on Espírito Santo's northern coast, famous for 
   dunes and forró
 title: Itaúnas
 type: location
+image: itaunas.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ita%C3%BAnas_-_Esp%C3%ADrito_Santo_-_Brasil_-_panoramio.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Vilamir Azevedo
 ---
 
 Itaúnas is a small village on the northern coast of Espírito Santo, near the border with Bahia, that exists in its current form because the old one was buried. In the mid-twentieth century, after the forest around it was cut, the dunes began to move and over a few decades covered the original village, church and all. The inhabitants rebuilt on the other side of the river, and the dunes, now up to thirty metres high, are protected in a state park.

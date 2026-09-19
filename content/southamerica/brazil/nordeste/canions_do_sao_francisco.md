@@ -7,6 +7,10 @@ snippet: Canyons of the São Francisco river below the Xingó dam, explored by c
   from Canindé
 title: Cânions do São Francisco
 type: location
+image: canions_do_sao_francisco.jpg
+image_source: https://commons.wikimedia.org/wiki/File:C%C3%A2nions_do_S%C3%A3o_Francisco_(16828388178).jpg
+image_license: CC BY 2.0
+image_attribution: Marinelson Almeida - Traveling through Brazil from Niteroi, Brasil
 ---
 
 The canyons of the São Francisco are a gorge carved through the dry caatinga by Brazil's great northeastern river, on the border of Sergipe and Alagoas. Since the Xingó hydroelectric dam was built upstream in the 1990s, the river has been a long, green-blue lake here, walled in by rock, and boat trips take you through it.

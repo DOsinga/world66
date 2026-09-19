@@ -7,6 +7,10 @@ snippet: Flooded-forest reserve on the upper Amazon, home of the white uakari mo
   and a pioneering community-run lodge
 title: Mamirauá
 type: location
+image: mamiraua.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Display_de_boto_vermelho.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Naparmalandia
 ---
 
 Mamirauá is a sustainable development reserve of flooded forest where the Japurá river meets the Solimões, the upper Amazon, far to the west of [Manaus](/southamerica/brazil/norte/manaus). It was the first reserve of its kind in Brazil, set up so that the riverside communities who live there manage it themselves, and it is one of the most rewarding places in the Amazon to see wildlife.

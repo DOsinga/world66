@@ -14,6 +14,10 @@ heritage: 1.69
 vibrancy: 3.281
 nature: 5.816
 off_the_beaten_track: 2.718
+image: guaratuba.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Renato_Soares_Praia_do_Cristo_Guaratuba_PR_9.jpg
+image_license: Attribution
+image_attribution: Renato Soares/MTur Destinos
 ---
 
 Guaratuba is a small coastal town in Paraná state, about 90 minutes from [Curitiba](/southamerica/brazil/sul/curitiba) by car. It sits on the edge of a wide bay backed by well-preserved Atlantic Forest, making it a popular weekend escape for Curitibanos who want beach, boat rides, and quiet.

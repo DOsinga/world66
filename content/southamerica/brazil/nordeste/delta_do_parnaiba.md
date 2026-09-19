@@ -7,6 +7,10 @@ snippet: The Americas' only open-sea delta, a maze of mangrove islands and dunes
   the Piauí coast
 title: Delta do Parnaíba
 type: location
+image: delta_do_parnaiba.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Delta_do_Parna%C3%ADba_(5433377943).jpg
+image_license: CC BY 2.0
+image_attribution: Danielle  Pereira from Brasil
 ---
 
 The Delta do Parnaíba is where the Rio Parnaíba reaches the Atlantic, splitting into five mouths among some seventy islands of mangrove, dunes and beaches. It is the only delta in the Americas that opens directly onto the open sea, and it straddles the border between Piauí and Maranhão.

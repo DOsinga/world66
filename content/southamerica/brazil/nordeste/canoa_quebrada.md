@@ -13,6 +13,10 @@ heritage: 3.239
 vibrancy: 5.935
 nature: 6.949
 off_the_beaten_track: 3.3
+image: canoa_quebrada.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Canoa_Quebrada_(4846818333).jpg
+image_license: CC BY-SA 2.0
+image_attribution: Fabiano Caruso from Rio de Janeiro, Brasil
 ---
 
 Canoa Quebrada is a small beach village in Ceara, about 160 km southeast of [Fortaleza](/southamerica/brazil/nordeste/fortaleza). It sits below red sandstone cliffs, with dunes behind town and a long, windy beach in front. The old hippie reputation is still part of the story, even though Canoa is now firmly on the northeast Brazil beach circuit.

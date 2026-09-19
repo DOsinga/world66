@@ -6,6 +6,10 @@ score: 5.7
 snippet: Cool mountain valley of waterfalls, trout and chalets in the Serra da Mantiqueira
 title: Visconde de Mauá
 type: location
+image: visconde_de_maua.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cachoeira_do_Escorrega,_alto_da_Vila_da_Maromba,_distrito_de_Visconde_de_Mau%C3%A1,_Parque_Nacional_de_itatiaia.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Eduardo Miyake
 ---
 
 Visconde de Mauá is a group of mountain villages in the Serra da Mantiqueira, on the border of Rio de Janeiro and Minas Gerais, about three and a half hours from [Rio de Janeiro](/southamerica/brazil/riodejaneiro). It was settled by European immigrants in the early twentieth century and later by hippies, and it has become a quiet retreat of chalets, craft breweries, trout restaurants and waterfalls in the Atlantic forest.

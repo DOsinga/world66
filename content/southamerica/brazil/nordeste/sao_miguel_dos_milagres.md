@@ -7,6 +7,10 @@ snippet: Quiet stretch of the Alagoas coast of palm beaches, reef pools and mana
   with no big resorts
 title: São Miguel dos Milagres
 type: location
+image: sao_miguel_dos_milagres.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Praia_S%C3%A3o_Miguel_dos_Milagres_-_Alagoas.tif
+image_license: CC BY-SA 4.0
+image_attribution: Matheus Usero
 ---
 
 São Miguel dos Milagres is the centre of the Rota Ecológica, a stretch of the Alagoas coast where building has been kept low and the beaches remain lined with coconut palms rather than hotels. It lies between [Maceió](/southamerica/brazil/nordeste/maceio) and [Maragogi](/southamerica/brazil/nordeste/maragogi), and it is where Brazilians go when they want the northeast coast without the crowds.

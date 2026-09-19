@@ -14,6 +14,10 @@ heritage: 3.863
 vibrancy: 6.324
 nature: 7.708
 off_the_beaten_track: 2.166
+image: porto_de_galinhas.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Porto_de_Galinhas_-_Pernambuco_-_Brasil_(11531517795).jpg
+image_license: CC BY 2.0
+image_attribution: Marinelson Almeida - Traveling through Brazil from Niteroi, Brasil
 ---
 
 Porto de Galinhas is a beach village south of [Recife](/southamerica/brazil/nordeste/recife), famous for the reef pools that appear at low tide just off the sand. It is busy and very much on Brazil's holiday map, but it clears the bar because the sea is genuinely the point here: warm water, natural pools, rafts on the reef, and a run of nearby beaches with different moods.

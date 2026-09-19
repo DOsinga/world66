@@ -7,6 +7,10 @@ snippet: Former fishing village south of Paraty, with rainforest down to the san
   and a natural pool in the rocks
 title: Trindade
 type: location
+image: trindade.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Praia_do_Cachada%C3%A7o.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Chostakovis
 ---
 
 Trindade is a fishing village at the end of a steep road south of [Paraty](/southamerica/brazil/sudeste/paraty), on the edge of the Serra da Bocaina national park, where the Atlantic forest comes down the mountains straight onto the beaches. It was a hippie hideaway in the 1970s, and it keeps some of that air.

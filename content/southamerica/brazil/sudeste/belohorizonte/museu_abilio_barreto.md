@@ -1,10 +1,12 @@
 ---
 latitude: -19.9367
 longitude: -43.9719
-snippet: "City history museum on the site of the old farmhouse where Belo Horizonte was planned"
+snippet: City history museum on the site of the old farmhouse where Belo Horizonte
+  was planned
 tags:
 - things_to_do
 - museum
+- history
 title: Museu Histórico Abílio Barreto
 type: poi
 score: 7.3

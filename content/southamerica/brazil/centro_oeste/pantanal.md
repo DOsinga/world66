@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pantanal,_south-central_So
 latitude: -17.675068
 loc_type: feature
 longitude: -57.455336
-score: 0.65
+score: 8.6
 title: Pantanal
 snippet: Vast tropical wetland in western Brazil, renowned for open landscapes and
   visible wildlife.

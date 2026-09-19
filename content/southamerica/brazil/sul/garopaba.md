@@ -7,6 +7,10 @@ snippet: Old fishing town turned surf town on the Santa Catarina coast, with dun
   and whales in winter
 title: Garopaba
 type: location
+image: garopaba.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Garopaba,_Santa_Catarina-Brasil_-_panoramio.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Adilson A Ribeiro
 ---
 
 Garopaba is a former Azorean fishing village on the coast south of [Florianópolis](/southamerica/brazil/sul/florianopolis) that has grown into one of the surf capitals of southern Brazil, while keeping its small old centre around a whitewashed church above the bay.

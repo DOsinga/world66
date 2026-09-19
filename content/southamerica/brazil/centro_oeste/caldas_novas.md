@@ -16,6 +16,10 @@ heritage: 1.806
 vibrancy: 4.074
 nature: 5.926
 off_the_beaten_track: 1.662
+image: caldas_novas.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Lagoa_quente_-_panoramio.jpg
+image_license: CC BY 3.0
+image_attribution: marcos jose dos sant…
 ---
 
 Caldas Novas is Brazil's big inland hot-water resort, a Goiás city that grew around thermal springs rather than beaches. It is busy, family-oriented, and often more practical than pretty, but the identity is real: warm mineral water is the reason people come.

@@ -15,6 +15,10 @@ heritage: 3.271
 vibrancy: 3.489
 nature: 5.837
 off_the_beaten_track: 4.936
+image: barra_do_garcas.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Serra_do_Roncador.png
+image_license: CC BY-SA 3.0
+image_attribution: Edevilson
 ---
 
 Barra do Garças sits where the Garças River meets the Araguaia, on the Mato Grosso side of the border with Goiás. It has the practical feel of a regional city, but the setting is the point: cerrado hills rise behind town, river beaches appear in the dry season, and waterfalls cut through Serra Azul State Park.

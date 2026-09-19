@@ -16,6 +16,10 @@ heritage: 4.428
 vibrancy: 5.166
 nature: 6.418
 off_the_beaten_track: 3.123
+image: maceio.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ponta_verde_-_Macei%C3%B3_-_Brasil..jpg
+image_license: CC BY 2.0
+image_attribution: Marinelson Almeida - Traveling through Brazil from Niteroi, Brasil
 ---
 
 Maceió is the capital of Alagoas and one of northeast Brazil's easiest beach cities to like. The city spreads between the Atlantic and lagoons, with coconut palms, reef-protected water, and a waterfront where the main urban beaches roll into one another: [Pajuçara](/southamerica/brazil/nordeste/maceio/pajucara_beach), [Ponta Verde](/southamerica/brazil/nordeste/maceio/ponta_verde_beach), and Jatiúca.

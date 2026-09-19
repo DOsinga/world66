@@ -14,6 +14,10 @@ heritage: 4.916
 vibrancy: 3.597
 nature: 5.996
 off_the_beaten_track: 4.399
+image: sao_joaquim.jpg
+image_source: https://commons.wikimedia.org/wiki/File:S%C3%A3o_Joaquim_-_SC_-_Brasil_(6606795451).jpg
+image_license: CC BY 2.0
+image_attribution: Marinelson Almeida - Traveling through Brazil from Niteroi, Brasil
 ---
 
 São Joaquim sits at around 1,360 metres in the Serra Catarinense highlands of Santa Catarina state, making it one of the coldest towns in Brazil. Snow falls here most winters — a genuine novelty in a country more associated with beaches and heat — and when it does, Brazilians from across the south drive up to see it.

@@ -14,6 +14,10 @@ heritage: 2.485
 vibrancy: 4.405
 nature: 6.786
 off_the_beaten_track: 5.976
+image: corumba.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Corumb%C3%A1_downtown,_Brazil.jpg
+image_license: CC BY 4.0
+image_attribution: CivArmy
 ---
 
 Corumbá sits on the western bank of the Paraguay River at the Bolivian border and calls itself the capital of the Pantanal — not an empty boast. The town is the main gateway into the southern Pantanal, the vast flooded wetland that is one of the world's great wildlife habitats. Jaguars, giant otters, capybaras, and hundreds of bird species live in the surrounding floodplains.

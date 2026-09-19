@@ -15,6 +15,10 @@ heritage: 3.144
 vibrancy: 2.367
 nature: 4.859
 off_the_beaten_track: 2.703
+image: mata.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Salto_do_Yucum%C3%A3,_Rio_Grande_do_Sul,_Brasil_(fotografado_em_maio_de_2009_por_Dalvana_Brasil_do_Nascimento)..JPG
+image_license: CC BY-SA 3.0
+image_attribution: Dalvana Nascimento
 ---
 
 Mata is a small town in the central-west of Rio Grande do Sul with a strangely memorable identity: it has built much of its visitor life around fossil wood. Petrified trunks, museum cases, and garden displays give the place a prehistoric angle you do not expect from an ordinary inland Brazilian town.

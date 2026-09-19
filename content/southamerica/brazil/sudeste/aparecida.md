@@ -7,6 +7,10 @@ snippet: Brazil's great pilgrimage town, built around one of the largest Catholi
   basilicas in the world
 title: Aparecida
 type: location
+image: aparecida.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Basilica_of_the_National_Shrine_of_Our_Lady_of_Aparecida,_2007.jpg
+image_license: CC BY 3.0 br
+image_attribution: Valter Campanato/ABr
 ---
 
 Aparecida is the religious heart of Brazil. In 1717 fishermen on the Rio Paraíba pulled a small clay statue of the Virgin from their nets, and the image of Nossa Senhora Aparecida became the country's patron saint. The town that grew up around her, halfway between [São Paulo](/southamerica/brazil/saopaulo) and [Rio de Janeiro](/southamerica/brazil/riodejaneiro) on the Via Dutra, receives millions of pilgrims a year.

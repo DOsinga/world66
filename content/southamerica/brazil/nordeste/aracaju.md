@@ -7,6 +7,10 @@ snippet: Easygoing capital of Sergipe, Brazil's smallest state, with a long urba
   beach and good crab
 title: Aracaju
 type: location
+image: aracaju.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Antiga_Alf%C3%A2ndega_de_Aracaju_-_Aracaju_-_20220922154842.JPG
+image_license: CC BY-SA 4.0
+image_attribution: Túllio F
 ---
 
 Aracaju is the capital of Sergipe, the smallest state in Brazil, and one of the most relaxed state capitals in the northeast. It is a planned city, laid out in a grid in the 1850s, with a long seafront at Atalaia beach where most visitors stay, eat and walk in the evening.

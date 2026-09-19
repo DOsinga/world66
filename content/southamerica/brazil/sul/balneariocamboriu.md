@@ -11,6 +11,10 @@ heritage: 3.811
 vibrancy: 5.205
 nature: 6.707
 off_the_beaten_track: 1.795
+image: balneariocamboriu.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Balne%C3%A1rio_Cambori%C3%BA_from_Unipraias_Park_2023-04-02.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Trustable
 ---
 
 Balneário Camboriú is a city of beautiful contrasts...

@@ -7,6 +7,10 @@ snippet: Maze of four hundred forested islands in the Rio Negro, one of the larg
   freshwater archipelagos on earth
 title: Anavilhanas
 type: location
+image: anavilhanas.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Arquip%C3%A9lago_de_Anavilhanas_12.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Karen Mohrstedt Badin
 ---
 
 Anavilhanas is an archipelago of around four hundred islands strung for more than a hundred kilometres along the Rio Negro, upstream of [Manaus](/southamerica/brazil/norte/manaus). It is a national park and one of the largest river archipelagos in the world, and from the air it looks like a green braid laid on black water.

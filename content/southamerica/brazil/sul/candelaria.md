@@ -11,6 +11,10 @@ heritage: 6.679
 vibrancy: 3.654
 nature: 3.822
 off_the_beaten_track: 2.97
+image: candelaria.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cerro_botucara%C3%AD.jpg
+image_license: CC BY-SA 4.0
+image_attribution: DiiegoDS
 ---
 
 Candelária is a small city in Rio Grande do Sul with a stronger identity than its size suggests. It sits on the Paleorrota, the fossil-rich belt of southern Brazil where Triassic rocks have produced early dinosaur and mammal-line remains.

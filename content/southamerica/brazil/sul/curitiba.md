@@ -4,7 +4,7 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-06-03'
   poi_cleanup: '2026-04-21'
-image: ''
+image: curitiba.jpg
 latitude: -25.4296
 loc_type: city
 longitude: -49.2713
@@ -21,6 +21,9 @@ heritage: 4.262
 vibrancy: 5.099
 nature: 5.501
 off_the_beaten_track: 1.219
+image_source: https://commons.wikimedia.org/wiki/File:Estufa_principal_do_Jardim_Bot%C3%A2nico_de_Curitiba_02.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Rodrigo.Argenton
 ---
 
 Curitiba is the capital of Paraná state and one of Brazil's best-planned cities. While it lacks the drama of Rio or the energy of São Paulo, it is a genuinely pleasant place — clean, green, well-organised, and full of parks. The innovative bus rapid transit system, designed in the 1970s, became a model copied by cities worldwide.

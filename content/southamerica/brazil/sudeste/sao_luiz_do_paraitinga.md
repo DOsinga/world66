@@ -16,6 +16,10 @@ heritage: 4.241
 vibrancy: 5.383
 nature: 7.33
 off_the_beaten_track: 4.784
+image: sao_luiz_do_paraitinga.jpg
+image_source: https://commons.wikimedia.org/wiki/File:S%C3%A3o_Luiz_do_Paraitinga.jpg
+image_license: CC BY 2.0
+image_attribution: Governo do Estado de São Paulo
 ---
 
 São Luiz do Paraitinga is a small town in the Paraíba Valley of São Paulo state, between the old coffee country and the Serra do Mar. Its centre is the draw: rows of 19th-century houses, churches, and public buildings that were badly damaged by the 2010 Paraitinga River flood and then rebuilt with unusual care.

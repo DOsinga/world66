@@ -7,6 +7,10 @@ snippet: Red sandstone plateau above Cuiabá, with waterfalls, caves and the geo
   centre of South America
 title: Chapada dos Guimarães
 type: location
+image: chapada_dos_guimaraes.jpg
+image_source: https://commons.wikimedia.org/wiki/File:189_Red-and-green_macaw_couple_flying_in_Chapada_dos_Guimar%C3%A3es_National_Park_Photo_by_Giles_Laurent.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Giles Laurent
 ---
 
 The Chapada dos Guimarães is a sandstone plateau rising abruptly out of the lowlands an hour north-east of [Cuiabá](/southamerica/brazil/centro_oeste/cuiaba). Its red cliffs, canyons and waterfalls are protected in a national park, and the old town of Chapada dos Guimarães on top is the base for exploring it.

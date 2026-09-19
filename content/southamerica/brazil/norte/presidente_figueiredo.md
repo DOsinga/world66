@@ -6,6 +6,10 @@ score: 5.9
 snippet: Town of waterfalls and sandstone caves in the forest two hours north of Manaus
 title: Presidente Figueiredo
 type: location
+image: presidente_figueiredo.jpg
+image_source: https://commons.wikimedia.org/wiki/File:MarioOliveira_Cachoeira_de_Iracema_Presidente_Figueiredo_AM_(41107155682).jpg
+image_license: Public domain
+image_attribution: MTur Destinos
 ---
 
 Presidente Figueiredo calls itself the land of waterfalls, and with more than a hundred of them within reach of town the claim holds up. It is about a hundred and ten kilometres north of [Manaus](/southamerica/brazil/norte/manaus) on the BR-174, the road to Boa Vista, and makes an easy break from the river.

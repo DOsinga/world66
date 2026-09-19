@@ -15,6 +15,10 @@ heritage: 5.103
 vibrancy: 2.924
 nature: 3.803
 off_the_beaten_track: 3.159
+image: santa_maria_de_jetiba.jpg
+image_source: https://commons.wikimedia.org/wiki/File:AMR_-_PREFEITURA_DE_SANTA_MARIA_DE_JETIB_(ES)_-_ST_MARIA_DE_JETIB%C3%81%27S_CITY_HALL_-_panoramio.jpg
+image_license: CC BY-SA 3.0
+image_attribution: altair mendes
 ---
 
 Santa Maria de Jetibá is a mountain town in central Espírito Santo, about 70 km from Vitória, and one of the most unusual cultural pockets in Brazil. It was settled by Pomeranian immigrants in the 19th century, and East Pomeranian is still part of daily life here in a way that has almost disappeared in Europe.

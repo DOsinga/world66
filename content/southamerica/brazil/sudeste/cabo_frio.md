@@ -7,6 +7,10 @@ snippet: Old coastal town of the Região dos Lagos, with salt lagoons, a Portugu
   fort and a long white beach
 title: Cabo Frio
 type: location
+image: cabo_frio.jpg
+image_source: https://commons.wikimedia.org/wiki/File:PlayaForteSaoMateo1-CaboFrio-Brasil-feb2016.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Ezarate
 ---
 
 Cabo Frio is the main town of the Região dos Lagos, the lagoon and beach country east of [Rio de Janeiro](/southamerica/brazil/riodejaneiro), and one of the oldest settlements in Brazil. It is busier and more ordinary than its neighbours, [Búzios](/southamerica/brazil/sudeste/buzios) and [Arraial do Cabo](/southamerica/brazil/sudeste/arraial_do_cabo), but it has the region's biggest beach and a character of its own.

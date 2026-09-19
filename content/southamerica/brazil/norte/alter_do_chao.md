@@ -7,6 +7,10 @@ snippet: Amazon river village of white sand beaches that appear when the Tapajó
   each dry season
 title: Alter do Chão
 type: location
+image: alter_do_chao.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Alter_do_ch%C3%A3o,_Santar%C3%A9m_(23311400635).jpg
+image_license: CC BY 2.0
+image_attribution: Espaço São José Liberto
 ---
 
 Alter do Chão is the Amazon's great surprise: a village on the Rio Tapajós with white sand beaches, clear water and the feel of a Caribbean coast, a thousand kilometres from the sea. It lies thirty-five kilometres from [Santarém](/southamerica/brazil/norte/santarem), whose airport is the way in.

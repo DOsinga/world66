@@ -14,6 +14,10 @@ heritage: 3.886
 vibrancy: 2.256
 nature: 6.02
 off_the_beaten_track: 3.59
+image: bonito.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Rio_da_Prata.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Marcel Favery
 ---
 
 Bonito is a small town in Mato Grosso do Sul, about 260 km from [Campo Grande](/southamerica/brazil/centro_oeste/campo_grande), that has become one of Brazil's premier ecotourism destinations. The name means "beautiful" and the rivers here live up to it — the water in the Rio da Prata and Rio Sucuri is so clear that you can float downstream and watch dozens of fish species swimming around you as if you were in an aquarium.

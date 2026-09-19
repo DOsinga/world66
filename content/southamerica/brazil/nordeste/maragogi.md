@@ -7,6 +7,10 @@ snippet: Alagoas beach town famous for the galés, reef pools six kilometres off
   that you snorkel at low tide
 title: Maragogi
 type: location
+image: maragogi.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Maragogi_-_Alagoas_(16364632559).jpg
+image_license: CC BY 2.0
+image_attribution: Marinelson Almeida - Traveling through Brazil from Niteroi, Brasil
 ---
 
 Maragogi is a beach town on the north coast of Alagoas, between [Maceió](/southamerica/brazil/nordeste/maceio) and [Recife](/southamerica/brazil/nordeste/recife), and it is known for one thing above all: the galés. These are natural pools in a coral reef about six kilometres offshore, which become shallow enough at low tide to stand in, with clear turquoise water and shoals of reef fish.

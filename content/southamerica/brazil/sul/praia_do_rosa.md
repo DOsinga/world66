@@ -7,6 +7,10 @@ snippet: Green-hilled surf bay in Santa Catarina where southern right whales com
   in to calve each winter
 title: Praia do Rosa
 type: location
+image: praia_do_rosa.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Praia_do_Rosa_(5414567312).jpg
+image_license: CC BY 2.0
+image_attribution: Andreia Reis from São Paulo, Brasil
 ---
 
 Praia do Rosa is a crescent of beach between green headlands on the southern coast of Santa Catarina, about ninety kilometres south of [Florianópolis](/southamerica/brazil/sul/florianopolis) and part of the municipality of [Imbituba](/southamerica/brazil/sul/imbituba). It started as a surfers' discovery in the 1970s and grew into one of the most attractive small resorts in the south of Brazil, its pousadas scattered on the hillsides above the bay.

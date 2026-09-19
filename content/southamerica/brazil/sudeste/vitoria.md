@@ -7,6 +7,10 @@ snippet: Island capital of Espírito Santo, known for its moqueca capixaba and c
   cooking pots
 title: Vitória
 type: location
+image: vitoria.jpg
+image_source: https://commons.wikimedia.org/wiki/File:VitorJubini_TerceiraPonte_Vitoria_ES_(27121005458).jpg
+image_license: Public domain
+image_attribution: Vitor Jubini/MTur
 ---
 
 Vitória, the capital of Espírito Santo, sits mostly on an island in a bay, joined to the mainland and to [Vila Velha](/southamerica/brazil/sudeste/vilavelha) by bridges. It is a working port city rather than a resort, but a pleasant one, with green hills, a waterfront and a food culture that Brazilians take seriously.

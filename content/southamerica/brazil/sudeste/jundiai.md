@@ -14,6 +14,10 @@ heritage: 2.34
 vibrancy: 2.991
 nature: 2.452
 off_the_beaten_track: 1.326
+image: jundiai.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Jundia%C3%AD2015.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Daniel Pavan e Silva
 ---
 
 Jundiaí is more than a middle city between São Paulo and Campinas. Its older identity is agricultural: fruit farms, Italian immigrant families, vineyards and rural restaurants on the edge of the city. Its wilder identity is the [Serra do Japi](/southamerica/brazil/sudeste/jundiai/serra_do_japi), a protected Atlantic Forest mountain range that gives Jundiaí a green backdrop unusual for an industrial city.

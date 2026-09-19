@@ -7,6 +7,10 @@ snippet: Minas Gerais town of canyons, waterfalls and boat trips on the vast Fur
   reservoir
 title: Capitólio
 type: location
+image: capitolio.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Mar_de_Minas,_Capit%C3%B3lio,_MG_(por_Eduardo_Bellon).png
+image_license: CC BY-SA 4.0
+image_attribution: Eduardo Bellon
 ---
 
 Capitólio is a small town in southwestern Minas Gerais, on the shore of the Furnas reservoir — the 'sea of Minas', a huge artificial lake created by a dam in the 1960s. Where the water flooded the valleys it left dramatic canyons of layered rock, and boat trips into these, with waterfalls pouring in from above, are what bring people here.

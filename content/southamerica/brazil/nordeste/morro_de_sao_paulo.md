@@ -7,6 +7,10 @@ snippet: Car-free island village of numbered beaches and a colonial fort, a boat
   south of Salvador
 title: Morro de São Paulo
 type: location
+image: morro_de_sao_paulo.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Morro_de_S%C3%A3o_Paulo_maio_2019.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Georgina Oliveira
 ---
 
 Morro de São Paulo is a car-free village on the island of Tinharé, south of [Salvador](/southamerica/brazil/nordeste/salvador), and the most popular beach escape from the city. It is reached by catamaran from Salvador in about two and a half hours — the crossing can be rough — or by a shorter combination of ferry, road and boat via Valença.

@@ -7,6 +7,10 @@ snippet: Old diamond-rush town of cobbled streets and the base for trekking in t
   Chapada Diamantina
 title: Lençóis
 type: location
+image: lencois.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Lavadeiras_no_Rio_Len%C3%A7%C3%B3is.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Portoquá
 ---
 
 Lençóis is the gateway to the [Chapada Diamantina](/southamerica/brazil/nordeste/chapadadiamantina), and the best-looking town in the Bahian interior. It was founded in the 1840s diamond rush, when prospectors flooded into the sandstone mountains, and the diamonds paid for the colonial-style houses, painted in pastels along steep cobbled streets, that make up the protected town centre today.

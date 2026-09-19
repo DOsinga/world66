@@ -7,6 +7,10 @@ snippet: Brazil's first national park, from Atlantic forest waterfalls to the ro
   peaks of the Agulhas Negras
 title: Itatiaia National Park
 type: location
+image: itatiaia.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Agulhasnegras.JPG
+image_license: Public domain
+image_attribution: Alexhubner
 ---
 
 Itatiaia was the first national park in Brazil, created in 1937 in the Serra da Mantiqueira where Rio de Janeiro, Minas Gerais and São Paulo meet. It rises from Atlantic forest at about six hundred metres to high rocky grassland at over two thousand seven hundred, and it protects two very different landscapes.

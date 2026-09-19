@@ -11,6 +11,10 @@ heritage: 2.655
 vibrancy: 1.725
 nature: 7.875
 off_the_beaten_track: 4.311
+image: aparados_da_serra.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Parque_Nacional_de_Aparados_da_Serra_Diego_Arelano_4.jpg
+image_license: CC BY-SA 4.0
+image_attribution: DiegoArelano
 ---
 
 Aparados da Serra is the oldest national park in southern Brazil, established in 1959 to protect the dramatic escarpment where the Serra Gaúcha plateau meets the Atlantic coastal plain. Its centrepiece is the Itaimbezinho canyon — a 700-metre-deep, 5.8-kilometre-long gorge that cuts through the basalt plateau in sheer vertical walls. The river Perdiz threads along the floor far below; from the rim it is barely visible. The view is as good as anything in the Serra Gaúcha.

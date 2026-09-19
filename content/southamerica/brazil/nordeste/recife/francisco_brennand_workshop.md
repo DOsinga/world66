@@ -1,10 +1,16 @@
 ---
 title: Francisco Brennand Ceramic Workshop
 type: poi
-latitude: -8.0500
+latitude: -8.05
 longitude: -34.9636
-tags: [things_to_do, sight, museum]
-story: Brennand inherited a ruined tile factory deep in the rainforest behind Recife and spent half a century filling its grounds with monumental, fantastical, and frankly priapic ceramic sculptures. The result is a personal Eden of clay totems, mythological beasts, and obelisks that has no real equivalent anywhere else.
+tags:
+- things_to_do
+- sight
+- museum
+story: Brennand inherited a ruined tile factory deep in the rainforest behind Recife
+  and spent half a century filling its grounds with monumental, fantastical, and frankly
+  priapic ceramic sculptures. The result is a personal Eden of clay totems, mythological
+  beasts, and obelisks that has no real equivalent anywhere else.
 score: 8.8
 ---
 

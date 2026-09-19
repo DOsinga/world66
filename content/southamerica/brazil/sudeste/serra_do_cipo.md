@@ -7,6 +7,10 @@ snippet: Rocky highland park an hour and a half from Belo Horizonte, with waterf
   canyons and rare flowers
 title: Serra do Cipó
 type: location
+image: serra_do_cipo.jpg
+image_source: https://commons.wikimedia.org/wiki/File:SERRA_DO_CIP%C3%93_2017_01.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Davi Almeida Vaz de Mello
 ---
 
 The Serra do Cipó is a national park in the southern Espinhaço mountains, about a hundred kilometres north-east of [Belo Horizonte](/southamerica/brazil/sudeste/belohorizonte), and the city's favourite weekend escape. It protects campos rupestres — high rocky grasslands with an extraordinary number of plants found nowhere else, including many species of the everlasting flowers called sempre-vivas — cut through by rivers, canyons and waterfalls.

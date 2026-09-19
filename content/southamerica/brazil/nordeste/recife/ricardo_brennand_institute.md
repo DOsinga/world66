@@ -3,8 +3,14 @@ title: Ricardo Brennand Institute
 type: poi
 latitude: -8.068747
 longitude: -34.878844
-tags: [things_to_do, sight, museum]
-story: Brennand, a Pernambuco industrialist, built a faux Tudor castle in the western suburbs of Recife to hold one of the world's largest collections of medieval European weaponry. The grounds also hold the largest collection of Dutch colonial-era paintings in Brazil, including landscapes by Frans Post that depict 17th-century Pernambuco.
+tags:
+- things_to_do
+- sight
+- museum
+story: Brennand, a Pernambuco industrialist, built a faux Tudor castle in the western
+  suburbs of Recife to hold one of the world's largest collections of medieval European
+  weaponry. The grounds also hold the largest collection of Dutch colonial-era paintings
+  in Brazil, including landscapes by Frans Post that depict 17th-century Pernambuco.
 score: 9.1
 ---
 

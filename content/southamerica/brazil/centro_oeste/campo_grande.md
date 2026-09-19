@@ -7,6 +7,10 @@ snippet: Capital of Mato Grosso do Sul and the gateway city for Bonito and the s
   Pantanal
 title: Campo Grande
 type: location
+image: campo_grande.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Parque_das_na%C3%A7%C3%B5es_ind%C3%ADgenas_campo_grande_brasil_20180424_172938.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Rodrigocabral2019
 ---
 
 Campo Grande is the capital of Mato Grosso do Sul, a modern, spread-out city of wide avenues built on cattle and soya money, and for most travellers the airport you fly into for [Bonito](/southamerica/brazil/centro_oeste/bonito) and the southern [Pantanal](/southamerica/brazil/centro_oeste/pantanal). Bonito is about four hours by road; the lodges of the southern Pantanal are a similar distance west, toward [Corumbá](/southamerica/brazil/centro_oeste/corumba).

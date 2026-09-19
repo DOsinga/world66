@@ -11,6 +11,10 @@ heritage: 3.956
 vibrancy: 5.274
 nature: 7.358
 off_the_beaten_track: 2.422
+image: praia_do_forte.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Projeto_Tamar_-_Praia_do_Forte,_Bahia_(7291356354).jpg
+image_license: CC BY 2.0
+image_attribution: Ben Tavener from Curitiba, Brazil
 ---
 
 Praia do Forte is a small resort village on the Coconut Coast of Bahia, about 70 kilometres north of Salvador. For much of the year it is a quiet fishing settlement, but it has become one of Bahia's most visited beach destinations thanks to its long stretch of calm, clear water, its well-preserved old village centre, and the turtle conservation project that put it on the map.

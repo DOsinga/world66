@@ -7,6 +7,10 @@ snippet: North-coast town of São Paulo with a colonial centre, the Ilhabela fer
   and a string of surf beaches
 title: São Sebastião
 type: location
+image: sao_sebastiao.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ilhabela,_S%C3%A3o_Sebasti%C3%A3o,_Brasil,_vista_de_Guaec%C3%A1_-_panoramio.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Ivano Gutz
 ---
 
 São Sebastião is a historic town on São Paulo's north coast, facing [Ilhabela](/southamerica/brazil/sudeste/ilhabela) across a narrow channel, and the starting point of the ferry to the island. Its small colonial centre, with a church on the waterfront square, dates from the seventeenth century.

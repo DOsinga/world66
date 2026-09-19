@@ -7,6 +7,10 @@ snippet: Car-free fishing village between a river and the sea, reached by canoe,
   sand streets and no streetlights
 title: Caraíva
 type: location
+image: caraiva.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cara%C3%ADva,_Bahia,_Brasil.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Marcelino Dias
 ---
 
 Caraíva is a fishing village at the mouth of the Rio Caraíva in southern Bahia, and one of the few places on this coast that has kept its end-of-the-road character. There are no cars, the streets are sand, and until recently there was no mains electricity at all; even now the lanes are lit at night mostly by the moon and the bars.

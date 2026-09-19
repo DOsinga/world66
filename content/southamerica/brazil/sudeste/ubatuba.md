@@ -16,6 +16,10 @@ heritage: 3.775
 vibrancy: 5.803
 nature: 7.416
 off_the_beaten_track: 3.732
+image: ubatuba.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Brasil_Ubatuba_beaches.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Carla404
 ---
 
 Ubatuba sits on the north coast of São Paulo state, roughly halfway between [São Paulo](/southamerica/brazil/saopaulo) and [Rio de Janeiro](/southamerica/brazil/riodejaneiro). It is a beach town, but not a simple resort strip: the Atlantic Forest presses close behind the shore, roads bend around steep green slopes, and the coast breaks into dozens of beaches with very different moods.

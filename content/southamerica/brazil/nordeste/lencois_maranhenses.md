@@ -7,6 +7,10 @@ snippet: White dunes to the horizon, with thousands of rain-filled turquoise lag
   between them from March to September
 title: Lençóis Maranhenses
 type: location
+image: lencois_maranhenses.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Parque_Nacional_dos_Len%C3%A7%C3%B3is_Maranhenses_Paulo_Cattelan_(03).jpg
+image_license: CC BY-SA 4.0
+image_attribution: Paulo Cattelan
 ---
 
 The Lençóis Maranhenses — the bedsheets of Maranhão — is a national park of white sand dunes covering some fifteen hundred square kilometres of the northern coast. That alone would make it striking. What makes it one of the great landscapes of South America is the rain: from January the wet season fills the hollows between the dunes, and by mid-year there are thousands of lagoons of clear blue and green water lying in the sand.

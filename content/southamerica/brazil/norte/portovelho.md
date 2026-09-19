@@ -15,6 +15,10 @@ heritage: 3.076
 vibrancy: 4.23
 nature: 5.811
 off_the_beaten_track: 4.768
+image: portovelho.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Porto_Velho,_Rond%C3%B4nia,_Brasil_(cropped).jpg
+image_license: CC0
+image_attribution: Silva Júnior - MTUR
 ---
 
 Porto Velho is the capital of Rondônia, set on the Madeira River in the western Brazilian Amazon. It is a working city first: a transport hub, state capital, river port, and service centre for a huge interior region. At first glance it can look plain, but it has enough river life and railway history to reward a spare day.

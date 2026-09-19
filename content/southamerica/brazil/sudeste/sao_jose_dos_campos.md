@@ -12,6 +12,10 @@ heritage: 2.303
 vibrancy: 3.992
 nature: 2.954
 off_the_beaten_track: 0.909
+image: sao_jose_dos_campos.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Parque_Natural_Municipal_do_Banhado_-_Marcia_Cristina_Machado_(20).jpg
+image_license: CC BY-SA 4.0
+image_attribution: Márcia Cristina Machado
 ---
 
 São José dos Campos is a large city in São Paulo state’s Paraíba Valley, better known for aircraft, research institutes, and industry than for easy sightseeing. That is part of its character: this is where Brazil's aerospace story is most visible, from Embraer to the military and space research campuses on the edge of town.

@@ -7,6 +7,10 @@ snippet: One of the world's most dramatic mountain roads, zigzagging down the es
   of the Serra Geral
 title: Serra do Rio do Rastro
 type: location
+image: serra_do_rio_do_rastro.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Estrada_Da_Serra_do_Rio_do_Rastro_(16517623247).jpg
+image_license: CC BY 2.0
+image_attribution: Otávio Nogueira from Fortaleza, BR
 ---
 
 The Serra do Rio do Rastro is a road — the SC-390 — that climbs the escarpment of the Serra Geral in Santa Catarina in a series of tight hairpins, rising some fourteen hundred metres over about thirty kilometres between [Lauro Müller](/southamerica/brazil/sul/lauro_muller) in the lowlands and Bom Jardim da Serra on the plateau. Seen from the viewpoint at the top, the road coils down the cliff like a ribbon, and it regularly appears on lists of the world's most spectacular drives.

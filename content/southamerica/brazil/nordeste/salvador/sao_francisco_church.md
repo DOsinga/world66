@@ -4,6 +4,7 @@ longitude: -38.5093
 tags:
 - things_to_do
 - sight
+- pelourinho
 title: Igreja de São Francisco
 type: poi
 snippet: Salvador's gold-covered baroque church with 800 kg of gold leaf

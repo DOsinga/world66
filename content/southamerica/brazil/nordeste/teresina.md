@@ -16,6 +16,10 @@ heritage: 3.13
 vibrancy: 3.533
 nature: 3.48
 off_the_beaten_track: 3.908
+image: teresina.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cine_Rex_de_Teresina_2020_b.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Moacir Ximenes
 ---
 
 Teresina is the inland capital of Piauí, sitting between the Parnaíba and Poti rivers in Brazil's northeast. It is not a beach city, and it does not pretend to be one. The first thing most visitors notice is the heat: Teresina is one of Brazil's hottest state capitals, and the city works best if you move early, rest in the middle of the day, and return to the riverfront when the light softens.

@@ -15,6 +15,10 @@ heritage: 5.184
 vibrancy: 4.465
 nature: 3.451
 off_the_beaten_track: 3.488
+image: tiradentes.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Tiradentes_-_Minas_Gerais_-_Brasil._(15463465202).jpg
+image_license: CC BY 2.0
+image_attribution: Marinelson Almeida - Traveling through Brazil from Niteroi, Brasil
 ---
 
 Tiradentes is small, beautifully preserved, and far more rewarding than its size suggests. Its cobbled lanes, whitewashed houses, and mountain backdrop make it one of the easiest colonial towns in Minas Gerais to enjoy on foot.

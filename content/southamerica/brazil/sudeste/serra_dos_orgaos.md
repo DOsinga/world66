@@ -7,6 +7,10 @@ snippet: Granite spires above Rio's mountain towns, with the Dedo de Deus and Br
   classic three-day traverse
 title: Serra dos Órgãos National Park
 type: location
+image: serra_dos_orgaos.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Serra_dos_%C3%93rg%C3%A3os_II.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Shooterb9
 ---
 
 The Serra dos Órgãos is a range of granite peaks and spires between [Petrópolis](/southamerica/brazil/sudeste/petropolis) and [Teresópolis](/southamerica/brazil/sudeste/teresopolis), an hour or two north of [Rio de Janeiro](/southamerica/brazil/riodejaneiro), and its national park is the country's great mountain playground. The name comes from the peaks' resemblance to organ pipes.

@@ -15,6 +15,10 @@ heritage: 3.494
 vibrancy: 4.696
 nature: 2.563
 off_the_beaten_track: 2.243
+image: santa_cruz_do_sul.jpg
+image_source: https://commons.wikimedia.org/wiki/File:%22_Linha_Travessa,_munic%C3%ADpio_de_Santa_Cruz_do_Sul,_Brasil_%22.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Eugenio Hansen, OFS
 ---
 
 Santa Cruz do Sul is a German-Brazilian city in central Rio Grande do Sul, about 150 km from Porto Alegre. It made its money from tobacco and keeps a strong immigrant identity in its churches, festivals, food, and tidy civic spaces.

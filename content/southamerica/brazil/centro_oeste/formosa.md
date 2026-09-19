@@ -16,6 +16,10 @@ heritage: 3.625
 vibrancy: 3.923
 nature: 5.18
 off_the_beaten_track: 3.816
+image: formosa.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Formosa_-_State_of_Goi%C3%A1s,_Brazil_-_panoramio_(1).jpg
+image_license: CC BY 3.0
+image_attribution: Josue Marinho
 ---
 
 Formosa is a Goiás city northeast of Brasília, useful not because the centre is charming, but because the surrounding cerrado is unusually rich. Within a day trip are tall waterfalls, clear pools, sinkholes, and prehistoric rock markings that make the plateau feel older and wilder than the highway approach suggests.

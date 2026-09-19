@@ -7,6 +7,10 @@ snippet: Island the size of Switzerland in the Amazon mouth, with buffalo ranche
   mangrove beaches and Marajoara pottery
 title: Ilha de Marajó
 type: location
+image: marajo.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Maraj%C3%B3_Island,_Brazil_(48569220542).jpg
+image_license: CC BY 2.0
+image_attribution: Just a Brazilian man from Brazil
 ---
 
 Marajó is the largest island surrounded by fresh and tidal water in the world, a flat, marshy block of land about the size of Switzerland sitting in the mouth of the Amazon. It is three to four hours by ferry from [Belém](/southamerica/brazil/norte/belem), and most visitors stay on its eastern side, in Soure and Salvaterra.

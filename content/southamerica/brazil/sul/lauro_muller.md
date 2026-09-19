@@ -16,6 +16,10 @@ heritage: 2.593
 vibrancy: 2.234
 nature: 5.523
 off_the_beaten_track: 3.361
+image: lauro_muller.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Serra_do_Rio_do_Rastro_2019.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Fernandokaiserbr
 ---
 
 Lauro Müller is a small city in the coal-mining heartland of southern Santa Catarina, sitting at the foot of the Serra Geral escarpment. The city exists because of coal — the British started mining here in 1842, making this one of Brazil's earliest industrial sites — and the landscape exists because of geology: the escarpment drops dramatically away from the high plateau of Santa Catarina to the coastal lowlands below.

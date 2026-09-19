@@ -16,6 +16,10 @@ heritage: 3.842
 vibrancy: 2.876
 nature: 4.994
 off_the_beaten_track: 1.89
+image: caxambu.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Caxambu_02266.JPG
+image_license: Public domain
+image_attribution: Econt 01:23, 29 September 2007 (UTC)
 ---
 
 Caxambu is one of the old hydromineral spa towns of southern Minas Gerais, in the same water-circuit tradition as [São Lourenço](/southamerica/brazil/sudeste/sao_lourenco). Its rhythm is gentle: people come to walk under trees, taste mineral waters, ride the chairlift, and enjoy a mountain-town pace that belongs more to health resorts than to beach Brazil.

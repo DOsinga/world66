@@ -7,6 +7,10 @@ snippet: Mato Grosso town of crystal-clear rivers where you snorkel among shoals
   piraputanga
 title: Nobres
 type: location
+image: nobres.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Recanto_das_Araras_Nobres-MT.png
+image_license: CC BY 3.0
+image_attribution: LeonardoG
 ---
 
 Nobres is a small town in the limestone country north of [Cuiabá](/southamerica/brazil/centro_oeste/cuiaba), about two hours away, and the answer to a question many people ask about [Bonito](/southamerica/brazil/centro_oeste/bonito): is there anywhere else like it? Nobres is the Mato Grosso version — clear spring-fed rivers, snorkelling among fish, caves and blue lagoons — smaller, less organised and much less visited.

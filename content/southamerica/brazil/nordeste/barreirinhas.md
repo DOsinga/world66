@@ -7,6 +7,10 @@ snippet: River town on the Rio Preguiças and the main gateway to the Lençóis 
   dunes
 title: Barreirinhas
 type: location
+image: barreirinhas.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Mar2024._Barreirinhas,_Maranh%C3%A3o,_Brazil._03.jpg
+image_license: CC0
+image_attribution: Ridiculopathy
 ---
 
 Barreirinhas is the working town at the edge of the [Lençóis Maranhenses](/southamerica/brazil/nordeste/lencois_maranhenses), and nearly everyone who visits the dunes sleeps here. It sits on the Rio Preguiças about four hours' drive from [São Luís](/southamerica/brazil/nordeste/sao_luis), and its riverfront is lined with pousadas, restaurants and the offices of the tour operators who run the park trips.

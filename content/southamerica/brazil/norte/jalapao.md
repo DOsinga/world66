@@ -7,6 +7,10 @@ snippet: Remote savanna of orange dunes, spring-fed rivers and fervedouros where
   sand won't let you sink
 title: Jalapão
 type: location
+image: jalapao.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Parque_Estadual_do_Jalap%C3%A3o_Jo%C3%A3o_Paulo_Marques_Dandretta_(16)_edited.jpg
+image_license: CC BY-SA 4.0
+image_attribution: 'Original:  João D''Andretta'
 ---
 
 Jalapão is a vast, empty region of cerrado savanna in eastern Tocantins, one of the least populated corners of Brazil and one of its most unusual landscapes. The state park at its heart protects orange sand dunes, table mountains, grassland and a network of clear, spring-fed rivers.

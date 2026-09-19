@@ -17,6 +17,10 @@ heritage: 3.961
 vibrancy: 5.186
 nature: 5.682
 off_the_beaten_track: 3.021
+image: laguna.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Santa_Marta_Lighthouse_in_Laguna_-_SanTa_Catarina_-_Brazil.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Joel Colman
 ---
 
 Laguna is one of the oldest and most historically significant towns on Brazil's southern coast — a place where colonial architecture, wild beaches, and a famous carnival combine in a way that sets it apart from the beach resorts further north. Founded in 1676, it sits on a narrow strip of land between the Atlantic Ocean and the vast Lagoa Santo Antônio, giving it the feel of a town enclosed by water on all sides.

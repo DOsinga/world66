@@ -16,6 +16,10 @@ heritage: 3.582
 vibrancy: 2.885
 nature: 3.456
 off_the_beaten_track: 2.757
+image: linhares.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Linhares_(50895547307).jpg
+image_license: CC BY 2.0
+image_attribution: Rômulo  Gama Ferreira from Vitória-ES
 ---
 
 Linhares is not a pretty colonial town and it does not pretend to be one. It is a working city on BR-101, about 135 km north of Vitória, with its best travel reasons spread across the surrounding municipality: freshwater lagoons, preserved Atlantic Forest, and a wild stretch of turtle coast.

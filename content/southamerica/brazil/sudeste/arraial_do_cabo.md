@@ -7,6 +7,10 @@ snippet: Fishing town on the Cabo Frio peninsula with the clearest, coldest wate
   on Rio's coast
 title: Arraial do Cabo
 type: location
+image: arraial_do_cabo.jpg
+image_source: https://commons.wikimedia.org/wiki/File:VistaPraiadoFarol2-Arraial_do_Cabo-feb2016-1.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Ezarate
 ---
 
 Arraial do Cabo sits at the tip of the peninsula where Brazil's coast turns west toward Rio, and the upwelling of cold, nutrient-rich water here gives it the clearest sea in the state — turquoise over white sand, and noticeably chilly. It is about three hours from [Rio de Janeiro](/southamerica/brazil/riodejaneiro), and Brazilians call it the Caribbean of Rio.

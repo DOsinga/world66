@@ -7,6 +7,10 @@ snippet: Quiet sandy island south of Morro de São Paulo, with reef pools, palm 
   and no cars
 title: Boipeba
 type: location
+image: boipeba.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ilha_de_Boipeba-3_(51017492561).jpg
+image_license: CC BY 2.0
+image_attribution: Otávio Nogueira from Fortaleza, BR
 ---
 
 Boipeba is the island Morro de São Paulo used to be. It lies just south of Tinharé, separated from it by a river channel, and it has stayed small and quiet: a few sand lanes in the village of Velha Boipeba, some pousadas, and long beaches of palms and reef with almost no one on them.

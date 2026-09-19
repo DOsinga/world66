@@ -7,6 +7,10 @@ snippet: Rio Grande do Sul's prettiest beach town, where basalt cliffs meet the 
   on a coast of endless sand
 title: Torres
 type: location
+image: torres.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Vis%C3%A3o_da_torre_sul_%C3%A0_partir_da_torre_do_meio_-_panoramio.jpg
+image_license: CC BY 3.0
+image_attribution: rafael alexandre de …
 ---
 
 Torres is the northernmost beach town of Rio Grande do Sul, on the border with Santa Catarina, and the one place on the state's long, straight coastline where the land rises to meet the sea. Basalt cliffs and headlands — the towers that give the town its name — break up the sand here, and the result is the prettiest resort on the gaúcho coast.

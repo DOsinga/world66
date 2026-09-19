@@ -1,9 +1,9 @@
 ---
-latitude: 42.1500
+latitude: 42.15
 longitude: 24.7518
 score: 7.5
-snippet: The Revival merchant house that best explains how Plovdiv's traders lived, and the
-  one with the concerts.
+snippet: The Revival merchant house that best explains how Plovdiv's traders lived,
+  and the one with the concerts.
 sources:
 - https://travellingbuzz.com/things-to-see-and-do-in-plovdiv-bulgaria/
 tags:
@@ -13,6 +13,14 @@ tags:
 - blogs_that_know_plovdiv
 title: Balabanov House
 type: poi
+image: balabanov_house.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Plovdiv_--_Balabanov_House_01.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Explorer1940
+picks:
+- blog: https://travellingbuzz.com/things-to-see-and-do-in-plovdiv-bulgaria/
+  quote: The second floor is an impressive representation of a wealthy family house
+    with Baroque furniture and carved wooden ceilings and walls.
 ---
 
 The Old Town is full of nineteenth-century merchant houses, and this is the one to go inside. Balabanov House was built for a wealthy trader in the 1850s, demolished in the twentieth century and rebuilt in the 1980s from drawings and photographs — a reconstruction, which the museum says plainly. What it reconstructs is the Plovdiv Revival style at full volume: a symmetrical timber facade with an overhanging upper floor, painted ceilings, and a central salon two storeys high.

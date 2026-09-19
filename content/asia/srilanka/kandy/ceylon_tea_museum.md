@@ -19,6 +19,15 @@ tags:
 - blogs_for_kandy_and_the_hill_country
 title: Ceylon Tea Museum
 type: poi
+image: ceylon_tea_museum.jpg
+image_source: https://commons.wikimedia.org/wiki/File:KANDY_TEA_MUSEUM_KANDY_TOWN_SRI_LANKA_JAN_2013_(8583226551).jpg
+image_license: CC BY-SA 2.0
+image_attribution: calflier001
+picks:
+- blog: https://www.thecommonwanderer.com/blog/best-things-to-do-in-kandy-sri-lanka
+  quote: The museum provides a wonderful historical overview of tea in Sri Lanka,
+    starting with the pioneers James Talyor, and Thomas Lipton (yeah, the Lipton Tea
+    founder!) through to the present day.
 ---
 
 The Ceylon Tea Museum, in a converted tea factory about 4 km south of Kandy on the Hantane plateau, traces the history of tea cultivation in Sri Lanka from the coffee blight of the 1870s through the establishment of the tea industry to the present day. The museum is particularly good on the machinery: the original rolling, fermenting, and drying equipment from the early twentieth century is still in place and clearly explained.

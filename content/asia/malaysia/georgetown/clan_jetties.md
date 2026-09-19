@@ -8,8 +8,23 @@ tags:
 - things_to_do
 - sight
 - neighbourhood
-story: "Each jetty was traditionally settled by a single Chinese clan: the Chew Jetty by people surnamed Chew, the Lim Jetty by the Lim family, and so on. Six clan jetties survive today (a seventh, the Koay Jetty, was demolished in 2006), and each still functions as a small village over the water, with its own temple, its own narrow walkway and its own surname over the entrance."
+story: 'Each jetty was traditionally settled by a single Chinese clan: the Chew Jetty
+  by people surnamed Chew, the Lim Jetty by the Lim family, and so on. Six clan jetties
+  survive today (a seventh, the Koay Jetty, was demolished in 2006), and each still
+  functions as a small village over the water, with its own temple, its own narrow
+  walkway and its own surname over the entrance.'
 score: 8.4
+image: clan_jetties.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Chew_Jetty,_Georgetown,_Penang,_Malaysia_(5257794500).jpg
+image_license: CC BY 2.0
+image_attribution: yeowatzup
+sources:
+- https://www.penang-insider.com/
+- https://www.penang-insider.com/things-to-do-in-penang/
+picks:
+- blog: https://www.penang-insider.com/
+  quote: They are a very scenic place, and a real opportunity to understand how life
+    was in old Penang.
 ---
 
 The clan jetties are wooden stilt villages built out over the water on the southern edge of the old town. Hokkien Chinese immigrants in the 19th century, denied land on shore, built houses on stilts above the harbour and clustered by family name — each surname grouped on its own jetty. Six remain, still inhabited, still living as small village communities directly over the tidal water.

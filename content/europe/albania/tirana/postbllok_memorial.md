@@ -4,11 +4,24 @@ type: poi
 latitude: 41.3248
 longitude: 19.8172
 tags:
-  - things_to_do
-  - sight
-  - memorial
-story: "The memorial brings together three objects: a piece of the Berlin Wall, given to Albania by Germany in 1995; a concrete bunker, one of the 170,000 built across the country under Hoxha; and a metal beam from the labour camp at Spaç where political prisoners broke rocks. Each object stands for a different layer of the dictatorship."
+- things_to_do
+- sight
+- memorial
+story: 'The memorial brings together three objects: a piece of the Berlin Wall, given
+  to Albania by Germany in 1995; a concrete bunker, one of the 170,000 built across
+  the country under Hoxha; and a metal beam from the labour camp at Spaç where political
+  prisoners broke rocks. Each object stands for a different layer of the dictatorship.'
 score: 6.4
+image: postbllok_memorial.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Postbllok_Memorial_Bunker.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Ivan Ruggiero
+sources:
+- https://www.anitahendrieka.com/things-to-do-in-tirana-albania/
+picks:
+- blog: https://www.anitahendrieka.com/things-to-do-in-tirana-albania/
+  quote: In this small park, you will find a fragment of the Berlin Wall, a bunker
+    and remains from an Albanian labour camp during the communist regime.
 ---
 
 A small open-air memorial at the edge of the Blloku district, on the spot where the chain of guards that once kept ordinary Albanians out of the communist nomenklatura quarter used to stand. The installation is deliberately understated: a Berlin Wall fragment, a Hoxha-era bunker, and a beam from a labour camp, with quiet explanations in Albanian and English.

@@ -8,6 +8,7 @@ sources:
 - http://vulcanoexpediciones.com/destinos/san-pedro-de-atacama/cosas-que-hacer-en-san-pedro-de-atacama
 - https://www.adventurouskate.com/things-to-do-in-san-pedro-de-atacama/
 - https://unaideaunviaje.com/que-ver-en-san-pedro-de-atacama/
+- https://worldlyadventurer.com/things-to-do-in-atacama-desert/
 tags:
 - things_to_do
 - sight
@@ -15,6 +16,14 @@ tags:
 - blogs_for_san_pedro_and_the_atacama
 title: Piedras Rojas
 type: poi
+image: piedras_rojas.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Piedras_Rojas,_salar_de_Aguas_Calientes,_Chile,_2016-02-08,_DD_66.JPG
+image_license: CC BY-SA 4.0
+image_attribution: Diego Delso
+picks:
+- blog: https://worldlyadventurer.com/things-to-do-in-atacama-desert/
+  quote: Surrounded by a ring of volcanoes, Las Piedras Rojas … are an expanse of
+    red-hued rocks that look like a set of huge natural cobblestones.
 ---
 
 Piedras Rojas is the far point of the long southern day trip, about 150 kilometres from San Pedro beyond Socaire and the [altiplanic lagoons](/southamerica/chile/sanpedrodeatacama/lagunas_altiplanicas). The setting is the Salar de Aguas Calientes: a white salt crust, a turquoise lake, and a field of boulders stained deep rust-red by oxidised iron, all of it at just over 4,000 metres with Láscar smoking away to the north.

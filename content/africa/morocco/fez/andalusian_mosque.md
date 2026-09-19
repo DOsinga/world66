@@ -21,6 +21,15 @@ tags:
 - blogs_that_know_fez
 title: Andalusian Mosque
 type: poi
+image: andalusian_mosque.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Andalous_mosque_fes_DSCF1862.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Robert Prazeres
+picks:
+- blog: https://www.journeybeyondtravel.com/blog/things-to-do-fez-morocco.html
+  quote: Though entrance to the Andalusian Mosque and Kairouine Mosque is restricted
+    to Muslims, both houses of worship have facades with beautiful arches and tilework
+    that anyone can admire.
 ---
 
 The Andalusian Mosque is the great monument of the eastern half of Fes el-Bali, founded in 859 — the same year as Al-Qarawiyyin across the river — and substantially rebuilt by the Merinids in the thirteenth and fourteenth centuries. Non-Muslims cannot enter, but the Merinid doorway on the north side is visible from the street: a deeply carved portal in carved cedar and stone, flanked by pillars, that is one of the finest pieces of Merinid decoration in the city.

@@ -18,6 +18,14 @@ tags:
 - blogs_for_kandy_and_the_hill_country
 title: Kandy Lake
 type: poi
+image: kandy_lake.jpg
+image_source: https://commons.wikimedia.org/wiki/File:SL_Kandy_asv2020-01_img10_Arthurs_Seat_view.jpg
+image_license: FAL
+image_attribution: A.Savin
+picks:
+- blog: https://www.thecommonwanderer.com/blog/best-things-to-do-in-kandy-sri-lanka
+  quote: Right at the heart of Kandy is the Kandy Lake; surprisingly peaceful despite
+    the bustling road that winds around it.
 ---
 
 The artificial lake at the center of Kandy is a pleasant place to walk at any time of day, but especially at dawn and dusk when the water reflects the surrounding hills and the golden spire of the Temple of the Tooth. The 3.5 km path around the perimeter takes about forty-five minutes at a gentle pace and passes the cloud wall (the ornamental parapet along the temple side), a small island used as a gunpowder store by the Kandyan kings, and several good viewpoints.

@@ -20,6 +20,14 @@ tags:
 - blogs_to_read_before_tbilisi
 title: David Gareja Monastery
 type: poi
+image: david_gareja_day_trip.jpg
+image_source: https://commons.wikimedia.org/wiki/File:David_Gareja_Monastery_2,_Georgia.jpg
+image_license: CC BY 4.0
+image_attribution: Vyacheslav Argenberg
+picks:
+- blog: https://alittleadrift.com/georgia/tbilisi/
+  quote: A few hours outside the capital, our car hummed along lonely, winding roads
+    through a muted, almost lunar landscape.
 ---
 
 David Gareja is a monastery complex built into a series of cliffs and caves in a remote semi-desert landscape about 65 km southeast of Tbilisi. Founded in the 6th century by the monk David, one of the Thirteen Assyrian Fathers who brought monasticism to Georgia, the complex includes the main Lavra monastery and the cave churches of Udabno across the ridge.

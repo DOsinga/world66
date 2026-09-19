@@ -17,6 +17,15 @@ tags:
 - blogs_for_yerevan_and_armenia
 title: Matenadaran
 type: poi
+image: matenadaran.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Yerevan,_Matenadaran,_Armenia.jpg
+image_license: CC BY 4.0
+image_attribution: Vyacheslav Argenberg
+picks:
+- blog: https://www.mywanderlust.pl/things-to-do-in-yerevan-armenia/
+  quote: Matenadaran – the museum of Armenian manuscripts, the largest one of that
+    kind in the world. This is one of the most precious treasures of the Armenian
+    culture.
 ---
 
 Officially the Mesrop Mashtots Institute of Ancient Manuscripts, the Matenadaran is one of the great manuscript collections in the world — more than 23,000 documents in Armenian, Greek, Syriac, Latin, Arabic, Persian, and a dozen other languages. The collection covers theology, philosophy, medicine, astronomy, and history from the 5th century onwards, including the world's largest body of medieval Armenian literature.

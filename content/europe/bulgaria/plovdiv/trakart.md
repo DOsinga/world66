@@ -2,8 +2,8 @@
 latitude: 42.1449
 longitude: 24.7516
 score: 6.6
-snippet: Late Roman floor mosaics preserved in situ under a road underpass, which is stranger
-  and better than it sounds.
+snippet: Late Roman floor mosaics preserved in situ under a road underpass, which
+  is stranger and better than it sounds.
 sources:
 - https://travellingbuzz.com/things-to-see-and-do-in-plovdiv-bulgaria/
 tags:
@@ -12,6 +12,14 @@ tags:
 - blogs_that_know_plovdiv
 title: Trakart Cultural Centre
 type: poi
+image: trakart.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Trakart_Center,_Plovdiv_28.jpg
+image_license: CC BY-SA 4.0
+image_attribution: TodorBelomorski
+picks:
+- blog: https://travellingbuzz.com/things-to-see-and-do-in-plovdiv-bulgaria/
+  quote: Located near the main street, the Trakart museum preserves and exhibits an
+    impressive ancient Roman floor mosaic from the III-IV century.
 ---
 
 When the boulevard was cut through in the 1970s, the excavation went straight into a late Roman townhouse with its mosaic floors intact. Rather than lift them, the city built the underpass over the top and left them where they were, and Trakart is what you reach by walking down into it. The mosaics are fourth-century, geometric and figurative, with birds and a well-known peacock, and you look at them from a walkway a metre above the floor level they were laid at.

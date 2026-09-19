@@ -19,6 +19,15 @@ tags:
 - blogs_that_know_fez
 title: Bab Boujeloud
 type: poi
+image: bab_boujeloud.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bab_Boujeloud,_Fes,_Marokko.JPG
+image_license: CC BY-SA 4.0
+image_attribution: Feldstein
+picks:
+- blog: https://www.journeybeyondtravel.com/blog/things-to-do-fez-morocco.html
+  quote: These four giants are covered in beautiful tiles and serve as a great photographic
+    subject before you plunge into the sights and sounds of the marketplace. The Bab
+    Boujeloud is especially impressive.
 ---
 
 The main ceremonial gate into Fes el-Bali and the most photographed landmark in the city. The horseshoe arches are faced with blue zellige tilework on the medina side and green on the outside — the dominant colours of Fez. Every morning a steady stream of donkeys, schoolchildren, tourists, and traders passes through its three arches.

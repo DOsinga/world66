@@ -18,6 +18,14 @@ tags:
 - blogs_to_read_before_tbilisi
 title: Rustaveli Avenue
 type: poi
+image: rustaveli_avenue.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Rustaveli_Avenue,_Tbilisi_(B).jpg
+image_license: Public domain
+image_attribution: Kober
+picks:
+- blog: https://alittleadrift.com/georgia/tbilisi/
+  quote: Sweet, shady trees along Rustaveli Avenue belong as much in Paris as in this
+    tiny Eastern European city.
 ---
 
 Rustaveli Avenue is Tbilisi's central artery and its showcase boulevard, running about 1.5 kilometres from Freedom Square to Rose Revolution Square. It was laid out in the 19th century as part of the Russian imperial city plan and lined with neo-classical and eclectic buildings that house some of the city's most important institutions.

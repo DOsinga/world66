@@ -20,9 +20,10 @@ image_source: https://commons.wikimedia.org/wiki/File:A_feral_cat_in_Kotor,_Mont
 image_license: CC BY-SA 4.0
 image_attribution: Alexey Komarov
 picks:
-- blog: https://www.montenegropulse.com/things-to-do-in-kotor.html
-  quote: Kotor has embraced its cat obsession, with cat-themed souvenirs, artwork,
-    and even a Cat Museum.
+- blog: https://www.chasingthedonkey.com/bay-of-kotor-things-to-do-in-kotor-montenegro/
+  quote: This tiny museum has a quirky collection of everything related to the local
+    cats, including coins, art, literature, and other historical artifacts. Also,
+    the gift shop sells small bags of cat food.
 ---
 
 The Cats Museum is a charmingly absurd little institution in a single room in the old town — a private collection of cat-themed prints, postcards, posters, advertisements, and ephemera assembled over decades. The displays are unapologetically hand-curated, with handwritten labels in several languages.

@@ -6,6 +6,8 @@ score: 8.1
 sources:
 - https://www.journalofnomads.com/top-things-to-do-in-bishkek-kyrgyzstan/
 - https://caravanistan.com/kyrgyzstan/bishkek/
+- https://adventuresoflilnicki.com/
+- https://adventuresoflilnicki.com/things-to-do-in-bishkek/
 story: 'Dordoi is one of the largest wholesale bazaars in Central Asia, with an estimated
   40,000 vendors operating from stacked shipping containers across more than 100 hectares.
   For two decades it was the main re-export hub for Chinese consumer goods into the
@@ -20,6 +22,14 @@ tags:
 - blogs_for_bishkek_and_the_mountains
 title: Dordoi Bazaar
 type: poi
+image: dordoi_bazaar.jpg
+image_source: https://commons.wikimedia.org/wiki/File:E7870-Dordoy-laghman.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Vmenkov
+picks:
+- blog: https://adventuresoflilnicki.com/
+  quote: One of the highlights? The ashlan fu stalls selling Dungan spicy cold noodle
+    soup that the eastern city of Karakol is famed for.
 ---
 
 If Osh Bazaar overwhelms you, Dordoi will floor you. Bishkek's wholesale bazaar sprawls across the northern edge of the city — endless rows of double-stacked shipping containers selling Chinese-import everything: clothing by the bale, electronics, household goods, hardware, fake brand-name shoes. Most of the action is wholesale, but everything is for sale to retail buyers at small mark-ups.

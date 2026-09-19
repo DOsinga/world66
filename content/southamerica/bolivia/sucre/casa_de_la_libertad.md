@@ -22,11 +22,6 @@ image_attribution: Ainatania504
 sources:
 - https://www.bolivianlife.com/
 - https://www.bolivianlife.com/your-travel-guide-to-sucre/
-picks:
-- blog: https://www.bolivianlife.com/
-  quote: One of the most historically significant buildings in Bolivia is Sucre’s
-    Casa de la Libertad where, in 1825, the republic was created with the signing
-    of the Bolivian declaration of independence.
 ---
 
 The Casa de la Libertad is the single most important historical building in Bolivia. It was here, in what was then the chapel of the Jesuit College, that the Act of Independence of Upper Peru was signed on 6 August 1825. The same hall later served as the country's first national congress. Standing in the empty room, you are looking at the place where Bolivia became Bolivia.

@@ -4,6 +4,8 @@ longitude: 80.6388
 score: 7.9
 sources:
 - https://www.thecommonwanderer.com/blog/best-things-to-do-in-kandy-sri-lanka
+- https://www.unchartedbackpacker.com/
+- https://www.unchartedbackpacker.com/the-sri-lanka-travel-guide/
 story: 'King Sri Wickrama Rajasinha, the last king of Kandy, constructed the lake
   between 1807 and 1812 by damming a paddy field. It required forced labour from the
   surrounding villages, and the project was so unpopular it contributed to the resentment
@@ -23,9 +25,9 @@ image_source: https://commons.wikimedia.org/wiki/File:SL_Kandy_asv2020-01_img10_
 image_license: FAL
 image_attribution: A.Savin
 picks:
-- blog: https://www.thecommonwanderer.com/blog/best-things-to-do-in-kandy-sri-lanka
-  quote: Right at the heart of Kandy is the Kandy Lake; surprisingly peaceful despite
-    the bustling road that winds around it.
+- blog: https://www.unchartedbackpacker.com/
+  quote: This pretty little mountain community is centered on Kandy Lake which is
+    plagued with rogue monkeys that will steal your sunglasses if you are not careful.
 ---
 
 The artificial lake at the center of Kandy is a pleasant place to walk at any time of day, but especially at dawn and dusk when the water reflects the surrounding hills and the golden spire of the Temple of the Tooth. The 3.5 km path around the perimeter takes about forty-five minutes at a gentle pace and passes the cloud wall (the ornamental parapet along the temple side), a small island used as a gunpowder store by the Kandyan kings, and several good viewpoints.

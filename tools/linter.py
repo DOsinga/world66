@@ -696,6 +696,7 @@ def check_pick_entries(pages: list[Page]) -> list[Issue]:
     local business would write one, and one crediting a blog must credit a blog
     the place actually lists. Catch all three here."""
     issues = []
+    seen_blogs = {}
     for p in pages:
         picks = p.meta.get("picks")
         if picks is None:
@@ -718,6 +719,8 @@ def check_pick_entries(pages: list[Page]) -> list[Issue]:
             if blog and blog not in _sibling_blog_urls(p.path):
                 issues.append(Issue(path=p.path, check="pick_entries",
                                     message=f"picks[{i}] blog {blog!r} is not on a bloglist beside this page"))
+            if blog:
+                seen_blogs.setdefault((p.path.parent, blog), []).append(p.path)
             prov = str(entry.get("provider") or "").strip().strip("/")
             if prov and not (CONTENT_DIR / f"{prov}.md").is_file():
                 issues.append(Issue(path=p.path, check="pick_entries",
@@ -729,6 +732,11 @@ def check_pick_entries(pages: list[Page]) -> list[Issue]:
                     if not str(entry.get(field_name) or "").strip():
                         issues.append(Issue(path=p.path, check="pick_entries",
                                             message=f"picks[{i}] has an image but no {field_name}"))
+    # A city's picks are a range of voices: one blog, one pick.
+    for (_, blog), paths in seen_blogs.items():
+        for path in paths[1:]:
+            issues.append(Issue(path=path, check="pick_entries",
+                                message=f"blog {blog!r} already has a pick in this place ({paths[0].stem})"))
     return issues
 
 

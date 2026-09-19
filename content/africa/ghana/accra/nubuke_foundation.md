@@ -19,11 +19,6 @@ image: nubuke_foundation.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Nubuke_Building.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Amuzujoe
-picks:
-- blog: https://www.beingchristinajane.com/things-to-do-in-accra/
-  quote: Upon entrance, you’ll walk into an open green field where you may see young
-    actors reenacting a scene from their upcoming shows or poets eloquently expressing
-    themselves with an articulate flow of words.
 ---
 
 Nubuke Foundation is one of Accra's strongest contemporary art spaces, set away from the city centre in East Legon. Its exhibitions, workshops, and cultural events give visitors a useful window into Ghana's current creative scene rather than only its historical museums and markets.

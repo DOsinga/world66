@@ -18,11 +18,6 @@ image_attribution: Gryffindor
 sources:
 - https://www.penang-insider.com/
 - https://www.penang-insider.com/things-to-do-in-penang/
-picks:
-- blog: https://www.penang-insider.com/
-  quote: 'But come after dark, and the place still retains the charms it had just
-    a decade ago: a beautiful narrow street punctuated by some of George Town’s most
-    important clan houses and temples.'
 ---
 
 Armenian Street is the most visited street in central Georgetown, a single block of restored shophouses that has become the heart of the city's street art and café scene. The name commemorates the small Armenian merchant community that lived here in the 19th century — only a few of whose buildings now survive. The most famous resident of the street, in spirit at least, is Sun Yat-sen, whose Penang base for plotting the Chinese revolution sat just up the street and is now the Sun Yat-sen Museum.

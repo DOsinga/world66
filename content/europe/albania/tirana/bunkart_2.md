@@ -18,10 +18,6 @@ image: bunkart_2.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tiran%C3%AB,_Albania_January_2023_-_BUNK%27ART_2_museum_13.jpg
 image_license: CC BY 2.0
 image_attribution: Sharon Hahn Darlin
-picks:
-- blog: https://www.anitahendrieka.com/things-to-do-in-tirana-albania/
-  quote: Bunk Art 2 is the former anti-nuclear bunker for internal affairs. This is
-    located right in the city, near Skanderbeg square.
 ---
 
 The sister institution to Bunk'Art 1, and the more focused of the two. Bunk'Art 2 occupies an underground bunker behind the Ministry of Internal Affairs and tells the history of the Sigurimi, Albania's communist-era secret police. Twenty-four small rooms cover surveillance, persecution, torture, and the labour camps, in spare and effective displays.

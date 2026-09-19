@@ -21,10 +21,11 @@ image_attribution: yeowatzup
 sources:
 - https://www.penang-insider.com/
 - https://www.penang-insider.com/things-to-do-in-penang/
+- https://www.monkeyrockworld.com/
+- https://www.monkeyrockworld.com/short-trip-in-malaysia/
 picks:
-- blog: https://www.penang-insider.com/
-  quote: They are a very scenic place, and a real opportunity to understand how life
-    was in old Penang.
+- blog: https://www.monkeyrockworld.com/
+  quote: Chew Jetty is the most famous, while Tan Jetty is excellent for photography.
 ---
 
 The clan jetties are wooden stilt villages built out over the water on the southern edge of the old town. Hokkien Chinese immigrants in the 19th century, denied land on shore, built houses on stilts above the harbour and clustered by family name — each surname grouped on its own jetty. Six remain, still inhabited, still living as small village communities directly over the tidal water.

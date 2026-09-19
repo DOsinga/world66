@@ -18,10 +18,6 @@ image_license: CC BY-SA 4.0
 image_attribution: Ivan Ruggiero
 sources:
 - https://www.anitahendrieka.com/things-to-do-in-tirana-albania/
-picks:
-- blog: https://www.anitahendrieka.com/things-to-do-in-tirana-albania/
-  quote: In this small park, you will find a fragment of the Berlin Wall, a bunker
-    and remains from an Albanian labour camp during the communist regime.
 ---
 
 A small open-air memorial at the edge of the Blloku district, on the spot where the chain of guards that once kept ordinary Albanians out of the communist nomenklatura quarter used to stand. The installation is deliberately understated: a Berlin Wall fragment, a Hoxha-era bunker, and a beam from a labour camp, with quiet explanations in Albanian and English.

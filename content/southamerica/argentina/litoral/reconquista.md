@@ -1,18 +1,22 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+heritage: 7.002
+image: reconquista.jpg
+image_attribution: Marinafotoswiki
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File%3AFMA%20IA-58%20Pucar%C3%A1%20nueva%20postal%20de%20Reconquista.jpg
 latitude: -29.144348
 loc_type: city
 longitude: -59.643773
+nature: 3.337
+off_the_beaten_track: 3.096
 score: 5.372
 snippet: Northern Santa Fe city near the Paraná, offering a grounded slice of small-town
   Argentina
 title: Reconquista
 type: location
-heritage: 7.002
 vibrancy: 3.025
-nature: 3.337
-off_the_beaten_track: 3.096
 ---
 
 Reconquista may not be the big tourist city you would jump at the chance of travelling to. No bright lights, casinos, streets of restaurants or theme parks here. But if you're looking to experience part of "small-town Argentina" while not going too small, Reconquista is a good place to check out.

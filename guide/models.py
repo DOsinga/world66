@@ -227,6 +227,7 @@ class Page:
         "cycling": "Cycling",
         "kayaking": "Kayaking",
         "stargazing": "Stargazing",
+        "horse_riding": "Horse riding",
     }
 
     @property

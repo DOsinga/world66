@@ -397,6 +397,16 @@
 </div>
 {% endif %}
 
+{% for pick in page.picks %}
+<figure class="pick-box">
+  <div class="pick-box-label">Worth noticing</div>
+  <blockquote class="pick-box-quote">{{ pick.quote }}</blockquote>
+  <figcaption class="pick-box-by">
+    {% if pick.provider %}<a href="{{ pick.provider.get_absolute_url }}">{{ pick.by }}</a>{% else %}{{ pick.by }}{% endif %}{% if pick.provider %} &middot; <span class="pick-box-role">local provider</span>{% endif %}
+  </figcaption>
+</figure>
+{% endfor %}
+
 {% endblock %}
 
 {% block wide_content %}
@@ -608,6 +618,22 @@
   update();
 })();
 </script>
+{% endif %}
+
+{% if location_picks %}
+<div class="wide-block pick-callout-section">
+  <span class="section-kicker">Picked by locals</span>
+  <h2 class="section-block-heading">Worth noticing</h2>
+  <div class="pick-callout-row">
+    {% for poi in location_picks %}{% for pick in poi.picks %}
+    <a href="{{ poi.get_absolute_url }}" class="pick-callout">
+      <div class="pick-callout-name">{{ poi.title }}</div>
+      <p class="pick-callout-quote">&ldquo;{{ pick.quote|truncatewords:40 }}&rdquo;</p>
+      <span class="pick-callout-by">&mdash; {{ pick.by }}</span>
+    </a>
+    {% endfor %}{% endfor %}
+  </div>
+</div>
 {% endif %}
 
 {% if location_bloglists %}

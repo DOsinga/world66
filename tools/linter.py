@@ -25,6 +25,7 @@ Checks:
   broken_link              markdown link to /<path> doesn't resolve  [report]
   bloglist_entries         type=bloglist blogs: entry is malformed    [report]
   bloglist_contacts        featured blog missing from outreach file   [report]
+  pick_entries             picks: entry malformed or provider missing [report]
   commercial_poi           commercial: true POI missing contact/tags  [report]
   activity_providers       activities providers: path doesn't resolve  [report]
 
@@ -676,6 +677,35 @@ def check_bloglist_entries(pages: list[Page]) -> list[Issue]:
     return issues
 
 
+def check_pick_entries(pages: list[Page]) -> list[Issue]:
+    """A pick without a quote or an author renders as nothing, and one naming a
+    provider page that does not exist loses the link back that is the reason a
+    local business would write one. Catch both here."""
+    issues = []
+    for p in pages:
+        picks = p.meta.get("picks")
+        if picks is None:
+            continue
+        if not isinstance(picks, list) or not picks:
+            issues.append(Issue(path=p.path, check="pick_entries",
+                                message="picks: is present but not a non-empty list"))
+            continue
+        for i, entry in enumerate(picks, 1):
+            if not isinstance(entry, dict):
+                issues.append(Issue(path=p.path, check="pick_entries",
+                                    message=f"picks[{i}] is not a by/quote mapping"))
+                continue
+            for field_name in ("by", "quote"):
+                if not str(entry.get(field_name) or "").strip():
+                    issues.append(Issue(path=p.path, check="pick_entries",
+                                        message=f"picks[{i}] missing {field_name}"))
+            prov = str(entry.get("provider") or "").strip().strip("/")
+            if prov and not (CONTENT_DIR / f"{prov}.md").is_file():
+                issues.append(Issue(path=p.path, check="pick_entries",
+                                    message=f"picks[{i}] provider {prov!r} does not resolve"))
+    return issues
+
+
 def check_bloglist_contacts(pages: list[Page]) -> list[Issue]:
     """Every featured blog needs a row in the outreach file, so the people
     whose work we feature can actually be told about it."""
@@ -795,6 +825,7 @@ CHECKS = [
     check_broken_links,
     check_bloglist_entries,
     check_bloglist_contacts,
+    check_pick_entries,
     check_commercial_poi,
     check_activity_providers,
 ]

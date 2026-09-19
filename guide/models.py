@@ -409,6 +409,42 @@ class Page:
             })
         return entries
 
+    @property
+    def picks(self):
+        """Recommendations from people who live near a place, in listed order.
+
+        World66's rasa is practical wonder — every place contains something
+        worth noticing — and nobody notices it better than someone who is
+        there every day. A pick is one such person pointing at one thing:
+
+            picks:
+              - by: Example Kayak School       # illustrative, not a real provider
+                provider: europe/somewhere/sometown/example_kayak_school
+                quote: Paddle out past the second headland at low tide...
+
+        `provider` is optional and names a provider page elsewhere in the tree;
+        when it resolves, the pick links back to it, which is the reason a
+        local business would bother writing one. Entries without `by` and
+        `quote` are dropped rather than half-rendered — the linter reports them.
+        """
+        out = []
+        for raw in self.meta.get("picks") or []:
+            if not isinstance(raw, dict):
+                continue
+            by = str(raw.get("by") or "").strip()
+            quote = str(raw.get("quote") or "").strip()
+            if not by or not quote:
+                continue
+            pick = {"by": by, "quote": quote, "provider": None}
+            ppath = str(raw.get("provider") or "").strip().strip("/")
+            if ppath:
+                prov = (load_page_from_revision(ppath, self.source_ref, url_revision=self.revision)
+                        if self.source_ref else load_page(ppath))
+                if prov:
+                    pick["provider"] = prov
+            out.append(pick)
+        return out
+
     def find_bloglists(self):
         """Return type: bloglist pages living directly in this page's directory.
 

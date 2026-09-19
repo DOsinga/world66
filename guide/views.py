@@ -658,6 +658,14 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     # A location shows the bloglists sitting in its own directory as a
     # "Further Reading" callout — the way in to the pages above.
     location_bloglists = page.find_bloglists() if page.page_type == "location" else []
+    # Picks: the things a local says are worth noticing, gathered from this
+    # location's own POIs. Best-scored first, so the strongest leads the callout.
+    location_picks = []
+    if page.page_type == "location":
+        location_picks = sorted(
+            (p for p in pois if p.picks),
+            key=lambda p: -float(p.meta.get("score", 0) or 0),
+        )
     # Providers panel under the sidebar map: the bookable activities in this
     # town. WhatsApp first, because that is the channel we are pitching, then
     # by score. Capped so the sticky sidebar stays inside the viewport — the
@@ -783,6 +791,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "url_prefix": page.url_prefix,
         "blog_entries": blog_entries,
         "location_bloglists": location_bloglists,
+        "location_picks": location_picks,
         "location_providers": location_providers,
         "highlighted_provider": highlighted_provider,
         "location_providers_all": location_providers_all,

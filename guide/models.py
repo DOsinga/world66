@@ -228,6 +228,7 @@ class Page:
         "kayaking": "Kayaking",
         "stargazing": "Stargazing",
         "horse_riding": "Horse riding",
+        "adventure_park": "Adventure parks",
     }
 
     @property

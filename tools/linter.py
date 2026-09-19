@@ -703,6 +703,15 @@ def check_pick_entries(pages: list[Page]) -> list[Issue]:
             if prov and not (CONTENT_DIR / f"{prov}.md").is_file():
                 issues.append(Issue(path=p.path, check="pick_entries",
                                     message=f"picks[{i}] provider {prov!r} does not resolve"))
+            image = str(entry.get("image") or "").strip()
+            if image:
+                if not (p.path.parent / image).is_file():
+                    issues.append(Issue(path=p.path, check="pick_entries",
+                                        message=f"picks[{i}] image {image!r} not found beside the page"))
+                for field_name in ("image_source", "image_license"):
+                    if not str(entry.get(field_name) or "").strip():
+                        issues.append(Issue(path=p.path, check="pick_entries",
+                                            message=f"picks[{i}] has an image but no {field_name}"))
     return issues
 
 

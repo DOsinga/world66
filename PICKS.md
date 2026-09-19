@@ -1,8 +1,9 @@
 # Picks
 
 A pick is one person who lives near a place pointing at one thing worth noticing there. It is
-stored on the POI it recommends, as a `picks:` entry, and it shows up twice: as a "Worth noticing"
-box on the POI itself, and gathered into a "Picked by locals" callout on the location page.
+stored on the POI it recommends, as a `picks:` entry, and it shows up twice: as a "Most visitors
+miss this" box on the POI itself, and gathered into a "What most visitors miss" callout on the
+location page. The name is the point: a pick is about not missing what makes a place special.
 
 ## Why this exists
 
@@ -44,6 +45,10 @@ picks:
   - by: Example Kayak School          # illustrative — not a real provider
     provider: europe/somewhere/sometown/example_kayak_school
     quote: Paddle out past the second headland at low tide, where the seals haul out.
+    image: example_kayak_school_seals.jpg
+    image_source: "https://commons.wikimedia.org/wiki/File:Example.jpg"
+    image_license: "CC BY-SA 4.0"
+    image_attribution: Example Photographer
 ```
 
 - **`by`** — the name to show. For a provider, their business name.
@@ -51,6 +56,11 @@ picks:
 - **`provider`** — optional. The content path of the recommender's provider page. When it
   resolves, the pick links back to their listing, which is the reason a local business would take
   the time to write one. The linter's `pick_entries` check fails if it does not resolve.
+- **`image`** — optional, and worth the effort: a photo of *the thing picked* — the sluices, the
+  bench, the view at that hour — not of the business. The file sits in the location's directory
+  beside the POI, with `image_source` and `image_license` (the linter requires both) and
+  `image_attribution`. Without one, the callout card falls back to the POI's image, then the
+  location's.
 
 The POI must already exist, or be created alongside the pick, in the location's own directory.
 The location page collects picks from its own POIs only.

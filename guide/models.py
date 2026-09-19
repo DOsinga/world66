@@ -421,8 +421,11 @@ class Page:
               - by: Example Kayak School       # illustrative, not a real provider
                 provider: europe/somewhere/sometown/example_kayak_school
                 quote: Paddle out past the second headland at low tide...
+                image: example_kayak_school_seals.jpg
 
-        `provider` is optional and names a provider page elsewhere in the tree;
+        `image` (with `image_source`, `image_license`, `image_attribution`)
+        is optional and shows the thing picked, not the business; the file
+        sits in the location's directory like any sibling image. `provider` is optional and names a provider page elsewhere in the tree;
         when it resolves, the pick links back to it, which is the reason a
         local business would bother writing one. Entries without `by` and
         `quote` are dropped rather than half-rendered — the linter reports them.
@@ -436,6 +439,8 @@ class Page:
             if not by or not quote:
                 continue
             pick = {"by": by, "quote": quote, "provider": None}
+            for key in ("image", "image_source", "image_license", "image_attribution"):
+                pick[key] = str(raw.get(key) or "").strip()
             ppath = str(raw.get("provider") or "").strip().strip("/")
             if ppath:
                 prov = (load_page_from_revision(ppath, self.source_ref, url_revision=self.revision)

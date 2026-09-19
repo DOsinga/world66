@@ -8,6 +8,10 @@ picks:
 - by: Richard, World66
   quote: Take a beer brewed on the premises and sit outside next to the sluices by
     the Koppelpoort.
+  image: de_drie_ringen_koppelpoort.jpg
+  image_source: https://commons.wikimedia.org/wiki/File:Amersfoort_Kleine_Spui_1a.jpg
+  image_license: CC BY-SA 4.0
+  image_attribution: Zairon
 score: 6.8
 snippet: Amersfoort's last brewery, with local beers and pub atmosphere
 tags:

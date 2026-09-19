@@ -662,10 +662,29 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     # location's own POIs. Best-scored first, so the strongest leads the callout.
     location_picks = []
     if page.page_type == "location":
-        location_picks = sorted(
+        loc_img = _image_path(page, source_ref)
+        for poi in sorted(
             (p for p in pois if p.picks),
             key=lambda p: -float(p.meta.get("score", 0) or 0),
-        )
+        ):
+            poi_img = _image_path(poi, source_ref)
+            for pick in poi.picks:
+                img = _pick_image_path(poi, pick, source_ref) or poi_img or loc_img
+                location_picks.append({
+                    "poi": poi,
+                    "pick": pick,
+                    "image_url": f"{page.url_prefix}/content-image/{img}" if img else None,
+                })
+    # On the POI itself only the pick's own photo is worth showing — the POI's
+    # hero is already at the top of the page.
+    page_picks = []
+    if page.page_type == "poi":
+        for pick in page.picks:
+            img = _pick_image_path(page, pick, source_ref)
+            page_picks.append({
+                "pick": pick,
+                "image_url": f"{page.url_prefix}/content-image/{img}" if img else None,
+            })
     # Providers panel under the sidebar map: the bookable activities in this
     # town. WhatsApp first, because that is the channel we are pitching, then
     # by score. Capped so the sticky sidebar stays inside the viewport — the
@@ -792,6 +811,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "blog_entries": blog_entries,
         "location_bloglists": location_bloglists,
         "location_picks": location_picks,
+        "page_picks": page_picks,
         "location_providers": location_providers,
         "highlighted_provider": highlighted_provider,
         "location_providers_all": location_providers_all,
@@ -1149,6 +1169,17 @@ def _image_path(page, source_ref=None):
         elif (CONTENT_DIR / candidate).is_file():
             return candidate
     return None
+
+
+def _pick_image_path(poi, pick, source_ref=None):
+    """The picked thing's own photo, which lives beside the POI's file."""
+    image = pick.get("image")
+    if not image:
+        return None
+    candidate = f'{poi.path.rsplit("/", 1)[0]}/{image}' if "/" in poi.path else image
+    if source_ref:
+        return candidate if github.file_exists(source_ref, f"content/{candidate}") else None
+    return candidate if (CONTENT_DIR / candidate).is_file() else None
 
 
 def _tag_chips(page, source_ref=None, url_revision=None):

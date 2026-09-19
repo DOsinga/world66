@@ -397,6 +397,20 @@
 </div>
 {% endif %}
 
+{% for pp in page_picks %}{% with pick=pp.pick %}
+<figure class="pick-box">
+  {% if pp.image_url %}<img class="pick-box-img" src="{{ pp.image_url }}" alt="{{ page.title }}" loading="lazy">{% endif %}
+  <div class="pick-box-body">
+    <div class="pick-box-label">Most visitors miss this</div>
+    <blockquote class="pick-box-quote">{{ pick.quote }}</blockquote>
+    <figcaption class="pick-box-by">
+      {% if pick.provider %}<a href="{{ pick.provider.get_absolute_url }}">{{ pick.by }}</a> &middot; <span class="pick-box-role">local provider</span>{% else %}{{ pick.by }}{% endif %}
+    </figcaption>
+    {% if pp.image_url and pick.image_source %}<div class="pick-box-credit">Photo: <a href="{{ pick.image_source }}" rel="noopener">{{ pick.image_attribution|default:"Wikimedia Commons" }}</a>{% if pick.image_license %}, {{ pick.image_license }}{% endif %}</div>{% endif %}
+  </div>
+</figure>
+{% endwith %}{% endfor %}
+
 {% endblock %}
 
 {% block wide_content %}
@@ -608,6 +622,25 @@
   update();
 })();
 </script>
+{% endif %}
+
+{% if location_picks %}
+<div class="wide-block pick-callout-section">
+  <span class="section-kicker">From people who live here</span>
+  <h2 class="section-block-heading">What most visitors miss</h2>
+  <div class="pick-callout-row">
+    {% for card in location_picks %}
+    <a href="{{ card.poi.get_absolute_url }}" class="pick-callout">
+      {% if card.image_url %}<img class="pick-callout-img" src="{{ card.image_url }}" alt="{{ card.poi.title }}" loading="lazy">{% endif %}
+      <div class="pick-callout-body">
+        <div class="pick-callout-name">{{ card.poi.title }}</div>
+        <p class="pick-callout-quote">&ldquo;{{ card.pick.quote|truncatewords:40 }}&rdquo;</p>
+        <span class="pick-callout-by">&mdash; {{ card.pick.by }}</span>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+</div>
 {% endif %}
 
 {% if location_bloglists %}

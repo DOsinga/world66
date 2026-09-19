@@ -432,6 +432,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     parent_nav = []
     parent_locations = []
     active_nav = None   # which nav item should be highlighted in the sidebar
+    grandparent = None
     if parent and page.page_type != "neighbourhood":
         parent_nav, parent_locations, _ = parent.children()
         parent_nav = [p for p in parent_nav if p.page_type != "neighbourhood"]
@@ -446,6 +447,14 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                 parent_nav, parent_locations, _ = grandparent.children()
                 parent_nav = [p for p in parent_nav if p.page_type != "neighbourhood"]
                 active_nav = parent   # mark the section as active in the sidebar
+    # A place's bloglist is one of its sections as far as a reader is
+    # concerned, so it joins the list beside Eating Out and the rest.
+    if parent_nav:
+        _nav_owner = parent if parent.page_type == "location" else None
+        if _nav_owner is None and page.page_type == "poi" and "/" in parent.path:
+            _nav_owner = grandparent if grandparent and grandparent.page_type == "location" else None
+        if _nav_owner is not None:
+            parent_nav = parent_nav + _nav_owner.find_bloglists()
 
     # For a POI reached via a context nav page, build sidebar from that nav page
     nav_siblings = []
@@ -655,8 +664,8 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         for entry in blog_entries:
             entry["is_highlighted"] = bool(wanted) and entry["domain"].lower() == wanted
 
-    # A location shows the bloglists sitting in its own directory as a
-    # "Further Reading" callout — the way in to the pages above.
+    # A location lists the bloglists sitting in its own directory among its
+    # sections, as "Blogs".
     location_bloglists = page.find_bloglists() if page.page_type == "location" else []
     # Picks: the things a local says are worth noticing, gathered from this
     # location's own POIs. Best-scored first, so the strongest leads the callout.

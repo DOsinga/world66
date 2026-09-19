@@ -62,6 +62,24 @@ picks:
   `image_attribution`. Without one, the callout card falls back to the POI's image, then the
   location's.
 
+### Picks from the blogs
+
+A city with a bloglist gets a pick from the blogs on it: one POI a blogger recommends, with a
+short line from their post in their own words — copied, never paraphrased — and a photo of the
+place. `blog` is the url of the blog's entry on the bloglist beside the POI; the credit then
+defaults to its author and blog name, and links to that entry on the Blogs page. The linter's
+`pick_entries` check fails if the url is not on a bloglist in the same directory. Add the post
+you quoted to the POI's `sources`.
+
+```yaml
+picks:
+  - blog: https://alittleadrift.com/georgia/tbilisi/
+    quote: The Abanotubani District is among the oldest parts of the city, and the domed roofs
+      of the sulphur baths below make for a picturesque wander.
+```
+
+The bloglist itself is listed among the city's sections, as "Blogs".
+
 The POI must already exist, or be created alongside the pick, in the location's own directory.
 The location page collects picks from its own POIs only.
 

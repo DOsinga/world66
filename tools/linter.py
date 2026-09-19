@@ -677,10 +677,24 @@ def check_bloglist_entries(pages: list[Page]) -> list[Issue]:
     return issues
 
 
+def _sibling_blog_urls(path: Path) -> set[str]:
+    """Every blog url named by a type: bloglist page in the same directory."""
+    urls = set()
+    for sib in path.parent.glob("*.md"):
+        try:
+            meta = frontmatter.load(sib).metadata
+        except Exception:
+            continue
+        if meta.get("type") == "bloglist":
+            urls |= {str(b.get("url") or "").strip() for b in meta.get("blogs") or [] if isinstance(b, dict)}
+    return urls
+
+
 def check_pick_entries(pages: list[Page]) -> list[Issue]:
-    """A pick without a quote or an author renders as nothing, and one naming a
+    """A pick without a quote or an author renders as nothing, one naming a
     provider page that does not exist loses the link back that is the reason a
-    local business would write one. Catch both here."""
+    local business would write one, and one crediting a blog must credit a blog
+    the place actually lists. Catch all three here."""
     issues = []
     for p in pages:
         picks = p.meta.get("picks")
@@ -695,10 +709,15 @@ def check_pick_entries(pages: list[Page]) -> list[Issue]:
                 issues.append(Issue(path=p.path, check="pick_entries",
                                     message=f"picks[{i}] is not a by/quote mapping"))
                 continue
-            for field_name in ("by", "quote"):
+            blog = str(entry.get("blog") or "").strip()
+            required = ("quote",) if blog else ("by", "quote")
+            for field_name in required:
                 if not str(entry.get(field_name) or "").strip():
                     issues.append(Issue(path=p.path, check="pick_entries",
                                         message=f"picks[{i}] missing {field_name}"))
+            if blog and blog not in _sibling_blog_urls(p.path):
+                issues.append(Issue(path=p.path, check="pick_entries",
+                                    message=f"picks[{i}] blog {blog!r} is not on a bloglist beside this page"))
             prov = str(entry.get("provider") or "").strip().strip("/")
             if prov and not (CONTENT_DIR / f"{prov}.md").is_file():
                 issues.append(Issue(path=p.path, check="pick_entries",

@@ -11,6 +11,14 @@ tags:
 - blogs_to_read_before_tbilisi
 title: Abanotubani
 type: poi
+image: abanotubani.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Sulphur_Baths,_Tbilisi_(50501149033).jpg
+image_license: CC BY 2.0
+image_attribution: Andrew Milligan sumo
+picks:
+- blog: https://alittleadrift.com/georgia/tbilisi/
+  quote: The Abanotubani District is among the oldest parts of the city, and the domed
+    roofs of the sulphur baths below make for a picturesque wander.
 ---
 
 Abanotubani — literally "bathhouse district" — is the historic quarter at the southern edge of the old town where the natural sulphur springs that gave Tbilisi its name still bubble up. The area is defined by its extraordinary roofscape: the domed brick caps of the underground bathhouses rise from the ground like giant beehives, the steam sometimes visible in cooler weather.

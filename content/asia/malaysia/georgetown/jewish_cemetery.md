@@ -8,8 +8,23 @@ tags:
 - things_to_do
 - sight
 - cemetery
-story: "The last Jew of Penang, Mordechai David Mordechai, died in 2011. The community's history runs back to the 1830s, when Iraqi-Indian Jewish merchants from Calcutta and Cochin settled in the British colony to trade. At their peak in the early 20th century they numbered around 170. Today the synagogue is gone but the cemetery survives — a quiet monument to a vanished community."
+story: The last Jew of Penang, Mordechai David Mordechai, died in 2011. The community's
+  history runs back to the 1830s, when Iraqi-Indian Jewish merchants from Calcutta
+  and Cochin settled in the British colony to trade. At their peak in the early 20th
+  century they numbered around 170. Today the synagogue is gone but the cemetery survives
+  — a quiet monument to a vanished community.
 score: 6.6
+image: jewish_cemetery.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Jewish_Cemetery_Penang_Dec_2006_006.jpg
+image_license: CC BY 2.5
+image_attribution: Gryffindor
+sources:
+- https://www.penang-insider.com/
+- https://www.penang-insider.com/things-to-do-in-penang/
+picks:
+- blog: https://www.penang-insider.com/
+  quote: Penang Jewish Cemetery, the oldest single Jewish cemetery in Southeast Asia
+    opened in 1805, is a quirk find in Jalan Zainal Abidin.
 ---
 
 The Penang Jewish Cemetery is the oldest single-religion Jewish cemetery in Southeast Asia, in use from 1805 until the last burial in 2011. Around 100 graves survive in the small walled compound on Jalan Zainal Abidin, just north-west of the centre. The headstones are inscribed in Hebrew, English and occasionally Arabic — a record of the small Sephardi community of Iraqi-Indian Jewish merchants who settled in Penang from the 1830s onward and built a synagogue on Nagore Road.

@@ -18,6 +18,14 @@ tags:
 - blogs_worth_reading_on_sarajevo
 title: Čolina Kapa Astronomical Observatory
 type: poi
+image: astronomical_observatory.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Sarajevo_%E2%80%93_%C4%8Colina_kapa_Ruins_2.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Julian Nyča
+picks:
+- blog: https://www.kathmanduandbeyond.com/alternative-things-to-do-in-sarajevo-bosnia/
+  quote: Like many structures in and around Sarajevo, it was destroyed during the
+    Bosnian War and has remained abandoned ever since.
 ---
 
 The Čolina Kapa Astronomical Observatory sits on a ridge above the city at around 970 metres altitude, occupying the ruins of an Ottoman fortress that was itself built on a site with panoramic views over the valley. The observatory is functional — it hosts public stargazing evenings and school groups — but its setting is the main draw for visitors: the approach through the forested ridge above the city and the views from the Ottoman walls are extraordinary.

@@ -1,19 +1,23 @@
 ---
-title: Kandy Clock Tower
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
 latitude: 7.2931
 longitude: 80.6347
-story: >
-  The Kandy Clock Tower was built in 1922 to commemorate the soldiers of Kandy who died in
-  World War I. It stands at the central intersection of the city's main streets on a traffic
-  island that forces tuk-tuks and buses to navigate around it. The tower serves as the
-  informal meeting point of Kandy — "meet you at the clock" is the local equivalent of
-  London's "meet you under the clock at Waterloo."
 score: 4.9
+sources:
+- https://www.thecommonwanderer.com/blog/best-things-to-do-in-kandy-sri-lanka
+story: 'The Kandy Clock Tower was built in 1922 to commemorate the soldiers of Kandy
+  who died in World War I. It stands at the central intersection of the city''s main
+  streets on a traffic island that forces tuk-tuks and buses to navigate around it.
+  The tower serves as the informal meeting point of Kandy — "meet you at the clock"
+  is the local equivalent of London''s "meet you under the clock at Waterloo."
+
+  '
+tags:
+- things_to_do
+- sight
+- architecture
+- blogs_for_kandy_and_the_hill_country
+title: Kandy Clock Tower
+type: poi
 ---
 
 The Kandy Clock Tower stands at the main intersection in the center of town, at the junction of Sri Dalada Veediya and Bandaranaike Mawatha. It is a compact colonial-era structure dating to 1922, built as a World War I memorial. The tower is surrounded by the controlled chaos of Kandy's main traffic junction and serves as the navigational center point of the city.

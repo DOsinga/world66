@@ -105,8 +105,8 @@ in return. That sentence is not padding: without it a "we featured you, now link
 to us" mail reads like the opening of a deal, and [BLOGLISTS.md](../BLOGLISTS.md)
 rule 5 says there isn't one.
 
-## Roughly half have no email
+## A third have no email
 
-33 of 65 publish only a contact form. Those are listed separately at the foot of
+22 of 65 publish only a contact form. Those are listed separately at the foot of
 the index page with the link to paste, and have to be done by hand. Leave their
 `emailed` blank until they actually are.

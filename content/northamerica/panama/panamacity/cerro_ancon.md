@@ -1,9 +1,9 @@
 ---
 latitude: 8.957278
 longitude: -79.549444
-score: 7.4
-snippet: Green hill above Panama City, climbed for skyline, canal-zone, and old-town
-  views.
+score: 8.3
+snippet: Forested hill over the city, with a giant flag, sloths and the best view
+  of both
 sources:
 - https://en.wikivoyage.org/wiki/Panama_City
 - https://en.wikipedia.org/wiki/Ancon_Hill
@@ -12,10 +12,12 @@ tags:
 - viewpoint
 - nature
 - historic_site
-title: Cerro Ancon
+title: Cerro Ancón
 type: poi
 ---
 
-Cerro Ancon is the green hill that rises over Panama City, separating the modern skyline from the old Canal Zone. The paved climb is manageable, and the reward is one of the clearest views of the city, Casco Viejo, ships, and the Pacific entrance to the canal.
+Cerro Ancón is the green hill that rises 199 metres over Panama City, separating the modern skyline from the old Canal Zone and topped by a Panamanian flag visible from much of the city. The paved climb from the base takes about 45 minutes and is steep in places but manageable, and the reward is the clearest view there is of the city, Casco Viejo, the ships, and the Pacific entrance to the canal.
 
-It is also a pocket of urban nature, with birds, sloths, and forest edges surprisingly close to traffic and towers. Go early for cooler weather and clearer light; the viewpoint makes Panama's geography click in a way maps rarely do.
+It is also a pocket of real urban nature: sloths, toucans, titi monkeys and agoutis are all seen by patient walkers on the summit trail, minutes from the traffic. The hill was a US military restricted zone until the handover in 1999 and keeps some of that orderly character.
+
+Go early — cooler, quieter, and better light. The viewpoint makes Panama's geography click in a way maps rarely do.

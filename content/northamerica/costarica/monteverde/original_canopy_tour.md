@@ -9,7 +9,7 @@ score: 7.3
 snippet: The Monteverde zipline that invented the format, running since 1994
 tags:
 - activities
-- guided_tours
+- canopy_tour
 title: The Original Canopy Tour
 type: poi
 url: canopyoriginal.com

@@ -21,7 +21,7 @@ tip: Brasília was built from nothing in just 41 months and inaugurated in 1960 
   Oscar Niemeyer's sweeping white government buildings are the reason to come; the
   UNESCO-listed Pilot Plan is best appreciated by car. It's spread out and car-centric,
   with little street life.
-title: Brasilia
+title: Brasília
 type: location
 heritage: 5.16
 vibrancy: 5.555

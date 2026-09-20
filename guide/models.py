@@ -227,6 +227,9 @@ class Page:
         "cycling": "Cycling",
         "kayaking": "Kayaking",
         "stargazing": "Stargazing",
+        "horse_riding": "Horse riding",
+        "adventure_park": "Adventure parks",
+        "winery": "Wine tasting",
     }
 
     @property
@@ -1204,14 +1207,25 @@ def find_similar_with_match_grouped(path, k=3):
         conn.close()
 
 
-@lru_cache(maxsize=1)
 def load_outreach_codes():
     """code -> (content path, url path, title), from the table indexer.py builds.
 
     A code is six characters and names nothing, so resolving one means either a
     lookup table or a walk of the whole tree — and the walk is 135k files, some
     twenty seconds. The table is built where that walk already happens.
+
+    Keyed on the database's mtime rather than cached outright: a reindex has to
+    take effect in a running process. The first version of this was a plain
+    @lru_cache(maxsize=1), which meant a freshly indexed code kept returning 404
+    until somebody restarted the web server — and the symptom (new codes dead,
+    old ones fine) looks exactly like a failed reindex.
     """
+    stamp = SEARCH_DB.stat().st_mtime if SEARCH_DB.is_file() else 0.0
+    return _load_outreach_codes(stamp)
+
+
+@lru_cache(maxsize=2)
+def _load_outreach_codes(_db_mtime):
     if not SEARCH_DB.is_file():
         return {}
     conn = sqlite3.connect(f"file:{SEARCH_DB}?mode=ro", uri=True)

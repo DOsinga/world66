@@ -1,4 +1,8 @@
 ---
+image: rincon_de_la_vieja.jpg
+image_attribution: Yasif89
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Cima_Rincon_de_la_Vieja.JPG
 latitude: 10.83
 loc_type: feature
 longitude: -85.324

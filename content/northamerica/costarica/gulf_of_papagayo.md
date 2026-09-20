@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: gulf_of_papagayo.jpg
+image_attribution: Rodtico21
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Golfo_de_Papagayo,_Costa_Rica.JPG
 latitude: 10.65
 loc_type: feature
 longitude: -85.65

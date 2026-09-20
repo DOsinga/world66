@@ -17,4 +17,4 @@ Awala-Yalimapo is a Kali'na Amerindian village on the sandy point where the Maro
 
 The beach and the estuary behind it are protected as the Réserve Naturelle de l'Amana, and visits at night are guided, with rules about torches and distance. It is also a birdwatching coast: scarlet ibis and flamingos feed on the mudflats at the river mouth.
 
-The village itself is quiet, built under mango trees, and its community runs much of the tourism. It is about forty kilometres from [Saint-Laurent-du-Maroni](/southamerica/frenchguiana/saint_laurent_du_maroni), the nearest town.
+The village itself is quiet, built under mango trees, and its community runs much of the tourism. It is about forty kilometres from [Saint-Laurent-du-Maroni](/southamerica/frenchguiana/saint_laurent_du_maroni), by way of [Mana](/southamerica/frenchguiana/mana), the nearest town of any size.

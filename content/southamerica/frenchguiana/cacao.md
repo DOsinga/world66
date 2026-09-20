@@ -13,7 +13,7 @@ image_license: CC BY-SA 3.0
 image_attribution: Cayambe
 ---
 
-Cacao is a village of Hmong farmers in the hills an hour and a half south of [Cayenne](/southamerica/frenchguiana/cayenne), and on Sundays it is one of the most popular outings in French Guiana. The Hmong arrived in 1977 as refugees from Laos, and were settled here to farm; the village they built, of wooden houses on stilts along a single road above the Comté river, supplies much of the territory's fruit and vegetables.
+Cacao is a village of Hmong farmers in the hills an hour and a half south of [Cayenne](/southamerica/frenchguiana/cayenne), beyond [Roura](/southamerica/frenchguiana/roura), and on Sundays it is one of the most popular outings in French Guiana. The Hmong arrived in 1977 as refugees from Laos, and were settled here to farm; the village they built, of wooden houses on stilts along a single road above the Comté river, supplies much of the territory's fruit and vegetables.
 
 The Sunday morning market is the point: bowls of soupe chinoise eaten at trestle tables, spring rolls, embroidery and basketwork. There is also a small insect museum, Le Planeur Bleu, with an exceptional collection of Guianese beetles and butterflies, and swimming in the river below the village.
 

@@ -1,0 +1,28 @@
+---
+latitude: -29.5658
+loc_type: city
+longitude: -54.46
+score: 3.995
+snippet: Small Rio Grande do Sul town known for petrified wood and fossil forests.
+sources:
+- https://en.wikivoyage.org/wiki/Mata
+- https://en.wikipedia.org/wiki/Mata,_Rio_Grande_do_Sul
+- https://www.mata.rs.gov.br/
+title: Mata
+type: location
+wikidata_id: Q960563
+heritage: 3.144
+vibrancy: 2.367
+nature: 4.859
+off_the_beaten_track: 2.703
+image: mata.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Salto_do_Yucum%C3%A3,_Rio_Grande_do_Sul,_Brasil_(fotografado_em_maio_de_2009_por_Dalvana_Brasil_do_Nascimento)..JPG
+image_license: CC BY-SA 3.0
+image_attribution: Dalvana Nascimento
+---
+
+Mata is a small town in the central-west of Rio Grande do Sul with a strangely memorable identity: it has built much of its visitor life around fossil wood. Petrified trunks, museum cases, and garden displays give the place a prehistoric angle you do not expect from an ordinary inland Brazilian town.
+
+The best reason to stop is the combination of the [Palaeobotanical Garden](/southamerica/brazil/sul/mata/palaeobotanical_garden), the [Museum Daniel Cargnin](/southamerica/brazil/sul/mata/museum_daniel_cargnin), and the [Fragments of Time Museum](/southamerica/brazil/sul/mata/fragments_of_time_museum). Together they turn Mata into a compact detour for travellers interested in geology, fossils, or the odd way a town can make an ancient forest part of its civic personality.
+
+Mata is not a broad destination, and it is too far from the big coastal routes to be casual. But if you are already moving through the interior of Rio Grande do Sul, it clears the spare-day test because its appeal is specific and local.

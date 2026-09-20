@@ -4301,6 +4301,9 @@ a.region-group-title:hover {
 .svc[data-activity="kayaking"]     { --act: #27718a; }
 .svc[data-activity="canopy_tour"]  { --act: #3f7d4e; }
 .svc[data-activity="stargazing"]   { --act: #4f4a7a; }
+.svc[data-activity="horse_riding"] { --act: #8b5a2b; }
+.svc[data-activity="adventure_park"] { --act: #c0612b; }
+.svc[data-activity="winery"]       { --act: #7d3f52; }
 
 .svc-panel {
   margin-top: 18px;
@@ -4579,6 +4582,9 @@ a.region-group-title:hover {
 .svc-filter-btn[data-activity="kayaking"]     { --act: #27718a; }
 .svc-filter-btn[data-activity="canopy_tour"]  { --act: #3f7d4e; }
 .svc-filter-btn[data-activity="stargazing"]   { --act: #4f4a7a; }
+.svc-filter-btn[data-activity="horse_riding"] { --act: #8b5a2b; }
+.svc-filter-btn[data-activity="adventure_park"] { --act: #c0612b; }
+.svc-filter-btn[data-activity="winery"]       { --act: #7d3f52; }
 .svc-filter-btn:hover {
   background: color-mix(in srgb, var(--act) 20%, var(--paper));
 }

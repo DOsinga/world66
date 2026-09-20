@@ -3,6 +3,7 @@ commercial: true
 email: deniswilly@yahoo.fr
 latitude: 5.5036
 longitude: -54.0289
+outreach_code: KPJMJ5
 phone: +594 694 22 97 35
 score: 6.0
 snippet: Piroguier from Saint-Jean, running half-days to two-week river journeys

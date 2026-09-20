@@ -4,6 +4,7 @@ commercial: true
 email: jeanphi.poteriekko@laposte.net
 latitude: 4.573199
 longitude: -52.471
+outreach_code: 789X77
 phone: +594 694 91 83 99
 score: 5.3
 snippet: Village pottery, open on Sundays beside the annexe mairie

@@ -3,6 +3,7 @@ commercial: true
 email: voyagenharmonie@gmail.com
 latitude: 4.937154
 longitude: -52.325874
+outreach_code: Z75DJ7
 phone: +594 694 15 47 05
 score: 6.2
 snippet: Community-run visits to Kali'na, Palikur, Hmong and Bushinengue villages

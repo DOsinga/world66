@@ -3,6 +3,7 @@ commercial: true
 email: waiso_973@hotmail.com
 latitude: 3.6404
 longitude: -54.0286
+outreach_code: 6S4LLQ
 phone: +594 694 44 24 48
 score: 6.0
 snippet: River expeditions on the upper Maroni, with fishing and forest days

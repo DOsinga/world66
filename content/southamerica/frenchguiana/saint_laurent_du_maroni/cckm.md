@@ -3,6 +3,7 @@ commercial: true
 email: cckm@kayakmaroni.fr
 latitude: 5.5036
 longitude: -54.0289
+outreach_code: 2FBKL7
 phone: +594 694 38 98 37
 score: 5.5
 snippet: Canoe club running guided paddles on the Maroni and its creeks

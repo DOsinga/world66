@@ -4,6 +4,7 @@ commercial: true
 email: dejou.yann@wanadoo.fr
 latitude: 4.94004
 longitude: -52.28499
+outreach_code: 9HQ5YQ
 phone: +594 694 41 96 80
 score: 5.9
 snippet: Kitesurf school on the Cayenne beaches, running since the mid-2010s

@@ -3,6 +3,7 @@ commercial: true
 email: contact@artmazonie-guyane.com
 latitude: 5.062102
 longitude: -53.0479
+outreach_code: YBWFTF
 phone: +594 694 24 99 22
 score: 6.2
 snippet: Carbet stays on the Petit-Saut lake, with naturalist days around them

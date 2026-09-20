@@ -3,6 +3,7 @@ address: Marina de Dégrad des Cannes, rue des Plaisanciers, 97354 Rémire-Montj
 commercial: true
 latitude: 4.852647
 longitude: -52.28269
+outreach_code: YXW57C
 phone: +594 766 04 36 39
 score: 6.6
 snippet: Boat excursions to the Îlets de Rémire from the Dégrad des Cannes marina

@@ -2,6 +2,7 @@
 commercial: true
 latitude: 4.486783
 longitude: -52.03703
+outreach_code: HBZ46Z
 phone: +594 694 40 42 57
 score: 5.5
 snippet: Village association running walks and pirogue days around Kaw

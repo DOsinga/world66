@@ -4,6 +4,7 @@ commercial: true
 email: info@amazonie-decouverte.com
 latitude: 4.7285
 longitude: -52.3242
+outreach_code: 677JSY
 phone: +594 694 27 46 17
 score: 6.3
 snippet: Canoe and kayak base at Roura, with river trips of one day or several

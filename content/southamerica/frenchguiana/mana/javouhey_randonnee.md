@@ -2,6 +2,7 @@
 commercial: true
 latitude: 5.589011
 longitude: -53.82725
+outreach_code: PFY5CV
 phone: +594 694 20 14 74
 score: 5.3
 snippet: Walks and birdwatching on the Acarouany, half an hour from Javouhey

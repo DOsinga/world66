@@ -4,6 +4,7 @@ commercial: true
 email: association@slar.fr
 latitude: 4.31195
 longitude: -52.13164
+outreach_code: NN42DH
 phone: +594 694 27 47 13
 score: 5.2
 snippet: Canoe hire and outings on the Approuague at Régina

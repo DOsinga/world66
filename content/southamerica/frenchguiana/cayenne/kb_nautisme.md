@@ -4,6 +4,7 @@ commercial: true
 email: kbnautisme@gmail.com
 latitude: 4.943999
 longitude: -52.32225
+outreach_code: DJ8TC6
 phone: +594 694 41 21 07
 score: 5.6
 snippet: Jet-ski hire and guided rides on the Comté and the Montsinéry rivers

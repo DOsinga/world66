@@ -4,6 +4,7 @@ commercial: true
 email: adm.guyavoile.973@gmail.com
 latitude: 5.156547
 longitude: -52.66813
+outreach_code: DTTBFG
 phone: +594 694 21 39 67
 score: 6.2
 snippet: Sailing day to the three Îles du Salut, leaving the maritime station at eight

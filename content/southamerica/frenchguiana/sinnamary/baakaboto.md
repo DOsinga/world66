@@ -3,6 +3,7 @@ commercial: true
 email: baakaboto@hotmail.fr
 latitude: 5.062102
 longitude: -53.0479
+outreach_code: 4SN85B
 phone: +594 694 08 29 70
 score: 6.1
 snippet: Canoe and kayak excursions on the Petit-Saut lake and its drowned forest

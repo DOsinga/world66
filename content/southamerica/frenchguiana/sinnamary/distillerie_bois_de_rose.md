@@ -4,6 +4,7 @@ commercial: true
 email: couturier.boisderose@gmail.com
 latitude: 5.327645
 longitude: -52.94593
+outreach_code: 5T3DV8
 phone: +594 687 34 88 25
 score: 5.6
 snippet: Rosewood plantation and still on the Pointe Combi road, visited by appointment

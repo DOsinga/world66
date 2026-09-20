@@ -3,6 +3,7 @@ commercial: true
 email: stephane@tigdilo.fr
 latitude: 4.486783
 longitude: -52.03703
+outreach_code: NX2BHS
 phone: +594 694 43 30 81
 score: 6.5
 snippet: Naturalist-guided kayak circuits in the Kaw marshes

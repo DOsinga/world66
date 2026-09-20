@@ -3,6 +3,7 @@ commercial: true
 email: ulm.equateur.cayenne@gmail.com
 latitude: 4.889892
 longitude: -52.49432
+outreach_code: LJVPNR
 phone: +594 694 23 23 51
 score: 5.6
 snippet: Seaplane flights over the forest and the coast from Montsinéry

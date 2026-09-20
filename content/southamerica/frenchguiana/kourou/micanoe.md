@@ -3,6 +3,7 @@ commercial: true
 email: contact@micanoe.com
 latitude: 5.157983
 longitude: -52.64242
+outreach_code: VBNHHF
 phone: +594 694 38 46 24
 score: 6.3
 snippet: Guided kayak trips on the rivers, the creeks and the Petit-Saut lake

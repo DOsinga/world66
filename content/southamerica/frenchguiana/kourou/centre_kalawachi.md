@@ -4,6 +4,7 @@ commercial: true
 email: centrekalawachi@orange.fr
 latitude: 5.114759
 longitude: -52.71041
+outreach_code: 489CBG
 phone: +594 627 26 54 03
 score: 5.8
 snippet: Kali'na cultural centre on the Saramaca road, with craft, food and music

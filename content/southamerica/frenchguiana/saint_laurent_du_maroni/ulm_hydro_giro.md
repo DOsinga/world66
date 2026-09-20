@@ -3,6 +3,7 @@ commercial: true
 email: mglas@ulm-hydro-giro.com
 latitude: 5.5036
 longitude: -54.0289
+outreach_code: 2FWKL8
 phone: +594 694 26 77 64
 score: 5.8
 snippet: Microlight and gyrocopter flights over the Maroni

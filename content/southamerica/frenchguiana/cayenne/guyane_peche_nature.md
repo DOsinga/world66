@@ -3,6 +3,7 @@ commercial: true
 email: guyanepechenature@gmail.com
 latitude: 4.937154
 longitude: -52.325874
+outreach_code: 93BW2F
 phone: +594 694 22 11 51
 score: 5.4
 snippet: Fishing and wildlife days combined, at sea and up the rivers

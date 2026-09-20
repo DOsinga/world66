@@ -4,6 +4,7 @@ commercial: true
 email: lapagaie@gmail.com
 latitude: 5.179027
 longitude: -52.65925
+outreach_code: BR85DG
 phone: +594 694 03 16 55
 score: 5.2
 snippet: Canoe and kayak club on the Bois Diable lake

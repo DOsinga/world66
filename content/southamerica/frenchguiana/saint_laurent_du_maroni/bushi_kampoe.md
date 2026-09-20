@@ -3,6 +3,7 @@ commercial: true
 email: bushi.kampoe@gmail.com
 latitude: 5.5036
 longitude: -54.0289
+outreach_code: 8NR6KT
 phone: +594 694 95 54 63
 score: 6.1
 snippet: Bushinengue guide on foot and by pirogue in the western forest

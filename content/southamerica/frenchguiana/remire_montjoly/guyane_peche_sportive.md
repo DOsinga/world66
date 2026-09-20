@@ -3,6 +3,7 @@ commercial: true
 email: eric.ribas@orange.fr
 latitude: 4.9051
 longitude: -52.2772
+outreach_code: JH5BRD
 phone: +594 694 21 12 90
 score: 6.0
 snippet: Sport fishing off the Îlets de Rémire and the Connétable banks

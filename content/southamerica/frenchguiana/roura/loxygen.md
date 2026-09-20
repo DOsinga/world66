@@ -3,6 +3,7 @@ commercial: true
 email: loxygen-guyane@outlook.fr
 latitude: 4.7285
 longitude: -52.3242
+outreach_code: L7757L
 phone: +594 694 20 51 03
 score: 5.9
 snippet: Floating carbet on the Comté, half-day and day cruises from the Dégrad

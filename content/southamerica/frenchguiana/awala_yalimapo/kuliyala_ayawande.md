@@ -3,6 +3,7 @@ commercial: true
 email: gaetantijoseph@gmail.com
 latitude: 5.745358
 longitude: -53.94321
+outreach_code: HSGR73
 phone: +594 694 45 25 94
 score: 6.0
 snippet: Kali'na family at Ayawandé showing pottery, basketry and the plants behind

@@ -4,6 +4,7 @@ commercial: true
 email: loca-pirogue@wanadoo.fr
 latitude: 4.868
 longitude: -52.356
+outreach_code: 8SV2YS
 phone: +594 694 26 35 42
 score: 6.1
 snippet: Boat, kayak and paddle hire on the Cayenne rivers since 2004

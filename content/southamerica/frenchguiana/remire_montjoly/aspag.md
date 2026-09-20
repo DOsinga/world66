@@ -4,6 +4,7 @@ commercial: true
 email: denis@aspag.fr
 latitude: 4.890924
 longitude: -52.27489
+outreach_code: 446GLC
 phone: +594 694 04 28 55
 score: 5.8
 snippet: Canoe, kayak and pirogue outings from a long-standing Rémire club

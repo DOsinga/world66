@@ -4,6 +4,7 @@ commercial: true
 email: ktmguyane@gmail.com
 latitude: 5.151213
 longitude: -52.64691
+outreach_code: 3ZXZZZ
 phone: +594 694 21 04 26
 score: 6.1
 snippet: Fast crossings to the Îles du Salut, chartered by the boat

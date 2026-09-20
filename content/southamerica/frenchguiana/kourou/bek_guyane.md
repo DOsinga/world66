@@ -4,6 +4,7 @@ commercial: true
 email: bek.guyane@gmail.com
 latitude: 5.114759
 longitude: -52.71041
+outreach_code: NYGTJY
 phone: +594 694 45 69 11
 score: 5.9
 snippet: Boat school on the Saramaca landing that also runs trips to the islands

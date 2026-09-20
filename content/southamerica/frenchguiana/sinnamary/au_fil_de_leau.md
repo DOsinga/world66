@@ -3,6 +3,7 @@ commercial: true
 email: aufildeleau973@gmail.com
 latitude: 5.062102
 longitude: -53.0479
+outreach_code: GBMPWH
 phone: +594 694 26 27 30
 score: 6.3
 snippet: Member of the Guianese guides' association, working the Petit-Saut lake and

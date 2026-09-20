@@ -4,6 +4,7 @@ commercial: true
 email: sabialiba@gmail.com
 latitude: 5.505348
 longitude: -54.03169
+outreach_code: DSYFHT
 phone: +594 694 95 06 09
 score: 6.8
 snippet: Pirogue expeditions up the Maroni and the Tapanahoni, from a day to a fortnight

@@ -4,6 +4,7 @@ commercial: true
 email: jeremy973@live.fr
 latitude: 4.930315
 longitude: -52.32811
+outreach_code: H8YXTY
 phone: +594 694 04 44 00
 score: 6.4
 snippet: Sport-fishing guide working the estuaries, the islands and the rivers inland

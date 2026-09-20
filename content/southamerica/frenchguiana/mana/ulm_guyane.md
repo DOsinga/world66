@@ -4,6 +4,7 @@ commercial: true
 email: ulmguyane@gmail.com
 latitude: 5.660232
 longitude: -53.77827
+outreach_code: ZFNYFD
 phone: +594 694 42 79 18
 score: 6.0
 snippet: Floatplane flights over the western coast and the Maroni estuary

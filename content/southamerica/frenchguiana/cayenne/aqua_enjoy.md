@@ -4,6 +4,7 @@ commercial: true
 email: sasaquaenjoy@gmail.com
 latitude: 4.886718
 longitude: -52.49399
+outreach_code: TDNFWP
 phone: +594 694 40 83 10
 score: 5.4
 snippet: Paddleboards and pedalos at the Terre Rouge water base on the Montsinéry

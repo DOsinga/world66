@@ -4,6 +4,7 @@ commercial: true
 email: 2mtransport@laposte.net
 latitude: 3.6404
 longitude: -54.0286
+outreach_code: VZMDZZ
 phone: +594 694 93 89 31
 score: 5.6
 snippet: River transport and guiding on the Maroni, based in the bourg

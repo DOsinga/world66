@@ -4,6 +4,7 @@ commercial: true
 email: info@promaritimeguyane.fr
 latitude: 5.159761
 longitude: -52.62747
+outreach_code: CJJFJS
 phone: +594 694 22 55 96
 score: 6.7
 snippet: The scheduled ferry between Kourou and Île Royale, daily at half past eight

@@ -3,6 +3,7 @@ commercial: true
 email: guyanesportnature@hotmail.com
 latitude: 4.7285
 longitude: -52.3242
+outreach_code: K5MJ83
 score: 5.4
 snippet: Kayaking, mountain biking and climbing from a base at Roura
 tags:

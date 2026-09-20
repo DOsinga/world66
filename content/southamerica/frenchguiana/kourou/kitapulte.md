@@ -3,6 +3,7 @@ commercial: true
 email: kiteapulte973@gmail.com
 latitude: 5.157983
 longitude: -52.64242
+outreach_code: QVXZDK
 phone: +594 632 03 63 09
 score: 5.0
 snippet: Kitesurfing on the Kourou beaches

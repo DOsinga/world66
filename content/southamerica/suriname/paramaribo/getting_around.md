@@ -1,5 +1,5 @@
 ---
-title: "Getting Around"
+title: Getting Around
 type: section
 ---
 
@@ -9,7 +9,7 @@ Minibuses, locally just "bus", run fixed routes across the city, cost a few Suri
 
 ## Taxis
 
-Two different things are called a taxi here, and the difference matters. A *straattaxi* is an unmarked private car you wave down: no meter, no company behind it, and the fare is whatever you agree before you get in. A *bedrijfstaxi* belongs to one of the centrals — 1690, 1688, 1661, 1680 — which you reach on those four digits from a Surinamese phone, or through the central's own app. Those charge set rates and use vetted drivers, and are what a visitor should use. There is no ride-hailing app worth relying on.
+Two different things are called a taxi here, and the difference matters. A *straattaxi* is an unmarked private car you wave down: no meter, no company behind it, and the fare is whatever you agree before you get in. A *bedrijfstaxi* belongs to one of the centrals — 1690, 1688, 1661, 1680 — which you reach on those four digits from a Surinamese phone, or through the central's own app. Those are what a visitor should use. How the fare is set varies between them and is worth asking when you book — Hertog 1688 runs a meter, which is not the norm here. There is no ride-hailing app worth relying on.
 
 The local habit, once you have found a driver you like, is to take his mobile number and call him directly from then on. That is normal rather than presumptuous, and it is how most residents actually get around.
 

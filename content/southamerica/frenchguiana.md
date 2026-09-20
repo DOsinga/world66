@@ -2,8 +2,7 @@
 done:
   country_cleanup: 2026-03-29
 image: frenchguiana.jpg
-image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Didwin973&amp;action=edit&amp;redlink=1"
-  class="new" title="User:Didwin973 (page does not exist)">Didwin973</a>
+image_attribution: Didwin973
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Plateformerochambeau.jpg
 latitude: 4.003988
@@ -23,8 +22,12 @@ type: location
 
 French Guiana is an anomaly on the South American map: a French overseas department wedged between Brazil and Suriname, using the euro, governed from Paris, and launching rockets into space from its equatorial coastline. It is not a former colony struggling with its independence — it is France, constitutionally and practically, which means EU passports, French prices, and a functioning social safety net in the middle of the Amazon.
 
-About 90% of the territory is covered by primary rainforest, much of it protected by the Guiana Amazonian Park, one of the largest national parks in the world. The coast is humid and flat; the interior rises into forested highlands accessible only by small aircraft or long river journeys. The country's biodiversity is staggering — over 1,000 tree species, 520 bird species, jaguars, tapirs, giant river otters, and sea turtles nesting on Atlantic beaches.
+About 90% of the territory is covered by primary rainforest, much of it in the [Guiana Amazonian Park](/southamerica/frenchguiana/guiana_amazonian_park), the largest national park in the European Union. The coast is humid and flat; the interior rises into forested highlands reached only by small aircraft or long river journeys. The biodiversity is staggering — more than a thousand tree species, over five hundred birds, jaguars, tapirs, giant river otters, and leatherback turtles nesting on the beaches.
 
-The population is concentrated along the coast, anchored by the capital [Cayenne](/southamerica/frenchguiana/cayenne) and the space town of [Kourou](/southamerica/frenchguiana/kourou). The interior is sparsely inhabited by Amerindian communities and Maroon (Bushinengue) peoples — descendants of escaped enslaved Africans who built independent societies in the jungle and still maintain distinct languages and cultures. [Saint-Laurent-du-Maroni](https://en.wikipedia.org/wiki/Saint-Laurent-du-Maroni) on the Surinamese border is their main urban hub.
+Almost everyone lives on the coast. [Cayenne](/southamerica/frenchguiana/cayenne) is the capital, with the beaches and forest trails of [Rémire-Montjoly](/southamerica/frenchguiana/remire_montjoly) next door; [Kourou](/southamerica/frenchguiana/kourou) is the space town, where you can watch an Ariane launch from a viewing site, and the port for the [Îles du Salut](/southamerica/frenchguiana/devilsisland), the islands that held France's most infamous penal colony, Devil's Island among them. [Sinnamary](/southamerica/frenchguiana/sinnamary) sits between them on its estuary.
 
-French Guiana rewards travelers who come prepared for humidity, expense, and the particular pleasures of a place that genuinely doesn't care about tourism. The Iles du Salut (including the notorious [Devil's Island](/southamerica/frenchguiana/devilsisland)), the jungle village of [Saul](/southamerica/frenchguiana/saul), and a rocket launch from the Guiana Space Centre are among the more unusual experiences available anywhere in South America.
+West along the coast, [Saint-Laurent-du-Maroni](/southamerica/frenchguiana/saint_laurent_du_maroni) was the penal colony's capital, where the convict ships landed; its prison camp is the best historical site in the territory, and the Maroni river beside it is the way into Maroon and Amerindian country, upstream to [Maripasoula](/southamerica/frenchguiana/maripasoula). At the river's mouth, the Kali'na village of [Awala-Yalimapo](/southamerica/frenchguiana/awala_yalimapo) has one of the world's great leatherback beaches.
+
+Inland and east, the [Marais de Kaw](/southamerica/frenchguiana/kaw) are a vast marsh where night boat trips find black caiman; the Hmong village of [Cacao](/southamerica/frenchguiana/cacao) holds a Sunday market of soup and embroidery; and [Saint-Georges-de-l'Oyapock](/southamerica/frenchguiana/saint_georges) sits on the Brazilian border. In the forested interior, [Saül](/southamerica/frenchguiana/saul) is a village of a few hundred people with the best walking trails in the territory, and the [Réserve des Nouragues](/southamerica/frenchguiana/nouragues) protects rainforest that has been studied for decades around a granite inselberg.
+
+French Guiana rewards travellers who come prepared for humidity, expense, and the particular pleasures of a place that genuinely doesn't care about tourism. Nothing here is cheap, distances are long, and the rain between December and June is serious — but a rocket launch, a night among caiman in the marshes and a walk in the forest at Saül are experiences you will not have anywhere else.

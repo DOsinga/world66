@@ -4301,6 +4301,7 @@ a.region-group-title:hover {
 .svc[data-activity="kayaking"]     { --act: #27718a; }
 .svc[data-activity="stargazing"]   { --act: #4f4a7a; }
 
+.svc[data-activity="camping"]      { --act: #6b7f4e; }
 .svc-panel {
   margin-top: 18px;
 }
@@ -4578,6 +4579,7 @@ a.region-group-title:hover {
 .svc-filter-btn[data-activity="kayaking"]     { --act: #27718a; }
 .svc-filter-btn[data-activity="stargazing"]   { --act: #4f4a7a; }
 .svc-filter-btn:hover {
+.svc-filter-btn[data-activity="camping"]      { --act: #6b7f4e; }
   background: color-mix(in srgb, var(--act) 20%, var(--paper));
 }
 

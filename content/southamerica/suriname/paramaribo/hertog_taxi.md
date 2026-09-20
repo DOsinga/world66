@@ -7,7 +7,8 @@ longitude: -55.14157
 outreach_code: DBDVTB
 phone: +597 472929
 score: 5.9
-snippet: One of the four big centrals, app-first and answering on a four-digit number
+snippet: One of the four big centrals, metered, app-first, seventeen years on a four-digit
+  number
 tags:
 - activities
 - taxi
@@ -17,8 +18,8 @@ url: hertogtaxi.com
 whatsapp: +597 873 8527
 ---
 
-One of the Paramaribo centrals, 1688 from a local phone, running around the clock with its own Android and iOS app alongside the dispatch line.
+One of the Paramaribo centrals, 1688 from a local phone, running around the clock with its own Android and iOS app alongside the dispatch line. Seventeen years in business.
 
-Like the other centrals it charges set rates rather than metering, and the cars are company vehicles with vetted drivers rather than the unmarked *straattaxi* you flag down in the street.
+The cars run on a **meter**, which is worth knowing in a city where most fares are a negotiation. They are not company-owned: Hertog is a central that its drivers work through rather than a fleet operator, and every car carries a visible car number, which is how you identify the one that was sent to you and how you refer to it afterwards.
 
-No fares published. The WhatsApp number appears inside their chat widget rather than as text on the page, so it is worth confirming you have the right line when you first message.
+WhatsApp is on +597 873 8527, and has been since they started using it.

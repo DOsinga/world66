@@ -1,15 +1,23 @@
 ---
-title: "Čolina Kapa Astronomical Observatory"
-type: poi
-latitude: 43.8820
-longitude: 18.4400
-tags:
-  - things_to_do
-  - sight
-  - historic
-story: >
-  The observatory was built in a former Ottoman fortress on a ridge above the city, repurposing the military structure for peacetime scientific use. During the siege, the ridge was a front line — the observatory was damaged and unusable for years. It reopened after the war with equipment donated by international astronomical societies.
+latitude: 43.882
+longitude: 18.44
 score: 7.2
+sources:
+- https://www.kathmanduandbeyond.com/alternative-things-to-do-in-sarajevo-bosnia/
+story: 'The observatory was built in a former Ottoman fortress on a ridge above the
+  city, repurposing the military structure for peacetime scientific use. During the
+  siege, the ridge was a front line — the observatory was damaged and unusable for
+  years. It reopened after the war with equipment donated by international astronomical
+  societies.
+
+  '
+tags:
+- things_to_do
+- sight
+- historic
+- blogs_worth_reading_on_sarajevo
+title: Čolina Kapa Astronomical Observatory
+type: poi
 ---
 
 The Čolina Kapa Astronomical Observatory sits on a ridge above the city at around 970 metres altitude, occupying the ruins of an Ottoman fortress that was itself built on a site with panoramic views over the valley. The observatory is functional — it hosts public stargazing evenings and school groups — but its setting is the main draw for visitors: the approach through the forested ridge above the city and the views from the Ottoman walls are extraordinary.

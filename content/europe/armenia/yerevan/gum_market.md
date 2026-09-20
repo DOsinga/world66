@@ -1,15 +1,18 @@
 ---
-title: GUM Market
-type: poi
+address: Movses Khorenatsi Street
 latitude: 40.18083
 longitude: 44.51972
-tags:
-  - things_to_do
-  - shopping
-  - market
-  - food
-address: Movses Khorenatsi Street
 score: 7.9
+sources:
+- https://www.mywanderlust.pl/things-to-do-in-yerevan-armenia/
+tags:
+- things_to_do
+- shopping
+- market
+- food
+- blogs_for_yerevan_and_armenia
+title: GUM Market
+type: poi
 ---
 
 The covered produce market on Khorenatsi Street, ten minutes' walk from Republic Square — the real food market of central Yerevan. Long aisles of dried fruit, walnuts, salted cheeses, honey, churchkhela (walnut-and-grape sausages), sun-dried tomatoes, jars of pickled garlic and mountain herbs, sturgeon and trout from Lake Sevan, lavash bread cooled in stacks.

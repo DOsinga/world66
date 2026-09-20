@@ -70,6 +70,7 @@ Read these before writing or editing content:
 - **[CONTINENTS.md](CONTINENTS.md)** — how continent pages should be structured
 - **[COUNTRIES.md](COUNTRIES.md)** — how country pages should be structured
 - **[LOCATIONS.md](LOCATIONS.md)** — how city/location pages should be structured: section ordering, the `things_to_do` tag-based filter approach, curated itineraries, coordinates, day trips
+- **[BLOGLISTS.md](BLOGLISTS.md)** — how to build a `type: bloglist` page: the bar an outside blog has to clear, and the outreach file every featured blog needs a row in
 
 These documents are the source of truth for their respective content types. If this file and a type-specific doc disagree, the type-specific doc wins.
 The style guide and the tag system from LOCATIONS.md are especially important.

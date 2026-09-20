@@ -3,6 +3,10 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-21'
 heritage: 1.513
+image: lossantos.jpg
+image_attribution: HazelPacheco
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Pollera_paname%C3%B1a,_tesoro_de_la_tradici%C3%B3n.jpg
 latitude: 7.9573
 loc_type: region
 longitude: -80.4159

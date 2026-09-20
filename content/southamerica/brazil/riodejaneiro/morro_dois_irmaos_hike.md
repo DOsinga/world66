@@ -2,11 +2,12 @@
 title: Morro Dois Irmaos Hike
 type: poi
 tags:
-  - things_to_do
-  - leblon
-  - hiking
-  - viewpoint
-  - nature
+- things_to_do
+- leblon
+- hiking
+- viewpoint
+- nature
+- sight
 latitude: -22.99071
 longitude: -43.23984
 score: 8.1

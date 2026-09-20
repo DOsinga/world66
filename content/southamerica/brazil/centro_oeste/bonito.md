@@ -1,0 +1,25 @@
+---
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-03'
+latitude: -21.1267
+loc_type: city
+longitude: -56.4836
+score: 4.947
+snippet: Mato Grosso do Sul ecotourism town famed for clear spring-fed rivers and
+  the blue cave lake.
+title: Bonito
+type: location
+heritage: 3.886
+vibrancy: 2.256
+nature: 6.02
+off_the_beaten_track: 3.59
+image: bonito.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Rio_da_Prata.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Marcel Favery
+---
+
+Bonito is a small town in Mato Grosso do Sul, about 260 km from [Campo Grande](/southamerica/brazil/centro_oeste/campo_grande), that has become one of Brazil's premier ecotourism destinations. The name means "beautiful" and the rivers here live up to it — the water in the Rio da Prata and Rio Sucuri is so clear that you can float downstream and watch dozens of fish species swimming around you as if you were in an aquarium.
+
+The Gruta do Lago Azul is the most famous sight: a limestone cave containing a startlingly blue underground lake. Visits are controlled and must be booked through local agencies, as is the case for most activities around Bonito — the town pioneered a visitor management system that limits daily numbers at each attraction. Other highlights include the waterfalls at Boca da Onça (the tallest in the state), snorkelling in the Rio Formoso, and rappelling into the Anhumas Abyss.

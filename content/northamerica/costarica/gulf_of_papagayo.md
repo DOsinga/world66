@@ -2,9 +2,9 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 10.65
-loc_type: region
+loc_type: feature
 longitude: -85.65
-score: 0.64
+score: 5.4
 snippet: Guanacaste resort gulf with sheltered Pacific waters, dry-season sunshine,
   and beach-lined coves.
 title: Gulf of Papagayo

@@ -2,6 +2,7 @@
 latitude: 10.4394
 longitude: -85.7893
 score: 7.0
+snippet: The sheltered end of the bay, and the better of the two beaches for snorkelling
 tags:
 - things_to_do
 - sight

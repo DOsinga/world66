@@ -17,3 +17,5 @@ type: poi
 Metropolitan Natural Park is one of Panama City's great advantages: real tropical forest within the urban area. Trails climb through woodland where you may see birds, agoutis, sloths, or tamarins, with viewpoints back toward the skyline.
 
 Go early for cooler air and better wildlife chances. The park is a perfect first taste of Panama's biodiversity before heading to the Canal Zone, Soberanía, or the Caribbean side.
+
+The viewpoints are what make it: they show how abruptly forest, canal infrastructure and high-rise city meet here.

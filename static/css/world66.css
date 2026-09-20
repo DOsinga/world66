@@ -4299,6 +4299,7 @@ a.region-group-title:hover {
 .svc[data-activity="mountaineering"] { --act: #5b6f7d; }
 .svc[data-activity="cycling"]      { --act: #9a5f3c; }
 .svc[data-activity="kayaking"]     { --act: #27718a; }
+.svc[data-activity="canopy_tour"]  { --act: #3f7d4e; }
 .svc[data-activity="stargazing"]   { --act: #4f4a7a; }
 .svc[data-activity="horse_riding"] { --act: #8b5a2b; }
 .svc[data-activity="adventure_park"] { --act: #c0612b; }
@@ -4579,6 +4580,7 @@ a.region-group-title:hover {
 .svc-filter-btn[data-activity="mountaineering"] { --act: #5b6f7d; }
 .svc-filter-btn[data-activity="cycling"]      { --act: #9a5f3c; }
 .svc-filter-btn[data-activity="kayaking"]     { --act: #27718a; }
+.svc-filter-btn[data-activity="canopy_tour"]  { --act: #3f7d4e; }
 .svc-filter-btn[data-activity="stargazing"]   { --act: #4f4a7a; }
 .svc-filter-btn[data-activity="horse_riding"] { --act: #8b5a2b; }
 .svc-filter-btn[data-activity="adventure_park"] { --act: #c0612b; }

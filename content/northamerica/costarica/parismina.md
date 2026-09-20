@@ -1,19 +1,23 @@
 ---
-title: Parismina
-type: location
-loc_type: city
+heritage: 2.009
+image: parismina.jpg
+image_attribution: World Wide Gifts
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Costa_Rica_-_Caribbean_Sea_-_Parismina_(Eco-Tourism)_-_02.jpg
 latitude: 10.3064
+loc_type: city
 longitude: -83.3533
+nature: 7.144
+off_the_beaten_track: 3.899
 score: 5.377
 snippet: Roadless Caribbean village at a river mouth, known for turtles, canals, fishing,
   and quiet isolation.
 sources:
 - https://en.wikivoyage.org/wiki/Parismina
 - https://en.wikipedia.org/wiki/Parismina
-heritage: 2.009
+title: Parismina
+type: location
 vibrancy: 2.32
-nature: 7.144
-off_the_beaten_track: 3.899
 ---
 
 Parismina, or Barra del Parismina, is a small roadless village on Costa Rica's Caribbean coast between [Tortuguero](/northamerica/costarica/tortuguero) and [Limón](/northamerica/costarica/limon). It sits where the Parismina and Reventazón river system meets the sea, with canals behind it and a long turtle beach in front.

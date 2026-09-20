@@ -4,9 +4,16 @@ done:
   location_cleanup: 2026-04-07
   location_enrich: '2026-05-22'
   poi_cleanup: '2026-04-19'
+heritage: 4.57
+image: sanjose.jpg
+image_attribution: David Broad
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Teatro_Nacional_-_San_Jose_-_Costa_Rica_-_panoramio.jpg
 latitude: 9.9281
 loc_type: city
 longitude: -84.0907
+nature: 2.552
+off_the_beaten_track: 1.021
 quick_facts:
   Elevation: ~1,170 m, mild climate
   Gold Museum: Pre-Columbian treasure underground
@@ -22,10 +29,7 @@ tip: San José sits in the cool Central Valley at 1,170 m, ringed by green volca
   vida'.
 title: San José
 type: location
-heritage: 4.57
 vibrancy: 5.929
-nature: 2.552
-off_the_beaten_track: 1.021
 ---
 
 San José is the capital and beating heart of Costa Rica, sitting in the fertile Central Valley at around 1,100 metres elevation — high enough to enjoy a mild, spring-like climate year-round. It is inevitably a transit hub for travellers moving between the coasts and the highlands, but the city rewards a day or two in its own right.

@@ -226,6 +226,7 @@ class Page:
         "mountaineering": "Mountaineering",
         "cycling": "Cycling",
         "kayaking": "Kayaking",
+        "canopy_tour": "Canopy tours",
         "stargazing": "Stargazing",
         "horse_riding": "Horse riding",
         "adventure_park": "Adventure parks",

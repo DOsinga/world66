@@ -20,8 +20,8 @@ nature: 5.499
 off_the_beaten_track: 4.928
 ---
 
-La Paz Centro is a small town in the [León](/northamerica/nicaragua/len) department, in the hot, dry northwest of [Nicaragua](/northamerica/nicaragua). Home to about 10,000 people, the town straddles the continental divide and is surrounded by several small villages known as comarcas.
+La Paz Centro is a small town in the [León](/northamerica/nicaragua/leon) department, in the hot, dry northwest of [Nicaragua](/northamerica/nicaragua). Home to about 10,000 people, the town straddles the continental divide and is surrounded by several small villages known as comarcas.
 
 La Paz Centro is best known for its [pottery](/northamerica/nicaragua/la_paz_centro/pottery_workshops) and its [quesillo](/northamerica/nicaragua/la_paz_centro/quesillo_vendors) — a local cheese dish wrapped in a tortilla that has become a roadside staple throughout the region. Travellers on the highway between León and Managua often stop here specifically for the quesillo vendors.
 
-The town also makes a practical jumping-off point for [Cerro Negro](/northamerica/nicaragua/la_paz_centro/cerro_negro), the volcano-boarding cinder cone north of town, and sits at the foot of [Momotombo](/northamerica/nicaragua/la_paz_centro/momotombo), the near-perfect volcanic cone that dominates every Nicaraguan picture postcard.
+The town also makes a practical jumping-off point for [Cerro Negro](/northamerica/nicaragua/leon/cerro_negro), the volcano-boarding cinder cone north of town, and sits at the foot of [Momotombo](/northamerica/nicaragua/la_paz_centro/momotombo), the near-perfect volcanic cone that dominates every Nicaraguan picture postcard.

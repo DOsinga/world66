@@ -1,18 +1,18 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+heritage: 2.076
 latitude: 11.9208
 loc_type: feature
 longitude: -86.0342
+nature: 6.936
+off_the_beaten_track: 4.822
 score: 5.424
 snippet: Volcanic crater lake near Granada, filled with clear spring-fed water and
   ringed by dry forest.
 title: Laguna de Apoyo
 type: location
-heritage: 2.076
 vibrancy: 2.53
-nature: 6.936
-off_the_beaten_track: 4.822
 ---
 
 Laguna de Apoyo is a volcanic crater lake about 30 minutes from [Granada](/northamerica/nicaragua/granada), filling a caldera formed some 23,000 years ago. The water is warm, clear, and impossibly blue — fed by underground springs rather than rivers, so it stays clean and calm.

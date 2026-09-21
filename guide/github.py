@@ -37,31 +37,6 @@ def _request_json(url):
         return None
 
 
-def create_issue(title, body, labels=()):
-    """File an issue on the content repo. Returns its html_url, or "".
-
-    Needs a token with issues:write — the read paths above work fine without
-    one, so an empty token means the reader still works and this does not.
-    """
-    if not getattr(settings, "GITHUB_TOKEN", ""):
-        return ""
-    payload = json.dumps({
-        "title": title,
-        "body": body,
-        "labels": list(labels),
-    }).encode("utf-8")
-    request = Request(_url("/issues"), data=payload, headers={
-        **_headers(),
-        "Content-Type": "application/json",
-    }, method="POST")
-    try:
-        with urlopen(request, timeout=getattr(settings, "GITHUB_TIMEOUT", 10)) as response:
-            data = json.loads(response.read().decode("utf-8"))
-    except (HTTPError, URLError, TimeoutError, json.JSONDecodeError):
-        return ""
-    return data.get("html_url", "") if isinstance(data, dict) else ""
-
-
 def _request_bytes(url):
     request = Request(url, headers=_headers("application/vnd.github.raw"))
     try:

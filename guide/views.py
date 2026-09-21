@@ -2,14 +2,11 @@ import json
 import re
 import sqlite3
 import subprocess
-import time
 from dataclasses import replace
 from pathlib import Path
 
 import markdown as md
 from django.conf import settings
-from django.core import signing
-from django.core.cache import cache
 from django.http import FileResponse, Http404, HttpResponse, JsonResponse
 from django.shortcuts import redirect, render
 from django.views.decorators.clickjacking import xframe_options_exempt
@@ -687,18 +684,6 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                     "pick": pick,
                     "image_url": f"{page.url_prefix}/content-image/{img}" if img else None,
                 })
-    # The recommend-a-place form carries a signed copy of the path it was
-    # served for, so the issue we file names a page we chose rather than one
-    # the poster typed, and a timestamp so we can tell a reader from a bot.
-    suggest_token = ""
-    suggest_ts = 0
-    # Destination-level pages only: a pick is one person pointing at one thing,
-    # which means a town or a feature, not a country or a continent.
-    if (page.page_type == "location"
-            and page.meta.get("loc_type") in ("city", "feature", "island")
-            and not source_ref):
-        suggest_token = signing.TimestampSigner(salt="pick-suggest").sign(page.path)
-        suggest_ts = int(time.time())
     # On the POI itself only the pick's own photo is worth showing — the POI's
     # hero is already at the top of the page.
     page_picks = []
@@ -835,8 +820,6 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "blog_entries": blog_entries,
         "location_bloglists": location_bloglists,
         "location_picks": location_picks,
-        "suggest_token": suggest_token,
-        "suggest_ts": suggest_ts,
         "page_picks": page_picks,
         "location_providers": location_providers,
         "highlighted_provider": highlighted_provider,
@@ -1440,100 +1423,3 @@ def _file_to_url_path(file_path):
     if len(parts) >= 2 and parts[-1] == parts[-2]:
         parts = parts[:-1]
     return '/'.join(parts)
-
-
-# ---------------------------------------------------------------- suggestions
-
-
-SUGGEST_LIMITS = {'place': 120, 'tip': 1500, 'name': 80, 'contact': 200}
-# The form is signed when it is served and must come back between these ages:
-# under three seconds is a bot filling every field at once, and a day-old token
-# is a replayed one.
-SUGGEST_MIN_AGE = 3
-SUGGEST_MAX_AGE = 60 * 60 * 6
-SUGGEST_RATE = 3           # submissions per IP per window
-SUGGEST_WINDOW = 60 * 60
-
-
-def _client_ip(request):
-    forwarded = request.META.get('HTTP_X_FORWARDED_FOR', '')
-    if forwarded:
-        return forwarded.split(',')[0].strip()
-    return request.META.get('REMOTE_ADDR', '')
-
-
-def _suggest_field(request, name):
-    """One posted field, trimmed, stripped of control characters and capped."""
-    raw = request.POST.get(name, '')
-    if not isinstance(raw, str):
-        return ''
-    cleaned = ''.join(c for c in raw if c == '\n' or c >= ' ')
-    return cleaned.strip()[:SUGGEST_LIMITS.get(name, 200)]
-
-
-def suggest_pick(request):
-    """Take a reader's recommendation and file it as an issue.
-
-    This is an unauthenticated write path from a public site into a public
-    repo, so it is deliberately unwelcoming to bots: a honeypot field, a
-    signed form token that has to be the right age, a per-IP rate limit and
-    hard length caps. Nothing here is published until a human reads the issue.
-    """
-    if request.method != 'POST':
-        return JsonResponse({'error': 'POST only'}, status=405)
-
-    # A field no human sees, and every form-filling bot completes.
-    if request.POST.get('website', ''):
-        return JsonResponse({'ok': True, 'url': ''})
-
-    signer = signing.TimestampSigner(salt='pick-suggest')
-    try:
-        signed_path = signer.unsign(request.POST.get('form_token', ''), max_age=SUGGEST_MAX_AGE)
-    except signing.BadSignature:
-        return JsonResponse({'error': 'This form expired. Reload the page and try again.'}, status=400)
-    age = time.time() - float(request.POST.get('form_ts', '0') or 0)
-    if age < SUGGEST_MIN_AGE:
-        return JsonResponse({'error': 'That was quick. Give it another moment.'}, status=400)
-
-    ip = _client_ip(request)
-    key = f'pick-suggest:{ip}'
-    seen = cache.get(key, 0)
-    if seen >= SUGGEST_RATE:
-        return JsonResponse({'error': 'You have sent a few already. Try again later.'}, status=429)
-
-    place = _suggest_field(request, 'place')
-    tip = _suggest_field(request, 'tip')
-    name = _suggest_field(request, 'name')
-    contact = _suggest_field(request, 'contact')
-    if not place or not tip:
-        return JsonResponse({'error': 'A place and a reason, please.'}, status=400)
-
-    # The path is signed into the form, so it is ours rather than the poster's.
-    page = load_page(signed_path)
-    if page is None:
-        return JsonResponse({'error': 'Unknown page.'}, status=400)
-
-    body = '\n'.join([
-        f'**{place}**',
-        '',
-        '> ' + tip.replace('\n', '\n> '),
-        '',
-        f'— {name}' if name else '— anonymous',
-        '',
-        f'Suggested for [{page.title}](https://world66.ai/{signed_path}) '
-        f'(`content/{signed_path}`).',
-        f'Reply to: {contact}' if contact else '',
-        '',
-        'Sent from the recommend-a-place form. Unverified: nobody has checked '
-        'this, and the wording is the reader\'s.',
-    ])
-    url = github.create_issue(
-        f'Pick: {place} ({page.title})',
-        body,
-        labels=['pick-suggestion', 'unverified'],
-    )
-    if not url:
-        return JsonResponse({'error': 'Could not file that just now. Try again later.'}, status=502)
-
-    cache.set(key, seen + 1, SUGGEST_WINDOW)
-    return JsonResponse({'ok': True, 'url': url})

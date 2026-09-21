@@ -17,7 +17,6 @@ urlpatterns = [
     path("widgets/score-composer", views.widget_score_composer, name="widget_score_composer"),
     path("content-image/<path:path>", views.content_image, name="content_image"),
     path("qr/<str:code>", views.provider_qr, name="provider_qr"),
-    path("picks/suggest", views.suggest_pick, name="suggest_pick"),
     path("review", views.review, name="review"),
     path("explore", views.map_explore_world, name="map_explore_world"),
     path("explore/<path:path>", views.map_explore, name="map_explore"),

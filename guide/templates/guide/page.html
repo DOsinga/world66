@@ -645,7 +645,7 @@
 </script>
 {% endif %}
 
-{% if location_picks or suggest_token %}
+{% if location_picks %}
 <div class="wide-block pick-callout-section">
   <span class="section-kicker">Picked by people who know it</span>
   <h2 class="section-block-heading">What most visitors miss</h2>
@@ -662,108 +662,8 @@
       <div class="pick-callout-by">&mdash; {% if card.pick.blog %}<a href="{{ card.pick.blog.url }}">{{ card.pick.by }}</a>{% elif card.pick.provider %}<a href="{{ card.pick.provider.get_absolute_url }}">{{ card.pick.by }}</a>{% else %}{{ card.pick.by }}{% endif %}</div>
     </article>
     {% endfor %}
-    {% if suggest_token %}
-    <article class="pick-callout pick-callout--empty">
-      <button type="button" class="pick-suggest-open" data-pick-suggest-open>
-        <span class="pick-suggest-plus" aria-hidden="true">+</span>
-        <span class="pick-suggest-label">Recommend a place</span>
-        <span class="pick-suggest-hint">{% if location_picks %}Know somewhere here that most visitors walk past?{% else %}Nobody has picked anything here yet. Know somewhere?{% endif %}</span>
-      </button>
-    </article>
-    {% endif %}
   </div>
 </div>
-
-{% if suggest_token %}
-<dialog class="pick-suggest-dialog" id="pick-suggest-dialog">
-  <form class="pick-suggest-form" method="post" action="/picks/suggest">
-    {% csrf_token %}
-    <input type="hidden" name="form_token" value="{{ suggest_token }}">
-    <input type="hidden" name="form_ts" value="{{ suggest_ts }}">
-    <h2 class="pick-suggest-title">Recommend a place in {{ page.title }}</h2>
-    <p class="pick-suggest-intro">One place worth noticing, and why. We read every one; the good ones end up on this page.</p>
-
-    <label class="pick-suggest-field">
-      <span>The place</span>
-      <input type="text" name="place" maxlength="120" required placeholder="What is it called?">
-    </label>
-    <label class="pick-suggest-field">
-      <span>Why it is worth it</span>
-      <textarea name="tip" maxlength="1500" rows="4" required placeholder="What would somebody miss if they walked past?"></textarea>
-    </label>
-    <div class="pick-suggest-pair">
-      <label class="pick-suggest-field">
-        <span>Your name <em>optional</em></span>
-        <input type="text" name="name" maxlength="80" placeholder="How to credit you">
-      </label>
-      <label class="pick-suggest-field">
-        <span>Email or site <em>optional</em></span>
-        <input type="text" name="contact" maxlength="200" placeholder="If we need to ask">
-      </label>
-    </div>
-    {# Left empty by people, filled in by bots. #}
-    <label class="pick-suggest-website" aria-hidden="true">
-      Website<input type="text" name="website" tabindex="-1" autocomplete="off">
-    </label>
-
-    <p class="pick-suggest-note" data-pick-suggest-note hidden></p>
-    <div class="pick-suggest-actions">
-      <button type="button" class="pick-suggest-cancel" data-pick-suggest-close>Cancel</button>
-      <button type="submit" class="pick-suggest-send">Send it</button>
-    </div>
-  </form>
-</dialog>
-<script>
-(function() {
-  var dialog = document.getElementById('pick-suggest-dialog');
-  if (!dialog || !dialog.showModal) return;
-  var form = dialog.querySelector('.pick-suggest-form');
-  var note = dialog.querySelector('[data-pick-suggest-note]');
-  var send = dialog.querySelector('.pick-suggest-send');
-
-  function say(message, ok) {
-    note.hidden = false;
-    note.textContent = message;
-    note.className = 'pick-suggest-note' + (ok ? ' pick-suggest-note--ok' : ' pick-suggest-note--bad');
-  }
-
-  document.querySelectorAll('[data-pick-suggest-open]').forEach(function(button) {
-    button.addEventListener('click', function() {
-      note.hidden = true;
-      dialog.showModal();
-    });
-  });
-  dialog.querySelector('[data-pick-suggest-close]').addEventListener('click', function() {
-    dialog.close();
-  });
-
-  form.addEventListener('submit', function(event) {
-    event.preventDefault();
-    send.disabled = true;
-    say('Sending…', true);
-    fetch(form.action, {
-      method: 'POST',
-      body: new FormData(form),
-      headers: {'X-Requested-With': 'fetch'}
-    }).then(function(response) {
-      return response.json().then(function(data) { return {ok: response.ok, data: data}; });
-    }).then(function(result) {
-      if (!result.ok) {
-        say(result.data.error || 'That did not go through.', false);
-        send.disabled = false;
-        return;
-      }
-      form.reset();
-      say('Thank you — that is with us now.', true);
-      setTimeout(function() { dialog.close(); send.disabled = false; }, 1800);
-    }).catch(function() {
-      say('That did not go through. Try again in a moment.', false);
-      send.disabled = false;
-    });
-  });
-})();
-</script>
-{% endif %}
 {% endif %}
 
 

@@ -19,6 +19,14 @@ tags:
 - blogs_for_bishkek_and_the_mountains
 title: Osh Bazaar
 type: poi
+image: osh_bazaar.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Osh_Bazaar_in_Bishkek,_Kyrgyzstan.jpg
+image_license: CC BY 2.0
+image_attribution: neiljs
+picks:
+- blog: https://www.journalofnomads.com/top-things-to-do-in-bishkek-kyrgyzstan/
+  quote: It’s such a big market that you could easily spend a whole day there and
+    not see all of it.
 ---
 
 The largest of Bishkek's bazaars and the city's working market — a sprawling labyrinth of canvas-roofed alleys selling everything from sheep heads and fresh kurt (dried yoghurt balls) to felt slippers, kalpaks (the traditional white-felt hat), counterfeit Adidas, and household plastic. The food halls are at the heart, with butchers, bakers, and stalls of dried fruit, nuts, spices, and Uzbek pilaf. The textile section is good for cheap Uzbek-print fabric.

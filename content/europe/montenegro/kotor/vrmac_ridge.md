@@ -10,6 +10,10 @@ tags:
 - blogs_for_kotor_and_the_bay
 title: Vrmac Ridge
 type: poi
+image: vrmac_ridge.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2024-02-03_A_view_from_the_trail_from_Kotor_to_fort_Vrmac_4.jpg
+image_license: CC BY 4.0
+image_attribution: Alexkom000
 ---
 
 Vrmac is the long limestone ridge that separates the inner Bay of Kotor from the wider Bay of Tivat, running for about 12 kilometres at an altitude of 500–700 metres. The trail along its spine is one of the best half-day walks in the region — exposed ridge, scrub forest, ruined Austro-Hungarian forts at intervals, and broken-out views to both bays.

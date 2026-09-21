@@ -413,6 +413,79 @@ class Page:
             })
         return entries
 
+    @property
+    def picks(self):
+        """Recommendations from people who live near a place, in listed order.
+
+        World66's rasa is practical wonder — every place contains something
+        worth noticing — and nobody notices it better than someone who is
+        there every day. A pick is one such person pointing at one thing:
+
+            picks:
+              - by: Example Kayak School       # illustrative, not a real provider
+                provider: europe/somewhere/sometown/example_kayak_school
+                quote: Paddle out past the second headland at low tide...
+                image: example_kayak_school_seals.jpg
+
+        `image` (with `image_source`, `image_license`, `image_attribution`)
+        is optional and shows the thing picked, not the business; the file
+        sits in the location's directory like any sibling image. `provider` is optional and names a provider page elsewhere in the tree;
+        when it resolves, the pick links back to it, which is the reason a
+        local business would bother writing one.
+
+        A pick can instead come from one of the blogs on the place's bloglist:
+        `blog` names the entry's url, `quote` is a short line from the post,
+        and the credit links to that entry on the bloglist page. `by` then
+        defaults to the entry's author and blog. Entries without a credit and
+        a `quote` are dropped rather than half-rendered — the linter reports them.
+        """
+        out = []
+        for raw in self.meta.get("picks") or []:
+            if not isinstance(raw, dict):
+                continue
+            by = str(raw.get("by") or "").strip()
+            quote = str(raw.get("quote") or "").strip()
+            blog = self._pick_blog(str(raw.get("blog") or "").strip())
+            if blog and not by:
+                by = blog["credit"]
+            if not by or not quote:
+                continue
+            pick = {"by": by, "quote": quote, "provider": None, "blog": blog}
+            for key in ("image", "image_source", "image_license", "image_attribution"):
+                pick[key] = str(raw.get(key) or "").strip()
+            ppath = str(raw.get("provider") or "").strip().strip("/")
+            if ppath:
+                prov = (load_page_from_revision(ppath, self.source_ref, url_revision=self.revision)
+                        if self.source_ref else load_page(ppath))
+                if prov:
+                    pick["provider"] = prov
+            out.append(pick)
+        return out
+
+    def _pick_blog(self, url):
+        """The bloglist entry a blog-sourced pick credits, with a link to it.
+
+        The entry lives on a bloglist beside this POI, in the same location
+        directory — the one the POI's tag chip already credits.
+        """
+        if not url or "/" not in self.path:
+            return None
+        parent_path = self.path.rsplit("/", 1)[0]
+        parent = (load_page_from_revision(parent_path, self.source_ref, url_revision=self.revision)
+                  if self.source_ref else load_page(parent_path))
+        if not parent:
+            return None
+        for bl in parent.find_bloglists():
+            for e in bl.blog_entries:
+                if e["url"] == url:
+                    name = e["blog"] or e["name"]
+                    return {
+                        "url": f"{bl.get_absolute_url()}?blog={e['domain']}#{e['anchor']}",
+                        "name": name,
+                        "credit": f"{e['author']}, {name}" if e["author"] else name,
+                    }
+        return None
+
     def find_bloglists(self):
         """Return type: bloglist pages living directly in this page's directory.
 

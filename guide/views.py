@@ -432,6 +432,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     parent_nav = []
     parent_locations = []
     active_nav = None   # which nav item should be highlighted in the sidebar
+    grandparent = None
     if parent and page.page_type != "neighbourhood":
         parent_nav, parent_locations, _ = parent.children()
         parent_nav = [p for p in parent_nav if p.page_type != "neighbourhood"]
@@ -446,6 +447,14 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                 parent_nav, parent_locations, _ = grandparent.children()
                 parent_nav = [p for p in parent_nav if p.page_type != "neighbourhood"]
                 active_nav = parent   # mark the section as active in the sidebar
+    # A place's bloglist is one of its sections as far as a reader is
+    # concerned, so it joins the list beside Eating Out and the rest.
+    if parent_nav:
+        _nav_owner = parent if parent.page_type == "location" else None
+        if _nav_owner is None and page.page_type == "poi" and "/" in parent.path:
+            _nav_owner = grandparent if grandparent and grandparent.page_type == "location" else None
+        if _nav_owner is not None:
+            parent_nav = parent_nav + _nav_owner.find_bloglists()
 
     # For a POI reached via a context nav page, build sidebar from that nav page
     nav_siblings = []
@@ -747,9 +756,36 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         for entry in blog_entries:
             entry["is_highlighted"] = bool(wanted) and entry["domain"].lower() == wanted
 
-    # A location shows the bloglists sitting in its own directory as a
-    # "Further Reading" callout — the way in to the pages above.
+    # A location lists the bloglists sitting in its own directory among its
+    # sections, as "Blogs".
     location_bloglists = page.find_bloglists() if page.page_type == "location" else []
+    # Picks: the things a local says are worth noticing, gathered from this
+    # location's own POIs. Best-scored first, so the strongest leads the callout.
+    location_picks = []
+    if page.page_type == "location":
+        loc_img = _image_path(page, source_ref)
+        for poi in sorted(
+            (p for p in pois if p.picks),
+            key=lambda p: -float(p.meta.get("score", 0) or 0),
+        ):
+            poi_img = _image_path(poi, source_ref)
+            for pick in poi.picks:
+                img = _pick_image_path(poi, pick, source_ref) or poi_img or loc_img
+                location_picks.append({
+                    "poi": poi,
+                    "pick": pick,
+                    "image_url": f"{page.url_prefix}/content-image/{img}" if img else None,
+                })
+    # On the POI itself only the pick's own photo is worth showing — the POI's
+    # hero is already at the top of the page.
+    page_picks = []
+    if page.page_type == "poi":
+        for pick in page.picks:
+            img = _pick_image_path(page, pick, source_ref)
+            page_picks.append({
+                "pick": pick,
+                "image_url": f"{page.url_prefix}/content-image/{img}" if img else None,
+            })
     # Providers panel under the sidebar map: the bookable activities in this
     # town. WhatsApp first, because that is the channel we are pitching, then
     # by score. Capped so the sticky sidebar stays inside the viewport — the
@@ -877,6 +913,8 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "url_prefix": page.url_prefix,
         "blog_entries": blog_entries,
         "location_bloglists": location_bloglists,
+        "location_picks": location_picks,
+        "page_picks": page_picks,
         "location_providers": location_providers,
         "highlighted_provider": highlighted_provider,
         "location_providers_all": location_providers_all,
@@ -1234,6 +1272,17 @@ def _image_path(page, source_ref=None):
         elif (CONTENT_DIR / candidate).is_file():
             return candidate
     return None
+
+
+def _pick_image_path(poi, pick, source_ref=None):
+    """The picked thing's own photo, which lives beside the POI's file."""
+    image = pick.get("image")
+    if not image:
+        return None
+    candidate = f'{poi.path.rsplit("/", 1)[0]}/{image}' if "/" in poi.path else image
+    if source_ref:
+        return candidate if github.file_exists(source_ref, f"content/{candidate}") else None
+    return candidate if (CONTENT_DIR / candidate).is_file() else None
 
 
 def _tag_chips(page, source_ref=None, url_revision=None):

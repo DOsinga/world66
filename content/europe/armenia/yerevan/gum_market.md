@@ -13,6 +13,10 @@ tags:
 - blogs_for_yerevan_and_armenia
 title: GUM Market
 type: poi
+image: gum_market.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Spices_at_GUM_Market_in_Yerevan,_Armenia.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Poshotenk
 ---
 
 The covered produce market on Khorenatsi Street, ten minutes' walk from Republic Square — the real food market of central Yerevan. Long aisles of dried fruit, walnuts, salted cheeses, honey, churchkhela (walnut-and-grape sausages), sun-dried tomatoes, jars of pickled garlic and mountain herbs, sturgeon and trout from Lake Sevan, lavash bread cooled in stacks.

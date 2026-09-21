@@ -3,13 +3,21 @@ title: Armenian Street
 type: poi
 latitude: 5.4147
 longitude: 100.3381
-snippet: Heart of the old town — Zacharevic's "Children on Bicycle" mural, cafés, craft shops
+snippet: Heart of the old town — Zacharevic's "Children on Bicycle" mural, cafés,
+  craft shops
 tags:
 - things_to_do
 - sight
 - neighbourhood
 - street_art
 score: 8.7
+image: armenian_street.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_Penang_Dec_2006_001.jpg
+image_license: CC BY 2.5
+image_attribution: Gryffindor
+sources:
+- https://www.penang-insider.com/
+- https://www.penang-insider.com/things-to-do-in-penang/
 ---
 
 Armenian Street is the most visited street in central Georgetown, a single block of restored shophouses that has become the heart of the city's street art and café scene. The name commemorates the small Armenian merchant community that lived here in the 19th century — only a few of whose buildings now survive. The most famous resident of the street, in spirit at least, is Sun Yat-sen, whose Penang base for plotting the Chinese revolution sat just up the street and is now the Sun Yat-sen Museum.

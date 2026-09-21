@@ -193,14 +193,14 @@
     </a>
     {% endif %}
     <div class="section-sidenav-current">
-      {% for s in parent_sections %}{% if s.slug == page.slug or active_nav and s.slug == active_nav.slug %}{{ s.title }}{% endif %}{% endfor %}
+      {% for s in parent_sections %}{% if s.slug == page.slug or active_nav and s.slug == active_nav.slug %}{% if s.page_type == "bloglist" %}Blogs{% else %}{{ s.title }}{% endif %}{% endif %}{% endfor %}
     </div>
     <ul class="section-sidenav-list" id="section-sidenav-list">
       {% for s in parent_sections %}
       <li>
         <a href="{{ s.get_absolute_url }}"
            class="section-sidenav-link{% if s.slug == page.slug or active_nav and s.slug == active_nav.slug %} is-active{% endif %}">
-          {{ s.title }}
+          {% if s.page_type == "bloglist" %}Blogs{% else %}{{ s.title }}{% endif %}
         </a>
       </li>
       {% endfor %}
@@ -377,6 +377,27 @@
     </a>
     {% endif %}
     {% endfor %}
+    {% for bl in location_bloglists %}
+    <a href="{{ bl.get_absolute_url }}" class="section-card" data-slug="blogs">
+      <div class="section-card-icon"></div>
+      <div class="section-card-name">Blogs</div>
+      <span class="section-card-arrow">&#8594;</span>
+    </a>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
+{% if page.page_type == "location" and inline_sections and location_bloglists %}
+<div class="sections-row-wrap">
+  <div class="sections-row">
+    {% for bl in location_bloglists %}
+    <a href="{{ bl.get_absolute_url }}" class="section-card" data-slug="blogs">
+      <div class="section-card-icon"></div>
+      <div class="section-card-name">Blogs</div>
+      <span class="section-card-arrow">&#8594;</span>
+    </a>
+    {% endfor %}
   </div>
 </div>
 {% endif %}
@@ -396,6 +417,20 @@
   {{ page.meta.story }}
 </div>
 {% endif %}
+
+{% for pp in page_picks %}{% with pick=pp.pick %}
+<figure class="pick-box">
+  {% if pp.image_url %}<img class="pick-box-img" src="{{ pp.image_url }}" alt="{{ page.title }}" loading="lazy">{% endif %}
+  <div class="pick-box-body">
+    <div class="pick-box-label">Most visitors miss this</div>
+    <blockquote class="pick-box-quote">{{ pick.quote }}</blockquote>
+    <figcaption class="pick-box-by">
+      {% if pick.blog %}<a href="{{ pick.blog.url }}">{{ pick.by }}</a> &middot; <span class="pick-box-role">from the blogs</span>{% elif pick.provider %}<a href="{{ pick.provider.get_absolute_url }}">{{ pick.by }}</a> &middot; <span class="pick-box-role">local provider</span>{% else %}{{ pick.by }}{% endif %}
+    </figcaption>
+    {% if pp.image_url and pick.image_source %}<div class="pick-box-credit">Photo: <a href="{{ pick.image_source }}" rel="noopener">{{ pick.image_attribution|default:"Wikimedia Commons" }}</a>{% if pick.image_license %}, {{ pick.image_license }}{% endif %}</div>{% endif %}
+  </div>
+</figure>
+{% endwith %}{% endfor %}
 
 {% endblock %}
 
@@ -630,21 +665,27 @@
 </script>
 {% endif %}
 
-{% if location_bloglists %}
-<div class="wide-block bloglist-callout-section">
-  <span class="section-kicker">Further Reading</span>
-  <h2 class="section-block-heading">Blogs Worth Reading</h2>
-  <div class="bloglist-callout-row">
-    {% for bl in location_bloglists %}
-    <a href="{{ bl.get_absolute_url }}" class="bloglist-callout">
-      <div class="bloglist-callout-name">{{ bl.title }}</div>
-      {% if bl.meta.snippet %}<p class="bloglist-callout-snippet">{{ bl.meta.snippet }}</p>{% endif %}
-      <span class="bloglist-callout-more">Read the list &rarr;</span>
-    </a>
+{% if location_picks %}
+<div class="wide-block pick-callout-section">
+  <span class="section-kicker">Picked by people who know it</span>
+  <h2 class="section-block-heading">What most visitors miss</h2>
+  <div class="pick-callout-row">
+    {% for card in location_picks %}
+    <article class="pick-callout">
+      <a href="{{ card.poi.get_absolute_url }}" class="pick-callout-link">
+        {% if card.image_url %}<img class="pick-callout-img" src="{{ card.image_url }}" alt="{{ card.poi.title }}" loading="lazy">{% endif %}
+        <div class="pick-callout-body">
+          <div class="pick-callout-name">{{ card.poi.title }}</div>
+          <p class="pick-callout-quote">&ldquo;{{ card.pick.quote|truncatewords:40 }}&rdquo;</p>
+        </div>
+      </a>
+      <div class="pick-callout-by">&mdash; {% if card.pick.blog %}<a href="{{ card.pick.blog.url }}">{{ card.pick.by }}</a>{% elif card.pick.provider %}<a href="{{ card.pick.provider.get_absolute_url }}">{{ card.pick.by }}</a>{% else %}{{ card.pick.by }}{% endif %}</div>
+    </article>
     {% endfor %}
   </div>
 </div>
 {% endif %}
+
 
 {% if nav_siblings %}
 <div class="wide-block poi-elsewhere">

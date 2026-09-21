@@ -1,17 +1,19 @@
 ---
 latitude: 42.1513
-longitude: 24.7520
+longitude: 24.752
 score: 8.0
-snippet: The hill where Plovdiv started, with Thracian walls underfoot and the whole city
-  below.
+snippet: The hill where Plovdiv started, with Thracian walls underfoot and the whole
+  city below.
 sources:
 - https://travellingbuzz.com/things-to-see-and-do-in-plovdiv-bulgaria/
 - https://en.wikipedia.org/wiki/Nebet_Tepe
-story: >
-  The Thracians fortified this hill in the 12th century BC, which makes Plovdiv one of the
-  oldest continuously inhabited cities in Europe — older than Rome, older than Athens. The
-  syenite blocks at the base of the walls are the Thracian originals; everything above them
-  is Macedonian, Roman, Byzantine or Ottoman, stacked in that order.
+story: 'The Thracians fortified this hill in the 12th century BC, which makes Plovdiv
+  one of the oldest continuously inhabited cities in Europe — older than Rome, older
+  than Athens. The syenite blocks at the base of the walls are the Thracian originals;
+  everything above them is Macedonian, Roman, Byzantine or Ottoman, stacked in that
+  order.
+
+  '
 tags:
 - things_to_do
 - sight
@@ -19,6 +21,14 @@ tags:
 - blogs_that_know_plovdiv
 title: Nebet Tepe
 type: poi
+image: nebet_tepe.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2016-07-30_Bulgaria,_Plovdiv,_Nebet_Tepe_DSC_9103_DxO_1.jpg
+image_license: CC BY 4.0
+image_attribution: Laurens R. Krol
+picks:
+- blog: https://travellingbuzz.com/things-to-see-and-do-in-plovdiv-bulgaria/
+  quote: Nebet tepe gives you a nice panoramic view over Plovdiv which makes it one
+    of the best spots for watching the sunset.
 ---
 
 Nebet Tepe is the northern end of the Old Town and the reason there is a city here at all. It is a rocky outcrop with the ruins of successive fortifications on top — Thracian foundations, then Greek, Roman and Byzantine walls built on the same line, plus the remains of cisterns and a secret passage down to the river. The ruins are unfenced and you walk over them.

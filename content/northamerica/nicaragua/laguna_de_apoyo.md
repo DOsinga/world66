@@ -2,6 +2,10 @@
 done:
   location_cleanup: '2026-04-09'
 heritage: 2.076
+image: laguna_de_apoyo.jpg
+image_attribution: Adam Jones from Kelowna, BC, Canada
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Lagoon_Vista_-_Laguna_de_Apoyo_-_Near_Granada_-_Nicaragua_-_01_(31971805505)_(2).jpg
 latitude: 11.9208
 loc_type: feature
 longitude: -86.0342

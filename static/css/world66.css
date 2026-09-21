@@ -4847,3 +4847,174 @@ img { max-width: 100%; height: auto; }
 .pick-callout-by a {
   color: inherit;
 }
+
+/* The always-present invitation at the end of the picks row. Empty on a
+   location nobody has picked anything for yet, which is the point. */
+.pick-callout--empty {
+  border-bottom: 3px dashed #9db8b0;
+  background: transparent;
+}
+
+.pick-callout--empty:hover {
+  background: var(--paper-2);
+}
+
+.pick-suggest-open {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+  width: 100%;
+  height: 100%;
+  min-height: 150px;
+  padding: 18px;
+  border: 0;
+  background: none;
+  font: inherit;
+  text-align: left;
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.pick-suggest-plus {
+  font-size: 26px;
+  line-height: 1;
+  color: #3f7d6e;
+}
+
+.pick-suggest-label {
+  font-weight: 600;
+}
+
+.pick-suggest-hint {
+  font-size: 12px;
+  color: var(--ink-soft, #6a6a6a);
+}
+
+.pick-suggest-dialog {
+  width: min(520px, calc(100vw - 32px));
+  padding: 0;
+  border: 0;
+  border-radius: 3px;
+  background: var(--paper);
+  color: var(--ink);
+}
+
+.pick-suggest-dialog::backdrop {
+  background: rgba(0, 0, 0, 0.45);
+}
+
+.pick-suggest-form {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding: 22px;
+}
+
+.pick-suggest-title {
+  margin: 0;
+  font-size: 19px;
+}
+
+.pick-suggest-intro {
+  margin: 0;
+  font-size: 13px;
+  color: var(--ink-soft, #6a6a6a);
+}
+
+.pick-suggest-public {
+  margin: 0;
+  padding: 10px 12px;
+  border-left: 3px solid #a8823f;
+  background: var(--paper-2);
+  font-size: 12.5px;
+  line-height: 1.45;
+}
+
+.pick-suggest-field {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  font-size: 13px;
+}
+
+.pick-suggest-field em {
+  font-style: normal;
+  color: var(--ink-soft, #6a6a6a);
+}
+
+.pick-suggest-field input,
+.pick-suggest-field textarea {
+  padding: 8px 10px;
+  border: 1px solid #c9c9c9;
+  border-radius: 2px;
+  background: var(--paper-2);
+  color: inherit;
+  font: inherit;
+  font-size: 14px;
+}
+
+.pick-suggest-pair {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+/* Off-screen rather than display:none, which some bots skip. */
+.pick-suggest-website {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+.pick-suggest-note {
+  margin: 0;
+  font-size: 13px;
+}
+
+.pick-suggest-note--ok {
+  color: #3f7d6e;
+}
+
+.pick-suggest-note--bad {
+  color: #a8432f;
+}
+
+.pick-suggest-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+.pick-suggest-actions button {
+  padding: 8px 16px;
+  border-radius: 2px;
+  font: inherit;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.pick-suggest-cancel {
+  border: 1px solid #c9c9c9;
+  background: none;
+  color: inherit;
+}
+
+.pick-suggest-send {
+  border: 0;
+  background: #3f7d6e;
+  color: #fff;
+}
+
+.pick-suggest-send[disabled] {
+  opacity: 0.6;
+  cursor: default;
+}
+
+@media (max-width: 480px) {
+  .pick-suggest-pair {
+    grid-template-columns: 1fr;
+  }
+}

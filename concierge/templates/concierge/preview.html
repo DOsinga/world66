@@ -1,0 +1,27 @@
+{% extends "guide/base.html" %}
+
+{% block title %}Concierge preview{% endblock %}
+
+{% block body_style %}
+<style>
+  #content { display: block; min-height: 0; padding: 0; }
+  #sidebar { display: none; }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="about-page">
+  <h2>Concierge preview is on</h2>
+  <p>
+    You'll now see an <strong>Ask the concierge</strong> button on destination
+    pages, on activity and things-to-do lists, and on individual places. Other
+    visitors won't: the button is only shown to this browser, and only while
+    this cookie lasts.
+  </p>
+  <p>{{ disclosure }}</p>
+  <p>
+    <a href="/">Go and try it</a> &middot;
+    <a href="/concierge/preview?off=1">Turn the preview off</a>
+  </p>
+</div>
+{% endblock %}

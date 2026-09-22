@@ -1,0 +1,243 @@
+/* Concierge overlay — loaded only for previewers, so it lives outside world66.css. */
+
+.concierge-sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+.concierge-launch {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 900;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 18px;
+  border: 1px solid var(--accent-ink);
+  border-radius: 999px;
+  background: var(--accent);
+  color: #fff;
+  font-family: var(--label-font);
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  cursor: pointer;
+  box-shadow: 0 6px 20px rgba(19, 18, 17, 0.22);
+}
+
+.concierge-launch:hover {
+  background: var(--accent-ink);
+}
+
+.concierge-launch-icon {
+  font-size: 1rem;
+}
+
+.concierge-panel {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 901;
+  display: flex;
+  flex-direction: column;
+  width: min(400px, calc(100vw - 32px));
+  max-height: min(640px, calc(100vh - 40px));
+  border: 1px solid var(--line-2);
+  border-radius: 14px;
+  background: var(--paper);
+  box-shadow: 0 16px 48px rgba(19, 18, 17, 0.28);
+  overflow: hidden;
+}
+
+.concierge-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 14px 16px;
+  background: var(--paper-2);
+  border-bottom: 1px solid var(--line);
+}
+
+.concierge-head h2 {
+  margin: 0;
+  font-family: var(--display-font);
+  font-size: 1.1rem;
+  color: var(--ink);
+}
+
+.concierge-sub {
+  margin: 2px 0 0;
+  font-family: var(--label-font);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--mute);
+}
+
+.concierge-close {
+  border: 0;
+  background: none;
+  font-size: 1.5rem;
+  line-height: 1;
+  color: var(--mute);
+  cursor: pointer;
+}
+
+.concierge-how {
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--line);
+  background: var(--paper-3);
+  font-family: var(--body-font);
+  font-size: 0.78rem;
+  line-height: 1.5;
+  color: var(--mute);
+}
+
+.concierge-how strong {
+  color: var(--ink);
+}
+
+.concierge-log {
+  flex: 1;
+  overflow-y: auto;
+  padding: 14px 16px;
+  font-family: var(--body-font);
+  font-size: 0.88rem;
+  line-height: 1.55;
+}
+
+.concierge-msg {
+  margin-bottom: 12px;
+}
+
+.concierge-msg p {
+  margin: 0 0 8px;
+}
+
+.concierge-msg p:last-child {
+  margin-bottom: 0;
+}
+
+.concierge-msg-bot {
+  color: var(--ink);
+}
+
+.concierge-msg-you {
+  padding: 8px 12px;
+  border-radius: 12px 12px 2px 12px;
+  background: var(--paper-3);
+  margin-left: 32px;
+}
+
+.concierge-msg-error {
+  color: var(--accent-ink);
+  font-style: italic;
+}
+
+.concierge-msg a {
+  color: var(--accent-ink);
+}
+
+.concierge-typing {
+  color: var(--mute);
+  font-style: italic;
+}
+
+.concierge-brief {
+  margin: 4px 0 14px;
+  padding: 12px 14px;
+  border: 1px solid var(--line-2);
+  border-radius: 10px;
+  background: #fff;
+}
+
+.concierge-brief h3 {
+  margin: 0 0 8px;
+  font-family: var(--label-font);
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--mute);
+}
+
+.concierge-brief dl {
+  margin: 0;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 4px 12px;
+  font-size: 0.85rem;
+}
+
+.concierge-brief dt {
+  font-weight: 600;
+  color: var(--mute);
+}
+
+.concierge-brief dd {
+  margin: 0;
+}
+
+.concierge-brief ul {
+  margin: 10px 0 0;
+  padding-left: 18px;
+  font-size: 0.85rem;
+}
+
+.concierge-form {
+  display: flex;
+  gap: 8px;
+  padding: 12px;
+  border-top: 1px solid var(--line);
+  background: var(--paper-2);
+}
+
+.concierge-form textarea {
+  flex: 1;
+  resize: none;
+  padding: 8px 10px;
+  border: 1px solid var(--line-2);
+  border-radius: 8px;
+  background: #fff;
+  font-family: var(--body-font);
+  font-size: 0.88rem;
+  color: var(--ink);
+}
+
+.concierge-form button {
+  align-self: flex-end;
+  padding: 9px 16px;
+  border: 0;
+  border-radius: 8px;
+  background: var(--accent);
+  color: #fff;
+  font-family: var(--label-font);
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.concierge-form button[disabled] {
+  background: var(--mute);
+  cursor: default;
+}
+
+@media (max-width: 640px) {
+  .concierge-panel {
+    right: 8px;
+    left: 8px;
+    bottom: 8px;
+    width: auto;
+    max-height: calc(100vh - 16px);
+  }
+
+  .concierge-launch {
+    right: 12px;
+    bottom: 12px;
+  }
+}

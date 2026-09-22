@@ -1,6 +1,7 @@
 ---
 address: Ruta Provincial 173 km 35, Valle Grande, San Rafael
 commercial: true
+email: portaldelatuel@icloud.com
 latitude: -34.8544
 longitude: -68.5311
 outreach_code: 7MDS3G

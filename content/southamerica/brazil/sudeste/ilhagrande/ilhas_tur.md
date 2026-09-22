@@ -1,6 +1,7 @@
 ---
 address: Júlio Maria 70, Angra dos Reis
 commercial: true
+email: ilhasturangra@gmail.com
 latitude: -23.0062
 longitude: -44.5318
 outreach_code: 4T87LS

@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: puravidatripss@gmail.com
 latitude: -23.4394
 longitude: -45.07
 outreach_code: 3Z3MB6

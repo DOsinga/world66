@@ -1,6 +1,7 @@
 ---
 address: Santa Helena 90, Parnaíba
 commercial: true
+email: contato@delterraturismo.com.br
 latitude: -2.9111
 longitude: -41.7689
 outreach_code: MNFMCZ

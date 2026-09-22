@@ -1,6 +1,7 @@
 ---
 address: Rua Raul Marinho 139, Rio de Janeiro
 commercial: true
+email: reservas@adrenario.com
 latitude: -22.9031
 longitude: -43.5987
 outreach_code: RB4X88

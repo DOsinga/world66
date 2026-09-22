@@ -1,6 +1,7 @@
 ---
 address: San Martín 480, Galería Mil Negocios, 1st floor, Salta
 commercial: true
+email: pakkarinviajes@gmail.com
 latitude: -24.7859
 longitude: -65.4116
 outreach_code: VJHWPL

@@ -1,6 +1,7 @@
 ---
 address: Tamarindo, Guanacaste
 commercial: true
+email: saltysmilesurf@gmail.com
 latitude: 10.2993
 longitude: -85.8371
 outreach_code: DQ4NNC

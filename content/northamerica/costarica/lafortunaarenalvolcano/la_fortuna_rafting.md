@@ -1,6 +1,7 @@
 ---
 address: La Fortuna, Alajuela
 commercial: true
+email: info@lafortunarafting.com
 latitude: 10.4678
 longitude: -84.6427
 outreach_code: 27QHSG

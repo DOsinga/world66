@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: experimentepiri@gmail.com
 latitude: -15.8501
 longitude: -49.0297
 outreach_code: YKP2N9

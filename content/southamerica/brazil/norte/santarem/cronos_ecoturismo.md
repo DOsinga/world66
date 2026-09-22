@@ -1,6 +1,7 @@
 ---
 address: Rua Dom Macedo Costa 837 B, Santarém
 commercial: true
+email: contato@cronostransfer.com
 latitude: -2.5049
 longitude: -54.9497
 outreach_code: JNVR46

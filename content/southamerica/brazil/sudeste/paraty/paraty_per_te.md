@@ -1,6 +1,7 @@
 ---
 address: Rua Dom Pedro I 192, Paraty
 commercial: true
+email: reserva@paratyperte.com
 latitude: -23.2094
 longitude: -44.719
 outreach_code: 5XBTG9

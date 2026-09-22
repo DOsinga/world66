@@ -1,6 +1,7 @@
 ---
 address: Puerto Jiménez, Osa
 commercial: true
+email: rodolfohikingtours@gmail.com
 latitude: 8.5333
 longitude: -83.3
 outreach_code: 6YN6LL

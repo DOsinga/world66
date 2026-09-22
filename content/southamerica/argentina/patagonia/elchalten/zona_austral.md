@@ -1,6 +1,7 @@
 ---
 address: San Martín 629, El Chaltén
 commercial: true
+email: info@zonaaustralturismo.com
 latitude: -49.3277
 longitude: -72.889
 outreach_code: LH7RCV

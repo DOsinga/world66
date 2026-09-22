@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: luizguiaviagens@gmail.com
 latitude: -12.9714
 longitude: -38.5014
 outreach_code: N66DZJ

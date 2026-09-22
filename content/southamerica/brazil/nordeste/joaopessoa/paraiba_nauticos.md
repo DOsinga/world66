@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: paraibanauticos@gmail.com
 latitude: -7.1216
 longitude: -34.882
 outreach_code: 6H7GPW

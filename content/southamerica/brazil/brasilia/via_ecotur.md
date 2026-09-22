@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: viaecotur@gmail.com
 latitude: -15.7939
 longitude: -47.8828
 outreach_code: CZJ5SN

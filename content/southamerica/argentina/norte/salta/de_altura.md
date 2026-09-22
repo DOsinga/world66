@@ -1,6 +1,7 @@
 ---
 address: Alvarado 154, oficina 1, Salta
 commercial: true
+email: info@dealtura.com.ar
 latitude: -24.7914
 longitude: -65.4039
 outreach_code: 9HZWDV

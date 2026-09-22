@@ -1,6 +1,7 @@
 ---
 address: Rua Canto do Céu 01, Armação dos Búzios
 commercial: true
+email: buzioscentraldereservas@gmail.com
 latitude: -22.7598
 longitude: -41.8875
 outreach_code: WSJVMD

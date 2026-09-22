@@ -1,6 +1,7 @@
 ---
 address: México 156, Villa General Belgrano
 commercial: true
+email: champaqui.adventure@gmail.com
 latitude: -31.9812
 longitude: -64.5643
 outreach_code: 3N4KHY

@@ -1,6 +1,7 @@
 ---
 address: Main Street, Puerto Viejo de Talamanca
 commercial: true
+email: ongatec@gmail.com
 latitude: 9.6556
 longitude: -82.7544
 outreach_code: BQJ75S

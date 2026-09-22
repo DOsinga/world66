@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: contato@tourdivertido.com
 latitude: -22.7378
 longitude: -42.024
 outreach_code: 6YMGFN

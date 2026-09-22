@@ -1,6 +1,7 @@
 ---
 address: Deputado Fernando Viegas 247, Florianópolis
 commercial: true
+email: financeiro@estreladomarmergulho.com.br
 latitude: -27.3967
 longitude: -48.4314
 outreach_code: 45BHFQ

@@ -1,6 +1,7 @@
 ---
 address: Rua Plínio França 463, Ubatuba
 commercial: true
+email: contato@ribeiracharter.com.br
 latitude: -23.5035
 longitude: -45.1244
 outreach_code: BT9FMB

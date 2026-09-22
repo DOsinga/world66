@@ -1,6 +1,7 @@
 ---
 address: Puerto San Julián 360, El Calafate
 commercial: true
+email: reservas@glaciarturismo.com
 latitude: -50.3361
 longitude: -72.2575
 outreach_code: ZT65BR

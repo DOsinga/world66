@@ -1,6 +1,7 @@
 ---
 address: Ephigênio Salles 1299, Manaus
 commercial: true
+email: ibiete.eco@gmail.com
 latitude: -3.0869
 longitude: -60.0046
 outreach_code: 85S48B

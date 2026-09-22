@@ -1,6 +1,7 @@
 ---
 address: Grp 030 - Geral Praia da Ferrugem Nº 3.677, Garopaba
 commercial: true
+email: contato@amogaropaba.com.br
 latitude: -28.0274
 longitude: -48.624
 outreach_code: 575GCS

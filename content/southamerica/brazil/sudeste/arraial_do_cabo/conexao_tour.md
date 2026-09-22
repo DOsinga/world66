@@ -1,6 +1,7 @@
 ---
 address: Rua Marechal Hermes da Fonseca 197, Arraial do Cabo
 commercial: true
+email: conexaotour@outlook.com
 latitude: -22.971
 longitude: -42.0272
 outreach_code: 9S83JQ

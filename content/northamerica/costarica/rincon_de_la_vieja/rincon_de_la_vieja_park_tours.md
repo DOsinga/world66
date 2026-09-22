@@ -1,6 +1,7 @@
 ---
 address: Rincón de la Vieja, Guanacaste
 commercial: true
+email: info@rincondelaviejapark.com
 latitude: 10.83
 longitude: -85.324
 outreach_code: PXHFF3

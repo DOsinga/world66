@@ -4,14 +4,18 @@
  * turn: there is no database on this site, and the server keeps no session.
  */
 (function () {
-  var openBtn = document.getElementById('concierge-open');
+  var OPEN_LABEL = 'Plan your trip with our concierge';
+
+  var dock = document.getElementById('concierge-dock');
+  var toggleBtn = document.getElementById('concierge-toggle');
+  var toggleLabel = toggleBtn && toggleBtn.querySelector('.concierge-handle-label');
+  var toggleIcon = toggleBtn && toggleBtn.querySelector('.concierge-handle-icon');
   var panel = document.getElementById('concierge-panel');
-  var closeBtn = document.getElementById('concierge-close');
   var form = document.getElementById('concierge-form');
   var input = document.getElementById('concierge-input');
   var sendBtn = document.getElementById('concierge-send');
   var log = document.getElementById('concierge-log');
-  if (!openBtn || !panel || !form || !input || !log) return;
+  if (!dock || !toggleBtn || !panel || !form || !input || !log) return;
 
   var history = [];
   var busy = false;
@@ -27,23 +31,49 @@
     return div.innerHTML;
   }
 
-  /* Turn markdown links and bare guide paths into real links; everything else
-   * stays inert text, because it came from a model. */
-  function linkify(escaped) {
-    return escaped
+  /* The model writes markdown, so render the little of it that a chat bubble
+   * needs. Everything is escaped first: these are tags we add, never tags the
+   * model sent. */
+  function inline(text) {
+    return escapeHtml(text)
       .replace(/\[([^\]]{1,80})\]\((\/[a-z0-9_\-\/]{2,120})\)/gi,
                '<a href="$2">$1</a>')
       .replace(/(^|[\s(])(\/[a-z0-9_\-]+(?:\/[a-z0-9_\-]+)+)/gi,
-               '$1<a href="$2">$2</a>');
+               '$1<a href="$2">$2</a>')
+      .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+      .replace(/(^|[\s(])_([^_]+)_(?=[\s.,;:!?)]|$)/g, '$1<em>$2</em>')
+      .replace(/`([^`]+)`/g, '<code>$1</code>');
+  }
+
+  function renderMarkdown(text) {
+    var html = '';
+    String(text).split(/\n{2,}/).forEach(function (block) {
+      var lines = block.split('\n');
+      var bulleted = lines.every(function (l) { return /^\s*[-*]\s+/.test(l); });
+      var numbered = lines.every(function (l) { return /^\s*\d+[.)]\s+/.test(l); });
+      if (bulleted || numbered) {
+        var tag = numbered ? 'ol' : 'ul';
+        html += '<' + tag + '>';
+        lines.forEach(function (l) {
+          html += '<li>' + inline(l.replace(/^\s*(?:[-*]|\d+[.)])\s+/, '')) + '</li>';
+        });
+        html += '</' + tag + '>';
+        return;
+      }
+      var heading = block.match(/^#{1,4}\s+(.*)$/);
+      if (heading) {
+        html += '<p><strong>' + inline(heading[1]) + '</strong></p>';
+        return;
+      }
+      html += '<p>' + lines.map(inline).join('<br>') + '</p>';
+    });
+    return html;
   }
 
   function addMessage(role, text) {
     var wrap = document.createElement('div');
     wrap.className = 'concierge-msg concierge-msg-' + role;
-    var paragraphs = String(text).split(/\n{2,}/);
-    wrap.innerHTML = paragraphs
-      .map(function (p) { return '<p>' + linkify(escapeHtml(p)).replace(/\n/g, '<br>') + '</p>'; })
-      .join('');
+    wrap.innerHTML = renderMarkdown(text);
     log.appendChild(wrap);
     log.scrollTop = log.scrollHeight;
     return wrap;
@@ -122,24 +152,26 @@
       .then(function () { setBusy(false); input.focus(); });
   }
 
-  function openPanel() {
-    panel.hidden = false;
-    openBtn.style.display = 'none';
-    openBtn.setAttribute('aria-expanded', 'true');
-    input.focus();
+  function isOpen() {
+    return dock.getAttribute('data-open') === 'true';
   }
 
-  function closePanel() {
-    panel.hidden = true;
-    openBtn.style.display = '';
-    openBtn.setAttribute('aria-expanded', 'false');
+  function setOpen(open) {
+    dock.setAttribute('data-open', open ? 'true' : 'false');
+    toggleBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    if (toggleLabel) toggleLabel.textContent = open ? 'Close' : OPEN_LABEL;
+    if (toggleIcon) toggleIcon.textContent = open ? '\u00d7' : '\u2726';
+    toggleBtn.setAttribute('aria-label', open ? 'Close the concierge' : OPEN_LABEL);
+    panel.inert = !open;
+    if (open) input.focus();
   }
 
-  openBtn.addEventListener('click', openPanel);
-  if (closeBtn) closeBtn.addEventListener('click', closePanel);
+  setOpen(false);
+
+  toggleBtn.addEventListener('click', function () { setOpen(!isOpen()); });
 
   document.addEventListener('keydown', function (e) {
-    if (e.key === 'Escape' && !panel.hidden) closePanel();
+    if (e.key === 'Escape' && isOpen()) setOpen(false);
   });
 
   form.addEventListener('submit', function (e) {

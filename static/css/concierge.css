@@ -9,15 +9,38 @@
   white-space: nowrap;
 }
 
-.concierge-launch {
+/* The drawer and its handle move as one: closed, the panel sits off-canvas to
+   the left and only the handle shows; open, both slide in and the handle rides
+   along on the panel's edge, so the same control always opens and closes it. */
+.concierge-dock {
+  --concierge-width: min(920px, 100vw - 52px);
   position: fixed;
-  right: 20px;
-  bottom: 20px;
+  top: 0;
+  left: 0;
+  bottom: 0;
   z-index: 900;
   display: flex;
+  align-items: stretch;
+  --concierge-gutter: max(18px, calc((var(--concierge-width) - 720px) / 2));
+  transform: translateX(calc(-1 * var(--concierge-width)));
+  transition: transform 0.28s ease;
+}
+
+.concierge-dock[data-open="true"] {
+  transform: translateX(0);
+}
+
+.concierge-handle {
+  align-self: center;
+  flex: 0 0 auto;
+  display: flex;
   align-items: center;
-  gap: 8px;
-  padding: 12px 18px;
+  justify-content: flex-start;
+  overflow: hidden;
+  width: 68px;
+  height: 68px;
+  margin-left: 14px;
+  padding: 0 18px;
   border: 1px solid var(--accent-ink);
   border-radius: 999px;
   background: var(--accent);
@@ -26,31 +49,47 @@
   font-size: 0.9rem;
   font-weight: 600;
   letter-spacing: 0.01em;
+  white-space: nowrap;
   cursor: pointer;
-  box-shadow: 0 6px 20px rgba(19, 18, 17, 0.22);
+  box-shadow: 0 6px 22px rgba(19, 18, 17, 0.28);
+  transition: width 0.25s ease, background 0.15s ease;
 }
 
-.concierge-launch:hover {
+/* Collapsed it is a circle with the mark; hovered or focused it opens out to
+   say what it is, so the words are there without a label sitting over the
+   page the whole time. */
+.concierge-handle:hover,
+.concierge-handle:focus-visible {
+  width: 306px;
   background: var(--accent-ink);
 }
 
-.concierge-launch-icon {
-  font-size: 1rem;
+.concierge-handle-icon {
+  flex: 0 0 auto;
+  width: 32px;
+  font-size: 1.35rem;
+  text-align: center;
+}
+
+.concierge-handle-label {
+  margin-left: 8px;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+.concierge-handle:hover .concierge-handle-label,
+.concierge-handle:focus-visible .concierge-handle-label {
+  opacity: 1;
 }
 
 .concierge-panel {
-  position: fixed;
-  right: 20px;
-  bottom: 20px;
-  z-index: 901;
   display: flex;
   flex-direction: column;
-  width: min(400px, calc(100vw - 32px));
-  max-height: min(640px, calc(100vh - 40px));
-  border: 1px solid var(--line-2);
-  border-radius: 14px;
+  width: var(--concierge-width);
+  height: 100%;
+  border-right: 1px solid var(--line-2);
   background: var(--paper);
-  box-shadow: 0 16px 48px rgba(19, 18, 17, 0.28);
+  box-shadow: 8px 0 40px rgba(19, 18, 17, 0.26);
   overflow: hidden;
 }
 
@@ -59,7 +98,7 @@
   align-items: flex-start;
   justify-content: space-between;
   gap: 12px;
-  padding: 14px 16px;
+  padding: 16px var(--concierge-gutter);
   background: var(--paper-2);
   border-bottom: 1px solid var(--line);
 }
@@ -80,17 +119,8 @@
   color: var(--mute);
 }
 
-.concierge-close {
-  border: 0;
-  background: none;
-  font-size: 1.5rem;
-  line-height: 1;
-  color: var(--mute);
-  cursor: pointer;
-}
-
 .concierge-how {
-  padding: 10px 16px;
+  padding: 10px var(--concierge-gutter);
   border-bottom: 1px solid var(--line);
   background: var(--paper-3);
   font-family: var(--body-font);
@@ -106,7 +136,7 @@
 .concierge-log {
   flex: 1;
   overflow-y: auto;
-  padding: 14px 16px;
+  padding: 18px var(--concierge-gutter);
   font-family: var(--body-font);
   font-size: 0.88rem;
   line-height: 1.55;
@@ -124,15 +154,38 @@
   margin-bottom: 0;
 }
 
+.concierge-msg ul,
+.concierge-msg ol {
+  margin: 0 0 8px;
+  padding-left: 18px;
+}
+
+.concierge-msg li {
+  margin-bottom: 3px;
+}
+
+.concierge-msg strong {
+  font-weight: 600;
+}
+
+.concierge-msg code {
+  padding: 1px 4px;
+  border-radius: 4px;
+  background: var(--paper-3);
+  font-size: 0.85em;
+}
+
 .concierge-msg-bot {
   color: var(--ink);
 }
 
 .concierge-msg-you {
+  width: fit-content;
+  max-width: 80%;
+  margin-left: auto;
   padding: 8px 12px;
   border-radius: 12px 12px 2px 12px;
   background: var(--paper-3);
-  margin-left: 32px;
 }
 
 .concierge-msg-error {
@@ -183,6 +236,10 @@
   margin: 0;
 }
 
+.concierge-brief a {
+  color: var(--accent-ink);
+}
+
 .concierge-brief ul {
   margin: 10px 0 0;
   padding-left: 18px;
@@ -192,7 +249,7 @@
 .concierge-form {
   display: flex;
   gap: 8px;
-  padding: 12px;
+  padding: 12px var(--concierge-gutter);
   border-top: 1px solid var(--line);
   background: var(--paper-2);
 }
@@ -228,16 +285,15 @@
 }
 
 @media (max-width: 640px) {
-  .concierge-panel {
-    right: 8px;
-    left: 8px;
-    bottom: 8px;
-    width: auto;
-    max-height: calc(100vh - 16px);
+  .concierge-dock {
+    --concierge-width: calc(100vw - 44px);
   }
 
-  .concierge-launch {
-    right: 12px;
-    bottom: 12px;
+  .concierge-msg-you {
+    max-width: 88%;
+  }
+
+  .concierge-how {
+    display: none;
   }
 }

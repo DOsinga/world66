@@ -7,38 +7,41 @@ continents, countries, the home page, themes or blog lists.
 {% if page.page_type == "poi" or pois or page.page_type == "location" and page.meta.loc_type == "city" or page.page_type == "location" and page.meta.loc_type == "feature" or page.page_type == "location" and page.meta.loc_type == "island" %}
 <link rel="stylesheet" href="{% static 'css/concierge.css' %}">
 
-<button type="button" id="concierge-open" class="concierge-launch" aria-controls="concierge-panel" aria-expanded="false">
-  <span class="concierge-launch-icon" aria-hidden="true">✦</span>
-  <span>Ask the concierge</span>
-</button>
+<div class="concierge-dock" id="concierge-dock" data-open="false">
+  <section class="concierge-panel" id="concierge-panel" aria-label="World66 concierge">
+    <header class="concierge-head">
+      <div>
+        <h2>World66 concierge</h2>
+        <p class="concierge-sub">Preview &middot; find it, then book it direct</p>
+      </div>
+    </header>
 
-<section id="concierge-panel" class="concierge-panel" hidden aria-label="World66 concierge">
-  <header class="concierge-head">
-    <div>
-      <h2>World66 concierge</h2>
-      <p class="concierge-sub">Preview &middot; tell it what you're after</p>
+    <div class="concierge-how">
+      <strong>How this works.</strong>
+      {{ disclosure }}
     </div>
-    <button type="button" id="concierge-close" class="concierge-close" aria-label="Close">&times;</button>
-  </header>
 
-  <div class="concierge-how">
-    <strong>How this works.</strong>
-    {{ disclosure }}
-  </div>
-
-  <div id="concierge-log" class="concierge-log" aria-live="polite">
-    <div class="concierge-msg concierge-msg-bot">
-      <p>Where are you going, and what would make the trip worth it for you?</p>
+    <div id="concierge-log" class="concierge-log" aria-live="polite">
+      <div class="concierge-msg concierge-msg-bot">
+        <p>Where are you going, and what do you want to line up before you get there?</p>
+      </div>
     </div>
-  </div>
 
-  <form id="concierge-form" class="concierge-form">
-    {% csrf_token %}
-    <label class="concierge-sr" for="concierge-input">Your message</label>
-    <textarea id="concierge-input" rows="2" placeholder="Four days on Ometepe in March, two of us, we like walking…" maxlength="2000"></textarea>
-    <button type="submit" id="concierge-send">Send</button>
-  </form>
-</section>
+    <form id="concierge-form" class="concierge-form">
+      {% csrf_token %}
+      <label class="concierge-sr" for="concierge-input">Your message</label>
+      <textarea id="concierge-input" rows="2" placeholder="Four days on Ometepe in March, two of us, we like walking…" maxlength="2000"></textarea>
+      <button type="submit" id="concierge-send">Send</button>
+    </form>
+  </section>
+
+  <button type="button" id="concierge-toggle" class="concierge-handle"
+          aria-controls="concierge-panel" aria-expanded="false"
+          aria-label="Plan your trip with our concierge">
+    <span class="concierge-handle-icon" aria-hidden="true">✦</span>
+    <span class="concierge-handle-label">Plan your trip with our concierge</span>
+  </button>
+</div>
 
 <script>window.W66_CONCIERGE_PATH = '{{ page.path|escapejs }}';</script>
 <script src="{% static 'js/concierge.js' %}" defer></script>

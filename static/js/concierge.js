@@ -112,6 +112,77 @@
     log.scrollTop = log.scrollHeight;
   }
 
+  /* The draft the agent wrote, with the form that sets it going. The text is
+   * only shown here — what actually gets sent is the signed token, so nothing
+   * typed into this page can change the message an operator receives. */
+  function addDraft(draft) {
+    var card = document.createElement('div');
+    card.className = 'concierge-draft';
+
+    var html = '<h3>Your enquiry</h3>';
+    html += '<p class="concierge-draft-subject">' + escapeHtml(draft.subject) + '</p>';
+    html += '<div class="concierge-draft-body">' + renderMarkdown(draft.message) + '</div>';
+    html += '<p class="concierge-draft-to">Going to</p><ul>';
+    draft.providers.forEach(function (p) {
+      html += '<li><a href="/' + escapeHtml(p.path) + '">' + escapeHtml(p.title) + '</a></li>';
+    });
+    html += '</ul>';
+    if (draft.dropped && draft.dropped.length) {
+      html += '<p class="concierge-draft-note">Left out: ' +
+              escapeHtml(draft.dropped.join('; ')) + '</p>';
+    }
+    html += '<div class="concierge-draft-form">' +
+            '<input type="text" class="concierge-name" placeholder="Your name" maxlength="80">' +
+            '<input type="email" class="concierge-email" placeholder="Your email" maxlength="200">' +
+            '<input type="text" class="concierge-hp" tabindex="-1" autocomplete="off" aria-hidden="true">' +
+            '<button type="button" class="concierge-send-enquiry">Send it</button>' +
+            '</div>' +
+            '<p class="concierge-draft-note">We email you a link first — nothing ' +
+            'goes to an operator until you confirm. They reply straight to you.</p>' +
+            '<p class="concierge-draft-status" role="status"></p>';
+
+    card.innerHTML = html;
+    log.appendChild(card);
+    log.scrollTop = log.scrollHeight;
+
+    var button = card.querySelector('.concierge-send-enquiry');
+    var status = card.querySelector('.concierge-draft-status');
+    button.addEventListener('click', function () {
+      var name = card.querySelector('.concierge-name').value.trim();
+      var email = card.querySelector('.concierge-email').value.trim();
+      if (!name || !email) {
+        status.textContent = 'Your name and email, and then it can go.';
+        return;
+      }
+      button.disabled = true;
+      status.textContent = 'Sending you a confirmation…';
+      fetch('/concierge/enquiry', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'X-CSRFToken': csrfToken() },
+        body: JSON.stringify({
+          token: draft.token,
+          name: name,
+          email: email,
+          website: card.querySelector('.concierge-hp').value
+        })
+      })
+        .then(function (r) { return r.json().then(function (d) { return { ok: r.ok, data: d }; }); })
+        .then(function (res) {
+          if (!res.ok || res.data.error) {
+            status.textContent = res.data.error || 'That did not work. Please try again.';
+            button.disabled = false;
+            return;
+          }
+          status.textContent = res.data.message;
+          card.querySelector('.concierge-draft-form').remove();
+        })
+        .catch(function () {
+          status.textContent = 'Could not reach the concierge. Please try again.';
+          button.disabled = false;
+        });
+    });
+  }
+
   function setBusy(state) {
     busy = state;
     sendBtn.disabled = state;
@@ -144,6 +215,7 @@
           addMessage('bot', res.data.reply);
         }
         if (res.data.brief) addBrief(res.data.brief);
+        if (res.data.draft) addDraft(res.data.draft);
       })
       .catch(function () {
         thinking.remove();

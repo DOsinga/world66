@@ -1,0 +1,41 @@
+{% extends "guide/base.html" %}
+
+{% block title %}Enquiry sent{% endblock %}
+
+{% block body_style %}
+<style>
+  #content { display: block; min-height: 0; padding: 0; }
+  #sidebar { display: none; }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="about-page">
+  <h2>Sent</h2>
+  {% if sent %}
+    <p>
+      Your enquiry is with {{ sent|length }} operator{{ sent|length|pluralize }}.
+      They reply to you directly at {{ traveller.email }} — we are not in the
+      middle of it, and there is nothing further to pay us.
+    </p>
+    <ul>
+      {% for provider in sent %}
+        <li><a href="/{{ provider.path }}">{{ provider.title }}</a></li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+  {% if failed %}
+    <p><strong>These did not go through</strong>, and nobody at our end has
+    been alerted — worth contacting them from their own page:</p>
+    <ul>
+      {% for provider in failed %}
+        <li><a href="/{{ provider.path }}">{{ provider.title }}</a></li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+  <p>
+    Small operators can take a few days, especially in season. If nobody
+    answers, their page has their phone number too.
+  </p>
+</div>
+{% endblock %}

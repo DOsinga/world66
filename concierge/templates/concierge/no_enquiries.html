@@ -1,0 +1,42 @@
+{% extends "guide/base.html" %}
+
+{% block title %}No more enquiries{% endblock %}
+
+{% block body_style %}
+<style>
+  #content { display: block; min-height: 0; padding: 0; }
+  #sidebar { display: none; }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="about-page">
+{% if filed %}
+  <h2>Noted — thank you</h2>
+  <p>
+    We've logged it and {{ page.title }} will be taken off the concierge. Your
+    listing on World66 stays where it is: it's editorial, it's free, and it is
+    not affected by this.
+  </p>
+  <p>
+    If you'd rather the listing went too, or anything on it is wrong, write to
+    us from <a href="/{{ page.path }}">your page</a>.
+  </p>
+{% else %}
+  <h2>Stop concierge enquiries to {{ page.title }}?</h2>
+  <p>
+    You're getting these because a traveller reading
+    <a href="/{{ page.path }}">your page on World66</a> asked us to pass an
+    enquiry on. Confirm below and we'll stop sending them.
+  </p>
+  <p>
+    Your listing itself stays — it is editorial, it costs you nothing, and we
+    take no commission on anything you arrange.
+  </p>
+  <form method="post">
+    {% csrf_token %}
+    <button type="submit" class="book-btn">Stop the enquiries</button>
+  </form>
+{% endif %}
+</div>
+{% endblock %}

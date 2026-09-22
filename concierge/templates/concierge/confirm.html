@@ -1,0 +1,63 @@
+{% extends "guide/base.html" %}
+
+{% block title %}Confirm your enquiry{% endblock %}
+
+{% block body_style %}
+<style>
+  #content { display: block; min-height: 0; padding: 0; }
+  #sidebar { display: none; }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="about-page">
+{% if expired %}
+  <h2>That link has expired</h2>
+  <p>
+    Confirmation links last a day. Nothing was sent. Open the concierge again
+    and it will write the enquiry afresh.
+  </p>
+{% elif already %}
+  <h2>Already sent</h2>
+  <p>
+    This enquiry went out already — the operators have it, and their replies
+    will come straight to you. The link only works once.
+  </p>
+{% elif failed %}
+  <h2>We couldn't send it</h2>
+  <p>Sending is not working just now, and nothing has gone out. Please try again later.</p>
+{% elif not providers %}
+  <h2>Nothing left to send</h2>
+  <p>These operators can no longer be reached by email:</p>
+  <ul>{% for reason in dropped %}<li>{{ reason }}</li>{% endfor %}</ul>
+{% else %}
+  <h2>Send this enquiry?</h2>
+  <p>
+    Nothing has gone out yet. Press the button and this message goes to
+    {{ providers|length }} operator{{ providers|length|pluralize }}, each of
+    whom will see your name and can reply straight to
+    <strong>{{ traveller.email }}</strong>.
+  </p>
+
+  <p><strong>Going to:</strong></p>
+  <ul>
+    {% for provider in providers %}
+      <li><a href="/{{ provider.path }}">{{ provider.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <p><strong>Subject:</strong> {{ draft.subject }}</p>
+  <blockquote style="white-space: pre-wrap;">{{ draft.message }}</blockquote>
+
+  <form method="post">
+    {% csrf_token %}
+    <button type="submit" class="book-btn">Send it</button>
+  </form>
+
+  <p>
+    Not what you wanted? Close this page and nothing happens — the link stops
+    working after a day.
+  </p>
+{% endif %}
+</div>
+{% endblock %}

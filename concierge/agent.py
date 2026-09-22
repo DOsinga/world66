@@ -1,8 +1,10 @@
 """The concierge agent.
 
 A traveller chats; the agent asks the questions a good guide would ask, looks
-the answers up in World66's own content, and ends with a written brief the
-traveller can correct. Phase 1 stops there — nothing is sent to a provider.
+the answers up in World66's own content, writes a brief they can correct, and
+drafts the enquiry that goes to the operators. The agent never sends anything
+itself: it hands a signed draft to the browser, and the traveller confirms by
+email before a single message leaves. See `outreach.py`.
 
 There is no database: like the rest of the site, this reads the filesystem and
 `search.db`, and the conversation itself lives in the browser and is posted
@@ -16,6 +18,8 @@ from django.conf import settings
 
 from guide.models import CONTENT_DIR, build_city_tag_index, find_tagged_pois, load_page
 
+from . import outreach
+
 MODEL = os.environ.get("CONCIERGE_MODEL", "claude-sonnet-5")
 MAX_TOKENS = 700
 MAX_TOOL_ROUNDS = 6
@@ -26,8 +30,8 @@ MAX_TOOL_ROUNDS = 6
 DISCLOSURE = (
     "I'm an AI assistant for World66. Tell me what you want to do and I'll "
     "find the operators who run it, from the guide's own free pages — no paid "
-    "placement, no commission — and write your enquiry up so you can book "
-    "direct with them."
+    "placement, no commission — and send them your enquiry, so they can reply "
+    "to you direct."
 )
 
 SYSTEM_PROMPT = f"""You are the World66 concierge, a chat assistant on the World66 travel guide.
@@ -60,15 +64,27 @@ Rules:
 - Quote prices only as the page states them, and say they may have changed.
 - Recommendations come from the guide's own editorial judgement, not from
   anybody paying us. Say so if it comes up.
-- The traveller books direct with the operator. Point them at the operator's
-  own contact details and say what to ask. Never say you have booked, reserved,
-  held or paid for anything yourself — you have contacted nobody.
+- The traveller books direct with the operator: we pass the enquiry on, they
+  reply to the traveller, and the arrangement is between the two of them.
+  Never say you have booked, reserved, held or paid for anything.
 - Link to pages as plain paths, like /southamerica/peru/cusco, and do not
   invent paths — use the ones the tools return.
 - Call `save_brief` as soon as you have a destination, a rough when, a group
   size and one candidate from the guide. Don't hold out for every detail.
 - The brief appears on screen as a card. Never repeat its contents in your
   message — one short line asking what to fix is enough.
+
+Getting in touch:
+- When the traveller wants to approach an operator, call `draft_enquiry`. Write
+  the message in their voice, first person, with the facts an operator needs to
+  quote: dates, numbers, what they want, anything that rules an option out.
+- The draft appears on screen with a form for their name and address. Say in
+  one line that they review it there and confirm by email; do not repeat the
+  draft in your message.
+- Never say the enquiry has been sent. You have not sent it and cannot: it
+  goes out only after they confirm by email.
+- Five operators is the limit, and only ones that publish an address in the
+  guide. If one is dropped, say so plainly and offer another.
 """
 
 TOOLS = [
@@ -114,6 +130,40 @@ TOOLS = [
                 "path": {"type": "string", "description": "Page path, no leading slash."},
             },
             "required": ["path"],
+        },
+    },
+    {
+        "name": "draft_enquiry",
+        "description": (
+            "Write the enquiry the traveller will send to operators, and show "
+            "it to them for approval. Call this once they have said they want "
+            "to get in touch. Nothing is sent by this tool: the traveller "
+            "reviews it, gives their name and address, and confirms by email. "
+            "Name at most five operators, all from the guide."
+        ),
+        "input_schema": {
+            "type": "object",
+            "properties": {
+                "providers": {
+                    "type": "array",
+                    "description": "Paths of the operators to approach, as the tools returned them.",
+                    "items": {"type": "string"},
+                },
+                "subject": {
+                    "type": "string",
+                    "description": "Subject line, e.g. 'Upper Suriname River, 12-15 July, two people'.",
+                },
+                "message": {
+                    "type": "string",
+                    "description": (
+                        "The enquiry itself, written as the traveller: what "
+                        "they want, when, how many, and what they need to know "
+                        "to decide. No greeting and no sign-off — those are "
+                        "added around it."
+                    ),
+                },
+            },
+            "required": ["providers", "subject", "message"],
         },
     },
     {
@@ -241,14 +291,53 @@ def _normalise_brief(brief):
     return out
 
 
+def _build_draft(tool_input):
+    """Check the operators the model named, and sign what it wrote.
+
+    Signing here is what stops the enquiry being edited on its way to the send
+    endpoint: the browser holds the token, not the text.
+    """
+    providers, dropped = outreach.resolve_providers(tool_input.get("providers"))
+    if not providers:
+        reasons = "; ".join(dropped) or "none of those are operators in the guide"
+        return None, f"Nothing to send: {reasons}. Suggest other operators."
+
+    draft = {
+        "subject": str(tool_input.get("subject") or "").strip()[:outreach.MAX_SUBJECT],
+        "message": str(tool_input.get("message") or "").strip()[:outreach.MAX_BODY],
+        "providers": [p.path for p in providers],
+    }
+    card = {
+        "subject": draft["subject"],
+        "message": draft["message"],
+        "token": outreach.sign_draft(draft),
+        "providers": [
+            {"title": p.title, "path": p.path, "email": outreach.provider_email(p)}
+            for p in providers
+        ],
+        "dropped": dropped,
+    }
+    note = ""
+    if dropped:
+        note = " Left out: " + "; ".join(dropped) + "."
+    return card, (
+        "Draft shown to the traveller with a form for their name and address. "
+        "They confirm by email before anything is sent — tell them that, briefly."
+        + note
+    )
+
+
 def run_tool(name, tool_input):
-    """Run one tool. Returns (text_for_the_model, brief_or_None)."""
+    """Run one tool. Returns (text_for_the_model, extras_for_the_browser)."""
     if name == "search_guide":
-        return tool_search_guide(tool_input.get("query", "")), None
+        return tool_search_guide(tool_input.get("query", "")), {}
     if name == "list_providers":
-        return tool_list_providers(tool_input.get("path", ""), tool_input.get("kind", "")), None
+        return tool_list_providers(tool_input.get("path", ""), tool_input.get("kind", "")), {}
     if name == "read_page":
-        return tool_read_page(tool_input.get("path", "")), None
+        return tool_read_page(tool_input.get("path", "")), {}
+    if name == "draft_enquiry":
+        card, message = _build_draft(tool_input)
+        return message, ({"draft": card} if card else {})
     if name == "save_brief":
         brief = _normalise_brief(tool_input)
         dropped = len(tool_input.get("candidates") or []) - len(brief["candidates"])
@@ -257,8 +346,8 @@ def run_tool(name, tool_input):
             "do not mention them." if dropped > 0 else ""
         )
         return ("Brief saved and shown to the traveller. Ask them to correct "
-                "anything that is wrong." + note), brief
-    return f"Unknown tool: {name}", None
+                "anything that is wrong." + note), {"brief": brief}
+    return f"Unknown tool: {name}", {}
 
 
 def is_configured():
@@ -276,16 +365,18 @@ def _page_context(path):
 
 
 def reply(history, page_path=""):
-    """Run the agent over `history` and return (reply_text, brief_or_None).
+    """Run the agent over `history` and return (reply_text, extras).
 
     `history` is a list of {"role": "user"|"assistant", "content": str}.
+    `extras` carries what the browser has to render: the brief, and the
+    enquiry draft when the agent wrote one.
     """
     import anthropic
 
     client = anthropic.Anthropic()
     messages = [dict(m) for m in history]
     system = SYSTEM_PROMPT + _page_context(page_path)
-    brief = None
+    extras = {}
     text_parts = []
 
     for _ in range(MAX_TOOL_ROUNDS):
@@ -307,9 +398,8 @@ def reply(history, page_path=""):
         for block in response.content:
             if block.type != "tool_use":
                 continue
-            result, saved = run_tool(block.name, block.input or {})
-            if saved:
-                brief = saved
+            result, produced = run_tool(block.name, block.input or {})
+            extras.update(produced)
             results.append({
                 "type": "tool_result",
                 "tool_use_id": block.id,
@@ -317,4 +407,4 @@ def reply(history, page_path=""):
             })
         messages.append({"role": "user", "content": results})
 
-    return "\n\n".join(text_parts), brief
+    return "\n\n".join(text_parts), extras

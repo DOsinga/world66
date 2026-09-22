@@ -1,6 +1,7 @@
 ---
 address: Av. San Martín 437, San Martín de los Andes
 commercial: true
+email: laninturismo@smandes.com.ar
 latitude: -40.1584
 longitude: -71.3557
 outreach_code: XL25MJ

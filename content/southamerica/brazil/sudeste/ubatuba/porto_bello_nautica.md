@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: portobellonauticaofc@gmail.com
 latitude: -23.4394
 longitude: -45.07
 outreach_code: LJ6N6W

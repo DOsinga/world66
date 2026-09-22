@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: reservas@puertomadrynexcursiones.com
 latitude: -42.7673
 longitude: -65.0366
 outreach_code: 39FZJM

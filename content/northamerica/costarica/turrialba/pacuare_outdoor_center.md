@@ -1,6 +1,7 @@
 ---
 address: Turrialba, Cartago
 commercial: true
+email: info@pacuareoutdoorcenter.com
 latitude: 9.9033
 longitude: -83.6817
 outreach_code: BLFZPV

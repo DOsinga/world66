@@ -1,6 +1,7 @@
 ---
 address: Rua Vera Cruz 29, Arraial do Cabo
 commercial: true
+email: rltripsoficial@gmail.com
 latitude: -22.9678
 longitude: -42.0211
 outreach_code: 4KJ5FY

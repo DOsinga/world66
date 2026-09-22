@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: akiraturismo@gmail.com
 latitude: -26.9194
 longitude: -49.0661
 outreach_code: 3658FH

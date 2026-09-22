@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: capimasul@gmail.com
 latitude: -3.855
 longitude: -32.425
 outreach_code: LYMG6Q

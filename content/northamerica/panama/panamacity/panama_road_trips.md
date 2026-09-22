@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: info.panamaroadtrips@gmail.com
 latitude: 8.9824
 longitude: -79.5199
 outreach_code: DKMM9K

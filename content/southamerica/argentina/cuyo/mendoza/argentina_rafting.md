@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: info@argentinarafting.com
 latitude: -32.9608
 longitude: -69.1974
 outreach_code: S7T8TP

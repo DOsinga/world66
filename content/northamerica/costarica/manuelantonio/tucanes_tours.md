@@ -1,6 +1,7 @@
 ---
 address: Manuel Antonio, Quepos
 commercial: true
+email: info@tucanestours.com
 latitude: 9.3906
 longitude: -84.1406
 outreach_code: JPCDTL

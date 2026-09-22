@@ -1,6 +1,7 @@
 ---
 address: Rua Ademar Ferreira da Silva 99, Campo Grande
 commercial: true
+email: contato@roteirosdopaxixi.com.br
 latitude: -20.4947
 longitude: -54.5923
 outreach_code: NKQ8GB

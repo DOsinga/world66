@@ -1,6 +1,7 @@
 ---
 address: Feliciano Sodré 735, Teresópolis
 commercial: true
+email: seraventureiro@gmail.com
 latitude: -22.4212
 longitude: -42.9759
 outreach_code: TD2B33

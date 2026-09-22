@@ -1,6 +1,7 @@
 ---
 address: Liberia, Guanacaste
 commercial: true
+email: info@nativesway.com
 latitude: 10.6321
 longitude: -85.44
 outreach_code: 24WTHL

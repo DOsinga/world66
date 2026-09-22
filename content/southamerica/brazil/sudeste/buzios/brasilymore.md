@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: marketing@brasilymore.com
 latitude: -22.7598
 longitude: -41.8875
 outreach_code: HSQY7D

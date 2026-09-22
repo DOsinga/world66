@@ -1,6 +1,7 @@
 ---
 address: Largo Barra de Tibau, 03, Tibau do Sul
 commercial: true
+email: passeiosparaiso@gmail.com
 latitude: -6.2373
 longitude: -35.0442
 outreach_code: 9DL4R4

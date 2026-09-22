@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: vidaruralbrasilia@gmail.com
 latitude: -15.7939
 longitude: -47.8828
 outreach_code: QN8F2D

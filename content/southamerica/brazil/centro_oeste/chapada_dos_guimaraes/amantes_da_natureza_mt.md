@@ -2,6 +2,7 @@
 address: Fernando de Noronha (Lot Jd Estados) 12 Várzea Grande Jardim dos Estados,
   Chapada dos Guimarães
 commercial: true
+email: amantesdanaturezamt@gmail.com
 latitude: -15.4643
 longitude: -55.7498
 outreach_code: 5CNBWV

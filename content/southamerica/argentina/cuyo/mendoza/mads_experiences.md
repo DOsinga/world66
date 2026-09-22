@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: info@madsexperiences.com
 latitude: -32.8897
 longitude: -68.8445
 outreach_code: 26G786

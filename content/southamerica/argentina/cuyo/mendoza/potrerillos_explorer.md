@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: info@potrerillosexplorer.com
 latitude: -32.9599
 longitude: -69.2
 outreach_code: TDVZTJ

@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: arraialsunset@gmail.com
 latitude: -22.9307
 longitude: -42.1878
 outreach_code: GTC98P

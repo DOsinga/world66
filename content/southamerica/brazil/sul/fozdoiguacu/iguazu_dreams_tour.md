@@ -1,6 +1,7 @@
 ---
 address: Avenida Juscelino Kubitschek 364 B, Foz do Iguaçu
 commercial: true
+email: contato@iguazudreamstour.com
 latitude: -25.5074
 longitude: -54.5846
 outreach_code: 8D4B3P

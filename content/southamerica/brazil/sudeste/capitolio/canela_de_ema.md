@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: contato@caneladeemacapitolio.com.br
 latitude: -20.6144
 longitude: -46.0488
 outreach_code: XFHQJ6

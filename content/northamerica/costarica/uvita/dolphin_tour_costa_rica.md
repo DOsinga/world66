@@ -1,6 +1,7 @@
 ---
 address: Uvita de Osa, Puntarenas
 commercial: true
+email: dolphintourscr@gmail.com
 latitude: 9.173096
 longitude: -83.73639
 outreach_code: 5QDWKD

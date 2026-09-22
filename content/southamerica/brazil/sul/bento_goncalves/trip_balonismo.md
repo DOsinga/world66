@@ -1,6 +1,7 @@
 ---
 address: Maximino Tranquilo Bortolini 214, Bento Gonçalves
 commercial: true
+email: contato@tripbalonismo.com.br
 latitude: -29.1662
 longitude: -51.5165
 outreach_code: M55QGH

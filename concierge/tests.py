@@ -30,20 +30,20 @@ class PreviewToggleTest(SimpleTestCase):
 
         self.assertEqual(response.status_code, 200)
         self.assertNotContains(response, "concierge-panel")
-        self.assertNotContains(response, "Plan your trip with our concierge")
+        self.assertNotContains(response, "Plan &amp; book")
 
     def test_a_previewer_sees_it(self):
         unlocked(self)
 
         response = self.client.get(CITY)
 
-        self.assertContains(response, "Plan your trip with our concierge")
+        self.assertContains(response, "Plan &amp; book")
         self.assertContains(response, "concierge.js")
 
     def test_a_forged_cookie_does_not_unlock_it(self):
         self.client.cookies[COOKIE_NAME] = "on"
 
-        self.assertNotContains(self.client.get(CITY), "Plan your trip with our concierge")
+        self.assertNotContains(self.client.get(CITY), "Plan &amp; book")
 
 
 @override_settings(CONCIERGE_PREVIEW_KEY="open-sesame")
@@ -56,12 +56,12 @@ class WhereTheButtonAppearsTest(SimpleTestCase):
                      CITY + "/eating_out",
                      "/northamerica/nicaragua/isla_ometepe"):
             with self.subTest(path=path):
-                self.assertContains(self.client.get(path), "Plan your trip with our concierge")
+                self.assertContains(self.client.get(path), "Plan &amp; book")
 
     def test_it_is_not_on_countries_continents_or_the_home_page(self):
         for path in (COUNTRY, "/northamerica", "/"):
             with self.subTest(path=path):
-                self.assertNotContains(self.client.get(path), "Plan your trip with our concierge")
+                self.assertNotContains(self.client.get(path), "Plan &amp; book")
 
 
 @override_settings(CONCIERGE_PREVIEW_KEY="open-sesame")

@@ -15,7 +15,9 @@
 .concierge-dock {
   --concierge-width: min(920px, 100vw - 52px);
   position: fixed;
-  top: 0;
+  /* Starts below the site's sticky top bar, which stays reachable while the
+     drawer is open. The exact height is measured in JS; this is the fallback. */
+  top: var(--concierge-top, 62px);
   left: 0;
   bottom: 0;
   z-index: 900;
@@ -35,21 +37,21 @@
   flex: 0 0 auto;
   display: flex;
   align-items: center;
-  gap: 10px;
-  height: 64px;
-  margin-left: 14px;
-  padding: 0 24px;
+  gap: 9px;
+  height: 58px;
+  padding: 0 20px 0 16px;
   border: 1px solid var(--accent-ink);
-  border-radius: 999px;
+  border-left: 0;
+  border-radius: 0 999px 999px 0;
   background: var(--accent);
   color: #fff;
   font-family: var(--label-font);
-  font-size: 0.92rem;
+  font-size: 0.88rem;
   font-weight: 600;
   letter-spacing: 0.01em;
   white-space: nowrap;
   cursor: pointer;
-  box-shadow: 0 6px 22px rgba(19, 18, 17, 0.28);
+  box-shadow: 3px 3px 18px rgba(19, 18, 17, 0.26);
   transition: background 0.15s ease;
 }
 
@@ -60,7 +62,7 @@
 
 .concierge-handle-icon {
   flex: 0 0 auto;
-  font-size: 1.35rem;
+  font-size: 1.15rem;
 }
 
 .concierge-panel {

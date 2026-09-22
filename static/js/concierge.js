@@ -4,7 +4,7 @@
  * turn: there is no database on this site, and the server keeps no session.
  */
 (function () {
-  var OPEN_LABEL = 'Plan your trip with our concierge';
+  var OPEN_LABEL = 'Plan & book';
 
   var dock = document.getElementById('concierge-dock');
   var toggleBtn = document.getElementById('concierge-toggle');
@@ -151,6 +151,15 @@
       })
       .then(function () { setBusy(false); input.focus(); });
   }
+
+  /* The top bar is sticky and stays usable, so the drawer starts under it. */
+  function syncTop() {
+    var nav = document.querySelector('.topnav');
+    if (nav) dock.style.setProperty('--concierge-top', nav.offsetHeight + 'px');
+  }
+
+  syncTop();
+  window.addEventListener('resize', syncTop);
 
   function isOpen() {
     return dock.getAttribute('data-open') === 'true';

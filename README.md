@@ -146,6 +146,66 @@ The `tools/` directory contains the scripts used to restore and enrich the conte
 | `apply_geocodes.py` | Write lat/lng into markdown frontmatter |
 | `download_images.py` | Download content images (separate pass) |
 
+## The concierge (preview)
+
+`concierge/` is a chat overlay: a traveller says what they are after, the agent
+asks the questions a guide would ask, looks the answers up in this repository's
+own content, and writes back a brief they can correct. It contacts nobody — it
+searches, it asks, it writes things down.
+
+It is unfinished, so it is off for everybody by default. Two environment
+variables control it, and neither belongs in this repository:
+
+| Variable | Effect |
+|---|---|
+| `CONCIERGE_PREVIEW_KEY` | The word that unlocks the preview. Unset, the unlock page 404s and nobody can turn it on. |
+| `ANTHROPIC_API_KEY` | The model credential. Unset, the chat endpoint answers "not configured" instead of failing. |
+| `CONCIERGE_MODEL` | Optional; defaults to `claude-sonnet-5`. |
+| `RESEND_API_KEY` | Lets the concierge send enquiries. Unset, the send button says so and nothing goes out. |
+| `CONCIERGE_FROM` | Envelope sender; defaults to `concierge@mail.world66.ai`. Keep it on a subdomain, so a reputation problem here never reaches the address the operator outreach sends from. |
+| `CONCIERGE_LEDGER` | Where sends are recorded; defaults to `outreach/enquiries.jsonl`, which is git-ignored. |
+
+Visit `/concierge/preview?key=<the key>` to set a signed cookie, and
+`/concierge/preview?off=1` to clear it. Visitors without that cookie never
+receive the overlay markup, and `POST /concierge/chat` returns 404 for them, so
+the model behind it is not an open door.
+
+This relies on our HTML not being cached: Cloudflare returns `cf-cache-status:
+DYNAMIC` for pages. If HTML caching is ever enabled, this needs `Vary: Cookie`
+or a bypass rule on the cookie, or one previewer's page would be served to
+everyone.
+
+### Sending an enquiry
+
+The agent can write an enquiry and pass it to operators. What keeps that from
+being a spam cannon is that the model never decides who gets mail:
+
+1. `draft_enquiry` names *paths*. `outreach.resolve_providers` loads each one
+   and keeps only commercial POIs that publish an address and have not set
+   `no_enquiries: true`. Five at most.
+2. The draft is signed and handed to the browser. The text an operator receives
+   is fixed at that moment — nothing typed into the page afterwards changes it.
+3. The traveller gives a name and address, and we mail *them* a confirmation
+   link. An unverified address gets no further.
+4. Opening that link only shows what is about to happen; a spam filter
+   following links must not send anything. The button behind it does the send,
+   once — the ledger is what remembers that the link has been used.
+5. Each operator gets one mail with the traveller on `Reply-To`, so replies go
+   straight to them. We are not in the middle of the conversation.
+
+The envelope — subject line, the sentence explaining why they are hearing from
+us, the no-commission line, the opt-out link — is templated in `outreach.py`.
+The model writes the middle and nothing else.
+
+An operator who follows the opt-out link files a GitHub issue asking for
+`no_enquiries: true` on their page; the flag is honoured at send time, so it
+takes effect as soon as it is merged.
+
+The button is deliberately not on every page — only where there is something
+concrete to plan: an individual place, a list of places, and destinations
+(`loc_type` city, feature or island). Not continents, countries, themes, blog
+lists or the home page.
+
 ## License
 
 All World66 content is licensed under [Creative Commons Attribution-ShareAlike 1.0](https://creativecommons.org/licenses/by-sa/1.0/).

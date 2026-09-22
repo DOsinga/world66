@@ -4,7 +4,7 @@ done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-05-11'
   poi_cleanup: '2026-04-19'
-image: santarosadecop.jpg
+image: santa_rosa_de_copan.jpg
 image_attribution: Adal-Honduras
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Santa_Rosa_de_Cop%C3%A1n_Cathedral_2.jpg

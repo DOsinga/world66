@@ -9,7 +9,7 @@ image_attribution: DJ Cane
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Coral_cluster_near_Roat%C3%A1n_Honduras.jpeg
 latitude: 16.3232
-loc_type: city
+loc_type: island
 longitude: -86.5317
 score: 5.949
 snippet: Largest Bay Island of Honduras, ringed by beaches and the Mesoamerican Barrier

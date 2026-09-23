@@ -13,10 +13,10 @@ Guatemala is compact enough to visit several very different landscapes and cultu
 
 **Chichicastenango market** — Thursday and Sunday. One of the most vibrant indigenous markets in Central America, where Q'iche' Maya traders come from across the western highlands. The Church of Santo Tomás has been the site of a blend of Catholic and Maya ceremony since the 16th century.
 
-**[Quetzaltenango (Xela)](/northamerica/guatemala/quezaltenango)** — Guatemala's second city is real, unhurried, and set deep in K'iche' Maya culture. Good Spanish schools, volcanic hiking, and considerably fewer tourists than Antigua.
+**[Quetzaltenango (Xela)](/northamerica/guatemala/quetzaltenango)** — Guatemala's second city is real, unhurried, and set deep in K'iche' Maya culture. Good Spanish schools, volcanic hiking, and considerably fewer tourists than Antigua.
 
 **Volcán Acatenango** — An overnight hike from the flanks of this dormant volcano offers a front-row view of neighboring Volcán de Fuego erupting through the night. One of the great hiking experiences in Central America. Cold, strenuous, and unforgettable.
 
 **Semuc Champey** — Natural limestone pools over the Cahabón River near Cobán. Turquoise, layered, surrounded by jungle. Worth the effort to get there.
 
-**[Livingston](/northamerica/guatemala/livingstone) and the Rio Dulce** — The Caribbean coast feels like a different country. The gorge approach by boat, the Garífuna culture in Livingston, and the [Lake Izabal](/northamerica/guatemala/lakeizabal) waterways are all rewarding if you have time to reach them.
+**[Livingston](/northamerica/guatemala/livingston) and the Rio Dulce** — The Caribbean coast feels like a different country. The gorge approach by boat, the Garífuna culture in Livingston, and the [Lake Izabal](/northamerica/guatemala/lakeizabal) waterways are all rewarding if you have time to reach them.

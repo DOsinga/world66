@@ -17,6 +17,10 @@ heritage: 2.39
 vibrancy: 3.644
 nature: 6.266
 off_the_beaten_track: 4.256
+image: el_cuco.jpg
+image_source: https://commons.wikimedia.org/wiki/File:El_Cuco_San_Miguel_El_Salvador_Playa_2011.jpg
+image_license: CC0
+image_attribution: Ll1324
 ---
 
 El Cuco is the beach base for eastern El Salvador: a small fishing and surf village on the San Miguel coast, far from the busier scene around La Libertad. The sand is dark volcanic grey, the beach is long, and the mood is more local weekend escape than polished resort strip.

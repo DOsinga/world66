@@ -15,6 +15,10 @@ heritage: 2.259
 vibrancy: 2.232
 nature: 7.184
 off_the_beaten_track: 4.347
+image: monterrico.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Black-sand-beach.jpg
+image_license: CC BY-SA 4.0
+image_attribution: DrStockPhoto.com
 ---
 
 Monterrico is Guatemala's easiest Pacific beach escape from [Guatemala City](/northamerica/guatemala/guatemalacity) and [Antigua Guatemala](/northamerica/guatemala/antiguaguatemala), but it is not a soft resort strip. The beach is black volcanic sand, the surf breaks hard, and the undertow deserves respect.

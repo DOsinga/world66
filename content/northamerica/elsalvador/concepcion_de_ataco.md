@@ -11,6 +11,10 @@ heritage: 3.4
 vibrancy: 2.903
 nature: 6.664
 off_the_beaten_track: 4.229
+image: concepcion_de_ataco.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Concepci%C3%B3n_de_Ataco,_El_Salvador_-_panoramio.jpg
+image_license: CC BY 3.0
+image_attribution: davidjoviera
 ---
 
 Concepcion de Ataco is one of the most photogenic towns on the [Ruta de las Flores](/northamerica/elsalvador/rutadelasflores), the mountain road that threads through western El Salvador's coffee highlands. Murals cover many of its walls, craft shops cluster around the central square, and the surrounding slopes are thick with coffee and cloud forest. It is the kind of place that earns its popularity: the murals are genuinely good, the market stalls offer the best concentration of handmade textiles and pottery in the region, and the food is cheap and satisfying.

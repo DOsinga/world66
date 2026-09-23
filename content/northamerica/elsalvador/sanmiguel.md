@@ -16,6 +16,10 @@ heritage: 3.086
 vibrancy: 3.113
 nature: 5.057
 off_the_beaten_track: 3.765
+image: sanmiguel.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Calles_de_San_Miguel,_El_Salvador.jpg
+image_license: CC0
+image_attribution: Ll1324
 ---
 
 San Miguel is El Salvador's third-largest city, set in the hot eastern lowlands about 140 km from [San Salvador](/northamerica/elsalvador/sansalvador). It is the commercial capital of eastern El Salvador — a working city of around 250,000 people that functions as the main transit hub for the region. Most travelers pass through, but there is more here than the transit stop reputation suggests.

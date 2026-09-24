@@ -6,6 +6,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Cabo_Cabr%C3%B3n,_(Rinc%C3
 latitude: 18.7357
 loc_type: country
 longitude: -70.1627
+done:
+  country_cleanup: 2026-09-24
 score: 0.61
 snippet: Caribbean country on eastern Hispaniola, balancing resort coasts with Santo
   Domingo's colonial firsts and merengue culture.
@@ -20,5 +22,9 @@ The Dominican Republic occupies the eastern two-thirds of Hispaniola, the island
 [Santo Domingo](/northamerica/dominicanrepublic/santodomingo), the capital, is the oldest continuously inhabited European settlement in the Americas. The Zona Colonial, a UNESCO World Heritage Site, is where Christopher Columbus's son built his palace, where the first cathedral in the New World still holds mass, and where the cobblestoned Calle Las Damas runs past colonial buildings that have been standing since the 1500s. It is a real, lived-in neighbourhood, not a museum, and the contrast between the 16th-century buildings and the rooftop bars is part of the charm.
 
 The north coast has some of the country's finest beaches around [Puerto Plata](/northamerica/dominicanrepublic/puertoplata) and the Samaná Peninsula, where humpback whales arrive to breed between January and March. [Punta Cana](/northamerica/dominicanrepublic/punta_cana) on the east coast is the resort heartland — a vast strip of all-inclusive hotels fronting one of the Caribbean's finest beaches. The interior, which most visitors never see, is mountainous — the Cordillera Central rises to nearly 3,100 metres at Pico Duarte, the highest peak in the Caribbean. There is genuine tropical forest up there, and a Dominican backcountry that has nothing to do with the beach.
+
+The north coast has two towns worth separating from the resort strip. [Cabarete](/northamerica/dominicanrepublic/cabarete) is the kiteboarding capital of the Caribbean — the trade winds build every afternoon and the bay fills with kites — and [Sosúa](/northamerica/dominicanrepublic/sosua) next door has the calm reef bay and an unlikely history as a settlement founded by Jewish refugees in 1940. Inland, [Jarabacoa](/northamerica/dominicanrepublic/jarabacoa) in the Cordillera Central has the only whitewater rafting in the Caribbean and the trailhead for Pico Duarte.
+
+In the south-east, [Bayahibe](/northamerica/dominicanrepublic/bayahibe) is the country's diving base and the departure point for Isla Saona. The south-west is the part almost nobody visits: the road below the cliffs out of [Barahona](/northamerica/dominicanrepublic/barahona), the larimar mines, and Bahía de las Águilas, eight kilometres of undeveloped sand inside a national park.
 
 Merengue and bachata were both born here. The food — rice and beans (la bandera), sancocho, chivo guisado — is the honest cooking of the Caribbean tropics, not fancy but deeply satisfying. The local spirit is Presidente beer and Brugal rum.

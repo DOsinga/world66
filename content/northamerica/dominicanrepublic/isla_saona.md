@@ -16,6 +16,10 @@ heritage: 2.197
 vibrancy: 2.957
 nature: 7.218
 off_the_beaten_track: 3.835
+image: isla_saona.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Isla_Saona_Dominican_Republic.jpg
+image_license: CC BY-SA 2.0
+image_attribution: <a rel="nofollow" class="external free" href="https://www.flickr.com/photos/bez_uk/">https://www.flickr.com/photos/bez_uk/</a>
 ---
 
 Isla Saona is the largest island off the southeastern Dominican Republic coast, sitting at the tip of the country where the Caribbean Sea meets the Atlantic. Long, flat, and fringed with coconut palms, it forms part of the Parque Nacional del Este — a designation that has kept hotels off the island and the beaches in largely pristine condition.

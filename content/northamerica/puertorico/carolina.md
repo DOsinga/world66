@@ -13,6 +13,10 @@ heritage: 4.6
 vibrancy: 5.396
 nature: 6.111
 off_the_beaten_track: 1.736
+image: carolina.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Carolina,_Puerto_Rico_(aerial).JPG
+image_license: CC BY-SA 3.0
+image_attribution: Mtmelendez
 ---
 
 Carolina is a large municipality just east of [San Juan](/northamerica/puertorico/sanjuan), best known as the home of Luis Muñoz Marín International Airport and Isla Verde, the resort beach strip that technically falls within Carolina's borders rather than San Juan's. Most visitors pass through without realizing they have left the capital, but Carolina has its own character worth noting.

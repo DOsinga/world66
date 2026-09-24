@@ -13,6 +13,10 @@ heritage: 5.612
 vibrancy: 4.661
 nature: 5.06
 off_the_beaten_track: 2.626
+image: higuey.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Basilica_of_Higuey,_Dominican_Republic.jpg
+image_license: CC BY-SA 2.0
+image_attribution: https://www.flickr.com/photos/friviere/
 ---
 
 Higüey is the capital of La Altagracia province and the gateway city for the eastern Dominican Republic. Most travelers blow through here on their way to Punta Cana and the beach resorts, but the city has one genuinely significant attraction: the [Basílica de Nuestra Señora de la Altagracia](/northamerica/dominicanrepublic/higuey/basilica_altagracia), a striking modernist cathedral completed in 1971 that is the most important pilgrimage site in the country. On January 21st each year, hundreds of thousands of Dominicans converge here for the feast of the Virgin of Altagracia, the patron saint of the nation.

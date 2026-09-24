@@ -16,6 +16,10 @@ heritage: 3.678
 vibrancy: 1.686
 nature: 6.626
 off_the_beaten_track: 3.641
+image: orocovis.jpg
+image_source: https://commons.wikimedia.org/wiki/File:La_Cordillera_Central_desde_el_mirado_en_Orocovis,_Puerto_Rico.jpg
+image_license: CC BY-SA 4.0
+image_attribution: The Eloquent Peasant
 ---
 
 Orocovis sits high in Puerto Rico's Cordillera Central, far enough from the coast that the island feels different: cooler air, tight mountain roads, roadside waterfalls, and small restaurants built around longaniza and slow afternoons.

@@ -7,7 +7,7 @@ image_attribution: Jaro Nemčok
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Vieques_SunBayBeach.jpg
 latitude: 18.1263
-loc_type: city
+loc_type: island
 longitude: -65.4401
 score: 5.554
 snippet: Puerto Rican island with former Navy lands, wildlife refuge beaches, and

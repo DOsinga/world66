@@ -16,6 +16,11 @@ heritage: 6.129
 vibrancy: 1.91
 nature: 6.839
 off_the_beaten_track: 5.061
+image: guama.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Morning_at_Laguna_del_Tesoro,_Guam%C3%A0.jpg
+image_license: CC BY-SA 4.0
+image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Manfred_Foeger&amp;action=edit&amp;redlink=1"
+  class="new" title="User:Manfred Foeger (page does not exist)">Manfred Foeger</a>
 ---
 
 Guamá is a tourist complex built in the late 1960s on a string of small islands in the Laguna del Tesoro — "Treasure Lake" — inside the Zapata wetlands, the largest mangrove and swamp ecosystem in the Caribbean. The lake is reached by a 20-minute boat from Boca de Guamá at the head of the inlet, where the road from the Autopista Nacional ends and the crocodile farm sits at the trailhead.

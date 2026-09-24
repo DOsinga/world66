@@ -15,6 +15,10 @@ heritage: 3.275
 vibrancy: 2.543
 nature: 4.961
 off_the_beaten_track: 3.882
+image: cienfuegos.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cienfuegos_-_Ayuntamiento.jpg
+image_license: Public domain
+image_attribution: Unknown author
 ---
 
 Cienfuegos is Cuba's Pearl of the South, and for once the nickname is not empty. The city was founded by French settlers in 1819, laid out with unusual order, and later enriched by sugar money and trade through its deep bay. The result is a Cuban city that feels lighter, wider, and more formally planned than many of its older Spanish colonial rivals.

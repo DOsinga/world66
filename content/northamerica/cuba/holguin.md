@@ -14,6 +14,11 @@ heritage: 3.183
 vibrancy: 2.828
 nature: 5.537
 off_the_beaten_track: 4.82
+image: holguin.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Atardecer_desde_la_Loma_de_la_Cruz,_Holgu%C3%ADn.jpg
+image_license: CC0
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Ir%C3%A1m_Ren%C3%A9_GD"
+  title="User:Irám René GD">Irám René GD</a>
 ---
 
 Holguín province covers the eastern end of [Cuba](/northamerica/cuba) and is where Columbus first landed in 1492, reportedly declaring it the most beautiful land ever seen by human eyes. The province has some of Cuba's best beaches, dramatic mountain scenery, and a relaxed provincial capital that sees far fewer tourists than [Havana](/northamerica/cuba/havana) or [Trinidad](/northamerica/cuba/trinidad).

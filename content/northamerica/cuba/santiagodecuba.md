@@ -14,6 +14,11 @@ heritage: 4.692
 vibrancy: 4.69
 nature: 6.119
 off_the_beaten_track: 4.022
+image: santiagodecuba.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Santiago_de_Cuba_-_panoramio_(5).jpg
+image_license: CC BY-SA 3.0
+image_attribution: <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161030122743/http://www.panoramio.com/user/7863635?with_photo_id=101680358">Martin
+  Cígler</a>
 ---
 
 Santiago de Cuba is Cuba's second city, but it often feels like the real capital — fiercer, louder, and more Caribbean than Havana. Wedged between the Sierra Maestra mountains and the sea, the city climbs steeply through a tangle of narrow streets where Afro-Cuban rhythms pour from open doorways and the heat is relentless.

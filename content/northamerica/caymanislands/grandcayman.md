@@ -2,7 +2,7 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 19.3133
-loc_type: region
+loc_type: island
 longitude: -81.2546
 score: 0.68
 title: Grand Cayman

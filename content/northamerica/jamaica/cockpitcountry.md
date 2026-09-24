@@ -13,6 +13,11 @@ heritage: 5.266
 vibrancy: 2.432
 nature: 7.586
 off_the_beaten_track: 3.997
+image: cockpitcountry.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cockpit-Country.JPG
+image_license: CC BY-SA 3.0
+image_attribution: <a rel="nofollow" class="external text" href="http://www.wikivoyage-old.org/shared/User%3AJamaicajoe">Joachim
+  Greiner</a>
 ---
 
 Cockpit Country is one of the most distinctive landscapes in the Caribbean: a roughly circular area of collapsed limestone karst covering about 1,300 square kilometres in the parishes of Trelawny, St James, St Elizabeth, and Manchester. From the air it looks like a field of inverted bowls — steep forested hills separated by rounded sinkholes called "cockpits." On the ground it's a dense, disorienting maze of forest and rock.

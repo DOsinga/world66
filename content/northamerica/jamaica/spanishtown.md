@@ -17,6 +17,12 @@ heritage: 3.964
 vibrancy: 3.645
 nature: 5.311
 off_the_beaten_track: 2.997
+image: spanishtown.jpg
+image_source: https://commons.wikimedia.org/wiki/File:J._Murray_Jordan_-_Square_and_Fountain,_Spanish_Town,_Jamaica,_1897_9386494980.jpg
+image_license: Public domain
+image_attribution: <bdi><a href="https://www.wikidata.org/wiki/Q84594539" class="extiw"
+  title="d:Q84594539"><span title="American photographer and postcard publisher (1862–1909)">J.
+  Murray Jordan</span></a></bdi>
 ---
 
 Spanish Town, 20 km west of Kingston along the main highway, was Jamaica's capital for over 300 years — from the Spanish founding in the 1530s until Kingston took over in 1872. Almost no visitors come here, which is a pity.

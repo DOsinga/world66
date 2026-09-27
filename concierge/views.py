@@ -261,13 +261,32 @@ def no_enquiries(request, token):
 
     filed = False
     if request.method == "POST":
-        url = github.create_issue(
+        # The ledger write is what we can promise: it is a local file and it
+        # does not depend on GitHub being reachable or a token being present.
+        outreach.record_optout(page, issue_url=_file_optout_issue(page))
+        filed = True
+
+    return render(request, "concierge/no_enquiries.html", {"page": page, "filed": filed})
+
+
+def _file_optout_issue(page):
+    """Raise an issue so a person sets the flag. Best effort.
+
+    `create_issue` arrives with the picks work and may not be present on every
+    deploy, and the call needs a token with issue scope. Neither is something
+    an operator asking to be left alone should have to care about, so a
+    failure here is recorded rather than shown.
+    """
+    create = getattr(github, "create_issue", None)
+    if create is None:
+        return ""
+    try:
+        return create(
             f"No enquiries: {page.title}",
             f"{page.title} (`{page.path}`) asked not to receive concierge "
             f"enquiries.\n\nSet `no_enquiries: true` in the frontmatter of "
             f"`content/{page.path}.md`.",
             labels=("concierge",),
         )
-        filed = True
-
-    return render(request, "concierge/no_enquiries.html", {"page": page, "filed": filed})
+    except Exception:
+        return ""

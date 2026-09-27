@@ -192,6 +192,21 @@ def build_confirmation(draft, providers, traveller, confirm_url):
     return "Confirm your enquiry — World66 concierge", "\n".join(lines)
 
 
+def record_optout(page, issue_url=""):
+    """Write an operator's opt-out to the ledger.
+
+    The flag that actually stops the mail is `no_enquiries` in the page's
+    frontmatter, which a person sets in git. This is the local record that the
+    request happened, so it survives whether or not the issue could be filed.
+    """
+    record({
+        "optout": page.path,
+        "provider": page.title,
+        "at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "issue_url": issue_url,
+    })
+
+
 def ledger_entry(provider, traveller, draft, token, message_id):
     return {
         "sent_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),

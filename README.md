@@ -162,7 +162,7 @@ variables control it, and neither belongs in this repository:
 | `ANTHROPIC_API_KEY` | The model credential. Unset, the chat endpoint answers "not configured" instead of failing. |
 | `CONCIERGE_MODEL` | Optional; defaults to `claude-sonnet-5`. |
 | `RESEND_API_KEY` | Lets the concierge send enquiries. Unset, the send button says so and nothing goes out. |
-| `CONCIERGE_FROM` | Envelope sender; defaults to `concierge@mail.world66.ai`. Keep it on a subdomain, so a reputation problem here never reaches the address the operator outreach sends from. |
+| `CONCIERGE_FROM` | Envelope sender; defaults to `concierge@world66.ai`. It has to be on the apex: world66.ai publishes `p=reject` with strict alignment, so a From address on a subdomain is rejected by our own DMARC policy. |
 | `CONCIERGE_LEDGER` | Where sends are recorded; defaults to `outreach/enquiries.jsonl`, which is git-ignored. |
 
 Visit `/concierge/preview?key=<the key>` to set a signed cookie, and

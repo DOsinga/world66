@@ -21,11 +21,12 @@ def api_key():
 def from_address():
     """The envelope sender.
 
-    A subdomain by default: this is unsolicited-looking mail to businesses,
-    and a reputation problem here must not reach the address the operator
-    outreach campaign sends from.
+    The apex domain, because that is what is verified with the mail provider
+    and what DKIM signs. world66.ai publishes `p=reject` with strict alignment
+    (`adkim=s`), so a From address on any subdomain would be rejected by our
+    own DMARC policy even though the mail is genuinely ours.
     """
-    return os.environ.get("CONCIERGE_FROM", "World66 concierge <concierge@mail.world66.ai>")
+    return os.environ.get("CONCIERGE_FROM", "World66 concierge <concierge@world66.ai>")
 
 
 def is_configured():

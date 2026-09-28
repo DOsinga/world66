@@ -5,13 +5,17 @@ is templated here — the model writes the body of the enquiry and nothing else.
 """
 
 import json
+import logging
 import os
 import urllib.error
 import urllib.request
 
 # Overridable so the whole send path can be exercised against a stub.
 API_URL = os.environ.get("RESEND_API_URL", "https://api.resend.com/emails")
+USER_AGENT = "world66-concierge/1.0 (+https://world66.ai)"
 TIMEOUT = 15
+
+logger = logging.getLogger(__name__)
 
 
 def api_key():
@@ -49,12 +53,22 @@ def send(to, subject, text, reply_to=""):
         headers={
             "Authorization": f"Bearer {api_key()}",
             "Content-Type": "application/json",
+            # Resend's API sits behind Cloudflare, which answers urllib's
+            # default agent string with a 1010 before Resend sees the request.
+            "User-Agent": USER_AGENT,
         },
         method="POST",
     )
     try:
         with urllib.request.urlopen(request, timeout=TIMEOUT) as response:
             body = json.loads(response.read().decode("utf-8"))
-    except (urllib.error.URLError, ValueError, OSError):
+    except urllib.error.HTTPError as err:
+        # The reply says why — a wrong key, an unverified sender domain, a
+        # rate limit. Losing it silently costs an afternoon.
+        detail = err.read().decode("utf-8", "replace")[:400]
+        logger.error("resend refused the message: HTTP %s %s", err.code, detail)
+        return ""
+    except (urllib.error.URLError, ValueError, OSError) as err:
+        logger.error("could not reach resend: %s", err)
         return ""
     return str(body.get("id") or "")

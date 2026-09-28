@@ -37,3 +37,4 @@ design/
 # The QR files themselves live in static/qr and ARE committed: they are served
 # as ordinary static assets, so nothing has to render them at request time.
 build/
+outreach/enquiries.jsonl

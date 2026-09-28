@@ -1,0 +1,50 @@
+{% extends "guide/base.html" %}
+{% load static %}
+
+{% block title %}Enquiry sent{% endblock %}
+
+{% block body_style %}
+<link rel="stylesheet" href="{% static 'css/concierge.css' %}">
+<style>
+  #content { display: block; min-height: 0; padding: 0; }
+  #sidebar { display: none; }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="concierge-page">
+  <h2>Sent</h2>
+  {% if sent %}
+    <p class="concierge-lead">
+      Your enquiry is with {{ sent|length }} operator{{ sent|length|pluralize }}.
+      They reply to you directly at <strong>{{ traveller.email }}</strong> — we
+      are not in the middle of it, and there is nothing to pay us.
+    </p>
+    <p class="concierge-letter-label">Went to</p>
+    <ul class="concierge-recipients">
+      {% for provider in sent %}
+        <li><a href="/{{ provider.path }}">{{ provider.title }}</a></li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+  {% if failed %}
+    <p class="concierge-letter-label">Did not go through</p>
+    <ul class="concierge-recipients">
+      {% for provider in failed %}
+        <li><a href="/{{ provider.path }}">{{ provider.title }}</a></li>
+      {% endfor %}
+    </ul>
+    <p class="concierge-after">
+      Nobody at our end has been alerted about these, so it is worth writing to
+      them yourself — their own contact details are on their page.
+    </p>
+  {% endif %}
+
+  <p class="concierge-reassure">
+    Small operators often take a few days, especially in season. If nobody
+    answers, their page usually has a phone number too — and in much of the
+    world a message gets a faster reply than an email.
+  </p>
+</div>
+{% endblock %}

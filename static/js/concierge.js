@@ -173,14 +173,47 @@
             button.disabled = false;
             return;
           }
-          status.textContent = res.data.message;
           card.querySelector('.concierge-draft-form').remove();
+          status.remove();
+          card.classList.add('concierge-draft-done');
+          addSent(email, draft.providers);
+          /* Tell the agent what happened, so the conversation can carry on
+           * without it offering to send the same enquiry again. It goes onto
+           * the last assistant turn rather than as a new one, because the
+           * roles have to keep alternating. */
+          var note = 'The enquiry was submitted. A confirmation email has gone to ' +
+                     email + '; the traveller must click the link in it before ' +
+                     'anything reaches the operators. Do not offer to send it again.';
+          if (history.length && history[history.length - 1].role === 'assistant') {
+            history[history.length - 1].content += '\n\n[' + note + ']';
+          } else {
+            history.push({ role: 'assistant', content: '[' + note + ']' });
+          }
+          input.focus();
         })
         .catch(function () {
           status.textContent = 'Could not reach the concierge. Please try again.';
           button.disabled = false;
         });
     });
+  }
+
+  /* What the traveller sees once the enquiry is away. It is the end of one
+   * errand, not the end of the conversation — so it reads as a receipt and
+   * leaves the chat open. */
+  function addSent(email, providers) {
+    var card = document.createElement('div');
+    card.className = 'concierge-sent';
+    var n = providers.length;
+    card.innerHTML =
+      '<p class="concierge-sent-head">Check your inbox</p>' +
+      '<p>We\'ve emailed <strong>' + escapeHtml(email) + '</strong> to confirm it\'s you. ' +
+      'Open that mail and press the button, and your enquiry goes to ' + n +
+      ' operator' + (n === 1 ? '' : 's') + '. Nothing reaches them until you do.</p>' +
+      '<p class="concierge-sent-note">They reply to you directly. ' +
+      'Anything else I can look up in the meantime?</p>';
+    log.appendChild(card);
+    log.scrollTop = log.scrollHeight;
   }
 
   function setBusy(state) {

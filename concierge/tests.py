@@ -275,7 +275,7 @@ class EnvelopeTest(SimpleTestCase):
         )
 
         self.assertIn("Confirm", subject)
-        self.assertIn("Nothing has gone to them yet", body)
+        self.assertIn("Nothing has reached them yet", body)
         self.assertIn("Cardy Adventures", body)
 
 

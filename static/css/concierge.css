@@ -388,3 +388,178 @@
     display: none;
   }
 }
+
+/* The pages a traveller and an operator land on from an email. They are
+   reached from outside the site, often on a phone, and each asks for one
+   decision — so they are a single narrow column with one obvious button. */
+.concierge-page {
+  max-width: 660px;
+  margin: 0 auto;
+  padding: 48px 20px 72px;
+  font-family: var(--body-font);
+  color: var(--ink);
+}
+
+.concierge-page h2 {
+  margin: 0 0 6px;
+  font-family: var(--display-font);
+  font-size: 1.9rem;
+  line-height: 1.15;
+  color: var(--ink);
+}
+
+.concierge-page .concierge-lead {
+  margin: 0 0 28px;
+  font-size: 1.02rem;
+  line-height: 1.6;
+  color: var(--mute);
+}
+
+.concierge-page p {
+  line-height: 1.6;
+}
+
+.concierge-letter {
+  margin: 0 0 28px;
+  border: 1px solid var(--line-2);
+  border-radius: 12px;
+  background: #fff;
+  overflow: hidden;
+}
+
+.concierge-letter-head {
+  padding: 14px 20px;
+  border-bottom: 1px solid var(--line);
+  background: var(--paper-2);
+}
+
+.concierge-letter-label {
+  margin: 0 0 2px;
+  font-family: var(--label-font);
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--mute);
+}
+
+.concierge-letter-subject {
+  margin: 0;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.concierge-letter-body {
+  padding: 18px 20px;
+  font-size: 0.95rem;
+  line-height: 1.65;
+  white-space: pre-wrap;
+}
+
+.concierge-recipients {
+  margin: 0 0 28px;
+  padding: 0;
+  list-style: none;
+}
+
+.concierge-recipients li {
+  padding: 11px 0;
+  border-bottom: 1px solid var(--line);
+  font-size: 0.98rem;
+}
+
+.concierge-recipients li:first-child {
+  border-top: 1px solid var(--line);
+}
+
+.concierge-recipients a {
+  color: var(--ink);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.concierge-recipients a:hover {
+  color: var(--accent-ink);
+}
+
+.concierge-go {
+  display: inline-block;
+  padding: 14px 30px;
+  border: 0;
+  border-radius: 10px;
+  background: var(--accent);
+  color: #fff;
+  font-family: var(--label-font);
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.concierge-go:hover {
+  background: var(--accent-ink);
+}
+
+.concierge-page .concierge-after {
+  margin: 18px 0 0;
+  font-size: 0.86rem;
+  line-height: 1.55;
+  color: var(--mute);
+}
+
+.concierge-page .concierge-reassure {
+  margin: 28px 0 0;
+  padding: 14px 18px;
+  border-left: 3px solid var(--line-2);
+  font-size: 0.88rem;
+  line-height: 1.6;
+  color: var(--mute);
+}
+
+@media (max-width: 640px) {
+  .concierge-page {
+    padding: 32px 16px 56px;
+  }
+
+  .concierge-page h2 {
+    font-size: 1.55rem;
+  }
+}
+
+/* The receipt after an enquiry goes in. Deliberately not a dead end: the
+   errand is done, the conversation is not. */
+.concierge-sent {
+  margin: 4px 0 14px;
+  padding: 14px 16px;
+  border: 1px solid var(--accent);
+  border-left-width: 4px;
+  border-radius: 10px;
+  background: #fff;
+}
+
+.concierge-sent-head {
+  margin: 0 0 6px;
+  font-family: var(--label-font);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--accent-ink);
+}
+
+.concierge-sent p {
+  margin: 0 0 8px;
+  font-size: 0.88rem;
+  line-height: 1.55;
+}
+
+.concierge-sent p:last-child {
+  margin-bottom: 0;
+}
+
+.concierge-sent-note {
+  color: var(--mute);
+}
+
+/* Once submitted the draft stays visible as a record, but reads as spent. */
+.concierge-draft-done {
+  border-color: var(--line-2);
+  opacity: 0.75;
+}

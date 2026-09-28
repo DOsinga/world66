@@ -151,17 +151,23 @@ def build_enquiry(provider, draft, traveller, page_url, optout_url):
     lines = [
         f"Hello {provider.title},",
         "",
-        f"{name} is planning a trip and found you on World66. Their enquiry is "
-        "below, and their address is on the reply-to of this mail — replying "
-        "goes straight to them, not to us.",
+        f"{name} found you on World66 and asked us to pass this on:",
         "",
         message,
         "",
+        f"— {name}",
+        "",
+        "You can reply to this mail and it goes straight to them, not to us. "
+        "What they need back is whether you can take it, when, and what it "
+        "costs.",
+        "",
         "--",
-        f"Sent by the World66 concierge for {name} <{email}>.",
-        "World66 is a free travel guide. Your listing is editorial, it costs "
-        "nothing, and we take no commission on anything you arrange.",
-        f"Your page: {page_url}",
+        f"Sent by the World66 concierge on behalf of {name} <{email}>.",
+        "World66 is a free travel guide. Your listing on it is editorial — you "
+        "are not paying for it, and we take no commission on anything you "
+        "arrange. We only pass the enquiry on.",
+        "",
+        f"Your listing: {page_url}",
         f"No more enquiries like this: {optout_url}",
     ]
     return subject, "\n".join(lines)
@@ -174,20 +180,26 @@ def build_confirmation(draft, providers, traveller, confirm_url):
     lines = [
         f"Hi {name},",
         "",
-        "You asked the World66 concierge to send your enquiry to these operators:",
+        "Your enquiry is written and ready to go to:",
         "",
         listed,
         "",
-        "Nothing has gone to them yet. Open this link and confirm, and we'll "
-        "send it — they will reply to you directly at this address.",
+        "Nothing has reached them yet. Open this link and confirm, and we'll "
+        "send it:",
         "",
         confirm_url,
         "",
-        "If you didn't ask for this, ignore this mail and nothing happens. "
-        "The link stops working after a day.",
+        "You will see the enquiry once more before it goes. After that each "
+        "operator replies to you directly at this address — we are not in the "
+        "middle of it, and there is nothing to pay us.",
+        "",
+        "Small operators often take a few days, especially in season.",
+        "",
+        "If you didn't ask for this, ignore this mail and nothing happens. The "
+        "link stops working after a day.",
         "",
         "--",
-        "World66 — a free travel guide. We take no commission on anything you book.",
+        "World66 — a free travel guide. No commission, no paid placement.",
     ]
     return "Confirm your enquiry — World66 concierge", "\n".join(lines)
 

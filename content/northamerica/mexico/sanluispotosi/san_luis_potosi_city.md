@@ -1,0 +1,23 @@
+---
+done:
+  location_cleanup: 2026-04-06
+  location_enrich: '2026-05-21'
+latitude: 22.1565
+loc_type: city
+longitude: -100.9855
+score: 6.265
+snippet: Central Mexican colonial city founded as a mining settlement, with baroque
+  churches and grand plazas.
+title: San Luis Potosí
+type: location
+heritage: 7.402
+vibrancy: 5.078
+nature: 4.48
+off_the_beaten_track: 2.349
+---
+
+San Luis Potosí is a colonial city of about a million people in central Mexico, capital of the state of the same name. Founded in the late 1500s as a silver and gold mining settlement at 1,877 metres elevation, it was one of the wealthiest cities in New Spain and its centre shows it: grand plazas, baroque churches of real ambition, and wide pedestrian streets lined with 18th-century buildings.
+
+The city has a serious historical pedigree. President Benito Juárez made it the national capital twice during the French intervention, and Francisco Madero wrote the Plan de San Luis here — the call to arms that launched the Revolution of 1910 — while imprisoned by the dictator Porfirio Díaz. The Mexican national anthem was first completed here in 1854.
+
+The [Plaza de Armas](/northamerica/mexico/sanluispotosi/san_luis_potosi_city/plaza_de_armas) is the centre of the colonial zone, flanked by the cathedral and the Government Palace. The [Templo del Carmen](/northamerica/mexico/sanluispotosi/san_luis_potosi_city/templo_del_carmen), a few blocks away, has one of the most elaborate Churrigueresque facades in Mexico. The [Mercado Hidalgo](/northamerica/mexico/sanluispotosi/san_luis_potosi_city/mercado_hidalgo) sells the city's famous handcraft: the Santa María rebozo, a shawl woven so fine it can pass through a wedding ring. The city is also known for its enchiladas potosinas (a local red chile and cheese variety) and for queso de tuna, a candy made from the prickly pear cactus.

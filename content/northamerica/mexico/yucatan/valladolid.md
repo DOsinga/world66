@@ -20,7 +20,7 @@ nature: 4.163
 off_the_beaten_track: 2.519
 ---
 
-Valladolid is a small colonial city halfway between [Mérida](/northamerica/mexico/merida) and [Cancún](/northamerica/mexico/cancun), and one of the most pleasant stops on the [Yucatán](/northamerica/mexico/yucatan) peninsula. The pace is slow, the architecture is handsome, and the town has not yet been overwhelmed by tourism.
+Valladolid is a small colonial city halfway between [Mérida](/northamerica/mexico/yucatan/merida) and [Cancún](/northamerica/mexico/quintanaroo/cancun), and one of the most pleasant stops on the [Yucatán](/northamerica/mexico/yucatan) peninsula. The pace is slow, the architecture is handsome, and the town has not yet been overwhelmed by tourism.
 
 The [main plaza](/northamerica/mexico/yucatan/valladolid/parque_principal) is the heart of the city — shaded, sociable, and ringed by colonial buildings including the [Cathedral of San Gervasio](/northamerica/mexico/yucatan/valladolid/cathedral_san_gervasio). Mayan women sell hand-embroidered huipiles and blouses on the benches opposite the church. The shops **Artesanías del Parque** and **Ek Balam** on the square carry unusual handcrafts at good prices.
 

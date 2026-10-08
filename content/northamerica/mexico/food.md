@@ -23,6 +23,6 @@ Mexican food is a UNESCO Intangible Cultural Heritage, and for good reason: it i
 
 Mezcal and tequila are both made from agave; tequila is a specific type of mezcal produced from blue agave in a defined region of Jalisco. Oaxaca is the heart of artisanal mezcal production — small distilleries (palenques) use traditional methods and native agave varieties. Mezcal is meant to be sipped, not slammed.
 
-Mexican beer is ubiquitous. Local lagers like Corona, Modelo, and Pacifico are what the country drinks with food. Craft beer has grown dramatically in the past decade, with breweries in [Guadalajara](/northamerica/mexico/guadalajara), Mexico City, and [Tijuana](/northamerica/mexico/tijuana) leading the scene.
+Mexican beer is ubiquitous. Local lagers like Corona, Modelo, and Pacifico are what the country drinks with food. Craft beer has grown dramatically in the past decade, with breweries in [Guadalajara](/northamerica/mexico/jalisco/guadalajara), Mexico City, and [Tijuana](/northamerica/mexico/bajacalifornia/tijuana) leading the scene.
 
 Agua fresca — fresh fruit juice diluted with water and sweetened lightly — is the everyday cold drink. Horchata (rice milk with cinnamon) and jamaica (hibiscus flower) are the classic flavors. Café de olla (coffee brewed with cinnamon and piloncillo in a clay pot) is how the country takes its coffee in traditional settings.

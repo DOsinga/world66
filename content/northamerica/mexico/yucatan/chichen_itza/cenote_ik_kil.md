@@ -1,21 +1,21 @@
 ---
+heritage: 6.854
 image: cenote_ik_kil.jpg
 image_attribution: Shinya Suzuki
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Cenote_Ik_Kil,_Yucatan,_Dec_2011_-_01.jpg
 latitude: 20.6831
-loc_type: feature
 longitude: -88.5469
+nature: 4.867
+off_the_beaten_track: 2.927
 score: 5.693
 snippet: Spectacular open-roof cenote near Chichén Itzá
 tags:
-- nature
+- things_to_do
+- swimming
 title: Cenote Ik Kil
-type: location
-heritage: 6.854
+type: poi
 vibrancy: 1.717
-nature: 4.867
-off_the_beaten_track: 2.927
 ---
 
 The most photographed cenote in the Yucatán — a 26-metre-deep circular sinkhole with sheer limestone walls, hanging vines reaching down to the surface, and an open roof letting columns of sunlight pierce the green water. A spiral stone staircase carved into the rock leads down to the swimming platform.

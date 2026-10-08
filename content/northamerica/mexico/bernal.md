@@ -26,4 +26,4 @@ Bernal is a small village in Querétaro that lives in the shadow of the Peña de
 
 The village itself is compact and easy to enjoy on foot. Around the main square are the Templo de San Sebastián, small shops selling cajeta and gorditas, and the Museo de la Máscara, which ties the local mask tradition to the ceremonies around the Peña. Bernal can feel busy on weekends, but early morning and late afternoon still have a simple highland calm.
 
-This is a strong day trip from [Querétaro](/northamerica/mexico/queretaro), [San Juan del Río](/northamerica/mexico/sanjuandelro), or the wine towns around Ezequiel Montes. Come for the rock, stay long enough to wander the centre, and leave before the tour buses turn the plaza into a queue for snacks.
+This is a strong day trip from [Querétaro](/northamerica/mexico/queretaro), [San Juan del Río](/northamerica/mexico/san_juan_del_rio), or the wine towns around Ezequiel Montes. Come for the rock, stay long enough to wander the centre, and leave before the tour buses turn the plaza into a queue for snacks.

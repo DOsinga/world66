@@ -16,7 +16,7 @@ nature: 5.48
 off_the_beaten_track: 3.219
 ---
 
-Champotón sits where the Champotón River meets the Gulf of Mexico, about an hour southwest of [Campeche](/northamerica/mexico/yucatan/campeche_campeche). It is a fishing town first and a sightseeing town second, but that is part of its appeal. The waterfront is low-key, the seafood is serious, and the river mouth gives the town a softer setting than the highway approach suggests.
+Champotón sits where the Champotón River meets the Gulf of Mexico, about an hour southwest of [Campeche](/northamerica/mexico/yucatan/campeche). It is a fishing town first and a sightseeing town second, but that is part of its appeal. The waterfront is low-key, the seafood is serious, and the river mouth gives the town a softer setting than the highway approach suggests.
 
 The town's history is older and sharper than its calm surface. Maya people lived here long before the Spanish arrived, and in 1517 local forces drove off Francisco Hernández de Córdoba's expedition in a battle remembered as the Mala Pelea. Later, colonial Campeche's pirate problem reached this coast too, leaving small defensive traces such as the [Baluarte de San Antonio](/northamerica/mexico/yucatan/champoton/baluarte_de_san_antonio).
 

@@ -1,13 +1,19 @@
 ---
 title: Isla Verde
 type: neighbourhood
-latitude: 18.4423
-longitude: -66.0207
+latitude: 18.4494
+longitude: -66.0017
+image: isla_verde.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Shoreline_of_Isla_Verde,_Carolina,_Puerto_Rico.jpg
+image_license: CC0 1.0
+image_attribution: Josue Armando Serrano
 tags:
   - things_to_do
   - neighbourhood
 ---
 
-Isla Verde is the high-rise beach strip east of Condado, technically in the municipality of Carolina but functionally part of San Juan. It runs along the longest and widest beach in the city — about two and a half kilometres of clean white sand — and is fronted by the bigger resort hotels and casinos (the El San Juan, the Ritz-Carlton, the Marriott).
+The easternmost beach strip of the San Juan metropolitan area, technically in Carolina rather than San Juan proper, and the one immediately beside the airport — planes come in low over the water, which some people mind and others rather enjoy.
 
-For most travellers, Isla Verde is where you stay if the beach is the main event. The airport is fifteen minutes away, Old San Juan is twenty-five. The neighbourhood itself is less walkable than Condado — restaurants and bars are spread out on either side of the four-lane Avenida Isla Verde — but the beach is consistently the best in the metro area.
+The beach is the best in the metro area: wider than Condado, with calmer water and enough room that it never feels like the city. The neighbourhood behind it is more spread out and less walkable, organised around Avenida Isla Verde and the resorts along it, so getting between places generally means a car or a short taxi.
+
+Beyond the resort strip, Piñones begins a few minutes east: a stretch of coast road through mangroves lined with open-air kiosks frying *alcapurrias* and *bacalaítos* over charcoal, which is where locals go at weekends and is better eating than anything on the avenue.

@@ -14,6 +14,10 @@ heritage: 4.476
 vibrancy: 2.337
 nature: 7.84
 off_the_beaten_track: 4.766
+image: livingston.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Harbour_of_Livingston_Guatemala.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Padraic
 ---
 
 Livingston is unlike anywhere else in Guatemala. A Garífuna town on the Caribbean coast, it is accessible only by boat — there are no roads in or out — which gives it a pleasantly stranded, tropical atmosphere. The Garífuna are descendants of Afro-Caribbean and indigenous Arawak people, and their culture, language, music, and food are distinct from the rest of the country.

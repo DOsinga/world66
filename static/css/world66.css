@@ -4305,6 +4305,7 @@ a.region-group-title:hover {
 .svc[data-activity="adventure_park"] { --act: #c0612b; }
 .svc[data-activity="winery"]       { --act: #7d3f52; }
 
+.svc[data-activity="camping"]      { --act: #6b7f4e; }
 .svc-panel {
   margin-top: 18px;
 }
@@ -4586,6 +4587,7 @@ a.region-group-title:hover {
 .svc-filter-btn[data-activity="adventure_park"] { --act: #c0612b; }
 .svc-filter-btn[data-activity="winery"]       { --act: #7d3f52; }
 .svc-filter-btn:hover {
+.svc-filter-btn[data-activity="camping"]      { --act: #6b7f4e; }
   background: color-mix(in srgb, var(--act) 20%, var(--paper));
 }
 

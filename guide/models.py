@@ -228,6 +228,7 @@ class Page:
         "kayaking": "Kayaking",
         "canopy_tour": "Canopy tours",
         "stargazing": "Stargazing",
+        "camping": "Camping",
         "horse_riding": "Horse riding",
         "adventure_park": "Adventure parks",
         "winery": "Wine tasting",

@@ -1,6 +1,7 @@
 ---
 address: Zeca Moraes 00, Palmas
 commercial: true
+email: contato@motajalapao.com.br
 latitude: -10.3817
 longitude: -46.6592
 outreach_code: VWPLBP

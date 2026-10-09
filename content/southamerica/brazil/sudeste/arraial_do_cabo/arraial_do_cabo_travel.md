@@ -1,6 +1,7 @@
 ---
 address: Rua Joaquim Nabuco 4, Arraial do Cabo
 commercial: true
+email: arraialdocabotravel@gmail.com
 latitude: -22.9705
 longitude: -42.0222
 outreach_code: 2D8W75

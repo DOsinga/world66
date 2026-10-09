@@ -7,7 +7,7 @@ image_attribution: Elizabeth Albert
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Belize_Barrier_Reef,_from_Ambergris_Caye.jpg
 latitude: 17.9248
-loc_type: city
+loc_type: island
 longitude: -87.9714
 score: 7.203
 snippet: Belize's largest caye, centred on San Pedro and reef access at Hol Chan Marine

@@ -1,6 +1,7 @@
 ---
 address: Tv. Ressacada 123, Florianópolis
 commercial: true
+email: contato@localtour.com.br
 latitude: -27.6663
 longitude: -48.5353
 outreach_code: LC6MLW

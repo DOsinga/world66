@@ -1,6 +1,7 @@
 ---
 address: Playa Guiones, Nosara
 commercial: true
+email: nosarasurfacademy@gmail.com
 latitude: 9.978366
 longitude: -85.6279
 outreach_code: 2LRBJC

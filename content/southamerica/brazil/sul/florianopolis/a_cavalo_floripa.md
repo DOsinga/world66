@@ -1,6 +1,7 @@
 ---
 address: Joao Gualberto Soares 3117 3117 - Haras Vermelho, Florianópolis
 commercial: true
+email: acavalofloripa@gmail.com
 latitude: -27.5973
 longitude: -48.5496
 outreach_code: X9NCXD

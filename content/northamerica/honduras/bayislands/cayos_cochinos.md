@@ -6,7 +6,7 @@ image: cayos_cochinos.jpg
 image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Cayos_Cochinos_Lighthouse_view.jpg
 latitude: 15.96
-loc_type: city
+loc_type: island
 longitude: -86.48
 score: 5.612
 snippet: Honduran Caribbean archipelago of coral cays, Garifuna village life, and

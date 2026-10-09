@@ -7,7 +7,7 @@ image_attribution: gian luca bucci
 image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Cayo_Largo_-_Playa_Sirena_-_panoramio.jpg
 latitude: 21.6206
-loc_type: city
+loc_type: island
 longitude: -81.5461
 score: 5.471
 snippet: Small Cuban resort island off the southern coast, defined by white beaches,

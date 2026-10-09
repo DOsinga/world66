@@ -15,6 +15,10 @@ heritage: 4.547
 vibrancy: 4.759
 nature: 5.891
 off_the_beaten_track: 4.786
+image: sanpedrosula.jpg
+image_source: https://commons.wikimedia.org/wiki/File:San_Pedro_Sula_2m2.jpg
+image_license: CC BY-SA 4.0
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:JVC3ETA" title="User:JVC3ETA">JVC3ETA</a>
 ---
 
 San Pedro Sula is Honduras's second city and its industrial and commercial capital, a flat, hot city in the Sula valley near the north coast. It is the main gateway for travelers heading to [Copán](/northamerica/honduras/copan) (about three hours by bus to the west), the north coast, and the Bay Islands.

@@ -1,6 +1,7 @@
 ---
 address: Puntarenas
 commercial: true
+email: reservas@bayislandcruises.com
 latitude: 9.9762
 longitude: -84.8383
 outreach_code: D6GDRP

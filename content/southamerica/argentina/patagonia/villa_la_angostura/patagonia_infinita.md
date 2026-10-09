@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: patagoniainfinita@gmail.com
 latitude: -40.7619
 longitude: -71.6463
 outreach_code: 3MFDF8

@@ -1,6 +1,7 @@
 ---
 address: Rua da Gameleira 46 Pipa, Tibau do Sul
 commercial: true
+email: pipapasseios@gmail.com
 latitude: -6.2349
 longitude: -35.0583
 outreach_code: TRLWZH

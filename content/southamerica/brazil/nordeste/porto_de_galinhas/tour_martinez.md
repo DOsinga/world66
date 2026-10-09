@@ -1,6 +1,7 @@
 ---
 address: Rua Merepe 3, Ipojuca
 commercial: true
+email: contato@passeioemportodegalinhas.com.br
 latitude: -8.5042
 longitude: -35.0011
 outreach_code: GR5NJJ

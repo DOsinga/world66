@@ -6,7 +6,7 @@ image: cayecaulker.jpg
 image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Belize_Caye_Caulker-221.jpg
 latitude: 17.7456
-loc_type: city
+loc_type: island
 longitude: -88.0309
 score: 5.931
 snippet: Small Belizean coral island with no cars, budget guesthouses, and reef trips

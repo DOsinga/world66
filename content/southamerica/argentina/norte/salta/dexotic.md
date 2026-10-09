@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: info@dexotic.com
 latitude: -24.7859
 longitude: -65.4116
 outreach_code: 4C9YP8

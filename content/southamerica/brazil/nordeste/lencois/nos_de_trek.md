@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: nosdetrek@gmail.com
 latitude: -12.5615
 longitude: -41.3895
 outreach_code: 993DXS

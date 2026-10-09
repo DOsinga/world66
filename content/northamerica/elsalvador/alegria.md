@@ -14,6 +14,10 @@ heritage: 2.357
 vibrancy: 3.22
 nature: 6.425
 off_the_beaten_track: 4.535
+image: alegria.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Alegr%C3%ADa,_El_Salvador,_Iglesia_(12-2010)_-_panoramio.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Martin Haeusler
 ---
 
 Alegría sits high in eastern El Salvador, in the coffee country around Tecapa volcano. The town is small, cool by Salvadoran standards, and known for flowers, plant nurseries, and the green crater lake just above it.

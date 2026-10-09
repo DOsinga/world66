@@ -24,7 +24,7 @@ nature: 5.153
 off_the_beaten_track: 3.967
 ---
 
-Tamuín is a small town in the Huasteca Potosina, east of Ciudad Valles and close to the Tampaón River. The town itself is plain and low-key, but it sits beside one of the most important Huastec archaeological landscapes in Mexico.
+Tamuín is a small town in the Huasteca Potosina, east of [Ciudad Valles](/northamerica/mexico/sanluispotosi/ciudad_valles) and close to the Tampaón River. The town itself is plain and low-key, but it sits beside one of the most important Huastec archaeological landscapes in Mexico.
 
 The reason to come is the combination of [Tamtoc](/northamerica/mexico/sanluispotosi/tamuin/tamtoc), [Tamohí](/northamerica/mexico/sanluispotosi/tamuin/tamohi), and the warm spring country around [Taninul](/northamerica/mexico/sanluispotosi/tamuin/taninul). These are not polished mass-tourism sights. They are quiet, hot, and spread out, but they give a rare look at the Huastec world beyond the better-known waterfalls of the region.
 

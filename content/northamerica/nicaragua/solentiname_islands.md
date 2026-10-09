@@ -1,10 +1,14 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: solentiname_islands.jpg
+image_attribution: Óscar Badillo Pérez
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Altar_de_la_iglesia_de_Santa_Mar%C3%ADa_de_Solentiname.jpg
 latitude: 11.2
-loc_type: region
+loc_type: feature
 longitude: -84.7833
-score: 0.46
+score: 5.6
 snippet: Remote Lake Nicaragua archipelago known for Ernesto Cardenal's artist community
   and painted balsa crafts
 title: Solentiname Islands

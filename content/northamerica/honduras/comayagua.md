@@ -14,6 +14,10 @@ heritage: 4.851
 vibrancy: 3.708
 nature: 5.728
 off_the_beaten_track: 4.478
+image: comayagua.jpg
+image_source: https://commons.wikimedia.org/wiki/File:CATEDRAL_DE_COMAYAGUA_circa_2008.JPG
+image_license: CC BY-SA 4.0
+image_attribution: Montebrujo1
 ---
 
 Comayagua is the former capital of Honduras, founded in 1537 and the seat of colonial government for more than 300 years. After being heavily damaged by fire during the civil war of 1873, the capital was moved to Tegucigalpa — and Comayagua has been relatively unchanged ever since.

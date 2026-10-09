@@ -25,6 +25,7 @@ Checks:
   broken_link              markdown link to /<path> doesn't resolve  [report]
   bloglist_entries         type=bloglist blogs: entry is malformed    [report]
   bloglist_contacts        featured blog missing from outreach file   [report]
+  pick_entries             picks: entry malformed or provider missing [report]
   commercial_poi           commercial: true POI missing contact/tags  [report]
   activity_providers       activities providers: path doesn't resolve  [report]
 
@@ -676,6 +677,69 @@ def check_bloglist_entries(pages: list[Page]) -> list[Issue]:
     return issues
 
 
+def _sibling_blog_urls(path: Path) -> set[str]:
+    """Every blog url named by a type: bloglist page in the same directory."""
+    urls = set()
+    for sib in path.parent.glob("*.md"):
+        try:
+            meta = frontmatter.load(sib).metadata
+        except Exception:
+            continue
+        if meta.get("type") == "bloglist":
+            urls |= {str(b.get("url") or "").strip() for b in meta.get("blogs") or [] if isinstance(b, dict)}
+    return urls
+
+
+def check_pick_entries(pages: list[Page]) -> list[Issue]:
+    """A pick without a quote or an author renders as nothing, one naming a
+    provider page that does not exist loses the link back that is the reason a
+    local business would write one, and one crediting a blog must credit a blog
+    the place actually lists. Catch all three here."""
+    issues = []
+    seen_blogs = {}
+    for p in pages:
+        picks = p.meta.get("picks")
+        if picks is None:
+            continue
+        if not isinstance(picks, list) or not picks:
+            issues.append(Issue(path=p.path, check="pick_entries",
+                                message="picks: is present but not a non-empty list"))
+            continue
+        for i, entry in enumerate(picks, 1):
+            if not isinstance(entry, dict):
+                issues.append(Issue(path=p.path, check="pick_entries",
+                                    message=f"picks[{i}] is not a by/quote mapping"))
+                continue
+            blog = str(entry.get("blog") or "").strip()
+            required = ("quote",) if blog else ("by", "quote")
+            for field_name in required:
+                if not str(entry.get(field_name) or "").strip():
+                    issues.append(Issue(path=p.path, check="pick_entries",
+                                        message=f"picks[{i}] missing {field_name}"))
+            if blog and blog not in _sibling_blog_urls(p.path):
+                issues.append(Issue(path=p.path, check="pick_entries",
+                                    message=f"picks[{i}] blog {blog!r} is not on a bloglist beside this page"))
+            if blog:
+                seen_blogs.setdefault((p.path.parent, blog), []).append(p.path)
+            prov = str(entry.get("provider") or "").strip().strip("/")
+            if prov and not (CONTENT_DIR / f"{prov}.md").is_file():
+                issues.append(Issue(path=p.path, check="pick_entries",
+                                    message=f"picks[{i}] provider {prov!r} does not resolve"))
+            # Only the attribution is checked: CI lints a markdown-only checkout,
+            # so the image file itself is not there to look for.
+            if str(entry.get("image") or "").strip():
+                for field_name in ("image_source", "image_license"):
+                    if not str(entry.get(field_name) or "").strip():
+                        issues.append(Issue(path=p.path, check="pick_entries",
+                                            message=f"picks[{i}] has an image but no {field_name}"))
+    # A city's picks are a range of voices: one blog, one pick.
+    for (_, blog), paths in seen_blogs.items():
+        for path in paths[1:]:
+            issues.append(Issue(path=path, check="pick_entries",
+                                message=f"blog {blog!r} already has a pick in this place ({paths[0].stem})"))
+    return issues
+
+
 def check_bloglist_contacts(pages: list[Page]) -> list[Issue]:
     """Every featured blog needs a row in the outreach file, so the people
     whose work we feature can actually be told about it."""
@@ -795,6 +859,7 @@ CHECKS = [
     check_broken_links,
     check_bloglist_entries,
     check_bloglist_contacts,
+    check_pick_entries,
     check_commercial_poi,
     check_activity_providers,
 ]

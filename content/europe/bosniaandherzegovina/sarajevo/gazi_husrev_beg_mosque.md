@@ -18,6 +18,14 @@ tags:
 - blogs_worth_reading_on_sarajevo
 title: Gazi Husrev-beg Mosque
 type: poi
+image: gazi_husrev_beg_mosque.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Gazi_Husrev-beg_Mosque_in_Sarajevo.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Adam Harangozó
+picks:
+- blog: https://www.indietraveller.co/sarajevo-travel-guide/
+  quote: Within the bazaar, you can find the Gazi Husrev-Beg mosque, which is the
+    most important Islamic place of worship in the entire country.
 ---
 
 The Gazi Husrev-beg Mosque (Begova džamija, "the Bey's Mosque") is the most important Ottoman building in Bosnia and Herzegovina, and one of the finest examples of Ottoman architecture in the Balkans. Built in 1531 by the Ottoman governor Gazi Husrev-beg — the same man who founded Baščaršija — it has been the spiritual centre of Sarajevo's Muslim community for nearly 500 years.

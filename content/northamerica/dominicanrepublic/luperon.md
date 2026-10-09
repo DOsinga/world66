@@ -17,6 +17,11 @@ heritage: 1.845
 vibrancy: 1.306
 nature: 6.993
 off_the_beaten_track: 5.226
+image: luperon.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Playa_grande_en_luperon_-_panoramio.jpg
+image_license: CC BY-SA 3.0
+image_attribution: <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161028021324/http://www.panoramio.com/user/2075122?with_photo_id=23722442">Luis
+  A. González Hde…</a>
 ---
 
 Luperon is a small fishing town on the north coast of the Dominican Republic, about 25 kilometres west of Puerto Plata. It is best known among sailors for its deep, protected natural harbour — one of the safest hurricane holes in the Caribbean — which attracts long-term cruisers from around the world. The rest of tourism largely passes it by, which is precisely what makes it worth visiting.

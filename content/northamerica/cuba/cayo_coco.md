@@ -5,7 +5,7 @@ image: cayo_coco.jpg
 image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Spiaggia_cayo_coco(cuba).jpg
 latitude: 22.506
-loc_type: region
+loc_type: island
 longitude: -78.464
 score: 0.62
 snippet: Cuban resort island of white beaches, mangrove lagoons, flamingos, and a

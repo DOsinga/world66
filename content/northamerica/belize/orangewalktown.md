@@ -14,6 +14,10 @@ heritage: 4.048
 vibrancy: 4.13
 nature: 5.865
 off_the_beaten_track: 4.106
+image: orangewalktown.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Main_square,_Orange_Walk_Town,_Belize.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Phinn
 ---
 
 Orange Walk is the main town in northern Belize, in the heart of sugar cane country. It's an agricultural and commercial hub rather than a tourist attraction, but it's the starting point for one of the more rewarding day trips in the country: the boat trip up the New River to Lamanai.

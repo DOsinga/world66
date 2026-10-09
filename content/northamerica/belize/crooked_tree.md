@@ -14,6 +14,10 @@ heritage: 3.303
 vibrancy: 2.258
 nature: 7.31
 off_the_beaten_track: 4.726
+image: crooked_tree.jpg
+image_source: https://commons.wikimedia.org/wiki/File:CROOKED_TREE_WILDLIFE_SANCTUARY_-_BELIZE.jpg
+image_license: CC BY-SA 3.0
+image_attribution: JERRYE AND ROY KLOTZ MD
 ---
 
 Crooked Tree is a lagoon village in northern Belize where the attraction is not the town grid but the water and birds around it. The village sits inside the [Crooked Tree Wildlife Sanctuary](/northamerica/belize/crooked_tree/crooked_tree_wildlife_sanctuary), one of the easiest places in the country to see wetland birdlife without committing to a full jungle expedition.

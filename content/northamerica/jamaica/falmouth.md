@@ -14,6 +14,10 @@ heritage: 3.447
 vibrancy: 4.468
 nature: 6.309
 off_the_beaten_track: 1.887
+image: falmouth.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Falmouth,_Jamaica_(15409350008).jpg
+image_license: CC BY 2.0
+image_attribution: Jose A. Perez from Bayamon, Puerto Rico
 ---
 
 Falmouth (pronounced "Fal-mutt" — the h is silent) is a small port town on the north coast, between [Montego Bay](/northamerica/jamaica/montegobay) and Ocho Rios. It has the best-preserved Georgian architecture in Jamaica: the town was built rapidly during a brief sugar boom in the early 19th century and then largely forgotten, leaving it with a coherent ensemble of colonial buildings that other Jamaican towns have long since demolished or obscured.

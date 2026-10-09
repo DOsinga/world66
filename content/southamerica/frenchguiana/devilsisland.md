@@ -3,17 +3,30 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-06-03'
 latitude: 5.289
-loc_type: city
+loc_type: island
 longitude: -52.584
 score: 5.749
-snippet: Former penal island off French Guiana, part of the Iles du Salut prison archipelago.
-title: Devil's Island
+snippet: Three islands off Kourou that held France's most infamous penal colony, including
+  Devil's Island
+title: Îles du Salut
 type: location
 heritage: 3.391
 vibrancy: 1.324
 nature: 6.867
 off_the_beaten_track: 6.696
+image: devilsisland.jpg
+image_source: https://commons.wikimedia.org/wiki/File:%C3%8Ele_du_Diable_Dreyfus.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Nicolas Richoffer
 ---
+
+The Salvation Islands — three small volcanic outcrops roughly 14 km north of Kourou — are among the most visited sites in French Guiana, and for good reason. They were the heart of France's penal colony system from 1852 to 1953, and the ruins that remain are atmospheric enough to justify the ferry crossing on their own. Add the wildlife (howler monkeys, agoutis, sea turtles nesting on the beaches) and the archipelago becomes genuinely exceptional.
+
+The main island is **Île Royale**, where the ferry docks. This was the administrative centre of the penal colony — there's a restored chapel, a former warder's mess that now operates as a hotel and restaurant, and various prison structures slowly being reclaimed by the jungle. The island is large enough that you can spend several hours walking the trails. **Île Saint-Joseph** is a short pirogue ride away and contains the most evocative ruin on the archipelago: the solitary confinement wing, the *réclusion*, where cells sit open to the sky in near-total silence, vines threading through the bars. It is a genuinely unsettling place.
+
+**Île du Diable** (Devil's Island proper) is visible from Île Royale but not open to visitors — access is permanently restricted. The island's association with Alfred Dreyfus and Henri Charrière's *Papillon* has made it famous far beyond its size.
+
+Boats depart from the dock at Vieux Bourg in Kourou, typically in the morning. The crossing takes about 45 minutes. Bring water, sun protection, and cash — the on-island restaurant accepts only euros, and there are no ATMs on the islands.
 
 Just off the coast of [Kourou](/southamerica/frenchguiana/kourou) are three islands: Ile Royale, Ile Saint-Joseph, and Ile du Diable (Devil's Island). Together they are known as the Iles du Salut (Salvation Islands).
 

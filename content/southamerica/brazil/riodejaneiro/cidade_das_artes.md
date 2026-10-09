@@ -2,7 +2,8 @@
 title: Cidade das Artes
 type: poi
 score: 6.8
-snippet: Monumental concert hall and cultural complex raised on columns in the heart of Barra
+snippet: Monumental concert hall and cultural complex raised on columns in the heart
+  of Barra
 latitude: -22.9990757
 longitude: -43.3658289
 tags:
@@ -11,6 +12,6 @@ tags:
 - culture
 ---
 
-Cidade das Artes is Barra da Tijuca's great cultural statement: a vast concrete complex lifted off the ground on columns, designed by French architect Christian de Portzamparc to look out over the flat sprawl of the district from a raised terrace. It is home to the Brazilian Symphony Orchestra and built around a 1,800-seat concert hall with adjustable acoustics, alongside a chamber-music room, cinemas, and gallery spaces.
+Cidade das Artes (City of Arts) is a major performing arts complex in Barra da Tijuca, built on elevated platforms over the Avenida das Américas. Designed by French-Brazilian architect Christian de Portzamparc and opened in 2013, it is the home of the Brazilian Symphony Orchestra and the largest concert hall in South America.
 
-For visitors it is as much about the bold Brutalist architecture and the elevated public plaza as the programme inside. Check the schedule for classical concerts, dance, and film — and if nothing is on, the building itself rewards a look as the cultural anchor of Rio's modern western zone.
+The building is visually striking — a series of white horizontal forms suspended above a public plaza — and worth seeing even if you are not attending a concert. The performance programme covers classical music, jazz, and contemporary arts. Check the schedule before your visit; ticket prices are reasonable by international standards and the acoustics are world-class.

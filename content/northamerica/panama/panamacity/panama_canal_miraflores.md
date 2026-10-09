@@ -1,10 +1,15 @@
 ---
+address: Miraflores, Panamá, Panama
 latitude: 8.9988
 longitude: -79.5913
-score: 9.1
+score: 9.3
+snippet: Watch container ships lifted sixteen metres at the Pacific end of the canal
+sources:
+- https://en.wikipedia.org/wiki/Miraflores_locks
 tags:
 - things_to_do
-title: Panama Canal — Miraflores Locks
+- sight
+title: Miraflores Locks
 type: poi
 ---
 
@@ -15,3 +20,5 @@ The visitor centre has a well-organised museum on four floors covering the Frenc
 The original locks — Miraflores and Gatún — handle ships up to the old "Panamax" dimensions. Since 2016 the new **Cocolí Locks** on the Pacific side and the corresponding **Agua Clara Locks** on the Atlantic side have handled much larger Neopanamax vessels. The Cocolí Locks are a short drive from Miraflores if you want to see the bigger ships; the viewing facilities are less polished but the ships are more impressive.
 
 Miraflores is about 10km from central Panama City; taxi or Uber takes around twenty minutes outside rush hour.
+
+The clearance between hull and lock wall is sometimes under a metre, which is why the pilots earn what they earn. Ships pass at all hours; the canal authority publishes a daily transit schedule, and timing your visit by it is the difference between watching three ships and watching none. Entry fee applies.

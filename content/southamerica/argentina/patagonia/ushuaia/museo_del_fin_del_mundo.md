@@ -1,13 +1,17 @@
 ---
-title: "Museo del Fin del Mundo"
+title: Museo del Fin del Mundo
 type: poi
 tags:
-  - things_to_do
-  - museum
+- things_to_do
+- museum
 latitude: -54.8063
-longitude: -68.3100
-story: >
-  The museum occupies the building that served as Ushuaia's former Bank of the Nation branch. The original vault still stands, now housing part of the natural history collection — an unexpected juxtaposition of financial architecture and taxidermied Fuegian birds.
+longitude: -68.31
+story: 'The museum occupies the building that served as Ushuaia''s former Bank of
+  the Nation branch. The original vault still stands, now housing part of the natural
+  history collection — an unexpected juxtaposition of financial architecture and taxidermied
+  Fuegian birds.
+
+  '
 score: 7.6
 ---
 

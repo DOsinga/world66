@@ -2,11 +2,9 @@
 done:
   country_cleanup: 2026-03-29
 image: bolivia.jpg
-image_attribution: Martin St-Amant (<a href="//commons.wikimedia.org/wiki/User:S23678"
-  title="User:S23678">S23678</a>); derivative work (noise reduction to sky) by <a
-  href="//commons.wikimedia.org/wiki/User:Julia_W" title="User:Julia W">Julia W</a>
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Salar_de_Uyuni_Décembre_2007_-_Panorama_1_edit.jpg
+image_attribution: Diego Delso
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Salar_de_Uyuni,_Bolivia,_2016-02-04,_DD_44.JPG
 latitude: -17.05687
 loc_type: country
 longitude: -64.991229

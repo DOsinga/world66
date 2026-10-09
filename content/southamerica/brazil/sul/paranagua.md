@@ -1,0 +1,27 @@
+---
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-03'
+image: paranagu.jpg
+image_attribution: Rejane Sarmento
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Cidade_portu%C3%A1ria_de_ruas_estreitas_de_pedras_e_pr%C3%A9dios_inspirados_nas_constru%C3%A7%C3%B5es_luso-brasileiras.jpg
+latitude: -25.514882
+loc_type: city
+longitude: -48.522669
+score: 4.976
+title: Paranaguá
+type: location
+snippet: Brazilian port city below Curitiba, reached by a dramatic railway through
+  the Serra do Mar.
+heritage: 3.956
+vibrancy: 4.492
+nature: 5.542
+off_the_beaten_track: 2.505
+---
+
+For many people Paranaguá is just a port city, the end of the line from the bus and train from [Curitiba](/southamerica/brazil/sul/curitiba). But it is a scenic, laid-back place well worth more than a quick transfer. The train ride down from Curitiba through the Serra do Mar — the [Serra Verde Express](/southamerica/brazil/sul/paranagua/serra_verde_express) — is one of the most spectacular rail journeys in Brazil, and reason enough to make the trip.
+
+The [historic centre](/southamerica/brazil/sul/paranagua/centro_historico) has fine colonial architecture, colourful waterfront houses, and a handful of churches dating back to the 1700s — the [Igreja de Nossa Senhora do Rosário](/southamerica/brazil/sul/paranagua/igreja_do_rosario), the small Afro-Brazilian [Igreja de São Benedito](/southamerica/brazil/sul/paranagua/igreja_sao_benedito), and the [Igreja Matriz](/southamerica/brazil/sul/paranagua/igreja_matriz) up the hill. The [Museu de Arqueologia e Etnologia](/southamerica/brazil/sul/paranagua/museu_de_arqueologia), housed in a former Jesuit college, is small but rewarding. Along the waterfront you will find fishermen bringing in the catch of the day and simple restaurants serving fresh seafood — the barreado, a slow-cooked beef stew traditional to the Paraná coast, is the local speciality you should not miss; the [Mercado do Café](/southamerica/brazil/sul/paranagua/mercado_do_cafe) and [Danúbio Azul](/southamerica/brazil/sul/paranagua/danubio_azul) are the obvious places to try it.
+
+Paranaguá is also the jumping-off point for **Ilha do Mel**, a car-free island with good beaches and a lighthouse, reachable by boat from the terminal just outside town, and for the quieter [Ilha da Cotinga](/southamerica/brazil/sul/paranagua/cotinga_island) in the bay.

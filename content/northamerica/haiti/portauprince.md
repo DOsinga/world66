@@ -24,6 +24,10 @@ heritage: 4.52
 vibrancy: 5.338
 nature: 4.587
 off_the_beaten_track: 5.706
+image: portauprince.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bois_Verna,_Port-au-Prince,_Haiti_-_panoramio.jpg
+image_license: CC BY 3.0
+image_attribution: Yoni Rubin
 ---
 
 Port-au-Prince is Haiti's capital and by far its largest city, with well over two million people in the metropolitan area. Despite its size, much of it feels like an overgrown market town — low-slung buildings climbing steep hillsides, tap-taps threading through traffic, street vendors on every corner.

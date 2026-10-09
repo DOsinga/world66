@@ -1,74 +1,30 @@
 ---
-title: "Day Trips in San Miguel de Allende"
+title: Day Trips from San Miguel de Allende
 type: section
-address: "Prol. Pila Seca 21, San Miguel de Allende, Gto."
-email: "smashuttle@gmail.com"
-phone: "(011) (52) 415 15 4 71 46"
-url: "www.geocities.com"
 ---
 
-******
-**
+San Miguel sits in the middle of the Bajío, and almost everything worth seeing in the independence story is within ninety minutes. Buses leave from the Central de Autobuses on Canal; for the sanctuary, the hot springs and the pyramid, a shared taxi or a hired driver is easier than waiting for a rural bus.
 
-### Transport & Tours in San Miguel de Allende
+### [Sanctuary of Atotonilco](/northamerica/mexico/guanajuato/sanmigueldeallende/sanctuary_of_atotonilco)
 
-Provides day trips and private transportation to and from San Miguel de Allende.
+Fourteen kilometres out, and the single best half-day trip from town: an eighteenth-century pilgrimage church whose interior is painted wall to ceiling, a UNESCO site, and the place Hidalgo took the Virgin of Guadalupe banner from on his way to war.
 
-They provide recent model, ***authorized by federal tourism officce in Mexico***, insuranced and air conditioned vehicle all this will make you have a safe and comfortable trip.
+### [Dolores Hidalgo](/northamerica/mexico/guanajuato/doloreshidalgo)
 
-All services 'support' staff are fluent in English, and offer professional, discreet and most important of all "FRIENDLY SERVICE".
+Forty minutes north. The town where the Grito was shouted in 1810, now equally famous for Talavera tile workshops and for ice cream in flavours — avocado, mole, shrimp, beer — that sound like a dare and are not.
 
+### [Guanajuato city](/northamerica/mexico/guanajuato/guanajuato_city)
 
+Ninety minutes west, and a different kind of place entirely: a silver town folded into a ravine, with traffic running through tunnels underneath it and the Teatro Juárez, the Alhóndiga and the university stacked up the slopes. Long enough to be worth an overnight, but it can be done in a day.
 
-[[rate it]](/northamerica/mexico/guanajuato/sanmigueldeallende/day_trips/transport__tours)
+### Mineral de Pozos
 
-tel: (011) (52) 415 15 4 71 46
+An hour northeast in Guanajuato state: a mining town that emptied out after the Revolution and is slowly refilling with galleries and instrument makers. The roofless smelting ovens and the Santa Brígida hornos on the edge of town are the reason to come.
 
-url: [www.geocities.com](http://www.geocities.com/myridetosma/pt.html)
+### Cañada de la Virgen
 
-address: Prol. Pila Seca 21, San Miguel de Allende, Gto.
+A Otomí ceremonial complex about half an hour southwest, on a private ranch, so it can only be visited with the official guided walk that leaves from the site's visitor centre — no independent access. The main pyramid is aligned so that the sun lights the inner sanctum at the equinox.
 
-email: smashuttle@gmail.com
+### [Santiago de Querétaro](/northamerica/mexico/queretaro/santiago_de_queretaro)
 
-### AIRPORT TRANSPORTATION & TOURS IN SAN MIGUEL DE ALLENDE
-
-*JULIO TOURS* cordially invites you to take advantage of the many historical and interesting sights around San Miguel de Allende and its surrounding Towns.
-Your travel arrangements will be provided by *Julio Cesar Tovar* a highly regarded Tour Guide since 2000.
-I warranty a memorable experience as you will be learning about this wonderful and historic Town from Federally Licensed and Bilingual Guides while comfortably seated in the latest model vehicles.
-You will be picked up at your home at a designated hour (or you can decide on a different pickup point) and returned at the end of the day. Custom itineraries to Atotonilco, Dolores Hidalgo, Guanajuato and the surrounding wine country are all available.
-
-
-
-[[rate it]](/northamerica/mexico/guanajuato/sanmigueldeallende/day_trips/airport_transporta)
-
-tel: 011 52 415 103 3323
-
-url: [www.juliotours.com](http://www.juliotours.com)
-
-address: San Miguel de Allende, Guanajuato
-
-email: tovarjuliocesar@hotmail.com
-
-### Day trip
-
-**Airport Transfers / tours mexico ( san Miguel de allende)**
-
-****
-
-Whether you are travelling on
-business or just for pleasure, we specialise in providing professional
-reliable and comfortable airport taxi transfers whatever time of day
-you need to be there.
-
-What we do
-We specialise in providing professional reliable and comfortable airport private transfers 24 hours a day to
-Leon, Queretaro, Mexico City & Guadalajara Airports.
-
-We are able to offer
-24 hour service
-Same price whatever time of day
-Reliable, English-speaking drivers and clean, modern vehicles for both transfers and day excursions.
-
-
-
-[[rate it]](/northamerica/mexico/guanajuato/sanmigueldeallende/day_trips/day_trip)
+An hour southeast. A bigger, less decorated colonial centre with a genuine working city around it, a vast aqueduct on seventy-four arches, and the hill where Maximilian was shot.

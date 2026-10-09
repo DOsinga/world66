@@ -146,6 +146,68 @@ The `tools/` directory contains the scripts used to restore and enrich the conte
 | `apply_geocodes.py` | Write lat/lng into markdown frontmatter |
 | `download_images.py` | Download content images (separate pass) |
 
+## Deployment
+
+The live site runs on `world66.ai` under a systemd unit called `world66`, served by
+uvicorn from a unix socket.
+
+**Use the virtualenv inside the site directory**, not the one in the home directory —
+that belongs to another site on the same box and is on Python 3.9, which cannot run
+this codebase (`passport_app/scenarios.py` uses `list | None`, which needs 3.10+).
+
+```bash
+cd ~/sites/world66
+source venv3/bin/activate          # NOT ~/venv3
+```
+
+### Deploying a change
+
+```bash
+cd ~/sites/world66 && git pull origin
+venv3/bin/python manage.py collectstatic --noinput
+venv3/bin/python indexer.py                        # rebuilds search.db
+sudo systemctl restart world66
+```
+
+Calling `venv3/bin/python` directly rather than activating first is the more reliable
+form in scripts and cron, where `source` is often unavailable.
+
+**The restart is only needed for code changes** — anything touching `guide/`,
+`world66/`, `passport_app/` or the templates. Content under `content/` is read from
+disk per request, so a pull is enough. `collectstatic` matters when `static/` changed;
+`indexer.py` when content changed.
+
+### Checking on it
+
+```bash
+sudo systemctl status world66 --no-pager
+sudo journalctl -u world66 -n 50 --no-pager
+systemctl cat world66                  # unit definition, including the environment
+```
+
+Secrets (`DJANGO_SECRET_KEY`, `CARTO_BASEMAP_KEY`, `GITHUB_TOKEN`) live as `Environment=`
+lines in that unit, so `systemctl cat` prints them — redact before pasting anywhere.
+Edit them with `sudo systemctl edit --full world66`, then `daemon-reload` and restart.
+
+`DJANGO_SECRET_KEY` is worth treating carefully: besides sessions, `guide/views.py` uses
+`django.core.signing` with it, so anyone holding it can forge signed form tokens. Rotate
+with:
+
+```bash
+venv3/bin/python -c "from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())"
+```
+
+### Running the dev server on the box
+
+```bash
+venv3/bin/python manage.py runserver 8066
+```
+
+Useful for a quick check, but it is Django's development server — single-threaded and
+not meant to face traffic — and port 8066 may already be busy. Note that the first
+city-page request builds an index across the whole content tree and takes minutes;
+warm it with one request and wait rather than assuming it has hung.
+
 ## License
 
 All World66 content is licensed under [Creative Commons Attribution-ShareAlike 1.0](https://creativecommons.org/licenses/by-sa/1.0/).

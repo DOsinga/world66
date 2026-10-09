@@ -1,6 +1,7 @@
 ---
 address: 5 km from Tandil
 commercial: true
+email: info@valledelpicapedrero.com
 latitude: -37.3602
 longitude: -59.1585
 outreach_code: JJMT5C

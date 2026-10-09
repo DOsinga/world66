@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: reserva@naviokalypso.com.br
 latitude: -19.0006
 longitude: -57.6508
 outreach_code: XY93NV

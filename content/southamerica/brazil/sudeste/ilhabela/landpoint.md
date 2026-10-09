@@ -1,6 +1,7 @@
 ---
 address: Avenida Almirante Tamandaré, 741 Itaguassu, Ilhabela
 commercial: true
+email: landpointturismo@outlook.com
 latitude: -23.8035
 longitude: -45.3648
 outreach_code: QQFQY5

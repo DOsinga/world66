@@ -1,6 +1,7 @@
 ---
 address: Montezuma, Puntarenas
 commercial: true
+email: info@zumatours.net
 latitude: 9.6556
 longitude: -85.0688
 outreach_code: 5JMZC6

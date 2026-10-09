@@ -1,6 +1,7 @@
 ---
 address: Avenida Beira Mar Nr 52 Loja 03, Ipojuca
 commercial: true
+email: aquamarinamergulhos@hotmail.com
 latitude: -8.5042
 longitude: -35.0011
 outreach_code: VPMTYN

@@ -1,11 +1,11 @@
 code,provider,country,location,email,lang,channel,sent_at,bounced,replied_at,outcome,notes
-NPG7L2,Aconcagua Expeditions,Argentina,southamerica/argentina/cuyo/mendoza,,en,website,,,,,aconcaguaexpeditions.com
-DQ2SX6,Aconcagua Experiences,Argentina,southamerica/argentina/cuyo/mendoza,,en,website,,,,,aconcaguaexperiences.com.ar
-7FSHHS,ADN Travel,Argentina,southamerica/argentina/norte/jujuy,,en,website,,,,,adntravel.com.ar
-FGLZJJ,Alma Andina Turismo,Argentina,southamerica/argentina/norte/salta,,en,website,,,,,almaandinaturismo.com.ar
+NPG7L2,Aconcagua Expeditions,Argentina,southamerica/argentina/cuyo/mendoza,info@aconcaguaexpeditions.com,en,email,,,,,aconcaguaexpeditions.com
+DQ2SX6,Aconcagua Experiences,Argentina,southamerica/argentina/cuyo/mendoza,info@aconcaguaexperiences.com.ar,en,email,,,,,aconcaguaexperiences.com.ar
+7FSHHS,ADN Travel,Argentina,southamerica/argentina/norte/jujuy,infoadntravel@gmail.com,en,email,,,,,adntravel.com.ar
+FGLZJJ,Alma Andina Turismo,Argentina,southamerica/argentina/norte/salta,info@almaandinaturismo.com.ar,en,email,,,,,almaandinaturismo.com.ar
 S4NT6L,Amigos del Jaguar,Argentina,southamerica/argentina/litoral/puertoiguazu,,en,none,,,,,
 C3D2HX,Antartur,Argentina,southamerica/argentina/patagonia/ushuaia,reservas@antartur.tur.ar,en,email,,,,,
-S7T8TP,Argentina Rafting,Argentina,southamerica/argentina/cuyo/mendoza,,en,website,,,,,argentinarafting.com
+S7T8TP,Argentina Rafting,Argentina,southamerica/argentina/cuyo/mendoza,info@argentinarafting.com,en,email,,,,,argentinarafting.com
 QCJKDP,Arpón Trekking,Argentina,southamerica/argentina/patagonia/ushuaia,reservas@arpontrekking.com,en,email,,,,,
 NNH4Q2,Aswalek Expediciones,Argentina,southamerica/argentina/patagonia/ushuaia,info@aswalek.tur.ar,en,email,,,,,
 Y76TCT,Atypicos Tandil,Argentina,southamerica/argentina/pampas/tandil,,en,none,,,,,
@@ -14,74 +14,74 @@ NXSWDJ,BAF Travel,Argentina,southamerica/argentina/patagonia/calafate,calafate@b
 6VR92X,Best Tour Patagonia,Argentina,southamerica/argentina/patagonia/ushuaia,ventas@best-tourpatagonia.com,en,email,,,,,
 L6XN9X,Bottazzi,Argentina,southamerica/argentina/patagonia/puerto_piramides,ventas@titobottazzi.com,en,email,,,,,
 VVCKDS,Cabalgata El Indio Solitario,Argentina,southamerica/argentina/litoral/puertoiguazu,,en,none,,,,,
-HWJ3GC,Cabalgatas Bariloche,Argentina,southamerica/argentina/patagonia/bariloche,,en,website,,,,,cabalgatasbariloche.com.ar
+HWJ3GC,Cabalgatas Bariloche,Argentina,southamerica/argentina/patagonia/bariloche,info@cabalgatasbariloche.com.ar,en,email,,,,,cabalgatasbariloche.com.ar
 6HMJVG,Canal Fun & Nature,Argentina,southamerica/argentina/patagonia/ushuaia,info@canalfun.com,en,email,,,,,
-3N4KHY,Champaquí Adventure,Argentina,southamerica/argentina/cordobaprovince/villa_general_belgrano,,en,website,,,,,champaquiadventure.tur.ar
+3N4KHY,Champaquí Adventure,Argentina,southamerica/argentina/cordobaprovince/villa_general_belgrano,champaqui.adventure@gmail.com,en,email,,,,,champaquiadventure.tur.ar
 QJWXY6,Connect Patagonia,Argentina,southamerica/argentina/patagonia/elchalten,connectpatagonia.com@gmail.com,en,email,,,,,
 T7P9CG,Cruceros MarPatag,Argentina,southamerica/argentina/patagonia/calafate,glaciares@crucerosmarpatag.com,en,email,,,,,
 F4CG34,Cuenca del Plata,Argentina,southamerica/argentina/litoral/puertoiguazu,cuencadelplata@cuencadelplata.com,en,email,,,,,
-9HZWDV,De Altura Viajes y Turismo,Argentina,southamerica/argentina/norte/salta,,en,website,,,,,dealtura.com.ar
-4C9YP8,Dexotic,Argentina,southamerica/argentina/norte/salta,,en,website,,,,,dexotic.com
+9HZWDV,De Altura Viajes y Turismo,Argentina,southamerica/argentina/norte/salta,info@dealtura.com.ar,en,email,,,,,dealtura.com.ar
+4C9YP8,Dexotic,Argentina,southamerica/argentina/norte/salta,info@dexotic.com,en,email,,,,,dexotic.com
 7W2CLX,Fitz Roy Expediciones,Argentina,southamerica/argentina/patagonia/elchalten,contact@fitzroyexpediciones.com.ar,en,email,,,,,
-ZT65BR,Glaciar Turismo,Argentina,southamerica/argentina/patagonia/calafate,,en,website,,,,,glaciarturismo.com
+ZT65BR,Glaciar Turismo,Argentina,southamerica/argentina/patagonia/calafate,reservas@glaciarturismo.com,en,email,,,,,glaciarturismo.com
 43ZRDV,GPS Travel,Argentina,southamerica/argentina/patagonia/calafate,info@gps-travel.com.ar,en,email,,,,,
 HKSFXR,Hielo & Aventura,Argentina,southamerica/argentina/patagonia/calafate,,en,website,,,,,hieloyaventura.com
 Z8CS2Q,Hydrosport,Argentina,southamerica/argentina/patagonia/puerto_piramides,operaciones@hydrosport.com.ar,en,email,,,,,
 36SWKC,Iguazú Jungle,Argentina,southamerica/argentina/litoral/iguazufalls,info@iguazujungle.com,en,email,,,,,
 WW57RY,Iguazú Wasserfalle,Argentina,southamerica/argentina/litoral/puertoiguazu,marcela@iguazuwasserfalle.com,en,email,,,,,
 X7QC9Z,Info de Ushuaia,Argentina,southamerica/argentina/patagonia/ushuaia,,en,website,,,,,infodeushuaia.com
-XLXH6R,Inka Expediciones,Argentina,southamerica/argentina/cuyo/mendoza,,en,website,,,,,inkaexpediciones.com
+XLXH6R,Inka Expediciones,Argentina,southamerica/argentina/cuyo/mendoza,inka@inka.com.ar,en,email,,,,,inkaexpediciones.com
 4F3W4F,Isla de los Fuegos,Argentina,southamerica/argentina/patagonia/ushuaia,,en,website,,,,,isladelosfuegosushuaia.com
-XL25MJ,Lanín Turismo y Aventura,Argentina,southamerica/argentina/patagonia/sanmartindelosandes,,en,website,,,,,laninturismo.com
+XL25MJ,Lanín Turismo y Aventura,Argentina,southamerica/argentina/patagonia/sanmartindelosandes,laninturismo@smandes.com.ar,en,email,,,,,laninturismo.com
 VPF8R5,Lauke Tours,Argentina,southamerica/argentina/cuyo/mendoza,,en,website,,,,,mendozatours.com.ar
-HGT6SG,Madryn Buceo,Argentina,southamerica/argentina/patagonia/puertomadryn,,en,website,,,,,madrynbuceo.com
-26G786,MADS Experiences,Argentina,southamerica/argentina/cuyo/mendoza,,en,website,,,,,madsexperiences.com
+HGT6SG,Madryn Buceo,Argentina,southamerica/argentina/patagonia/puertomadryn,madrynbuceo@hotmail.com,en,email,,,,,madrynbuceo.com
+26G786,MADS Experiences,Argentina,southamerica/argentina/cuyo/mendoza,info@madsexperiences.com,en,email,,,,,madsexperiences.com
 8QG25L,Magellanic Nature Tours,Argentina,southamerica/argentina/patagonia/ushuaia,magellanicush@gmail.com,en,email,,,,,
 8VW8F3,Mendoza Mountain Tours,Argentina,southamerica/argentina/cuyo/mendoza,,en,website,,,,,mendozamountaintours.com
 Q3KBLT,Miras del Mar,Argentina,southamerica/argentina/patagonia/puertomadryn,,en,website,,,,,grupomirasdelmar.com
 FHV66C,Mundo Austral,Argentina,southamerica/argentina/patagonia/calafate,info@mundoaustral.com.ar,en,email,,,,,
 LT86X5,Onashaga,Argentina,southamerica/argentina/patagonia/ushuaia,info@onashagaexpeditions.com,en,email,,,,,
-VJHWPL,Pakkarin Viajes,Argentina,southamerica/argentina/norte/salta,,en,website,,,,,pakkarinviajes.com.ar
-3MFDF8,Patagonia Infinita,Argentina,southamerica/argentina/patagonia/villa_la_angostura,,en,website,,,,,patagoniainfinita.com
+VJHWPL,Pakkarin Viajes,Argentina,southamerica/argentina/norte/salta,pakkarinviajes@gmail.com,en,email,,,,,pakkarinviajes.com.ar
+3MFDF8,Patagonia Infinita,Argentina,southamerica/argentina/patagonia/villa_la_angostura,patagoniainfinita@gmail.com,en,email,,,,,patagoniainfinita.com
 5TRCJQ,Peke Sosa,Argentina,southamerica/argentina/patagonia/puerto_piramides,pekesosaballenas@gmail.com,en,email,,,,,
 V7H643,Perla Andina,Argentina,southamerica/argentina/patagonia/calafate,perlaandinareservas@gmail.com,en,email,,,,,
 JT7ZFR,Peñén,Argentina,southamerica/argentina/cordobaprovince/cordoba,penen.vyt@gmail.com,en,email,,,,,
-27325Y,Pingüinos Exp,Argentina,southamerica/argentina/patagonia/ushuaia,,en,website,,,,,pinguinosexp.com
-7MDS3G,Portal del Atuel,Argentina,southamerica/argentina/cuyo/san_rafael,,en,website,,,,,portaldelatuel.ar
-TDVZTJ,Potrerillos Explorer,Argentina,southamerica/argentina/cuyo/mendoza,,en,website,,,,,potrerillosexplorer.com
-39FZJM,Puerto Madryn Excursiones,Argentina,southamerica/argentina/patagonia/puertomadryn,,en,website,,,,,puertomadrynexcursiones.com
+27325Y,Pingüinos Exp,Argentina,southamerica/argentina/patagonia/ushuaia,info@pinguinosexp.com,en,email,,,,,pinguinosexp.com
+7MDS3G,Portal del Atuel,Argentina,southamerica/argentina/cuyo/san_rafael,portaldelatuel@icloud.com,en,email,,,,,portaldelatuel.ar
+TDVZTJ,Potrerillos Explorer,Argentina,southamerica/argentina/cuyo/mendoza,info@potrerillosexplorer.com,en,email,,,,,potrerillosexplorer.com
+39FZJM,Puerto Madryn Excursiones,Argentina,southamerica/argentina/patagonia/puertomadryn,reservas@puertomadrynexcursiones.com,en,email,,,,,puertomadrynexcursiones.com
 M78CX7,Punta Ballena,Argentina,southamerica/argentina/patagonia/puerto_piramides,puntaballena.reservas@gmail.com,en,email,,,,,
 MFK2QQ,R.O.A. Tour,Argentina,southamerica/argentina/litoral/puertoiguazu,info@iguazuroatour.com,en,email,,,,,
-PVRV8T,Rafting Punto Límite,Argentina,southamerica/argentina/patagonia/bariloche,,en,website,,,,,raftingpuntolimite.com.ar
+PVRV8T,Rafting Punto Límite,Argentina,southamerica/argentina/patagonia/bariloche,info@raftingpuntolimite.com.ar,en,email,,,,,raftingpuntolimite.com.ar
 YT4TRR,Rumbo Sur,Argentina,southamerica/argentina/patagonia/ushuaia,informes@rumbosur.com.ar,en,email,,,,,
 T39LZL,RunaTour,Argentina,southamerica/argentina/norte/tilcara,,en,website,,,,,runatour.tur.ar
-MMRVK2,Salta Rafting,Argentina,southamerica/argentina/norte/salta,,en,website,,,,,saltarafting.com
+MMRVK2,Salta Rafting,Argentina,southamerica/argentina/norte/salta,info@saltarafting.com,en,email,,,,,saltarafting.com
 S68YJJ,Salum Tour & Travel,Argentina,southamerica/argentina/norte/salta,reservas@salumtravel.tur.ar,en,email,,,,,
 MHP4V8,Salum Tour & Travel,Argentina,southamerica/argentina/patagonia/calafate,info@salumtravel.tur.ar,en,email,,,,,
 L87PBR,Sky Tour Parapente,Argentina,southamerica/argentina/cuyo/mendoza,,en,website,,,,,skytour.com.ar
 QNLCH6,Solo Patagonia,Argentina,southamerica/argentina/patagonia/calafate,info@solopatagonia.com,en,email,,,,,
 L6KB22,Southern Spirit,Argentina,southamerica/argentina/patagonia/puerto_piramides,reservas@southernspirit.com.ar,en,email,,,,,
 T85CK2,Summit Trek,Argentina,southamerica/argentina/cordobaprovince/sierras_de_cordoba,info@summittrek.com.ar,en,email,,,,,
-TCQSFN,Taccu Aventura,Argentina,southamerica/argentina/cuyo/san_rafael,,en,website,,,,,taccuaventura.com
+TCQSFN,Taccu Aventura,Argentina,southamerica/argentina/cuyo/san_rafael,info@taccuaventura.com,en,email,,,,,taccuaventura.com
 YZZPNZ,Tiamar Travel,Argentina,southamerica/argentina/norte/salta,,en,website,,,,,tiamartravel.com.ar
 36CQ29,Tierra Turismo,Argentina,southamerica/argentina/patagonia/ushuaia,info@tierraturismo.com,en,email,,,,,
 SQ3ZVH,Titan Cuatro Elementos,Argentina,southamerica/argentina/patagonia/ushuaia,reservas@titancuatroelementos.com,en,email,,,,,
 HVBQ4C,Treeland,Argentina,southamerica/argentina/pampas/tandil,,en,website,,,,,treeland.com.ar
 R2QJGT,Turismo Calafate,Argentina,southamerica/argentina/patagonia/calafate,info@turismocalafate.com,en,email,,,,,
-M76MNV,Turismo en Ushuaia,Argentina,southamerica/argentina/patagonia/ushuaia,,en,website,,,,,turismoenushuaia.com
+M76MNV,Turismo en Ushuaia,Argentina,southamerica/argentina/patagonia/ushuaia,info@turismoenushuaia.com,en,email,,,,,turismoenushuaia.com
 TB65MD,Turquesa Water,Argentina,southamerica/argentina/patagonia/calafate,turquesawater@gmail.com,en,email,,,,,
 75DT8C,Uquía Turismo,Argentina,southamerica/argentina/norte/salta,reservas@uquiaturismo.tur.ar,en,email,,,,,
 NJHWC9,Ushuaia 4x4,Argentina,southamerica/argentina/patagonia/ushuaia,,en,website,,,,,ushuaia4x4.com.ar
-YS36SB,Ushuaia Boating,Argentina,southamerica/argentina/patagonia/ushuaia,,en,website,,,,,ushboating.com
-C74887,Ushuaia Excursiones,Argentina,southamerica/argentina/patagonia/ushuaia,,en,website,,,,,ushuaiaexcursiones.com
+YS36SB,Ushuaia Boating,Argentina,southamerica/argentina/patagonia/ushuaia,reservas@ushboating.com,en,email,,,,,ushboating.com
+C74887,Ushuaia Excursiones,Argentina,southamerica/argentina/patagonia/ushuaia,reservas@ushuaiaexcursiones.com,en,email,,,,,ushuaiaexcursiones.com
 YDRC7N,Ushuaia Extremo,Argentina,southamerica/argentina/patagonia/ushuaia,info@ushuaiaextremotravels.com,en,email,,,,,
-JJMT5C,Valle del Picapedrero,Argentina,southamerica/argentina/pampas/tandil,,en,website,,,,,valledelpicapedrero.com.ar
+JJMT5C,Valle del Picapedrero,Argentina,southamerica/argentina/pampas/tandil,info@valledelpicapedrero.com,en,email,,,,,valledelpicapedrero.com.ar
 3QT8PN,Valle Grande Aventura,Argentina,southamerica/argentina/cuyo/san_rafael,,en,website,,,,,vallegrandeaventura.com.ar
 X5MDCZ,Wayfinders,Argentina,southamerica/argentina/patagonia/ushuaia,info@wayfinderadventures.com,en,email,,,,,
 FC48R2,Whales Argentina,Argentina,southamerica/argentina/patagonia/puerto_piramides,info@whalesargentina.com.ar,en,email,,,,,
 RY7RBC,Wine and Ride,Argentina,southamerica/argentina/cuyo/mendoza,,en,website,,,,,wineandride.com.ar
 D96GC7,Yaghan Turismo,Argentina,southamerica/argentina/patagonia/ushuaia,reservas@yaghanturismo.tur.ar,en,email,,,,,
-LH7RCV,Zona Austral Turismo,Argentina,southamerica/argentina/patagonia/elchalten,,en,website,,,,,zonaaustralturismo.com
+LH7RCV,Zona Austral Turismo,Argentina,southamerica/argentina/patagonia/elchalten,info@zonaaustralturismo.com,en,email,,,,,zonaaustralturismo.com
 FPQBSV,Altitude Travel,Bolivia,southamerica/bolivia/lapaz,info@altitudealliance.travel,es,email,,,,,
 ZYKGX2,America Tours SRL,Bolivia,southamerica/bolivia/lapaz,info@america-ecotours.com,es,email,,,,,
 4S6X6C,Andes Brothers,Bolivia,southamerica/bolivia/lapaz,info@andesbrothers.com,es,email,,,,,
@@ -120,212 +120,212 @@ PGGLY4,Transturin Ltda.,Bolivia,southamerica/bolivia/laketiticaca,info@transturi
 9T9YZT,Tupiza Eco Travel Tours,Bolivia,southamerica/bolivia/tupiza,info@tupizaecotravel.com,es,email,,,,,
 KZ4Q7J,Tupiza Tours,Bolivia,southamerica/bolivia/tupiza,hola@tupizatours.com,es,email,,,,,
 6MRCPV,Yapa Bolivia Tours,Bolivia,southamerica/bolivia/lapaz,hello@yapabolivia.com,es,email,,,,,
-Q8YQC5,4x4 Cantos,Brazil,southamerica/brazil/sudeste/novafriburgo,contato@4x4cantosecoturismo.com.br,en,email,,,,,
-X9NCXD,A Cavalo Floripa,Brazil,southamerica/brazil/sul/florianopolis,,en,website,,,,,acavalofloripa.com.br
-GP8QQV,Abrolhos Adventure,Brazil,southamerica/brazil/nordeste/abrolhos,contato@abrolhosadventure.com.br,en,email,,,,,
-NWNMBK,ACAMDAF,Brazil,southamerica/brazil/norte/manaus,contato@acamdaf.com.br,en,email,,,,,
-RB4X88,Adrena Rio,Brazil,southamerica/brazil/riodejaneiro,,en,website,,,,,adrenario.com
-SXTH6C,Adrenailha,Brazil,southamerica/brazil/sul/florianopolis,contato@adrenailha.com.br,en,email,,,,,
-ZP3JGB,Adventure Boat,Brazil,southamerica/brazil/sudeste/ilhagrande,contato@adventureboat.com.br,en,email,,,,,
-546V5V,Agência Bonito Demais,Brazil,southamerica/brazil/centro_oeste/bonito,contato@agenciabonitodemais.com.br,en,email,,,,,
-3658FH,Akira Turismo,Brazil,southamerica/brazil/sul/blumenau,,en,website,,,,,akiraturismo.com.br
-RR2HFG,Akura Paraty,Brazil,southamerica/brazil/sudeste/paraty,,en,website,,,,,akuraparaty.com
-2WV6RY,Alma Nativa,Brazil,southamerica/brazil/sudeste/vitoria,,en,website,,,,,almanativa.com.br
-PW96TT,Altus Turismo Ecológico,Brazil,southamerica/brazil/sudeste/campos_do_jordao,contato@altus.tur.br,en,email,,,,,
-5CNBWV,Amantes da Natureza MT,Brazil,southamerica/brazil/centro_oeste/chapada_dos_guimaraes,,en,website,,,,,amantesdanaturezamt.com.br
+Q8YQC5,4x4 Cantos,Brazil,southamerica/brazil/sudeste/novafriburgo,contato@4x4cantosecoturismo.com.br,en,email,2026-09-21,,,,
+X9NCXD,A Cavalo Floripa,Brazil,southamerica/brazil/sul/florianopolis,acavalofloripa@gmail.com,en,email,,,,,acavalofloripa.com.br
+GP8QQV,Abrolhos Adventure,Brazil,southamerica/brazil/nordeste/abrolhos,contato@abrolhosadventure.com.br,en,email,2026-09-21,,,,
+NWNMBK,ACAMDAF,Brazil,southamerica/brazil/norte/manaus,contato@acamdaf.com.br,en,email,2026-09-21,,,,
+RB4X88,Adrena Rio,Brazil,southamerica/brazil/riodejaneiro,reservas@adrenario.com,en,email,,,,,adrenario.com
+SXTH6C,Adrenailha,Brazil,southamerica/brazil/sul/florianopolis,contato@adrenailha.com.br,en,email,2026-09-21,,,,
+ZP3JGB,Adventure Boat,Brazil,southamerica/brazil/sudeste/ilhagrande,contato@adventureboat.com.br,en,email,2026-09-21,,,,
+546V5V,Agência Bonito Demais,Brazil,southamerica/brazil/centro_oeste/bonito,contato@agenciabonitodemais.com.br,en,email,2026-09-21,,,,
+3658FH,Akira Turismo,Brazil,southamerica/brazil/sul/blumenau,akiraturismo@gmail.com,en,email,,,,,akiraturismo.com.br
+RR2HFG,Akura Paraty,Brazil,southamerica/brazil/sudeste/paraty,akuraoutdoorexperience@gmail.com,en,email,,,,,akuraparaty.com
+2WV6RY,Alma Nativa,Brazil,southamerica/brazil/sudeste/vitoria,almanativaturismo@gmail.com,en,email,,,,,almanativa.com.br
+PW96TT,Altus Turismo Ecológico,Brazil,southamerica/brazil/sudeste/campos_do_jordao,contato@altus.tur.br,en,email,2026-09-21,,,,
+5CNBWV,Amantes da Natureza MT,Brazil,southamerica/brazil/centro_oeste/chapada_dos_guimaraes,amantesdanaturezamt@gmail.com,en,email,,,,,amantesdanaturezamt.com.br
 CVCD2M,Amazon Destinations,Brazil,southamerica/brazil/norte/manaus,,en,website,,,,,amazondestinations.tur.br
-W5L3YS,Amazon Lord,Brazil,southamerica/brazil/norte/manaus,contato@amazonlord.com.br,en,email,,,,,
-5GK9WS,Amazongero Tours,Brazil,southamerica/brazil/norte/manaus,,en,website,,,,,amazongero.com
-575GCS,Amo Garopaba,Brazil,southamerica/brazil/sul/garopaba,,en,website,,,,,amogaropaba.com.br
-CTK9D6,AMO Lençóis,Brazil,southamerica/brazil/nordeste/barreirinhas,,en,website,,,,,amolencois.com.br
+W5L3YS,Amazon Lord,Brazil,southamerica/brazil/norte/manaus,contato@amazonlord.com.br,en,email,2026-09-21,,,,
+5GK9WS,Amazongero Tours,Brazil,southamerica/brazil/norte/manaus,contato@amazongero.com,en,email,,,,,amazongero.com
+575GCS,Amo Garopaba,Brazil,southamerica/brazil/sul/garopaba,contato@amogaropaba.com.br,en,email,,,,,amogaropaba.com.br
+CTK9D6,AMO Lençóis,Brazil,southamerica/brazil/nordeste/barreirinhas,amolencoisturismo@gmail.com,en,email,,,,,amolencois.com.br
 CY8KK6,Angra Náutico,Brazil,southamerica/brazil/sudeste/ilhagrande,,en,website,,,,,angranautico.com.br
-VPMTYN,Aquamarina Mergulho,Brazil,southamerica/brazil/nordeste/porto_de_galinhas,,en,website,,,,,mergulhosaquamarina.com.br
+VPMTYN,Aquamarina Mergulho,Brazil,southamerica/brazil/nordeste/porto_de_galinhas,aquamarinamergulhos@hotmail.com,en,email,,,,,mergulhosaquamarina.com.br
 T86GWS,Arc Turismo,Brazil,southamerica/brazil/sul/fozdoiguacu,,en,website,,,,,arcturismo.com
-2D8W75,Arraial do Cabo Travel,Brazil,southamerica/brazil/sudeste/arraial_do_cabo,,en,website,,,,,arraialdocabotravel.com
-J6HDJK,Arraial Extremo,Brazil,southamerica/brazil/sudeste/arraial_do_cabo,,en,website,,,,,arraialextremo.com
-SDS342,Arraial Férias,Brazil,southamerica/brazil/sudeste/arraial_do_cabo,,en,website,,,,,arraialferias.com.br
-8TKTQJ,Arraial Sun,Brazil,southamerica/brazil/sudeste/arraial_do_cabo,,en,website,,,,,arraialsun.com.br
-GTC98P,Arraial Sunset,Brazil,southamerica/brazil/sudeste/arraial_do_cabo,,en,website,,,,,arraialsunset.com
-Q8JL92,Atalaia Turismo,Brazil,southamerica/brazil/nordeste/fernando_de_noronha,edna@atalaianoronha.com.br,en,email,,,,,
-PZCRS5,Aventure-se Jalapão,Brazil,southamerica/brazil/norte/jalapao,,en,website,,,,,aventuresejalapao.com.br
-79CVRY,Babylon Búzios,Brazil,southamerica/brazil/sudeste/buzios,contato@babylonbuzios.com.br,en,email,,,,,
-NFKB42,Bahia Trip,Brazil,southamerica/brazil/nordeste/lencois,oi@bahiatripviagens.com,en,email,,,,,
-F2MXPF,Bambu Aventura,Brazil,southamerica/brazil/sudeste/serra_do_cipo,,en,website,,,,,bambuaventura.com.br
-NK77TJ,Barra Boat Floripa,Brazil,southamerica/brazil/sul/florianopolis,contato@barraboatfloripa.com.br,en,email,,,,,
-WGCWBV,Bem Receptivo,Brazil,southamerica/brazil/nordeste/fortaleza,reservas@bemreceptivo.com.br,en,email,,,,,
-SRTKQJ,Best Fly Rio,Brazil,southamerica/brazil/riodejaneiro,contato@bestflyrio.com.br,en,email,,,,,
-7VHDYJ,BL3,Brazil,southamerica/brazil/sudeste/ilhabela,administrativo@bl3.com.br,en,email,,,,,
-YHVY2N,Blue Charter,Brazil,southamerica/brazil/sudeste/ilhabela,contato@bluecharter.com.br,en,email,,,,,
+2D8W75,Arraial do Cabo Travel,Brazil,southamerica/brazil/sudeste/arraial_do_cabo,arraialdocabotravel@gmail.com,en,email,,,,,arraialdocabotravel.com
+J6HDJK,Arraial Extremo,Brazil,southamerica/brazil/sudeste/arraial_do_cabo,contato@arraialextremo.com,en,email,,,,,arraialextremo.com
+SDS342,Arraial Férias,Brazil,southamerica/brazil/sudeste/arraial_do_cabo,reservas@arraialferias.com.br,en,email,,,,,arraialferias.com.br
+8TKTQJ,Arraial Sun,Brazil,southamerica/brazil/sudeste/arraial_do_cabo,arraialsun@gmail.com,en,email,,,,,arraialsun.com.br
+GTC98P,Arraial Sunset,Brazil,southamerica/brazil/sudeste/arraial_do_cabo,arraialsunset@gmail.com,en,email,,,,,arraialsunset.com
+Q8JL92,Atalaia Turismo,Brazil,southamerica/brazil/nordeste/fernando_de_noronha,edna@atalaianoronha.com.br,en,email,2026-09-21,,,,
+PZCRS5,Aventure-se Jalapão,Brazil,southamerica/brazil/norte/jalapao,aventuresejalapao@gmail.com,en,email,,,,,aventuresejalapao.com.br
+79CVRY,Babylon Búzios,Brazil,southamerica/brazil/sudeste/buzios,contato@babylonbuzios.com.br,en,email,2026-09-21,,,,
+NFKB42,Bahia Trip,Brazil,southamerica/brazil/nordeste/lencois,oi@bahiatripviagens.com,en,email,2026-09-21,,,,
+F2MXPF,Bambu Aventura,Brazil,southamerica/brazil/sudeste/serra_do_cipo,bambu@bambuaventura.com.br,en,email,,,,,bambuaventura.com.br
+NK77TJ,Barra Boat Floripa,Brazil,southamerica/brazil/sul/florianopolis,contato@barraboatfloripa.com.br,en,email,2026-09-21,,,,
+WGCWBV,Bem Receptivo,Brazil,southamerica/brazil/nordeste/fortaleza,reservas@bemreceptivo.com.br,en,email,2026-09-21,,,,
+SRTKQJ,Best Fly Rio,Brazil,southamerica/brazil/riodejaneiro,contato@bestflyrio.com.br,en,email,2026-09-21,,,,
+7VHDYJ,BL3,Brazil,southamerica/brazil/sudeste/ilhabela,administrativo@bl3.com.br,en,email,2026-09-21,,,,
+YHVY2N,Blue Charter,Brazil,southamerica/brazil/sudeste/ilhabela,contato@bluecharter.com.br,en,email,2026-09-21,,,,
 JR2RTZ,Boat Party,Brazil,southamerica/brazil/sudeste/niteroi,,en,website,,,,,boatparty.com.br
 PSQMDN,Bombinhas Turismo,Brazil,southamerica/brazil/sul/bombinhas,,en,website,,,,,bombinhasturismo.com.br
-M75PYQ,Bonitour,Brazil,southamerica/brazil/centro_oeste/bonito,bonitour@bonitour.com.br,en,email,,,,,
-3ZTYL3,Bora Brasil Expedições,Brazil,southamerica/brazil/nordeste/chapadadiamantina,,en,website,,,,,borabrasilexpedicoes.com
+M75PYQ,Bonitour,Brazil,southamerica/brazil/centro_oeste/bonito,bonitour@bonitour.com.br,en,email,2026-09-21,,,,
+3ZTYL3,Bora Brasil Expedições,Brazil,southamerica/brazil/nordeste/chapadadiamantina,borabrasil.ne@gmail.com,en,email,,,,,borabrasilexpedicoes.com
 C578JB,Borandá Trekking,Brazil,southamerica/brazil/sudeste/belohorizonte,,en,website,,,,,borandatrekking.com.br
-HSQY7D,Brasilymore,Brazil,southamerica/brazil/sudeste/buzios,,en,website,,,,,brasilymore.com
-CB55MZ,Bravo Tur,Brazil,southamerica/brazil/nordeste/aracaju,,en,website,,,,,bravotur-aju.com.br
-7TW2LY,Brazil Divers,Brazil,southamerica/brazil/riodejaneiro,brazildivers@brazildivers.com.br,en,email,,,,,
+HSQY7D,Brasilymore,Brazil,southamerica/brazil/sudeste/buzios,marketing@brasilymore.com,en,email,,,,,brasilymore.com
+CB55MZ,Bravo Tur,Brazil,southamerica/brazil/nordeste/aracaju,bravotur.aju@gmail.com,en,email,,,,,bravotur-aju.com.br
+7TW2LY,Brazil Divers,Brazil,southamerica/brazil/riodejaneiro,brazildivers@brazildivers.com.br,en,email,2026-09-21,,,,
 YK8D6B,Buggy Tour Porto de Galinhas,Brazil,southamerica/brazil/nordeste/porto_de_galinhas,,en,website,,,,,buggyemportodegalinhas.com.br
-WPQGRZ,BZ Sports,Brazil,southamerica/brazil/sudeste/buzios,reservas@bzsports.com.br,en,email,,,,,
-WSJVMD,Búzios Central de Reservas,Brazil,southamerica/brazil/sudeste/buzios,,en,website,,,,,buzioscentraldereservas.com.br
-WX4S93,Cabo Branco Receptivo,Brazil,southamerica/brazil/nordeste/joaopessoa,contato@cabobrancoreceptivo.com.br,en,email,,,,,
-6V5GVY,Cactus Experiências,Brazil,southamerica/brazil/sudeste/cabo_frio,contato@cactusexperiencias.com.br,en,email,,,,,
-XFHQJ6,Canela de Ema,Brazil,southamerica/brazil/sudeste/capitolio,,en,website,,,,,caneladeemacapitolio.com.br
+WPQGRZ,BZ Sports,Brazil,southamerica/brazil/sudeste/buzios,reservas@bzsports.com.br,en,email,2026-09-21,,,,
+WSJVMD,Búzios Central de Reservas,Brazil,southamerica/brazil/sudeste/buzios,buzioscentraldereservas@gmail.com,en,email,,,,,buzioscentraldereservas.com.br
+WX4S93,Cabo Branco Receptivo,Brazil,southamerica/brazil/nordeste/joaopessoa,contato@cabobrancoreceptivo.com.br,en,email,2026-09-21,,,,
+6V5GVY,Cactus Experiências,Brazil,southamerica/brazil/sudeste/cabo_frio,contato@cactusexperiencias.com.br,en,email,2026-09-21,,,,
+XFHQJ6,Canela de Ema,Brazil,southamerica/brazil/sudeste/capitolio,contato@caneladeemacapitolio.com.br,en,email,,,,,caneladeemacapitolio.com.br
 32SK35,Canoa Catarina,Brazil,southamerica/brazil/sul/florianopolis,,en,website,,,,,canoacatarina.com.br
-M3SKSB,Capim de Ouro Expedições,Brazil,southamerica/brazil/norte/jalapao,,en,website,,,,,capimdeouro.com.br
-LYMG6Q,Capimasul,Brazil,southamerica/brazil/nordeste/fernando_de_noronha,,en,website,,,,,capimasul.com.br
+M3SKSB,Capim de Ouro Expedições,Brazil,southamerica/brazil/norte/jalapao,douglasdpimenta@gmail.com,en,email,,,,,capimdeouro.com.br
+LYMG6Q,Capimasul,Brazil,southamerica/brazil/nordeste/fernando_de_noronha,capimasul@gmail.com,en,email,,,,,capimasul.com.br
 HQ5QT3,Cariocando Boat,Brazil,southamerica/brazil/riodejaneiro,,en,website,,,,,cariocandoboat.com
-88RKGS,Carona 4x4,Brazil,southamerica/brazil/nordeste/jericoacoara,,en,website,,,,,carona4x4.com.br
-FCP2SX,Cerrado Rupestre,Brazil,southamerica/brazil/norte/jalapao,,en,website,,,,,cerradorupestre.com.br
-BF8YPP,Chapada Adventure,Brazil,southamerica/brazil/nordeste/lencois,financeiro@chapadaadventure.com.br,en,email,,,,,
-K5DVSR,Chapada Nativa,Brazil,southamerica/brazil/centro_oeste/alto_paraiso,contato@chapadanativa.com.br,en,email,,,,,
-PC7C5S,Cia de Rafting,Brazil,southamerica/brazil/sudeste/sao_luiz_do_paraitinga,joao@ciaderafting.com.br,en,email,,,,,
-XXR5WC,Circuito Central,Brazil,southamerica/brazil/centro_oeste/alto_paraiso,contato@circuitocentral.com.br,en,email,,,,,
-R45DHP,Companhia da Aventura,Brazil,southamerica/brazil/centro_oeste/chapada_dos_guimaraes,atendimento@companhiadaaventura.com.br,en,email,,,,,
-V2BMVC,Conexão Cerrado,Brazil,southamerica/brazil/norte/jalapao,,en,website,,,,,conexaocerrado.com.br
-9S83JQ,Conexão Tour,Brazil,southamerica/brazil/sudeste/arraial_do_cabo,,en,website,,,,,conexaotour.com.br
-K4RGZ6,Connect Iguassu,Brazil,southamerica/brazil/sul/fozdoiguacu,,en,website,,,,,connectiguassu.com.br
-JNVR46,Cronos Ecoturismo,Brazil,southamerica/brazil/norte/santarem,,en,website,,,,,cronostransfer.com
-B4FBZP,Daventura,Brazil,southamerica/brazil/nordeste/chapadadiamantina,daventura@daventura.com.br,en,email,,,,,
-PX4S2F,Delta Rio Parnaíba Turismo,Brazil,southamerica/brazil/nordeste/delta_do_parnaiba,atendimento@deltarioparnaiba.com.br,en,email,,,,,
-MNFMCZ,Delterra Turismo,Brazil,southamerica/brazil/nordeste/delta_do_parnaiba,,en,website,,,,,delterraturismo.com.br
-PYNY6M,Desbravando Rio,Brazil,southamerica/brazil/riodejaneiro,contato@desbravandorio.com,en,email,,,,,
-NGNL2W,Deserto do Jalapão,Brazil,southamerica/brazil/norte/jalapao,contato@desertodojalapao.com.br,en,email,,,,,
-S57D39,Divemore,Brazil,southamerica/brazil/sul/florianopolis,alessandro@divemore.com.br,en,email,,,,,
-QZ2NLL,Drakkar Expedições,Brazil,southamerica/brazil/sul/florianopolis,,en,website,,,,,drakkarexpedicoes.com.br
-YGFH76,Eco Adventures Travel,Brazil,southamerica/brazil/centro_oeste/campo_grande,alisson@ecoadventures.com.br,en,email,,,,,
-3JCCRP,Eco Caminhantes,Brazil,southamerica/brazil/sul/portoalegre,susy@ecocaminhantes.com.br,en,email,,,,,
-KFWKBL,Eco Park Porto da Ilha,Brazil,southamerica/brazil/centro_oeste/bonito,comercial@portodailha.eco.br,en,email,,,,,
-72L4M3,Ecobrotas,Brazil,southamerica/brazil/sudeste/brotas,atendimento@ecobrotas.com.br,en,email,,,,,
-3TRW49,Ecorotas,Brazil,southamerica/brazil/centro_oeste/alto_paraiso,ecorotas@ecorotas.com.br,en,email,,,,,
-XTT535,Ecotuba,Brazil,southamerica/brazil/sudeste/ubatuba,info@ecotuba.com.br,en,email,,,,,
-JT779F,Ecoturismo Brasil,Brazil,southamerica/brazil/saopaulo,adm@ecoturismobrasil.com.br,en,email,,,,,
+88RKGS,Carona 4x4,Brazil,southamerica/brazil/nordeste/jericoacoara,marcelomachado_@hotmail.com,en,email,,,,,carona4x4.com.br
+FCP2SX,Cerrado Rupestre,Brazil,southamerica/brazil/norte/jalapao,cerradorupestre@gmail.com,en,email,,,,,cerradorupestre.com.br
+BF8YPP,Chapada Adventure,Brazil,southamerica/brazil/nordeste/lencois,financeiro@chapadaadventure.com.br,en,email,2026-09-21,,,,
+K5DVSR,Chapada Nativa,Brazil,southamerica/brazil/centro_oeste/alto_paraiso,contato@chapadanativa.com.br,en,email,2026-09-21,,,,
+PC7C5S,Cia de Rafting,Brazil,southamerica/brazil/sudeste/sao_luiz_do_paraitinga,joao@ciaderafting.com.br,en,email,2026-09-21,,,,
+XXR5WC,Circuito Central,Brazil,southamerica/brazil/centro_oeste/alto_paraiso,contato@circuitocentral.com.br,en,email,2026-09-21,,,,
+R45DHP,Companhia da Aventura,Brazil,southamerica/brazil/centro_oeste/chapada_dos_guimaraes,atendimento@companhiadaaventura.com.br,en,email,2026-09-21,,,,
+V2BMVC,Conexão Cerrado,Brazil,southamerica/brazil/norte/jalapao,contato@conexaocerrado.com.br,en,email,,,,,conexaocerrado.com.br
+9S83JQ,Conexão Tour,Brazil,southamerica/brazil/sudeste/arraial_do_cabo,conexaotour@outlook.com,en,email,,,,,conexaotour.com.br
+K4RGZ6,Connect Iguassu,Brazil,southamerica/brazil/sul/fozdoiguacu,connectiguassu@gmail.com,en,email,,,,,connectiguassu.com.br
+JNVR46,Cronos Ecoturismo,Brazil,southamerica/brazil/norte/santarem,contato@cronostransfer.com,en,email,,,,,cronostransfer.com
+B4FBZP,Daventura,Brazil,southamerica/brazil/nordeste/chapadadiamantina,daventura@daventura.com.br,en,email,2026-09-21,,,,
+PX4S2F,Delta Rio Parnaíba Turismo,Brazil,southamerica/brazil/nordeste/delta_do_parnaiba,atendimento@deltarioparnaiba.com.br,en,email,2026-09-21,,,,
+MNFMCZ,Delterra Turismo,Brazil,southamerica/brazil/nordeste/delta_do_parnaiba,contato@delterraturismo.com.br,en,email,,,,,delterraturismo.com.br
+PYNY6M,Desbravando Rio,Brazil,southamerica/brazil/riodejaneiro,contato@desbravandorio.com,en,email,2026-09-21,,,,
+NGNL2W,Deserto do Jalapão,Brazil,southamerica/brazil/norte/jalapao,contato@desertodojalapao.com.br,en,email,2026-09-21,,,,
+S57D39,Divemore,Brazil,southamerica/brazil/sul/florianopolis,alessandro@divemore.com.br,en,email,2026-09-21,,,,
+QZ2NLL,Drakkar Expedições,Brazil,southamerica/brazil/sul/florianopolis,drakkarexpedicoes@gmail.com,en,email,,,,,drakkarexpedicoes.com.br
+YGFH76,Eco Adventures Travel,Brazil,southamerica/brazil/centro_oeste/campo_grande,alisson@ecoadventures.com.br,en,email,2026-09-21,,,,
+3JCCRP,Eco Caminhantes,Brazil,southamerica/brazil/sul/portoalegre,susy@ecocaminhantes.com.br,en,email,2026-09-21,,,,
+KFWKBL,Eco Park Porto da Ilha,Brazil,southamerica/brazil/centro_oeste/bonito,comercial@portodailha.eco.br,en,email,2026-09-21,,,,
+72L4M3,Ecobrotas,Brazil,southamerica/brazil/sudeste/brotas,atendimento@ecobrotas.com.br,en,email,2026-09-21,,,,
+3TRW49,Ecorotas,Brazil,southamerica/brazil/centro_oeste/alto_paraiso,ecorotas@ecorotas.com.br,en,email,2026-09-21,,,,
+XTT535,Ecotuba,Brazil,southamerica/brazil/sudeste/ubatuba,info@ecotuba.com.br,en,email,2026-09-21,,,,
+JT779F,Ecoturismo Brasil,Brazil,southamerica/brazil/saopaulo,adm@ecoturismobrasil.com.br,en,email,2026-09-21,,,,
 T8262M,Enjoy Tours,Brazil,southamerica/brazil/norte/belem,,en,website,,,,,enjoytours.com.br
-45BHFQ,Estrela do Mar Mergulho,Brazil,southamerica/brazil/sul/florianopolis,,en,website,,,,,estreladomarmergulho.com.br
-YKP2N9,Experimente Piri,Brazil,southamerica/brazil/centro_oeste/pirenopolis,,en,website,,,,,experimentepiri.com.br
+45BHFQ,Estrela do Mar Mergulho,Brazil,southamerica/brazil/sul/florianopolis,financeiro@estreladomarmergulho.com.br,en,email,,,,,estreladomarmergulho.com.br
+YKP2N9,Experimente Piri,Brazil,southamerica/brazil/centro_oeste/pirenopolis,experimentepiri@gmail.com,en,email,,,,,experimentepiri.com.br
 H9VV49,Faiker Quadriciclos,Brazil,southamerica/brazil/nordeste/barreirinhas,,en,website,,,,,faikerquadriciclos.com.br
-VCMX45,Gordinho Tour,Brazil,southamerica/brazil/nordeste/fortaleza,contato@gordinhotour.com.br,en,email,,,,,
-XWFP35,Green Way,Brazil,southamerica/brazil/sudeste/sao_sebastiao,,en,website,,,,,greenway.com.br
-CG5LD5,Grou Turismo,Brazil,southamerica/brazil/nordeste/ilheus,adm@grou.com.br,en,email,,,,,
-WQGTS3,Gruta Catedral,Brazil,southamerica/brazil/centro_oeste/bonito,,en,website,,,,,grutacatedral.com.br
-7QWML2,Guga Tour,Brazil,southamerica/brazil/sudeste/cabo_frio,contato@gugatour.com,en,email,,,,,
+VCMX45,Gordinho Tour,Brazil,southamerica/brazil/nordeste/fortaleza,contato@gordinhotour.com.br,en,email,2026-09-21,,,,
+XWFP35,Green Way,Brazil,southamerica/brazil/sudeste/sao_sebastiao,greenwaybrasil@hotmail.com,en,email,,,,,greenway.com.br
+CG5LD5,Grou Turismo,Brazil,southamerica/brazil/nordeste/ilheus,adm@grou.com.br,en,email,2026-09-21,,,,
+WQGTS3,Gruta Catedral,Brazil,southamerica/brazil/centro_oeste/bonito,grutacatedral@gmail.com,en,email,,,,,grutacatedral.com.br
+7QWML2,Guga Tour,Brazil,southamerica/brazil/sudeste/cabo_frio,contato@gugatour.com,en,email,2026-09-21,,,,
 TKMZ7D,Habitat Aventura,Brazil,southamerica/brazil/brasilia,contato@habitataventura.com.br,en,email,,,,,
 WCVLMK,Horizonte Aberto,Brazil,southamerica/brazil/nordeste/abrolhos,,en,website,,,,,horizonteaberto.com.br
-85S48B,Ibieté,Brazil,southamerica/brazil/norte/manaus,,en,website,,,,,ibiete.eco.br
+85S48B,Ibieté,Brazil,southamerica/brazil/norte/manaus,ibiete.eco@gmail.com,en,email,,,,,ibiete.eco.br
 7MSG8Z,Icterus Ecoturismo,Brazil,southamerica/brazil/centro_oeste/corumba,contato@icterusecoturismo.com,en,email,,,,,
 VQWL6V,Iguana Turismo,Brazil,southamerica/brazil/norte/manaus,iguanatour@amazonbrasil.com.br,en,email,,,,,
-8D4B3P,Iguazu Dreams Tour,Brazil,southamerica/brazil/sul/fozdoiguacu,,en,website,,,,,iguazudreamstour.com
+8D4B3P,Iguazu Dreams Tour,Brazil,southamerica/brazil/sul/fozdoiguacu,contato@iguazudreamstour.com,en,email,,,,,iguazudreamstour.com
 M4Y3Q2,Ilha Grande Hiking,Brazil,southamerica/brazil/sudeste/ilhagrande,info@ilhagrandehiking.com,en,email,,,,,
-4T87LS,Ilhas Tur,Brazil,southamerica/brazil/sudeste/ilhagrande,,en,website,,,,,ilhastur.com.br
+4T87LS,Ilhas Tur,Brazil,southamerica/brazil/sudeste/ilhagrande,ilhasturangra@gmail.com,en,email,,,,,ilhastur.com.br
 MHN4F3,Ilhavela Charters,Brazil,southamerica/brazil/sudeste/ilhabela,,en,website,,,,,ilhavelacharters.com.br
 RV6GB6,Ilhéus Adventure,Brazil,southamerica/brazil/nordeste/ilheus,rodrigo@ilheusadventure.com.br,en,email,,,,,
 7ZGTZH,Inhangatu,Brazil,southamerica/brazil/sudeste/belohorizonte,leonardo@inhangatu.com.br,en,email,,,,,
 BPQ9SY,Itacaré Turismo,Brazil,southamerica/brazil/nordeste/itacare,,en,website,,,,,itacareturismo.com.br
 HGG3HN,Jaguar Experience,Brazil,southamerica/brazil/centro_oeste/cuiaba,financeiro@jaguarexperience.com.br,en,email,,,,,
 K5Y8CZ,Jalapão Expedições,Brazil,southamerica/brazil/norte/jalapao,contato@jalapaoexpedicoes.com.br,en,email,,,,,
-XCNRYM,Jalápagos Turismo,Brazil,southamerica/brazil/norte/jalapao,,en,website,,,,,jalapagosturismo.com
+XCNRYM,Jalápagos Turismo,Brazil,southamerica/brazil/norte/jalapao,jalapagosturismo@gmail.com,en,email,,,,,jalapagosturismo.com
 VBXWXS,Jampatur,Brazil,southamerica/brazil/nordeste/joaopessoa,contato@jampatur.com,en,email,,,,,
-Q7YZSV,Jango Tour,Brazil,southamerica/brazil/sudeste/paraty,,en,website,,,,,jangotour.com.br
+Q7YZSV,Jango Tour,Brazil,southamerica/brazil/sudeste/paraty,reservas@jangotour.com.br,en,email,,,,,jangotour.com.br
 JKMTFG,Janna Guia Ecovivências,Brazil,southamerica/brazil/centro_oeste/cavalcante,contato@jannaguia.com.br,en,email,,,,,
 Y7NQ3Q,Jipe Aventura,Brazil,southamerica/brazil/sudeste/ilhabela,,en,website,,,,,jipeaventurailhabela.com.br
 NMBZ7D,Kaiara Amazonia,Brazil,southamerica/brazil/norte/alter_do_chao,ola@kaiara.com.br,en,email,,,,,
 JBQBVW,Katerre,Brazil,southamerica/brazil/norte/anavilhanas,expedicoes@katerre.com,en,email,,,,,
-YVMRZB,Kayak Paraty,Brazil,southamerica/brazil/sudeste/paraty,,en,website,,,,,kayakparaty.com.br
+YVMRZB,Kayak Paraty,Brazil,southamerica/brazil/sudeste/paraty,kayakparaty@gmail.com,en,email,,,,,kayakparaty.com.br
 DSSN5W,Kiko Tour,Brazil,southamerica/brazil/sudeste/arraial_do_cabo,,en,website,,,,,passeioemarraial.com.br
-QQFQY5,LandPoint,Brazil,southamerica/brazil/sudeste/ilhabela,,en,website,,,,,landpointturismo.com.br
+QQFQY5,LandPoint,Brazil,southamerica/brazil/sudeste/ilhabela,landpointturismo@outlook.com,en,email,,,,,landpointturismo.com.br
 L86L8D,Laços do Jalapão,Brazil,southamerica/brazil/norte/jalapao,contato@lacosdojalapao.com.br,en,email,,,,,
 BVGBFG,Lençóis Prime Ecotour,Brazil,southamerica/brazil/nordeste/barreirinhas,celiane.lisboa@lencoisprime.com,en,email,,,,,
 3HXQX9,Linha Turismo,Brazil,southamerica/brazil/sul/portoalegre,,en,website,,,,,linhaturismo.com.br
-KVQRLC,Lobo do Mar,Brazil,southamerica/brazil/riodejaneiro,,en,website,,,,,lobodomarboat.com
-LC6MLW,Local Tour,Brazil,southamerica/brazil/sul/florianopolis,,en,website,,,,,localtour.com.br
-TD8WXT,Lotus Turismo e Aventuras,Brazil,southamerica/brazil/nordeste/barreirinhas,,en,website,,,,,lotusturismo.com.br
+KVQRLC,Lobo do Mar,Brazil,southamerica/brazil/riodejaneiro,comercial.lobodomar@gmail.com,en,email,,,,,lobodomarboat.com
+LC6MLW,Local Tour,Brazil,southamerica/brazil/sul/florianopolis,contato@localtour.com.br,en,email,,,,,localtour.com.br
+TD8WXT,Lotus Turismo e Aventuras,Brazil,southamerica/brazil/nordeste/barreirinhas,receptivolotusturismo@hotmail.com,en,email,,,,,lotusturismo.com.br
 C2SDMY,Love 4 Dive,Brazil,southamerica/brazil/sudeste/buzios,farid@love4dive.com.br,en,email,,,,,
 M9NYGC,Lugares de Angra,Brazil,southamerica/brazil/sudeste/ilhagrande,,en,website,,,,,lugaresdeangra.com.br
-N66DZJ,Luiz Guia de Turismo,Brazil,southamerica/brazil/nordeste/salvador,,en,website,,,,,luizguia.com.br
+N66DZJ,Luiz Guia de Turismo,Brazil,southamerica/brazil/nordeste/salvador,luizguiaviagens@gmail.com,en,email,,,,,luizguia.com.br
 5TCBZQ,Macuco Safari,Brazil,southamerica/brazil/sul/fozdoiguacu,documental03@macucosafari.com.br,en,email,,,,,
 RLY2RV,Maia Expeditions,Brazil,southamerica/brazil/norte/manaus,max@maiaexpeditions.com,en,email,,,,,
 44J7GS,Maitreya Ecoturismo,Brazil,southamerica/brazil/centro_oeste/alto_paraiso,,en,website,,,,,maitreyaeco.com.br
 VLXR6Q,Mamut Trekking,Brazil,southamerica/brazil/nordeste/lencois,contato@mamut.agency,en,email,,,,,
-HB4K85,Mar Azul Turismo,Brazil,southamerica/brazil/sudeste/ubatuba,,en,website,,,,,marazultur.com.br
+HB4K85,Mar Azul Turismo,Brazil,southamerica/brazil/sudeste/ubatuba,atendimento@marazultur.com.br,en,email,,,,,marazultur.com.br
 W9PGCJ,MaresiasTur,Brazil,southamerica/brazil/sudeste/sao_sebastiao,,en,website,,,,,maresiastur.com.br
 PJLDPL,Mariuá,Brazil,southamerica/brazil/norte/manaus,mariua@mariuaxp.com,en,email,,,,,
 BLZW2D,Maré Trip,Brazil,southamerica/brazil/nordeste/porto_de_galinhas,contato@maretrip.com.br,en,email,,,,,
 DJQS47,Master Dive,Brazil,southamerica/brazil/sudeste/arraial_do_cabo,atendimento@masterdive.com.br,en,email,,,,,
-CT38GM,MAventur,Brazil,southamerica/brazil/nordeste/barreirinhas,,en,website,,,,,maventur.com.br
-FN8YNV,Meiembipe Turismo,Brazil,southamerica/brazil/sul/florianopolis,,en,website,,,,,meiembipeturismo.com.br
+CT38GM,MAventur,Brazil,southamerica/brazil/nordeste/barreirinhas,maranhaoaventura@gmail.com,en,email,,,,,maventur.com.br
+FN8YNV,Meiembipe Turismo,Brazil,southamerica/brazil/sul/florianopolis,contato@meiembipeturismo.com.br,en,email,,,,,meiembipeturismo.com.br
 W7KCPK,Mergulhaso,Brazil,southamerica/brazil/sudeste/ilhabela,,en,website,,,,,mergulhaso.com
-VWPLBP,Mota Jalapão,Brazil,southamerica/brazil/norte/jalapao,,en,website,,,,,motajalapao.com.br
+VWPLBP,Mota Jalapão,Brazil,southamerica/brazil/norte/jalapao,contato@motajalapao.com.br,en,email,,,,,motajalapao.com.br
 FL7SLS,Nascente Azul,Brazil,southamerica/brazil/centro_oeste/bonito,financeiro@nascenteazul.com.br,en,email,,,,,
 PK7CNT,Nautika Tour,Brazil,southamerica/brazil/sudeste/ubatuba,,en,website,,,,,nautikatourubatuba.com
-XY93NV,Navio Kalypso,Brazil,southamerica/brazil/centro_oeste/corumba,,en,website,,,,,naviokalypso.com.br
+XY93NV,Navio Kalypso,Brazil,southamerica/brazil/centro_oeste/corumba,reserva@naviokalypso.com.br,en,email,,,,,naviokalypso.com.br
 LSK822,Nordestrip,Brazil,southamerica/brazil/nordeste/delta_do_parnaiba,atendimento@nordestrip.com.br,en,email,,,,,
 QMT3JB,Noronha Tour,Brazil,southamerica/brazil/nordeste/fernando_de_noronha,nico@noronhatour.com.br,en,email,,,,,
-D2X635,Nova Rota Jeri,Brazil,southamerica/brazil/nordeste/jericoacoara,,en,website,,,,,novarotajeri.com.br
-993DXS,Nós de Trek,Brazil,southamerica/brazil/nordeste/lencois,,en,website,,,,,nosdetrek.com.br
+D2X635,Nova Rota Jeri,Brazil,southamerica/brazil/nordeste/jericoacoara,novarotajeri@gmail.com,en,email,,,,,novarotajeri.com.br
+993DXS,Nós de Trek,Brazil,southamerica/brazil/nordeste/lencois,nosdetrek@gmail.com,en,email,,,,,nosdetrek.com.br
 BZHSPK,Oasis Kite Trip,Brazil,southamerica/brazil/nordeste/fortaleza,contact@oasiskitetrip.com,en,email,,,,,
 MF9RW9,Ocean Tour,Brazil,southamerica/brazil/nordeste/praia_do_forte,,en,website,,,,,praiadoforteoceantour.com.br
 PDP7HW,Olhos do Mar,Brazil,southamerica/brazil/nordeste/fernando_de_noronha,contato@olhosdomar.com.br,en,email,,,,,
-GN5ZTV,Olímpio Carneiro Turismo,Brazil,southamerica/brazil/norte/manaus,,en,website,,,,,olimpiocarneiroturismo.com
-9BHVQM,Outer Ecotrip,Brazil,southamerica/brazil/riodejaneiro,,en,website,,,,,outerecotripturismo.com.br
+GN5ZTV,Olímpio Carneiro Turismo,Brazil,southamerica/brazil/norte/manaus,reservas@olimpiocarneiroturismo.com.br,en,email,,,,,olimpiocarneiroturismo.com
+9BHVQM,Outer Ecotrip,Brazil,southamerica/brazil/riodejaneiro,outerecotripturismo@gmail.com,en,email,,,,,outerecotripturismo.com.br
 P6PWQC,Pantanal Paddle Clube,Brazil,southamerica/brazil/centro_oeste/corumba,reservas@pantanalpaddle.com,en,email,,,,,
 CTST4B,Paraná Tour,Brazil,southamerica/brazil/sul/curitiba,halisson@paranatour.tur.br,en,email,,,,,
-5XBTG9,Paraty Per Te,Brazil,southamerica/brazil/sudeste/paraty,,en,website,,,,,paratyperte.com
-6H7GPW,Paraíba Náuticos,Brazil,southamerica/brazil/nordeste/joaopessoa,,en,website,,,,,feriasemjoaopessoa.com.br
+5XBTG9,Paraty Per Te,Brazil,southamerica/brazil/sudeste/paraty,reserva@paratyperte.com,en,email,,,,,paratyperte.com
+6H7GPW,Paraíba Náuticos,Brazil,southamerica/brazil/nordeste/joaopessoa,paraibanauticos@gmail.com,en,email,,,,,feriasemjoaopessoa.com.br
 99PR4Q,Parque das Aves,Brazil,southamerica/brazil/sul/fozdoiguacu,diretoria@parquedasaves.com.br,en,email,,,,,
-5PS7BW,Passeios em João Pessoa,Brazil,southamerica/brazil/nordeste/joaopessoa,,en,website,,,,,ecoturismoecultura.com
+5PS7BW,Passeios em João Pessoa,Brazil,southamerica/brazil/nordeste/joaopessoa,vicente.joaopessoa@gmail.com,en,email,,,,,ecoturismoecultura.com
 N44CCW,Passeios Morro,Brazil,southamerica/brazil/nordeste/morro_de_sao_paulo,contato@passeiosmorro.com.br,en,email,,,,,
-9DL4R4,Passeios Paraíso,Brazil,southamerica/brazil/nordeste/pipa,,en,website,,,,,passeiosparaiso.com.br
-BMSSYM,Patacho Receptivo,Brazil,southamerica/brazil/nordeste/sao_miguel_dos_milagres,,en,website,,,,,patachoreceptivo.com.br
+9DL4R4,Passeios Paraíso,Brazil,southamerica/brazil/nordeste/pipa,passeiosparaiso@gmail.com,en,email,,,,,passeiosparaiso.com.br
+BMSSYM,Patacho Receptivo,Brazil,southamerica/brazil/nordeste/sao_miguel_dos_milagres,contato@patachoreceptivo.com.br,en,email,,,,,patachoreceptivo.com.br
 Y87V2B,Patadacobra,Brazil,southamerica/brazil/sul/bombinhas,info@patadacobra.com.br,en,email,,,,,
 B543XV,Personal Pesca,Brazil,southamerica/brazil/sul/fozdoiguacu,viajecom@personalpesca.com.br,en,email,,,,,
-8ZJ9DJ,Pipa Agência,Brazil,southamerica/brazil/nordeste/pipa,,en,website,,,,,pipaagencia.com.br
-TRLWZH,Pipa Passeios,Brazil,southamerica/brazil/nordeste/pipa,,en,website,,,,,pipapasseios.com
-HRXH8Z,Planeta Vertical,Brazil,southamerica/brazil/sudeste/vitoria,,en,website,,,,,planetavertical.com.br
+8ZJ9DJ,Pipa Agência,Brazil,southamerica/brazil/nordeste/pipa,pipaagenciaa@gmail.com,en,email,,,,,pipaagencia.com.br
+TRLWZH,Pipa Passeios,Brazil,southamerica/brazil/nordeste/pipa,pipapasseios@gmail.com,en,email,,,,,pipapasseios.com
+HRXH8Z,Planeta Vertical,Brazil,southamerica/brazil/sudeste/vitoria,contato@planetavertical.com.br,en,email,,,,,planetavertical.com.br
 9RQJPF,Portal dos Lençóis,Brazil,southamerica/brazil/nordeste/lencois_maranhenses,,en,website,,,,,portaldoslencois.com.br
-LJ6N6W,Porto Bello Náutica,Brazil,southamerica/brazil/sudeste/ubatuba,,en,website,,,,,portobellonautica.com.br
+LJ6N6W,Porto Bello Náutica,Brazil,southamerica/brazil/sudeste/ubatuba,portobellonauticaofc@gmail.com,en,email,,,,,portobellonautica.com.br
 BCZTGL,Praia da Figueira,Brazil,southamerica/brazil/centro_oeste/bonito,,en,website,,,,,praiadafigueira.com.br
 N3PLPV,PRV Turismo,Brazil,southamerica/brazil/centro_oeste/bonito,gerencia@prvturismo.com.br,en,email,,,,,
-3Z3MB6,Pura Vida Trips,Brazil,southamerica/brazil/sudeste/ubatuba,,en,website,,,,,puravidatrips.com.br
-7QB65H,Radical,Brazil,southamerica/brazil/sudeste/vitoria,,en,website,,,,,radicaloficial.com.br
-5NGWN4,Rebello Mergulho,Brazil,southamerica/brazil/nordeste/salvador,,en,website,,,,,rebellomergulho.com.br
-BT9FMB,Ribeira Charter,Brazil,southamerica/brazil/sudeste/ubatuba,,en,website,,,,,ribeiracharter.com.br
+3Z3MB6,Pura Vida Trips,Brazil,southamerica/brazil/sudeste/ubatuba,puravidatripss@gmail.com,en,email,,,,,puravidatrips.com.br
+7QB65H,Radical,Brazil,southamerica/brazil/sudeste/vitoria,radicaloficialbr@gmail.com,en,email,,,,,radicaloficial.com.br
+5NGWN4,Rebello Mergulho,Brazil,southamerica/brazil/nordeste/salvador,georgerebello@gmail.com,en,email,,,,,rebellomergulho.com.br
+BT9FMB,Ribeira Charter,Brazil,southamerica/brazil/sudeste/ubatuba,contato@ribeiracharter.com.br,en,email,,,,,ribeiracharter.com.br
 LHLBZJ,Riviera Brasil,Brazil,southamerica/brazil/sudeste/niteroi,contato@rivierabrasil.com,en,email,,,,,
-4KJ5FY,RL Trips,Brazil,southamerica/brazil/sudeste/arraial_do_cabo,,en,website,,,,,rltrips.com
-NKQ8GB,Roteiros do Paxixi,Brazil,southamerica/brazil/centro_oeste/campo_grande,,en,website,,,,,roteirosdopaxixi.com.br
+4KJ5FY,RL Trips,Brazil,southamerica/brazil/sudeste/arraial_do_cabo,rltripsoficial@gmail.com,en,email,,,,,rltrips.com
+NKQ8GB,Roteiros do Paxixi,Brazil,southamerica/brazil/centro_oeste/campo_grande,contato@roteirosdopaxixi.com.br,en,email,,,,,roteirosdopaxixi.com.br
 HHNJN8,Salvador da Gente,Brazil,southamerica/brazil/nordeste/salvador,contato@salvadordagente.com.br,en,email,,,,,
 S9PNYT,Santo Amaro Lençóis,Brazil,southamerica/brazil/nordeste/lencois_maranhenses,contato@santoamarocoop.com.br,en,email,,,,,
 YBCS7Q,Santos Turismo,Brazil,southamerica/brazil/nordeste/barreirinhas,reservas@santosturismo.com,en,email,,,,,
 MHLM2W,Scubadodive,Brazil,southamerica/brazil/sudeste/sao_sebastiao,contato@scubadodive.com.br,en,email,,,,,
 5FJF3V,SelvaSP,Brazil,southamerica/brazil/sudeste/brotas,,en,website,,,,,selvasp.com.br
-TD2B33,Ser Aventureiro,Brazil,southamerica/brazil/sudeste/teresopolis,,en,website,,,,,seraventureiro.tur.br
+TD2B33,Ser Aventureiro,Brazil,southamerica/brazil/sudeste/teresopolis,seraventureiro@gmail.com,en,email,,,,,seraventureiro.tur.br
 LDTXSK,Serra da Bodoquena Expeditions,Brazil,southamerica/brazil/centro_oeste/bonito,,en,website,,,,,bodoquenaexpeditions.com.br
 7KQXSY,Serra Verde Express,Brazil,southamerica/brazil/sul/morretes,secretaria@serraverdeexpress.com.br,en,email,,,,,
-HD5RD4,Seu Roteiro em Paraty,Brazil,southamerica/brazil/sudeste/paraty,,en,website,,,,,seuroteiroemparaty.com.br
+HD5RD4,Seu Roteiro em Paraty,Brazil,southamerica/brazil/sudeste/paraty,seuroteiroemparaty@gmail.com,en,email,,,,,seuroteiroemparaty.com.br
 Y6SP43,Sinta o Mar,Brazil,southamerica/brazil/sudeste/ubatuba,,en,website,,,,,sintaomar.com
 R3HSRG,SkyZimba,Brazil,southamerica/brazil/sul/praia_do_rosa,skyzimba@skyzimba.com.br,en,email,,,,,
-87MNJ8,Sol Trip,Brazil,southamerica/brazil/nordeste/pipa,,en,website,,,,,soltrip.com.br
+87MNJ8,Sol Trip,Brazil,southamerica/brazil/nordeste/pipa,contato@soltrip.com.br,en,email,,,,,soltrip.com.br
 JY9M47,Sotto Mare,Brazil,southamerica/brazil/sudeste/ilhagrande,michel.couto@sottomare.com.br,en,email,,,,,
 DWNJW5,Supreme Tur,Brazil,southamerica/brazil/nordeste/natal,,en,website,,,,,supremetur.com
-6YMGFN,Tour Divertido,Brazil,southamerica/brazil/sudeste/cabo_frio,,en,website,,,,,tourdivertido.com
-GR5NJJ,Tour Martinez,Brazil,southamerica/brazil/nordeste/porto_de_galinhas,,en,website,,,,,passeioemportodegalinhas.com.br
+6YMGFN,Tour Divertido,Brazil,southamerica/brazil/sudeste/cabo_frio,contato@tourdivertido.com,en,email,,,,,tourdivertido.com
+GR5NJJ,Tour Martinez,Brazil,southamerica/brazil/nordeste/porto_de_galinhas,contato@passeioemportodegalinhas.com.br,en,email,,,,,passeioemportodegalinhas.com.br
 7G493K,Tour pelo Mundo,Brazil,southamerica/brazil/riodejaneiro,contato@tourpelomundo.com,en,email,,,,,
 SKS24G,Treki Turismo,Brazil,southamerica/brazil/sudeste/ouropreto,,en,website,,,,,trekiturismo.com
-HDNFRW,Trilhaingrupo,Brazil,southamerica/brazil/riodejaneiro,,en,website,,,,,trilhaingrupo.com.br
-M55QGH,Trip Balonismo,Brazil,southamerica/brazil/sul/bento_goncalves,,en,website,,,,,tripbalonismo.com.br
+HDNFRW,Trilhaingrupo,Brazil,southamerica/brazil/riodejaneiro,adilsons303@gmail.com,en,email,,,,,trilhaingrupo.com.br
+M55QGH,Trip Balonismo,Brazil,southamerica/brazil/sul/bento_goncalves,contato@tripbalonismo.com.br,en,email,,,,,tripbalonismo.com.br
 NS643N,TripCode,Brazil,southamerica/brazil/sul/canela,contato@tripcode.com.br,en,email,,,,,
-5XL6RR,Trippers Club,Brazil,southamerica/brazil/norte/jalapao,,en,website,,,,,trippersclub.com.br
-B889FK,Turistar,Brazil,southamerica/brazil/riodejaneiro,,en,website,,,,,turistarpasseios.com.br
+5XL6RR,Trippers Club,Brazil,southamerica/brazil/norte/jalapao,contato@trippersclub.com,en,email,,,,,trippersclub.com.br
+B889FK,Turistar,Brazil,southamerica/brazil/riodejaneiro,turistar.rj@gmail.com,en,email,,,,,turistarpasseios.com.br
 RMWH36,Ubatuba Aventura,Brazil,southamerica/brazil/sudeste/ubatuba,contato@ubatubaaventura.com.br,en,email,,,,,
 KLMYZB,Ubatuba Ecotur,Brazil,southamerica/brazil/sudeste/ubatuba,,en,website,,,,,ubatubaecotur.com.br
 46NTW3,Vale das Vinhas,Brazil,southamerica/brazil/sul/bento_goncalves,sabrina@valedasvinhastur.com.br,en,email,,,,,
 KDTJ2J,Veneza Tur,Brazil,southamerica/brazil/centro_oeste/corumba,,en,website,,,,,venezatur.com.br
-BVXPDR,Vertaco,Brazil,southamerica/brazil/brasilia,,en,website,,,,,vertaco.com.br
-CZJ5SN,Via Ecotur,Brazil,southamerica/brazil/brasilia,,en,website,,,,,viaecotur.com.br
+BVXPDR,Vertaco,Brazil,southamerica/brazil/brasilia,aventura@vertaco.com.br,en,email,,,,,vertaco.com.br
+CZJ5SN,Via Ecotur,Brazil,southamerica/brazil/brasilia,viaecotur@gmail.com,en,email,,,,,viaecotur.com.br
 3NF3SP,Viaja BR,Brazil,southamerica/brazil/nordeste/salvador,contato@viajabrturismo.com.br,en,email,,,,,
-QN8F2D,Vida Rural Brasília,Brazil,southamerica/brazil/brasilia,,en,website,,,,,vidaruralbrasilia.com.br
+QN8F2D,Vida Rural Brasília,Brazil,southamerica/brazil/brasilia,vidaruralbrasilia@gmail.com,en,email,,,,,vidaruralbrasilia.com.br
 5LSX4W,Visite a Chapada,Brazil,southamerica/brazil/centro_oeste/cavalcante,cheim.vinicius@visiteachapada.com,en,email,,,,,
 952BK4,Voe de Balão em Piri,Brazil,southamerica/brazil/centro_oeste/pirenopolis,,en,website,,,,,voedebalaoempiri.com.br
 DNF85S,Zentur,Brazil,southamerica/brazil/nordeste/lencois,,en,website,,,,,zentur.tur.br
-DN3634,Águas Turismo,Brazil,southamerica/brazil/centro_oeste/bonito,contato@aguasturismo.com.br,en,email,,,,,
+DN3634,Águas Turismo,Brazil,southamerica/brazil/centro_oeste/bonito,contato@aguasturismo.com.br,en,email,2026-09-21,,,,
 2RSQDG,Agencia NCP Rapa Nui,Chile,southamerica/chile/easterisland,,es,website,,,,,agenciancp.com
 25VRRC,Aguaventura Expediciones,Chile,southamerica/chile/pucan,info@aguaventura.com,es,email,,,,,
 39FRPD,Antilco Horse Trail Riding,Chile,southamerica/chile/pucan,horseback@antilco.com,es,email,,,,,
@@ -389,58 +389,58 @@ KDYT6J,The Lost City Trek,Colombia,southamerica/colombia/santamarta,info@ciudadp
 LW5SP2,Wiwa Tours,Colombia,southamerica/colombia/santamarta,,es,website,,,,,wiwatour.com
 DFHF7T,Zona de Vuelo,Colombia,southamerica/colombia/medellin,,es,website,,,,,zonadevuelo.com
 562WWF,Adventure Tours Costa Rica,Costarica,northamerica/costarica/jaco,,en,website,,,,,adventuretourscostarica.com
-9F5B6Q,Arenal Rafting,Costarica,northamerica/costarica/lafortunaarenalvolcano,,en,website,,,,,arenalrafting.com
-BQJ75S,ATEC,Costarica,northamerica/costarica/puerto_viejo_de_talamanca,,en,website,,,,,ateccr.org
+9F5B6Q,Arenal Rafting,Costarica,northamerica/costarica/lafortunaarenalvolcano,arenalrafting@gmail.com,en,email,,,,,arenalrafting.com
+BQJ75S,ATEC,Costarica,northamerica/costarica/puerto_viejo_de_talamanca,ongatec@gmail.com,en,email,,,,,ateccr.org
 WCT6SV,Bahía Aventuras,Costarica,northamerica/costarica/uvita,,en,website,,,,,bahiaaventuras.com
 YJ88SN,Bahía Ballena Tours,Costarica,northamerica/costarica/uvita,,en,website,,,,,ballenatourcostarica.com
-D6GDRP,Bay Island Cruises,Costarica,northamerica/costarica/puntarenas,,en,website,,,,,bayislandcruises.com
+D6GDRP,Bay Island Cruises,Costarica,northamerica/costarica/puntarenas,reservas@bayislandcruises.com,en,email,,,,,bayislandcruises.com
 8PR498,Cahuita Tours,Costarica,northamerica/costarica/cahuita,,en,website,,,,,cahuitatours.com
 7LXC66,Caminatas al Chirripó,Costarica,northamerica/costarica/san_gerardo_de_rivas,,en,website,,,,,caminatasalchirripo.com
 C5NGL2,Canoa Aventura,Costarica,northamerica/costarica/lafortunaarenalvolcano,,en,website,,,,,canoa-aventura.com
-6YN6LL,Corcovado Hiking Tours,Costarica,northamerica/costarica/puertojimenez,,en,website,,,,,corcovadohikingtours.com
-K7HY37,Costa Rica Fishing Company,Costarica,northamerica/costarica/quepos,,en,website,,,,,costaricafishingcompany.com
-5QDWKD,Dolphin Tours,Costarica,northamerica/costarica/uvita,,en,website,,,,,dolphintourcostarica.com
+6YN6LL,Corcovado Hiking Tours,Costarica,northamerica/costarica/puertojimenez,rodolfohikingtours@gmail.com,en,email,,,,,corcovadohikingtours.com
+K7HY37,Costa Rica Fishing Company,Costarica,northamerica/costarica/quepos,reserve@costaricafishingcompany.com,en,email,,,,,costaricafishingcompany.com
+5QDWKD,Dolphin Tours,Costarica,northamerica/costarica/uvita,dolphintourscr@gmail.com,en,email,,,,,dolphintourcostarica.com
 9SX4B7,Dominical Surf School,Costarica,northamerica/costarica/dominical,,en,website,,,,,dominicalsurfschool.com
-NRYG7K,GoCorcovado,Costarica,northamerica/costarica/drake_bay,,en,website,,,,,gocorcovado.com
+NRYG7K,GoCorcovado,Costarica,northamerica/costarica/drake_bay,info@gocorcovado.com,en,email,,,,,gocorcovado.com
 NNZFQ2,Gone Fishing Quepos,Costarica,northamerica/costarica/quepos,,en,website,,,,,gonefishingquepos.com
-V433HX,Greenway Tours,Costarica,northamerica/costarica/limon,,en,website,,,,,greenwaytours.com
-DK36K7,Hacienda Orosi,Costarica,northamerica/costarica/orosi,,en,website,,,,,haciendaorosi.com
+V433HX,Greenway Tours,Costarica,northamerica/costarica/limon,info@greenwaytours.com,en,email,,,,,greenwaytours.com
+DK36K7,Hacienda Orosi,Costarica,northamerica/costarica/orosi,info@haciendaorosi.com,en,email,,,,,haciendaorosi.com
 XT4B7P,Iguana Surf,Costarica,northamerica/costarica/tamarindo,,en,website,,,,,iguanasurf.net
 7SDZSR,Jaco Surf School Costa Rica,Costarica,northamerica/costarica/jaco,,en,website,,,,,jacosurfschoolcostarica.com
-27QHSG,La Fortuna Rafting,Costarica,northamerica/costarica/lafortunaarenalvolcano,,en,website,,,,,lafortunarafting.com
+27QHSG,La Fortuna Rafting,Costarica,northamerica/costarica/lafortunaarenalvolcano,info@lafortunarafting.com,en,email,,,,,lafortunarafting.com
 NZ9V4J,Monteverde Tours Costa Rica,Costarica,northamerica/costarica/monteverde,,en,website,,,,,monteverdetourscr.com
 8G4G9Q,Monteverde Travel and Adventure,Costarica,northamerica/costarica/monteverde,birdwatching@monteverdetravel.com,en,email,,,,,
-24WTHL,Native's Way Costa Rica,Costarica,northamerica/costarica/liberia,,en,website,,,,,nativeswaycostarica.com
+24WTHL,Native's Way Costa Rica,Costarica,northamerica/costarica/liberia,info@nativesway.com,en,email,,,,,nativeswaycostarica.com
 57RDDV,Natural Center Tours,Costarica,northamerica/costarica/samara,nctours.samara@gmail.com,en,email,,,,,
 BBRCXL,Nature Tours Samara,Costarica,northamerica/costarica/samara,info@naturetourssamara.com,en,email,,,,,
-KZ2KYG,Nosara CR Surf School,Costarica,northamerica/costarica/nosara,,en,website,,,,,nosaracrsurfschool.com
-2LRBJC,Nosara Surf Academy,Costarica,northamerica/costarica/nosara,,en,website,,,,,nosarasurfacademy.com
+KZ2KYG,Nosara CR Surf School,Costarica,northamerica/costarica/nosara,info@nosaracrsurfschool.com,en,email,,,,,nosaracrsurfschool.com
+2LRBJC,Nosara Surf Academy,Costarica,northamerica/costarica/nosara,nosarasurfacademy@gmail.com,en,email,,,,,nosarasurfacademy.com
 9QZLGT,Osa Great Adventure,Costarica,northamerica/costarica/drake_bay,,en,website,,,,,osagreatadventure.com
 G4FQNH,Pacific Dirt Road,Costarica,northamerica/costarica/santa_teresa,,en,website,,,,,quadtourscostarica.com
-BLFZPV,Pacuare Outdoor Center,Costarica,northamerica/costarica/turrialba,,en,website,,,,,pacuareoutdoorcenter.com
+BLFZPV,Pacuare Outdoor Center,Costarica,northamerica/costarica/turrialba,info@pacuareoutdoorcenter.com,en,email,,,,,pacuareoutdoorcenter.com
 BV2ZFX,Pacuare Rafting Tours,Costarica,northamerica/costarica/sanjose,,en,website,,,,,pacuareraftingtours.com
 S36MCT,Pavones Boat Tours,Costarica,northamerica/costarica/golfito,,en,website,,,,,pavonesboattours.com
 6YYTYM,Pura Vida Snorkeling,Costarica,northamerica/costarica/playa_flamingo,,en,website,,,,,puravidasnorkeling.com
 9VKCSD,Refugio Monteverde,Costarica,northamerica/costarica/monteverde,,en,website,,,,,refugiomonteverdecr.com
-LSQ5KL,Rich Coast Diving,Costarica,northamerica/costarica/playas_del_coco,,en,website,,,,,richcoastdiving.com
-PXHFF3,Rincón de la Vieja Park Tours,Costarica,northamerica/costarica/rincon_de_la_vieja,,en,website,,,,,rincondelaviejapark.com
-DQ4NNC,Salty Smile Surf,Costarica,northamerica/costarica/tamarindo,,en,website,,,,,saltysmilesurf.com
+LSQ5KL,Rich Coast Diving,Costarica,northamerica/costarica/playas_del_coco,info@richcoastdiving.com,en,email,,,,,richcoastdiving.com
+PXHFF3,Rincón de la Vieja Park Tours,Costarica,northamerica/costarica/rincon_de_la_vieja,info@rincondelaviejapark.com,en,email,,,,,rincondelaviejapark.com
+DQ4NNC,Salty Smile Surf,Costarica,northamerica/costarica/tamarindo,saltysmilesurf@gmail.com,en,email,,,,,saltysmilesurf.com
 XFKM8S,Samara Sea Tours,Costarica,northamerica/costarica/samara,,en,website,,,,,samaraseatours.com
 MMQRBQ,Santa Teresa Surf Lessons,Costarica,northamerica/costarica/santa_teresa,,en,website,,,,,santateresasurflessons.com
 TJTRH4,Sarapiquí Adventures,Costarica,northamerica/costarica/sarapiqui,,en,website,,,,,aventurasdelsarapiqui.com
 HX4B4G,Sarapiquí Outdoor Center,Costarica,northamerica/costarica/sarapiqui,,en,website,,,,,costaricaraft.com
 36M6QG,Tamarindo Surf & Tours,Costarica,northamerica/costarica/tamarindo,info@tamarindosurfandtours.com,en,email,,,,,
-2LWSFR,The King Catamaran,Costarica,northamerica/costarica/manuelantonio,,en,website,,,,,thekingcatamaran.com
+2LWSFR,The King Catamaran,Costarica,northamerica/costarica/manuelantonio,info@thekingcatamaran.com,en,email,,,,,thekingcatamaran.com
 MKCZ6V,The Original Canopy Tour,Costarica,northamerica/costarica/monteverde,,en,website,,,,,canopyoriginal.com
 LSV5FQ,Tico's River,Costarica,northamerica/costarica/turrialba,,en,website,,,,,ticoriver.com
 H4PYF8,Top Trails Corcovado,Costarica,northamerica/costarica/drake_bay,,en,website,,,,,toptrailscorcovado.com
-8Q6ZBX,Tortuguero Info Tours,Costarica,northamerica/costarica/tortuguero,,en,website,,,,,tortugueroinfo.com
+8Q6ZBX,Tortuguero Info Tours,Costarica,northamerica/costarica/tortuguero,tours@tortugueroinfo.com,en,email,,,,,tortugueroinfo.com
 8BZ8BR,Tortuguero National Park Tours,Costarica,northamerica/costarica/tortuguero,,en,website,,,,,tortuguero.net
 4C5BQ9,Tortuguero Native Guides,Costarica,northamerica/costarica/tortuguero,,en,website,,,,,tortugueronativeguide.com
 ZSHR27,Tropical Escapade,Costarica,northamerica/costarica/golfito,,en,website,,,,,tropicalescapade.com
-JPCDTL,Tucanes Tours,Costarica,northamerica/costarica/manuelantonio,,en,website,,,,,tucanestours.com
+JPCDTL,Tucanes Tours,Costarica,northamerica/costarica/manuelantonio,info@tucanestours.com,en,email,,,,,tucanestours.com
 YG4Z4S,Willie's Tours,Costarica,northamerica/costarica/cahuita,,en,website,,,,,williestourscostarica.com
-5JMZC6,Zuma Tours,Costarica,northamerica/costarica/montezuma,,en,website,,,,,zumatours.net
+5JMZC6,Zuma Tours,Costarica,northamerica/costarica/montezuma,info@zumatours.net,en,email,,,,,zumatours.net
 95SS9P,Academy Bay Diving,Ecuador,southamerica/ecuador/galapagosislands,reservas@academybaydiving.com,es,email,,,,,
 SDDYQ5,AquaXtreme,Ecuador,southamerica/ecuador/tena,aquaxtreme.com@gmail.com,es,email,,,,,
 YHJ7ZR,Balsa Surf Camp,Ecuador,southamerica/ecuador/montanita,balsasurfcamp@gmail.com,es,email,,,,,
@@ -592,15 +592,15 @@ MMHXDZ,Wilderness Explorers,Guyana,southamerica/guyana/georgetown,info@wildernes
 D322ZM,Adventures Panama,Panama,northamerica/panama/panamacity,,en,website,,,,,adventurespanama.com
 NG8WGT,Beyond Adventure Tours,Panama,northamerica/panama/chiriqui/boquete,beyondadventuretours@gmail.com,en,email,,,,,
 BPBP8J,Boquete Outdoor Adventures,Panama,northamerica/panama/chiriqui/boquete,sales@boqueteoutdooradventures.com,en,email,,,,,
-LKDWH2,Coiba Dive Center,Panama,northamerica/panama/veraguas/santacatalina,,en,website,,,,,coibadivecenter.com
+LKDWH2,Coiba Dive Center,Panama,northamerica/panama/veraguas/santacatalina,info@coibadivecenter.com,en,email,,,,,coibadivecenter.com
 CH87DS,Emberá Village Tours,Panama,northamerica/panama/panamacity,tours@emberavillagetours.com,en,email,,,,,
 KC4GJT,Guna Yala Explorer,Panama,northamerica/panama/sanblasislands,info@gunayalaexplorer.com,en,email,,,,,
 JZQQDR,Guna Yala Panama Travel,Panama,northamerica/panama/sanblasislands,,en,website,,,,,gunayalapanamatravel.com
-5KGF6B,Jager Knights,Panama,northamerica/panama/bocasdeltoro,,en,website,,,,,bocasdeltorocatamaran.com
+5KGF6B,Jager Knights,Panama,northamerica/panama/bocasdeltoro,jagerknights@gmail.com,en,email,,,,,bocasdeltorocatamaran.com
 WLWMQZ,Kuna Yala Adventures,Panama,northamerica/panama/sanblasislands,info@kunayalaadventure.com,en,email,,,,,
 VXJJXK,Panama Canal Fishing,Panama,northamerica/panama/soberania,info@panamacanalfishing.com,en,email,,,,,
 FCPPB3,Panama Dive Center,Panama,northamerica/panama/veraguas/santacatalina,info@panamadivecenter.com,en,email,,,,,
-DKMM9K,Panama Road Trips,Panama,northamerica/panama/panamacity,,en,website,,,,,panamaroadtrips.com
+DKMM9K,Panama Road Trips,Panama,northamerica/panama/panamacity,info.panamaroadtrips@gmail.com,en,email,,,,,panamaroadtrips.com
 84WBLX,Panama Sailing,Panama,northamerica/panama/bocasdeltoro,,en,website,,,,,panamasailing.com
 J5QPWZ,Panama Your Way,Panama,northamerica/panama/panamacity,info@panamayourway.com,en,email,,,,,
 48PSZC,Pangea Bocas,Panama,northamerica/panama/bocasdeltoro,,en,website,,,,,pangeabocas.com

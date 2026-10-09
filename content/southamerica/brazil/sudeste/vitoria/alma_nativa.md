@@ -1,6 +1,7 @@
 ---
 address: Santa Clara 106, Vitória
 commercial: true
+email: almanativaturismo@gmail.com
 latitude: -20.3186
 longitude: -40.3441
 outreach_code: 2WV6RY

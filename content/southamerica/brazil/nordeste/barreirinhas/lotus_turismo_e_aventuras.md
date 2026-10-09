@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: receptivolotusturismo@hotmail.com
 latitude: -2.7541
 longitude: -42.8259
 outreach_code: TD8WXT

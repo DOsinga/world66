@@ -1,6 +1,7 @@
 ---
 address: Rua Albacora N° 11 Pipa, Tibau do Sul
 commercial: true
+email: pipaagenciaa@gmail.com
 latitude: -6.2315
 longitude: -35.0487
 outreach_code: 8ZJ9DJ

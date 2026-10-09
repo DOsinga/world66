@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: contato@arraialextremo.com
 latitude: -22.9307
 longitude: -42.1878
 outreach_code: J6HDJK

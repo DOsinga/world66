@@ -1,6 +1,7 @@
 ---
 address: Rua Judith 39, São Sebastião
 commercial: true
+email: greenwaybrasil@hotmail.com
 latitude: -23.7658
 longitude: -45.7513
 outreach_code: XWFP35

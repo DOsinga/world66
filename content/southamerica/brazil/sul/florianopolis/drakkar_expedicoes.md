@@ -1,6 +1,7 @@
 ---
 address: Luiz Pasteur 509, Florianópolis
 commercial: true
+email: drakkarexpedicoes@gmail.com
 latitude: -27.5858
 longitude: -48.5275
 outreach_code: QZ2NLL

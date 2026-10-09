@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: info@raftingpuntolimite.com.ar
 latitude: -41.437
 longitude: -71.667
 outreach_code: PVRV8T

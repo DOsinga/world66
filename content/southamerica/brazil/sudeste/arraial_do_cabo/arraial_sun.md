@@ -1,6 +1,7 @@
 ---
 address: Rua Rebeche, Nº17, Loja 08, Praia Grande, Arraial do Cabo
 commercial: true
+email: arraialsun@gmail.com
 latitude: -22.9307
 longitude: -42.1878
 outreach_code: 8TKTQJ

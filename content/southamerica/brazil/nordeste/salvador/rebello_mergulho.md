@@ -1,6 +1,7 @@
 ---
 address: Rua Barão Sergy 82, Salvador
 commercial: true
+email: georgerebello@gmail.com
 latitude: -13.0035
 longitude: -38.5322
 outreach_code: 5NGWN4

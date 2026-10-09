@@ -1,5 +1,7 @@
 ---
+address: Gobernador Paz 95, Ushuaia
 commercial: true
+email: info@pinguinosexp.com
 latitude: -54.9063
 longitude: -67.3871
 outreach_code: 27325Y
@@ -12,7 +14,6 @@ title: Pingüinos Exp
 type: poi
 url: pinguinosexp.com
 whatsapp: +54 9 2901 640939
-address: Gobernador Paz 95, Ushuaia
 ---
 
 A navigation along the Beagle Channel to Isla de los Pingüinos — Isla Martillo, the penguin colony east of Ushuaia, where Magellanic and gentoo penguins breed from October to April.

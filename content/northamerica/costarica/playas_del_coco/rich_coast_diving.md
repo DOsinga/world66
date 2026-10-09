@@ -1,6 +1,7 @@
 ---
 address: Main Street 151, Playas del Coco, Guanacaste
 commercial: true
+email: info@richcoastdiving.com
 latitude: 10.55799
 longitude: -85.69226
 outreach_code: LSQ5KL

@@ -13,6 +13,10 @@ heritage: 5.704
 vibrancy: 4.929
 nature: 7.512
 off_the_beaten_track: 3.312
+image: placencia.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Maya_Beach,_Placencia,_Belize.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Nagyman
 ---
 
 Placencia is a small beach village at the southern tip of a long peninsula in [Belize](/northamerica/belize). It is definitely a tourist place, but it clears the bar because the appeal is not just a resort strip: the village has its own slow rhythm, a famous pedestrian sidewalk, a lagoon behind it, and some of the country's best reef trips offshore.

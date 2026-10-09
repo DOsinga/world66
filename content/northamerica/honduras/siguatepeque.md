@@ -14,6 +14,10 @@ heritage: 5.329
 vibrancy: 2.748
 nature: 6.071
 off_the_beaten_track: 4.41
+image: siguatepeque.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Parque_Central_Siguatepeque.jpg
+image_license: CC BY-SA 4.0
+image_attribution: LorenzoFlores1989
 ---
 
 Siguatepeque sits in the mountains halfway between [Tegucigalpa](/northamerica/honduras/tegucigalpa) and [San Pedro Sula](/northamerica/honduras/sanpedrosula), often dismissed as a truck stop on the highway between Honduras's two main cities. That is a mistake. The town has a cooler climate than either capital, a lively main street ([Calle 21 de Agosto](/northamerica/honduras/siguatepeque/calle_21_de_agosto), known locally as "Veinte-uno"), and a genuine small-city charm that rewards a stop.

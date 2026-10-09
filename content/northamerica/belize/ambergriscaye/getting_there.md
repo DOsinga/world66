@@ -3,6 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-Ambergris Caye is reached by water taxi from Belize City (about 75 minutes) or by domestic flight to San Pedro's John Greif II Airport (about 20 minutes). Maya Island Air and Tropic Air both run multiple daily flights from Belize City's municipal airport (not the international airport — take a taxi or bus from the international terminal to the municipal one). Flights are small prop planes with a luggage weight limit.
+Water taxis from Belize City are the main connection for budget travellers. San Pedro Express and Ocean Ferry both operate from the Marine Terminal in Belize City, with departures throughout the day from roughly 8am to 5pm. The crossing takes about 1.5 hours and costs around BZ$30–35 each way. Caye Caulker is a stop along the way and takes about 45 minutes from San Pedro.
 
-Water taxis leave from the Marine Terminal in downtown Belize City; the crossing takes about 75 minutes in good conditions and can be rough. The fare is around USD 20 one way. For those arriving on international flights, the combination of international arrival, taxi to marine terminal, and water taxi journey takes at least three to four hours, so the short flight is often worth the extra cost.
+Flying is dramatically faster. Tropic Air and Maya Island Air have multiple daily 15-minute flights between San Pedro and both Belize City International (for connections onward) and the smaller Philip Goldson Municipal Airport. Fares are around US$50–80 each way. If you are arriving from overseas with a connecting flight the same day, flying is the only sensible option. The airstrip in San Pedro is right at the edge of town — you walk from the plane.

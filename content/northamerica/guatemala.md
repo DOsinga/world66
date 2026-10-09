@@ -26,7 +26,7 @@ About 44% of Guatemala's 17 million people are indigenous Maya, speaking 21 dist
 
 The country has two natural entry points for travelers. [Antigua Guatemala](/northamerica/guatemala/antiguaguatemala), the old colonial capital an hour from Guatemala City, is beautiful, comfortable, and a reasonable base for volcano hikes and day trips. [Flores](/northamerica/guatemala/flores) in the north, near the Mexican border, is the staging post for [Tikal](/northamerica/guatemala/tikal) — the jungle Maya metropolis that is among the most impressive archaeological sites in the Western Hemisphere.
 
-Between those poles there is [Lake Atitlán](/northamerica/guatemala/lakeatitlan), [Quetzaltenango](/northamerica/guatemala/quezaltenango), [Cobán](/northamerica/guatemala/coban), the Cuchumatanes highlands, and [Livingston](/northamerica/guatemala/livingstone) on the Caribbean coast. Most travelers see only Antigua and Tikal. The country rewards those who push further.
+Between those poles there is [Lake Atitlán](/northamerica/guatemala/lakeatitlan), [Quetzaltenango](/northamerica/guatemala/quetzaltenango), [Cobán](/northamerica/guatemala/coban), the Cuchumatanes highlands, and [Livingston](/northamerica/guatemala/livingston) on the Caribbean coast. Most travelers see only Antigua and Tikal. The country rewards those who push further.
 
 The civil war (1960–1996) left deep scars, particularly in indigenous communities that bore the brunt of state violence. Crime remains significant, especially in Guatemala City and certain rural corridors. But the main tourist areas are safer than their reputation suggests, and the generosity and directness of Guatemalans — once you get past the larger cities — makes travel here unusually rewarding.
 

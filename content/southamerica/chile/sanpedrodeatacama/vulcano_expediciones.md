@@ -22,4 +22,4 @@ Cerro Toco is the one to start with — 80,000 pesos a head, all in, including t
 
 They publish no street address and no telephone. Quotes and bookings go through WhatsApp, on a number they also print in plain text in the footer.
 
----
+They also keep an inventory of a hundred things to do in and around San Pedro, which is the most complete list of the area anyone has made in any language and is the source of a good many of the pages in this guide. It is one of the six sites in [6 Blogs for San Pedro and the Atacama](/southamerica/chile/sanpedrodeatacama/blogs_for_san_pedro_and_the_atacama).

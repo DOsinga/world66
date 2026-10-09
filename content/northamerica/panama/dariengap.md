@@ -3,13 +3,18 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
   poi_cleanup: '2026-04-21'
+image: dariengap.jpg
+image_attribution: Mónica J. Mora
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:La_Palma_Darien_Panama_03.jpg
 latitude: 8.0833
+loc_type: region
 longitude: -77.5667
 score: 0.36
+snippet: Roadless jungle region between Panama and Colombia, breaking the Pan-American
+  Highway with swamp, mountains, and rainforest.
 title: Darién Gap
 type: location
-loc_type: region
-snippet: "Roadless jungle region between Panama and Colombia, breaking the Pan-American Highway with swamp, mountains, and rainforest."
 ---
 
 The Darién Gap is the 100-km stretch of jungle, swamp, and mountain that interrupts the Pan-American Highway between Panama and Colombia — the only break in a road system that otherwise runs continuously from Alaska to Tierra del Fuego. No road has been built through it, and no serious proposal to build one has succeeded. The reasons are practical (extraordinary terrain and cost), environmental (the Gap is protected as Darién National Park, a UNESCO World Heritage Site), and epidemiological (the Gap has historically served as a barrier preventing foot-and-mouth disease from spreading north from South America into Central and North America).

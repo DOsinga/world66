@@ -7,9 +7,14 @@ snippet: Wild surf beach tucked between green hills west of Barra
 tags:
 - beaches
 - beach
+- things_to_do
+- sight
+- barra_da_tijuca
 title: Prainha
 type: poi
 score: 7.9
 ---
 
-A surfer's paradise tucked between green hills, west of Barra da Tijuca. Prainha is small, wild and beautiful -- nothing like the urban beaches of the Zona Sul. You can only reach it by car, and on sunny weekends parking fills up fast (access is controlled by guards). The waves are strong and consistent, making it one of Rio's best surf spots. Bring everything you need -- there is little infrastructure beyond the beach itself.
+Prainha — "little beach" — is one of the most beautiful and protected beaches near Rio de Janeiro, sitting in a small cove flanked by Atlantic forest and accessible only by a single road through a nature reserve. The combination of controlled access and natural surroundings makes it one of the few beaches near the city that still feels genuinely wild.
+
+The surf here is among the best in Rio, and Prainha has hosted national and international competitions for decades. Access is limited at weekends to prevent overcrowding; you may need to park further away and take a minibus or walk. Come on a weekday if you can. The contrast with the urban bustle of the rest of Barra da Tijuca — only about 20 kilometres away — is remarkable.

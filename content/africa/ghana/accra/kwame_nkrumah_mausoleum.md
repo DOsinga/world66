@@ -6,11 +6,14 @@ latitude: 5.5481
 longitude: -0.2068
 score: 7.8
 snippet: Ghana's founding president entombed where independence was declared
+sources:
+- https://www.beingchristinajane.com/things-to-do-in-accra/
 tags:
 - things_to_do
 - sight
 - museum
 - monument
+- blogs_that_show_you_accra
 title: Kwame Nkrumah Memorial Park and Mausoleum
 type: poi
 ---

@@ -1,15 +1,19 @@
 ---
-title: History Museum of Armenia
-type: poi
+address: Republic Square
 latitude: 40.1787
 longitude: 44.5142
-tags:
-  - things_to_do
-  - museum
-  - kentron
 neighbourhood: Kentron
-address: Republic Square
 score: 8.5
+sources:
+- https://www.mywanderlust.pl/things-to-do-in-yerevan-armenia/
+- https://absolutearmenia.com/yerevan-in-winter/
+tags:
+- things_to_do
+- museum
+- kentron
+- blogs_for_yerevan_and_armenia
+title: History Museum of Armenia
+type: poi
 ---
 
 Yerevan's main historical collection occupies the pink-tufa block on the north side of Republic Square, sharing the building with the National Gallery. The displays cover Armenia from prehistory through the Urartian kingdom, the Hellenistic and Christian eras, medieval kingdoms, and the modern Republic.

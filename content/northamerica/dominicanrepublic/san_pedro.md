@@ -14,6 +14,10 @@ heritage: 3.638
 vibrancy: 4.144
 nature: 5.131
 off_the_beaten_track: 2.852
+image: san_pedro.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Calle_S%C3%A1nchez,_Centro_Hist%C3%B3rico.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Magserie23
 ---
 
 San Pedro de Macorís is a port city on the southeastern coast of the Dominican Republic, about 70 kilometres east of [Santo Domingo](/northamerica/dominicanrepublic/santodomingo). It is one of the country's most distinctive cities — a place with a real history, a fierce local pride, and a reputation that reaches far beyond its size.

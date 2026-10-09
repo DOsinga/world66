@@ -1,15 +1,25 @@
 ---
-title: "Baščaršija"
-type: poi
-latitude: 43.8600
-longitude: 18.4320
-tags:
-  - things_to_do
-  - neighbourhood
-  - sight
-story: >
-  The name Baščaršija comes from the Turkish "başçarşı" meaning "main market." It was established by Ottoman governor Gazi Husrev-beg in 1531, and many of the guild divisions he set up — with streets dedicated to specific crafts — are still legible in the street names today: Kazandžiluk (Coppersmiths' Street) still has coppersmiths.
+latitude: 43.86
+longitude: 18.432
 score: 9.7
+sources:
+- https://www.kathmanduandbeyond.com/alternative-things-to-do-in-sarajevo-bosnia/
+- https://www.indietraveller.co/sarajevo-travel-guide/
+- https://www.heartmybackpack.com/blog/sarajevo-bosnia/
+story: 'The name Baščaršija comes from the Turkish "başçarşı" meaning "main market."
+  It was established by Ottoman governor Gazi Husrev-beg in 1531, and many of the
+  guild divisions he set up — with streets dedicated to specific crafts — are still
+  legible in the street names today: Kazandžiluk (Coppersmiths'' Street) still has
+  coppersmiths.
+
+  '
+tags:
+- things_to_do
+- neighbourhood
+- sight
+- blogs_worth_reading_on_sarajevo
+title: Baščaršija
+type: poi
 ---
 
 Baščaršija is the Ottoman heart of Sarajevo — a quarter of cobblestone lanes, courtyard mosques, copper workshops, and cafes that has been trading since the 16th century. It is touristy in places but not fake; this is a living market quarter, not a reconstruction, and the coppersmiths still hammer out džezva coffee pots and round trays the way they have for centuries.

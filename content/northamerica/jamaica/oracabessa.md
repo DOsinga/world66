@@ -14,6 +14,10 @@ heritage: 2.595
 vibrancy: 2.369
 nature: 6.626
 off_the_beaten_track: 2.903
+image: oracabessa.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Oracabessa_History2.jpg
+image_license: Public domain
+image_attribution: William Hennings
 ---
 
 Oracabessa is a small town in St Mary parish, about 16 km east of Ocho Rios on the north coast. Its Spanish name — Oracabeza, or "Golden Head" — refers to the quality of the light that falls on the bay in the afternoons.

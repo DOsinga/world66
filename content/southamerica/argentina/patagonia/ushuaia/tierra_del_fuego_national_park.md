@@ -1,14 +1,19 @@
 ---
-title: "Tierra del Fuego National Park"
+title: Tierra del Fuego National Park
 type: poi
 tags:
-  - things_to_do
-  - sight
-  - park
+- things_to_do
+- sight
+- park
+- nature
 latitude: -54.8397
 longitude: -68.5358
-story: >
-  Route 3, the road from Buenos Aires that crosses all of Patagonia, ends inside this park at a small sign that reads simply "Fin del Camino" — End of the Road. It is the southernmost point you can reach by car in Argentina, and one of the most southern by road in the entire world.
+story: 'Route 3, the road from Buenos Aires that crosses all of Patagonia, ends inside
+  this park at a small sign that reads simply "Fin del Camino" — End of the Road.
+  It is the southernmost point you can reach by car in Argentina, and one of the most
+  southern by road in the entire world.
+
+  '
 score: 9.1
 ---
 

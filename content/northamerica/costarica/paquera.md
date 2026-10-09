@@ -1,9 +1,16 @@
 ---
 done:
   link_coverage: '2026-06-22'
+heritage: 1.881
+image: paquera.jpg
+image_attribution: Rodtico21
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Playa_%C3%93rganos._Paquera._Costa_Rica.jpg
 latitude: 9.8265
 loc_type: city
 longitude: -84.9644
+nature: 7.21
+off_the_beaten_track: 5.117
 score: 5.659
 snippet: Ferry town on the southern Nicoya Peninsula, useful for Curú, Tortuga Island,
   and quiet gulf beaches.
@@ -12,10 +19,7 @@ sources:
 - https://www.openstreetmap.org/
 title: Paquera
 type: location
-heritage: 1.881
 vibrancy: 1.579
-nature: 7.21
-off_the_beaten_track: 5.117
 ---
 
 Paquera is not the Nicoya Peninsula's prettiest town, but it is one of its most useful. Ferries from Puntarenas land nearby, buses fan out toward Montezuma and Santa Teresa, and the sheltered Gulf of Nicoya sits close enough for island trips, kayaking, and quiet beach afternoons.

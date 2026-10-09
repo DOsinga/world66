@@ -1,15 +1,24 @@
 ---
-title: "Ala-Too Square"
-type: poi
-tags:
-  - things_to_do
-  - sight
+address: Chuy Avenue, Bishkek
 latitude: 42.8764
 longitude: 74.6039
-address: "Chuy Avenue, Bishkek"
-story: >
-  The bronze Lenin that dominated Ala-Too Square for fifty years was taken down in 2003 and moved to a quieter spot behind the State Historical Museum, where he now faces away from his old square. In his place stands Erkindik (Freedom), a winged woman holding the tunduk — the round wooden crown of a Kyrgyz yurt — that also appears on the national flag. In 2011 she was replaced by Manas, the hero of the Kyrgyz national epic.
 score: 7.4
+sources:
+- https://www.journalofnomads.com/top-things-to-do-in-bishkek-kyrgyzstan/
+story: 'The bronze Lenin that dominated Ala-Too Square for fifty years was taken down
+  in 2003 and moved to a quieter spot behind the State Historical Museum, where he
+  now faces away from his old square. In his place stands Erkindik (Freedom), a winged
+  woman holding the tunduk — the round wooden crown of a Kyrgyz yurt — that also appears
+  on the national flag. In 2011 she was replaced by Manas, the hero of the Kyrgyz
+  national epic.
+
+  '
+tags:
+- things_to_do
+- sight
+- blogs_for_bishkek_and_the_mountains
+title: Ala-Too Square
+type: poi
 ---
 
 The central square of Bishkek and the heart of the city. The marble-clad State Historical Museum sits on the north side, the towering Kyrgyz flagpole — guarded by an hourly changing of the ceremonial guard — on the south side, and a 26-metre statue of Manas the warrior at one end. Around the square sprawl the government complex, the Bishkek City Hall, and a wide expanse of fountains and benches.

@@ -19,6 +19,6 @@ whatsapp: +597 893 2955
 
 Another of the four-digit centrals: 1661 from a Surinamese line, an app for Android and iOS, and an office that answers at any hour.
 
-City work is charged at set rates. As with the others, the practical local habit is to take a good driver's own mobile number and call him directly afterwards, which is normal here rather than presumptuous.
+Ask how the fare is set when you book; it varies between the centrals. As with the others, the practical local habit is to take a good driver's own mobile number and call him directly afterwards, which is normal here rather than presumptuous.
 
 The WhatsApp number is published inside the site's widget rather than in the text of the page.

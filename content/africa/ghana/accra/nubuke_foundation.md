@@ -7,10 +7,12 @@ snippet: Contemporary Ghanaian art foundation in East Legon with exhibitions, ev
 sources:
 - https://en.wikivoyage.org/wiki/Accra
 - http://www.nubukefoundation.org/
+- https://www.beingchristinajane.com/things-to-do-in-accra/
 tags:
 - things_to_do
 - museum
 - gallery
+- blogs_that_show_you_accra
 title: Nubuke Foundation
 type: poi
 ---

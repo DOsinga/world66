@@ -23,6 +23,8 @@ Checks:
   city_has_child_location  city contains a child location page        [report]
   non_canonical_section    section slug not in canonical set         [partial fix]
   broken_link              markdown link to /<path> doesn't resolve  [report]
+  bloglist_entries         type=bloglist blogs: entry is malformed    [report]
+  bloglist_contacts        featured blog missing from outreach file   [report]
   commercial_poi           commercial: true POI missing contact/tags  [report]
   activity_providers       activities providers: path doesn't resolve  [report]
 
@@ -32,6 +34,7 @@ build (used while a new rule's pre-existing violations are cleaned up).
 """
 
 import argparse
+import csv
 import os
 import re
 import sys
@@ -49,6 +52,7 @@ CONTENT_DIR = REPO / "content"
 
 ALLOWED_PAGE_TYPES = {
     "location", "section", "section_group", "neighbourhood", "theme", "poi",
+    "bloglist",
 }
 ALLOWED_LOC_TYPES = {
     "continent", "country", "region", "island", "feature", "city",
@@ -636,6 +640,66 @@ def check_broken_links(pages: list[Page]) -> list[Issue]:
     return issues
 
 
+def check_bloglist_entries(pages: list[Page]) -> list[Issue]:
+    """A bloglist's whole content is its `blogs:` entries — a malformed one
+    renders as nothing at all, so catch it here rather than on the page."""
+    issues = []
+    for p in pages:
+        if p.page_type != "bloglist":
+            continue
+        blogs = p.meta.get("blogs")
+        if not isinstance(blogs, list) or not blogs:
+            issues.append(Issue(
+                path=p.path, check="bloglist_entries",
+                message="type=bloglist without a non-empty blogs: list",
+            ))
+            continue
+        for i, entry in enumerate(blogs, 1):
+            if not isinstance(entry, dict):
+                issues.append(Issue(
+                    path=p.path, check="bloglist_entries",
+                    message=f"blogs[{i}] is not a name/url/note mapping",
+                ))
+                continue
+            for field_name in ("name", "url", "note"):
+                if not str(entry.get(field_name) or "").strip():
+                    issues.append(Issue(
+                        path=p.path, check="bloglist_entries",
+                        message=f"blogs[{i}] ({entry.get('name', '?')}) missing {field_name}",
+                    ))
+            url = str(entry.get("url") or "")
+            if url and not url.startswith(("http://", "https://")):
+                issues.append(Issue(
+                    path=p.path, check="bloglist_entries",
+                    message=f"blogs[{i}] url {url!r} is not an http(s) URL",
+                ))
+    return issues
+
+
+def check_bloglist_contacts(pages: list[Page]) -> list[Issue]:
+    """Every featured blog needs a row in the outreach file, so the people
+    whose work we feature can actually be told about it."""
+    contacts_file = REPO / "tools" / "blog_outreach.csv"
+    if not contacts_file.is_file():
+        return []
+    with contacts_file.open(encoding="utf-8", newline="") as fh:
+        known = {row["blog_url"].strip() for row in csv.DictReader(fh)}
+    issues = []
+    for p in pages:
+        if p.page_type != "bloglist":
+            continue
+        for entry in p.meta.get("blogs") or []:
+            if not isinstance(entry, dict):
+                continue
+            url = str(entry.get("url") or "").strip()
+            if url and url not in known:
+                issues.append(Issue(
+                    path=p.path, check="bloglist_contacts",
+                    message=f"{entry.get('name', url)} has no row in tools/blog_outreach.csv",
+                ))
+    return issues
+
+
 def check_commercial_poi(pages: list[Page]) -> list[Issue]:
     """Bookable activity providers are only useful if a reader can reach them.
 
@@ -729,6 +793,8 @@ CHECKS = [
     check_city_has_child_location,
     check_non_canonical_section,
     check_broken_links,
+    check_bloglist_entries,
+    check_bloglist_contacts,
     check_commercial_poi,
     check_activity_providers,
 ]

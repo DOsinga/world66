@@ -1,13 +1,21 @@
 ---
-title: "Our Lady of the Rocks"
-type: poi
 latitude: 42.4869
 longitude: 18.6919
-tags:
-  - things_to_do
-  - sight
-story: "According to local legend, two Perast brothers found an icon of the Virgin floating on a rocky reef in 1452 and vowed to build a church there. The locals carried stones out in boats over generations, gradually building up the reef into a small artificial island. Every 22 July, the *Fašinada* ceremony — boats laden with stones rowing out at sunset and dropping them around the church — keeps the legend alive."
 score: 8.3
+sources:
+- https://www.montenegropulse.com/things-to-do-in-kotor.html
+- https://www.chasingthedonkey.com/bay-of-kotor-things-to-do-in-kotor-montenegro/
+story: According to local legend, two Perast brothers found an icon of the Virgin
+  floating on a rocky reef in 1452 and vowed to build a church there. The locals carried
+  stones out in boats over generations, gradually building up the reef into a small
+  artificial island. Every 22 July, the *Fašinada* ceremony — boats laden with stones
+  rowing out at sunset and dropping them around the church — keeps the legend alive.
+tags:
+- things_to_do
+- sight
+- blogs_for_kotor_and_the_bay
+title: Our Lady of the Rocks
+type: poi
 ---
 
 Our Lady of the Rocks (Gospa od Škrpjela) is one of only two small islands in the Bay of Kotor, and the only one in the world built entirely by human hands. The small baroque church on the islet stands among the cargo of stones added over the centuries, with frescoes by the local 17th-century painter Tripo Kokolja covering the interior walls and ceiling.

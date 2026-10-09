@@ -1,12 +1,15 @@
 ---
 latitude: 41.6882
 longitude: 44.8092
+score: 8.9
 snippet: Historic brick-domed bathhouses fed by natural hot springs
+sources:
+- https://alittleadrift.com/georgia/tbilisi/
 tags:
 - things_to_do
+- blogs_to_read_before_tbilisi
 title: Sulphur Baths
 type: poi
-score: 8.9
 ---
 
 The sulphur baths of Abanotubani are the reason Tbilisi exists — legend says King Vakhtang Gorgasali discovered the hot springs while hunting in the 5th century and founded the city on the spot. The domed brick bathhouses clustered at the foot of Narikala Fortress still draw from those same sulphurous springs.

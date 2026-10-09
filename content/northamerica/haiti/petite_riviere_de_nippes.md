@@ -14,6 +14,10 @@ heritage: 2.556
 vibrancy: 1.325
 nature: 5.075
 off_the_beaten_track: 5.415
+image: petite_riviere_de_nippes.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Petite_Rivi%C3%A8re_de_Nippes_-_panoramio.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Alex Carroll
 ---
 
 Petite Rivière de Nippes is a small fishing village on Haiti's southern coast, in the Nippes department. Far from the capital's noise and from the main tourist circuit, life here moves at the pace of the sea and the market day.

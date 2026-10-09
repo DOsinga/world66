@@ -3,6 +3,6 @@ title: "When to Go"
 type: section
 ---
 
-The dry season runs from late November through April, with clear skies and calm seas. This is the best time for diving and snorkelling and the busiest period for tourism. December through March is peak season — book accommodation well in advance and expect higher prices.
+The dry season runs from November through May and is the best time to visit. Seas are calm, diving visibility peaks at 30 metres or more, and the days are reliably sunny. February through April is the driest stretch — bright days, cooling northeast trade winds, and none of the humidity that sets in later in the year. High season runs from December through February, when prices spike and advance booking becomes essential for accommodation.
 
-The wet season from June through November brings more rain, but also fewer visitors and lower prices. Diving remains possible in the wet season and can be excellent; the rain usually comes in short afternoon bursts rather than all-day downpours. Hurricane season runs from June through November; storms are rare but real. Lobster season opens on 15 June and closes on 14 February — if lobster is important to your trip, time it accordingly.
+Late June brings the lobster festival — three days of music, street food, and the cheapest lobster you will find on the island. The June–October rainy season sees shorter afternoon showers rather than all-day rain, and diving is still possible most days, but tropical storms are a real possibility from August through October. Hotel rates are lower and the town is quieter; the tradeoff is some weather uncertainty.

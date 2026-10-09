@@ -5,12 +5,15 @@ longitude: -0.2122
 neighbourhood: Jamestown
 score: 7.8
 snippet: 1930s British lighthouse with rooftop views over colonial Accra
+sources:
+- https://www.beingchristinajane.com/things-to-do-in-accra/
 tags:
 - things_to_do
 - jamestown
 - sight
 - architecture
 - viewpoint
+- blogs_that_show_you_accra
 title: Jamestown Lighthouse
 type: poi
 ---

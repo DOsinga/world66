@@ -8,6 +8,11 @@ snippet: Roadless eastern Honduran region of rainforest, lagoons, and Miskito, P
   and Tawahka homelands
 title: La Mosquitia
 type: location
+image: lamosquitia.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Sobre_el_Patuca.jpg
+image_license: CC BY-SA 4.0
+image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Marcio_Mart%C3%ADnez&amp;action=edit&amp;redlink=1"
+  class="new" title="User:Marcio Martínez (page does not exist)">Marcio Martínez</a>
 ---
 
 La Mosquitia is the wild eastern corner of Honduras — a vast, roadless expanse of rainforest, wetlands, and coastal lagoons stretching from the Río Plátano to the Nicaraguan border. It is one of the least accessible regions in Central America and one of the most biodiverse places on the continent.

@@ -1,15 +1,23 @@
 ---
-title: "Historical Museum of Bosnia and Herzegovina"
-type: poi
 latitude: 43.8552
 longitude: 18.4078
-tags:
-  - things_to_do
-  - museum
-  - historic
-story: >
-  The museum almost didn't survive the siege — the building was damaged and many objects had to be moved to safer storage. After the war, the institution was underfunded and barely functional. Its current exhibition was developed partly as a response to this: a museum about the siege, housed in a building that survived it.
 score: 8.0
+sources:
+- https://www.indietraveller.co/sarajevo-travel-guide/
+story: 'The museum almost didn''t survive the siege — the building was damaged and
+  many objects had to be moved to safer storage. After the war, the institution was
+  underfunded and barely functional. Its current exhibition was developed partly as
+  a response to this: a museum about the siege, housed in a building that survived
+  it.
+
+  '
+tags:
+- things_to_do
+- museum
+- historic
+- blogs_worth_reading_on_sarajevo
+title: Historical Museum of Bosnia and Herzegovina
+type: poi
 ---
 
 The Historical Museum of Bosnia and Herzegovina contains two things worth seeing: the permanent exhibition on the Siege of Sarajevo, and the building itself — a piece of 1960s Yugoslav modernist architecture that has been only partially repaired since wartime damage and retains a defiantly unrestored rawness.

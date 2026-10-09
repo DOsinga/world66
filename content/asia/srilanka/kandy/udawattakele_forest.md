@@ -1,19 +1,23 @@
 ---
+latitude: 7.3
+longitude: 80.6384
+score: 7.9
+sources:
+- https://www.thecommonwanderer.com/blog/best-things-to-do-in-kandy-sri-lanka
+story: 'The Udawattakele forest immediately above the Temple of the Tooth was the
+  royal forbidden forest — entry was reserved for the king and was punishable by death
+  for commoners. During the Kandyan kingdom''s final years, a rebel monk named Kobbekaduwe
+  Unnanse lived here in hiding after leading an insurrection against the king. The
+  forest''s royal restriction made it an ideal refuge precisely because ordinary soldiers
+  were afraid to enter it.
+
+  '
+tags:
+- things_to_do
+- sight
+- blogs_for_kandy_and_the_hill_country
 title: Udawattakele Forest Reserve
 type: poi
-tags:
-  - things_to_do
-  - sight
-latitude: 7.3000
-longitude: 80.6384
-story: >
-  The Udawattakele forest immediately above the Temple of the Tooth was the royal forbidden
-  forest — entry was reserved for the king and was punishable by death for commoners.
-  During the Kandyan kingdom's final years, a rebel monk named Kobbekaduwe Unnanse lived
-  here in hiding after leading an insurrection against the king. The forest's royal
-  restriction made it an ideal refuge precisely because ordinary soldiers were afraid
-  to enter it.
-score: 7.9
 ---
 
 The Udawattakele Royal Forest Reserve rises directly above the Temple of the Tooth, covering 257 acres of mixed forest on the ridge above the city. A network of marked trails runs through the reserve, taking between thirty minutes and two hours depending on the route chosen. The forest is home to endemic species including purple-faced langur monkeys, which are habitually encountered and quite bold.

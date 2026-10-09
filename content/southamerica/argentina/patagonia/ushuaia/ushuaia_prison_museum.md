@@ -1,14 +1,19 @@
 ---
-title: "Ushuaia Prison Museum"
+title: Ushuaia Prison Museum
 type: poi
 tags:
-  - things_to_do
-  - museum
-  - sight
+- things_to_do
+- museum
+- sight
 latitude: -54.8015
-longitude: -68.3090
-story: >
-  Among those imprisoned here were two anarchists who attempted to assassinate Argentina's president in 1905, and the notorious pirate Simón Radowitzky, who killed the Buenos Aires chief of police. Radowitzky spent over two decades in Ushuaia — his escape attempts, recaptures, and eventual freedom by presidential pardon became one of the most dramatic stories in Argentine penal history.
+longitude: -68.309
+story: 'Among those imprisoned here were two anarchists who attempted to assassinate
+  Argentina''s president in 1905, and the notorious pirate Simón Radowitzky, who killed
+  the Buenos Aires chief of police. Radowitzky spent over two decades in Ushuaia —
+  his escape attempts, recaptures, and eventual freedom by presidential pardon became
+  one of the most dramatic stories in Argentine penal history.
+
+  '
 score: 8.2
 ---
 

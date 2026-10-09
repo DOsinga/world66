@@ -20,7 +20,7 @@ nature: 4.715
 off_the_beaten_track: 3.502
 ---
 
-Tarija is the most Argentine city in Bolivia — in the best possible way. Its people are descended from gauchos who drifted north across the border, and the city still carries that unhurried, slightly European character you find in places like [Jujuy](/southamerica/argentina/jujuy) and [Salta](/southamerica/argentina/salta). The climate is warm and dry, the squares are leafy, and the food and wine are dramatically better than you'd expect at this altitude.
+Tarija is the most Argentine city in Bolivia — in the best possible way. Its people are descended from gauchos who drifted north across the border, and the city still carries that unhurried, slightly European character you find in places like [Jujuy](/southamerica/argentina/norte/jujuy) and [Salta](/southamerica/argentina/norte/salta). The climate is warm and dry, the squares are leafy, and the food and wine are dramatically better than you'd expect at this altitude.
 
 The real draw is the wine. The [Valle de la Concepción](/southamerica/bolivia/tarija/valle_de_la_concepcion), 15 km south of the city, is the heartland of Bolivian viticulture. The Concepción and Kohlberg wineries produce bottles that hold their own against anything from Mendoza. You can drink well here for very little money. There's something Mediterranean about the place: the light, the vines, the way people speak (locals are said to sound more like Spaniards than Bolivians).
 

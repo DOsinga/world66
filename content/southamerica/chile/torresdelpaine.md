@@ -1,0 +1,36 @@
+---
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-22'
+heritage: 6.975
+image: torresdelpaine.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Torres_del_Paine,_Chile_by_Karen_Chan_16.jpg
+latitude: -50.9423
+loc_type: feature
+longitude: -73.4068
+nature: 9.313
+off_the_beaten_track: 7.282
+quick_facts:
+  Four Seasons: In a single day
+  National Park Since: '1959'
+  Pumas: Roam the park
+  The Towers: 2,500 m granite spires
+score: 7.916
+snippet: Patagonian national park of granite towers, turquoise lakes, wind-bent steppe,
+  and multi-day treks.
+tip: Torres del Paine is Patagonian wilderness — the weather flips from sun to gale
+  in minutes, so layer up and pack for all four seasons in a day. The 'W' trek takes
+  four or five days; book refugios or campsites months ahead. Even day-trippers should
+  start early for the towers at dawn. The wind can literally knock you over, so hold
+  on.
+title: Torres del Paine
+type: location
+vibrancy: 0.355
+---
+
+Torres del Paine National Park, across the border in Chile, is one of the most spectacular wilderness areas in South America. The park covers 935 square miles of staggering variety: wind-bent grasslands give way to turquoise lakes, ancient forests, and the sheer granite towers that give the park its name. The [three Torres](/southamerica/chile/torresdelpaine/torres_viewpoint) — soaring rock pillars that glow pink at dawn — are the iconic image of Patagonia.
+
+The wildlife is remarkable. Guanacos graze the open steppe in large herds, pumas stalk the valleys, and Andean condors ride the thermals above the peaks. More than 100 bird species have been recorded in the park, including the crested caracara and the black-necked swan.
+
+Most visitors come for the trekking. The W Trek (4–5 days) hits the highlights: the [Torres viewpoint](/southamerica/chile/torresdelpaine/torres_viewpoint), the [French Valley](/southamerica/chile/torresdelpaine/french_valley), and the [Grey Glacier](/southamerica/chile/torresdelpaine/grey_glacier). The full Circuit (8–9 days) loops behind the massif for a wilder, quieter experience. Refugios and campsites along both routes must be booked well in advance in peak season (December to February). The [Cuernos del Paine](/southamerica/chile/torresdelpaine/cuernos_del_paine) — the dramatic horned peaks rising above Lake Nordenskjöld — are visible from the central section of the W and are, for many visitors, the most photographed sight in the park. The gateway town on the Chilean side is Puerto Natales, reachable by bus from [El Calafate](/southamerica/argentina/patagonia/calafate) in about five hours.

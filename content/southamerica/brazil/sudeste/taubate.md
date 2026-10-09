@@ -1,0 +1,29 @@
+---
+latitude: -23.0258
+loc_type: city
+longitude: -45.5586
+score: 3.243
+snippet: Paraíba Valley city known for Monteiro Lobato, Mazzaropi, and a cluster of
+  museums.
+sources:
+- https://en.wikivoyage.org/wiki/Taubat%C3%A9
+- https://en.wikipedia.org/wiki/Taubat%C3%A9
+- https://www.wikidata.org/wiki/Q170540
+title: Taubaté
+type: location
+wikidata: Q170540
+heritage: 2.874
+vibrancy: 3.408
+nature: 2.606
+off_the_beaten_track: 2.293
+image: taubate.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Igreja_Santa_Terezinha_de_Taubat%C3%A9_(Sep_2019)_08.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Sturm
+---
+
+Taubaté sits in the Paraíba Valley between [São Paulo](/southamerica/brazil/saopaulo) and Rio de Janeiro, close enough to the Dutra highway that many travellers only know it as a name on road signs. It deserves a longer look if you are interested in Brazilian popular culture.
+
+The city was home to two figures with unusual staying power: children's writer Monteiro Lobato and actor-filmmaker Amácio Mazzaropi. Each has a museum here, and together they give Taubaté a sharper identity than most industrial towns in the valley.
+
+The old centre adds churches, small museums, and a few parks, while the surrounding roads lead toward Campos do Jordão, Ubatuba, and the Serra da Mantiqueira. Taubaté is not a beauty, but it is a useful and surprisingly rich cultural stop between bigger destinations.

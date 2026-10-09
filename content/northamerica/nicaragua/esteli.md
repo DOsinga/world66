@@ -1,7 +1,14 @@
 ---
+heritage: 2.889
+image: esteli.jpg
+image_attribution: Tisey
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Esteli_Nicaragua_Skyline_from_Tisey.jpg
 latitude: 13.0833
 loc_type: city
 longitude: -86.35
+nature: 4.324
+off_the_beaten_track: 4.303
 score: 3.637
 snippet: Nicaraguan highland city of tobacco, coffee, Sandinista murals and nearby
   cloud forest.
@@ -9,13 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Esteli
 title: Estelí
 type: location
-heritage: 2.889
 vibrancy: 2.636
-nature: 4.324
-off_the_beaten_track: 4.303
 ---
 
-Estelí is a cool, workmanlike city in Nicaragua's northern highlands, famous for tobacco, coffee and politics. It is not as pretty as [León](/northamerica/nicaragua/len) or Granada, but it has a stronger sense of itself: cigar factories on the edge of town, revolutionary murals on ordinary walls, leather shops near the market, and mountain air that makes the lowlands feel far away.
+Estelí is a cool, workmanlike city in Nicaragua's northern highlands, famous for tobacco, coffee and politics. It is not as pretty as [León](/northamerica/nicaragua/leon) or Granada, but it has a stronger sense of itself: cigar factories on the edge of town, revolutionary murals on ordinary walls, leather shops near the market, and mountain air that makes the lowlands feel far away.
 
 The city was a Sandinista stronghold, and that history still shows in its public art. Around the centre, murals mix revolution, ecology, saints and daily life in a way that feels less curated than in the bigger colonial cities. The cathedral on the main square is restrained by Nicaraguan standards, with pale towers and a modern interior rebuilt after the fighting of 1979.
 

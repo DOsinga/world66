@@ -15,6 +15,10 @@ heritage: 2.461
 vibrancy: 1.264
 nature: 7.425
 off_the_beaten_track: 5.086
+image: soroa.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2025-06_-_Cuba,_Soroa_05.jpg
+image_license: CC BY-SA 4.0
+image_attribution: BenjiPill
 ---
 
 Soroa is a thin village strung along the road into the Sierra del Rosario, west of Havana. It is not a town of plazas and museums. Its pull is greener and quieter: orchids, wet forest, a waterfall, and the feeling of being in the hills after the heat of the plain.

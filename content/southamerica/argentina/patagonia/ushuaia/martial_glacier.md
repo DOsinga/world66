@@ -1,13 +1,21 @@
 ---
-title: "Martial Glacier and Chairlift"
+title: Martial Glacier and Chairlift
 type: poi
 tags:
-  - things_to_do
-  - sight
+- things_to_do
+- sight
+- nature
+- hiking
+- viewpoint
 latitude: -54.7845
-longitude: -68.3250
-story: >
-  The glacier has retreated dramatically since the mid-20th century — photographs from the 1940s show a wall of ice where hikers now walk through scrubby bush. The change is visible and striking, and the bare rock where the glacier once sat is clearly visible from town, making Ushuaia an unusually legible illustration of climate change.
+longitude: -68.325
+story: 'The glacier has retreated dramatically since the mid-20th century — photographs
+  from the 1940s show a wall of ice where hikers now walk through scrubby bush. The
+  change is visible and striking, and the bare rock where the glacier once sat is
+  clearly visible from town, making Ushuaia an unusually legible illustration of climate
+  change.
+
+  '
 score: 7.8
 ---
 

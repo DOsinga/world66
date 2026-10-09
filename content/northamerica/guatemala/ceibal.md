@@ -7,7 +7,7 @@ image_attribution: Unknown
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Ruines_El_Ceibal.JPG
 latitude: 16.4167
-loc_type: city
+loc_type: feature
 longitude: -90.1667
 score: 4.022
 snippet: Petén jungle Maya site on the Río de la Pasión, noted for exceptional Late

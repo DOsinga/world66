@@ -11,6 +11,10 @@ heritage: 2.611
 vibrancy: 1.859
 nature: 2.688
 off_the_beaten_track: 2.617
+image: nuevocasasgrandes.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Roman_Catholic_Diocese_of_Nuevo_Casas_Grandes_in_Mexico.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Ignasi
 ---
 
 Nuevo Casas Grandes is a small city in the northwestern corner of [Chihuahua](/northamerica/mexico/chihuahua/chihuahua_city) state, set on a broad plain between the Sierra Madre Occidental and the Sonoran Desert. Most people who make it here come for one reason: the archaeological zone of Paquimé, a UNESCO World Heritage Site and the most important pre-Columbian settlement in northern Mexico. The ruins date from around 900–1400 CE and show a sophisticated urban culture — multi-storey adobe buildings, a sophisticated water system, and a ceramic tradition that the region's craftsmen still draw on today.

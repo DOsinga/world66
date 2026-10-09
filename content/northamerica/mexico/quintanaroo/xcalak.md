@@ -16,6 +16,10 @@ heritage: 2.535
 vibrancy: 2.627
 nature: 7.93
 off_the_beaten_track: 4.864
+image: xcalak.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Xcalak_QR_2004_-_Abarrotes_Isabel.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Eric Van Hensbergen
 ---
 
 Xcalak sits near the Belize border at the far southern end of Mexico's Caribbean coast. It is quieter and more remote than Mahahual, with a fishing-village feel, sandy roads, and reef water close enough offshore to shape nearly everything visitors do.

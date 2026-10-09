@@ -14,6 +14,10 @@ heritage: 7.962
 vibrancy: 3.355
 nature: 3.584
 off_the_beaten_track: 2.694
+image: izamal.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Dawn_-_Izamal,_Yucatan,_Mexico_April_2021.jpg
+image_license: CC BY 2.0
+image_attribution: Sharon Hahn Darlin
 ---
 
 Izamal is one of the easiest small cities in Yucatán to remember: almost everything in the centre is painted yellow. The colour helps, but the real force of the place is older. Maya pyramids still rise inside the town grid, and the Spanish built the [Convento de San Antonio de Padua](/northamerica/mexico/yucatan/izamal/convento_de_san_antonio_de_padua) on top of a pre-Hispanic acropolis.

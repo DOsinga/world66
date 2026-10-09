@@ -4,7 +4,12 @@ type: location
 loc_type: region
 latitude: 24.5
 longitude: -104.6667
-snippet: Sierra and desert where the westerns were filmed — a colonial capital, the road over the Espinazo del Diablo, and the Zone of Silence.
+snippet: Sierra and desert where the westerns were filmed — a colonial capital, the
+  road over the Espinazo del Diablo, and the Zone of Silence.
+image: durango.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ojuela_44.jpg
+image_license: CC BY-SA 3.0
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:BlatZzz" title="User:BlatZzz">BlatZzz</a>
 ---
 
 Durango is high, dry and empty: the Sierra Madre Occidental down its western edge, desert across the rest, and fewer than two million people in an area the size of England and Wales.

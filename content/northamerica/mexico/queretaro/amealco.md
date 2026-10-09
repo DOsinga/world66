@@ -15,6 +15,10 @@ heritage: 3.615
 vibrancy: 3.153
 nature: 4.714
 off_the_beaten_track: 2.734
+image: amealco.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Altar_Amealco_de_Bonfil.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Alejandra Rojas Vera
 ---
 
 Amealco is a small highland town in southern Queretaro, about 75 minutes by road from [Queretaro](/northamerica/mexico/queretaro/santiago_de_queretaro). It is a Pueblo Magico with a strong Otomi identity, best known as the home of the handmade cloth dolls often called Lele or Maria dolls. You see them all over Mexico, but here they are not tourist shorthand: they are tied to the Otomi communities of Santiago Mexquititlan and San Ildefonso Tultepec, where many families still make dolls, embroidery, ceramics, and woven work.

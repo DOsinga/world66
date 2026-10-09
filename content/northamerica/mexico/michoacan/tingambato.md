@@ -14,6 +14,10 @@ heritage: 5.594
 vibrancy: 2.626
 nature: 6.008
 off_the_beaten_track: 5.02
+image: tingambato.jpg
+image_source: https://commons.wikimedia.org/wiki/File:La_piramide,_tingambato.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Papo y nuno
 ---
 
 Tingambato is a small village in the heart of avocado country in [Michoacán](/northamerica/mexico/michoacan), on the free road between [Uruapan](/northamerica/mexico/michoacan/uruapan) and Pátzcuaro.

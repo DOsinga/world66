@@ -4,7 +4,13 @@ type: location
 loc_type: city
 latitude: 24.022
 longitude: -104.6547
-snippet: Colonial capital of pink stone, built on an iron mountain, and the base for Mexico's western film country.
+snippet: Colonial capital of pink stone, built on an iron mountain, and the base for
+  Mexico's western film country.
+image: durango_city.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Durango_por_la_ma%C3%B1ana.JPG
+image_license: CC BY-SA 3.0
+image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:MohamedPulido&amp;action=edit&amp;redlink=1"
+  class="new" title="User:MohamedPulido (page does not exist)">MohamedPulido</a>
 ---
 
 Durango was founded in 1563 beside a mountain of iron ore and grew rich on it. The centre is built from pink volcanic stone and is largely intact — a cathedral begun in 1695, the Palacio de Zambrano, and a long pedestrian street of arcades where the city eats in the evening.

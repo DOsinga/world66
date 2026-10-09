@@ -4,7 +4,12 @@ type: location
 loc_type: region
 latitude: 20.3333
 longitude: -103.6667
-snippet: The state that exports Mexico's self-image — tequila, mariachi, charrería — plus Guadalajara and the Pacific at Puerto Vallarta.
+snippet: The state that exports Mexico's self-image — tequila, mariachi, charrería
+  — plus Guadalajara and the Pacific at Puerto Vallarta.
+image: jalisco.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Agave_field_in_Jalisco,_Mexico.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Tomascastelazo
 ---
 
 Much of what the world pictures as Mexican is from Jalisco: mariachi, tequila, the *charro* on horseback, the wide-brimmed hat. The state treats that inheritance as a working culture rather than a museum piece.

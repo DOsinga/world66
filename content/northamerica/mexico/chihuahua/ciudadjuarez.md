@@ -14,6 +14,10 @@ heritage: 3.725
 vibrancy: 5.367
 nature: 2.395
 off_the_beaten_track: 3.519
+image: ciudadjuarez.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ciudad_Ju%C3%A1rez,_Mexico-00.jpg
+image_license: CC BY 2.0
+image_attribution: Astrid Bussink
 ---
 
 Ciudad Juárez sits directly across the Rio Grande from El Paso, Texas, connected by several international bridges and functioning as one of the world's largest border communities. It is Chihuahua state's most populous city and a major manufacturing centre. The city gained a difficult international reputation in the 2000s due to cartel violence, though the security situation has improved considerably since.

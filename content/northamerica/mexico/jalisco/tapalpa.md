@@ -14,6 +14,10 @@ heritage: 4.539
 vibrancy: 4.436
 nature: 5.901
 off_the_beaten_track: 4.006
+image: tapalpa.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Tapalpa,_Mexico_(Unsplash).jpg
+image_license: CC0
+image_attribution: Alejandro Salinas alexjumper
 ---
 
 Tapalpa is a highland town in southern Jalisco, about two hours from [Guadalajara](/northamerica/mexico/jalisco/guadalajara). It is one of Mexico's Pueblos Magicos, and the appeal is easy to read: white facades, red tile roofs, cold mountain evenings, and pine forest all around.

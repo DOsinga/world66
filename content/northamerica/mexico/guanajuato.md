@@ -4,7 +4,12 @@ type: location
 loc_type: region
 latitude: 20.9877
 longitude: -101.0
-snippet: The silver Bajío — a university city built in a ravine, the town where independence was declared, and the expatriate colony at San Miguel.
+snippet: The silver Bajío — a university city built in a ravine, the town where independence
+  was declared, and the expatriate colony at San Miguel.
+image: guanajuato.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Auditorio_del_Estado_de_Guanajuato,_M%C3%A9xico.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Juan Carlos Fonseca Mata
 ---
 
 Guanajuato made the silver that paid for the Spanish empire, and the money is still visible in the churches and the opera house. The state sits in the Bajío, the fertile basin that became the cradle of Mexican independence.

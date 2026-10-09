@@ -4,7 +4,12 @@ type: location
 loc_type: region
 latitude: 19.1667
 longitude: -104.0
-snippet: Mexico's second-smallest state — an active volcano above a green valley, and the Pacific at Manzanillo.
+snippet: Mexico's second-smallest state — an active volcano above a green valley,
+  and the Pacific at Manzanillo.
+image: colima.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Colima,_M%C3%A9xico_-_panoramio.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Nelson Pérez
 ---
 
 Colima is tiny, fertile and dominated by a volcano that rarely stops. The **Volcán de Colima** is the most active in Mexico, and from the capital you see it smoking behind the dormant, snow-dusted Nevado de Colima beside it.

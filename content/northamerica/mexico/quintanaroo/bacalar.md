@@ -16,6 +16,10 @@ heritage: 4.789
 vibrancy: 5.086
 nature: 7.703
 off_the_beaten_track: 4.136
+image: bacalar.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bacalar,_Quintana_Roo,_Mexico_-_Hotel_Balche.jpg
+image_license: CC BY 2.0
+image_attribution: Sharon Hahn Darlin
 ---
 
 Bacalar sits beside a long freshwater lagoon in southern Quintana Roo, close enough to [Chetumal](/northamerica/mexico/quintanaroo/chetumal) to make an easy escape but different enough to feel like another trip. The water is the reason to come: shallow, clear, and famously streaked with blues and greens where sandbars, cenotes, and deeper channels change the colour under the sun.

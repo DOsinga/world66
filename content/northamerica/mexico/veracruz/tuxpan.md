@@ -15,6 +15,10 @@ heritage: 3.138
 vibrancy: 2.708
 nature: 4.415
 off_the_beaten_track: 1.91
+image: tuxpan.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Atardecer_en_Tuxpan,_Ver.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Jose Francisco Del Valle Mojica
 ---
 
 Tuxpan sits on the Tuxpan River in northern Veracruz, close enough to the Gulf that the city feels half port, half beach town. It is industrial around the edges, with oil terminals and naval traffic, but there is enough coast, river life, and odd history here to make a day worthwhile if you are already in the Huasteca or coming down from Poza Rica.

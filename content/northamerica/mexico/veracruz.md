@@ -4,7 +4,12 @@ type: location
 loc_type: region
 latitude: 19.3333
 longitude: -96.6667
-snippet: Mexico's Gulf coast — the first Spanish port, coffee mountains, son jarocho, and the country's highest peak.
+snippet: Mexico's Gulf coast — the first Spanish port, coffee mountains, son jarocho,
+  and the country's highest peak.
+image: veracruz.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2020-02-17_Municipal_palace_of_Veracruz_03_(cropped).jpg
+image_license: CC BY-SA 4.0
+image_attribution: Burkhard Mücke
 ---
 
 Veracruz is a long ribbon of a state down the Gulf, and the place where Mexico as a mixed country began: Cortés landed here in 1519, the first Africans arrived here, and the music that resulted — *son jarocho*, harp and small guitars — is still played in the plazas.

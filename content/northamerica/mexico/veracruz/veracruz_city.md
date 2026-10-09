@@ -14,6 +14,10 @@ heritage: 4.503
 vibrancy: 4.469
 nature: 5.106
 off_the_beaten_track: 4.236
+image: veracruz_city.jpg
+image_source: https://commons.wikimedia.org/wiki/File:5601-Catedral_de_Nuestra_Se%C3%B1ora_de_la_Asunci%C3%B3n-Veracruz,_Veracruz,_M%C3%A9xico-Enrique_Carpio_Fot%C3%B3grafo-EDSC07115_(cropped).jpg
+image_license: CC BY-SA 3.0
+image_attribution: Enrique Carpio Fotógrafo
 ---
 
 Veracruz is where Mexican history begins. This is the spot where Hernán Cortés landed in 1519 and founded the first Spanish settlement on the American mainland, and the city has never stopped being a crossroads. Today it is Mexico's oldest and busiest port, sprawling along the Gulf coast with a waterfront energy that feels more Caribbean than Central Highlands.

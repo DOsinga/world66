@@ -4,7 +4,12 @@ type: location
 loc_type: region
 latitude: 23.9892
 longitude: -98.7027
-snippet: The north-eastern border and the Gulf — a working state of crossings and ports, with real security warnings.
+snippet: The north-eastern border and the Gulf — a working state of crossings and
+  ports, with real security warnings.
+image: tamaulipas.jpg
+image_source: https://commons.wikimedia.org/wiki/File:A_female_Taylor%27s_Cantil_(Agkistrodon_taylori),_photographed_in_Tamaulipas,_Mexico._Photographed_2007.jpg
+image_license: CC BY-SA 4.0
+image_attribution: William L. Farr
 ---
 
 Tamaulipas runs along the Rio Grande from the Gulf to the Nuevo León border, and most people who pass through it are crossing between countries rather than stopping.

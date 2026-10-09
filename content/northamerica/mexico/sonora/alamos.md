@@ -14,6 +14,10 @@ heritage: 4.253
 vibrancy: 2.828
 nature: 4.309
 off_the_beaten_track: 3.328
+image: alamos.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Mexico_alamos_sign.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Averywlms
 ---
 
 Álamos is the best colonial town in Sonora, a former silver-mining city set where the desert begins to fold into the Sierra Madre Occidental. Its wealth peaked in the 18th and 19th centuries, then faded sharply enough that many mansions survived by being left alone.

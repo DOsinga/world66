@@ -14,6 +14,10 @@ heritage: 3.908
 vibrancy: 3.436
 nature: 3.273
 off_the_beaten_track: 2.988
+image: sanfelipe.jpg
+image_source: https://commons.wikimedia.org/wiki/File:San_Felipe,_Baja_(7750811304)_(cropped).jpg
+image_license: CC BY 2.0
+image_attribution: Tim Buss from North County, San Diego, California, USA
 ---
 
 San Felipe is a low-key Sea of Cortez town on the east coast of Baja California. It is not polished resort Mexico; its charm is salt, sand, shrimp boats, off-road dust, and the smell of fried fish around the malecón.

@@ -25,6 +25,6 @@ off_the_beaten_track: 2.734
 
 Mahahual is a small beach town on the Costa Maya, south of the big Riviera Maya resort strip and close enough to Belize that the Caribbean feels wide open. It was once a fishing village, then became the shore town beside the Costa Maya cruise port, but away from ship days it still has a slow, sandy rhythm.
 
-The reason to come is the water. A reef lies close enough offshore to keep the beach calm, the malecón is made for an easy barefoot wander, and dive boats use Mahahual as a base for [Banco Chinchorro](/northamerica/mexico/quintanaroo/mahahual/banco_chinchorro), one of Mexico's great reef reserves. Inland, [Chacchoben](/northamerica/mexico/quintanaroo/mahahual/chacchoben) gives the town a serious Maya day trip rather than just another beach-and-palapa stop.
+The reason to come is the water. A reef lies close enough offshore to keep the beach calm, the malecón is made for an easy barefoot wander, and dive boats use Mahahual as a base for [Banco Chinchorro](/northamerica/mexico/quintanaroo/xcalak/banco_chinchorro), one of Mexico's great reef reserves. Inland, [Chacchoben](/northamerica/mexico/quintanaroo/mahahual/chacchoben) gives the town a serious Maya day trip rather than just another beach-and-palapa stop.
 
 Mahahual is best when you accept its two moods. On cruise days it can feel crowded and transactional near the beach clubs. On quieter days it is a simple place for swimming, snorkelling, seafood, and early nights with the sea a few steps away.

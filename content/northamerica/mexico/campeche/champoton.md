@@ -14,6 +14,10 @@ heritage: 4.727
 vibrancy: 2.58
 nature: 5.48
 off_the_beaten_track: 3.219
+image: champoton.jpg
+image_source: https://commons.wikimedia.org/wiki/File:CHAMPOTON_-_panoramio.jpg
+image_license: CC BY-SA 3.0
+image_attribution: ERVIN ESCOBAR
 ---
 
 Champotón sits where the Champotón River meets the Gulf of Mexico, about an hour southwest of [Campeche](/northamerica/mexico/campeche/san_francisco_de_campeche). It is a fishing town first and a sightseeing town second, but that is part of its appeal. The waterfront is low-key, the seafood is serious, and the river mouth gives the town a softer setting than the highway approach suggests.

@@ -14,6 +14,10 @@ heritage: 3.073
 vibrancy: 3.673
 nature: 3.198
 off_the_beaten_track: 2.657
+image: ciudad_obregon.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Ciudad_Obreg%C3%B3n.JPG
+image_license: CC BY-SA 4.0
+image_attribution: Cnec wiki
 ---
 
 Ciudad Obregón (often just Obregón, also known as Cajeme) is a large agricultural city in the Río Yaqui Valley of southern Sonora. It is not a tourist destination, but if you are passing through, the food alone is worth a stop — the carne asada tacos, bacon-wrapped hot dogs, and fresh seafood from the nearby Sea of Cortez are among the best street eating in northern Mexico.

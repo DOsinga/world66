@@ -4,7 +4,13 @@ type: location
 loc_type: region
 latitude: 19.4839
 longitude: -99.69
-snippet: The state wrapped around the capital — Teotihuacán, a lake town for Mexico City's weekends, and silver-mining mountains.
+snippet: The state wrapped around the capital — Teotihuacán, a lake town for Mexico
+  City's weekends, and silver-mining mountains.
+image: estadodemexico.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Lago_de_la_Luna,_Nevado_de_Toluca_-_Estado_de_M%C3%A9xico.jpg
+image_license: CC BY-SA 4.0
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Juan_Carlos_Fonseca_Mata"
+  title="User:Juan Carlos Fonseca Mata">Juan Carlos Fonseca Mata</a>
 ---
 
 The State of México encircles Mexico City on three sides and is where the capital goes at weekends. It is also where the capital's own story starts: **[Teotihuacán](/northamerica/mexico/estadodemexico/teotihuacan)**, the largest city in the Americas at its height around 500 AD, stands an hour north-east, and nobody knows for certain who built it. The Aztecs found it already abandoned and gave it the name — "the place where the gods were created".

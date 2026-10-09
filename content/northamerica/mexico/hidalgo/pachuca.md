@@ -16,6 +16,10 @@ heritage: 4.821
 vibrancy: 4.119
 nature: 3.43
 off_the_beaten_track: 2.973
+image: pachuca.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Murals_in_Pachuca,_Mexico._12.jpg
+image_license: CC BY-SA 4.0
+image_attribution: RubeHM
 ---
 
 Pachuca is the capital of Hidalgo, but it feels less like a polished state capital than a working mining city that has learned to enjoy its oddities. The centre climbs around narrow streets, plazas, churches, and the [Reloj Monumental](/northamerica/mexico/hidalgo/pachuca/reloj_monumental), a clock tower that has become the city's shorthand.

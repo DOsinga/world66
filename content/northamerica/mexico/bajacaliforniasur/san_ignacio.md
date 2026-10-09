@@ -4,7 +4,13 @@ type: location
 loc_type: city
 latitude: 27.2837
 longitude: -112.8979
-snippet: A date-palm oasis in the middle of the Baja desert, with a Jesuit mission church and grey whales calving in the lagoon.
+snippet: A date-palm oasis in the middle of the Baja desert, with a Jesuit mission
+  church and grey whales calving in the lagoon.
+image: san_ignacio.jpg
+image_source: https://commons.wikimedia.org/wiki/File:San_Ignacio_Mission.jpg
+image_license: CC BY 3.0
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Farwestern" title="User:Farwestern">Farwestern</a>
+  Photo by Gregg M. Erickson
 ---
 
 San Ignacio appears out of nothing. The road from Guerrero Negro runs through several hundred kilometres of volcanic desert and then drops into a basin of several thousand date palms planted by Jesuit missionaries in the eighteenth century, with a lagoon in the middle of it.

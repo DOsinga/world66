@@ -15,6 +15,10 @@ heritage: 1.719
 vibrancy: 2.832
 nature: 6.782
 off_the_beaten_track: 2.465
+image: tecolutla.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Aves_en_el_r%C3%ADo_Tecolutla,_Veracruz.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Juan Carlos Fonseca Mata
 ---
 
 Tecolutla is a small Gulf Coast town in northern Veracruz, where the Tecolutla River spreads into mangroves before meeting the sea. It is close enough to Mexico City to fill up during holidays, but outside those peaks it feels more like a working beach town than a polished resort.

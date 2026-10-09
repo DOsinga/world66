@@ -4,7 +4,12 @@ type: location
 loc_type: region
 latitude: 23.0916
 longitude: -102.9334
-snippet: Pink stone and silver at 2,400 metres, with a cable car over the city and ghost-town mines across the altiplano.
+snippet: Pink stone and silver at 2,400 metres, with a cable car over the city and
+  ghost-town mines across the altiplano.
+image: zacatecas.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Mexican_dancers_Zacatecas_Mexico_Matachines.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Dziulita05
 ---
 
 Zacatecas is high, dry and built out of pink cantera stone, and for two centuries it produced a fifth of the world's silver.

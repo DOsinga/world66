@@ -4,7 +4,12 @@ type: location
 loc_type: region
 latitude: 21.9943
 longitude: -102.3727
-snippet: A compact Bajío state of hot springs, railway workshops, and the engraver whose skeletons became Mexico's image of death.
+snippet: A compact Bajío state of hot springs, railway workshops, and the engraver
+  whose skeletons became Mexico's image of death.
+image: aguascalientes.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Boca_de_T%C3%BAnel,_San_Jos%C3%A9_de_Gracia,_Aguascalientes,_M%C3%A9xico_5.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Isacdaavid
 ---
 
 Aguascalientes is one of the smallest states and is named for its hot springs, which have been bathed in since before the Spanish.

@@ -14,6 +14,10 @@ heritage: 7.402
 vibrancy: 5.078
 nature: 4.48
 off_the_beaten_track: 2.349
+image: san_luis_potosi_city.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cosecha_de_ca%C3%B1a_de_az%C3%BAcar_en_El_Naranjo,_San_Luis_Potos%C3%AD.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Juan Carlos Fonseca Mata
 ---
 
 San Luis Potosí is a colonial city of about a million people in central Mexico, capital of the state of the same name. Founded in the late 1500s as a silver and gold mining settlement at 1,877 metres elevation, it was one of the wealthiest cities in New Spain and its centre shows it: grand plazas, baroque churches of real ambition, and wide pedestrian streets lined with 18th-century buildings.

@@ -18,6 +18,10 @@ heritage: 3.741
 vibrancy: 2.687
 nature: 3.248
 off_the_beaten_track: 3.493
+image: calvillo.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Avenida_Benito_Ju%C3%A1rez_en_Calvillo,_Aguascalientes.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Luis Alvaz
 ---
 
 Calvillo is Aguascalientes' guava town, a Pueblo Magico west of the state capital in a warmer valley of orchards, sweets shops, and old churches. It is not as grand as Mexico's famous colonial cities, but it has a clear flavour of its own.

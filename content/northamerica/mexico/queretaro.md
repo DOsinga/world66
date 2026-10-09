@@ -4,7 +4,12 @@ type: location
 loc_type: region
 latitude: 20.8052
 longitude: -99.8837
-snippet: A colonial capital and the plot that started independence, with Franciscan missions in the Sierra Gorda behind it.
+snippet: A colonial capital and the plot that started independence, with Franciscan
+  missions in the Sierra Gorda behind it.
+image: queretaro.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Aqueduct_at_Queretaro,_Mexico,_ca.1905-1910_(CHS-643).jpg
+image_license: Public domain
+image_attribution: Unknown authorUnknown author
 ---
 
 Querétaro is small, prosperous and historically decisive: the conspiracy that became the war of independence was hatched in the capital's drawing rooms in 1810, Maximilian was executed on a hill outside the city in 1867, and the constitution still in force was written here in 1917.

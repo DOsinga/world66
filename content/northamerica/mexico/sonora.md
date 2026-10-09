@@ -10,6 +10,10 @@ snippet: Northwestern Mexican frontier state of Sonoran Desert, Sierra Madre foo
   and Sea of Cortez beaches.
 title: Sonora
 type: location
+image: sonora.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Puerto_pesquero_de_Puerto_Pe%C3%B1asco,_Sonora,_M%C3%A9xico.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Raxa.Kame
 ---
 
 Sonora is [Mexico's](/northamerica/mexico) northwestern frontier state, bordering Arizona to the north and the Sea of Cortez to the west. It is a land of contrasts — the arid Sonoran Desert in the centre, the rugged western slopes of the Sierra Madre Occidental to the east, and long stretches of unpolluted beaches along the coast.

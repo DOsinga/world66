@@ -16,6 +16,10 @@ heritage: 4.671
 vibrancy: 3.87
 nature: 5.73
 off_the_beaten_track: 4.582
+image: santarosalia.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Santa_Rosalia_BCS_October_2022.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Eric.Prado
 ---
 
 Santa Rosalia is one of Baja's stranger small towns: a copper port built by a French mining company, pressed between desert hills and the Gulf of California. It is not pretty in the polished resort sense. Its charm is in the iron church, the old company buildings, the locomotives and mining gear still sitting around town, and the black volcanic sand along the water.

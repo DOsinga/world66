@@ -16,6 +16,10 @@ heritage: 4.294
 vibrancy: 2.134
 nature: 5.438
 off_the_beaten_track: 3.616
+image: jalpan.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Carretera_Jalpan_de_Serra,_QRO_,_M%C3%A9xico.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Renata Frias
 ---
 
 Jalpan, usually written in full as Jalpan de Serra, is the main town of Queretaro's Sierra Gorda. It sits deep in green mountain country, far enough from the state capital that the road in feels like part of the visit.

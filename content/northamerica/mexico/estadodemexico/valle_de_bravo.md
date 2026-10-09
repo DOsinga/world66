@@ -16,6 +16,10 @@ heritage: 3.276
 vibrancy: 3.64
 nature: 6.441
 off_the_beaten_track: 3.22
+image: valle_de_bravo.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Valle_de_Bravo,_Estado_de_M%C3%A9xico-_Valle_de_Bravo,_State_of_Mexico_(22887839419).jpg
+image_license: CC BY-SA 2.0
+image_attribution: Comisión Mexicana de Filmaciones from México D. F., México
 ---
 
 Valle de Bravo is a lakeside mountain town west of [Mexico City](/northamerica/mexico/mexicocity), where whitewashed streets and red-tile roofs drop toward Lake Avandaro. It is popular with weekend visitors from the capital, but the setting is strong enough to survive the crowds: water, pine-covered hills, waterfalls, and high launch points for paragliders.

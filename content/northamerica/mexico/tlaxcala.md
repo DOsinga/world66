@@ -4,7 +4,12 @@ type: location
 loc_type: region
 latitude: 19.4167
 longitude: -98.1667
-snippet: Mexico's smallest state — the people who allied with Cortés, a bullring culture, and murals of their own history.
+snippet: Mexico's smallest state — the people who allied with Cortés, a bullring culture,
+  and murals of their own history.
+image: tlaxcala.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Carnival_in_San_Vicente,_Tlaxcala_Mexico.jpg
+image_license: CC BY-SA 4.0
+image_attribution: YLinaresB
 ---
 
 Tlaxcala is the smallest state in Mexico and the one with the most awkward place in the national story: the Tlaxcalteca had held out against the Aztecs for a century, and in 1519 they allied with Cortés. Without them the conquest would have gone differently, and Mexican history has never quite forgiven them.

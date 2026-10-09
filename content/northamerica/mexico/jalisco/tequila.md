@@ -14,6 +14,10 @@ heritage: 7.166
 vibrancy: 5.633
 nature: 4.36
 off_the_beaten_track: 1.549
+image: tequila.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Museo_Nacional_del_Tequila_(Tequila,_Jal.)_I.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Juan Carlos Fonseca Mata
 ---
 
 The town of Tequila sits in the fertile volcanic foothills about an hour west of [Guadalajara](/northamerica/mexico/jalisco/guadalajara), surrounded by tens of thousands of acres of spiky blue agave — the plant from which Mexico's most famous spirit is distilled. The [blue agave landscape](/northamerica/mexico/jalisco/tequila/blue_agave_landscape) here is a UNESCO World Heritage Site, and the rows of silvery-blue plants stretching across the red volcanic soil are a striking sight.

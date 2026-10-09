@@ -16,6 +16,10 @@ heritage: 5.487
 vibrancy: 3.636
 nature: 3.161
 off_the_beaten_track: 2.66
+image: general_zaragoza.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bust_of_General_Ignacio_Zaragoza_(Los_Angeles).jpg
+image_license: Public domain
+image_attribution: Unknown authorUnknown author
 ---
 
 General Zaragoza is a small mountain town in the far south-east of Nuevo León, much closer in spirit to the Sierra Madre than to metropolitan [Monterrey](/northamerica/mexico/nuevoleon/monterrey). It is remote, cool by regional standards, and framed by wooded slopes, rivers, and waterfalls.

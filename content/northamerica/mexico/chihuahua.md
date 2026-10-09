@@ -4,7 +4,12 @@ type: location
 loc_type: region
 latitude: 28.5
 longitude: -106.0
-snippet: Mexico's largest state — the Copper Canyon and the railway through it, high desert, and the border at Ciudad Juárez.
+snippet: Mexico's largest state — the Copper Canyon and the railway through it, high
+  desert, and the border at Ciudad Juárez.
+image: chihuahua.jpg
+image_source: https://commons.wikimedia.org/wiki/File:(Old_No._138)_Chihuahua,_Chihuahua_Providence,_Mexico._Excellent_view_of_three_men_left_center_of_-_NARA_-_517781.jpg
+image_license: Public domain
+image_attribution: Elias Olcott Beaman / James Fennemore / John Karl Hillers
 ---
 
 Chihuahua is the biggest state in Mexico and mostly empty: high desert, cattle country, and along its western edge the **Sierra Tarahumara**, where a system of gorges deeper and longer than the Grand Canyon cuts into the range.

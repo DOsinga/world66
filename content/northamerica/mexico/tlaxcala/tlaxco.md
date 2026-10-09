@@ -15,6 +15,10 @@ heritage: 4.867
 vibrancy: 2.631
 nature: 4.862
 off_the_beaten_track: 4.688
+image: tlaxco.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Orquesta_del_Instituto_Tecnol%C3%B3gico_Superior_de_Tlaxco,_Tlaxcala.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Isaacvp
 ---
 
 Tlaxco is a highland town in northern Tlaxcala, set between forest, maguey fields, and old hacienda country. It is one of those Pueblos Magicos where the appeal is not a single blockbuster monument, but the way the town, the countryside, and the local crafts fit together.

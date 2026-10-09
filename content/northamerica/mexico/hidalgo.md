@@ -4,7 +4,12 @@ type: location
 loc_type: region
 latitude: 20.5
 longitude: -99.0
-snippet: Toltec warriors at Tula, a mining past in the Real del Monte hills, and the semi-desert gorges of the Huasteca.
+snippet: Toltec warriors at Tula, a mining past in the Real del Monte hills, and the
+  semi-desert gorges of the Huasteca.
+image: hidalgo.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Casa_en_Real_del_Monte,_Hidalgo,_M%C3%A9xico,_2013-10-10,_DD_01.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Diego Delso
 ---
 
 Hidalgo is the state nearest Mexico City that tourists most often skip, which is to its advantage.

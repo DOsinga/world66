@@ -16,6 +16,10 @@ heritage: 1.72
 vibrancy: 1.175
 nature: 7.587
 off_the_beaten_track: 6.494
+image: punta_allen.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Faro_de_Punta_Allen_-_panoramio.jpg
+image_license: CC BY 3.0
+image_attribution: luisolis.1
 ---
 
 Punta Allen is the small fishing village at the far end of the rough road through Sian Ka'an Biosphere Reserve. It is not the easiest place on the Riviera Maya to reach, and that is the point: after Tulum's traffic and beach clubs, the road narrows into mangroves, lagoons, pale sand, and a settlement that still feels more like a working village than a resort.

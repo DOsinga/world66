@@ -4,7 +4,12 @@ type: location
 loc_type: city
 latitude: 26.1581
 longitude: -104.141
-snippet: Silver town on the edge of the Bolsón desert, with a suspension bridge over a mine shaft and the Zone of Silence beyond.
+snippet: Silver town on the edge of the Bolsón desert, with a suspension bridge over
+  a mine shaft and the Zone of Silence beyond.
+image: mapimi.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Puente_de_Ojuela_-_panoramio.jpg
+image_license: CC BY-SA 3.0
+image_attribution: <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161024234913/http://www.panoramio.com/user/44886?with_photo_id=86480796">panza.rayada</a>
 ---
 
 Mapimí is a small, dusty former silver town in the north of Durango, and the gateway to one of the stranger corners of Mexico.

@@ -15,6 +15,10 @@ heritage: 3.108
 vibrancy: 3.089
 nature: 3.195
 off_the_beaten_track: 2.44
+image: tampico.jpg
+image_source: https://commons.wikimedia.org/wiki/File:1971_TAMPICO,_MEXICO_(4297435982).jpg
+image_license: CC BY 2.0
+image_attribution: lindsaybridge from Sydney, Australia
 ---
 
 Tampico is a Gulf port with more character than its industrial reputation suggests. Oil, river trade, Huastec history, old banking houses, seafood, humidity, and crocodiles all sit close together, which makes the city feel rough-edged but memorable.

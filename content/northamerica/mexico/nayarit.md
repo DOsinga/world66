@@ -4,7 +4,12 @@ type: location
 loc_type: region
 latitude: 22.0
 longitude: -105.0
-snippet: The Riviera Nayarit — surf villages north of Puerto Vallarta, a bird-filled coast, and Huichol country in the sierra.
+snippet: The Riviera Nayarit — surf villages north of Puerto Vallarta, a bird-filled
+  coast, and Huichol country in the sierra.
+image: nayarit.jpg
+image_source: https://commons.wikimedia.org/wiki/File:San_Francisco,_Nayarit,_desde_un_dron_02.jpg
+image_license: CC0
+image_attribution: Luisalvaz
 ---
 
 Nayarit is small, green and mostly coastal, and the stretch immediately north of Puerto Vallarta has become the most fashionable beach in Mexico.

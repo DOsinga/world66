@@ -15,6 +15,10 @@ heritage: 3.332
 vibrancy: 3.502
 nature: 7.929
 off_the_beaten_track: 3.715
+image: mineral_del_chico.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Capilla_en_las_cercan%C3%ADas_de_Mineral_del_Chico,_Hidalgo,_M%C3%A9xico,_2013-10-10,_DD_06.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Diego Delso
 ---
 
 *North America > Mexico > Mineral del Chico*

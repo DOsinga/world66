@@ -14,6 +14,10 @@ heritage: 4.779
 vibrancy: 2.865
 nature: 3.52
 off_the_beaten_track: 4.129
+image: sombrerete.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cajas_Reales_Sombrerete_Mexico_banner.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Thelmadatter
 ---
 
 Sombrerete is a highland mining town in northern Zacatecas, far enough from the main colonial circuit that it still feels like a working Mexican town rather than a polished weekend set piece. Its centre belongs to the Camino Real de Tierra Adentro, the old silver road to the north, and the best streets still have the tight colonial layout of alleys, churches, and small plazas.

@@ -14,6 +14,10 @@ heritage: 1.846
 vibrancy: 2.582
 nature: 5.781
 off_the_beaten_track: 2.923
+image: san_carlos_sonora.jpg
+image_source: https://commons.wikimedia.org/wiki/File:San_Carlos,_Guaymas,_Hermosillo_Sonora.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Karen Alvarado
 ---
 
 San Carlos is a small beach resort on the Sea of Cortez, about 15 kilometres from the port of Guaymas in the state of Sonora. The setting is dramatic — copper-toned desert hills drop steeply into deep blue water, with the distinctive twin peaks of [Cerro Tetakawi](/northamerica/mexico/sonora/san_carlos_sonora/cerro_tetakawi) rising above the bay like a landmark.

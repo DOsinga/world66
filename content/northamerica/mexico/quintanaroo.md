@@ -4,7 +4,12 @@ type: location
 loc_type: region
 latitude: 19.6667
 longitude: -88.5
-snippet: Mexico's Caribbean coast — reef, cenotes and Maya ruins behind a wall of resorts, and jungle the length of the Belize border.
+snippet: Mexico's Caribbean coast — reef, cenotes and Maya ruins behind a wall of
+  resorts, and jungle the length of the Belize border.
+image: quintanaroo.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Good_morning._Bacalar,_Quintana_Roo,_Mexico.jpg
+image_license: CC BY 2.0
+image_attribution: Sharon Hahn Darlin
 ---
 
 Quintana Roo is where most visitors to Mexico land, and a great many never leave it. The state runs down the Caribbean side of the Yucatán peninsula from [Cancún](/northamerica/mexico/quintanaroo/cancun) to the Belize border, and it holds the country's warmest sea, its second reef, and almost all of its all-inclusive hotels.

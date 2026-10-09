@@ -4,7 +4,12 @@ type: location
 loc_type: region
 latitude: 25.0
 longitude: -107.5
-snippet: A Pacific farming state with Mazatlán's old town, the start of the Copper Canyon railway, and banda music everywhere.
+snippet: A Pacific farming state with Mazatlán's old town, the start of the Copper
+  Canyon railway, and banda music everywhere.
+image: sinaloa.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bat_cave_in_El_Maviri_Sinaloa_-_Mexico.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Tomascastelazo
 ---
 
 Sinaloa feeds much of Mexico — tomatoes, maize, and the largest fishing fleet on the Pacific coast — and it exports *banda*, the brass-heavy music that is the state's other main product.

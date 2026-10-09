@@ -16,6 +16,10 @@ heritage: 4.253
 vibrancy: 4.681
 nature: 3.072
 off_the_beaten_track: 2.354
+image: aguascalientes_city.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Aguascalientes,_Aguascalientes,_Aguascalientes-_Aguascalientes_cathedral_(20232942553).jpg
+image_license: CC BY-SA 2.0
+image_attribution: Comisión Mexicana de Filmaciones from México D. F., México
 ---
 
 Aguascalientes is one of central Mexico's easier cities to underestimate. It is tidy, prosperous, and less theatrical than nearby [Zacatecas](/northamerica/mexico/zacatecas/zacatecas_city), but the centre has a strong identity built around printmaking, death imagery, hot-spring history, and the country's biggest fair.

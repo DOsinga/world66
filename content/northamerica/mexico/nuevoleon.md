@@ -4,7 +4,12 @@ type: location
 loc_type: region
 latitude: 25.6
 longitude: -100.0
-snippet: Mexico's industrial powerhouse under the Sierra Madre, with canyon climbing and waterfalls on the city's doorstep.
+snippet: Mexico's industrial powerhouse under the Sierra Madre, with canyon climbing
+  and waterfalls on the city's doorstep.
+image: nuevoleon.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Estadio_BBVA,_Guadalupe_(Monterrey),_Nuevo_Le%C3%B3n,_Mexico.jpg
+image_license: CC BY-SA 3.0 de
+image_attribution: Arne Müseler
 ---
 
 Nuevo León is the wealthiest state in Mexico and the least like the picture-postcard version of the country: industry, business schools, and mountains.

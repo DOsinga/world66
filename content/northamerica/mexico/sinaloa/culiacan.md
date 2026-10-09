@@ -15,6 +15,10 @@ heritage: 2.62
 vibrancy: 2.815
 nature: 2.573
 off_the_beaten_track: 3.537
+image: culiacan.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Culiacan,sinaloa..JPG
+image_license: CC BY-SA 3.0
+image_attribution: Orland77
 ---
 
 Culiacan is the capital of Sinaloa and a city most travelers pass through rather than linger in. That is understandable — it lacks the colonial charm of nearby Mazatlan or the beach appeal of the Pacific coast — but the city has more going on than its reputation suggests. The food alone is worth a stop. Sinaloa is one of Mexico's agricultural powerhouses, and Culiacan eats exceptionally well as a result.

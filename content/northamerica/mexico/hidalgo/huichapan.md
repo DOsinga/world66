@@ -15,6 +15,10 @@ heritage: 4.483
 vibrancy: 3.402
 nature: 4.7
 off_the_beaten_track: 4.242
+image: huichapan.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Huichapan-Hgo.jpg
+image_license: CC BY-SA 4.0
+image_attribution: 22DiegoAlejandroPiña
 ---
 
 Huichapan is a small Pueblo Magico in western Hidalgo, close to the Queretaro border. It has more weight than its size suggests: a handsome colonial centre, several old churches in pink stone, a local chapter in Mexico's independence story, and the enormous Saucillo Aqueduct crossing a canyon outside town.

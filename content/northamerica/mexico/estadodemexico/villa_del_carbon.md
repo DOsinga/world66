@@ -15,6 +15,10 @@ heritage: 4.682
 vibrancy: 2.712
 nature: 5.011
 off_the_beaten_track: 3.104
+image: villa_del_carbon.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Centro_Hist%C3%B3rico_de_Villa_del_Carb%C3%B3n_2_e..dronism.jpg
+image_license: CC BY-SA 4.0
+image_attribution: E.dronism
 ---
 
 Villa del Carbón sits in the cool high country northwest of [Mexico City](/northamerica/mexico/mexicocity), close enough for a long day out but far enough to feel like a different rhythm. It is a small Pueblo Mágico of cobbled streets, tile roofs, leather workshops, and weekend charreada culture, with pine-covered hills and reservoirs just outside town.

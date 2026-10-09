@@ -16,6 +16,10 @@ heritage: 3.315
 vibrancy: 4.938
 nature: 7.56
 off_the_beaten_track: 4.895
+image: mazunte.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Beach_Scene_-_Playa_Mazunte_-_Oaxaca_-_Mexico_-_01_(6523040101).jpg
+image_license: CC BY-SA 2.0
+image_attribution: Adam Jones from Kelowna, BC, Canada
 ---
 
 Mazunte is a small beach town on the Oaxacan coast, close to [Zipolite](/northamerica/mexico/oaxaca/zipolite) but with a different centre of gravity. It has the slow rhythm of hammocks, yoga signs, seafood lunches, and dusty lanes, but its real story is the shift from turtle hunting to turtle conservation.

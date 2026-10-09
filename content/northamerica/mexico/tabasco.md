@@ -4,7 +4,12 @@ type: location
 loc_type: region
 latitude: 18.0
 longitude: -92.6682
-snippet: Hot, wet lowland where the Olmec came first — colossal stone heads, cacao plantations, and more water than land.
+snippet: Hot, wet lowland where the Olmec came first — colossal stone heads, cacao
+  plantations, and more water than land.
+image: tabasco.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Calfs_in_Tabasco_2020.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Carlos Valenzuela
 ---
 
 Tabasco is Mexico's wettest state: rivers, swamp and rain for most of the year, which is why the **Olmec**, the first complex civilisation in Mesoamerica, grew up here from about 1500 BC.

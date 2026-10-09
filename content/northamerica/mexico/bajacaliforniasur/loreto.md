@@ -14,6 +14,10 @@ heritage: 4.28
 vibrancy: 2.508
 nature: 5.844
 off_the_beaten_track: 4.839
+image: loreto.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Loreto_Bay_Mexico_Golf_Course_Bridge.jpg
+image_license: CC BY-SA 2.0
+image_attribution: James Hawley
 ---
 
 Loreto is the Baja town that still feels like a town. It sits between the Sea of Cortez and the Sierra de la Giganta, with a low waterfront, a mission square, fishing boats, and islands just offshore in the national marine park.

@@ -4,7 +4,12 @@ type: location
 loc_type: region
 latitude: 18.8333
 longitude: -98.0
-snippet: Talavera tiles and mole poblano under two volcanoes, with mountain towns in the Sierra Norte that few visitors reach.
+snippet: Talavera tiles and mole poblano under two volcanoes, with mountain towns
+  in the Sierra Norte that few visitors reach.
+image: puebla.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Puebla,_M%C3%A9xico,_2013-10-11,_DD_13.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Diego Delso
 ---
 
 Puebla was founded in 1531 as a Spanish city on empty ground, deliberately placed between Mexico City and the sea, and it has been a conservative, devout, well-fed place ever since.

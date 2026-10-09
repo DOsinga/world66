@@ -4,7 +4,12 @@ type: location
 loc_type: region
 latitude: 17.0
 longitude: -96.5
-snippet: Mexico's most indigenous state — sixteen language groups, the country's best cooking, Zapotec ruins and a Pacific coast that stayed small.
+snippet: Mexico's most indigenous state — sixteen language groups, the country's best
+  cooking, Zapotec ruins and a Pacific coast that stayed small.
+image: oaxaca.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Nuestra_Se%C3%B1ora_de_la_Asunci%C3%B3n,_Oaxaca,_Oax._2.JPG
+image_license: CC BY-SA 4.0
+image_attribution: Luisalvaz
 ---
 
 Oaxaca is the state travellers fall hardest for, and the reason is density: sixteen recognised indigenous peoples, a cuisine that is argued to be the country's finest, and a capital small enough to walk across.

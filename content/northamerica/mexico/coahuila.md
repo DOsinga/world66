@@ -4,7 +4,12 @@ type: location
 loc_type: region
 latitude: 27.3333
 longitude: -102.0
-snippet: Desert wine country, pools of stromatolites that predate complex life, and the oldest winery in the Americas.
+snippet: Desert wine country, pools of stromatolites that predate complex life, and
+  the oldest winery in the Americas.
+image: coahuila.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Calle_Guadalupe_Victoria,_Saltillo,_Coahuila.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Juan Carlos Fonseca Mata
 ---
 
 Coahuila is a big northern desert state with two surprises in it.

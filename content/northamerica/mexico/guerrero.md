@@ -4,7 +4,12 @@ type: location
 loc_type: region
 latitude: 17.6667
 longitude: -100.0
-snippet: Acapulco and the silver town of Taxco — a Pacific state of great beauty and real security problems.
+snippet: Acapulco and the silver town of Taxco — a Pacific state of great beauty and
+  real security problems.
+image: guerrero.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Atardecer_en_Marquelia,_Guerrero.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Geyuvaan
 ---
 
 Guerrero holds two of Mexico's older destinations and some of its most difficult territory.

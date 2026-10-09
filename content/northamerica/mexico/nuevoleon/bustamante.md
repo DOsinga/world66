@@ -17,6 +17,10 @@ heritage: 2.641
 vibrancy: 1.529
 nature: 6.462
 off_the_beaten_track: 5.989
+image: bustamante.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bustamante,_N.L.,_Mexico_-_panoramio.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Tereso Hernández
 ---
 
 Bustamante is a small Pueblo Magico north of Monterrey, tucked against pale limestone hills in a dry corner of Nuevo Leon. It is not polished, and that is part of the point: the town works best if you want caves, cold spring water, a quiet plaza, and a slower weekend than the city gives you.

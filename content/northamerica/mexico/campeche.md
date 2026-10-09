@@ -4,7 +4,12 @@ type: location
 loc_type: region
 latitude: 19.0
 longitude: -90.5
-snippet: A walled city on the Gulf, and Calakmul — the largest Maya site in Mexico, deep in a jungle reserve.
+snippet: A walled city on the Gulf, and Calakmul — the largest Maya site in Mexico,
+  deep in a jungle reserve.
+image: campeche.jpg
+image_source: https://commons.wikimedia.org/wiki/File:15-07-14-Edzna-Campeche-Mexico-RalfR-WMA_0598.jpg
+image_license: GFDL 1.2
+image_attribution: Ralf Roletschek
 ---
 
 Campeche is the quiet third of the Yucatán peninsula. It has no Caribbean coast and no resorts, and what it has instead is the best-preserved walled city in Mexico and the biggest Maya ruin in the country.

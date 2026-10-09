@@ -15,6 +15,10 @@ heritage: 5.512
 vibrancy: 3.023
 nature: 5.742
 off_the_beaten_track: 4.518
+image: santa_maria_del_rio.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ca%C3%B1%C3%B3n_del_R%C3%ADo_Santa_Mar%C3%ADa_-_panoramio.jpg
+image_license: CC BY-SA 3.0
+image_attribution: panza-rayada
 ---
 
 Santa María del Río is a small town south of [San Luis Potosi](/northamerica/mexico/sanluispotosi/san_luis_potosi_city) with one strong identity: the rebozo. The shawls woven here are among Mexico's best-known textile traditions, and the town is serious enough about them to support a dedicated museum, artisan market, and August fair.

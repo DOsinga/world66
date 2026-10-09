@@ -22,7 +22,7 @@ nature: 6.93
 off_the_beaten_track: 3.023
 ---
 
-La Paz is the calm capital of Baja California Sur, stretched along the Gulf of California with desert hills behind it and a long waterfront malecón in front. It lacks the resort gloss of Los Cabos, which is exactly the point. The city is better for evening walks, seafood, kayaking, whale-shark trips in season, and day boats to [Espíritu Santo Island](/northamerica/mexico/bajacalifornia/espiritu_santo_island).
+La Paz is the calm capital of Baja California Sur, stretched along the Gulf of California with desert hills behind it and a long waterfront malecón in front. It lacks the resort gloss of Los Cabos, which is exactly the point. The city is better for evening walks, seafood, kayaking, whale-shark trips in season, and day boats to [Espíritu Santo Island](/northamerica/mexico/bajacaliforniasur/espiritu_santo_island).
 
 The centre is easygoing rather than spectacular. [Jardín Velasco](/northamerica/mexico/bajacaliforniasur/lapaz/jardin_velasco), the [Catedral de Nuestra Señora de La Paz](/northamerica/mexico/bajacaliforniasur/lapaz/catedral_de_la_paz), and the [Museo de Arte de Baja California Sur](/northamerica/mexico/bajacaliforniasur/lapaz/museo_de_arte_de_baja_california_sur) give you a compact civic core, while the [malecón](/northamerica/mexico/bajacaliforniasur/lapaz/malecon) pulls everyone back to the water at sunset.
 

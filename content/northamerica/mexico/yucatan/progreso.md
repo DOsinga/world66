@@ -17,6 +17,10 @@ heritage: 3.035
 vibrancy: 3.054
 nature: 2.707
 off_the_beaten_track: 1.715
+image: progreso.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Malec%C3%B3n_de_Progreso,_Yucatan,_Mexico_Abril_2021.jpg
+image_license: CC BY 2.0
+image_attribution: Sharon Hahn Darlin
 ---
 
 Progreso is the Gulf beach town for [Mérida](/northamerica/mexico/yucatan/merida), close enough for a day trip but different enough to feel like a change of climate. The water is shallow, the sea breeze is real, and the long malecón fills with families, seafood vendors, and cruise passengers when a ship is in port.

@@ -15,6 +15,10 @@ heritage: 6.382
 vibrancy: 1.478
 nature: 2.008
 off_the_beaten_track: 2.489
+image: comalcalco.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Comalcalco.jpg
+image_license: Public domain
+image_attribution: Unknown
 ---
 
 Comalcalco is a small city in Tabasco's humid cacao country, about an hour from [Villahermosa](/northamerica/mexico/tabasco/villahermosa). Its modern streets are useful rather than beautiful, but the place earns a page because the surrounding landscape ties together three strong threads: Maya archaeology, chocolate, and the wetlands of the Gulf lowlands.

@@ -706,6 +706,24 @@ def show_replies(args):
         print("Pass --stamp-replies to record these in outreach/log.csv.")
 
 
+def list_queue(rows):
+    """Exactly who a --send run would write to, so the list can be checked
+    against a record kept somewhere else before anything leaves."""
+    ledger = load_ledger()
+    queue = [r for r in rows
+             if r["email"] and not ledger.get(r["code"], {}).get("sent_at")]
+    print(f"{len(queue)} provider(s) would be mailed:\n")
+    for r in queue:
+        print(f"  {r['code']}  {r['title'][:38]:<38}  {r['email']}")
+    skipped = [r for r in rows
+               if r["email"] and ledger.get(r["code"], {}).get("sent_at")]
+    if skipped:
+        print(f"\n{len(skipped)} already carry a sent_at and would be skipped:")
+        for r in skipped:
+            print(f"  {r['code']}  {r['title'][:38]:<38}  "
+                  f"{ledger[r['code']]['sent_at']}")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--assign", action="store_true", help="assign codes where missing")
@@ -724,6 +742,8 @@ def main():
     ap.add_argument("--country", default="", help="limit to a content path fragment")
     ap.add_argument("--ledger", action="store_true",
                     help="sync outreach/log.csv with the providers that have codes")
+    ap.add_argument("--list", action="store_true", dest="list_queue",
+                    help="print who --send would mail, and who it would skip")
     ap.add_argument("--replies", action="store_true",
                     help="list the mail Resend has received, matched to providers")
     ap.add_argument("--stamp-replies", action="store_true",
@@ -753,7 +773,7 @@ def main():
 
     if not (args.assign or args.qr or args.emails or args.index
             or args.ledger or args.mark_sent or args.send
-            or args.replies):
+            or args.replies or args.list_queue):
         ap.error("nothing to do — pass --assign, --qr, --emails, --index, "
                  "--ledger, --send and/or --mark-sent")
     if args.mark_sent:
@@ -818,6 +838,9 @@ def main():
                             if l.lower().startswith("subject:"))
         r["body"] = body.strip() + "\n"
         r["qr_path"] = qr_out / f'{r["code"]}.png'
+
+    if args.list_queue:
+        list_queue(rows)
 
     if args.send:
         send_batch(rows, args)

@@ -1,20 +1,22 @@
 ---
-title: "Paricutín Volcano"
-type: poi
-tags:
-  - things_to_do
-  - sight
-latitude: 19.4744
-longitude: -102.2511
-story: >
-  On 20 February 1943, a farmer named Dionisio Pulido watched a crack open in his cornfield near the village of San Juan Parangaricutiro. Within 24 hours there was a cone 50 metres high. Within a week it was 150 metres. The lava eventually buried two entire villages and reached the town of Uruapan 12 km away. Pulido tried to file a formal complaint with the local government about the destruction of his cornfield.
-sources:
-  - https://en.wikipedia.org/wiki/Paricutin
-score: 9.0
+country: Mexico
+latitude: 19.493
+loc_type: feature
+longitude: -102.2513
+score: 8.8
+snippet: The volcano that came out of a cornfield in 1943, and the church it half-buried
+story: 'On February 20, 1943, farmer Dionisio Pulido was working his cornfield when
+  the ground began to crack, hiss, and then erupt. Within a week the cone stood 150
+  metres high; within a year, over 400 metres. The entire village of San Juan Parangaricutiro
+  was buried under lava, and all 700 inhabitants were evacuated — but the stone church
+  tower was too massive to be submerged, and it still protrudes from the hardened
+  lava field like a monument to the volcano''s indifference.
+
+  '
+title: Paricutín
+type: location
 ---
 
-Paricutín is one of the youngest volcanoes on Earth and one of the rare geological events witnessed from birth by living people. It emerged from a corn farmer's field on 20 February 1943 and erupted continuously until 1952, burying two villages in lava and ash. What remains is a stark 424-metre cinder cone rising from a hardened lava field, with the tower and roof of the San Juan Parangaricutiro church still visible above the lava flow — a famously surreal image.
+Paricutín is one of only a handful of volcanoes in recorded history that humans have witnessed being born. It erupted from a flat cornfield in February 1943 and continued to erupt for nine years, eventually burying two villages and creating a new mountain 424 metres above the surrounding plain. Today it is dormant, and the journey from Uruapan to the site is one of the most memorable day trips in Mexico.
 
-The standard approach is from the indigenous Purépecha town of Angahuan, about 25 km north of Uruapan. From there, local guides on horseback lead visitors across the lava field to the buried church ruins and up to the base of the cone itself. The full day excursion — out to the church, up to the crater rim, and back — takes about 8 hours on horseback and is genuinely strenuous. You can also hire a horse just to the church ruins and walk back, a shorter option that still captures the essential strangeness of the site.
-
-The lava field is rough and disorienting; do not attempt it without a guide.
+The route goes through the town of Angahuan (about 30 km from Uruapan), a Purépecha village where local guides and horses are available for hire. The ride across the lava field to the buried church of San Juan Parangaricutiro takes roughly two hours each way; the church tower poking from a grey sea of solidified lava is one of those sights that stays with you. Hardier visitors can continue further to climb the volcano itself — a longer and more demanding undertaking requiring a full day. Back in Angahuan, the wooden church has remarkable carved Purépecha decorations, and the views from the village over the lava field to the volcano are striking.

@@ -1,18 +1,17 @@
 ---
-title: "Perlas del Mar de Cortez"
+title: Perlas del Mar de Cortez
 type: poi
-tags:
-  - shopping
-  - market
-latitude: 27.9175
-longitude: -110.8850
-story: >
-  Guaymas Bay is home to the only pearl farm in the Americas still using the native Pinctada mazatlanica oyster, 
-  the same species that produced the legendary "black pearls of the Baja" that Spanish conquistadors prized in the sixteenth century. 
-  Wild pearl diving almost drove the species to extinction; the farm at Guaymas is part of an effort to restore both the oyster population and a centuries-old craft.
-score: 6.5
+commercial: true
+latitude: 27.9216
+longitude: -110.8994
+score: 6.4
+snippet: The Guaymas pearl farm, cultivating Sea of Cortez pearls since 1997, with short guided tours most mornings
+tags: [activities, guided_tours]
+phone: "+52 622 221 0136"
+whatsapp: "+52 622 131 8585"
+url: perlas.com.mx
 ---
 
-Perlas del Mar de Cortez sells cultured pearls from the only pearl farm in the Americas, using the native Pinctada mazatlanica oyster farmed in the clean waters of the bay. The pearls come in remarkable colours — silver, gold, blue, and the deep blue-green the farm calls "chocolate" — and are sold alongside gold and silver jewellery at prices that are good value compared to retail elsewhere.
+A pearl farm in Guaymas, cultivating Sea of Cortez pearls since 1997. The guided tour runs 45 minutes to an hour, down to the dock with a guide who walks you through the whole process from oyster to pearl. They publish no street address for the farm, so the pin is on Guaymas.
 
-The shop sells direct from the farm, which means you can often see the pearls explained by staff who know exactly where each one was grown. This is the real thing, not tourist trinkets — if you are going to buy Mexican pearls anywhere, this is the place to do it.
+Tours run every morning on the hour, with a minimum of two people. Their jewellery shop is in the Marina San Carlos, behind the Hotel Marinaterra, but tours are at the farm.

@@ -6,9 +6,9 @@ image: rio_lagartos.jpg
 image_attribution: Pavel Kirillov
 image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Parade_in_Rio_Lagartos,_2012_along_the_shore.jpg
-latitude: 21.5205
+latitude: 21.5964
 loc_type: city
-longitude: -88.1332
+longitude: -88.1583
 score: 5.992
 title: Rio Lagartos
 snippet: Yucatán fishing village beside Ría Lagartos Biosphere Reserve, known for

@@ -1,15 +1,14 @@
 ---
-title: Jardines de Mexico
-type: poi
+country: Mexico
 latitude: 18.6072
+loc_type: feature
 longitude: -99.2845
 score: 8.0
+snippet: One of the largest botanical gardens in North America, a half-day on foot
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Jojutla
-tags:
-  - things_to_do
-  - garden
-  - family
+title: Jardines de México
+type: location
 ---
 
 Jardines de Mexico is an enormous botanical garden south of Cuernavaca, with long walking paths through themed sections including Japanese, orchid, cactus, and tropical gardens. It is one of the largest garden complexes in North America, so treat it as a half-day stop rather than a quick stroll.

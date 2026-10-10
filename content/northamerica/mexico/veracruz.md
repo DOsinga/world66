@@ -20,4 +20,4 @@ Inland the land climbs fast. [Xalapa](/northamerica/mexico/veracruz/xalapa), the
 
 [Tlacotalpan](/northamerica/mexico/veracruz/tlacotalpan) on the Papaloapan river is a UNESCO town of wide streets and houses painted in colours that should not work together and do. [Catemaco](/northamerica/mexico/veracruz/catemaco) sits on a crater lake in the Tuxtlas and is known across Mexico for its *brujos*.
 
-North, the Huasteca coast at [Tuxpan](/northamerica/mexico/veracruz/tuxpan) and [Tecolutla](/northamerica/mexico/veracruz/tecolutla) is where Mexicans holiday and foreigners rarely go. **El Tajín**, the Totonac city of niches, is near Papantla.
+North, the Huasteca coast at [Tuxpan](/northamerica/mexico/veracruz/tuxpan) and [Tecolutla](/northamerica/mexico/veracruz/tecolutla) is where Mexicans holiday and foreigners rarely go. **[El Tajín](/northamerica/mexico/veracruz/el_tajin)**, the Totonac city of niches, is near Papantla.

@@ -2,9 +2,9 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-31'
-latitude: 21.11582
+latitude: 20.8821
 loc_type: city
-longitude: -103.810137
+longitude: -103.8371
 score: 6.289
 title: Tequila
 type: location

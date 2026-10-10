@@ -20,4 +20,4 @@ Aquismon is a small Huasteca Potosina town with bigger landscapes than its size 
 
 This is not a polished colonial stop. Aquismon is rural, humid, and practical, with simple restaurants, local guides, and a lot of early starts. That roughness is part of the appeal if you are here for the Huasteca's rivers, caves, and forested limestone country.
 
-Use Aquismon as a base if you want the natural sights closer at hand than they are from Ciudad Valles or Xilitla. The best days start before dawn for bird flights, or early enough to reach the river before the heat settles in.
+Use Aquismon as a base if you want the natural sights closer at hand than they are from [Ciudad Valles](/northamerica/mexico/sanluispotosi/ciudad_valles) or Xilitla. The best days start before dawn for bird flights, or early enough to reach the river before the heat settles in.

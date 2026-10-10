@@ -4,6 +4,14 @@ providers:
   path: northamerica/mexico/michoacan/morelia/tours_en_michoacan
 - note: The sanctuary and Angangueo from Mexico City, with the entrance included
   path: northamerica/mexico/mexicocity/kenax_turismo
+- note: Sierra Chincua or El Rosario from Tlalpujahua, on the eastern side of the sanctuaries
+  path: northamerica/mexico/michoacan/tlalpujahua/magia_xplora_tours
+- note: El Rosario with a Morelia guide-driver of twenty-five years
+  path: northamerica/mexico/michoacan/morelia/alfredo_tour_guide
+- note: A one-day monarch trip from Morelia with a licensed bilingual guide
+  path: northamerica/mexico/michoacan/morelia/michmex_guides
+- note: Private Sierra Chincua day from Morelia, packed lunch included
+  path: northamerica/mexico/michoacan/morelia/yei_tours
 title: Activities
 type: section
 ---

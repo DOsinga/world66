@@ -1,17 +1,26 @@
 ---
-title: Xochicalco
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - archaeology
-latitude: 18.8039
-longitude: -99.2959
+country: Mexico
+latitude: 18.8023
+loc_type: feature
+longitude: -99.2909
+score: 9.2
+snippet: Hilltop city where Maya, Zapotec and Teotihuacan met, and a cave built to
+  catch the zenith sun
 sources:
-  - https://en.wikipedia.org/wiki/Xochicalco
-score: 9.0
+- https://en.wikipedia.org/wiki/Xochicalco
+story: 'Deep within the site''s largest pyramid is a natural cave that the builders
+  converted into an astronomical observatory. A shaft in the ceiling focuses sunlight
+  onto a carved stone floor during the solar zenith — twice a year, at high noon,
+  a perfect ellipse of light illuminates the chamber below. The Maya, Zapotec, and
+  Teotihuacan cultural influences all visible at Xochicalco suggest it may have been
+  a deliberate meeting place for astronomers and priests from across Mesoamerica to
+  standardise the calendar.
+
+  '
+title: Xochicalco
+type: location
 ---
 
-Xochicalco sits on an artificially levelled hilltop about 38 km south of Cuernavaca, commanding views in every direction. The site flourished between roughly AD 700 and 900, bridging the gap between the collapse of Teotihuacán and the rise of the Toltecs, and it shows clear influences from several different Mesoamerican cultures simultaneously. It is a UNESCO World Heritage Site.
+Xochicalco — "Place of the House of Flowers" in Nahuatl — sits on a heavily fortified hilltop 38km southwest of Cuernavaca. Built between 700 and 900 CE during the collapse of Teotihuacan's regional dominance, the city was an independent power that absorbed cultural influences from across Mesoamerica — the site contains Mayan glyphs, Zapotec elements, and Teotihuacan architectural forms within a single complex. It was designated a UNESCO World Heritage Site in 1999.
 
-The Pyramid of the Feathered Serpent is the centrepiece: its lower panels are carved with undulating feathered serpents, seated figures in complex headdresses, and glyphs that scholars have spent generations decoding. Below the main platform, a shaft descends into an underground chamber where — twice a year at solar zenith — a beam of sunlight falls directly down through an opening in the ceiling. The site museum at the entrance is excellent and worth an hour before climbing to the ruins.
+The Pirámide de la Serpiente Emplumada (Pyramid of the Feathered Serpent) is the centrepiece: a compact but elaborate structure carved with undulating serpent bodies, sitting figures, and hieroglyphs of a sophistication unusual for a site this size. The views from the hilltop across the Morelos valley are excellent. The on-site museum is well-stocked with carved stelae, ceramics, and explanatory panels in English. A half-day round-trip from Cuernavaca by taxi or bus.

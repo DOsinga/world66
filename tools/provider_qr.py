@@ -30,13 +30,18 @@ import argparse
 import csv
 import datetime
 import hashlib
+import json
+import os
 import random
 import re
 import string
 import sys
 import textwrap
+import time
 import unicodedata
+import urllib.error
 import urllib.parse
+import urllib.request
 from pathlib import Path
 
 import frontmatter
@@ -109,13 +114,32 @@ def link_for(base, rel, code):
 # it gets nothing extra rather than a translation nobody needs.
 LANG_BY_PATH = {
     "/france/": "fr",
+    "/frenchguiana/": "fr",
+    "/haiti/": "fr",
     "/suriname/": "nl",
-    # Spanish-speaking South America. Guyana is English and gets no second half.
+    "/brazil/": "pt",
+    # Spanish-speaking Latin America.
     "/peru/": "es",
     "/ecuador/": "es",
     "/colombia/": "es",
     "/bolivia/": "es",
     "/chile/": "es",
+    "/argentina/": "es",
+    "/uruguay/": "es",
+    "/paraguay/": "es",
+    "/venezuela/": "es",
+    "/mexico/": "es",
+    "/guatemala/": "es",
+    "/honduras/": "es",
+    "/elsalvador/": "es",
+    "/nicaragua/": "es",
+    "/costarica/": "es",
+    "/panama/": "es",
+    "/cuba/": "es",
+    "/dominicanrepublic/": "es",
+    "/puertorico/": "es",
+    # Guyana, Belize, Jamaica and the Cayman Islands are English-speaking and
+    # get no second half rather than a translation nobody there needs.
 }
 
 
@@ -226,6 +250,29 @@ Tres cosas que nos ayudarían:
    actualizamos. Queremos hacer la mejor guía de viajes del mundo y toda ayuda
    es bienvenida.
 """,
+    "pt": """Olá,
+
+Estamos criando um guia de viagem que ajuda os viajantes a organizar a viagem
+ao longo do caminho, pelo WhatsApp, e acabamos de incluir {title}. Aparecer no
+guia é gratuito, não cobramos comissão e não há nada para assinar. Dê uma
+olhada:
+
+{link}
+
+Três coisas que nos ajudariam:
+
+1. Coloque um link no seu site ou nas suas redes sociais, para que as pessoas
+   encontrem a partir de você o resto do guia de {location_name}.
+
+2. O mesmo link em QR code, pronto para imprimir — num cartão na recepção, num
+   cartaz na vitrine ou no verso de um recibo:
+
+{qr_url}
+
+3. Se tiver qualquer comentário sobre o guia de {location_name}, escreva para
+   nós e atualizamos. Queremos fazer o melhor guia de viagem do mundo e toda
+   ajuda é bem-vinda!
+""",
 }
 
 SIGNOFF = {
@@ -233,6 +280,7 @@ SIGNOFF = {
     "nl": "Groeten,\nRichard en het World66-team",
     "fr": "Merci,\nRichard et l'équipe World66",
     "es": "Un saludo,\nRichard y el equipo de World66",
+    "pt": "Um abraço,\nRichard e a equipe World66",
 }
 
 # The line between the two halves, so the reader can see at a glance that the
@@ -241,6 +289,7 @@ DIVIDER = {
     "nl": "\n--- Dezelfde tekst in het Nederlands ---\n\n",
     "fr": "\n--- Le même message en français ---\n\n",
     "es": "\n--- El mismo mensaje en español ---\n\n",
+    "pt": "\n--- A mesma mensagem em português ---\n\n",
 }
 
 
@@ -500,6 +549,264 @@ def mark_sent(ledger, when, only="", path=LEDGER):
     return n
 
 
+# ----- Sending through Resend ------------------------------------------------
+
+RESEND_URL = os.environ.get("RESEND_API_URL", "https://api.resend.com/emails")
+# Resend sits behind Cloudflare, which answers urllib's default agent with a
+# 1010 before Resend ever sees the request.
+RESEND_AGENT = "world66-outreach/1.0 (+https://world66.ai)"
+
+
+def resend_send(to, subject, text, sender, reply_to=""):
+    """Post one message. Returns (message_id, "") or ("", error)."""
+    payload = {"from": sender, "to": [to], "subject": subject, "text": text}
+    if reply_to:
+        payload["reply_to"] = reply_to
+    req = urllib.request.Request(
+        RESEND_URL,
+        data=json.dumps(payload).encode("utf-8"),
+        headers={
+            "Authorization": f"Bearer {os.environ.get('RESEND_API_KEY', '').strip()}",
+            "Content-Type": "application/json",
+            "User-Agent": RESEND_AGENT,
+        },
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=20) as r:
+            return json.loads(r.read().decode("utf-8")).get("id", ""), ""
+    except urllib.error.HTTPError as e:
+        # The body carries Resend's reason; without it every failure looks alike.
+        return "", f"HTTP {e.code}: {e.read().decode('utf-8', 'replace')[:300]}"
+    except Exception as e:
+        return "", f"{type(e).__name__}: {e}"
+
+
+def send_batch(rows, args):
+    """Mail the providers who have an address and no send date yet.
+
+    The ledger is written after every single send rather than at the end: a
+    crash halfway through a batch must not leave us unable to tell who was
+    already written to, because the cost of that mistake is mailing a business
+    twice.
+    """
+    if not os.environ.get("RESEND_API_KEY", "").strip():
+        sys.exit("RESEND_API_KEY is not set — nothing was sent.")
+    sender = args.sender or os.environ.get("OUTREACH_FROM", "")
+    if not sender:
+        sys.exit("No From address. Pass --from or set OUTREACH_FROM, e.g.\n"
+                 '  OUTREACH_FROM="Richard at World66 <richard@world66.ai>"\n'
+                 "It must be on the apex domain: world66.ai publishes DMARC "
+                 "p=reject with strict alignment, so a subdomain sender would be "
+                 "rejected by our own policy.")
+
+    ledger = load_ledger()
+    queue = []
+    for r in rows:
+        if not r["email"]:
+            continue
+        if ledger.get(r["code"], {}).get("sent_at"):
+            continue
+        queue.append(r)
+    if args.limit:
+        queue = queue[: args.limit]
+
+    if args.to:
+        print(f"TEST MODE — every message goes to {args.to}, "
+              f"and nothing is marked as sent.")
+    print(f"sending {len(queue)} message(s) as {sender}\n")
+
+    ok = fail = 0
+    for i, r in enumerate(queue, 1):
+        dest = args.to or r["email"]
+        mid, err = resend_send(dest, r["subject"], r["body"], sender, args.reply_to)
+        if err:
+            fail += 1
+            print(f"  [{i}/{len(queue)}] FAILED {r['title']} <{dest}> — {err}")
+        else:
+            ok += 1
+            print(f"  [{i}/{len(queue)}] sent    {r['title']} <{dest}>  id={mid}")
+            if not args.to:
+                row = ledger.setdefault(r["code"], {})
+                row["sent_at"] = str(datetime.date.today())
+                save_ledger(ledger)
+        if i < len(queue):
+            time.sleep(args.rate)
+    print(f"\n{ok} sent, {fail} failed.")
+    if fail:
+        sys.exit(1)
+
+
+# ----- Reading replies back out of Resend ------------------------------------
+
+INBOUND_URL = os.environ.get("RESEND_INBOUND_URL",
+                             "https://api.resend.com/emails/inbound")
+
+
+def fetch_inbound(limit=0):
+    """Every message Resend has received for our domain, newest first."""
+    req = urllib.request.Request(
+        INBOUND_URL,
+        headers={
+            "Authorization": f"Bearer {os.environ.get('RESEND_API_KEY', '').strip()}",
+            "User-Agent": RESEND_AGENT,
+        },
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=20) as r:
+            payload = json.loads(r.read().decode("utf-8"))
+    except urllib.error.HTTPError as e:
+        sys.exit(f"HTTP {e.code} from Resend inbound: "
+                 f"{e.read().decode('utf-8', 'replace')[:300]}")
+    rows = payload.get("data", [])
+    return rows[:limit] if limit else rows
+
+
+def show_replies(args):
+    """Match inbound mail against the ledger, so a reply lands next to the
+    provider it came from rather than in a separate inbox nobody reconciles."""
+    if not os.environ.get("RESEND_API_KEY", "").strip():
+        sys.exit("RESEND_API_KEY is not set.")
+    ledger = load_ledger()
+    by_email = {}
+    for code, row in ledger.items():
+        if row.get("email"):
+            by_email.setdefault(row["email"].strip().lower(), []).append(code)
+
+    inbound = fetch_inbound(args.limit)
+    print(f"{len(inbound)} message(s) received by Resend\n")
+    matched = stamped = 0
+    for msg in inbound:
+        sender = (msg.get("from") or "").strip().lower()
+        # "Name <addr@host>" as well as a bare address.
+        if "<" in sender:
+            sender = sender.split("<", 1)[1].rstrip(">").strip()
+        codes = by_email.get(sender, [])
+        when = (msg.get("created_at") or "")[:10]
+        if codes:
+            matched += 1
+            for code in codes:
+                row = ledger[code]
+                mark = ""
+                if args.stamp_replies and not row.get("replied_at"):
+                    row["replied_at"] = when
+                    stamped += 1
+                    mark = "  (stamped)"
+                print(f"  {when}  {code}  {row['provider']}  <{sender}>{mark}")
+                print(f"           {msg.get('subject', '')}")
+        else:
+            print(f"  {when}  --      (no provider matches {sender})")
+            print(f"           {msg.get('subject', '')}")
+    print(f"\n{matched} from providers in the ledger, "
+          f"{len(inbound) - matched} from elsewhere.")
+    if args.stamp_replies:
+        save_ledger(ledger)
+        print(f"stamped replied_at on {stamped} row(s).")
+    elif matched:
+        print("Pass --stamp-replies to record these in outreach/log.csv.")
+
+
+def list_queue(rows):
+    """Exactly who a --send run would write to, so the list can be checked
+    against a record kept somewhere else before anything leaves."""
+    ledger = load_ledger()
+    queue = [r for r in rows
+             if r["email"] and not ledger.get(r["code"], {}).get("sent_at")]
+    print(f"{len(queue)} provider(s) would be mailed:\n")
+    for r in queue:
+        print(f"  {r['code']}  {r['title'][:38]:<38}  {r['email']}")
+    skipped = [r for r in rows
+               if r["email"] and ledger.get(r["code"], {}).get("sent_at")]
+    if skipped:
+        print(f"\n{len(skipped)} already carry a sent_at and would be skipped:")
+        for r in skipped:
+            print(f"  {r['code']}  {r['title'][:38]:<38}  "
+                  f"{ledger[r['code']]['sent_at']}")
+
+
+def audit(args):
+    """Compare the ledger against Resend's own record of what it sent.
+
+    The old flow kept the act of sending (a Gmail window) and the record of it
+    (this CSV) in different places, with a human as the only link between them.
+    A batch interrupted halfway desynchronised the two silently, and nothing
+    noticed for three weeks. Sending through Resend means the provider holds a
+    record we can check against, so drift is findable instead of invisible.
+    """
+    if not os.environ.get("RESEND_API_KEY", "").strip():
+        sys.exit("RESEND_API_KEY is not set.")
+    req = urllib.request.Request(
+        os.environ.get("RESEND_SENT_URL", "https://api.resend.com/emails"),
+        headers={
+            "Authorization": f"Bearer {os.environ.get('RESEND_API_KEY', '').strip()}",
+            "User-Agent": RESEND_AGENT,
+        },
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=20) as r:
+            data = json.loads(r.read().decode("utf-8")).get("data", [])
+    except urllib.error.HTTPError as e:
+        sys.exit(f"HTTP {e.code} from Resend: "
+                 f"{e.read().decode('utf-8', 'replace')[:300]}")
+
+    delivered, failed = {}, {}
+    for msg in data:
+        for addr in msg.get("to") or []:
+            a = addr.strip().lower()
+            when = (msg.get("created_at") or "")[:10]
+            if a not in delivered or when < delivered[a]:
+                delivered[a] = when
+            # A bounce is the provider telling us the address is wrong. Record
+            # it, or the next sweep will cheerfully write to it again.
+            if msg.get("last_event") in ("bounced", "complained", "failed"):
+                failed[a] = msg["last_event"]
+
+    ledger = load_ledger()
+    by_mail = {}
+    for code, row in ledger.items():
+        if row.get("email"):
+            by_mail[row["email"].strip().lower()] = code
+
+    unrecorded = [(a, d) for a, d in delivered.items()
+                  if a in by_mail and not ledger[by_mail[a]].get("sent_at")]
+    print(f"Resend has sent to {len(delivered)} distinct address(es).")
+    print(f"{sum(1 for a in delivered if a in by_mail)} of them are providers "
+          f"in the ledger.\n")
+    if unrecorded:
+        print(f"*** {len(unrecorded)} mailed through Resend with no sent_at: ***")
+        for a, d in sorted(unrecorded):
+            print(f"  {d}  {by_mail[a]}  {ledger[by_mail[a]]['provider']}  <{a}>")
+        print("\nRun --audit --fix to write those dates into the ledger.")
+        if args.fix:
+            for a, d in unrecorded:
+                ledger[by_mail[a]]["sent_at"] = d
+            save_ledger(ledger)
+            print(f"wrote sent_at on {len(unrecorded)} row(s).")
+    else:
+        print("No drift: everything Resend has sent to a provider is recorded.")
+
+    newly_failed = [(a, why) for a, why in failed.items()
+                    if a in by_mail and not ledger[by_mail[a]].get("bounced")]
+    if newly_failed:
+        print(f"\n{len(newly_failed)} address(es) Resend reports as undeliverable:")
+        for a, why in sorted(newly_failed):
+            print(f"  {why:<10} {by_mail[a]}  {ledger[by_mail[a]]['provider']}  <{a}>")
+        if args.fix:
+            for a, why in newly_failed:
+                ledger[by_mail[a]]["bounced"] = why
+            save_ledger(ledger)
+            print(f"marked {len(newly_failed)} row(s) bounced.")
+        else:
+            print("Run --audit --fix to record them.")
+    # The reverse direction cannot be checked here — a row stamped before the
+    # Resend era has no message on this side to match against.
+    pre = sum(1 for r in ledger.values()
+              if r.get("sent_at") and r.get("email", "").strip().lower() not in delivered)
+    if pre:
+        print(f"\n{pre} row(s) carry a sent_at with no matching Resend message — "
+              f"mailed by hand before the switch, so not checkable here.")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--assign", action="store_true", help="assign codes where missing")
@@ -518,15 +825,48 @@ def main():
     ap.add_argument("--country", default="", help="limit to a content path fragment")
     ap.add_argument("--ledger", action="store_true",
                     help="sync outreach/log.csv with the providers that have codes")
+    ap.add_argument("--audit", action="store_true",
+                    help="check the ledger against Resend's record of what it sent")
+    ap.add_argument("--fix", action="store_true",
+                    help="with --audit, write the missing sent_at dates")
+    ap.add_argument("--list", action="store_true", dest="list_queue",
+                    help="print who --send would mail, and who it would skip")
+    ap.add_argument("--replies", action="store_true",
+                    help="list the mail Resend has received, matched to providers")
+    ap.add_argument("--stamp-replies", action="store_true",
+                    help="with --replies, record replied_at in the ledger")
+    ap.add_argument("--send", action="store_true",
+                    help="actually mail the providers through Resend")
+    ap.add_argument("--to", default="",
+                    help="redirect every message to this address and mark nothing "
+                         "as sent — for testing the send path")
+    ap.add_argument("--from", dest="sender", default="",
+                    help="From address; defaults to $OUTREACH_FROM. Must be on "
+                         "the apex domain (DMARC p=reject, adkim=s)")
+    ap.add_argument("--reply-to", default=os.environ.get("OUTREACH_REPLY_TO", ""),
+                    help="Reply-To address; defaults to $OUTREACH_REPLY_TO")
+    ap.add_argument("--limit", type=int, default=0,
+                    help="send at most N messages this run")
+    ap.add_argument("--rate", type=float, default=0.6,
+                    help="seconds between sends (Resend allows 2/second)")
     ap.add_argument("--mark-sent", nargs="?", const="today", default="",
                     metavar="YYYY-MM-DD",
                     help="stamp sent_at on mailable rows that have none (implies --ledger)")
     args = ap.parse_args()
 
+    if args.replies:
+        show_replies(args)
+        return
+
+    if args.audit:
+        audit(args)
+        return
+
     if not (args.assign or args.qr or args.emails or args.index
-            or args.ledger or args.mark_sent):
+            or args.ledger or args.mark_sent or args.send
+            or args.replies or args.list_queue or args.audit):
         ap.error("nothing to do — pass --assign, --qr, --emails, --index, "
-                 "--ledger and/or --mark-sent")
+                 "--ledger, --send and/or --mark-sent")
     if args.mark_sent:
         args.ledger = True
     if args.index:
@@ -589,6 +929,12 @@ def main():
                             if l.lower().startswith("subject:"))
         r["body"] = body.strip() + "\n"
         r["qr_path"] = qr_out / f'{r["code"]}.png'
+
+    if args.list_queue:
+        list_queue(rows)
+
+    if args.send:
+        send_batch(rows, args)
 
     if args.emails:
         out = Path(args.out)

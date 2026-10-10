@@ -749,13 +749,17 @@ def audit(args):
         sys.exit(f"HTTP {e.code} from Resend: "
                  f"{e.read().decode('utf-8', 'replace')[:300]}")
 
-    delivered = {}
+    delivered, failed = {}, {}
     for msg in data:
         for addr in msg.get("to") or []:
             a = addr.strip().lower()
             when = (msg.get("created_at") or "")[:10]
             if a not in delivered or when < delivered[a]:
                 delivered[a] = when
+            # A bounce is the provider telling us the address is wrong. Record
+            # it, or the next sweep will cheerfully write to it again.
+            if msg.get("last_event") in ("bounced", "complained", "failed"):
+                failed[a] = msg["last_event"]
 
     ledger = load_ledger()
     by_mail = {}
@@ -780,6 +784,20 @@ def audit(args):
             print(f"wrote sent_at on {len(unrecorded)} row(s).")
     else:
         print("No drift: everything Resend has sent to a provider is recorded.")
+
+    newly_failed = [(a, why) for a, why in failed.items()
+                    if a in by_mail and not ledger[by_mail[a]].get("bounced")]
+    if newly_failed:
+        print(f"\n{len(newly_failed)} address(es) Resend reports as undeliverable:")
+        for a, why in sorted(newly_failed):
+            print(f"  {why:<10} {by_mail[a]}  {ledger[by_mail[a]]['provider']}  <{a}>")
+        if args.fix:
+            for a, why in newly_failed:
+                ledger[by_mail[a]]["bounced"] = why
+            save_ledger(ledger)
+            print(f"marked {len(newly_failed)} row(s) bounced.")
+        else:
+            print("Run --audit --fix to record them.")
     # The reverse direction cannot be checked here — a row stamped before the
     # Resend era has no message on this side to match against.
     pre = sum(1 for r in ledger.values()

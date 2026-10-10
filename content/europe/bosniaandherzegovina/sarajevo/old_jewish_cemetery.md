@@ -19,6 +19,10 @@ tags:
 - blogs_worth_reading_on_sarajevo
 title: Old Jewish Cemetery
 type: poi
+image: old_jewish_cemetery.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Jewish_Cemetery,_Jevrejsko_groblje_Sarajevo.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Tarik Alimanović
 ---
 
 The Old Jewish Cemetery on the slopes of Kovačići hill is one of the largest Sephardic cemeteries in the world, established in 1630 for the Sephardic Jews who had settled in Sarajevo after the expulsion from Spain in 1492. The 3,500 headstones — inscribed in Hebrew and Ladino (Judeo-Spanish) — cover several terraced levels of the hillside and represent nearly four centuries of a community that was almost entirely destroyed in the Holocaust.

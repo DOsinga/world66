@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-15'
 latitude: 18.3108
-loc_type: city
+loc_type: island
 longitude: -65.3029
 score: 6.006
 snippet: Small Puerto Rican island of arid hills, reefs, and Flamenco Beach's pale

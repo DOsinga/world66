@@ -17,6 +17,14 @@ tags:
 - blogs_for_san_pedro_and_the_atacama
 title: Termas de Puritama
 type: poi
+image: termas_de_puritama.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Termas_de_Puritama-8_(53624692716).jpg
+image_license: CC BY 2.0
+image_attribution: Otávio Nogueira from Fortaleza, BR
+picks:
+- blog: https://www.adventurouskate.com/things-to-do-in-san-pedro-de-atacama/
+  quote: 'The Puritama Hot Springs might have the most unique setting of all: a verdant
+    canyon in the middle of the desert.'
 ---
 
 The Puritama hot springs sit in a narrow canyon about 30 kilometres north of San Pedro, at 3,500 metres. Eight pools step down the floor of the gorge, linked by wooden walkways and fringed with reeds, each one fed by the same geothermal stream at a steady 33°C. It is warm rather than scalding — you can stay in for an hour without going pink — and the canyon walls block the wind, which matters more than you would think at this altitude.

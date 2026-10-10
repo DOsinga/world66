@@ -1,6 +1,7 @@
 ---
 address: Eurípedes Rocha 26, Vitória
 commercial: true
+email: contato@planetavertical.com.br
 latitude: -20.3188
 longitude: -40.3507
 outreach_code: HRXH8Z

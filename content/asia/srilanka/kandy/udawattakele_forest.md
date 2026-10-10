@@ -18,6 +18,14 @@ tags:
 - blogs_for_kandy_and_the_hill_country
 title: Udawattakele Forest Reserve
 type: poi
+image: udawattakele_forest.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Udawatta_Jungle_tree_bed.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Dilan Madhura
+picks:
+- blog: https://www.thecommonwanderer.com/blog/best-things-to-do-in-kandy-sri-lanka
+  quote: A stroll through the Udawattakele forest reserve, situated behind the Temple
+    of the Tooth Relic, is one of the best things to do in Kandy.
 ---
 
 The Udawattakele Royal Forest Reserve rises directly above the Temple of the Tooth, covering 257 acres of mixed forest on the ridge above the city. A network of marked trails runs through the reserve, taking between thirty minutes and two hours depending on the route chosen. The forest is home to endemic species including purple-faced langur monkeys, which are habitually encountered and quite bold.

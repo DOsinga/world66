@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: radicaloficialbr@gmail.com
 latitude: -20.32
 longitude: -40.3376
 outreach_code: 7QB65H

@@ -1,6 +1,7 @@
 ---
 address: Marina Pez Vela, Quepos
 commercial: true
+email: reserve@costaricafishingcompany.com
 latitude: 9.4086
 longitude: -84.1636
 outreach_code: K7HY37

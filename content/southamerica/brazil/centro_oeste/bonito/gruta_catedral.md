@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: grutacatedral@gmail.com
 latitude: -21.1267
 longitude: -56.4836
 outreach_code: WQGTS3

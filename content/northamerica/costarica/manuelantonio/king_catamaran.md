@@ -1,6 +1,7 @@
 ---
 address: Marina Pez Vela, Quepos
 commercial: true
+email: info@thekingcatamaran.com
 latitude: 9.392
 longitude: -84.147
 outreach_code: 2LWSFR

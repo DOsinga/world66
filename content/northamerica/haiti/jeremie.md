@@ -14,6 +14,10 @@ heritage: 3.798
 vibrancy: 2.772
 nature: 4.792
 off_the_beaten_track: 6.228
+image: jeremie.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Aper%C3%A7u_centre_J%C3%A9r%C3%A9mie_Ha%C3%AFti.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Bruno Le Bansais
 ---
 
 Jérémie is the capital of the Grand'Anse department on Haiti's southwestern peninsula, known as the city of poets for the unusual number of writers and intellectuals it has produced. The area around Jérémie has some of Haiti's most beautiful and remote coastline, with excellent beaches and lush hillsides that receive more rainfall than the rest of the country.

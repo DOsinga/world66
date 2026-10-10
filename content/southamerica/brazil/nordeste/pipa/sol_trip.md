@@ -1,6 +1,7 @@
 ---
 address: Tibau Sul 1809, Tibau do Sul
 commercial: true
+email: contato@soltrip.com.br
 latitude: -6.2373
 longitude: -35.0442
 outreach_code: 87MNJ8

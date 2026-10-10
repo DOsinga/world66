@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: contato@patachoreceptivo.com.br
 latitude: -9.2672
 longitude: -35.3763
 outreach_code: BMSSYM

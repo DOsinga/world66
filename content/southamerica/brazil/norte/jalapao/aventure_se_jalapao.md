@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: aventuresejalapao@gmail.com
 latitude: -10.3817
 longitude: -46.6592
 outreach_code: PZCRS5

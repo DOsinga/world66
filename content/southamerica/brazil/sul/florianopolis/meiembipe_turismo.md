@@ -1,6 +1,7 @@
 ---
 address: Rua Doutor João de Oliveira 296 - Sala 03, Florianópolis
 commercial: true
+email: contato@meiembipeturismo.com.br
 latitude: -27.5973
 longitude: -48.5496
 outreach_code: FN8YNV

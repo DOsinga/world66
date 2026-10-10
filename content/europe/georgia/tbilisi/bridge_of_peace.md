@@ -8,9 +8,26 @@ tags:
 - architecture
 title: Bridge of Peace
 type: poi
-story: >
-  The Bridge of Peace was designed by Italian architect Michele De Lucchi and inaugurated in 2010 at the initiative of then-President Saakashvili, who commissioned a series of modernist public buildings as part of his urban renewal programme. It carries over 10,000 LED lights that create a programmed light display after dark. Not everyone loves it — critics called it out of place next to the historic old town — but it has become one of the most photographed spots in the city.
+story: 'The Bridge of Peace was designed by Italian architect Michele De Lucchi and
+  inaugurated in 2010 at the initiative of then-President Saakashvili, who commissioned
+  a series of modernist public buildings as part of his urban renewal programme. It
+  carries over 10,000 LED lights that create a programmed light display after dark.
+  Not everyone loves it — critics called it out of place next to the historic old
+  town — but it has become one of the most photographed spots in the city.
+
+  '
 score: 6.1
+image: bridge_of_peace.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Tbilisi_Peace_Bridge_and_Kura_River_by_Falco.jpg
+image_license: CC0
+image_attribution: falco
+sources:
+- https://www.redfedoradiary.com/
+- https://www.redfedoradiary.com/things-to-do-in-tbilisi/
+picks:
+- blog: https://www.redfedoradiary.com/
+  quote: The most famous and highly controversial among locals (even today) is the
+    pedestrian glass Bridge of Peace connecting Erekle II Street with Rike Park.
 ---
 
 The Bridge of Peace is a pedestrian bridge linking Rike Park on the left bank of the Mtkvari to the old town, its distinctive curved glass-and-steel canopy stretching 150 metres above the river. Built in 2010, it was part of a wave of contemporary architecture commissioned during the Saakashvili era to signal Georgia's modernisation.

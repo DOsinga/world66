@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: info@saltarafting.com
 latitude: -25.2878
 longitude: -65.2691
 outreach_code: MMRVK2

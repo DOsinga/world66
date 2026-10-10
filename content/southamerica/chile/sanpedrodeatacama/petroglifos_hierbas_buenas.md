@@ -22,6 +22,14 @@ tags:
 - blogs_for_san_pedro_and_the_atacama
 title: Petroglifos de Hierbas Buenas
 type: poi
+image: petroglifos_hierbas_buenas.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Yerbas_Buenas_5.jpg
+image_license: CC BY-SA 2.0
+image_attribution: ReflectedSerendipity from United Kingdom
+picks:
+- blog: https://worldlyadventurer.com/things-to-do-in-atacama-desert/
+  quote: A series of rocky outcrops house carvings that have left relief images of
+    guanacos, foxes, men, and a cross-legged shaman.
 ---
 
 About 70 kilometres north of San Pedro, on the back road towards Machuca and the [El Tatio geysers](/southamerica/chile/sanpedrodeatacama/el_tatio_geysers), a scatter of pale rhyolite boulders stands in a dry quebrada. Every flat face is carved: llamas in caravan strings, foxes, rheas, lizards, human figures with headdresses, and a few shapes nobody has convincingly explained. The carvings span roughly two thousand years of use, from pre-Inca herders through to the colonial period, and some panels have later figures cut straight across older ones.

@@ -1,6 +1,7 @@
 ---
 address: Gral. Belgrano 601, San Salvador de Jujuy
 commercial: true
+email: infoadntravel@gmail.com
 latitude: -24.1857
 longitude: -65.3105
 outreach_code: 7FSHHS

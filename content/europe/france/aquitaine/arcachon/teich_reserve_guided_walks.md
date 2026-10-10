@@ -21,4 +21,4 @@ Guided visits to the [ornithological reserve](/europe/france/aquitaine/arcachon/
 
 The difference a guide makes here is not the walking — the trails are open to anyone with a ticket — but knowing what you are looking at. Which of the hundreds of birds on the lagoon in front of you is worth the telescope, and why it is here this month rather than another.
 
-Morning visits are around €12, evening ones €13.50, both with reductions for children, students and job seekers, and the ticket covers the reserve all day. Booking is required.
+Morning visits are €19 an adult, evening ones €24, both with reductions for children, students and job seekers, and the ticket covers the reserve all day. Booking is required.

@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: amolencoisturismo@gmail.com
 latitude: -2.7541
 longitude: -42.8259
 outreach_code: CTK9D6

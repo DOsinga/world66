@@ -1,6 +1,7 @@
 ---
 address: Avenida Coronel Teixeira, Nº1320 Nº 1320 - Loja 2 Res Hotel Trop EX, Manaus
 commercial: true
+email: reservas@olimpiocarneiroturismo.com.br
 latitude: -3.0847
 longitude: -60.0731
 outreach_code: GN5ZTV

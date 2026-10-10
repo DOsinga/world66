@@ -1,6 +1,7 @@
 ---
 address: Drake Bay, Osa
 commercial: true
+email: info@gocorcovado.com
 latitude: 8.6448
 longitude: -83.6026
 outreach_code: NRYG7K

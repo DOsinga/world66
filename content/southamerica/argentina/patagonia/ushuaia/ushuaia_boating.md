@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: reservas@ushboating.com
 latitude: -54.8079
 longitude: -68.3021
 outreach_code: YS36SB

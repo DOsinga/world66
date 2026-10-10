@@ -1,6 +1,7 @@
 ---
 address: Rua Cacique Cunhambebe 463, Ubatuba
 commercial: true
+email: atendimento@marazultur.com.br
 latitude: -23.4394
 longitude: -45.07
 outreach_code: HB4K85

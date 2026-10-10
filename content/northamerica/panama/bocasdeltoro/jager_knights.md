@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: jagerknights@gmail.com
 latitude: 9.3403
 longitude: -82.242
 outreach_code: 5KGF6B

@@ -13,6 +13,10 @@ heritage: 2.069
 vibrancy: 2.381
 nature: 6.258
 off_the_beaten_track: 3.555
+image: lapalma.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cayaguanca.JPG
+image_license: CC BY 3.0
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Snakeyes" title="User:Snakeyes">Snakeyes</a>
 ---
 
 La Palma is a small mountain town about two hours north of San Salvador, close to the Honduran border. It is best known for its distinctive folk art — brightly coloured paintings and handicrafts on wood, featuring geometric patterns and village scenes. The style was developed by artist Fernando Llort in the 1970s, starting with [La Semilla de Dios](/northamerica/elsalvador/lapalma/semilla_de_dios) cooperative workshop, and spread through the town to the point where seemingly half the residents make their living producing it. You will find the work on keychains, trivets, boxes, tiles, and paintings in workshops and stalls throughout town.

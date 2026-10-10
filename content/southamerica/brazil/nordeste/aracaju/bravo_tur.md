@@ -1,6 +1,7 @@
 ---
 address: Ribeirópolis 40-b, Aracaju
 commercial: true
+email: bravotur.aju@gmail.com
 latitude: -10.9197
 longitude: -37.0613
 outreach_code: CB55MZ

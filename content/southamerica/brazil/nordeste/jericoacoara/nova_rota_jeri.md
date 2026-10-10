@@ -1,6 +1,7 @@
 ---
 address: Rua Cesário Pereira 1906, Jijoca de Jericoacoara
 commercial: true
+email: novarotajeri@gmail.com
 latitude: -2.8943
 longitude: -40.4518
 outreach_code: D2X635

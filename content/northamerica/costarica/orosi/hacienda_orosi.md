@@ -1,6 +1,7 @@
 ---
 address: Orosi valley, Cartago
 commercial: true
+email: info@haciendaorosi.com
 latitude: 9.796481
 longitude: -83.8543
 outreach_code: DK36K7

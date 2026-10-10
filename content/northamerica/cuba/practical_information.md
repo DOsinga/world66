@@ -30,3 +30,14 @@ Cuba is one of the safer countries in Latin America for travelers. Petty theft a
 **Connectivity**
 
 Cuba's internet is slow, state-controlled, and accessed via scratch cards sold at Etecsa offices. Wi-fi hotspots are usually in the central park of each town. Download offline maps and any reference material before you arrive.
+
+## Booking anything
+
+Cuba does not work the way the rest of the Caribbean does, and this is worth understanding before you arrive.
+
+Almost nothing is bookable directly with the people who run it. Excursions, diving, transfers and guides are sold through state agencies — Cubanacán, Havanatur, Gaviota, Ecotur, Marlin for anything nautical — whose desks sit in hotel lobbies and on the main square of every tourist town. Their own websites are mostly unreachable from outside the country, and the sites that come up in a search for a Cuban operator are usually foreign agencies reselling the same state product at a markup.
+
+What works instead is arriving and asking. Your *casa particular* host is the most useful booking agent in the country: casas are private businesses, they know the local guides and drivers, and a phone call from your host gets a better price and a more reliable driver than anything arranged from abroad. For diving at Playa Girón or María la Gorda, you turn up at the dive centre; for a taxi between cities, your host rings somebody.
+
+WhatsApp is widely used by Cubans with mobile data and is the way to keep in touch with a guide or driver once you have met them. Email to a `.cu` address is slow and frequently unanswered. Plan on arranging things a day or two ahead, in person, rather than weeks ahead online.
+

@@ -23,6 +23,7 @@ urlpatterns = [
     path("api/explore", views.api_explore_world, name="api_explore_world"),
     path("api/explore/<path:path>", views.api_explore, name="api_explore"),
     path("api/page-content/<path:path>", views.api_page_content, name="api_page_content"),
+    path("concierge/", include("concierge.urls")),
     path("passport/", include("passport_app.urls")),
     path("regions", RedirectView.as_view(url="/regions/", permanent=False)),
     path("regions/", include("regions_app.urls")),

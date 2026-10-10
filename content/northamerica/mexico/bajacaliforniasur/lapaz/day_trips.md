@@ -1,6 +1,6 @@
 ---
 linked_locations:
-- northamerica/mexico/bajacalifornia/espiritu_santo_island
+- northamerica/mexico/bajacaliforniasur/espiritu_santo_island
 title: Day Trips
 type: section
 ---

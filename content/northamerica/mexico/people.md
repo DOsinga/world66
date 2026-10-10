@@ -11,6 +11,6 @@ The country is overwhelmingly Catholic — nominally around 80%, though that num
 
 Mexican culture is family-centered. Extended families gather for Sunday lunch, holidays, and every significant life event. In smaller cities and rural areas, social life still revolves largely around the town square (zócalo) and the local market.
 
-**Regional identity** matters enormously. People from [Guadalajara](/northamerica/mexico/guadalajara) (tapatíos) are different from capitalinos (Mexico City residents) in ways they will happily explain to you. Norteños (northerners) have a distinct culture shaped by ranching and proximity to the US. Yucatecos identify as much with Maya heritage as with Mexico City's political center.
+**Regional identity** matters enormously. People from [Guadalajara](/northamerica/mexico/jalisco/guadalajara) (tapatíos) are different from capitalinos (Mexico City residents) in ways they will happily explain to you. Norteños (northerners) have a distinct culture shaped by ranching and proximity to the US. Yucatecos identify as much with Maya heritage as with Mexico City's political center.
 
 **Music** ranges from mariachi (Jalisco) to norteño and banda (Sinaloa and the north) to cumbia, son jarocho (Veracruz), and marimba (Chiapas and Oaxaca). Regional music is alive in local festivals and at weekend markets in a way it rarely is in more homogenized cultures.

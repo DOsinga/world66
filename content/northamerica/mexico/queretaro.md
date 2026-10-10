@@ -1,30 +1,21 @@
 ---
-done:
-  location_cleanup: 2026-04-05
-  location_enrich: '2026-05-21'
-image: queretaro.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Pinal_de_Amoles,_Qro,_M%C3%A9xico.jpg
-latitude: 20.5888
-loc_type: city
-longitude: -100.3899
-score: 5.79
 title: Querétaro
 type: location
-snippet: Central Mexican colonial city with a UNESCO old town, baroque churches, and
-  independence-era history.
-heritage: 6.612
-vibrancy: 5.159
-nature: 3.559
-off_the_beaten_track: 1.706
+loc_type: region
+latitude: 20.8052
+longitude: -99.8837
+snippet: A colonial capital and the plot that started independence, with Franciscan
+  missions in the Sierra Gorda behind it.
+image: queretaro.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Aqueduct_at_Queretaro,_Mexico,_ca.1905-1910_(CHS-643).jpg
+image_license: Public domain
+image_attribution: Unknown authorUnknown author
 ---
 
-**Querétaro** (officially Santiago de Querétaro) is the capital of the small central Mexican state of the same name — a prosperous, increasingly cosmopolitan city of about 900,000 people, roughly 200 km north-west of Mexico City in the Bajío highlands. Founded by the Spanish in 1531 on the site of an Otomí village, it has a compact and extraordinarily well-preserved **colonial old town** that was inscribed as a UNESCO World Heritage Site in 1996 — a grid of pedestrianised streets, baroque churches, and tiled plazas that is arguably the most atmospheric colonial city centre in central Mexico outside of San Miguel de Allende and Guanajuato. In recent years Querétaro has also become one of the most important economic centres in the country, with a big expat community and a rapidly developing restaurant and wine scene.
+Querétaro is small, prosperous and historically decisive: the conspiracy that became the war of independence was hatched in the capital's drawing rooms in 1810, Maximilian was executed on a hill outside the city in 1867, and the constitution still in force was written here in 1917.
 
-Querétaro's role in Mexican history is unusually central. In 1810, **Doña Josefa Ortiz de Domínguez** — *La Corregidora*, wife of the city's Spanish magistrate — discovered that the plans for the independence uprising had been leaked and sent a horseman on the night of 15 September to warn **Miguel Hidalgo** and **Ignacio Allende** in San Miguel de Allende. Hidalgo responded the next morning by issuing the famous *Grito de Dolores*, the cry that launched the Mexican War of Independence. Querétaro was also where the 1917 Mexican Constitution was drafted and signed, and where Emperor **Maximilian** was tried and executed by firing squad in 1867 on the Cerro de las Campanas, ending the brief French-imposed monarchy.
+[Santiago de Querétaro](/northamerica/mexico/queretaro/santiago_de_queretaro) has a UNESCO centre of shaded plazas and a 1,280-metre aqueduct on 74 arches, built because a Capuchin nun asked for water.
 
-The city's defining landmark is the 74-arched **[Aqueduct](/northamerica/mexico/queretaro/aqueduct)** — one of the longest Spanish colonial aqueducts in the Americas, completed in 1738 and stretching for 1.3 km into the city. At its base, the charming Mirador de los Arcos gives the best view. In the centre, the **[Plaza de Armas](/northamerica/mexico/queretaro/plaza_de_armas)** is one of the prettiest small plazas in Mexico, with the **[Casa de la Corregidora](/northamerica/mexico/queretaro/casa_de_la_corregidora)** (now the state government building) on one side and outdoor cafés lining the others. The **[Convento de la Santa Cruz](/northamerica/mexico/queretaro/convento_santa_cruz)**, perched on a hill east of the centre, was the base from which the Franciscans carried out their missionary work throughout northern Mexico and has a famous miraculous "tree of the cross" in its cloister. The **[Museo de Arte de Querétaro](/northamerica/mexico/queretaro/museo_de_arte)**, in a former Augustinian convent, has an excellent collection of colonial-era Mexican painting.
+North, the land breaks up into the **Sierra Gorda**, a biosphere reserve of canyons and cloud forest holding five Franciscan missions built in the 1750s by Junípero Serra — their façades carved by local craftsmen into something no Spanish church ever looked like. [Jalpan](/northamerica/mexico/queretaro/jalpan) is the base; [Pinal de Amoles](/northamerica/mexico/queretaro/pinal_de_amoles) and [San Joaquín](/northamerica/mexico/queretaro/san_joaquin) sit higher.
 
-The **[Cerro de las Campanas](/northamerica/mexico/queretaro/cerro_de_las_campanas)** — Hill of the Bells — is where Emperor Maximilian was executed in 1867, ending Mexico's brief French-imposed monarchy. The **[Teatro de la República](/northamerica/mexico/queretaro/teatro_de_la_republica)** is where Mexico's revolutionary 1917 Constitution was drafted and signed.
-
-Querétaro is increasingly known for its **wine and cheese**: the surrounding state has become Mexico's second most important wine-producing region after Baja California, and a series of bodegas around the village of **Tequisquiapan** offer tastings and tours. The pretty colonial mining town of **[San Miguel de Allende](/northamerica/mexico/sanmiguel)** is an hour away, and makes a natural combination for a long weekend.
+[Bernal](/northamerica/mexico/queretaro/bernal) is dominated by a 350-metre monolith, one of the largest in the world, and is a weekend town for the capital. [Amealco](/northamerica/mexico/queretaro/amealco) is Otomí country and the origin of the *muñecas Lele*, the rag dolls sold across Mexico.

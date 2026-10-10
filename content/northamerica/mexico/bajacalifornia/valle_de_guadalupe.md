@@ -16,6 +16,10 @@ heritage: 3.62
 vibrancy: 6.308
 nature: 5.002
 off_the_beaten_track: 5.597
+image: valle_de_guadalupe.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_Valle_de_Guadalupe_-_Wine_Country_-_Outside_Ensenada,_BC_-_Mexico_(6778880744).jpg
+image_license: CC BY-SA 2.0
+image_attribution: Adam Jones from Kelowna, BC, Canada
 ---
 
 Valle de Guadalupe is the wine country inland from Ensenada, a dry valley of vineyards, olive trees, dirt roads, and low granite hills. It is the strongest food-and-wine destination in northern Mexico, and it feels different from the polished wine regions farther north: looser, dustier, more experimental, and more tied to Baja's borderland cooking.

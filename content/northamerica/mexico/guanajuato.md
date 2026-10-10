@@ -1,29 +1,23 @@
 ---
-done:
-  city_tag_migration: '2026-04-17'
-  location_cleanup: '2026-04-07'
-  location_enrich: '2026-05-28'
-image: guanajuato.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Woman_beggar_in_Guanajuato,_Mexico.jpg
-latitude: 21.019
-loc_type: city
-longitude: -101.2574
-score: 5.891
-snippet: Colonial silver city in a central Mexican ravine, threaded by tunnels and
-  steep painted alleys
 title: Guanajuato
 type: location
-heritage: 7.05
-vibrancy: 4.593
-nature: 4.096
-off_the_beaten_track: 2.328
+loc_type: region
+latitude: 20.9877
+longitude: -101.0
+snippet: The silver Bajío — a university city built in a ravine, the town where independence
+  was declared, and the expatriate colony at San Miguel.
+image: guanajuato.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Auditorio_del_Estado_de_Guanajuato,_M%C3%A9xico.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Juan Carlos Fonseca Mata
 ---
 
-Guanajuato is one of Mexico's most beautiful colonial cities, and one of the most dramatically situated — built into a narrow ravine in the mountains of central Mexico, with streets so steep and winding that the city had to run its main traffic underground through a network of tunnels carved into former riverbeds. It's a UNESCO World Heritage city and looks the part: a dense tangle of coloured facades, baroque churches, and cobbled alleys stacked up the hillsides.
+Guanajuato made the silver that paid for the Spanish empire, and the money is still visible in the churches and the opera house. The state sits in the Bajío, the fertile basin that became the cradle of Mexican independence.
 
-The city made its fortune from silver. From the 16th century onward, the mines around Guanajuato produced a significant portion of the world's silver, and the wealth shows in the architecture — the [Alhóndiga de Granaditas](/northamerica/mexico/guanajuato/alhondiga), now a museum, is a hulking neoclassical granary turned fortress that witnessed one of the first battles of the Mexican War of Independence in 1810. The surrounding hills are still dotted with old mine workings, some of which can be visited at [La Valenciana](/northamerica/mexico/guanajuato/valenciana_mine), a few kilometres above the city.
+[Guanajuato city](/northamerica/mexico/guanajuato/guanajuato_city) is built into a ravine so narrow that much of its traffic runs through tunnels beneath it — former river channels, now roads. Above them are painted alleys too steep for cars, a university that fills the town with students, and the Cervantino, the largest arts festival in Latin America, each October.
 
-The [Callejón del Beso](/northamerica/mexico/guanajuato/callejon_del_beso) — the Alley of the Kiss — is the most famous of the city's many narrow alleys, only 69 centimetres wide at its narrowest point. The name comes from the old story that neighbouring balconies were close enough for lovers to meet. It's a tourist draw now, but the alley is genuinely charming.
+[San Miguel de Allende](/northamerica/mexico/guanajuato/sanmigueldeallende) is the other pole: a cobbled colonial town that has drawn foreign artists and retirees since the 1940s, with the consequences you would expect for both the restaurants and the prices.
 
-Guanajuato is also home to the [Festival Internacional Cervantino](/northamerica/mexico/guanajuato/cervantino_festival), held every October, which draws theatre, music, and dance companies from across the world. The city has a large student population — the [University of Guanajuato](/northamerica/mexico/guanajuato/universidad_de_guanajuato) is one of the oldest in Mexico — which keeps it lively year-round.
+[Dolores Hidalgo](/northamerica/mexico/guanajuato/doloreshidalgo) is where the priest Miguel Hidalgo rang his church bell in September 1810 and called the country to revolt — the *grito* re-enacted every year by every Mexican president.
+
+[León](/northamerica/mexico/guanajuato/leon) is the industrial counterweight, a city of a million and a half that makes most of Mexico's shoes and leather.

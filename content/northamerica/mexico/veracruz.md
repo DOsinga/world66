@@ -1,25 +1,23 @@
 ---
-done:
-  location_cleanup: '2026-04-10'
-  location_enrich: '2026-05-14'
-latitude: 19.1901
-loc_type: city
-longitude: -96.1533
-score: 4.687
-snippet: Gulf port city where Cortés founded Spanish Mexico and son jarocho fills
-  the plazas.
 title: Veracruz
 type: location
-heritage: 4.503
-vibrancy: 4.469
-nature: 5.106
-off_the_beaten_track: 4.236
+loc_type: region
+latitude: 19.3333
+longitude: -96.6667
+snippet: Mexico's Gulf coast — the first Spanish port, coffee mountains, son jarocho,
+  and the country's highest peak.
+image: veracruz.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2020-02-17_Municipal_palace_of_Veracruz_03_(cropped).jpg
+image_license: CC BY-SA 4.0
+image_attribution: Burkhard Mücke
 ---
 
-Veracruz is where Mexican history begins. This is the spot where Hernán Cortés landed in 1519 and founded the first Spanish settlement on the American mainland, and the city has never stopped being a crossroads. Today it is Mexico's oldest and busiest port, sprawling along the Gulf coast with a waterfront energy that feels more Caribbean than Central Highlands.
+Veracruz is a long ribbon of a state down the Gulf, and the place where Mexico as a mixed country began: Cortés landed here in 1519, the first Africans arrived here, and the music that resulted — *son jarocho*, harp and small guitars — is still played in the plazas.
 
-The heart of the city is the Plaza de Armas, where musicians play son jarocho under the portales and couples dance in the evening heat. From there you can walk the malecón along the harbor to the massive San Juan de Ulúa fortress, which spent centuries defending the port against pirates and foreign navies. The old quarter around the plaza has handsome colonial architecture, much of it crumbling just enough to feel real rather than restored for tourists.
+[Veracruz city](/northamerica/mexico/veracruz/veracruz_city) is the port, hot and loud, with a fortress built against pirates and a café culture that runs on *lechero* poured from a great height. [Boca del Río](/northamerica/mexico/veracruz/bocadelrio) adjoins it.
 
-Veracruz runs on seafood and music. The local cuisine leans heavily on the Gulf catch — order a huachinango a la veracruzana (red snapper in a tomato, olive, and caper sauce) at any of the restaurants along the waterfront and you will understand why people come here to eat. Son jarocho, the regional folk music built on harp, guitar, and zapateado footwork, fills the plazas most evenings, and during Carnival the whole city turns into one of the biggest street parties in Latin America.
+Inland the land climbs fast. [Xalapa](/northamerica/mexico/veracruz/xalapa), the capital, sits in cloud and coffee at 1,400 metres and has the best anthropology museum outside Mexico City — the Olmec colossal heads are here. [Orizaba](/northamerica/mexico/veracruz/orizaba) lies beneath **Pico de Orizaba**, at 5,636 metres the highest mountain in the country and the third highest in North America.
 
-The Caribbean influence sets Veracruz apart from much of Mexico. The atmosphere is louder, looser, and more Afro-Caribbean than you might expect, shaped by centuries of trade and migration through the port. It is a city that rewards lingering — sit in the plaza with a coffee, watch the ships in the harbor, and let the rhythm of the place settle in.
+[Tlacotalpan](/northamerica/mexico/veracruz/tlacotalpan) on the Papaloapan river is a UNESCO town of wide streets and houses painted in colours that should not work together and do. [Catemaco](/northamerica/mexico/veracruz/catemaco) sits on a crater lake in the Tuxtlas and is known across Mexico for its *brujos*.
+
+North, the Huasteca coast at [Tuxpan](/northamerica/mexico/veracruz/tuxpan) and [Tecolutla](/northamerica/mexico/veracruz/tecolutla) is where Mexicans holiday and foreigners rarely go. **El Tajín**, the Totonac city of niches, is near Papantla.

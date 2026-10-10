@@ -29,4 +29,4 @@ That said, San Ysidro is a real neighborhood with its own character. It is worki
 
 The pedestrian crossing is straightforward. Walk south from the trolley station, follow the signs through the US checkpoint, and you are in Tijuana within minutes. Returning northbound requires joining the pedestrian queue, which can stretch to an hour or more on weekday mornings and Sunday afternoons. Check current wait times before you head back.
 
-[Tijuana](/northamerica/mexico/tijuana) is the obvious draw from here — affordable food, dentists, pharmacies, and the lively Avenida Revolución. [San Diego](/northamerica/unitedstates/california/sandiego) is 25 minutes north by trolley.
+[Tijuana](/northamerica/mexico/bajacalifornia/tijuana) is the obvious draw from here — affordable food, dentists, pharmacies, and the lively Avenida Revolución. [San Diego](/northamerica/unitedstates/california/sandiego) is 25 minutes north by trolley.

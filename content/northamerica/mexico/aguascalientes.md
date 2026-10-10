@@ -1,25 +1,21 @@
 ---
 title: Aguascalientes
 type: location
-loc_type: city
-latitude: 21.8818
-longitude: -102.2916
-score: 4.538
-snippet: Central Mexican state capital of Posada prints, death iconography, and the
-  San Marcos fair.
-wikidata: Q200805
-sources:
-- https://en.wikivoyage.org/wiki/Aguascalientes
-- https://aguascalientes.gob.mx/estado/JoseGuadalupePosada
-- https://visitmexico.com/en/destino/18411/esmuseo-nacional-de-la-muerte-ennational-museum-of-death
-heritage: 4.253
-vibrancy: 4.681
-nature: 3.072
-off_the_beaten_track: 2.354
+loc_type: region
+latitude: 21.9943
+longitude: -102.3727
+snippet: A compact Bajío state of hot springs, railway workshops, and the engraver
+  whose skeletons became Mexico's image of death.
+image: aguascalientes.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Boca_de_T%C3%BAnel,_San_Jos%C3%A9_de_Gracia,_Aguascalientes,_M%C3%A9xico_5.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Isacdaavid
 ---
 
-Aguascalientes is one of central Mexico's easier cities to underestimate. It is tidy, prosperous, and less theatrical than nearby [Zacatecas](/northamerica/mexico/zacatecas), but the centre has a strong identity built around printmaking, death imagery, hot-spring history, and the country's biggest fair.
+Aguascalientes is one of the smallest states and is named for its hot springs, which have been bathed in since before the Spanish.
 
-The city's best cultural thread starts with José Guadalupe Posada, the Aguascalientes-born illustrator whose calaveras shaped modern Mexican visual culture. The [Museo José Guadalupe Posada](/northamerica/mexico/aguascalientes/museo_jose_guadalupe_posada) anchors that story in the old Encino neighbourhood, while the [National Museum of Death](/northamerica/mexico/aguascalientes/national_museum_of_death) expands it into a broader, stranger, very Mexican conversation about mortality.
+[Aguascalientes city](/northamerica/mexico/aguascalientes/aguascalientes_city) grew on the railway — the workshops were the largest in the country — and it hosts the **Feria Nacional de San Marcos** each April, the biggest fair in Mexico, running three weeks with bullfights, cockfights and a great deal of drinking.
 
-The historic centre is compact enough to wander. [Plaza de la Patria](/northamerica/mexico/aguascalientes/plaza_de_la_patria) is the formal heart, [Templo de San Antonio](/northamerica/mexico/aguascalientes/templo_de_san_antonio) is the architectural showpiece, and [Jardin de San Marcos](/northamerica/mexico/aguascalientes/jardin_de_san_marcos) becomes the city's social stage during the Feria Nacional de San Marcos. Aguascalientes is not a first-trip-to-Mexico essential, but if you are already in the Bajio or moving between Zacatecas and Guadalajara, it gives a good day.
+Its other export is an image. **José Guadalupe Posada**, born here in 1852, engraved the skeletons that became the visual language of the Day of the Dead; his *Calavera Garbancera* was later renamed **La Catrina** by Diego Rivera and is now on every Mexican souvenir stall. The museum devoted to him is one of the best small museums in the country.
+
+[Calvillo](/northamerica/mexico/aguascalientes/calvillo) grows most of Mexico's guavas and sits in a valley of them. [Pabellón de Hidalgo](/northamerica/mexico/aguascalientes/pabellon_de_hidalgo) is where Hidalgo was stripped of command of the insurgent army in 1811, a few months before his execution.

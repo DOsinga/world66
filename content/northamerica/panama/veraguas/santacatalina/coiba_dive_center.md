@@ -1,6 +1,7 @@
 ---
 address: Main Street, Santa Catalina, Veraguas
 commercial: true
+email: info@coibadivecenter.com
 latitude: 7.634204
 longitude: -81.25461
 outreach_code: LKDWH2

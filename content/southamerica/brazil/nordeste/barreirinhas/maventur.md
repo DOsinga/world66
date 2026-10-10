@@ -1,6 +1,7 @@
 ---
 address: Avenida 31 de Março, S, Barreirinhas
 commercial: true
+email: maranhaoaventura@gmail.com
 latitude: -2.7541
 longitude: -42.8259
 outreach_code: CT38GM

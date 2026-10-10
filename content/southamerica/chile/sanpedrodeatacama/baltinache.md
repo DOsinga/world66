@@ -6,12 +6,21 @@ snippet: Small dining room on Domingo Atienza where a Mapuche-trained chef cooks
   Atacama's own ingredients properly.
 sources:
 - http://vulcanoexpediciones.com/destinos/san-pedro-de-atacama/cosas-que-hacer-en-san-pedro-de-atacama
+- https://goaskalocal.com/blog/travel-guide-to-san-pedro-de-atacama-chile
 tags:
 - eating_out
 - restaurant
 - blogs_for_san_pedro_and_the_atacama
 title: Baltinache
 type: poi
+image: baltinache.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Lagunas_intangibles.jpg
+image_license: CC BY-SA 4.0
+image_attribution: 35ciencias (H,F,Mendez)
+picks:
+- blog: https://goaskalocal.com/blog/travel-guide-to-san-pedro-de-atacama-chile
+  quote: You’re allowed to go in the water, so bring your swimsuit and prepare to
+    feel light as a feather while floating in this salty, salty lagoon.
 ---
 
 The best cooking in San Pedro, and the only place in town where the local ingredients are treated as ingredients rather than as decoration. The kitchen works from Mapuche technique and Atacameño produce — llama, quinoa, chañar, rica-rica, the chaqueña potatoes from the villages up the salar — and turns out things like llama confit and quinoa risotto without any of the ceremonial flourishes that usually come with that description.

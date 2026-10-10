@@ -1,6 +1,7 @@
 ---
 address: Rua Osvaldo Silva 56, Foz do Iguaçu
 commercial: true
+email: connectiguassu@gmail.com
 latitude: -25.472
 longitude: -54.5906
 outreach_code: K4RGZ6

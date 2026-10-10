@@ -1,6 +1,7 @@
 ---
 address: Avenida Atlântica 3264 - 5 Andar, Rio de Janeiro
 commercial: true
+email: turistar.rj@gmail.com
 latitude: -22.98
 longitude: -43.1897
 outreach_code: B889FK

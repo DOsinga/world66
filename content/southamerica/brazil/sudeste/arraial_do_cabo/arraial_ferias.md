@@ -1,6 +1,7 @@
 ---
 address: Rua Quincas Borba 7, Arraial do Cabo
 commercial: true
+email: reservas@arraialferias.com.br
 latitude: -22.9758
 longitude: -42.0293
 outreach_code: SDS342

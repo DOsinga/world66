@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: akuraoutdoorexperience@gmail.com
 latitude: -23.2196
 longitude: -44.7154
 outreach_code: RR2HFG

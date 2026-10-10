@@ -1,5 +1,6 @@
 ---
 commercial: true
+email: reservas@jangotour.com.br
 latitude: -23.2196
 longitude: -44.7154
 outreach_code: Q7YZSV

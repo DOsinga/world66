@@ -15,6 +15,10 @@ heritage: 5.044
 vibrancy: 4.243
 nature: 3.474
 off_the_beaten_track: 3.262
+image: remedios.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Remedios_hdsr_S5is_Cuba_258.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Hyppolyte de Saint-Rambert
 ---
 
 Remedios is one of Cuba's oldest and best-preserved colonial towns, tucked away on the north coast of Villa Clara province. Founded in 1514, it is among the first seven cities established by the Spanish on the island, yet it has largely escaped the tourist circuit — which is precisely what makes it worth visiting.

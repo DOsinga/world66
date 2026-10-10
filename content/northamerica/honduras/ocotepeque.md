@@ -26,4 +26,4 @@ The two main border crossings are both close. [El Poy](/northamerica/honduras/oc
 
 The highlands around the town are cooler and greener than most of Honduras — pine-oak forest covers the ridges, and the temperature rarely climbs above the mid-20s. [Monumento Natural El Güisayote](/northamerica/honduras/ocotepeque/monumento_guisayote), a cloud forest reserve northwest of town, has trails and birdlife worth a morning if you have transport. The area is quiet enough that simply walking the roads into the hills offers a pleasant contrast to the lowland heat.
 
-The town itself has the essentials: a central market, a handful of comedores, and regular bus connections to [Santa Rosa de Copán](/northamerica/honduras/santarosadecop) (around two hours northeast), which is the main hub for this part of Honduras.
+The town itself has the essentials: a central market, a handful of comedores, and regular bus connections to [Santa Rosa de Copán](/northamerica/honduras/santa_rosa_de_copan) (around two hours northeast), which is the main hub for this part of Honduras.

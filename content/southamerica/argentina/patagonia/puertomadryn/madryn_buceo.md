@@ -1,6 +1,7 @@
 ---
 address: Blvd. Brown 1900, Bajada 5, Balneario Sara, Puerto Madryn
 commercial: true
+email: madrynbuceo@hotmail.com
 latitude: -42.7853
 longitude: -65.0033
 outreach_code: HGT6SG

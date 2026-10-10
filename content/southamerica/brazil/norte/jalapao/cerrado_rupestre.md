@@ -1,6 +1,7 @@
 ---
 address: Arso 32 Rua 6 QI 19, Palmas
 commercial: true
+email: cerradorupestre@gmail.com
 latitude: -10.3817
 longitude: -46.6592
 outreach_code: FCP2SX

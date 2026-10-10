@@ -1,6 +1,7 @@
 ---
 address: 11a 17, Brasília
 commercial: true
+email: aventura@vertaco.com.br
 latitude: -15.7939
 longitude: -47.8828
 outreach_code: BVXPDR

@@ -1,6 +1,7 @@
 ---
 address: Juan B. Justo 345, Mendoza
 commercial: true
+email: inka@inka.com.ar
 latitude: -32.8837
 longitude: -68.8536
 outreach_code: XLXH6R

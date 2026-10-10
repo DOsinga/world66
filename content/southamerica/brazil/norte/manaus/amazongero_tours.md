@@ -1,6 +1,7 @@
 ---
 address: 10 de Julho Sala 02, Manaus
 commercial: true
+email: contato@amazongero.com
 latitude: -3.1299
 longitude: -60.0225
 outreach_code: 5GK9WS

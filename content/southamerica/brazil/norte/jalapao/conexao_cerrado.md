@@ -1,6 +1,7 @@
 ---
 address: 103 Sul Rua SO 11 N° 06, Palmas
 commercial: true
+email: contato@conexaocerrado.com.br
 latitude: -10.3817
 longitude: -46.6592
 outreach_code: V2BMVC

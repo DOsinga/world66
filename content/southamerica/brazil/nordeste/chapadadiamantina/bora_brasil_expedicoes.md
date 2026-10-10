@@ -1,6 +1,7 @@
 ---
 address: Rua Povoado dos Campos 168 Caeté-Açu, Palmeiras
 commercial: true
+email: borabrasil.ne@gmail.com
 latitude: -12.5594
 longitude: -41.3889
 outreach_code: 3ZTYL3

@@ -1,6 +1,7 @@
 ---
 address: Mitre 83, San Carlos de Bariloche
 commercial: true
+email: info@cabalgatasbariloche.com.ar
 latitude: -41.1322
 longitude: -71.3596
 outreach_code: HWJ3GC

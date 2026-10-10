@@ -724,6 +724,71 @@ def list_queue(rows):
                   f"{ledger[r['code']]['sent_at']}")
 
 
+def audit(args):
+    """Compare the ledger against Resend's own record of what it sent.
+
+    The old flow kept the act of sending (a Gmail window) and the record of it
+    (this CSV) in different places, with a human as the only link between them.
+    A batch interrupted halfway desynchronised the two silently, and nothing
+    noticed for three weeks. Sending through Resend means the provider holds a
+    record we can check against, so drift is findable instead of invisible.
+    """
+    if not os.environ.get("RESEND_API_KEY", "").strip():
+        sys.exit("RESEND_API_KEY is not set.")
+    req = urllib.request.Request(
+        os.environ.get("RESEND_SENT_URL", "https://api.resend.com/emails"),
+        headers={
+            "Authorization": f"Bearer {os.environ.get('RESEND_API_KEY', '').strip()}",
+            "User-Agent": RESEND_AGENT,
+        },
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=20) as r:
+            data = json.loads(r.read().decode("utf-8")).get("data", [])
+    except urllib.error.HTTPError as e:
+        sys.exit(f"HTTP {e.code} from Resend: "
+                 f"{e.read().decode('utf-8', 'replace')[:300]}")
+
+    delivered = {}
+    for msg in data:
+        for addr in msg.get("to") or []:
+            a = addr.strip().lower()
+            when = (msg.get("created_at") or "")[:10]
+            if a not in delivered or when < delivered[a]:
+                delivered[a] = when
+
+    ledger = load_ledger()
+    by_mail = {}
+    for code, row in ledger.items():
+        if row.get("email"):
+            by_mail[row["email"].strip().lower()] = code
+
+    unrecorded = [(a, d) for a, d in delivered.items()
+                  if a in by_mail and not ledger[by_mail[a]].get("sent_at")]
+    print(f"Resend has sent to {len(delivered)} distinct address(es).")
+    print(f"{sum(1 for a in delivered if a in by_mail)} of them are providers "
+          f"in the ledger.\n")
+    if unrecorded:
+        print(f"*** {len(unrecorded)} mailed through Resend with no sent_at: ***")
+        for a, d in sorted(unrecorded):
+            print(f"  {d}  {by_mail[a]}  {ledger[by_mail[a]]['provider']}  <{a}>")
+        print("\nRun --audit --fix to write those dates into the ledger.")
+        if args.fix:
+            for a, d in unrecorded:
+                ledger[by_mail[a]]["sent_at"] = d
+            save_ledger(ledger)
+            print(f"wrote sent_at on {len(unrecorded)} row(s).")
+    else:
+        print("No drift: everything Resend has sent to a provider is recorded.")
+    # The reverse direction cannot be checked here — a row stamped before the
+    # Resend era has no message on this side to match against.
+    pre = sum(1 for r in ledger.values()
+              if r.get("sent_at") and r.get("email", "").strip().lower() not in delivered)
+    if pre:
+        print(f"\n{pre} row(s) carry a sent_at with no matching Resend message — "
+              f"mailed by hand before the switch, so not checkable here.")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--assign", action="store_true", help="assign codes where missing")
@@ -742,6 +807,10 @@ def main():
     ap.add_argument("--country", default="", help="limit to a content path fragment")
     ap.add_argument("--ledger", action="store_true",
                     help="sync outreach/log.csv with the providers that have codes")
+    ap.add_argument("--audit", action="store_true",
+                    help="check the ledger against Resend's record of what it sent")
+    ap.add_argument("--fix", action="store_true",
+                    help="with --audit, write the missing sent_at dates")
     ap.add_argument("--list", action="store_true", dest="list_queue",
                     help="print who --send would mail, and who it would skip")
     ap.add_argument("--replies", action="store_true",
@@ -771,9 +840,13 @@ def main():
         show_replies(args)
         return
 
+    if args.audit:
+        audit(args)
+        return
+
     if not (args.assign or args.qr or args.emails or args.index
             or args.ledger or args.mark_sent or args.send
-            or args.replies or args.list_queue):
+            or args.replies or args.list_queue or args.audit):
         ap.error("nothing to do — pass --assign, --qr, --emails, --index, "
                  "--ledger, --send and/or --mark-sent")
     if args.mark_sent:

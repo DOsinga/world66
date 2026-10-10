@@ -1,17 +1,23 @@
 ---
-title: "Hussong's Cantina"
+title: Hussong's Cantina
 type: poi
 tags:
   - bars_and_cafes
   - bar
-  - historic_house
-latitude: 31.86527
-longitude: -116.62833
+  - sight
+latitude: 31.8653
+longitude: -116.6283
+snippet: The oldest bar in Baja California, where the margarita may have been invented in 1941
 story: >
-  Hussong's claims to be the birthplace of the margarita. The story goes that in 1941, bartender Don Carlos Orozco poured tequila, triple sec, and lime juice over ice and named the drink after a customer, Margarita Henkel, daughter of the German ambassador. The claim is disputed by at least three other establishments, but Hussong's tells it best and nobody there is going to argue with you about it.
-score: 8.0
+  The margarita's origin is disputed across several bars in Mexico and the US,
+  but Hussong's Cantina has one of the strongest claims. In 1941, bartender Don
+  Carlos Orozco mixed tequila, Controy orange liqueur, and lime juice for
+  a Mexican general's daughter named Margarita Henkel — and named the drink
+  after her. The story is unverifiable, but the cocktail has been served here
+  ever since, and Hussong's has never felt the need to look modest about it.
+score: 6.5
 ---
 
-Founded in 1892 by Johann Hussong, a German immigrant who came south from San Francisco during the Baja gold rush, Hussong's Cantina is the oldest and most famous bar in Baja California. The interior has barely changed: sawdust on the floor, mariachis playing for tips, beer-sign neon, and walls papered with photographs and memorabilia going back generations.
+Hussong's Cantina on Avenida Ruiz in Ensenada opened in 1892 and is the oldest bar in Baja California. It is a straightforward place — a long wooden bar, sawdust on the floor, live norteño music on weekends, and a clientele that mixes Mexican locals with Californian expats, surfers, and the occasional tourist who wandered in from the cruise ships.
 
-It is a genuine working-class cantina that happens to be a tourist institution. Locals and visitors mix without too much friction, especially on weekday afternoons before the cruise ship crowds arrive. The margaritas are good; the beer is cold; the atmosphere is irreplaceable. At Avenida Ruiz 113, a block from the Malecon.
+The bar claims to be the birthplace of the margarita, and while the claim is contested, the cocktails are good enough that it doesn't matter. The atmosphere is genuine rather than tourist-staged — Hussong's was a real local bar long before Ensenada became a day trip from San Diego, and it feels that way. Open daily from mid-morning.

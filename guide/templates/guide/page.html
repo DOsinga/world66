@@ -389,8 +389,6 @@
 {% endif %}
 
 {% if page.page_type == "location" and inline_sections and location_bloglists %}
-{# A small city's sections are inlined, so its bloglist is too, instead of
-   standing alone as the one remaining section card. #}
 {% for bl in location_bloglists %}
 <div class="poi-section poi-section--inline bloglist-section" id="blogs">
   <span class="section-kicker">Further Reading</span>

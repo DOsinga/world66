@@ -719,9 +719,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                     seen_paths.add(poi.path)
                     section_pois.append(poi)
                     total_pois += 1
-            # Activities also names operators based elsewhere (providers:);
-            # inlined, it lists them alongside its own. They
-            # don't count towards the size test, which is about this place.
+            # Referenced providers live elsewhere, so they do not affect the city's POI count.
             if section.slug == "activities":
                 for entry in section.meta.get("providers") or []:
                     prov_path = entry.get("path", "") if isinstance(entry, dict) else entry

@@ -1,17 +1,20 @@
 ---
-title: Dive Tulum
-type: poi
+address: Calle Centauro Sur esq. Calle Sol Oriente 18, Centro, 77760 Tulum
 commercial: true
-latitude: 20.2090
+email: contacto@divetulum.com
+latitude: 20.209
 longitude: -87.4583
+outreach_code: 95MYW2
+phone: +52 55 3665 5020
 score: 6.9
 snippet: The town's oldest dive centre, cenote and cavern diving since 1993
-tags: [activities, diving]
-address: "Calle Centauro Sur esq. Calle Sol Oriente 18, Centro, 77760 Tulum"
-phone: "+52 55 3665 5020"
-whatsapp: "+52 55 3665 5020"
-email: contacto@divetulum.com
+tags:
+- activities
+- diving
+title: Dive Tulum
+type: poi
 url: divetulum.com
+whatsapp: +52 55 3665 5020
 ---
 
 The first dive centre to open in Tulum, in 1993, back when the cenotes were something you heard about from other divers rather than booked online. They were the ones who opened much of the cavern diving on this stretch of coast.

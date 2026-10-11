@@ -719,6 +719,17 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                     seen_paths.add(poi.path)
                     section_pois.append(poi)
                     total_pois += 1
+            # Referenced providers live elsewhere, so they do not affect the city's POI count.
+            if section.slug == "activities":
+                for entry in section.meta.get("providers") or []:
+                    prov_path = entry.get("path", "") if isinstance(entry, dict) else entry
+                    if not prov_path or prov_path in seen_paths:
+                        continue
+                    prov = (load_page_from_revision(prov_path, source_ref, url_revision=url_revision)
+                            if source_ref else load_page(prov_path))
+                    if prov and prov.is_commercial:
+                        seen_paths.add(prov.path)
+                        section_pois.append(prov)
             candidate_sections.append((section, section_pois))
         if total_pois < 8:
             inline_sections = [

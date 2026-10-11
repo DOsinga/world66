@@ -1,17 +1,20 @@
 ---
-title: Laguna Adventures Bacalar
-type: poi
+address: Costera 599, Bacalar, Quintana Roo, 77930
 commercial: true
-latitude: 18.6770
+email: info@lagunaadventuresbacalar.com
+latitude: 18.677
 longitude: -88.3875
+outreach_code: D74B3H
+phone: +52 983 752 5985
 score: 6.8
 snippet: Sailboats, pontoons, paddleboards and kayaks on the lagoon, from the Costera
-tags: [activities, boating]
-address: "Costera 599, Bacalar, Quintana Roo, 77930"
-phone: "+52 983 752 5985"
-whatsapp: "+52 983 752 5985"
-email: info@lagunaadventuresbacalar.com
+tags:
+- activities
+- boating
+title: Laguna Adventures Bacalar
+type: poi
 url: lagunaadventuresbacalar.com
+whatsapp: +52 983 752 5985
 ---
 
 On the Costera, the lakefront road, running the whole range of ways to get onto the Laguna de los Siete Colores: a sailboat with a crew, a pontoon for a group, or a paddleboard or kayak you take out yourself.

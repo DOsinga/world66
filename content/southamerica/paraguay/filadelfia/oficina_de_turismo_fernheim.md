@@ -2,6 +2,7 @@
 commercial: true
 latitude: -22.3532083
 longitude: -60.0352308
+outreach_code: V3CF5H
 phone: +595 491 417 380
 score: 6.5
 snippet: The Fernheim co-op's tourist office — museum guiding, town walks and Chaco

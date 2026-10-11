@@ -1,15 +1,19 @@
 ---
-title: Rocky Point Scuba Dive
-type: poi
+address: Av. Coahuila s/n, next to Manny's Beach Club, Puerto Peñasco, Sonora, 83554
 commercial: true
+email: rockypointscubadive@gmail.com
 latitude: 31.5302
 longitude: -113.3897
+outreach_code: HT22J7
+phone: +1 928 380 8619
 score: 6.2
-snippet: NAUI courses and charters to the sea lions of Isla San Jorge, next to Manny's Beach Club
-tags: [activities, diving]
-address: "Av. Coahuila s/n, next to Manny's Beach Club, Puerto Peñasco, Sonora, 83554"
-phone: "+1 928 380 8619"
-email: rockypointscubadive@gmail.com
+snippet: NAUI courses and charters to the sea lions of Isla San Jorge, next to Manny's
+  Beach Club
+tags:
+- activities
+- diving
+title: Rocky Point Scuba Dive
+type: poi
 url: rockypointscubadive.com
 ---
 

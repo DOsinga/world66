@@ -1,17 +1,20 @@
 ---
-title: Monte Xanic
-type: poi
+address: Francisco Zarco, Valle de Guadalupe, Ensenada, Baja California, 22750
 commercial: true
+email: experienciasbodega@montexanic.com.mx
 latitude: 32.0953
 longitude: -116.5719
+outreach_code: FTK5TP
+phone: +52 800 717 4633
 score: 6.9
 snippet: The winery that started modern Mexican wine, tastings by reservation
-tags: [activities, winery]
-address: "Francisco Zarco, Valle de Guadalupe, Ensenada, Baja California, 22750"
-phone: "+52 800 717 4633"
-whatsapp: "+52 55 7048 5495"
-email: experienciasbodega@montexanic.com.mx
+tags:
+- activities
+- winery
+title: Monte Xanic
+type: poi
 url: montexanic.com.mx
+whatsapp: +52 55 7048 5495
 ---
 
 Founded in 1988 and generally credited with starting serious Mexican wine — before Monte Xanic the valley made bulk wine and brandy, and after it the boutique producers followed.

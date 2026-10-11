@@ -1,17 +1,22 @@
 ---
-title: Vallarta Under Sea
-type: poi
+address: Proa s/n Local 24, Edificio Marina del Rey, Marina Vallarta, Puerto Vallarta,
+  Jalisco, 48354
 commercial: true
+email: vallartaundersea@gmail.com
 latitude: 20.6684
 longitude: -105.2487
+outreach_code: 58YDKB
+phone: +52 322 209 0025
 score: 6.8
-snippet: Marina Vallarta dive shop running Los Arcos and the Marietas on alternate days
-tags: [activities, diving]
-address: "Proa s/n Local 24, Edificio Marina del Rey, Marina Vallarta, Puerto Vallarta, Jalisco, 48354"
-phone: "+52 322 209 0025"
-whatsapp: "+52 322 197 1918"
-email: vallartaundersea@gmail.com
+snippet: Marina Vallarta dive shop running Los Arcos and the Marietas on alternate
+  days
+tags:
+- activities
+- diving
+title: Vallarta Under Sea
+type: poi
 url: vallartaundersea.com
+whatsapp: +52 322 197 1918
 ---
 
 A dive shop in Marina Vallarta, two streets from the whale statue, with boats leaving at nine and a fixed weekly rotation: **Los Arcos** and the southern sites — Majahuitas, Colomitos, Mismaloya — on Monday, Wednesday, Friday and Sunday; the **Islas Marietas** on Tuesday, Thursday and Saturday.

@@ -1,17 +1,21 @@
 ---
-title: Tours in Monterrey
-type: poi
+address: Av. Hidalgo 300, Centro, Monterrey, Nuevo León, 64000
 commercial: true
+email: info@toursinmonterrey.com
 latitude: 25.6802
 longitude: -100.3153
+outreach_code: 8LK4H9
+phone: +52 81 2188 1338
 score: 6.6
-snippet: Hotel pick-up day tours since 2003 — the city, Cola de Caballo, García and Bustamante caves
-tags: [activities, guided_tours]
-address: "Av. Hidalgo 300, Centro, Monterrey, Nuevo León, 64000"
-phone: "+52 81 2188 1338"
-whatsapp: "+52 81 1067 4249"
-email: info@toursinmonterrey.com
+snippet: Hotel pick-up day tours since 2003 — the city, Cola de Caballo, García and
+  Bustamante caves
+tags:
+- activities
+- guided_tours
+title: Tours in Monterrey
+type: poi
 url: toursinmonterrey.com
+whatsapp: +52 81 1067 4249
 ---
 
 The conventional way to see Monterrey without a car: a registered agency (RNT 35190390019) running day tours with hotel pick-up since 2003. The pin is on the city centre; their office is on Avenida Hidalgo in the Centro.

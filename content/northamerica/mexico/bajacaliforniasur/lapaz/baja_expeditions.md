@@ -1,17 +1,21 @@
 ---
-title: Baja Expeditions
-type: poi
+address: Calle Sonora 585, entre Abasolo y Topete, Barrio El Manglito, La Paz, Baja
+  California Sur, 23060
 commercial: true
+email: info@bajaex.com
 latitude: 24.1499
-longitude: -110.3280
+longitude: -110.328
+outreach_code: 832DHR
+phone: +52 612 125 3828
 score: 7.0
 snippet: Long-running La Paz outfitter for liveaboards, grey whales and island expeditions
-tags: [activities, wildlife_watching]
-address: "Calle Sonora 585, entre Abasolo y Topete, Barrio El Manglito, La Paz, Baja California Sur, 23060"
-phone: "+52 612 125 3828"
-whatsapp: "+52 612 219 8032"
-email: info@bajaex.com
+tags:
+- activities
+- wildlife_watching
+title: Baja Expeditions
+type: poi
 url: bajaex.com
+whatsapp: +52 612 219 8032
 ---
 
 One of the oldest outfitters in Baja, working out of El Manglito in La Paz and running the trips that need a boat for several days rather than an afternoon.

@@ -1,17 +1,21 @@
 ---
-title: Agua Clara Diving
-type: poi
+address: Av. Satélite entre Calle 2 Poniente y Centauro Norte, Tulum Centro, 77760
 commercial: true
+email: aguaclaratulum@gmail.com
 latitude: 20.2106
 longitude: -87.4578
+outreach_code: JNXYLZ
+phone: +52 984 169 1925
 score: 6.8
-snippet: Tulum and Cozumel shops under one name, cenotes on the mainland and the wall on the island
-tags: [activities, diving]
-address: "Av. Satélite entre Calle 2 Poniente y Centauro Norte, Tulum Centro, 77760"
-phone: "+52 984 169 1925"
-whatsapp: "+52 984 169 1925"
-email: aguaclaratulum@gmail.com
+snippet: Tulum and Cozumel shops under one name, cenotes on the mainland and the wall
+  on the island
+tags:
+- activities
+- diving
+title: Agua Clara Diving
+type: poi
 url: aguaclaradivingtulum.com
+whatsapp: +52 984 169 1925
 ---
 
 Two shops, one business: Tulum for the cenotes and the coastal reef, and a second on 5a Avenida in Cozumel for the drift dives along the Palancar wall. Both open eight until seven.

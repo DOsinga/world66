@@ -18,3 +18,5 @@ whatsapp: +501 624 2862
 ---
 
 A family business that has been guiding on this reef for more than three decades, and which makes a point of how it does it — no anchors on coral, no touching, no feeding. The trips are the island's standard menu: the Hol Chan channel, Shark Ray Alley, the seahorse shallows, and the longer run to Turneffe.
+
+Both their numbers take WhatsApp around the clock: +501 624 2862, which is the one on this page, and +501 633 2275.

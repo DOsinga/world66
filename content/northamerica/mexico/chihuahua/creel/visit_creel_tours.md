@@ -1,15 +1,18 @@
 ---
-title: Visit Creel Tours
-type: poi
+address: Barrio el Panteón s/n, Centro, Creel, Chihuahua, 33200
 commercial: true
-latitude: 27.7530
+email: visitcreel@gmail.com
+latitude: 27.753
 longitude: -107.6343
+outreach_code: QXJF88
+phone: +52 635 294 1387
 score: 6.3
 snippet: Karen and Marcos's small Creel outfit, canyon days and Rarámuri visits
-tags: [activities, guided_tours]
-address: "Barrio el Panteón s/n, Centro, Creel, Chihuahua, 33200"
-phone: "+52 635 294 1387"
-email: visitcreel@gmail.com
+tags:
+- activities
+- guided_tours
+title: Visit Creel Tours
+type: poi
 url: visitcreel.tours
 ---
 

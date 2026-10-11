@@ -1,17 +1,22 @@
 ---
-title: Panoramex
-type: poi
+address: Punto São Paulo, Av. de las Américas 1545, piso 21, Providencia, Guadalajara,
+  Jalisco, 44630
 commercial: true
+email: info@panoramex.mx
 latitude: 20.7021
 longitude: -103.3765
+outreach_code: TXGR9V
+phone: +52 33 1578 0421
 score: 6.6
-snippet: Guadalajara's old-established tour company — daily Tequila runs, Chapala and Ajijic, Tlaquepaque
-tags: [activities, guided_tours]
-address: "Punto São Paulo, Av. de las Américas 1545, piso 21, Providencia, Guadalajara, Jalisco, 44630"
-phone: "+52 33 1578 0421"
-whatsapp: "+52 33 1587 6695"
-email: info@panoramex.mx
+snippet: Guadalajara's old-established tour company — daily Tequila runs, Chapala
+  and Ajijic, Tlaquepaque
+tags:
+- activities
+- guided_tours
+title: Panoramex
+type: poi
 url: panoramex.com.mx
+whatsapp: +52 33 1587 6695
 ---
 
 A Guadalajara tour company that claims more than fifty years in the business, with an office high in the Punto São Paulo tower in Providencia.

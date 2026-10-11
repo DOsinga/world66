@@ -1,14 +1,18 @@
 ---
-title: CEDO Intercultural
-type: poi
 commercial: true
+email: info@cedo.org
 latitude: 31.5302
 longitude: -113.3897
+outreach_code: G6FFB4
+phone: +1 520 320 5473
 score: 6.8
-snippet: Forty-year-old conservation centre leading estuary walks, kayaking, tidepools and Pinacate hikes
-tags: [activities, wildlife_watching]
-phone: "+1 520 320 5473"
-email: info@cedo.org
+snippet: Forty-year-old conservation centre leading estuary walks, kayaking, tidepools
+  and Pinacate hikes
+tags:
+- activities
+- wildlife_watching
+title: CEDO Intercultural
+type: poi
 url: cedo.org
 ---
 

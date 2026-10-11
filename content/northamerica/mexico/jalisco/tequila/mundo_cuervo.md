@@ -1,14 +1,18 @@
 ---
+commercial: true
+email: info@mundocuervo.com
+latitude: 20.882
+longitude: -103.837
+outreach_code: NJ7C3T
+phone: +52 374 742 0700
+score: 6.7
+snippet: Tours of the La Rojeña distillery in the centre of Tequila, and the José
+  Cuervo Express train
+tags:
+- activities
+- winery
 title: Mundo Cuervo
 type: poi
-commercial: true
-latitude: 20.8820
-longitude: -103.8370
-score: 6.7
-snippet: Tours of the La Rojeña distillery in the centre of Tequila, and the José Cuervo Express train
-tags: [activities, winery]
-phone: "+52 374 742 0700"
-email: info@mundocuervo.com
 url: mundocuervo.com
 ---
 

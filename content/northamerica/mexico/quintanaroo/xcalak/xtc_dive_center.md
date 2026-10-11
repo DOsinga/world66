@@ -1,17 +1,21 @@
 ---
-title: XTC Dive Center
-type: poi
+address: Km 54 Camino Costero Mahahual–Xcalak, Xcalak, Quintana Roo, 77940
 commercial: true
+email: reserve@xtcdivecenter.com
 latitude: 18.2821
 longitude: -87.8335
+outreach_code: LDXBCQ
+phone: +52 983 836 5790
 score: 7.0
-snippet: PADI development resort at the north end of Xcalak, and the base for Chinchorro trips
-tags: [activities, diving]
-address: "Km 54 Camino Costero Mahahual–Xcalak, Xcalak, Quintana Roo, 77940"
-phone: "+52 983 836 5790"
-whatsapp: "+52 983 836 5790"
-email: reserve@xtcdivecenter.com
+snippet: PADI development resort at the north end of Xcalak, and the base for Chinchorro
+  trips
+tags:
+- activities
+- diving
+title: XTC Dive Center
+type: poi
 url: xtcdivecenter.com
+whatsapp: +52 983 836 5790
 ---
 
 A PADI five-star instructor development resort at the north end of Xcalak, with rooms and a restaurant attached, which matters in a village this small — there is not much else.

@@ -1,14 +1,18 @@
 ---
-title: Pátzcuaro Magic Tours
-type: poi
 commercial: true
+email: patzcuaromagictoursinfo@gmail.com
 latitude: 19.5164
 longitude: -101.6097
+outreach_code: LLDMRB
+phone: +52 434 107 7150
 score: 6.5
-snippet: A Pátzcuaro-born guide taking you round the craft villages of the lake, one trade at a time
-tags: [activities, guided_tours]
-phone: "+52 434 107 7150"
-email: patzcuaromagictoursinfo@gmail.com
+snippet: A Pátzcuaro-born guide taking you round the craft villages of the lake, one
+  trade at a time
+tags:
+- activities
+- guided_tours
+title: Pátzcuaro Magic Tours
+type: poi
 url: patzcuaromagictours.mx
 ---
 

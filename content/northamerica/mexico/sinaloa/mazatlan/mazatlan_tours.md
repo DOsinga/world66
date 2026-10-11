@@ -1,16 +1,19 @@
 ---
-title: Mazatlán Tours
-type: poi
+address: Mazatlán, Sinaloa
 commercial: true
+email: info@mazatlantours.org
 latitude: 23.2036
 longitude: -106.4208
+outreach_code: SMY23G
 score: 6.4
 snippet: Licensed Mazatlán operator with bilingual guides, city tours and the sierra
-tags: [activities, guided_tours]
-address: "Mazatlán, Sinaloa"
-whatsapp: "+1 844 287 3255"
-email: info@mazatlantours.org
+tags:
+- activities
+- guided_tours
+title: Mazatlán Tours
+type: poi
 url: mazatlantours.org
+whatsapp: +1 844 287 3255
 ---
 
 A Mazatlán operation run by Johann and Sandra, licensed and insured and accredited by both ASTA and IATA, with bilingual guides.

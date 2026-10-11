@@ -1,17 +1,20 @@
 ---
-title: Visit Calakmul
-type: poi
+address: Av. Calakmul esq. calle Nadzán, Xpujil, Calakmul, Campeche, 24640
 commercial: true
+email: info@visitcalakmul.com
 latitude: 18.5025
 longitude: -89.3952
+outreach_code: RTSYTT
+phone: +52 981 171 7783
 score: 7.0
 snippet: Community operator in Xpujil, a network of the reserve's own rural enterprises
-tags: [activities, jungle_tours]
-address: "Av. Calakmul esq. calle Nadzán, Xpujil, Calakmul, Campeche, 24640"
-phone: "+52 981 171 7783"
-whatsapp: "+52 981 171 7783"
-email: info@visitcalakmul.com
+tags:
+- activities
+- jungle_tours
+title: Visit Calakmul
+type: poi
 url: visitcalakmul.com
+whatsapp: +52 981 171 7783
 ---
 
 A community tour operator in Xpujil made up of a network of rural enterprises inside the municipality of Calakmul — which means the guides live in the reserve and the money stays in it.

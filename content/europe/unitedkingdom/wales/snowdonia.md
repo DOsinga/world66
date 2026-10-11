@@ -5,7 +5,7 @@ image: snowdonia.jpg
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Snowdon_Ranger_path_on_a_cold_February_day._(16431627106).jpg
 latitude: 53.07123
-loc_type: region
+loc_type: feature
 longitude: -4.074173
 score: 0.69
 snippet: North Wales mountain region of Yr Wyddfa, slate valleys, lakes, ridge walks,
@@ -16,4 +16,4 @@ type: location
 
 Snowdonia is the wildest landscape in Wales — a knot of mountains, lakes and slate valleys stretching across the northwest corner. Yr Wyddfa (Snowdon), the highest peak in England and Wales at 1,085 metres, anchors the park, but there are dozens of other summits, ridge walks and forest trails that see far fewer boots.
 
-The small towns scattered around the park make good bases. [Betws-y-Coed](/europe/unitedkingdom/wales/snowdonia/betwsycoed) sits at the edge of the Gwydyr Forest with waterfalls in every direction. [Llanberis](/europe/unitedkingdom/wales/snowdonia/llanberis) is the classic starting point for climbing Snowdon, whether on foot or by the mountain railway. [Blaenau Ffestiniog](/europe/unitedkingdom/wales/snowdonia/blaenau_ffestiniog) is rougher and more industrial, but its slate landscape and narrow-gauge railway are essential to understanding this corner of Wales. Beddgelert is a charming former mining village near Moel Hebog, and Porthmadog on the coast is a natural stop on the way in.
+The small towns scattered around the park make good bases. [Betws-y-Coed](/europe/unitedkingdom/wales/betwsycoed) sits at the edge of the Gwydyr Forest with waterfalls in every direction. [Llanberis](/europe/unitedkingdom/wales/llanberis) is the classic starting point for climbing Snowdon, whether on foot or by the mountain railway. [Blaenau Ffestiniog](/europe/unitedkingdom/wales/blaenau_ffestiniog) is rougher and more industrial, but its slate landscape and narrow-gauge railway are essential to understanding this corner of Wales. Beddgelert is a charming former mining village near Moel Hebog, and Porthmadog on the coast is a natural stop on the way in.

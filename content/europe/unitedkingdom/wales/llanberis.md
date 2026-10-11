@@ -3,6 +3,10 @@ done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-05-22'
 heritage: 5.113
+image: llanberis.jpg
+image_attribution: Cadw
+image_license: OGL v1.0
+image_source: https://commons.wikimedia.org/wiki/File:Dolbadarn_Castle_Cadw.jpg
 latitude: 53.121276
 loc_type: city
 longitude: -4.127748

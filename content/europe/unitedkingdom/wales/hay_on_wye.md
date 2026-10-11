@@ -1,5 +1,9 @@
 ---
 heritage: 5.719
+image: hay_on_wye.jpg
+image_attribution: Hugh Venables
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Hay-on-Wye_book_shops_-_geograph.org.uk_-_2840794.jpg
 latitude: 52.08
 loc_type: city
 longitude: -3.13

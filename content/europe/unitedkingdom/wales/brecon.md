@@ -1,5 +1,9 @@
 ---
 heritage: 4.482
+image: brecon.jpg
+image_attribution: Trevor Rickard
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:River_Usk_at_Brecon_-_geograph.org.uk_-_2981969.jpg
 latitude: 51.947
 loc_type: city
 longitude: -3.391

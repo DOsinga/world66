@@ -1,17 +1,18 @@
 ---
-title: New Quay Boat Trips
-type: poi
+address: New Quay Pier SA45 9NW
 commercial: true
+email: newquayboattrips@gmail.com
 latitude: 52.2157
 longitude: -4.3576
+outreach_code: BT59CY
+phone: +44 1545 560800
 score: 6.9
 snippet: Dolphin-spotting boat trips from New Quay pier since 1955, and dogs go free
 tags:
 - activities
 - wildlife_watching
-address: New Quay Pier SA45 9NW
-phone: +44 1545 560800
-email: newquayboattrips@gmail.com
+title: New Quay Boat Trips
+type: poi
 url: newquayboattrips.co.uk
 ---
 

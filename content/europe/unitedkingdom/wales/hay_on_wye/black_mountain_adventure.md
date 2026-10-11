@@ -1,18 +1,19 @@
 ---
-title: Black Mountain Adventure
-type: poi
+address: Brecon, Powys LD3 0SD
 commercial: true
+email: info@blackmountain.co.uk
 latitude: 52.0275
 longitude: -3.2133
+outreach_code: GN585Q
+phone: +44 1497 847897
 score: 6.7
 snippet: 'Family-run activity centre near Glasbury since 1992: caving, gorge scrambling,
   rafting and Wye canoeing'
 tags:
 - activities
 - canyoning
-address: Brecon, Powys LD3 0SD
-phone: +44 1497 847897
-email: info@blackmountain.co.uk
+title: Black Mountain Adventure
+type: poi
 url: blackmountain.co.uk
 ---
 

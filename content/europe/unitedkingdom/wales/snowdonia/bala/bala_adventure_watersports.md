@@ -1,17 +1,18 @@
 ---
-title: Bala Adventure & Watersports
-type: poi
+address: Bala Lake Foreshore, Bala LL23 7SR
 commercial: true
+email: hello@balawatersports.com
 latitude: 52.9087
 longitude: -3.6021
+outreach_code: X4MKZC
+phone: +44 1678 521615
 score: 6.7
 snippet: Family-run watersports and adventure centre on the shore of Llyn Tegid
 tags:
 - activities
 - kayaking
-address: Bala Lake Foreshore, Bala LL23 7SR
-phone: +44 1678 521615
-email: hello@balawatersports.com
+title: Bala Adventure & Watersports
+type: poi
 url: balawatersports.com
 ---
 

@@ -1,18 +1,19 @@
 ---
-title: Loving Welsh Food
-type: poi
+address: Cardiff
 commercial: true
+email: sian@lovingwelshfood.uk
 latitude: 51.4816
 longitude: -3.1791
+outreach_code: TJ2R4G
+phone: +44 7810 335137
 score: 6.8
 snippet: Cardiff food walking tours, Taste of Wales evenings and Welshcake workshops
   with presenter Sian Roberts
 tags:
 - activities
 - guided_tours
-address: Cardiff
-phone: +44 7810 335137
-email: sian@lovingwelshfood.uk
+title: Loving Welsh Food
+type: poi
 url: lovingwelshfood.uk
 ---
 

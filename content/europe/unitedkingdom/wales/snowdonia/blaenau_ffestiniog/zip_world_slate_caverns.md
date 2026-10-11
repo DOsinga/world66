@@ -3,6 +3,7 @@ address: Llechwedd, Blaenau Ffestiniog LL41 3NB
 commercial: true
 latitude: 53.0049
 longitude: -3.9398
+outreach_code: VJ5KX6
 phone: +44 1248 601444
 score: 7.4
 snippet: Zip lines and underground adventures at three North Wales sites, including

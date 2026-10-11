@@ -1,18 +1,19 @@
 ---
-title: Beics Antur
-type: poi
+address: Porth-yr-Aur, High Street, Caernarfon LL55 1RN
 commercial: true
+email: beics@anturwaunfawr.cymru
 latitude: 53.1406
 longitude: -4.2775
+outreach_code: 72JWS5
+phone: +44 1286 672622
 score: 6.3
 snippet: Social-enterprise bike hire inside Caernarfon's walls, including adaptive
   bikes, for the Lôn Eifion path
 tags:
 - activities
 - cycling
-address: Porth-yr-Aur, High Street, Caernarfon LL55 1RN
-phone: +44 1286 672622
-email: beics@anturwaunfawr.cymru
+title: Beics Antur
+type: poi
 url: anturwaunfawr.org/en/beics-antur
 ---
 

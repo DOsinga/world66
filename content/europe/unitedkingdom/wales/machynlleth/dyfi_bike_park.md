@@ -1,17 +1,18 @@
 ---
-title: Dyfi Bike Park
-type: poi
+address: Pantperthog, Machynlleth SY20 9AS
 commercial: true
+email: ride@dyfibikepark.co.uk
 latitude: 52.6219
 longitude: -3.8488
+outreach_code: W68Q4B
 score: 6.9
 snippet: Dan Atherton's uplift mountain-bike park in the Dyfi Forest, from red to
   triple-black trails
 tags:
 - activities
 - cycling
-address: Pantperthog, Machynlleth SY20 9AS
-email: ride@dyfibikepark.co.uk
+title: Dyfi Bike Park
+type: poi
 url: dyfibikepark.co.uk
 ---
 

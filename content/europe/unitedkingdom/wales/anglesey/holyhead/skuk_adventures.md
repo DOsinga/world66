@@ -1,18 +1,19 @@
 ---
-title: SKUK Adventures
-type: poi
+address: Holyhead
 commercial: true
+email: info@skukadventures.com
 latitude: 53.309
 longitude: -4.633
+outreach_code: B46MMS
+phone: +44 7853 666827
 score: 6.6
 snippet: Guided sea kayak trips, coaching and courses around Anglesey with Sea Kayaking
   UK
 tags:
 - activities
 - kayaking
-address: Holyhead
-phone: +44 7853 666827
-email: info@skukadventures.com
+title: SKUK Adventures
+type: poi
 url: skukadventures.com
 ---
 

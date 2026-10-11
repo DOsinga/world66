@@ -1,17 +1,18 @@
 ---
-title: Cardigan Bay Active
-type: poi
+address: Scout Hall Boat House, The Strand, Cardigan SA43 1EX
 commercial: true
+email: info@cardiganbayactive.co.uk
 latitude: 52.082
 longitude: -4.6591
+outreach_code: 7HV9ZX
+phone: +44 1239 612133
 score: 6.6
 snippet: Coasteering, sea kayaking and canoe trips through the Teifi gorge from Cardigan
 tags:
 - activities
 - kayaking
-address: Scout Hall Boat House, The Strand, Cardigan SA43 1EX
-phone: +44 1239 612133
-email: info@cardiganbayactive.co.uk
+title: Cardigan Bay Active
+type: poi
 url: cardiganbayactive.co.uk
 ---
 

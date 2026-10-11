@@ -1,18 +1,19 @@
 ---
-title: Rip N Rock
-type: poi
+address: Rhossili National Trust car park SA3 1PR
 commercial: true
+email: info@ripnrock.co.uk
 latitude: 51.5689
 longitude: -4.2902
+outreach_code: DBB47B
+phone: +44 7815 784122
 score: 6.8
 snippet: Coasteering around Rhossili's cliffs and caves, plus canyoning in Waterfall
   Country
 tags:
 - activities
 - canyoning
-address: Rhossili National Trust car park SA3 1PR
-phone: +44 7815 784122
-email: info@ripnrock.co.uk
+title: Rip N Rock
+type: poi
 url: ripnrock.co.uk
 ---
 

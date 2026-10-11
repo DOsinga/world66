@@ -1,18 +1,19 @@
 ---
-title: Boulder Adventures
-type: poi
+address: Bryn Du Mountain Centre, Ty Du Road, Llanberis LL55 4HE
 commercial: true
+email: info@boulderadventures.co.uk
 latitude: 53.1205
 longitude: -4.1282
+outreach_code: YKF3Q6
+phone: +44 1286 870556
 score: 6.8
 snippet: Gorge scrambling, climbing, coasteering and paddling from Llanberis, since
   2003
 tags:
 - activities
 - canyoning
-address: Bryn Du Mountain Centre, Ty Du Road, Llanberis LL55 4HE
-phone: +44 1286 870556
-email: info@boulderadventures.co.uk
+title: Boulder Adventures
+type: poi
 url: boulderadventures.co.uk
 ---
 

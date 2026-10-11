@@ -1,18 +1,19 @@
 ---
-title: Saundersfoot Boat Trips
-type: poi
+address: Booking Hut, Harbour Road, Saundersfoot SA69 9ET
 commercial: true
+email: info@saundersfootboattrips.com
 latitude: 51.7124
 longitude: -4.6976
+outreach_code: CTRMNF
+phone: +44 7494 293983
 score: 6.5
 snippet: Fishing, mackerel and sea-safari trips from Saundersfoot harbour with the
   Denman family
 tags:
 - activities
 - fishing
-address: Booking Hut, Harbour Road, Saundersfoot SA69 9ET
-phone: +44 7494 293983
-email: info@saundersfootboattrips.com
+title: Saundersfoot Boat Trips
+type: poi
 url: saundersfootboattrips.com
 ---
 

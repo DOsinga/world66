@@ -1,17 +1,18 @@
 ---
-title: RibRide
-type: poi
+address: Water Street, Menai Bridge LL59 5DE
 commercial: true
+email: bookings@ribride.co.uk
 latitude: 53.224
 longitude: -4.1618
+outreach_code: DQ3Z6T
+phone: +44 333 1234 303
 score: 6.9
 snippet: Fast RIB trips from Menai Bridge through the Swellies and out to Puffin Island
 tags:
 - activities
 - boating
-address: Water Street, Menai Bridge LL59 5DE
-phone: +44 333 1234 303
-email: bookings@ribride.co.uk
+title: RibRide
+type: poi
 url: ribride.co.uk
 ---
 

@@ -1,18 +1,19 @@
 ---
-title: Adventure Britain
-type: poi
+address: Ty Anturiaeth, 83 Church Road, Seven Sisters SA10 9DT
 commercial: true
+email: sales@adventurebritain.com
 latitude: 51.7646
 longitude: -3.717
+outreach_code: 87C3PM
+phone: +44 1639 700388
 score: 6.7
 snippet: Guided caving in Porth yr Ogof and the Little Neath River cave, and canyoning
   in Waterfall Country
 tags:
 - activities
 - canyoning
-address: Ty Anturiaeth, 83 Church Road, Seven Sisters SA10 9DT
-phone: +44 1639 700388
-email: sales@adventurebritain.com
+title: Adventure Britain
+type: poi
 url: adventurebritain.com
 ---
 

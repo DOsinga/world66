@@ -1,18 +1,19 @@
 ---
-title: Cardiff Cruises
-type: poi
+address: Lower Boardwalk, Mermaid Quay, Cardiff Bay CF10 5BZ
 commercial: true
+email: info@cardiffcruises.co.uk
 latitude: 51.4634
 longitude: -3.1654
+outreach_code: FQN2FC
+phone: +44 29 2166 1166
 score: 6.5
 snippet: The Aquabus between Cardiff Bay and Bute Park, bay cruises, and self-drive
   electric boats
 tags:
 - activities
 - boating
-address: Lower Boardwalk, Mermaid Quay, Cardiff Bay CF10 5BZ
-phone: +44 29 2166 1166
-email: info@cardiffcruises.co.uk
+title: Cardiff Cruises
+type: poi
 url: cardiffcruises.co.uk
 ---
 

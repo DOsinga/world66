@@ -1,17 +1,18 @@
 ---
-title: Offaxis
-type: poi
+address: Glanafon Garage, Abersoch LL53 7HP
 commercial: true
+email: sales@offaxis.co.uk
 latitude: 52.8242
 longitude: -4.506
+outreach_code: WKTZ59
+phone: +44 1758 713407
 score: 6.5
 snippet: Surf, paddleboard, wakeboard and e-foil lessons in Abersoch
 tags:
 - activities
 - surf
-address: Glanafon Garage, Abersoch LL53 7HP
-phone: +44 1758 713407
-email: sales@offaxis.co.uk
+title: Offaxis
+type: poi
 url: offaxis.co.uk
 ---
 

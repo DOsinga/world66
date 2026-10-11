@@ -1,18 +1,19 @@
 ---
-title: Plas Menai
-type: poi
+address: Griffiths Crossing, Caernarfon LL55 1UE
 commercial: true
+email: info@plasmenai.wales
 latitude: 53.1708
 longitude: -4.2411
+outreach_code: D2Q42S
+phone: +44 300 300 3112
 score: 6.9
 snippet: 'The National Outdoor Centre for Wales on the Menai Strait: sailing, kayaking,
   paddleboarding and windsurfing'
 tags:
 - activities
 - kayaking
-address: Griffiths Crossing, Caernarfon LL55 1UE
-phone: +44 300 300 3112
-email: info@plasmenai.wales
+title: Plas Menai
+type: poi
 url: plasmenai.wales
 ---
 

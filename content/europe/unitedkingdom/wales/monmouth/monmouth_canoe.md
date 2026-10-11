@@ -1,17 +1,18 @@
 ---
-title: Monmouth Canoe & Activity Centre
-type: poi
+address: Castle Yard, Old Dixon Road, Monmouth NP25 3DP
 commercial: true
+email: info@monmouthcanoe.co.uk
 latitude: 51.8136
 longitude: -2.7098
+outreach_code: W75LVM
+phone: +44 1600 716083
 score: 6.7
 snippet: Canoe and kayak hire and guided trips on the Wye, from Glasbury down to Tintern
 tags:
 - activities
 - kayaking
-address: Castle Yard, Old Dixon Road, Monmouth NP25 3DP
-phone: +44 1600 716083
-email: info@monmouthcanoe.co.uk
+title: Monmouth Canoe & Activity Centre
+type: poi
 url: monmouthcanoe.co.uk
 ---
 

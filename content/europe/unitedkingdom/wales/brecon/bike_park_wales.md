@@ -1,18 +1,19 @@
 ---
-title: Bike Park Wales
-type: poi
+address: Gethin Woodland Centre, Abercanaid, Merthyr Tydfil CF48 1YZ
 commercial: true
+email: reception@bikeparkwales.com
 latitude: 51.7215
 longitude: -3.3769
+outreach_code: H3X8W4
+phone: +44 1685 709450
 score: 7.0
 snippet: Uplift mountain-bike park on Mynydd Gethin above Merthyr Tydfil, at the southern
   edge of the Beacons
 tags:
 - activities
 - cycling
-address: Gethin Woodland Centre, Abercanaid, Merthyr Tydfil CF48 1YZ
-phone: +44 1685 709450
-email: reception@bikeparkwales.com
+title: Bike Park Wales
+type: poi
 url: bikeparkwales.com
 ---
 

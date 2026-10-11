@@ -1,18 +1,19 @@
 ---
-title: TYF Adventure
-type: poi
+address: 20 High Street, St Davids SA62 6SD
 commercial: true
+email: play@tyf.com
 latitude: 51.8807
 longitude: -5.2638
+outreach_code: 85N7XC
+phone: +44 1437 721611
 score: 7.2
 snippet: St Davids outfit that calls itself the home of coasteering, with kayaking,
   surfing and climbing too
 tags:
 - activities
 - canyoning
-address: 20 High Street, St Davids SA62 6SD
-phone: +44 1437 721611
-email: play@tyf.com
+title: TYF Adventure
+type: poi
 url: tyf.com
 ---
 

@@ -1,18 +1,19 @@
 ---
-title: Anglesey Adventures
-type: poi
+address: Porthdafarch Road, Holyhead LL65 2LP
 commercial: true
+email: info@angleseyadventures.com
 latitude: 53.2937
 longitude: -4.6444
+outreach_code: PFPS39
+phone: +44 7896 239951
 score: 6.9
 snippet: Coasteering, sea kayaking and climbing on Holy Island's cliffs, from Porth
   Dafarch
 tags:
 - activities
 - canyoning
-address: Porthdafarch Road, Holyhead LL65 2LP
-phone: +44 7896 239951
-email: info@angleseyadventures.com
+title: Anglesey Adventures
+type: poi
 url: angleseyadventures.com
 ---
 

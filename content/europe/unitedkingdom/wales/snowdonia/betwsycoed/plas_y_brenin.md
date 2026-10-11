@@ -1,18 +1,19 @@
 ---
-title: Plas y Brenin
-type: poi
+address: Capel Curig, Conwy LL24 0ET
 commercial: true
+email: info@pyb.co.uk
 latitude: 53.1022
 longitude: -3.9184
+outreach_code: LHJHFR
+phone: +44 1690 720214
 score: 7.2
 snippet: 'The National Outdoor Centre at Capel Curig: climbing, scrambling, mountaineering
   and paddling courses'
 tags:
 - activities
 - mountaineering
-address: Capel Curig, Conwy LL24 0ET
-phone: +44 1690 720214
-email: info@pyb.co.uk
+title: Plas y Brenin
+type: poi
 url: pyb.co.uk
 ---
 

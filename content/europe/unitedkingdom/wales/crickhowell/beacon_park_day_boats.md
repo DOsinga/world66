@@ -1,18 +1,19 @@
 ---
-title: Beacon Park Day Boats
-type: poi
+address: Llangattock Wharf NP8 1EQ
 commercial: true
+email: enquiries@beaconparkboats.com
 latitude: 51.8466
 longitude: -3.1515
+outreach_code: S5G353
+phone: +44 1873 858277
 score: 6.6
 snippet: Self-drive electric day boats, canoes and paddleboards on the Monmouthshire
   & Brecon Canal at Llangattock
 tags:
 - activities
 - boating
-address: Llangattock Wharf NP8 1EQ
-phone: +44 1873 858277
-email: enquiries@beaconparkboats.com
+title: Beacon Park Day Boats
+type: poi
 url: beaconparkdayboats.co.uk
 ---
 

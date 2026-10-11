@@ -1,17 +1,18 @@
 ---
-title: Adventure Parc Snowdonia
-type: poi
+address: Conwy Valley, Dolgarrog LL32 8QE
 commercial: true
 latitude: 53.1912
 longitude: -3.8426
+outreach_code: GCLZPH
+phone: +44 1492 709929
 score: 6.5
 snippet: Indoor caving, climbing, ninja courses and high ropes in the Conwy Valley,
   plus gorge walking outside
 tags:
 - activities
 - adventure_park
-address: Conwy Valley, Dolgarrog LL32 8QE
-phone: +44 1492 709929
+title: Adventure Parc Snowdonia
+type: poi
 url: adventureparc.co.uk
 ---
 

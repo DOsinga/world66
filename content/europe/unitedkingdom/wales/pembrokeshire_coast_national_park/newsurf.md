@@ -1,17 +1,18 @@
 ---
-title: Newsurf
-type: poi
+address: Newgale Beach SA62 6AS
 commercial: true
+email: shop@newsurf.co.uk
 latitude: 51.8588
 longitude: -5.1256
+outreach_code: S95JPF
+phone: +44 1437 721398
 score: 6.6
 snippet: Surf school and shop right on Newgale beach, with lifeguard-qualified coaches
 tags:
 - activities
 - surf
-address: Newgale Beach SA62 6AS
-phone: +44 1437 721398
-email: shop@newsurf.co.uk
+title: Newsurf
+type: poi
 url: newsurf.co.uk
 ---
 

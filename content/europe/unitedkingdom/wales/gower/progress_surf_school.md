@@ -1,18 +1,19 @@
 ---
-title: Progress Surf School
-type: poi
+address: Llangennith and Caswell Bay, Gower
 commercial: true
+email: surf@swanseasurfing.com
 latitude: 51.5997
 longitude: -4.2716
+outreach_code: FHSLJG
+phone: +44 1792 410825
 score: 6.7
 snippet: Gower surf school teaching at Caswell Bay or Llangennith, whichever suits
   the day's conditions
 tags:
 - activities
 - surf
-address: Llangennith and Caswell Bay, Gower
-phone: +44 1792 410825
-email: surf@swanseasurfing.com
+title: Progress Surf School
+type: poi
 url: swanseasurfing.com
 ---
 

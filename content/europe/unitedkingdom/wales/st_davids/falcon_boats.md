@@ -1,18 +1,19 @@
 ---
-title: Falcon Boats
-type: poi
+address: 10 New Street, St Davids SA62 6SN
 commercial: true
+email: info@falconboats.co.uk
 latitude: 51.8812
 longitude: -5.2643
+outreach_code: CRKJXM
+phone: +44 7494 141764
 score: 6.8
 snippet: Ramsey and Skomer trips with a skipper who has worked Ramsey Sound for twenty-five
   years
 tags:
 - activities
 - wildlife_watching
-address: 10 New Street, St Davids SA62 6SN
-phone: +44 7494 141764
-email: info@falconboats.co.uk
+title: Falcon Boats
+type: poi
 url: falconboats.co.uk
 ---
 

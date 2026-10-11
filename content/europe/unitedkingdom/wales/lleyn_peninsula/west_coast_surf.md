@@ -1,17 +1,18 @@
 ---
-title: West Coast Surf
-type: poi
+address: Lon Pen Cei, Abersoch LL53 7AP
 commercial: true
+email: surf@westcoastsurf.co.uk
 latitude: 52.8253
 longitude: -4.5041
+outreach_code: KCMTVX
+phone: +44 1758 713067
 score: 6.7
 snippet: Abersoch surf shop running the Hell's Mouth surf school, May to November
 tags:
 - activities
 - surf
-address: Lon Pen Cei, Abersoch LL53 7AP
-phone: +44 1758 713067
-email: surf@westcoastsurf.co.uk
+title: West Coast Surf
+type: poi
 url: westcoastsurf.co.uk
 ---
 

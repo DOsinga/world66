@@ -1,18 +1,19 @@
 ---
-title: Cardiff International White Water
-type: poi
+address: Watkiss Way, Cardiff Bay CF11 0SY
 commercial: true
+email: info@ciww.com
 latitude: 51.4479
 longitude: -3.185
+outreach_code: HJJCDP
+phone: +44 29 2082 9970
 score: 7.0
 snippet: Pumped white-water course in Cardiff Bay for rafting and tubing, with an
   indoor surf wave
 tags:
 - activities
 - rafting
-address: Watkiss Way, Cardiff Bay CF11 0SY
-phone: +44 29 2082 9970
-email: info@ciww.com
+title: Cardiff International White Water
+type: poi
 url: ciww.com
 ---
 

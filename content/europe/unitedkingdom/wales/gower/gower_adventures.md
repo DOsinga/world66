@@ -1,18 +1,19 @@
 ---
-title: Gower Adventures
-type: poi
+address: Gower
 commercial: true
+email: info@goweradventures.co.uk
 latitude: 51.59
 longitude: -4.16
+outreach_code: PR48R5
+phone: +44 1792 851182
 score: 6.4
 snippet: 'Four-hour activity days on Gower: sit-on-top sea kayaking, climbing, caving
   and gorge walking'
 tags:
 - activities
 - kayaking
-address: Gower
-phone: +44 1792 851182
-email: info@goweradventures.co.uk
+title: Gower Adventures
+type: poi
 url: goweradventures.co.uk
 ---
 

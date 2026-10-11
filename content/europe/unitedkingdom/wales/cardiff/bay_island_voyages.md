@@ -1,18 +1,19 @@
 ---
-title: Bay Island Voyages
-type: poi
+address: Lower Boardwalk, Mermaid Quay, Cardiff Bay CF10 5BZ
 commercial: true
+email: bookings@bayislandvoyages.co.uk
 latitude: 51.4634
 longitude: -3.1654
+outreach_code: 23FSVV
+phone: +44 7393 470476
 score: 6.7
 snippet: RIB rides from Cardiff Bay since 1999, out through the barrage to the islands
   of Flat Holm and Steep Holm
 tags:
 - activities
 - boating
-address: Lower Boardwalk, Mermaid Quay, Cardiff Bay CF10 5BZ
-phone: +44 7393 470476
-email: bookings@bayislandvoyages.co.uk
+title: Bay Island Voyages
+type: poi
 url: bayislandvoyages.co.uk
 ---
 

@@ -1,18 +1,19 @@
 ---
-title: Want To Canoe?
-type: poi
+address: Racquety Farm, Hay-on-Wye HR3 5RS
 commercial: true
+email: hire@canoehire.co.uk
 latitude: 52.0808
 longitude: -3.1322
+outreach_code: ZMQQHB
+phone: +44 1497 820604
 score: 6.6
 snippet: 'Wye canoe hire from Hay: half and full days, and expeditions of up to six
   days'
 tags:
 - activities
 - kayaking
-address: Racquety Farm, Hay-on-Wye HR3 5RS
-phone: +44 1497 820604
-email: hire@canoehire.co.uk
+title: Want To Canoe?
+type: poi
 url: canoehire.co.uk
 ---
 

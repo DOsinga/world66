@@ -1,18 +1,19 @@
 ---
-title: Wye Valley Canoes
-type: poi
+address: The Boat House, Glasbury HR3 5NP
 commercial: true
+email: info@wyevalleycanoes.co.uk
 latitude: 52.0459
 longitude: -3.1962
+outreach_code: GJZNLN
+phone: +44 7377 267717
 score: 6.8
 snippet: Canoe hire at Glasbury for the five-and-a-half-mile paddle down the Wye to
   Hay, and multi-day trips
 tags:
 - activities
 - kayaking
-address: The Boat House, Glasbury HR3 5NP
-phone: +44 7377 267717
-email: info@wyevalleycanoes.co.uk
+title: Wye Valley Canoes
+type: poi
 url: wyevalleycanoes.co.uk
 ---
 

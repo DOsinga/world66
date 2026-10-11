@@ -1,18 +1,19 @@
 ---
-title: Bearded Men Adventures
-type: poi
+address: A539, Llangollen LL20 8RZ
 commercial: true
+email: hello@beardedmenadventures.com
 latitude: 52.9701
 longitude: -3.1639
+outreach_code: 4TL8HP
+phone: +44 1978 799384
 score: 6.6
 snippet: Dee rafting, canyoning and canoeing across the Pontcysyllte Aqueduct from
   Llangollen
 tags:
 - activities
 - rafting
-address: A539, Llangollen LL20 8RZ
-phone: +44 1978 799384
-email: hello@beardedmenadventures.com
+title: Bearded Men Adventures
+type: poi
 url: beardedmenadventures.com
 ---
 

@@ -1,18 +1,19 @@
 ---
-title: Paddle Pembrokeshire
-type: poi
+address: Tenby South Beach
 commercial: true
+email: info@paddlepembrokeshire.co.uk
 latitude: 51.668
 longitude: -4.703
+outreach_code: YFLRRM
+phone: +44 7700 144321
 score: 6.6
 snippet: 'Guided sea kayak and paddleboard trips from Tenby South Beach: seal safaris
   and puffin trips'
 tags:
 - activities
 - kayaking
-address: Tenby South Beach
-phone: +44 7700 144321
-email: info@paddlepembrokeshire.co.uk
+title: Paddle Pembrokeshire
+type: poi
 url: paddlepembrokeshire.co.uk
 ---
 

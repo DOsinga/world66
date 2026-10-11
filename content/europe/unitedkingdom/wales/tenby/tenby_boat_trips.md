@@ -1,18 +1,19 @@
 ---
-title: Tenby Boat Trips
-type: poi
+address: Tenby Harbour SA70 7BN
 commercial: true
+email: info@tenbyboattrips.co.uk
 latitude: 51.6723
 longitude: -4.6962
+outreach_code: FKC39S
+phone: +44 7980 864509
 score: 6.7
 snippet: Seal safaris around Caldey and St Margaret's from Tenby harbour, by waterjet
   boat, catamaran or RIB
 tags:
 - activities
 - wildlife_watching
-address: Tenby Harbour SA70 7BN
-phone: +44 7980 864509
-email: info@tenbyboattrips.co.uk
+title: Tenby Boat Trips
+type: poi
 url: tenbyboattrips.co.uk
 ---
 

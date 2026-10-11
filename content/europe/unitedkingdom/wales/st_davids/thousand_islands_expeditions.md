@@ -1,18 +1,19 @@
 ---
-title: Thousand Islands Expeditions
-type: poi
+address: Cross Square, St Davids SA62 6SL
 commercial: true
+email: info@thousandislands.co.uk
 latitude: 51.8811
 longitude: -5.2663
+outreach_code: KLMLC5
+phone: +44 1437 721721
 score: 7.0
 snippet: The only boats that land on the RSPB Ramsey Island reserve, since 1975, plus
   trips from Fishguard
 tags:
 - activities
 - wildlife_watching
-address: Cross Square, St Davids SA62 6SL
-phone: +44 1437 721721
-email: info@thousandislands.co.uk
+title: Thousand Islands Expeditions
+type: poi
 url: thousandislands.co.uk
 ---
 

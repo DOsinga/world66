@@ -4,6 +4,7 @@ commercial: true
 email: info@ukrafting.co.uk
 latitude: 52.9559
 longitude: -3.6467
+outreach_code: DPQYYB
 phone: +44 1678 521083
 score: 7.4
 snippet: Rafting on the dam-fed Tryweryn north of Bala, the UK's original white-water

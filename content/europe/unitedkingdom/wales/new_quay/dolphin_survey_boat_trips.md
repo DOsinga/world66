@@ -1,17 +1,18 @@
 ---
-title: Dolphin Survey Boat Trips
-type: poi
+address: Cardigan Bay Marine Wildlife Centre, Glanmor Terrace, New Quay
 commercial: true
 latitude: 52.2148
 longitude: -4.3545
+outreach_code: FHDPL2
+phone: +44 1545 560032
 score: 6.9
 snippet: Small research boat trips for the Wildlife Trust's Cardigan Bay dolphin survey,
   with a hydrophone on board
 tags:
 - activities
 - wildlife_watching
-address: Cardigan Bay Marine Wildlife Centre, Glanmor Terrace, New Quay
-phone: +44 1545 560032
+title: Dolphin Survey Boat Trips
+type: poi
 url: dolphinsurveyboattrips.co.uk
 ---
 

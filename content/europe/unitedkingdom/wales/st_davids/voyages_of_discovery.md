@@ -1,18 +1,19 @@
 ---
-title: Voyages of Discovery
-type: poi
+address: 1 High Street, St Davids SA62 6SA
 commercial: true
+email: info@voyagesboats.co.uk
 latitude: 51.881
 longitude: -5.2648
+outreach_code: GB6G6L
+phone: +44 1437 721911
 score: 6.9
 snippet: Boat trips around Ramsey Island and out to the gannets of Grassholm, for
   thirty years
 tags:
 - activities
 - wildlife_watching
-address: 1 High Street, St Davids SA62 6SA
-phone: +44 1437 721911
-email: info@voyagesboats.co.uk
+title: Voyages of Discovery
+type: poi
 url: ramseyisland.co.uk
 ---
 

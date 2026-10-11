@@ -18,6 +18,7 @@ sources:
 - https://doaghfaminevillage.com/
 tags:
 - donegal
+- inishowen
 title: Carndonagh
 type: location
 vibrancy: 1.621

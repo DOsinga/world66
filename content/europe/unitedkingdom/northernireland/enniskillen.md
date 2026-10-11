@@ -17,6 +17,8 @@ sources:
 - https://en.wikipedia.org/wiki/Enniskillen
 - https://www.wikidata.org/wiki/Q990109
 - https://www.enniskillencastle.co.uk/
+tags:
+- fermanagh_lakelands
 title: Enniskillen
 type: location
 vibrancy: 3.466

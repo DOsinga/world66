@@ -17,6 +17,6 @@ Ireland is small enough that a two-week trip can take in both the cities and a s
 
 **[Glendalough](/europe/ireland/glendalough)** in the Wicklow Mountains is an easy day trip from Dublin that most visitors miss. A 6th-century monastic ruin in a valley with good walking trails — and far more atmospheric than the coach-tour crowd it attracts might suggest.
 
-**[Newgrange](/europe/ireland/newgrange)** in the Boyne Valley is the prehistoric monument that defines Ireland's deep past. The passage tomb dates to around 3200 BC and the solstice alignment is precise to within minutes. Visits are by guided tour from the visitor centre at Brú na Bóinne; book online.
+**[Newgrange](/europe/ireland/bru_na_boinne/newgrange)** in the Boyne Valley is the prehistoric monument that defines Ireland's deep past. The passage tomb dates to around 3200 BC and the solstice alignment is precise to within minutes. Visits are by guided tour from the visitor centre at Brú na Bóinne; book online.
 
 **[Donegal](/europe/ireland/donegal)** in the far northwest is the most Celtic of the counties, with large Irish-speaking communities, some of the most dramatic coastal scenery in Ireland (Slieve League, the highest sea cliffs in Europe), and a compelling emptiness that the more visited southwest lacks.

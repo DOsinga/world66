@@ -1,0 +1,32 @@
+---
+heritage: 4.707
+image: bala.jpg
+image_attribution: Llywelyn2000
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Y_Bala,_Gwynedd_-_awyrlun_(aerial_view)_Mehefin_(June)_2023_01.jpg
+latitude: 52.9119
+loc_type: city
+longitude: -3.5977
+nature: 7.837
+off_the_beaten_track: 3.637
+score: 6.343
+snippet: Welsh lakeside town on Llyn Tegid, known for water sports and mountain-edge
+  scenery.
+sources:
+- https://en.wikivoyage.org/wiki/Bala
+- https://visitbala.org.uk/
+- https://www.visitwales.com/activity/activity/national-white-water-centre-canolfan-tryweryn-551161
+- https://en.wikipedia.org/wiki/Bala,_Gwynedd
+tags:
+- snowdonia
+title: Bala
+type: location
+vibrancy: 3.19
+wikidata: Q171923
+---
+
+Bala sits at the northeast end of Llyn Tegid, Wales's largest natural lake, with the hills of southern Eryri rising around it. It is small, Welsh-speaking, and outdoorsy in a way that feels distinct from the busier Snowdon villages to the north.
+
+The lake is the obvious anchor. [Llyn Tegid](/europe/unitedkingdom/wales/bala/llyn_tegid) gives Bala its view, its sailing, and much of its summer life. [Bala Lake Railway](/europe/unitedkingdom/wales/bala/bala_lake_railway) follows the shore by narrow-gauge steam train, while the [National White Water Centre](/europe/unitedkingdom/wales/bala/national_white_water_centre) on the Tryweryn makes the town one of Britain's better white-water bases.
+
+Bala is not polished in the resort sense, which is part of the appeal. Use it for lake time, rafting, walking, and a quieter Eryri base where Welsh is part of the everyday soundscape rather than a decorative sign.

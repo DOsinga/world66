@@ -1,17 +1,21 @@
 ---
+address: Virrey de Mendoza 1565, Col. Félix Ireta, Morelia, Michoacán, 58070
+commercial: true
+email: contacto@mrturista.com
+latitude: 19.683
+longitude: -101.1914
+outreach_code: ZNGKNN
+phone: +52 443 315 7632
+score: 6.0
+snippet: Morelia agency running Michoacán day trips, from Los Azufres to the Tlalpujahua
+  bauble fair
+tags:
+- activities
+- guided_tours
 title: Mr Turista
 type: poi
-commercial: true
-latitude: 19.6830
-longitude: -101.1914
-score: 6.0
-snippet: Morelia agency running Michoacán day trips, from Los Azufres to the Tlalpujahua bauble fair
-tags: [activities, guided_tours]
-address: "Virrey de Mendoza 1565, Col. Félix Ireta, Morelia, Michoacán, 58070"
-phone: "+52 443 315 7632"
-whatsapp: "+52 443 190 2829"
-email: contacto@mrturista.com
 url: mrturista.com
+whatsapp: +52 443 190 2829
 ---
 
 A Morelia agency that sells beach and international packages too, but runs a long list of Michoacán day trips out of the city.

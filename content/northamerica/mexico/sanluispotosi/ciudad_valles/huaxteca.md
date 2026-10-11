@@ -1,17 +1,22 @@
 ---
-title: Huaxteca
-type: poi
+address: Boulevard México–Laredo 237, Col. Obrera, Ciudad Valles, San Luis Potosí,
+  79050
 commercial: true
+email: info@huaxteca.com
 latitude: 21.9833
 longitude: -99.0167
+outreach_code: X2XWMK
+phone: +52 481 382 1371
 score: 6.9
-snippet: Twenty years running the Huasteca's rivers, waterfalls and rappels out of Valles
-tags: [activities, canyoning]
-address: "Boulevard México–Laredo 237, Col. Obrera, Ciudad Valles, San Luis Potosí, 79050"
-phone: "+52 481 382 1371"
-whatsapp: "+52 481 106 3230"
-email: info@huaxteca.com
+snippet: Twenty years running the Huasteca's rivers, waterfalls and rappels out of
+  Valles
+tags:
+- activities
+- canyoning
+title: Huaxteca
+type: poi
 url: huaxteca.com
+whatsapp: +52 481 106 3230
 ---
 
 Twenty years on these rivers, working out of an office on the Laredo road opposite the Misión hotel, and the most established adventure operator in the region.

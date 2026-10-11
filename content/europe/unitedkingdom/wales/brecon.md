@@ -1,17 +1,23 @@
 ---
-title: Brecon
-type: location
-loc_type: city
+heritage: 4.482
+image: brecon.jpg
+image_attribution: Trevor Rickard
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:River_Usk_at_Brecon_-_geograph.org.uk_-_2981969.jpg
 latitude: 51.947
+loc_type: city
 longitude: -3.391
+nature: 6.373
+off_the_beaten_track: 3.763
 score: 5.337
 snippet: Usk Valley market town and classic base for Bannau Brycheiniog walks.
 source: Wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Brecon
-heritage: 4.482
+tags:
+- brecon_beacons
+title: Brecon
+type: location
 vibrancy: 2.332
-nature: 6.373
-off_the_beaten_track: 3.763
 ---
 
 *Europe > United Kingdom > Wales > Brecon*

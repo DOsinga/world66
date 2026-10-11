@@ -3,6 +3,7 @@ commercial: true
 email: Sac@lto.com.py
 latitude: -25.5104528
 longitude: -54.6056197
+outreach_code: W2P68S
 phone: +595 983 945 945
 score: 6.9
 snippet: Ciudad del Este city tour with Monday falls entry, Gs 130.000, twice a day

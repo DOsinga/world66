@@ -1,14 +1,18 @@
 ---
+commercial: true
+email: alfredotourguide@gmail.com
+latitude: 19.702
+longitude: -101.1923
+outreach_code: TD846C
+phone: +52 443 443 2070
+score: 6.3
+snippet: Morelia guide and driver of twenty-five years for El Rosario, Paricutín and
+  the Day of the Dead
+tags:
+- activities
+- guided_tours
 title: Alfredo Tour Guide
 type: poi
-commercial: true
-latitude: 19.7020
-longitude: -101.1923
-score: 6.3
-snippet: Morelia guide and driver of twenty-five years for El Rosario, Paricutín and the Day of the Dead
-tags: [activities, guided_tours]
-phone: "+52 443 443 2070"
-email: alfredotourguide@gmail.com
 url: alfredotourguide.mx
 ---
 

@@ -1,17 +1,21 @@
 ---
-title: HGO Adventures
-type: poi
+address: Comunidad La Presa, Mineral del Chico, Hidalgo
 commercial: true
+email: info@hgoadventures.mx
 latitude: 20.2169
 longitude: -98.7592
+outreach_code: C7KKRP
+phone: +52 771 261 1435
 score: 6.6
-snippet: Via ferrata up La Tanda, canyoning and a 180-metre rappel, twenty minutes out of Mineral del Chico
-tags: [activities, canyoning]
-address: "Comunidad La Presa, Mineral del Chico, Hidalgo"
-phone: "+52 771 261 1435"
-whatsapp: "+52 771 261 1435"
-email: info@hgoadventures.mx
+snippet: Via ferrata up La Tanda, canyoning and a 180-metre rappel, twenty minutes
+  out of Mineral del Chico
+tags:
+- activities
+- canyoning
+title: HGO Adventures
+type: poi
 url: hgoadventures.mx
+whatsapp: +52 771 261 1435
 ---
 
 An adventure park in the community of La Presa, twenty minutes from the centre of Mineral del Chico, working the rock towers and pine forest of El Chico national park.

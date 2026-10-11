@@ -1,16 +1,20 @@
 ---
-title: Magia Xplora Tours
-type: poi
 commercial: true
+email: info@magiaxploratours.com
 latitude: 19.8056
 longitude: -100.1734
+outreach_code: DQ7S35
+phone: +52 447 105 9759
 score: 6.4
-snippet: Tlalpujahua's own operator — the Dos Estrellas mine, the buried church, glass baubles and the monarchs
-tags: [activities, guided_tours]
-phone: "+52 447 105 9759"
-whatsapp: "+52 447 105 9759"
-email: info@magiaxploratours.com
+snippet: Tlalpujahua's own operator — the Dos Estrellas mine, the buried church, glass
+  baubles and the monarchs
+tags:
+- activities
+- guided_tours
+title: Magia Xplora Tours
+type: poi
 url: magiaxploratours.com
+whatsapp: +52 447 105 9759
 ---
 
 A receptive operator based in Tlalpujahua itself, which makes it the rare company selling the monarchs from the eastern side of the sanctuaries rather than from Morelia or Mexico City. They publish no street address, so the pin is on the town.

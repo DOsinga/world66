@@ -1,14 +1,18 @@
 ---
+address: Silverio Núñez 100, Tequila, Jalisco
+commercial: true
+latitude: 20.882
+longitude: -103.837
+outreach_code: FR8K7P
+phone: +52 374 742 0246
+score: 6.3
+snippet: The Orendain family's El Llano distillery, founded in 1900, open for booked
+  visits
+tags:
+- activities
+- winery
 title: Tequila Arette
 type: poi
-commercial: true
-latitude: 20.8820
-longitude: -103.8370
-score: 6.3
-snippet: The Orendain family's El Llano distillery, founded in 1900, open for booked visits
-tags: [activities, winery]
-address: "Silverio Núñez 100, Tequila, Jalisco"
-phone: "+52 374 742 0246"
 url: tequilaarette.com
 ---
 

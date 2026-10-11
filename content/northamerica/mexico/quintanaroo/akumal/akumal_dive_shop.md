@@ -1,15 +1,18 @@
 ---
-title: Akumal Dive Shop
-type: poi
+address: Akumal, Riviera Maya, Quintana Roo
 commercial: true
+email: sales@akumaldiveshop.com
 latitude: 20.3975
 longitude: -87.3155
+outreach_code: 34NNXC
+phone: +52 984 875 9031
 score: 6.6
 snippet: PADI five-star shop running turtle snorkels, reef, cenotes and a catamaran
-tags: [activities, diving]
-address: "Akumal, Riviera Maya, Quintana Roo"
-phone: "+52 984 875 9031"
-email: sales@akumaldiveshop.com
+tags:
+- activities
+- diving
+title: Akumal Dive Shop
+type: poi
 url: akumaldiveshop.com
 ---
 

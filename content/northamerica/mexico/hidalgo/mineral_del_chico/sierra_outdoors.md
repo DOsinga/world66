@@ -1,16 +1,20 @@
 ---
-title: Sierra Outdoors
-type: poi
+address: 2 de Noviembre s/n, Mineral del Chico, Hidalgo, 42122
 commercial: true
+email: info@sierraoutdoorsmx.com
 latitude: 20.2091
 longitude: -98.7289
+outreach_code: 4C9MDP
 score: 6.4
-snippet: Rappel and canyoning at Salto de las Palomas, sunrise and forest walks above the Pueblo Mágico
-tags: [activities, trekking]
-address: "2 de Noviembre s/n, Mineral del Chico, Hidalgo, 42122"
-whatsapp: "+52 771 326 7335"
-email: info@sierraoutdoorsmx.com
+snippet: Rappel and canyoning at Salto de las Palomas, sunrise and forest walks above
+  the Pueblo Mágico
+tags:
+- activities
+- trekking
+title: Sierra Outdoors
+type: poi
 url: sierraoutdoorsmx.com
+whatsapp: +52 771 326 7335
 ---
 
 A Mineral del Chico outfit of local guides, based in the village itself, splitting its trips between the vertical and the gentle.

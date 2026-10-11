@@ -1,17 +1,20 @@
 ---
-title: Akumal Dive Center
-type: poi
+address: Carretera Cancún–Chetumal km 104, Akumal, Quintana Roo
 commercial: true
+email: dive@akumaldivecenter.com
 latitude: 20.3988
 longitude: -87.3173
+outreach_code: Z679V9
+phone: +52 984 151 8775
 score: 6.7
 snippet: The oldest dive centre in Akumal, on the bay, eight till five every day
-tags: [activities, diving]
-address: "Carretera Cancún–Chetumal km 104, Akumal, Quintana Roo"
-phone: "+52 984 151 8775"
-whatsapp: "+52 984 151 8775"
-email: dive@akumaldivecenter.com
+tags:
+- activities
+- diving
+title: Akumal Dive Center
+type: poi
 url: akumaldivecenter.com
+whatsapp: +52 984 151 8775
 ---
 
 The oldest dive operation in Akumal, on the bay itself a hundred kilometres south of Cancún, open every day from eight until five.

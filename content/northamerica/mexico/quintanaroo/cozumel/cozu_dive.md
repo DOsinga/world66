@@ -1,14 +1,18 @@
 ---
-title: Cozu Dive
-type: poi
+address: Cozumel, Quintana Roo
 commercial: true
+email: info@cozudive.com
 latitude: 20.4321
 longitude: -86.9207
+outreach_code: YCWYPB
 score: 6.4
-snippet: Cozumel shop working the wall drifts along the island's protected south-west reefs
-tags: [activities, diving]
-address: Cozumel, Quintana Roo
-email: info@cozudive.com
+snippet: Cozumel shop working the wall drifts along the island's protected south-west
+  reefs
+tags:
+- activities
+- diving
+title: Cozu Dive
+type: poi
 url: cozudive.com
 ---
 

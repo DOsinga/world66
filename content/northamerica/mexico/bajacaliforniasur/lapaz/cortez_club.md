@@ -1,15 +1,18 @@
 ---
-title: Cortez Club
-type: poi
+address: Carretera a Pichilingue km 5, La Paz, Baja California Sur, 23010
 commercial: true
+email: info@cortezclub.com
 latitude: 24.2192
 longitude: -110.3003
+outreach_code: PGVJBH
+phone: +52 612 127 1614
 score: 6.9
 snippet: Long-established dive and snorkel operation out on the Pichilingue road
-tags: [activities, diving]
-address: "Carretera a Pichilingue km 5, La Paz, Baja California Sur, 23010"
-phone: "+52 612 127 1614"
-email: info@cortezclub.com
+tags:
+- activities
+- diving
+title: Cortez Club
+type: poi
 url: cortezclub.com
 ---
 

@@ -2,10 +2,12 @@
 latitude: 52.1635
 longitude: -4.4772
 score: 7.6
-snippet: Small headland island reached by one of the finest short walks on the Ceredigion coast.
+snippet: Small headland island reached by one of the finest short walks on the Ceredigion
+  coast.
 sources:
 - https://www.walescoastpath.gov.uk/places-to-go/snowdonia-and-ceredigion-coast/walks-to-explore-the-area-snowdonia-and-ceredigion-coast/?lang=en
 - https://www.visitmidwales.co.uk/things-to-do/ceredigion-coast-path-llangrannog-new-quay-p1741441
+- https://www.discoverceredigion.wales/outdoor-activities-and-adventures/coastal-wildlife-spotting/
 tags:
 - things_to_do
 - sight

@@ -3,6 +3,7 @@ commercial: true
 email: procosara@procosara.org
 latitude: -26.638556
 longitude: -55.664306
+outreach_code: QNR5PL
 score: 6.7
 snippet: The NGO that guards San Rafael, with four trails, a cabin and a bus that
   actually goes there

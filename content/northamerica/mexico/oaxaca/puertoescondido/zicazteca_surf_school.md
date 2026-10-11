@@ -1,15 +1,18 @@
 ---
-title: Zicazteca Surf School
-type: poi
+address: Zicatela, Puerto Escondido, Oaxaca
 commercial: true
+email: zicazteca@gmail.com
 latitude: 15.8559
 longitude: -97.0577
+outreach_code: CQ2J5D
+phone: +52 954 127 9442
 score: 6.4
 snippet: Long-running Zicatela school teaching all levels in English or Spanish
-tags: [activities, surf]
-address: "Zicatela, Puerto Escondido, Oaxaca"
-phone: "+52 954 127 9442"
-email: zicazteca@gmail.com
+tags:
+- activities
+- surf
+title: Zicazteca Surf School
+type: poi
 url: zicazteca.com
 ---
 

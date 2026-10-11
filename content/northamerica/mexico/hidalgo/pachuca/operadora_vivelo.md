@@ -1,17 +1,22 @@
 ---
-title: Operadora Vívelo
-type: poi
+address: Blvd. Luis Donaldo Colosio 1501, Local 26, Col. Venta Prieta, Pachuca de
+  Soto, Hidalgo, 42080
 commercial: true
+email: ventas1@operadoravivelo.com
 latitude: 20.0908
 longitude: -98.7524
+outreach_code: XD9PZY
+phone: +52 771 138 3118
 score: 6.2
-snippet: Pachuca operator with day tours and short packages across Hidalgo, from Pachuca or Mexico City
-tags: [activities, guided_tours]
-address: "Blvd. Luis Donaldo Colosio 1501, Local 26, Col. Venta Prieta, Pachuca de Soto, Hidalgo, 42080"
-phone: "+52 771 138 3118"
-whatsapp: "+52 771 138 3118"
-email: ventas1@operadoravivelo.com
+snippet: Pachuca operator with day tours and short packages across Hidalgo, from Pachuca
+  or Mexico City
+tags:
+- activities
+- guided_tours
+title: Operadora Vívelo
+type: poi
 url: operadoravivelo.com
+whatsapp: +52 771 138 3118
 ---
 
 A Pachuca receptive operator running shared day tours and two-to-five-day packages around Hidalgo, leaving from Pachuca or from Mexico City.

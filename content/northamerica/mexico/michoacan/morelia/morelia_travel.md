@@ -1,16 +1,20 @@
 ---
-title: Morelia Travel
-type: poi
+address: Aldama 415-A, Centro, Morelia, Michoacán, 58000
 commercial: true
 latitude: 19.6998
 longitude: -101.1942
+outreach_code: 5GRGJS
+phone: +52 443 425 5427
 score: 6.3
-snippet: Centro agency with daily departures to Pátzcuaro, Paricutín, Tlalpujahua and the monarchs
-tags: [activities, guided_tours]
-address: "Aldama 415-A, Centro, Morelia, Michoacán, 58000"
-phone: "+52 443 425 5427"
-whatsapp: "+52 443 100 8477"
+snippet: Centro agency with daily departures to Pátzcuaro, Paricutín, Tlalpujahua
+  and the monarchs
+tags:
+- activities
+- guided_tours
+title: Morelia Travel
+type: poi
 url: moreliatravel.com
+whatsapp: +52 443 100 8477
 ---
 
 A travel agency in the historic centre whose Michoacán tours all leave from Morelia with transport and a certified guide, on published daily departures.

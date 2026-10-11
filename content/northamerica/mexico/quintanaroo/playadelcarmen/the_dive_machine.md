@@ -1,17 +1,21 @@
 ---
+address: Calle 6 Norte Bis 227, Solidaridad, 77710 Playa del Carmen
+commercial: true
+email: info@thedivemachine.com
+latitude: 20.6291
+longitude: -87.079
+outreach_code: 4QSZJ7
+phone: +52 998 291 2220
+score: 6.6
+snippet: Playa del Carmen shop two streets from the beach, reef drifts and the cenotes
+  inland
+tags:
+- activities
+- diving
 title: The Dive Machine
 type: poi
-commercial: true
-latitude: 20.6291
-longitude: -87.0790
-score: 6.6
-snippet: Playa del Carmen shop two streets from the beach, reef drifts and the cenotes inland
-tags: [activities, diving]
-address: "Calle 6 Norte Bis 227, Solidaridad, 77710 Playa del Carmen"
-phone: "+52 998 291 2220"
-whatsapp: "+52 998 291 2220"
-email: info@thedivemachine.com
 url: thedivemachine.com
+whatsapp: +52 998 291 2220
 ---
 
 A shop a couple of streets back from the beach in Playa, diving the reef straight offshore and driving inland for the cenotes.

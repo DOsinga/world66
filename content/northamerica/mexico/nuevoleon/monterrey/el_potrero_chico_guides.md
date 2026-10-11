@@ -1,15 +1,19 @@
 ---
-title: El Potrero Chico Guides
-type: poi
+address: Nicolás Bravo 204, Hidalgo, Nuevo León
 commercial: true
+email: mark@epcguides.com
 latitude: 25.9805
 longitude: -100.4489
+outreach_code: LX9XYR
+phone: +1 802 922 4598
 score: 6.5
-snippet: AMGA-certified guide teaching multi-pitch on the big limestone walls of Potrero Chico
-tags: [activities, mountaineering]
-address: "Nicolás Bravo 204, Hidalgo, Nuevo León"
-phone: "+1 802 922 4598"
-email: mark@epcguides.com
+snippet: AMGA-certified guide teaching multi-pitch on the big limestone walls of Potrero
+  Chico
+tags:
+- activities
+- mountaineering
+title: El Potrero Chico Guides
+type: poi
 url: elpotrerochicoguides.com
 ---
 

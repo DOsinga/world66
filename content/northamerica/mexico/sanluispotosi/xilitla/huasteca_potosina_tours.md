@@ -1,16 +1,19 @@
 ---
-title: Huasteca Potosina Tours
-type: poi
+address: Xilitla, San Luis Potosí
 commercial: true
+email: hola@huasteca-potosina.com
 latitude: 21.3864
 longitude: -98.9904
+outreach_code: PLSZT2
 score: 6.6
 snippet: Xilitla-based operator with its own guides, running daily into the Huasteca
-tags: [activities, canyoning]
-address: "Xilitla, San Luis Potosí"
-whatsapp: "+52 489 109 0388"
-email: hola@huasteca-potosina.com
+tags:
+- activities
+- canyoning
+title: Huasteca Potosina Tours
+type: poi
 url: huasteca-potosina.com
+whatsapp: +52 489 109 0388
 ---
 
 Based in Xilitla rather than Ciudad Valles, which puts them at the southern end of the region and closer to Las Pozas, with their own guides rather than subcontracted ones and departures every day.

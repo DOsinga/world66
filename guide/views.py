@@ -906,7 +906,8 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "is_poi": page.page_type == "poi",
         "poi_categories": poi_categories,
         "poi_context_prefix": poi_context_prefix,
-        "inline_sections": inline_sections,
+        "inline_sections": _inline_without_activities(inline_sections, location_providers),
+        "sections_inlined": inline_sections is not None,
         "linked_locations": linked_locations,
         "daytrip_cards": daytrip_cards,
         "more_linked_locations": more_linked_locations,
@@ -1517,3 +1518,14 @@ def _file_to_url_path(file_path):
     if len(parts) >= 2 and parts[-1] == parts[-2]:
         parts = parts[:-1]
     return '/'.join(parts)
+
+
+def _inline_without_activities(inline_sections, location_providers):
+    """On a small city whose sections are inlined, the Activities section would
+    list the same providers the "Arrange your trip" panel already shows, so it
+    is dropped there rather than repeated as a section of its own."""
+    if not inline_sections or not location_providers:
+        return inline_sections
+    kept = [item for item in inline_sections
+            if item["section"].slug != "activities" and item["section"].nav_tag != "activities"]
+    return kept

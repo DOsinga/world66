@@ -363,7 +363,7 @@
 {% endfor %}
 {% endif %}
 
-{% if page.page_type == "location" and sections and not inline_sections %}
+{% if page.page_type == "location" and sections and not sections_inlined %}
 <div class="sections-row-wrap">
   <span class="section-kicker">Guide</span>
   <h2 class="section-block-heading">Sections</h2>
@@ -388,18 +388,29 @@
 </div>
 {% endif %}
 
-{% if page.page_type == "location" and inline_sections and location_bloglists %}
-<div class="sections-row-wrap">
-  <div class="sections-row">
-    {% for bl in location_bloglists %}
-    <a href="{{ bl.get_absolute_url }}" class="section-card" data-slug="blogs">
-      <div class="section-card-icon"></div>
-      <div class="section-card-name">Blogs</div>
-      <span class="section-card-arrow">&#8594;</span>
-    </a>
+{% if page.page_type == "location" and sections_inlined and location_bloglists %}
+{# A small city's sections are inlined, so its bloglist is too, instead of
+   standing alone as the one remaining section card. #}
+{% for bl in location_bloglists %}
+<div class="poi-section poi-section--inline bloglist-section" id="blogs">
+  <span class="section-kicker">Further Reading</span>
+  <h2 class="poi-section-title"><a href="{{ bl.get_absolute_url }}">{{ bl.title }}</a></h2>
+  <ol class="bloglist-grid">
+    {% for blog in bl.blog_entries %}
+    <li class="bloglist-card" id="{{ blog.anchor }}">
+      <a class="bloglist-card-link" href="{{ blog.url }}" target="_blank" rel="noopener noreferrer">
+        <span class="bloglist-rank">{{ forloop.counter|stringformat:"02d" }}</span>
+        <span class="bloglist-txt">
+          <span class="bloglist-name">{{ blog.name }}</span>
+          <span class="bloglist-domain">{{ blog.domain }}{% if blog.author %} &middot; {{ blog.author }}{% endif %}</span>
+          {% if blog.note %}<span class="bloglist-note">{{ blog.note }}</span>{% endif %}
+        </span>
+      </a>
+    </li>
     {% endfor %}
-  </div>
+  </ol>
 </div>
+{% endfor %}
 {% endif %}
 
 {% if tags %}

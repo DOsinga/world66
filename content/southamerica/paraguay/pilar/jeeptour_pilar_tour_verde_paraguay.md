@@ -3,6 +3,7 @@ commercial: true
 email: tourverdeparaguay@gmail.com
 latitude: -26.8583
 longitude: -58.3034
+outreach_code: QGTJW6
 phone: +595 971 853 537
 score: 6.0
 snippet: A jeep round Pilar's colonial centre and out to the old river defences

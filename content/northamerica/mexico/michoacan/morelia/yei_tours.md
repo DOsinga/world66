@@ -1,15 +1,19 @@
 ---
-title: Yei Tours
-type: poi
+address: Bosque de Oyameles XII 4C, Bosques Tres Marías, Morelia, Michoacán, 58200
 commercial: true
+email: contacto@yei.tours
 latitude: 19.7176
 longitude: -101.0988
+outreach_code: BN4G6M
+phone: +52 443 275 7807
 score: 6.1
-snippet: Private tours from Morelia hotels with lunch and entries included — Pátzcuaro, Janitzio, Sierra Chincua
-tags: [activities, guided_tours]
-address: "Bosque de Oyameles XII 4C, Bosques Tres Marías, Morelia, Michoacán, 58200"
-phone: "+52 443 275 7807"
-email: contacto@yei.tours
+snippet: Private tours from Morelia hotels with lunch and entries included — Pátzcuaro,
+  Janitzio, Sierra Chincua
+tags:
+- activities
+- guided_tours
+title: Yei Tours
+type: poi
 url: yei.tours
 ---
 

@@ -1,14 +1,17 @@
 ---
-title: Club Tengo Hambre
-type: poi
+address: Ciudad de México
 commercial: true
+email: hola@clubtengohambre.com
 latitude: 19.4326
 longitude: -99.1332
+outreach_code: DH4C72
 score: 6.5
 snippet: Long-running taco and street-food crawls, by email booking only
-tags: [activities, guided_tours]
-address: "Ciudad de México"
-email: hola@clubtengohambre.com
+tags:
+- activities
+- guided_tours
+title: Club Tengo Hambre
+type: poi
 url: clubtengohambre.com
 ---
 

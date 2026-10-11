@@ -1,14 +1,18 @@
 ---
-title: IBO Adventures
-type: poi
+address: Cola de Caballo, Santiago, Nuevo León
 commercial: true
 latitude: 25.3654
 longitude: -100.1629
+outreach_code: B9ZMJH
+phone: +52 81 1501 4250
 score: 6.0
-snippet: Bungee, zip lines and hanging bridges at Cola de Caballo, plus Matacanes from El Cercado
-tags: [activities, adventure_park]
-address: "Cola de Caballo, Santiago, Nuevo León"
-phone: "+52 81 1501 4250"
+snippet: Bungee, zip lines and hanging bridges at Cola de Caballo, plus Matacanes
+  from El Cercado
+tags:
+- activities
+- adventure_park
+title: IBO Adventures
+type: poi
 url: ibo.com.mx
 ---
 

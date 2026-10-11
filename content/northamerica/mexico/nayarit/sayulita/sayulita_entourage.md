@@ -1,15 +1,18 @@
 ---
-title: Sayulita Entourage
-type: poi
+address: Calle Miramar 20, Centro, Sayulita, Nayarit, 63734
 commercial: true
+email: info@sayulitaentourage.com
 latitude: 20.8699
 longitude: -105.4366
+outreach_code: 32TXGZ
+phone: +52 322 191 1066
 score: 6.5
 snippet: Small-group Marietas, whale watching and diving from Calle Miramar
-tags: [activities, boating]
-address: "Calle Miramar 20, Centro, Sayulita, Nayarit, 63734"
-phone: "+52 322 191 1066"
-email: info@sayulitaentourage.com
+tags:
+- activities
+- boating
+title: Sayulita Entourage
+type: poi
 url: sayulitaentourage.com
 ---
 

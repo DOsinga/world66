@@ -1,15 +1,19 @@
 ---
-title: Holbox Tours
-type: poi
+address: Holbox, Quintana Roo, 77310
 commercial: true
+email: info@holboxtours.com
 latitude: 21.5235
 longitude: -87.3778
+outreach_code: 8VKVBM
+phone: +52 984 108 7514
 score: 6.2
-snippet: Shared and private whale shark boats out of the island, booked ahead from the mainland
-tags: [activities, boating]
-address: "Holbox, Quintana Roo, 77310"
-phone: "+52 984 108 7514"
-email: info@holboxtours.com
+snippet: Shared and private whale shark boats out of the island, booked ahead from
+  the mainland
+tags:
+- activities
+- boating
+title: Holbox Tours
+type: poi
 url: holboxtours.com
 ---
 

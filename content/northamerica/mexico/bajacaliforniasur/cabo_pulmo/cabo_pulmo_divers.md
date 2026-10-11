@@ -1,17 +1,20 @@
 ---
-title: Cabo Pulmo Divers
-type: poi
+address: Cabo Pulmo, Baja California Sur, 23570
 commercial: true
+email: cabopulmodivers90@gmail.com
 latitude: 23.4448
 longitude: -109.4247
+outreach_code: P8K4W4
+phone: +52 612 291 2612
 score: 6.6
 snippet: Small village dive operation working the park's pinnacles and the jack school
-tags: [activities, diving]
-address: "Cabo Pulmo, Baja California Sur, 23570"
-phone: "+52 612 291 2612"
-whatsapp: "+52 612 291 2612"
-email: cabopulmodivers90@gmail.com
+tags:
+- activities
+- diving
+title: Cabo Pulmo Divers
+type: poi
 url: cabopulmodivers.com
+whatsapp: +52 612 291 2612
 ---
 
 A small outfit in the village diving the park's granite pinnacles and the coral fingers, and the reliable place to ask about where the jacks have been schooling that week.

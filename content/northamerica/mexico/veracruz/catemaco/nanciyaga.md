@@ -1,15 +1,19 @@
 ---
-title: Nanciyaga
-type: poi
+address: Carretera Catemaco–Coyame km 7, Catemaco, Veracruz, 95870
 commercial: true
 latitude: 18.4483
 longitude: -95.0688
+outreach_code: 33825M
 score: 6.9
-snippet: Rainforest reserve on the lake shore — mud baths, temazcal, springs and a boat in
-tags: [activities, jungle_tours]
-address: "Carretera Catemaco–Coyame km 7, Catemaco, Veracruz, 95870"
-whatsapp: "+52 294 129 2037"
+snippet: Rainforest reserve on the lake shore — mud baths, temazcal, springs and a
+  boat in
+tags:
+- activities
+- jungle_tours
+title: Nanciyaga
+type: poi
 url: nanciyaga.com
+whatsapp: +52 294 129 2037
 ---
 
 An ecological reserve on the northern shore of Lake Catemaco, in the last substantial patch of lowland rainforest at this latitude anywhere on the American Pacific side — Los Tuxtlas is the northernmost tropical rainforest in the Americas, and this is a piece of it.

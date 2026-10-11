@@ -1,15 +1,19 @@
 ---
-title: Vena Cava
-type: poi
+address: Rancho San Marcos, Toros Pintos s/n, Ejido Francisco Zarco, Valle de Guadalupe,
+  Ensenada, Baja California, 22750
 commercial: true
+email: info@venacavawine.com
 latitude: 32.0953
 longitude: -116.5719
+outreach_code: 98NCCK
+phone: +52 646 156 8053
 score: 7.0
 snippet: Natural winery under upturned boat hulls, tastings daily eleven to five
-tags: [activities, winery]
-address: "Rancho San Marcos, Toros Pintos s/n, Ejido Francisco Zarco, Valle de Guadalupe, Ensenada, Baja California, 22750"
-phone: "+52 646 156 8053"
-email: info@venacavawine.com
+tags:
+- activities
+- winery
+title: Vena Cava
+type: poi
 url: venacavawine.com
 ---
 

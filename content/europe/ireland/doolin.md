@@ -16,12 +16,13 @@ snippet: Tiny Clare coast village where the Burren meets the Atlantic near the C
   of Moher.
 tags:
 - clare
+- the_burren
 title: Doolin
 type: location
 vibrancy: 4.821
 ---
 
-Doolin is a tiny village on the Clare coast, spread across three clusters of houses — Roadford, Fishstreet, and the pier — linked by a single road that ends where the limestone of [the Burren](/europe/ireland/doolin/the_burren) meets the Atlantic. Look south from [the pier](/europe/ireland/doolin/doolin_pier) and the [Cliffs of Moher](/europe/ireland/doolin/cliffs_of_moher) rise along the coast.
+Doolin is a tiny village on the Clare coast, spread across three clusters of houses — Roadford, Fishstreet, and the pier — linked by a single road that ends where the limestone of [the Burren](/europe/ireland/the_burren) meets the Atlantic. Look south from [the pier](/europe/ireland/doolin/doolin_pier) and the [Cliffs of Moher](/europe/ireland/doolin/cliffs_of_moher) rise along the coast.
 
 The village is famous for traditional Irish music. There are only three pubs, so you can check them all in one evening. [O'Connor's](/europe/ireland/doolin/oconnors_pub) has a seisiún most nights and is the best known, but [McDermott's](/europe/ireland/doolin/mcdernotts_pub) and [McGann's](/europe/ireland/doolin/mcganns_pub) are equally worth a visit. The music is genuine, not staged — this has been a centre for Clare-style traditional playing for decades.
 

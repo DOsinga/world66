@@ -3,6 +3,7 @@ commercial: true
 email: cturistico@itaipu.gov.py
 latitude: -25.4286241
 longitude: -54.6366563
+outreach_code: 7SG6SF
 phone: +595 61 599 8040
 score: 7.2
 snippet: The dam's own visitor operation at Hernandarias — hourly plant tours, the

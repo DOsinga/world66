@@ -1,13 +1,17 @@
 ---
+commercial: true
+latitude: 20.882
+longitude: -103.837
+outreach_code: 5QBLCG
+phone: +52 374 742 0154
+score: 6.5
+snippet: Small traditional distillery that still crushes agave with a stone tahona
+  — visits by appointment only
+tags:
+- activities
+- winery
 title: Tequila Fortaleza
 type: poi
-commercial: true
-latitude: 20.8820
-longitude: -103.8370
-score: 6.5
-snippet: Small traditional distillery that still crushes agave with a stone tahona — visits by appointment only
-tags: [activities, winery]
-phone: "+52 374 742 0154"
 url: tequilafortaleza.com
 ---
 

@@ -1,14 +1,17 @@
 ---
-title: Mazatlán Travel Club
-type: poi
+address: Mazatlán, Sinaloa
 commercial: true
+email: mazatlantravelclub@gmail.com
 latitude: 23.2036
 longitude: -106.4208
+outreach_code: 5PCZ3V
 score: 6.1
 snippet: Private driver-guided days, including the pulmonía tour of the old town
-tags: [activities, guided_tours]
-address: "Mazatlán, Sinaloa"
-email: mazatlantravelclub@gmail.com
+tags:
+- activities
+- guided_tours
+title: Mazatlán Travel Club
+type: poi
 url: mazatlantravelclub.com
 ---
 

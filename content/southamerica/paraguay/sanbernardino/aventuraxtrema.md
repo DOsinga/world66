@@ -3,6 +3,7 @@ commercial: true
 email: info@aventuraxtrema.com.py
 latitude: -25.3103165
 longitude: -57.2992675
+outreach_code: TY9GM2
 phone: +595 961 639 422
 score: 6.8
 snippet: Fourteen adventures off Lago Ypacaraí, including PADI diving in a flooded

@@ -1,15 +1,19 @@
 ---
+address: Km 5.2 Carretera Costera Mahahual–Xcalak, Mahahual, Quintana Roo
+commercial: true
+email: info@diveadventuremahahual.com
+latitude: 18.69
+longitude: -87.698
+outreach_code: F9F75H
+phone: +52 983 102 0954
+score: 6.4
+snippet: Shop five kilometres down the coast road, reef diving away from the cruise
+  pier
+tags:
+- activities
+- diving
 title: Dive and Adventure Mahahual
 type: poi
-commercial: true
-latitude: 18.6900
-longitude: -87.6980
-score: 6.4
-snippet: Shop five kilometres down the coast road, reef diving away from the cruise pier
-tags: [activities, diving]
-address: "Km 5.2 Carretera Costera Mahahual–Xcalak, Mahahual, Quintana Roo"
-phone: "+52 983 102 0954"
-email: info@diveadventuremahahual.com
 url: diveadventuremahahual.com
 ---
 

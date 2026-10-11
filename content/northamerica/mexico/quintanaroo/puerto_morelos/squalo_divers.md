@@ -1,17 +1,20 @@
 ---
-title: Squalo Divers
-type: poi
+address: Av. Javier Rojo Gómez s/n, Mz 24 Lote 2-01, 77580 Puerto Morelos
 commercial: true
+email: info@squalodivers.com
 latitude: 20.8522
-longitude: -86.8740
+longitude: -86.874
+outreach_code: BMMTBR
+phone: +52 998 200 6000
 score: 6.7
 snippet: Reef and cenote diving from the village, open seven till seven
-tags: [activities, diving]
-address: "Av. Javier Rojo Gómez s/n, Mz 24 Lote 2-01, 77580 Puerto Morelos"
-phone: "+52 998 200 6000"
-whatsapp: "+52 998 200 6000"
-email: info@squalodivers.com
+tags:
+- activities
+- diving
+title: Squalo Divers
+type: poi
 url: squalodivers.com
+whatsapp: +52 998 200 6000
 ---
 
 On the main street through Puerto Morelos village, five minutes from the pier the boats leave from, open seven in the morning until seven at night.

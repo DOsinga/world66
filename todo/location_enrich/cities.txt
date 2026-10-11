@@ -4414,7 +4414,7 @@ northamerica/mexico/chetumal
 asia/iran/mahdishar
 europe/faroeislands/torshavn
 europe/bulgaria/blagoevgrad
-europe/unitedkingdom/wales/snowdonia/llanberis
+europe/unitedkingdom/wales/llanberis
 europe/italy/liguria/italianriviera/rivieradellepalme/bergeggi
 africa/kenya/theriftvalley/naivasha
 northamerica/unitedstates/washington/olympia
@@ -5816,7 +5816,7 @@ europe/italy/trentinoaltoadige/val_di_fassa/canazei
 northamerica/costarica/playa_herradura
 northamerica/unitedstates/georgia/valdosta
 europe/azerbaijan/sumgait
-europe/unitedkingdom/wales/snowdonia/betwsycoed
+europe/unitedkingdom/wales/betwsycoed
 africa/centralafricanrepublic/zinga
 northamerica/unitedstates/massachusetts/concord
 asia/srilanka/haththikuchchi

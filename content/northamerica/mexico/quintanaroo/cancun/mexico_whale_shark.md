@@ -1,17 +1,20 @@
 ---
-title: Mexico Whale Shark
-type: poi
+address: Av. Puerto Juárez SM 86 Mz 53, Cancún, Quintana Roo, 77520
 commercial: true
+email: info@mexicowhaleshark.com
 latitude: 21.1768
 longitude: -86.8428
+outreach_code: 9Y3738
+phone: +52 999 278 4313
 score: 6.5
 snippet: Whale shark boats out of Puerto Juárez, small groups, May to September
-tags: [activities, boating]
-address: "Av. Puerto Juárez SM 86 Mz 53, Cancún, Quintana Roo, 77520"
-phone: "+52 999 278 4313"
-whatsapp: "+52 999 278 4313"
-email: info@mexicowhaleshark.com
+tags:
+- activities
+- boating
+title: Mexico Whale Shark
+type: poi
 url: mexicowhaleshark.com
+whatsapp: +52 999 278 4313
 ---
 
 Based at Puerto Juárez on the north edge of Cancún, where the Isla Mujeres ferries go from, running the **whale shark** trip between roughly May and September.

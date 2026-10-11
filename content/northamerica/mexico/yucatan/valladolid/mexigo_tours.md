@@ -1,15 +1,18 @@
 ---
-title: MexiGo Tours
-type: poi
+address: Calle 41 217 x 46 y 48, Centro, Valladolid, Yucatán
 commercial: true
+email: mexigotours@hotmail.com
 latitude: 20.6894
-longitude: -88.1990
+longitude: -88.199
+outreach_code: MGX6BS
+phone: +52 985 856 0777
 score: 6.6
 snippet: Valladolid agency for Ek Balam, the cenotes, Río Lagartos and Chichén Itzá
-tags: [activities, guided_tours]
-address: "Calle 41 217 x 46 y 48, Centro, Valladolid, Yucatán"
-phone: "+52 985 856 0777"
-email: mexigotours@hotmail.com
+tags:
+- activities
+- guided_tours
+title: MexiGo Tours
+type: poi
 url: mexigotours.com
 ---
 

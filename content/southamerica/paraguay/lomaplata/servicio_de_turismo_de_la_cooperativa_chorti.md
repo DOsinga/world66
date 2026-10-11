@@ -3,6 +3,7 @@ commercial: true
 email: turismo@chortitzer.com.py
 latitude: -22.379863
 longitude: -59.836727
+outreach_code: XTY3K9
 phone: +595 981 200 535
 score: 6.4
 snippet: The Mennonite co-op's own tour — the Menno museum, the Trébol dairy and the

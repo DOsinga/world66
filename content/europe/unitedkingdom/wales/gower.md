@@ -5,7 +5,7 @@ image: gower.jpg
 image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Rhossili.beach.arp.750pix.jpg
 latitude: 51.5756
-loc_type: region
+loc_type: feature
 longitude: -4.1503
 score: 0.56
 snippet: Welsh peninsula west of Swansea, known for dramatic cliffs, sandy bays, and

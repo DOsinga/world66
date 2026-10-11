@@ -3,6 +3,7 @@ commercial: true
 email: karina@paralatierra.org
 latitude: -26.8544226
 longitude: -58.3082239
+outreach_code: K3K29S
 score: 6.3
 snippet: Three weeks of primatology fieldwork out of Pilar, €2,595, howler monkeys
   and telemetry

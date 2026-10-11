@@ -1,18 +1,22 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-latitude: 51.640934
-longitude: -2.676695
-title: Chepstow
-type: location
-score: 5.212
-loc_type: city
-snippet: Welsh border town above the Wye gorge, guarded by Britain's oldest surviving
-  stone castle.
 heritage: 6.208
-vibrancy: 3.662
+image: chepstow.jpg
+image_attribution: Jonathan Billinger
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Chepstow_Castle_above_the_Wye_-_geograph.org.uk_-_8232862.jpg
+latitude: 51.640934
+loc_type: city
+longitude: -2.676695
 nature: 4.608
 off_the_beaten_track: 2.776
+score: 5.212
+snippet: Welsh border town above the Wye gorge, guarded by Britain's oldest surviving
+  stone castle.
+title: Chepstow
+type: location
+vibrancy: 3.662
 ---
 
 Chepstow is the gateway to Wales, the first town you reach crossing the River Wye from England on the main road into South Wales. The town sits dramatically above a gorge in the Wye — one of the most beautiful river gorges in Britain — and its strategic position made it one of the most important fortified towns in medieval Wales. The castle here, begun by the Normans in 1067 just after the Conquest, is the oldest surviving stone fortification in Britain, predating even the Tower of London, and it stands in remarkable condition above the river gorge.

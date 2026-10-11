@@ -17,6 +17,6 @@ url: magellanicnaturetours.com
 whatsapp: +54 9 2901 414248
 ---
 
-A birding specialist in a town most people visit for the scenery. The Tierra del Fuego outings — Laguna Esmeralda, Paso Garibaldi, Monte Susana, the Martial glacier — are walks paced for birds rather than for the summit. They also run photography tours and longer birding trips across Argentina.
+A birding specialist in a town most people visit for the scenery. The Tierra del Fuego outings — Laguna Esmeralda, Paso Garibaldi, Monte Susana, the Martial glacier — are walks paced for birds rather than for the summit. Their signature trip is the birding tour in **Tierra del Fuego National Park**, after the species of the southern beech forest: the Magellanic woodpecker, the austral parakeet and the white-throated treerunner. They also run photography tours and longer birding trips across Argentina.
 
 The WhatsApp is on their site and matches the tourism secretariat's trekking register. The address is residential, out west by the Pipo.

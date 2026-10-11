@@ -2,6 +2,7 @@
 commercial: true
 latitude: -25.7824
 longitude: -56.4462
+outreach_code: 2DSNLL
 phone: +595 982 502806
 score: 6.0
 snippet: The Guairá's local guide — seven churches, and the ao po'i from cotton field

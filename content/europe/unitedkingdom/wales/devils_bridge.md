@@ -1,11 +1,15 @@
 ---
-title: Devil's Bridge
-type: location
-loc_type: feature
+heritage: 4.716
+image: devils_bridge.jpg
+image_attribution: Bill Boaden
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Mynach_Falls_-_geograph-3557309-by-Bill-Boaden.jpg
 latitude: 52.3664
+loc_type: feature
 longitude: -3.8464
+nature: 6.087
+off_the_beaten_track: 3.766
 score: 5.217
-wikidata: Q3398339
 snippet: Wooded Ceredigion gorge where three bridges stack above waterfalls and steam
   trains climb from Aberystwyth.
 sources:
@@ -13,10 +17,10 @@ sources:
 - https://devilsbridgefalls.co.uk/
 - https://www.rheidolrailway.co.uk/
 - https://www.hafod.org/
-heritage: 4.716
+title: Devil's Bridge
+type: location
 vibrancy: 1.513
-nature: 6.087
-off_the_beaten_track: 3.766
+wikidata: Q3398339
 ---
 
 *Europe > United Kingdom > Wales > Devil's Bridge*

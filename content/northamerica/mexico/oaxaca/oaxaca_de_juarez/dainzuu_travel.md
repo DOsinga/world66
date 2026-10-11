@@ -1,15 +1,18 @@
 ---
-title: Dainzúu Travel
-type: poi
+address: García Vigil 306, Centro Histórico, Oaxaca de Juárez, Oaxaca, 68000
 commercial: true
+email: hola@dainzuutravel.com
 latitude: 17.0645
 longitude: -96.7249
+outreach_code: YN73CN
+phone: +52 951 390 6212
 score: 6.6
 snippet: Registered agency on García Vigil for Hierve el Agua, Mitla and Monte Albán
-tags: [activities, guided_tours]
-address: "García Vigil 306, Centro Histórico, Oaxaca de Juárez, Oaxaca, 68000"
-phone: "+52 951 390 6212"
-email: hola@dainzuutravel.com
+tags:
+- activities
+- guided_tours
+title: Dainzúu Travel
+type: poi
 url: dainzuutravel.com
 ---
 

@@ -1,18 +1,19 @@
 ---
-title: Dive Provo
-type: poi
+address: Salt Mills Plaza, Grace Bay
 commercial: true
+email: diving@diveprovo.com
 latitude: 21.7945
 longitude: -72.1824
+outreach_code: NXXJ4B
+phone: +1 649 231 5040
 score: 6.9
 snippet: Grace Bay dive shop with boats to Northwest Point, West Caicos and French
   Cay
 tags:
 - activities
 - diving
-address: Salt Mills Plaza, Grace Bay
-phone: +1 649 231 5040
-email: diving@diveprovo.com
+title: Dive Provo
+type: poi
 url: diveprovo.com
 ---
 

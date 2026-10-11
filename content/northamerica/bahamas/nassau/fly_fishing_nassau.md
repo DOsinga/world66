@@ -1,17 +1,18 @@
 ---
-title: Fly Fishing Nassau
-type: poi
+address: Nassau
 commercial: true
+email: flyfishingnassau@gmail.com
 latitude: 25.048
 longitude: -77.3554
+outreach_code: ZDHCH5
+phone: +1 242 814 4862
 score: 6.5
 snippet: Guided flats fishing for bonefish, tarpon and permit from a skiff
 tags:
 - activities
 - fishing
-address: Nassau
-phone: +1 242 814 4862
-email: flyfishingnassau@gmail.com
+title: Fly Fishing Nassau
+type: poi
 url: flyfishingnassau.com
 ---
 

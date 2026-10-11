@@ -1,18 +1,19 @@
 ---
-title: Salt Cay Divers
-type: poi
+address: Deane's Dock, Salt Cay
 commercial: true
+email: info@saltcaydivers.com
 latitude: 21.3321
 longitude: -71.2107
+outreach_code: 2JF56H
+phone: +1 649 245 1063
 score: 7.1
 snippet: Humpback whale trips in winter, with in-water encounters when conditions
   allow, and diving all year
 tags:
 - activities
 - wildlife_watching
-address: Deane's Dock, Salt Cay
-phone: +1 649 245 1063
-email: info@saltcaydivers.com
+title: Salt Cay Divers
+type: poi
 url: saltcaydivers.com
 ---
 

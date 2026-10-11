@@ -1,18 +1,19 @@
 ---
-title: Calabash Eco Adventures
-type: poi
+address: Freeport
 commercial: true
+email: reservations@calabashecoadventures.com
 latitude: 26.5333
 longitude: -78.6996
+outreach_code: LTD6K9
+phone: +1 242 829 7400
 score: 6.8
 snippet: Kayak, snorkel, bike and birding tours on Grand Bahama, including Lucayan
   National Park's caves
 tags:
 - activities
 - kayaking
-address: Freeport
-phone: +1 242 829 7400
-email: reservations@calabashecoadventures.com
+title: Calabash Eco Adventures
+type: poi
 url: calabashecoadventures.com
 ---
 

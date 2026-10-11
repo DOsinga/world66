@@ -1,18 +1,19 @@
 ---
-title: Island Boy Adventures
-type: poi
+address: George Town, Great Exuma
 commercial: true
+email: islandboyadventures242@gmail.com
 latitude: 23.5169
 longitude: -75.7861
+outreach_code: N5V3K5
+phone: +1 242 422 2697
 score: 6.5
 snippet: Private boat tours from George Town to the pigs, the Compass Cay sharks and
   the iguanas
 tags:
 - activities
 - boating
-address: George Town, Great Exuma
-phone: +1 242 422 2697
-email: islandboyadventures242@gmail.com
+title: Island Boy Adventures
+type: poi
 url: islandboyadventures.com
 ---
 

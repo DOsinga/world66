@@ -1,17 +1,18 @@
 ---
-title: Tru Bahamian Food Tours
-type: poi
+address: Downtown Nassau
 commercial: true
+email: info@trubahamianfoodtours.com
 latitude: 25.078
 longitude: -77.342
+outreach_code: RHCDWL
+phone: +1 242 825 2759
 score: 6.8
 snippet: Three-hour walking food tour of downtown Nassau with five tastings
 tags:
 - activities
 - guided_tours
-address: Downtown Nassau
-phone: +1 242 825 2759
-email: info@trubahamianfoodtours.com
+title: Tru Bahamian Food Tours
+type: poi
 url: trubahamianfoodtours.com
 ---
 

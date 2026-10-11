@@ -1,18 +1,19 @@
 ---
-title: Caicos Dream Tours
-type: poi
+address: Blue Haven Marina, Leeward, Providenciales
 commercial: true
+email: reservations@caicosdreamtours.com
 latitude: 21.8169
 longitude: -72.147
+outreach_code: YTLG99
+phone: +1 649 231 7274
 score: 6.8
 snippet: Snorkel and sunset cruises from Leeward, and a Tuesday day trip to North
   and Middle Caicos
 tags:
 - activities
 - boating
-address: Blue Haven Marina, Leeward, Providenciales
-phone: +1 649 231 7274
-email: reservations@caicosdreamtours.com
+title: Caicos Dream Tours
+type: poi
 url: caicosdreamtours.com
 ---
 

@@ -1,18 +1,19 @@
 ---
-title: Out-Island Explorers
-type: poi
+address: George Town, Great Exuma
 commercial: true
+email: goexuma@outislandexplorers.com
 latitude: 23.5169
 longitude: -75.7861
+outreach_code: 6QVXCQ
+phone: +1 242 524 8246
 score: 6.8
 snippet: Guided multi-day kayak-camping and sailing trips through the Exuma Cays,
   since 2008
 tags:
 - activities
 - kayaking
-address: George Town, Great Exuma
-phone: +1 242 524 8246
-email: goexuma@outislandexplorers.com
+title: Out-Island Explorers
+type: poi
 url: outislandexplorers.com
 ---
 

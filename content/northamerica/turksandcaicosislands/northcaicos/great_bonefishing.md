@@ -1,18 +1,19 @@
 ---
-title: Great Bonefishing
-type: poi
+address: Bottle Creek, North Caicos
 commercial: true
+email: greatbonefishing@gmail.com
 latitude: 21.888
 longitude: -71.9189
+outreach_code: L3HR5V
+phone: +1 649 241 6263
 score: 6.6
 snippet: Guided bonefishing on the Bottle Creek flats, with day trips timed for the
   ferry back to Provo
 tags:
 - activities
 - fishing
-address: Bottle Creek, North Caicos
-phone: +1 649 241 6263
-email: greatbonefishing@gmail.com
+title: Great Bonefishing
+type: poi
 url: greatbonefishing.com
 ---
 

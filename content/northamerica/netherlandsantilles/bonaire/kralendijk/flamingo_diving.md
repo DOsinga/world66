@@ -1,18 +1,19 @@
 ---
-title: Flamingo Diving
-type: poi
+address: 260 EEG Boulevard, Kralendijk
 commercial: true
+email: info@flamingodiving.com
 latitude: 12.1101
 longitude: -68.2923
+outreach_code: HP84VY
+phone: +599 786 8123
 score: 6.6
 snippet: Oceanfront dive centre at Belnem with small guided groups and the ostracod
   night dive
 tags:
 - activities
 - diving
-address: 260 EEG Boulevard, Kralendijk
-phone: +599 786 8123
-email: info@flamingodiving.com
+title: Flamingo Diving
+type: poi
 url: flamingodiving.com
 ---
 

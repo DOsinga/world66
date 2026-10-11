@@ -1,18 +1,19 @@
 ---
-title: Exotic Excursions 242
-type: poi
+address: Genes Bay Dock, North Eleuthera
 commercial: true
+email: exoticexcursions242@gmail.com
 latitude: 25.5464
 longitude: -76.7317
+outreach_code: 99L3RF
+phone: +1 242 470 6123
 score: 6.5
 snippet: 'Captain Sheldon''s boat trips around Spanish Wells and Harbour Island: pigs,
   turtles, reefs and conch'
 tags:
 - activities
 - boating
-address: Genes Bay Dock, North Eleuthera
-phone: +1 242 470 6123
-email: exoticexcursions242@gmail.com
+title: Exotic Excursions 242
+type: poi
 url: exoticexcursions242.com
 ---
 

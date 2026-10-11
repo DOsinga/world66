@@ -1,17 +1,18 @@
 ---
-title: Wannadive Bonaire
-type: poi
+address: Kaya Gobernador N. Debrot 73, Kralendijk
 commercial: true
+email: info@wannadive.com
 latitude: 12.1646
 longitude: -68.2865
+outreach_code: HVT3N2
+phone: +599 701 0882
 score: 6.7
 snippet: Dive school with drive-and-dive packages, from shops north and south of Kralendijk
 tags:
 - activities
 - diving
-address: Kaya Gobernador N. Debrot 73, Kralendijk
-phone: +599 701 0882
-email: info@wannadive.com
+title: Wannadive Bonaire
+type: poi
 url: wannadive.com
 ---
 

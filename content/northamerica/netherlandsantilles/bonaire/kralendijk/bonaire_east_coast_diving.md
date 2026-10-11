@@ -1,16 +1,17 @@
 ---
-title: Bonaire East Coast Diving
-type: poi
+address: Fishermen's pier, Sorobon
 commercial: true
 latitude: 12.0921
 longitude: -68.2359
+outreach_code: JD6DX4
 score: 6.8
 snippet: Zodiac dives on the windward coast, the side of Bonaire you cannot dive from
   shore
 tags:
 - activities
 - diving
-address: Fishermen's pier, Sorobon
+title: Bonaire East Coast Diving
+type: poi
 url: bonaireeastcoastdiving.com
 ---
 

@@ -1,17 +1,18 @@
 ---
-title: Captain Marvin's Watersports
-type: poi
+address: Turtle Cove Marina, Providenciales
 commercial: true
+email: managertc@yahoo.com
 latitude: 21.7852
 longitude: -72.2285
+outreach_code: QHDQ59
+phone: +1 649 231 0643
 score: 6.5
 snippet: Parasailing over Grace Bay since 1991, from Turtle Cove
 tags:
 - activities
 - boating
-address: Turtle Cove Marina, Providenciales
-phone: +1 649 231 0643
-email: managertc@yahoo.com
+title: Captain Marvin's Watersports
+type: poi
 url: captainmarvinswatersports.com
 ---
 

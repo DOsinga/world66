@@ -4,6 +4,7 @@ commercial: true
 email: reservations@stuartcove.com
 latitude: 25.0033
 longitude: -77.54
+outreach_code: 5HGFW9
 phone: +1 242 362 4171
 score: 7.9
 snippet: Nassau's big dive operation, best known for its shark dives, with wall, wreck

@@ -1,18 +1,19 @@
 ---
-title: Dive Exuma
-type: poi
+address: Government Dock, George Town, Great Exuma
 commercial: true
+email: info@dive-exuma.com
 latitude: 23.5169
 longitude: -75.7861
+outreach_code: BZVC8S
+phone: +1 242 357 0313
 score: 6.6
 snippet: Small-group diving from George Town's Government Dock on a catamaran that
   takes eight
 tags:
 - activities
 - diving
-address: Government Dock, George Town, Great Exuma
-phone: +1 242 357 0313
-email: info@dive-exuma.com
+title: Dive Exuma
+type: poi
 url: dive-exuma.com
 ---
 

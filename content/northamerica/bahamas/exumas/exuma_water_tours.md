@@ -1,18 +1,19 @@
 ---
-title: Exuma Water Tours
-type: poi
+address: Barraterre Road, Alexandra, Great Exuma
 commercial: true
+email: capt.patfourcs@exumawatertours.com
 latitude: 23.5169
 longitude: -75.7861
+outreach_code: LHSHZ9
+phone: +1 242 357 0328
 score: 6.7
 snippet: 'Half- and full-day cay tours from Great Exuma: swimming pigs, Thunderball
   Grotto, starfish and iguanas'
 tags:
 - activities
 - boating
-address: Barraterre Road, Alexandra, Great Exuma
-phone: +1 242 357 0328
-email: capt.patfourcs@exumawatertours.com
+title: Exuma Water Tours
+type: poi
 url: exumawatertours.com
 ---
 

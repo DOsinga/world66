@@ -1,18 +1,19 @@
 ---
-title: Curaçao Activities
-type: poi
+address: Curaçao Marriott Beach Resort, Weg Naar Westpunt 29
 commercial: true
+email: tours@curacaoactivities.com
 latitude: 12.1184
 longitude: -68.9662
+outreach_code: R84WMY
+phone: +599 9 514 5338
 score: 6.4
 snippet: Tour desk at the Marriott on Piscadera Bay selling jeep safaris to the west
   end and walks through Punda and Pietermaai
 tags:
 - activities
 - guided_tours
-address: Curaçao Marriott Beach Resort, Weg Naar Westpunt 29
-phone: +599 9 514 5338
-email: tours@curacaoactivities.com
+title: Curaçao Activities
+type: poi
 url: curacaoactivities.com
 ---
 

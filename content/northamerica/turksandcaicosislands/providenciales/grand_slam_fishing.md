@@ -1,17 +1,18 @@
 ---
-title: Grand Slam Fishing Charters
-type: poi
+address: Turtle Cove Marina, Providenciales
 commercial: true
 latitude: 21.7852
 longitude: -72.2285
+outreach_code: GT6WBQ
+phone: +1 649 231 4420
 score: 6.5
 snippet: Deep-sea charters for wahoo, tuna and marlin from Turtle Cove, and shared
   half-days
 tags:
 - activities
 - fishing
-address: Turtle Cove Marina, Providenciales
-phone: +1 649 231 4420
+title: Grand Slam Fishing Charters
+type: poi
 url: gsfishing.com
 ---
 

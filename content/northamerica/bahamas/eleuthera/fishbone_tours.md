@@ -1,18 +1,19 @@
 ---
-title: Fishbone Tours
-type: poi
+address: Eleuthera
 commercial: true
+email: info@fishbonetours.com
 latitude: 25.1
 longitude: -76.15
+outreach_code: K4V685
+phone: +1 242 819 4960
 score: 6.4
 snippet: Bonefishing, reef and big-game fishing, snorkelling and Schooner Cays boat
   tours on Eleuthera
 tags:
 - activities
 - fishing
-address: Eleuthera
-phone: +1 242 819 4960
-email: info@fishbonetours.com
+title: Fishbone Tours
+type: poi
 url: fishbonetours.com
 ---
 

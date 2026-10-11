@@ -1,17 +1,18 @@
 ---
-title: Blue Water Divers
-type: poi
+address: Osprey Beach Hotel Courtyard Atrium Building, Duke Street, Cockburn Town
 commercial: true
+email: info@grandturkscuba.com
 latitude: 21.4597
 longitude: -71.1474
+outreach_code: 4SDD4M
+phone: +1 649 347 1400
 score: 6.9
 snippet: Diving the Grand Turk Wall since 1983, from Duke Street in Cockburn Town
 tags:
 - activities
 - diving
-address: Osprey Beach Hotel Courtyard Atrium Building, Duke Street, Cockburn Town
-phone: +1 649 347 1400
-email: info@grandturkscuba.com
+title: Blue Water Divers
+type: poi
 url: grandturkscuba.com
 ---
 

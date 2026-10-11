@@ -1,17 +1,18 @@
 ---
-title: Neal Watson's Bimini Scuba Center
-type: poi
+address: Bimini
 commercial: true
+email: neal@biminiscubacenter.com
 latitude: 25.7272
 longitude: -79.2965
+outreach_code: 2BQZQL
+phone: +1 242 473 8126
 score: 7.0
 snippet: Great hammerheads, wild dolphins and the Sapona wreck, from Bimini
 tags:
 - activities
 - diving
-address: Bimini
-phone: +1 242 473 8126
-email: neal@biminiscubacenter.com
+title: Neal Watson's Bimini Scuba Center
+type: poi
 url: biminiscubacenter.com
 ---
 

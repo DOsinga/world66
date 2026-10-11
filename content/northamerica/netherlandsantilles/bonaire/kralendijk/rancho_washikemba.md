@@ -1,18 +1,19 @@
 ---
-title: Rancho Washikemba
-type: poi
+address: Washikemba 54, Bonaire
 commercial: true
+email: info@ranchowashikemba.com
 latitude: 12.1707
 longitude: -68.2166
+outreach_code: VFC7FR
+phone: +599 700 2527
 score: 6.5
 snippet: 'Ride ''n Swim: ride to the lagoon at Lagun and take the horses into the
   water'
 tags:
 - activities
 - horse_riding
-address: Washikemba 54, Bonaire
-phone: +599 700 2527
-email: info@ranchowashikemba.com
+title: Rancho Washikemba
+type: poi
 url: ranchowashikemba.com
 ---
 

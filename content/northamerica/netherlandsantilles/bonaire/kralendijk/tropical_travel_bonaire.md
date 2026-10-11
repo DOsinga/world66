@@ -1,18 +1,19 @@
 ---
-title: Tropical Travel Bonaire
-type: poi
+address: Plaza Resort Bonaire, J.A. Abraham Boulevard 80, Kralendijk
 commercial: true
+email: info@tropicaltravelbonaire.com
 latitude: 12.1372
 longitude: -68.2747
+outreach_code: X758WX
+phone: +599 701 1235
 score: 6.5
 snippet: Guided safaris into Washington Slagbaai National Park and south-island tours,
   since 1995
 tags:
 - activities
 - guided_tours
-address: Plaza Resort Bonaire, J.A. Abraham Boulevard 80, Kralendijk
-phone: +599 701 1235
-email: info@tropicaltravelbonaire.com
+title: Tropical Travel Bonaire
+type: poi
 url: tropicaltravelbonaire.com
 ---
 

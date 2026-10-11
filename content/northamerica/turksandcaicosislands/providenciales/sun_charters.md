@@ -1,18 +1,19 @@
 ---
-title: Sun Charters
-type: poi
+address: Grace Bay, Providenciales
 commercial: true
+email: suncharters@gmail.com
 latitude: 21.7988
 longitude: -72.1751
+outreach_code: K76MHS
+phone: +1 649 231 0624
 score: 6.7
 snippet: Sail-and-snorkel trips on Atabeyra, a 70-foot schooner, plus sunset sails
   and a glow-worm trip
 tags:
 - activities
 - boating
-address: Grace Bay, Providenciales
-phone: +1 649 231 0624
-email: suncharters@gmail.com
+title: Sun Charters
+type: poi
 url: suncharters.tc
 ---
 

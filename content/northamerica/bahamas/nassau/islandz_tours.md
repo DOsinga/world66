@@ -1,16 +1,17 @@
 ---
-title: Islandz Tours
-type: poi
+address: Downtown Nassau
 commercial: true
+email: hello@islandztours.com
 latitude: 25.078
 longitude: -77.342
+outreach_code: 7F56N5
 score: 6.5
 snippet: Downtown Nassau walking and tasting tours led by Bahama Host-certified guides
 tags:
 - activities
 - guided_tours
-address: Downtown Nassau
-email: hello@islandztours.com
+title: Islandz Tours
+type: poi
 url: islandztours.com
 ---
 

@@ -1,18 +1,19 @@
 ---
-title: Big Blue Collective
-type: poi
+address: Marina Road, Leeward, Providenciales
 commercial: true
+email: info@bigbluecollective.com
 latitude: 21.8156
 longitude: -72.1501
+outreach_code: R6TK8P
+phone: +1 649 946 5034
 score: 7.0
 snippet: 'Provo''s original eco-tour outfit: mangrove kayaking, diving, kiting and
   day trips to North and Middle Caicos'
 tags:
 - activities
 - kayaking
-address: Marina Road, Leeward, Providenciales
-phone: +1 649 946 5034
-email: info@bigbluecollective.com
+title: Big Blue Collective
+type: poi
 url: bigbluecollective.com
 ---
 

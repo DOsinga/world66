@@ -1,18 +1,19 @@
 ---
-title: Mangrove Center
-type: poi
+address: Kaminda Lac 140, Kralendijk
 commercial: true
+email: info@mangrovecenter.com
 latitude: 12.1163
 longitude: -68.2209
+outreach_code: XFV9VD
+phone: +599 780 5353
 score: 6.8
 snippet: Guided kayak tours through the Lac Bay mangroves, including a bioluminescent
   night paddle
 tags:
 - activities
 - kayaking
-address: Kaminda Lac 140, Kralendijk
-phone: +599 780 5353
-email: info@mangrovecenter.com
+title: Mangrove Center
+type: poi
 url: mangrovecenter.com
 ---
 

@@ -1,18 +1,19 @@
 ---
-title: Valentines Dive Center
-type: poi
+address: Bay Street, Dunmore Town, Harbour Island
 commercial: true
+email: dive@valentinesdive.com
 latitude: 25.4975
 longitude: -76.6384
+outreach_code: V3LVJF
+phone: +1 242 333 2080
 score: 6.8
 snippet: 'Harbour Island dive shop at Valentine''s Marina: PADI courses, dives, snorkelling
   and charters'
 tags:
 - activities
 - diving
-address: Bay Street, Dunmore Town, Harbour Island
-phone: +1 242 333 2080
-email: dive@valentinesdive.com
+title: Valentines Dive Center
+type: poi
 url: valentinesdive.com
 ---
 

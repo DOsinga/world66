@@ -1,4 +1,8 @@
 ---
+image: st_nicholas_church.jpg
+image_attribution: Gerd Eichmann
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Galway-St_Nicholas-02-gje.jpg
 latitude: 53.27277
 longitude: -9.05366
 score: 8.9

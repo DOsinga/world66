@@ -1,17 +1,20 @@
 ---
-title: Tour Río Lagartos
-type: poi
+address: Río Lagartos, Yucatán, 97720
 commercial: true
+email: info@tourriolagartos.com
 latitude: 21.5964
 longitude: -88.1583
+outreach_code: 684ZPJ
+phone: +52 986 100 7593
 score: 6.9
 snippet: Family boat operation in the village for flamingos, crocodiles and the mangrove
-tags: [activities, wildlife_watching]
-address: "Río Lagartos, Yucatán, 97720"
-phone: "+52 986 100 7593"
-whatsapp: "+52 986 100 7593"
-email: info@tourriolagartos.com
+tags:
+- activities
+- wildlife_watching
+title: Tour Río Lagartos
+type: poi
 url: tourriolagartos.com
+whatsapp: +52 986 100 7593
 ---
 
 A family operation running private boats out of the fishing village into the **Ría Lagartos biosphere reserve** — a long shallow lagoon behind a barrier of mangrove, and the most important flamingo feeding ground in Mexico.

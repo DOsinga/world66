@@ -2,6 +2,7 @@
 commercial: true
 latitude: -25.2855933
 longitude: -57.5884909
+outreach_code: SWDPRP
 phone: +595 985 191 000
 score: 6.6
 snippet: The foundation that owns Mbaracayú — 64,406 ha, 440 bird species, Paraguay's

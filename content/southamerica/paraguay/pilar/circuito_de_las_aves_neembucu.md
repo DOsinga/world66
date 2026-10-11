@@ -2,6 +2,7 @@
 commercial: true
 latitude: -26.8583
 longitude: -58.3034
+outreach_code: H33W57
 phone: +595 971 644 215
 score: 6.2
 snippet: Guided birding in the Ñeembucú wetlands, binoculars included, booked ahead

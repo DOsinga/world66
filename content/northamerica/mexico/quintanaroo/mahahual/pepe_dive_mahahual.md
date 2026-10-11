@@ -1,15 +1,18 @@
 ---
-title: Pepe Dive Mahahual
-type: poi
+address: Malecón de Mahahual esq. calle Cazón, Mahahual, Quintana Roo, 77976
 commercial: true
+email: info@pepedivemahahual.com
 latitude: 18.7244
 longitude: -87.7014
+outreach_code: 292MJD
+phone: +52 983 333 8050
 score: 6.8
 snippet: Malecón shop diving Mahahual, Xcalak and the Banco Chinchorro atoll
-tags: [activities, diving]
-address: "Malecón de Mahahual esq. calle Cazón, Mahahual, Quintana Roo, 77976"
-phone: "+52 983 333 8050"
-email: info@pepedivemahahual.com
+tags:
+- activities
+- diving
+title: Pepe Dive Mahahual
+type: poi
 url: pepedivemahahual.com
 ---
 

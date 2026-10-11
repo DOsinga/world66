@@ -1,17 +1,20 @@
 ---
-title: The Hook Experiences
-type: poi
+address: Paseo Álvaro Obregón, La Paz, Baja California Sur, 23000
 commercial: true
+email: thehookexperiences@gmail.com
 latitude: 24.1675
 longitude: -110.3109
+outreach_code: 8GTN4Q
+phone: +52 612 243 6462
 score: 7.1
 snippet: Ten guests maximum, marine biologists guiding, boats off the malecón
-tags: [activities, wildlife_watching]
-address: "Paseo Álvaro Obregón, La Paz, Baja California Sur, 23000"
-phone: "+52 612 243 6462"
-whatsapp: "+52 612 243 6462"
-email: thehookexperiences@gmail.com
+tags:
+- activities
+- wildlife_watching
+title: The Hook Experiences
+type: poi
 url: lapazwhalesharks.com
+whatsapp: +52 612 243 6462
 ---
 
 A small operator working off the malecón with a cap of ten guests per boat and marine biologists rather than boatmen as guides.

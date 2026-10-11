@@ -2,6 +2,7 @@
 commercial: true
 latitude: -26.7824327
 longitude: -56.9462624
+outreach_code: NWN5XX
 phone: +595 975 618461
 score: 6.1
 snippet: Six rooms of mission sculpture on the plaza at Santa María, Gs 20.000

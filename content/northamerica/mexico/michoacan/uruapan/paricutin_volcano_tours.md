@@ -1,15 +1,19 @@
 ---
-title: Paricutín Volcano Tours
-type: poi
 commercial: true
 latitude: 19.4147
 longitude: -102.0523
+outreach_code: CX4X66
+phone: +52 452 156 6744
 score: 6.6
-snippet: Uruapan guides to Paricutín — on foot or by horse to the crater, or out to the buried church
-tags: [activities, trekking]
-phone: "+52 452 156 6744"
-whatsapp: "+52 452 156 6744"
+snippet: Uruapan guides to Paricutín — on foot or by horse to the crater, or out to
+  the buried church
+tags:
+- activities
+- trekking
+title: Paricutín Volcano Tours
+type: poi
 url: paricutinvolcano.com
+whatsapp: +52 452 156 6744
 ---
 
 A Uruapan guiding service that does one thing: [Paricutín](/northamerica/mexico/michoacan/paricutin_volcano), the volcano that rose out of a cornfield in 1943. They publish no street address, so the pin is on Uruapan.

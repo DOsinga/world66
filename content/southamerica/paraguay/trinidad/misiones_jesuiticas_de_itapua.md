@@ -3,6 +3,7 @@ commercial: true
 email: trinidad@senatur.gov.py
 latitude: -27.1311532
 longitude: -55.7063632
+outreach_code: 37LWSK
 score: 7.0
 snippet: One ticket, 72 hours, three missions — and a night show at each of the first
   two

@@ -3,6 +3,7 @@ commercial: true
 email: ventas@schaflertours.com.py
 latitude: -25.3253016
 longitude: -57.5922214
+outreach_code: MLGJ4H
 phone: +595 986 555 262
 score: 6.7
 snippet: Own vehicles and SENATUR-accredited guides, from a 3-hour city loop to three

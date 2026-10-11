@@ -4,11 +4,11 @@ type: section
 providers:
 - path: europe/unitedkingdom/wales/conwy/the_mountaineering_company
   note: Guided Yr Wyddfa, Tryfan scrambles and the Welsh 3000s
-- path: europe/unitedkingdom/wales/snowdonia/llanberis/raw_adventures
+- path: europe/unitedkingdom/wales/llanberis/raw_adventures
   note: Guided Yr Wyddfa days and gorge walking from Llanberis
-- path: europe/unitedkingdom/wales/snowdonia/betwsycoed/plas_y_brenin
+- path: europe/unitedkingdom/wales/betwsycoed/plas_y_brenin
   note: Climbing, scrambling and mountaineering courses at Capel Curig
-- path: europe/unitedkingdom/wales/snowdonia/blaenau_ffestiniog/zip_world_slate_caverns
+- path: europe/unitedkingdom/wales/blaenau_ffestiniog/zip_world_slate_caverns
   note: Zip lines and underground adventures at three sites
 ---
 

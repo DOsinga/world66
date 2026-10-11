@@ -2,7 +2,7 @@
 title: Activities
 type: section
 providers:
-- path: europe/unitedkingdom/wales/snowdonia/betwsycoed/go_below
+- path: europe/unitedkingdom/wales/betwsycoed/go_below
   note: Underground zip lines and abseils in a slate mine; trips meet at Tanygrisiau
 ---
 

@@ -2,7 +2,7 @@
 title: Activities
 type: section
 providers:
-- path: europe/unitedkingdom/wales/snowdonia/blaenau_ffestiniog/zip_world_slate_caverns
+- path: europe/unitedkingdom/wales/blaenau_ffestiniog/zip_world_slate_caverns
   note: Velocity, at Penrhyn Quarry in Bethesda
 - path: europe/unitedkingdom/wales/anglesey/ribride
   note: RIB trips through the Swellies from Menai Bridge, across the strait

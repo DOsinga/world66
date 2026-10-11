@@ -1,15 +1,18 @@
 ---
-title: Aquanauts Dive Adventures
-type: poi
+address: Marina El Cid, Puerto Morelos, Quintana Roo, 77580
 commercial: true
+email: contactus@aquanautsdiveadventures.com
 latitude: 20.8343
 longitude: -86.8892
+outreach_code: 3BSJMJ
+phone: +52 998 126 7966
 score: 6.3
 snippet: Dive operation based at the El Cid marina south of the village
-tags: [activities, diving]
-address: "Marina El Cid, Puerto Morelos, Quintana Roo, 77580"
-phone: "+52 998 126 7966"
-email: contactus@aquanautsdiveadventures.com
+tags:
+- activities
+- diving
+title: Aquanauts Dive Adventures
+type: poi
 url: aquanautsdiveadventures.com
 ---
 

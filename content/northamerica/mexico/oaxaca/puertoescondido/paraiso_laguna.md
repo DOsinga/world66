@@ -1,17 +1,22 @@
 ---
+address: Laguna de Manialtepec, Km 16 Carretera Federal 200, Puerto Escondido, Oaxaca,
+  71980
+commercial: true
+email: reilyvica@gmail.com
+latitude: 15.941
+longitude: -97.19
+outreach_code: 79T8T9
+phone: +52 954 161 1334
+score: 6.9
+snippet: Manialtepec specialists — mangroves at dusk, a fire on the beach, then the
+  bioluminescence
+tags:
+- activities
+- kayaking
 title: Paraíso Laguna
 type: poi
-commercial: true
-latitude: 15.9410
-longitude: -97.1900
-score: 6.9
-snippet: Manialtepec specialists — mangroves at dusk, a fire on the beach, then the bioluminescence
-tags: [activities, kayaking]
-address: "Laguna de Manialtepec, Km 16 Carretera Federal 200, Puerto Escondido, Oaxaca, 71980"
-phone: "+52 954 161 1334"
-whatsapp: "+52 954 161 1334"
-email: reilyvica@gmail.com
 url: paraisolaguna.com
+whatsapp: +52 954 161 1334
 ---
 
 Based on the Manialtepec lagoon itself, sixteen kilometres west of Puerto Escondido, rather than selling the trip from a desk in town.

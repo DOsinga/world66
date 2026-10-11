@@ -1,15 +1,18 @@
 ---
-title: Holbox Adventure
-type: poi
+address: Holbox, Quintana Roo, 77310
 commercial: true
-latitude: 21.5240
-longitude: -87.3770
+email: info@holboxadventure.com
+latitude: 21.524
+longitude: -87.377
+outreach_code: 8WTRZ2
+phone: +52 984 135 6451
 score: 6.4
 snippet: Owner-run whale shark trips, three boats and sixteen passengers in total
-tags: [activities, boating]
-address: "Holbox, Quintana Roo, 77310"
-phone: "+52 984 135 6451"
-email: info@holboxadventure.com
+tags:
+- activities
+- boating
+title: Holbox Adventure
+type: poi
 url: holboxadventure.com
 ---
 

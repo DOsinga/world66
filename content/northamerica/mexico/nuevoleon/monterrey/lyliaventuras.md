@@ -1,16 +1,19 @@
 ---
-title: LyliAventuras Guerreros
-type: poi
+address: 'Meeting point: Hotel Cola de Caballo, Santiago, Nuevo León'
 commercial: true
-latitude: 25.3690
+latitude: 25.369
 longitude: -100.1596
+outreach_code: 89298W
+phone: +52 81 2201 0579
 score: 6.2
 snippet: A packed monthly calendar of canyons, peaks and via ferrata out of Monterrey
-tags: [activities, canyoning]
-address: "Meeting point: Hotel Cola de Caballo, Santiago, Nuevo León"
-phone: "+52 81 2201 0579"
-whatsapp: "+52 81 2201 0579"
+tags:
+- activities
+- canyoning
+title: LyliAventuras Guerreros
+type: poi
 url: lyliaventuras.com
+whatsapp: +52 81 2201 0579
 ---
 
 A Monterrey adventure group that publishes a full calendar of outings each month, most of them in the Sierra de Santiago and the Cumbres.

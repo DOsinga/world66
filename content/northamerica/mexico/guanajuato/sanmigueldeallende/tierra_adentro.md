@@ -1,15 +1,18 @@
 ---
-title: Tierra Adentro San Miguel
-type: poi
+address: San Miguel de Allende, Guanajuato
 commercial: true
 latitude: 20.9158
 longitude: -100.7445
+outreach_code: JVSTP3
 score: 6.4
 snippet: Guided walks and regional days built around the Camino Real and its chapels
-tags: [activities, guided_tours]
-address: "San Miguel de Allende, Guanajuato"
-whatsapp: "+52 415 101 0393"
+tags:
+- activities
+- guided_tours
+title: Tierra Adentro San Miguel
+type: poi
 url: tasma.com.mx
+whatsapp: +52 415 101 0393
 ---
 
 Guided days around San Miguel built on the region's own history rather than the standard circuit — the **Camino Real de Tierra Adentro**, the colonial silver road north from Mexico City that is itself a UNESCO World Heritage route, and the viceregal chapels of the Indian villages around the town, which are extraordinary and which almost no visitor sees.

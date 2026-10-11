@@ -3,6 +3,7 @@ commercial: true
 email: mcantero@senatur.gov.py
 latitude: -27.3148296
 longitude: -56.3327357
+outreach_code: CBH63L
 phone: +595 982 743 438
 score: 6.6
 snippet: A planetarium showing Guaraní constellations, on the site of South America's

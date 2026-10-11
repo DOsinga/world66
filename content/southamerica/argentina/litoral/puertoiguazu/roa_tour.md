@@ -1,7 +1,6 @@
 ---
 address: Av. Córdoba and Misiones, bus terminal, local 45, Puerto Iguazú
 commercial: true
-email: info@iguazuroatour.com
 latitude: -25.5984
 longitude: -54.571
 outreach_code: MFK2QQ

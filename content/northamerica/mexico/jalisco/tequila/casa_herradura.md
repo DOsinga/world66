@@ -1,14 +1,18 @@
 ---
-title: Casa Herradura
-type: poi
+address: Amatitán, Jalisco
 commercial: true
+email: infocasaherradura@b-f.com
 latitude: 20.8321
 longitude: -103.7285
+outreach_code: 9GFKMX
 score: 6.6
-snippet: The hacienda distillery at Amatitán, on the road to Tequila — guided visits for adults only
-tags: [activities, winery]
-address: "Amatitán, Jalisco"
-email: infocasaherradura@b-f.com
+snippet: The hacienda distillery at Amatitán, on the road to Tequila — guided visits
+  for adults only
+tags:
+- activities
+- winery
+title: Casa Herradura
+type: poi
 url: herradura.com
 ---
 

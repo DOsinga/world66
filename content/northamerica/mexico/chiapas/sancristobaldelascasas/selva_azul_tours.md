@@ -1,17 +1,20 @@
 ---
-title: Selva Azul Tours
-type: poi
+address: Real de Guadalupe 14, Zona Centro, San Cristóbal de las Casas, Chiapas, 29200
 commercial: true
+email: selva.azultours@gmail.com
 latitude: 16.7379
 longitude: -92.6282
+outreach_code: 9CCQ8V
+phone: +52 967 678 9332
 score: 6.5
 snippet: Office on Real de Guadalupe running the whole Chiapas circuit, open late
-tags: [activities, guided_tours]
-address: "Real de Guadalupe 14, Zona Centro, San Cristóbal de las Casas, Chiapas, 29200"
-phone: "+52 967 678 9332"
-whatsapp: "+52 967 125 1203"
-email: selva.azultours@gmail.com
+tags:
+- activities
+- guided_tours
+title: Selva Azul Tours
+type: poi
 url: selvazultours.com
+whatsapp: +52 967 125 1203
 ---
 
 On Real de Guadalupe, the pedestrian street that is where most of San Cristóbal's tourism is bought and sold, open from half past seven in the morning until half past nine at night.

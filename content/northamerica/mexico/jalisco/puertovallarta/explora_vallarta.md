@@ -1,17 +1,21 @@
 ---
-title: Explora Vallarta
-type: poi
+address: Pámpano 9, La Cruz de Huanacaxtle, Bahía de Banderas, Nayarit, 63734
 commercial: true
+email: tours@exploravallarta.com
 latitude: 20.7507
 longitude: -105.3829
+outreach_code: NQ5HGT
+phone: +52 322 132 2753
 score: 6.7
-snippet: Biologist-led whale watching and diving from La Cruz, across the bay from Vallarta
-tags: [activities, wildlife_watching]
-address: "Pámpano 9, La Cruz de Huanacaxtle, Bahía de Banderas, Nayarit, 63734"
-phone: "+52 322 132 2753"
-whatsapp: "+52 322 132 2753"
-email: tours@exploravallarta.com
+snippet: Biologist-led whale watching and diving from La Cruz, across the bay from
+  Vallarta
+tags:
+- activities
+- wildlife_watching
+title: Explora Vallarta
+type: poi
 url: exploravallarta.com
+whatsapp: +52 322 132 2753
 ---
 
 Based in **La Cruz de Huanacaxtle** on the Nayarit side of Banderas Bay rather than in Puerto Vallarta itself, which puts them closer to the Marietas and to the bay's northern shore where the humpbacks tend to be.

@@ -2,6 +2,7 @@
 commercial: true
 latitude: -26.890638
 longitude: -57.023891
+outreach_code: QSBNMW
 phone: +595 985 187 824
 score: 6.2
 snippet: Thirty polychrome Guaraní baroque carvings in four rooms, and a museum that

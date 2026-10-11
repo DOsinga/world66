@@ -1,17 +1,22 @@
 ---
-title: Puerto Surf House & School
-type: poi
+address: Calle Nuevo León s/n esq. Benito Juárez, Col. Brisas de Zicatela, Puerto
+  Escondido, Oaxaca, 70934
 commercial: true
+email: contact@puertosurf.com.mx
 latitude: 15.8501
 longitude: -97.0501
+outreach_code: NT93PC
+phone: +52 954 122 0172
 score: 6.8
-snippet: Surf school and guesthouse in Brisas de Zicatela, steps from the beginner break
-tags: [activities, surf]
-address: "Calle Nuevo León s/n esq. Benito Juárez, Col. Brisas de Zicatela, Puerto Escondido, Oaxaca, 70934"
-phone: "+52 954 122 0172"
-whatsapp: "+52 954 122 0172"
-email: contact@puertosurf.com.mx
+snippet: Surf school and guesthouse in Brisas de Zicatela, steps from the beginner
+  break
+tags:
+- activities
+- surf
+title: Puerto Surf House & School
+type: poi
 url: puertosurf.com.mx
+whatsapp: +52 954 122 0172
 ---
 
 A surf school with rooms attached in Brisas de Zicatela, at the southern end of the beach where the wave is survivable.

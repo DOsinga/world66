@@ -3,6 +3,10 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-06-01'
 heritage: 4.676
+image: lough_derg.jpg
+image_attribution: Ludraman
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Lough_derg.jpg
 latitude: 52.952181
 loc_type: feature
 longitude: -8.303211

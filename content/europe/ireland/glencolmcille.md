@@ -1,5 +1,9 @@
 ---
 heritage: 5.83
+image: glencolmcille.jpg
+image_attribution: EvaDonlon
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Gleann_Cholm_Cille.jpg
 latitude: 54.7103
 loc_type: city
 longitude: -8.7203

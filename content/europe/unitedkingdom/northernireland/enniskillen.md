@@ -1,22 +1,26 @@
 ---
-title: Enniskillen
-type: location
-loc_type: city
+heritage: 4.414
+image: enniskillen.jpg
+image_attribution: Romeparis
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Enniskillen_Castle_by_Paride.JPG
 latitude: 54.34
+loc_type: city
 longitude: -7.63
+nature: 4.392
+off_the_beaten_track: 2.347
 score: 4.041
 snippet: Fermanagh island town between the Erne lakes, with castles, boat trips, and
   Georgian estates.
-wikidata: Q990109
 sources:
 - https://en.wikivoyage.org/wiki/Enniskillen
 - https://en.wikipedia.org/wiki/Enniskillen
 - https://www.wikidata.org/wiki/Q990109
 - https://www.enniskillencastle.co.uk/
-heritage: 4.414
+title: Enniskillen
+type: location
 vibrancy: 3.466
-nature: 4.392
-off_the_beaten_track: 2.347
+wikidata: Q990109
 ---
 
 Enniskillen is Northern Ireland's lakeland town, built on an island between Upper and Lower Lough Erne. The setting matters: water presses in from both sides, boats move through town, and much of the best sightseeing is either on the river or within a short drive of it.

@@ -1,5 +1,9 @@
 ---
 heritage: 3.684
+image: tory_island.jpg
+image_attribution: OceanFlowers
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Tory_Island_Cliffs_1.jpg
 latitude: 55.264
 loc_type: feature
 longitude: -8.227

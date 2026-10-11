@@ -1,5 +1,9 @@
 ---
 heritage: 7.615
+image: knock.jpg
+image_attribution: Sinéad Mallee
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Knock_Basilica_16_July_2017.jpg
 latitude: 53.7903
 loc_type: city
 longitude: -8.9171

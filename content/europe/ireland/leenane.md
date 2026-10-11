@@ -1,5 +1,9 @@
 ---
 heritage: 5.945
+image: leenane.jpg
+image_attribution: Cosal
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Leenane_village,_with_Killary_Harbour_and_Devilsmother.jpg
 latitude: 53.6
 loc_type: city
 longitude: -9.683

@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: carlow.jpg
+image_attribution: Colin Park
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:The_River_Barrow_at_Carlow_from_footbridge_by_Town_Park_-_geograph.org.uk_-_7933155.jpg
 latitude: 52.8408
 loc_type: city
 longitude: -6.9261

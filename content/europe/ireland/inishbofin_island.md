@@ -1,5 +1,9 @@
 ---
 heritage: 5.17
+image: inishbofin_island.jpg
+image_attribution: Drow69
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Inishbofin_Harbour.jpg
 latitude: 53.6134
 loc_type: feature
 longitude: -10.2068

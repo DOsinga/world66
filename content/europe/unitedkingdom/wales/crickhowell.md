@@ -1,10 +1,10 @@
 ---
-title: Crickhowell
-type: location
-loc_type: city
+heritage: 4.347
 latitude: 51.8597
+loc_type: city
 longitude: -3.1372
-wikidata: Q2536016
+nature: 6.247
+off_the_beaten_track: 4.12
 score: 5.219
 snippet: Small Usk Valley market town below Table Mountain, with a bridge, castle
   remains, and hill walks.
@@ -12,10 +12,12 @@ sources:
 - https://en.wikivoyage.org/wiki/Crickhowell
 - https://bannaubrycheiniog.org/townsandvillages/crickhowell/
 - https://www.breconcottages.com/guides/guide-to-crickhowell
-heritage: 4.347
+tags:
+- brecon_beacons
+title: Crickhowell
+type: location
 vibrancy: 2.16
-nature: 6.247
-off_the_beaten_track: 4.12
+wikidata: Q2536016
 ---
 
 *Europe > United Kingdom > Wales > Crickhowell*

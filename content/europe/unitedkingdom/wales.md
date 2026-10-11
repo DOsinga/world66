@@ -35,4 +35,6 @@ For Dylan Thomas fans, [Laugharne](/europe/unitedkingdom/wales/laugharne) on the
 [Betws-y-Coed](/europe/unitedkingdom/wales/snowdonia/betwsycoed)
 [Llanberis](/europe/unitedkingdom/wales/snowdonia/llanberis)
 [Tenby](/europe/unitedkingdom/wales/tenby)
+[St Davids](/europe/unitedkingdom/wales/st_davids)
+[New Quay](/europe/unitedkingdom/wales/new_quay)
 [Laugharne](/europe/unitedkingdom/wales/laugharne)

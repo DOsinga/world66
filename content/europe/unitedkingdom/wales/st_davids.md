@@ -1,18 +1,21 @@
 ---
-title: St Davids
-type: location
-loc_type: city
+image: st_davids.jpg
+image_attribution: Manfred Heyde
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:St_Davids_village_and_Cathedral_South_Wales.jpg
 latitude: 51.8822
+loc_type: city
 longitude: -5.2686
 score: 5.6
-snippet: Britain's smallest city, a cathedral village at the western tip of Pembrokeshire surrounded by cliffs, coves and seabird islands
-wikidata: Q648732
+snippet: Britain's smallest city, a cathedral village at the western tip of Pembrokeshire
+  surrounded by cliffs, coves and seabird islands
 sources:
 - https://en.wikipedia.org/wiki/St_Davids
-image: st_davids.jpg
-image_source: https://commons.wikimedia.org/wiki/File:St_Davids_village_and_Cathedral_South_Wales.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Manfred Heyde
+tags:
+- pembrokeshire_coast_national_park
+title: St Davids
+type: location
+wikidata: Q648732
 ---
 
 St Davids has fewer than two thousand people and still counts as a city, the smallest in Britain, because of its cathedral. The cathedral itself is the surprise: you walk through the little town square and down a flight of steps, and there it is, sunk out of sight in a green hollow beside the river Alun with the ruined Bishop's Palace next to it. The site has been a place of pilgrimage since the Middle Ages, when two journeys to St Davids were said to equal one to Rome.

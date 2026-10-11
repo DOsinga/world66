@@ -5,7 +5,7 @@ image: pembrokeshire_coast_national_park.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Green_Bridge_of_Wales_1_-_Pembrokeshire_(2010).jpg
 latitude: 52.016855
-loc_type: region
+loc_type: feature
 longitude: -4.825811
 score: 0.65
 snippet: Welsh coastal national park of sea stacks, coves, beaches, and a long cliff

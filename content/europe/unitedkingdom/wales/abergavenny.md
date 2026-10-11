@@ -1,10 +1,14 @@
 ---
-title: Abergavenny
-type: location
-loc_type: city
+heritage: 4.603
+image: abergavenny.jpg
+image_attribution: Michael Garlick
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Abergavenny,_Beili_Priory_-_geograph.org.uk_-_7056356.jpg
 latitude: 51.824
+loc_type: city
 longitude: -3.017
-wikidata: Q609161
+nature: 6.502
+off_the_beaten_track: 2.798
 score: 5.454
 snippet: Monmouthshire market town ringed by Sugar Loaf, Blorenge, and the Black Mountains.
 sources:
@@ -12,14 +16,12 @@ sources:
 - https://en.wikipedia.org/wiki/Abergavenny
 - https://www.visitwales.com/destinations/south-wales/wye-valley-and-vale-usk/things-do-and-around-abergavenny
 - https://www.monlife.co.uk/heritage/abergavenny-museum/
-image: abergavenny.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Abergavenny,_Beili_Priory_-_geograph.org.uk_-_7056356.jpg
-image_license: CC BY-SA 2.0
-image_attribution: Michael Garlick
-heritage: 4.603
+tags:
+- brecon_beacons
+title: Abergavenny
+type: location
 vibrancy: 3.544
-nature: 6.502
-off_the_beaten_track: 2.798
+wikidata: Q609161
 ---
 
 *Europe > United Kingdom > Wales > Abergavenny*

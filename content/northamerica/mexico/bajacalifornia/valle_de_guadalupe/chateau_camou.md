@@ -1,15 +1,19 @@
 ---
-title: Château Camou
-type: poi
+address: Camino a la Cañada del Trigo s/n, Ejido El Porvenir, Ensenada, Baja California,
+  22750
 commercial: true
+email: hola@vinicola-chateaucamou.com
 latitude: 32.0751
 longitude: -116.6287
+outreach_code: F44N6N
+phone: +52 646 177 3303
 score: 6.8
 snippet: Bordeaux-method winery at El Porvenir with cellar tours and seated tastings
-tags: [activities, winery]
-address: "Camino a la Cañada del Trigo s/n, Ejido El Porvenir, Ensenada, Baja California, 22750"
-phone: "+52 646 177 3303"
-email: hola@vinicola-chateaucamou.com
+tags:
+- activities
+- winery
+title: Château Camou
+type: poi
 url: vinicola-chateaucamou.com
 ---
 

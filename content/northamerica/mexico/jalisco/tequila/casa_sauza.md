@@ -1,15 +1,19 @@
 ---
-title: Casa Sauza
-type: poi
+address: Luis Navarro 70, Tequila, Jalisco, 46400
 commercial: true
+email: contacto@casasauza.com
 latitude: 20.8842
 longitude: -103.8415
+outreach_code: 86JT4J
+phone: +52 81 4616 5029
 score: 6.5
-snippet: Sauza's distillery in Tequila, with tours from an hour among the agave to a four-hour tasting lunch
-tags: [activities, winery]
-address: "Luis Navarro 70, Tequila, Jalisco, 46400"
-phone: "+52 81 4616 5029"
-email: contacto@casasauza.com
+snippet: Sauza's distillery in Tequila, with tours from an hour among the agave to
+  a four-hour tasting lunch
+tags:
+- activities
+- winery
+title: Casa Sauza
+type: poi
 url: casasauza.com
 ---
 

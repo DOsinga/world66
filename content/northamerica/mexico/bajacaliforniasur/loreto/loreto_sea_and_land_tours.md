@@ -1,17 +1,20 @@
 ---
-title: Loreto Sea and Land Tours
-type: poi
+address: Francisco I. Madero esq. Hidalgo, Loreto, Baja California Sur, 23880
 commercial: true
+email: info@toursloreto.com
 latitude: 26.0116
 longitude: -111.3426
+outreach_code: W8DTY7
+phone: +52 613 135 0680
 score: 6.7
 snippet: Town-centre operation for the islands, kayaking, diving and the whale run
-tags: [activities, kayaking]
-address: "Francisco I. Madero esq. Hidalgo, Loreto, Baja California Sur, 23880"
-phone: "+52 613 135 0680"
-whatsapp: "+52 613 135 0680"
-email: info@toursloreto.com
+tags:
+- activities
+- kayaking
+title: Loreto Sea and Land Tours
+type: poi
 url: toursloreto.com
+whatsapp: +52 613 135 0680
 ---
 
 In the centre of Loreto, two streets from the mission, covering the Bay of Loreto national park — five islands, a marine protected area, and some of the quietest water in the Sea of Cortez.

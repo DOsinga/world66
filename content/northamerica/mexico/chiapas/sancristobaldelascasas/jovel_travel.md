@@ -1,17 +1,22 @@
 ---
-title: Jovel Travel
-type: poi
+address: Flavio A. Paniagua 27, Zona Centro, San Cristóbal de las Casas, Chiapas,
+  29220
 commercial: true
+email: reservas@joveltravel.com
 latitude: 16.7393
 longitude: -92.6292
+outreach_code: W38CH7
+phone: +52 967 631 7006
 score: 6.8
-snippet: Registered San Cristóbal agency for Yaxchilán, Bonampak and the highland villages
-tags: [activities, guided_tours]
-address: "Flavio A. Paniagua 27, Zona Centro, San Cristóbal de las Casas, Chiapas, 29220"
-phone: "+52 967 631 7006"
-whatsapp: "+52 967 164 2149"
-email: reservas@joveltravel.com
+snippet: Registered San Cristóbal agency for Yaxchilán, Bonampak and the highland
+  villages
+tags:
+- activities
+- guided_tours
+title: Jovel Travel
+type: poi
 url: joveltravel.com
+whatsapp: +52 967 164 2149
 ---
 
 An agency two streets north of the cathedral, carrying a national tourism registry number (RNT 05070780774) — worth checking for in Chiapas, where a good deal is sold off a clipboard in the street.

@@ -1,16 +1,20 @@
 ---
-title: Turismo Sin Límites
-type: poi
 commercial: true
+email: turismosinlimites1@hotmail.com
 latitude: 20.5888
 longitude: -100.3899
+outreach_code: YRZ23T
+phone: +52 442 212 0376
 score: 6.1
-snippet: Twenty years of day trips from Querétaro — cheese and wine, Bernal, the Sierra Gorda, balloons
-tags: [activities, guided_tours]
-phone: "+52 442 212 0376"
-whatsapp: "+52 442 265 2339"
-email: turismosinlimites1@hotmail.com
+snippet: Twenty years of day trips from Querétaro — cheese and wine, Bernal, the Sierra
+  Gorda, balloons
+tags:
+- activities
+- guided_tours
+title: Turismo Sin Límites
+type: poi
 url: toursenqueretaro.mx
+whatsapp: +52 442 265 2339
 ---
 
 A tour and transport company of more than twenty years, selling day trips out of Querétaro at published prices. They publish no address, so the pin is on the city.

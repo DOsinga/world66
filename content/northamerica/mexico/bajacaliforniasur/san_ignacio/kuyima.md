@@ -1,17 +1,21 @@
 ---
-title: Kuyimá
-type: poi
+address: Morelos 2 Oriente esq. Hidalgo, Centro, San Ignacio, Baja California Sur,
+  23930
 commercial: true
+email: info@kuyima.com
 latitude: 27.2837
 longitude: -112.8979
+outreach_code: R6GTYX
+phone: +52 615 154 0070
 score: 7.2
 snippet: The oldest of the San Ignacio lagoon whale camps, run as a local cooperative
-tags: [activities, wildlife_watching]
-address: "Morelos 2 Oriente esq. Hidalgo, Centro, San Ignacio, Baja California Sur, 23930"
-phone: "+52 615 154 0070"
-whatsapp: "+52 615 106 6638"
-email: info@kuyima.com
+tags:
+- activities
+- wildlife_watching
+title: Kuyimá
+type: poi
 url: kuyima.com
+whatsapp: +52 615 106 6638
 ---
 
 The oldest of the whale camps on Laguna San Ignacio, run from an office on the plaza in San Ignacio town and a camp out at the lagoon, sixty kilometres away down a dirt road.

@@ -1,17 +1,20 @@
 ---
-title: Lakin Tours
-type: poi
+address: Calle 41 A, Centro, Valladolid, Yucatán
 commercial: true
+email: lakintours@gmail.com
 latitude: 20.6894
-longitude: -88.1990
+longitude: -88.199
+outreach_code: 8HKFXF
+phone: +52 985 100 7206
 score: 6.5
 snippet: Yucatec Maya guides running Chichén Itzá, Ek Balam and the cenotes
-tags: [activities, guided_tours]
-address: "Calle 41 A, Centro, Valladolid, Yucatán"
-phone: "+52 985 100 7206"
-whatsapp: "+52 985 100 7206"
-email: lakintours@gmail.com
+tags:
+- activities
+- guided_tours
+title: Lakin Tours
+type: poi
 url: lakintours.com
+whatsapp: +52 985 100 7206
 ---
 
 Certified local guides working out of Valladolid, running Chichén Itzá, Ek Balam and the **cenotes** of the surrounding countryside, private or shared.

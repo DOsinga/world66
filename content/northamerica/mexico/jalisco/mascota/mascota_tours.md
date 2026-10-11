@@ -1,16 +1,20 @@
 ---
-title: Mascota Jalisco Tours
-type: poi
+address: Altamirano 11, Centro, Mascota, Jalisco, 46900
 commercial: true
+email: mascotatour@gmail.com
 latitude: 20.5294
 longitude: -104.7882
+outreach_code: 6KL6TB
 score: 6.4
-snippet: Mascota guides in English, French and Spanish — the volcano crater, the hot springs, San Sebastián del Oeste
-tags: [activities, guided_tours]
-address: "Altamirano 11, Centro, Mascota, Jalisco, 46900"
-whatsapp: "+1 450 803 5097"
-email: mascotatour@gmail.com
+snippet: Mascota guides in English, French and Spanish — the volcano crater, the hot
+  springs, San Sebastián del Oeste
+tags:
+- activities
+- guided_tours
+title: Mascota Jalisco Tours
+type: poi
 url: mascotatour.com
+whatsapp: +1 450 803 5097
 ---
 
 Guided tours from an office in the centre of Mascota, in English, French and Spanish.

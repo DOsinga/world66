@@ -2,6 +2,7 @@
 commercial: true
 latitude: -25.2888854
 longitude: -57.625326
+outreach_code: FWCCJ9
 phone: +595 21 217 0000
 score: 6.5
 snippet: The automobile club runs real tours — three days to Encarnación for Gs 990.000,

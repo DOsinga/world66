@@ -1,10 +1,14 @@
 ---
-title: Hay-on-Wye
-type: location
-loc_type: city
+heritage: 5.719
+image: hay_on_wye.jpg
+image_attribution: Hugh Venables
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Hay-on-Wye_book_shops_-_geograph.org.uk_-_2840794.jpg
 latitude: 52.08
+loc_type: city
 longitude: -3.13
-wikidata: Q174734
+nature: 3.96
+off_the_beaten_track: 2.981
 score: 4.849
 snippet: Welsh border book town on the River Wye, with a restored castle and festival
   reputation.
@@ -13,10 +17,12 @@ sources:
 - https://www.hay-on-wye.co.uk/
 - https://bannaubrycheiniog.org/townsandvillages/hay-on-wye/
 - https://www.haycastletrust.org/
-heritage: 5.719
+tags:
+- brecon_beacons
+title: Hay-on-Wye
+type: location
 vibrancy: 3.95
-nature: 3.96
-off_the_beaten_track: 2.981
+wikidata: Q174734
 ---
 
 *Europe > United Kingdom > Wales > Hay-on-Wye*

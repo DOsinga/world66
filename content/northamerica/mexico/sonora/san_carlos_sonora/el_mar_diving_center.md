@@ -1,15 +1,18 @@
 ---
-title: El Mar Diving Center
-type: poi
+address: Crestón 263, San Carlos, Sonora
 commercial: true
+email: elmarmexico@gmail.com
 latitude: 27.9631
-longitude: -111.0280
+longitude: -111.028
+outreach_code: 7XMFRR
+phone: +52 622 226 0404
 score: 6.3
 snippet: SSI dive shop with its own charter boat, plus kayak hire and freediving
-tags: [activities, diving]
-address: "Crestón 263, San Carlos, Sonora"
-phone: "+52 622 226 0404"
-email: elmarmexico@gmail.com
+tags:
+- activities
+- diving
+title: El Mar Diving Center
+type: poi
 url: elmarmexico.com
 ---
 

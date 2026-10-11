@@ -1,15 +1,18 @@
 ---
-title: Ecoturismo Comca'ac
-type: poi
+address: Punta Chueca, Sonora
 commercial: true
 latitude: 29.0149
 longitude: -112.1604
+outreach_code: VD73PQ
 score: 6.6
 snippet: Seri-run trips from Punta Chueca across to Isla Tiburón, by boat or by kayak
-tags: [activities, kayaking]
-address: "Punta Chueca, Sonora"
-whatsapp: "+52 662 424 8184"
+tags:
+- activities
+- kayaking
+title: Ecoturismo Comca'ac
+type: poi
 url: ecoturismocomcaac.com
+whatsapp: +52 662 424 8184
 ---
 
 Ecotourism run by the **Comcáac (Seri)** of Punta Chueca, the village north of Bahía de Kino that faces Isla Tiburón across the Canal del Infiernillo. Tiburón is the Seri's own island and a protected reserve, and going with the community is the proper way to visit.

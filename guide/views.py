@@ -719,6 +719,19 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                     seen_paths.add(poi.path)
                     section_pois.append(poi)
                     total_pois += 1
+            # Activities also names operators based elsewhere (providers:);
+            # inlined, it lists them alongside its own. They
+            # don't count towards the size test, which is about this place.
+            if section.slug == "activities":
+                for entry in section.meta.get("providers") or []:
+                    prov_path = entry.get("path", "") if isinstance(entry, dict) else entry
+                    if not prov_path or prov_path in seen_paths:
+                        continue
+                    prov = (load_page_from_revision(prov_path, source_ref, url_revision=url_revision)
+                            if source_ref else load_page(prov_path))
+                    if prov and prov.is_commercial:
+                        seen_paths.add(prov.path)
+                        section_pois.append(prov)
             candidate_sections.append((section, section_pois))
         if total_pois < 8:
             inline_sections = [
@@ -906,8 +919,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "is_poi": page.page_type == "poi",
         "poi_categories": poi_categories,
         "poi_context_prefix": poi_context_prefix,
-        "inline_sections": _inline_without_activities(inline_sections, location_providers),
-        "sections_inlined": inline_sections is not None,
+        "inline_sections": inline_sections,
         "linked_locations": linked_locations,
         "daytrip_cards": daytrip_cards,
         "more_linked_locations": more_linked_locations,
@@ -1518,14 +1530,3 @@ def _file_to_url_path(file_path):
     if len(parts) >= 2 and parts[-1] == parts[-2]:
         parts = parts[:-1]
     return '/'.join(parts)
-
-
-def _inline_without_activities(inline_sections, location_providers):
-    """On a small city whose sections are inlined, the Activities section would
-    list the same providers the "Arrange your trip" panel already shows, so it
-    is dropped there rather than repeated as a section of its own."""
-    if not inline_sections or not location_providers:
-        return inline_sections
-    kept = [item for item in inline_sections
-            if item["section"].slug != "activities" and item["section"].nav_tag != "activities"]
-    return kept

@@ -363,7 +363,7 @@
 {% endfor %}
 {% endif %}
 
-{% if page.page_type == "location" and sections and not sections_inlined %}
+{% if page.page_type == "location" and sections and not inline_sections %}
 <div class="sections-row-wrap">
   <span class="section-kicker">Guide</span>
   <h2 class="section-block-heading">Sections</h2>
@@ -388,7 +388,7 @@
 </div>
 {% endif %}
 
-{% if page.page_type == "location" and sections_inlined and location_bloglists %}
+{% if page.page_type == "location" and inline_sections and location_bloglists %}
 {# A small city's sections are inlined, so its bloglist is too, instead of
    standing alone as the one remaining section card. #}
 {% for bl in location_bloglists %}

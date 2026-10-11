@@ -1,20 +1,20 @@
 ---
-title: Sky Road
-type: poi
 latitude: 53.4949
 longitude: -10.1117
-score: 8.2
-snippet: Short Atlantic loop above Clifden Bay, with some of Connemara's best roadside views
-tags:
-  - things_to_do
-  - sight
-  - viewpoint
+score: 9.1
+snippet: Short Atlantic loop above Clifden Bay, with some of Connemara's best roadside
+  views
 sources:
-  - https://en.wikivoyage.org/wiki/Clifden
-  - https://www.thewildatlanticway.com/sight/sky-road/
+- https://en.wikivoyage.org/wiki/Clifden
+- https://www.thewildatlanticway.com/sight/sky-road/
+tags:
+- things_to_do
+- sight
+- viewpoint
+title: Sky Road
+type: poi
 ---
 
-The Sky Road is a narrow loop west of Clifden that climbs onto the Kingstown Peninsula and looks back over Clifden Bay, offshore islands and broken Atlantic pasture. The upper road is the one you want for views; the lower road keeps closer to the water.
+The Sky Road is a 13 km looped road west of Clifden that climbs onto the Kingstown Peninsula and traces its sea-edged ridgeline before dropping back to town. It is one of the most consistently spectacular short drives in Ireland: the road rises quickly enough that you are soon level with the offshore islands, looking down at the tidal inlets and across the Atlantic with nothing between you and Newfoundland.
 
-Drive it slowly, cycle it if the wind is kind, or walk a shorter stretch from town. The viewpoint is especially good late in the day, when the low sun catches the islands and the water below.
-
+The route is narrow, one-car-wide in places, and not suitable for large vehicles. Cyclists do it in both directions; walkers can do the full loop in about three hours on foot. The ruined tower of Clifden Castle — seat of the d'Arcy family who founded Clifden in the early 19th century — stands near the highest point with views in every direction. Drive it at sunset if at all possible.

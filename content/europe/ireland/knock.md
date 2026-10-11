@@ -1,28 +1,19 @@
 ---
+heritage: 7.615
 latitude: 53.7903
 loc_type: city
 longitude: -8.9171
-score: 5.882
-snippet: Irish pilgrimage town centred on the Marian shrine at Knock.
-title: Sights in Knock
-type: location
-heritage: 7.615
-vibrancy: 2.166
 nature: 3.821
 off_the_beaten_track: 3.133
+score: 5.882
+snippet: Irish pilgrimage town centred on the Marian shrine at Knock.
+title: Knock
+type: location
+vibrancy: 2.166
 ---
 
-Sights in Knock around Ireland's National Marian Shrine.
+Knock is a small village in east County Mayo that became one of the great Catholic pilgrimage sites of Europe. On a wet August evening in 1879, fifteen villagers said they saw the Virgin Mary, St Joseph and St John the Evangelist at the gable wall of the parish church, and the pilgrims started arriving within weeks. Today **Knock Shrine** draws well over a million visitors a year, most of them between May and October, and the village is built around it: the old church with its glass-walled Apparition Chapel, the vast [Basilica](/europe/ireland/knock/basilica), the museum of folk life and the story of the apparition, and the long street of shops selling holy water bottles and rosaries.
 
-**Contributors**
-June 05, 2006
+Pope John Paul II came in 1979 for the shrine's centenary, and Pope Francis in 2018. The other legacy of the shrine is the airport. Monsignor James Horan, the parish priest, campaigned for an international airport on a boggy hilltop nearby in the 1980s, and Ireland West Airport Knock, opened in 1986, is now the main gateway to the west of Ireland.
 
-### [Basilica](/europe/ireland/knock/sights/basilica)
-
-The largest church in Ireland can host up to 12000 people. It was opened in 1976 and is situated on the Shrine Grounds.
-
-type: Churches and Cathedrals
-
-
-
-[[rate it]](/europe/ireland/knock/sights/basilica)
+Even if you are not a pilgrim, Knock is worth an hour on the way between Westport, Sligo and the Shannon. It is at its most striking on one of the big feast days, when the crowds give a sense of what the place means to a large part of the country.

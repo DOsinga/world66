@@ -2,12 +2,13 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 52.8408
+loc_type: city
 longitude: -6.9261
-title: Carlow
-snippet: Small southeastern Irish county and Barrow River town, with castle ruins and Blackstairs walking country.
-type: location
 score: 0.45
-loc_type: region
+snippet: Small southeastern Irish county and Barrow River town, with castle ruins
+  and Blackstairs walking country.
+title: Carlow
+type: location
 ---
 
 Carlow is one of Ireland's smallest counties, tucked into the southeast between Kilkenny, Wexford, and Wicklow. The county town, also called Carlow, sits on the River Barrow and is a compact, walkable place with a handful of things worth seeing.

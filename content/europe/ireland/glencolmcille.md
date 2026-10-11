@@ -1,10 +1,10 @@
 ---
-title: Glencolmcille
-type: location
-loc_type: city
+heritage: 5.83
 latitude: 54.7103
+loc_type: city
 longitude: -8.7203
-wikidata: Q958639
+nature: 7.946
+off_the_beaten_track: 5.872
 score: 6.721
 snippet: Remote Donegal Gaeltacht valley of folk cottages, pilgrimage stones, and
   Atlantic cliffs.
@@ -13,10 +13,12 @@ sources:
 - https://www.discoverireland.ie/donegal/glencolmcille-folk-village
 - https://voicesfromthedawn.com/glencolumcille/
 - https://en.wikipedia.org/wiki/Glencolmcille
-heritage: 5.83
+tags:
+- donegal
+title: Glencolmcille
+type: location
 vibrancy: 0.906
-nature: 7.946
-off_the_beaten_track: 5.872
+wikidata: Q958639
 ---
 
 Glencolmcille is a small Irish-speaking valley on the far southwest coast of County Donegal. The village itself is tiny, but the setting is big: green fields dropping to Glen Bay, dark Atlantic cliffs, old pilgrimage stones, and mountains closing the road behind you. It feels farther from Dublin than the map admits.

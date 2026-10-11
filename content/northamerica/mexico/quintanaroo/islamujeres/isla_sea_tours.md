@@ -1,17 +1,20 @@
 ---
-title: Isla Sea Tours
-type: poi
+address: Sac Bajo, Isla Mujeres, Quintana Roo
 commercial: true
+email: hola@isla-seatours.com
 latitude: 21.2372
-longitude: -86.7350
+longitude: -86.735
+outreach_code: QH257X
+phone: +52 998 720 6080
 score: 6.7
 snippet: Family boat out of Sac Bajo for whale sharks, snorkelling and fishing
-tags: [activities, boating]
-address: "Sac Bajo, Isla Mujeres, Quintana Roo"
-phone: "+52 998 720 6080"
-whatsapp: "+52 998 720 6080"
-email: hola@isla-seatours.com
+tags:
+- activities
+- boating
+title: Isla Sea Tours
+type: poi
 url: isla-seatours.com
+whatsapp: +52 998 720 6080
 ---
 
 A family business run by Nano and Juan out of Sac Bajo on the lagoon side of Isla Mujeres, with more than twenty years on this water between them.

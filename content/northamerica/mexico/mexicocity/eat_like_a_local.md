@@ -1,14 +1,17 @@
 ---
-title: Eat Like a Local Mexico
-type: poi
+address: Ciudad de México
 commercial: true
 latitude: 19.4326
 longitude: -99.1332
+outreach_code: 4VQ8DH
+phone: +52 55 1954 6841
 score: 6.8
 snippet: Six-person food walks through neighbourhoods tourists rarely reach
-tags: [activities, guided_tours]
-address: "Ciudad de México"
-phone: "+52 55 1954 6841"
+tags:
+- activities
+- guided_tours
+title: Eat Like a Local Mexico
+type: poi
 url: eatlikealocal.com.mx
 ---
 

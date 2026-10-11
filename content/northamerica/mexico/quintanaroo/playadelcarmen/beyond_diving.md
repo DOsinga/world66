@@ -1,17 +1,21 @@
 ---
-title: Beyond Diving
-type: poi
+address: Playa del Carmen, Quintana Roo
 commercial: true
+email: info@beyonddivingscuba.com
 latitude: 20.6461
 longitude: -87.0806
+outreach_code: VMQQ5K
+phone: +52 984 262 6303
 score: 6.5
-snippet: Cave and technical diving out of Playa del Carmen, for divers going past the cavern line
-tags: [activities, diving]
-address: Playa del Carmen, Quintana Roo
-phone: "+52 984 262 6303"
-whatsapp: "+52 984 262 6303"
-email: info@beyonddivingscuba.com
+snippet: Cave and technical diving out of Playa del Carmen, for divers going past
+  the cavern line
+tags:
+- activities
+- diving
+title: Beyond Diving
+type: poi
 url: beyonddivingscuba.com
+whatsapp: +52 984 262 6303
 ---
 
 A Playa del Carmen centre specialising in **cave and technical diving** — the training and the guiding for the part of the Yucatán's flooded system that lies beyond the daylight zone.

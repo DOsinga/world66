@@ -1,17 +1,20 @@
 ---
-title: Cabo Pulmo Sport Center
-type: poi
+address: Cabo Pulmo, Baja California Sur, 23570
 commercial: true
-latitude: 23.4440
+email: cabopulmosportcenter@gmail.com
+latitude: 23.444
 longitude: -109.4255
+outreach_code: LR5QRF
+phone: +52 624 157 9795
 score: 6.7
 snippet: Village dive and watersports operation, diving, snorkelling and kayaks
-tags: [activities, diving]
-address: "Cabo Pulmo, Baja California Sur, 23570"
-phone: "+52 624 157 9795"
-whatsapp: "+52 624 157 9795"
-email: cabopulmosportcenter@gmail.com
+tags:
+- activities
+- diving
+title: Cabo Pulmo Sport Center
+type: poi
 url: cabopulmosportcenter.com
+whatsapp: +52 624 157 9795
 ---
 
 One of the handful of operations in the village, running park dives, guided snorkelling and kayaks for people who want to get out over the shallow reef under their own steam.

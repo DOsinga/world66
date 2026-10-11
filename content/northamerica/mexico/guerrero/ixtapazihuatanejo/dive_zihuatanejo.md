@@ -1,15 +1,18 @@
 ---
-title: Dive Zihuatanejo
-type: poi
+address: Pedro Ascencio 7, Centro, Zihuatanejo, Guerrero, 40890
 commercial: true
+email: dive@divezihuatanejo.com
 latitude: 17.6392
 longitude: -101.5518
+outreach_code: 99G5DK
+phone: +52 755 127 1512
 score: 6.7
 snippet: Centro dive shop working the bay's rock pinnacles, plus whale trips in winter
-tags: [activities, diving]
-address: "Pedro Ascencio 7, Centro, Zihuatanejo, Guerrero, 40890"
-phone: "+52 755 127 1512"
-email: dive@divezihuatanejo.com
+tags:
+- activities
+- diving
+title: Dive Zihuatanejo
+type: poi
 url: divezihuatanejo.com
 ---
 

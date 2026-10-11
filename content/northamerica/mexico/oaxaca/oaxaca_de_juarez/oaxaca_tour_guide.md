@@ -1,15 +1,19 @@
 ---
-title: Oaxaca Tour Guide
-type: poi
+address: Prol. Eucaliptos 303, Oaxaca de Juárez, Oaxaca, 68050
 commercial: true
+email: jml.guide@gmail.com
 latitude: 17.0736
 longitude: -96.7096
+outreach_code: VMW38Q
+phone: +52 951 170 3239
 score: 6.8
-snippet: Federally licensed guide running Monte Albán, the valley villages and the palenques
-tags: [activities, guided_tours]
-address: "Prol. Eucaliptos 303, Oaxaca de Juárez, Oaxaca, 68050"
-phone: "+52 951 170 3239"
-email: jml.guide@gmail.com
+snippet: Federally licensed guide running Monte Albán, the valley villages and the
+  palenques
+tags:
+- activities
+- guided_tours
+title: Oaxaca Tour Guide
+type: poi
 url: oaxacatourguide.com
 ---
 

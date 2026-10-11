@@ -1,17 +1,21 @@
 ---
-title: Globos Aerostáticos Teotihuacán
-type: poi
+address: Carretera Ecatepec–Pirámides Km 22.5, San Juan Teotihuacán, Estado de México,
+  55830
 commercial: true
+email: info@globosaerostaticosteotihuacan.com
 latitude: 19.6934
 longitude: -98.8831
+outreach_code: JQT2C3
+phone: +52 55 1454 0469
 score: 6.8
 snippet: Balloon flights over the valley since 2014, launching from the Ecatepec road
-tags: [activities, scenic_flights]
-address: "Carretera Ecatepec–Pirámides Km 22.5, San Juan Teotihuacán, Estado de México, 55830"
-phone: "+52 55 1454 0469"
-whatsapp: "+52 55 4036 4761"
-email: info@globosaerostaticosteotihuacan.com
+tags:
+- activities
+- scenic_flights
+title: Globos Aerostáticos Teotihuacán
+type: poi
 url: globosaerostaticosteotihuacan.com
+whatsapp: +52 55 4036 4761
 ---
 
 Flying over the Teotihuacán valley since 2014, with pilots licensed by AFAC — Mexico's civil aviation authority — which is the single thing to check before booking a balloon here.

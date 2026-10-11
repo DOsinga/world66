@@ -1,5 +1,9 @@
 ---
 heritage: 4.707
+image: bala.jpg
+image_attribution: Llywelyn2000
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Y_Bala,_Gwynedd_-_awyrlun_(aerial_view)_Mehefin_(June)_2023_01.jpg
 latitude: 52.9119
 loc_type: city
 longitude: -3.5977

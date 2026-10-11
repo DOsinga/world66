@@ -1,5 +1,9 @@
 ---
 heritage: 4.347
+image: crickhowell.jpg
+image_attribution: Martinvl
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:CrickhowellBridge.jpg
 latitude: 51.8597
 loc_type: city
 longitude: -3.1372

@@ -2,7 +2,7 @@
 title: Activities
 type: section
 providers:
-- path: europe/unitedkingdom/wales/pembrokeshire_coast_national_park/pembrokeshire_islands_boat_trips
+- path: europe/unitedkingdom/wales/dale/pembrokeshire_islands_boat_trips
   note: Skomer landings from Martin's Haven, at the south end of St Brides Bay
 - path: europe/unitedkingdom/wales/pembrokeshire_coast_national_park/newsurf
   note: Surf lessons at Newgale, seven miles east

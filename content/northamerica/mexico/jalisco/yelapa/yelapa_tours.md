@@ -1,14 +1,18 @@
 ---
-title: Yelapa Tours
-type: poi
+address: Yelapa, Jalisco
 commercial: true
+email: info@yelapatours.com
 latitude: 20.4977
 longitude: -105.4519
+outreach_code: F8YHDR
 score: 6.2
-snippet: Waterfall hikes, mule-and-ATV rides, paddleboards and boats from the village with no road
-tags: [activities, guided_tours]
-address: "Yelapa, Jalisco"
-email: info@yelapatours.com
+snippet: Waterfall hikes, mule-and-ATV rides, paddleboards and boats from the village
+  with no road
+tags:
+- activities
+- guided_tours
+title: Yelapa Tours
+type: poi
 url: yelapatours.com
 ---
 

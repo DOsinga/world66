@@ -3,6 +3,7 @@ commercial: true
 email: info@saltosuizo.com.py
 latitude: -25.7738885
 longitude: -56.2285703
+outreach_code: 9RBYPK
 phone: +595 981 113 833
 score: 6.9
 snippet: A 60 m waterfall in the Ybytyruzú, with rappel, zipline, trails and rooms

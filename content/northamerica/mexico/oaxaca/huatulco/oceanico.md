@@ -1,14 +1,18 @@
 ---
+address: Marina Chahué, Huatulco, Oaxaca
+commercial: true
+email: info@oceanico.org
+latitude: 15.764
+longitude: -96.1213
+outreach_code: 8ZZ9RY
+score: 6.9
+snippet: Marina Chahué outfit running snorkel and whale-watching trips on conservation
+  rules
+tags:
+- activities
+- wildlife_watching
 title: Oceánico
 type: poi
-commercial: true
-latitude: 15.7640
-longitude: -96.1213
-score: 6.9
-snippet: Marina Chahué outfit running snorkel and whale-watching trips on conservation rules
-tags: [activities, wildlife_watching]
-address: "Marina Chahué, Huatulco, Oaxaca"
-email: info@oceanico.org
 url: oceanico.org
 ---
 

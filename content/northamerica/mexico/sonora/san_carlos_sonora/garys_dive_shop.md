@@ -1,17 +1,21 @@
 ---
-title: Gary's Dive Shop
-type: poi
+address: Km 10 Blvd. Manlio Fabio Beltrones, San Carlos, Sonora, 85506
 commercial: true
+email: gary@garysdiveshop.com
 latitude: 27.9723
 longitude: -111.0111
+outreach_code: J4JKSW
+phone: +52 622 120 0584
 score: 6.7
-snippet: San Carlos's long-running dive shop — sea lions at San Pedro Nolasco, PADI courses, nature cruises
-tags: [activities, diving]
-address: "Km 10 Blvd. Manlio Fabio Beltrones, San Carlos, Sonora, 85506"
-phone: "+52 622 120 0584"
-whatsapp: "+52 622 120 0584"
-email: gary@garysdiveshop.com
+snippet: San Carlos's long-running dive shop — sea lions at San Pedro Nolasco, PADI
+  courses, nature cruises
+tags:
+- activities
+- diving
+title: Gary's Dive Shop
+type: poi
 url: garysdivemexico.com
+whatsapp: +52 622 120 0584
 ---
 
 A full-service dive shop on the main boulevard through San Carlos, open every day from eight to five. The pin is on the town; they give their address as kilometre 10 of the boulevard.

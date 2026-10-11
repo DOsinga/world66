@@ -1,14 +1,18 @@
 ---
-title: GDL Food Tours
-type: poi
 commercial: true
+email: contacto@gdlfoodtours.com
 latitude: 20.6767
 longitude: -103.3475
+outreach_code: KY92ZP
+phone: +52 33 1772 6488
 score: 6.6
-snippet: Two and a half hours of torta ahogada, carne en su jugo and tequila through the historic centre
-tags: [activities, guided_tours]
-phone: "+52 33 1772 6488"
-email: contacto@gdlfoodtours.com
+snippet: Two and a half hours of torta ahogada, carne en su jugo and tequila through
+  the historic centre
+tags:
+- activities
+- guided_tours
+title: GDL Food Tours
+type: poi
 url: gdlfoodtours.com
 ---
 

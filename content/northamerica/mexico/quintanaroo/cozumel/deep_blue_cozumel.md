@@ -1,17 +1,20 @@
 ---
-title: Deep Blue Cozumel
-type: poi
+address: Adolfo Rosado Salas 200, San Miguel de Cozumel, 77600
 commercial: true
+email: scuba@deepbluecozumel.com
 latitude: 20.5031
 longitude: -86.9436
+outreach_code: 9ZNCGG
+phone: +52 987 118 2639
 score: 7.0
 snippet: Long-running San Miguel shop diving the southern walls, with its own boats
-tags: [activities, diving]
-address: "Adolfo Rosado Salas 200, San Miguel de Cozumel, 77600"
-phone: "+52 987 118 2639"
-whatsapp: "+52 987 118 2639"
-email: scuba@deepbluecozumel.com
+tags:
+- activities
+- diving
+title: Deep Blue Cozumel
+type: poi
 url: deepbluecozumel.com
+whatsapp: +52 987 118 2639
 ---
 
 A shop on Rosado Salas in San Miguel, two blocks from the waterfront, running its own boats down to the southern reefs — Palancar, Columbia, Santa Rosa, Punta Sur — where the wall drops away and the current carries you along it.

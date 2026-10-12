@@ -11,6 +11,8 @@ snippet: Sheltered west Mainland garden, open seasonally in a treeless Shetland 
 score: 6.6
 source: Wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Walls
+sources:
+  - https://www.shetland.org/blog/west-and-north-mainland
 ---
 
 Lea Gardens is a seasonal garden along the A971 toward Walls. In Shetland, where wind and salt make trees scarce, a sheltered garden has more interest than it might elsewhere.

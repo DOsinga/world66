@@ -5,10 +5,13 @@ tags:
   - eating_out
   - restaurant
   - west_end
+  - blogs_for_glasgow
 address: "12 Ashton Lane, Glasgow G12 8SJ"
 latitude: 55.8737
 longitude: -4.2921
 score: 7.1
+sources:
+  - https://www.glasgowheritage.org.uk/alasdair-grays-glasgow-how-one-artist-reimagined-a-city/
 ---
 
 The Ubiquitous Chip is Glasgow's most celebrated restaurant, open since 1971 on Ashton Lane in the West End and consistently credited with pioneering modern Scottish cooking — the use of Scottish ingredients, seasonal menus, and a focus on provenance long before farm-to-table became a cliché everywhere else. The cobbled lane setting, the covered vine-hung courtyard, and the deliberately eccentric name (a riposte to the chip being Scotland's most-maligned cliché) give it an identity that has sustained it for fifty years.

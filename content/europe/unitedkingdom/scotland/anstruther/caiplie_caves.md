@@ -6,11 +6,13 @@ longitude: -2.6474
 score: 5.2
 snippet: Wind-carved sandstone caves on the Fife Coastal Path, used by early Christian hermits.
 tags:
+- blogs_for_fife
 - things_to_do
 - sight
 - walking
 - history
 sources:
+- https://www.lovefromscotland.co.uk/east-neuk-fife/
 - https://en.wikivoyage.org/wiki/Anstruther
 - https://en.wikipedia.org/wiki/Anstruther
 ---

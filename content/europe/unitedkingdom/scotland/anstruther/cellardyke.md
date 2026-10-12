@@ -6,10 +6,12 @@ longitude: -2.6836
 score: 5.8
 snippet: Old fishing village joined onto Anstruther's east end, with a tiny 16th-century harbour and narrow streets of fishermen's houses.
 tags:
+- blogs_for_fife
 - things_to_do
 - sight
 - neighbourhood
 sources:
+- https://www.lovefromscotland.co.uk/east-neuk-fife/
 - https://en.wikipedia.org/wiki/Cellardyke
 - https://en.wikivoyage.org/wiki/Anstruther
 story: >

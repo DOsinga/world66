@@ -5,6 +5,7 @@ score: 7.5
 snippet: The northern of Skye's flat-topped MacLeod's Tables, a rough hill walk above
   Dunvegan.
 sources:
+- https://islandcrofter.substack.com/p/on-the-misty-shores-of-loch-dunvegan
 - https://en.wikivoyage.org/wiki/Dunvegan
 - https://www.walkhighlands.co.uk/skye/macleodstables.shtml
 - https://en.wikipedia.org/wiki/Healabhal_Mh%C3%B2r

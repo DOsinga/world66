@@ -1,9 +1,9 @@
 ---
-address: Calle Pelícanos, Sayulita, Nayarit, 63132
+address: Calle Pelícanos 5B, Sayulita, Nayarit, 63734
 commercial: true
 email: mareasayulita@gmail.com
-latitude: 20.8688
-longitude: -105.4385
+latitude: 20.8701
+longitude: -105.4391
 outreach_code: ZKDJDY
 phone: +52 322 354 0303
 score: 6.6

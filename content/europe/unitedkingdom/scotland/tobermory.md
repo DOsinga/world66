@@ -1,5 +1,9 @@
 ---
 heritage: 6.048
+image: tobermory.jpg
+image_attribution: Tom Parnell
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Tobermory_Old_Pier_-_view_from_SW.jpg
 latitude: 56.6235
 loc_type: city
 longitude: -6.063

@@ -3,6 +3,10 @@ done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-06-02'
 heritage: 3.863
+image: moray.jpg
+image_attribution: Lucas Kendall
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Bow_Fiddle_Rock_Front_September.jpg
 latitude: 57.65
 loc_type: feature
 longitude: -3.3167

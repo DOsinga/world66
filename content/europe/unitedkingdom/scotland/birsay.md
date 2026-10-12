@@ -1,5 +1,9 @@
 ---
 heritage: 6.308
+image: birsay.jpg
+image_attribution: Rab Lawrence
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Brough_of_Birsay,_Orkney,_Scotland_-_Aug_11,_2018.jpg
 latitude: 59.13496
 loc_type: city
 longitude: -3.32465

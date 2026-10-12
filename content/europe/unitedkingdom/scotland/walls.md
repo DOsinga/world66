@@ -1,5 +1,9 @@
 ---
 heritage: 5.345
+image: walls.jpg
+image_attribution: Gordon Hatton
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Shoreline_at_Walls_-_geograph.org.uk_-_8073453.jpg
 latitude: 60.229
 loc_type: city
 longitude: -1.566

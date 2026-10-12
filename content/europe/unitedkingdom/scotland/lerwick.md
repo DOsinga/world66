@@ -1,5 +1,9 @@
 ---
 heritage: 4.36
+image: lerwick.jpg
+image_attribution: Florent Abel
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Lerwick_Harbour,_Highland.jpg
 latitude: 60.155
 loc_type: city
 longitude: -1.145

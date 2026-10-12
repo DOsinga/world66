@@ -2,6 +2,10 @@
 done:
   location_cleanup: '2026-04-09'
 heritage: 5.638
+image: ross_of_mull.jpg
+image_attribution: Andrew Wood
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Fionnphort_Beach_-_geograph.org.uk_-_5974090.jpg
 latitude: 56.305319
 loc_type: feature
 longitude: -6.236819

@@ -1,5 +1,9 @@
 ---
 heritage: 5.389
+image: bressay.jpg
+image_attribution: Hajotthu
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Bressay_Lighthouse_a.JPG
 latitude: 60.15
 loc_type: feature
 longitude: -1.083

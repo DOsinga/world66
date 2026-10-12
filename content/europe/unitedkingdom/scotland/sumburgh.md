@@ -1,5 +1,9 @@
 ---
 heritage: 4.967
+image: sumburgh.jpg
+image_attribution: Ekrem Canli
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Sumburgh_Head_Lighthouse_2026.jpg
 latitude: 59.87
 loc_type: feature
 longitude: -1.28

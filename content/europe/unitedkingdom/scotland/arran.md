@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: arran.jpg
+image_attribution: Mike Peel
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Lochranza_Castle_2.jpg
 latitude: 55.577451
 loc_type: island
 longitude: -5.252161

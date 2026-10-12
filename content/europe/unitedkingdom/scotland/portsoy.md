@@ -1,16 +1,20 @@
 ---
-title: Portsoy
-type: location
-loc_type: city
-snippet: Moray Firth fishing village with twin harbours, Portsoy marble, and 17th-century
-  stone lanes
-latitude: 57.6844
-longitude: -2.6918
-score: 4.598
 heritage: 3.959
-vibrancy: 2.954
+image: portsoy.jpg
+image_attribution: Leslie Barrie
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Old_Harbour,_Portsoy_-_geograph.org.uk_-_3534591.jpg
+latitude: 57.6844
+loc_type: city
+longitude: -2.6918
 nature: 5.449
 off_the_beaten_track: 3.501
+score: 4.598
+snippet: Moray Firth fishing village with twin harbours, Portsoy marble, and 17th-century
+  stone lanes
+title: Portsoy
+type: location
+vibrancy: 2.954
 ---
 
 Portsoy is a small fishing village on the Moray Firth coast of Aberdeenshire in northeast Scotland. It has two natural harbours, the older of which dates from the 17th century and is one of the best-preserved of its kind in Scotland. The village was once known for its distinctive green and purple marble — Portsoy marble was exported to Versailles in the 17th century for the fireplaces of Louis XIV, a fact the locals mention with some pride.

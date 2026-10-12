@@ -3,6 +3,10 @@ done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-06-01'
 heritage: 4.629
+image: callander.jpg
+image_attribution: James Richardson-Lewis
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Ben_Ledi,_viewed_from_Callander_-_geograph.org.uk_-_7375179.jpg
 latitude: 56.243694
 loc_type: city
 longitude: -4.214803

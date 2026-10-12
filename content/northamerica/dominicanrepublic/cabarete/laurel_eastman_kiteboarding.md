@@ -14,8 +14,9 @@ tags:
 title: Laurel Eastman Kiteboarding
 type: poi
 url: laureleastman.com
+whatsapp: "+1 809 853 8466"
 ---
 
 One of the older schools in Cabarete, set up by a former professional rider, and the one most often recommended for people learning from nothing. Lessons are on the bay rather than out at Kite Beach for the early stages, which is calmer water and a shorter swim when it goes wrong.
 
-They also teach wing foiling and run downwinders along the coast for riders who are already up.
+They also teach wing foiling and run downwinders along the coast for riders who are already up. WhatsApp is their main way of talking to guests.

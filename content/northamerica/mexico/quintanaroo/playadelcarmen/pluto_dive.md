@@ -1,9 +1,9 @@
 ---
-address: Playa del Carmen, Quintana Roo
+address: Calle 40 Norte between 5 and 10 Avenida, Zazil Ha, Playa del Carmen
 commercial: true
 email: plutodive@gmail.com
-latitude: 20.6461
-longitude: -87.0806
+latitude: 20.6367
+longitude: -87.0656
 outreach_code: QBTJLQ
 phone: +52 984 151 9045
 score: 6.6

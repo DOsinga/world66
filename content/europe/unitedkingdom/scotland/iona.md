@@ -6,7 +6,7 @@ image: iona.jpg
 image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Iona_(15020668711).jpg
 latitude: 56.3289
-loc_type: region
+loc_type: city
 longitude: -6.4084
 score: 0.61
 snippet: Small Hebridean island where St Columba's monastic legacy gives five quiet

@@ -1,25 +1,27 @@
 ---
 done:
   location_create: '2026-06-04'
+heritage: 5.331
+image: drumnadrochit.jpg
+image_attribution: Trevor Littlewood
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Cottages_in_Drumnadrochit_-_geograph.org.uk_-_2443303.jpg
 latitude: 57.3351
 loc_type: city
 longitude: -4.4797
-sources:
-- https://en.wikipedia.org/wiki/Drumnadrochit
-- https://en.wikivoyage.org/wiki/Drumnadrochit
-title: Drumnadrochit
-type: location
-image: drumnadrochit.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Cottages_in_Drumnadrochit_-_geograph.org.uk_-_2443303.jpg
-image_license: CC BY-SA 2.0
-image_attribution: Trevor Littlewood
+nature: 6.919
+off_the_beaten_track: 4.251
 score: 5.922
 snippet: Loch Ness village where monster lore meets Glen Urquhart walks and ruined
   Urquhart Castle.
-heritage: 5.331
+sources:
+- https://en.wikipedia.org/wiki/Drumnadrochit
+- https://en.wikivoyage.org/wiki/Drumnadrochit
+tags:
+- loch_ness
+title: Drumnadrochit
+type: location
 vibrancy: 2.042
-nature: 6.919
-off_the_beaten_track: 4.251
 ---
 
 *Europe > United Kingdom > Scotland > Drumnadrochit*

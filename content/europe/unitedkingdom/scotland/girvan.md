@@ -1,18 +1,22 @@
 ---
-title: Girvan
-type: location
-loc_type: city
+heritage: 3.176
+image: girvan.jpg
+image_attribution: Chris Beaver
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Ailsa_Craig_from_near_Girvan_-_geograph.org.uk_-_4932686.jpg
 latitude: 55.2425
+loc_type: city
 longitude: -4.8555
+nature: 5.383
+off_the_beaten_track: 2.776
 score: 4.341
 snippet: South Ayrshire harbour town with a long beach, hill walks, and boats to Ailsa
   Craig.
 source: Wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Girvan
-heritage: 3.176
+title: Girvan
+type: location
 vibrancy: 2.04
-nature: 5.383
-off_the_beaten_track: 2.776
 ---
 
 Girvan is a seaside town on the South Ayrshire coast, far enough from Glasgow that it has kept more of its fishing-town character than the easier Clyde resorts. The harbour, beach, and view west to the lonely pyramid of [Ailsa Craig](/europe/unitedkingdom/scotland/girvan/ailsa_craig) are the reason to come.

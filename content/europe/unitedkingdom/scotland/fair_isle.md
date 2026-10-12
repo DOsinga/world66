@@ -1,26 +1,28 @@
 ---
-title: Fair Isle
-type: location
-loc_type: feature
+heritage: 6.319
+image: fair_isle.jpg
+image_attribution: Carroll Pierce
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Fair_Isle_-_geograph.org.uk_-_7551874.jpg
 latitude: 59.5417
+loc_type: feature
 longitude: -1.6225
+nature: 6.803
+off_the_beaten_track: 5.22
 score: 6.117
 snippet: Remote inhabited Shetland island of migratory birds, sea cliffs, lighthouses,
   and patterned knitwear.
-wikidata: Q762752
 sources:
 - https://en.wikivoyage.org/wiki/Fair_Isle
 - https://www.shetland.org/visit/areas/fair-isle
 - https://www.fairisle.org.uk/things-to-do.html
 - https://www.fairislebirdobs.co.uk/
-image: fair_isle.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Fair_Isle_-_geograph.org.uk_-_7551874.jpg
-image_license: CC BY-SA 2.0
-image_attribution: Carroll Pierce
-heritage: 6.319
+tags:
+- shetland
+title: Fair Isle
+type: location
 vibrancy: 2.364
-nature: 6.803
-off_the_beaten_track: 5.22
+wikidata: Q762752
 ---
 
 Fair Isle is a small inhabited island halfway between Shetland Mainland and Orkney, remote enough that the journey is part of the story. It is only about 5 km long, but its cliffs, crofts, lighthouses, and constant movement of birds make it feel much larger on foot.

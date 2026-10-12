@@ -1,0 +1,29 @@
+---
+done:
+  location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-04'
+heritage: 5.402
+image: broadford.jpg
+image_attribution: Hugh Venables
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Rainbow_at_Broadford_-_geograph.org.uk_-_7320543.jpg
+latitude: 57.241015
+loc_type: city
+longitude: -5.90618
+nature: 7.547
+off_the_beaten_track: 5.083
+score: 6.346
+snippet: Practical Skye village on Broadford Bay, well placed for Sleat, Elgol, and
+  southern island roads.
+tags:
+- skye
+title: Broadford
+type: location
+vibrancy: 2.003
+---
+
+Broadford is the second-largest settlement on [Skye](/europe/unitedkingdom/scotland/skye), spread along the shore of Broadford Bay on the southeastern coast of the island. It is not a pretty village in the picture-postcard sense, but it is a practical and well-located base for exploring southern Skye, the Sleat peninsula, and the spectacular road to Elgol.
+
+The village has a Co-op supermarket, a petrol station, a bank, and several places to eat, which makes it useful in a part of the world where services can be thin on the ground. Cafe Sia on the main road serves good coffee and reliable lunches. The Claymore restaurant is a decent option for evening meals. The [Skye Serpentarium](/europe/unitedkingdom/scotland/broadford/skye_serpentarium), a small reptile sanctuary and exhibition, is a quirky rainy-day option and a favourite with children.
+
+From Broadford, the [single-track road to Elgol](/europe/unitedkingdom/scotland/broadford/road_to_elgol) is one of the finest drives on Skye, ending at a viewpoint over Loch Scavaig and the Black Cuillin mountains that is almost absurdly dramatic. Boat trips from Elgol run into Loch Coruisk, a dark freshwater loch hemmed in by the Cuillin ridge. The Red Hills above Broadford itself offer easier walking than the Black Cuillin, with fine views over to the mainland. On a clear day you can see all the way to Knoydart and the mountains of Torridon from the summit of [Beinn na Caillich](/europe/unitedkingdom/scotland/broadford/beinn_na_caillich).

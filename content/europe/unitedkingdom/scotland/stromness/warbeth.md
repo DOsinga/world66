@@ -11,6 +11,7 @@ tags:
 - beaches
 - literature
 sources:
+- https://www.orkney.com/news/space-beaches
 - https://en.wikivoyage.org/wiki/Stromness
 - https://en.wikipedia.org/wiki/Stromness
 story: 'George Mackay Brown''s epitaph is a line of his own: ''Carve the runes, then be content with silence.'''

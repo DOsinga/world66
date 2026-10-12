@@ -15,6 +15,8 @@ off_the_beaten_track: 4.147
 score: 4.719
 snippet: Tiny Loch Ness village on the quieter southeast shore, known for the wooded
   Falls of Foyers.
+tags:
+- loch_ness
 title: Foyers
 type: location
 vibrancy: 3.491

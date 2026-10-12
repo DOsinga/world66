@@ -1,4 +1,8 @@
 ---
+image: anglesey.jpg
+image_attribution: John H Darch
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:South_Stack_Lighthouse_-_geograph.org.uk_-_4980316.jpg
 latitude: 53.2811
 loc_type: region
 longitude: -4.3036

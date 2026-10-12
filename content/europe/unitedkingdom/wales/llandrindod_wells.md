@@ -1,20 +1,24 @@
 ---
-title: Llandrindod Wells
-type: location
-loc_type: city
+country: United Kingdom
+heritage: 3.97
+image: llandrindod_wells.jpg
+image_attribution: Michael Garlick
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Llandrindod_Wells,_The_Lake_-_geograph.org.uk_-_7762623.jpg
 latitude: 52.24354
+loc_type: city
 longitude: -3.38547
+nature: 5.263
+off_the_beaten_track: 3.138
 score: 4.481
 snippet: Victorian Welsh spa town with lake walks, cycling history, and oddball Radnorshire
   charm.
-country: United Kingdom
 sources:
 - https://en.wikivoyage.org/wiki/Llandrindod_Wells
 - https://en.wikipedia.org/wiki/Llandrindod_Wells
-heritage: 3.97
+title: Llandrindod Wells
+type: location
 vibrancy: 2.525
-nature: 5.263
-off_the_beaten_track: 3.138
 ---
 
 Llandrindod Wells is the kind of Welsh town that makes more sense once you stop expecting drama. It grew as a Victorian spa resort, and the old hotels, theatre, lake, and parkland still give the centre a gentle, slightly eccentric air.

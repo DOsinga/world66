@@ -1,7 +1,14 @@
 ---
+heritage: 3.62
+image: llangrannog.jpg
+image_attribution: Sandy Gerrard
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Llangrannog_Village_-_geograph.org.uk_-_7368234.jpg
 latitude: 52.1575
 loc_type: city
 longitude: -4.4599
+nature: 5.974
+off_the_beaten_track: 3.29
 score: 4.844
 snippet: Small Ceredigion seaside village wrapped around a sandy cove and dramatic
   coast-path walking.
@@ -11,10 +18,7 @@ sources:
 - https://www.walescoastpath.gov.uk/places-to-go/snowdonia-and-ceredigion-coast/walks-to-explore-the-area-snowdonia-and-ceredigion-coast/?lang=en
 title: Llangrannog
 type: location
-heritage: 3.62
 vibrancy: 1.816
-nature: 5.974
-off_the_beaten_track: 3.29
 ---
 
 Llangrannog is a small seaside village on the Ceredigion coast, tucked into a steep-sided valley where two streams reach the beach. It is not a town of grand sights. Its pull is simpler: a sandy cove, a second beach reached at low tide, cliffs rising on both sides, and a coast path that gives you the full Cardigan Bay view within minutes of leaving the village.

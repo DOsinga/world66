@@ -4,18 +4,22 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-30'
   poi_cleanup: '2026-04-21'
+heritage: 4.736
+image: elgin.jpg
+image_attribution: Lucas Kendall
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Elgin_Cathedral_from_Newmill_Road.jpg
 latitude: 57.6488
 loc_type: city
 longitude: -3.3148
+nature: 4.322
+off_the_beaten_track: 2.101
 score: 4.201
 snippet: Moray market town with a ruined medieval cathedral and Speyside whisky distilleries
   close at hand
 title: Elgin
 type: location
-heritage: 4.736
 vibrancy: 3.173
-nature: 4.322
-off_the_beaten_track: 2.101
 ---
 
 Elgin is the main town of Moray, a prosperous market town on the river Lossie with a handsome high street and a cathedral ruin that once ranked among the finest in Scotland. Burned by the Wolf of Badenoch in 1390, [Elgin Cathedral](/europe/unitedkingdom/scotland/elgin/elgin_cathedral) — the "Lantern of the North" — still impresses: its twin towers visible from a good distance and its carved stonework still sharp after seven centuries.

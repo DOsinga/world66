@@ -5,11 +5,12 @@ image: isle_of_mull.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Tobermory_waterfront_recrop.jpg
 latitude: 56.459699
-loc_type: region
+loc_type: island
 longitude: -5.86206
 score: 0.64
+snippet: Hebridean island of sea lochs, basalt cliffs, white-tailed eagles, and Tobermory's
+  painted harbourfront.
 title: Isle of Mull
-snippet: Hebridean island of sea lochs, basalt cliffs, white-tailed eagles, and Tobermory's painted harbourfront.
 type: location
 ---
 
@@ -19,6 +20,6 @@ The island is known above all for its wildlife. White-tailed eagles — reintrod
 
 Tobermory, the island's main town, is famous for its painted waterfront — a row of brightly coloured buildings along the harbour that has appeared on countless postcards and the children's television series Balamory. It has a good distillery, a couple of decent restaurants, and the island's best range of shops.
 
-The [Ross of Mull](/europe/unitedkingdom/scotland/isle_of_mull/ross_of_mull) — the long peninsula at the island's southwest — ends at Fionnphort, where a short ferry crosses to [Iona](/europe/unitedkingdom/scotland/iona). The beaches along the Ross's south coast are among the finest in the Hebrides, with white shell sand and clear water.
+The [Ross of Mull](/europe/unitedkingdom/scotland/ross_of_mull) — the long peninsula at the island's southwest — ends at Fionnphort, where a short ferry crosses to [Iona](/europe/unitedkingdom/scotland/iona). The beaches along the Ross's south coast are among the finest in the Hebrides, with white shell sand and clear water.
 
 Calgary Bay in the northwest has Mull's most famous beach — a wide arc of white sand backed by machair grassland. The bay is beautiful but can be busy in summer.

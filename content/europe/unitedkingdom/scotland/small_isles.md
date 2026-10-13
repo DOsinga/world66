@@ -5,7 +5,7 @@ image: small_isles.jpg
 image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Eigg-and-Rum-from-mainland.jpg
 latitude: 56.9326
-loc_type: region
+loc_type: feature
 longitude: -6.2857
 score: 0.51
 snippet: Inner Hebridean island group of Rum, Eigg, Muck, and Canna, quiet and lightly

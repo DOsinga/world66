@@ -1,16 +1,20 @@
 ---
-title: Gardenstown
-type: location
-loc_type: city
+heritage: 4.499
+image: gardenstown.jpg
+image_attribution: Andrew Wood
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Gamrie_Quay_-_geograph.org.uk_-_6556552.jpg
 latitude: 57.6714
+loc_type: city
 longitude: -2.5393
+nature: 6.25
+off_the_beaten_track: 4.006
 score: 5.263
 snippet: Small fishing village on Scotland's Moray coast, set beneath steep cliffs
   around a compact harbour.
-heritage: 4.499
+title: Gardenstown
+type: location
 vibrancy: 1.779
-nature: 6.25
-off_the_beaten_track: 4.006
 ---
 
 Gardenstown is a small fishing village on the Aberdeenshire coast in northeast Scotland, tucked beneath steep cliffs along the Moray Firth. The village clings to a narrow strip of land between the cliff face and the sea, with the older houses built almost vertically up the rock. The approach down the single-track road is dramatic, and the village itself has kept much of its traditional character.

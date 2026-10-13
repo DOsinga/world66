@@ -26,6 +26,6 @@ Crail is one of the prettiest villages in the East Neuk of Fife, a compact forme
 
 The [harbour](/europe/unitedkingdom/scotland/crail/crail_harbour) is the centre of the visit: lobster creels, red pantile roofs, weathered walls, and the kind of small-scale coastal architecture that rewards slow wandering. Up the hill, the [Tolbooth](/europe/unitedkingdom/scotland/crail/crail_tolbooth) and [parish church](/europe/unitedkingdom/scotland/crail/crail_parish_church) preserve the older burgh feel.
 
-Crail is also a good walking stop on the Fife Coastal Path. Eastward, [Fife Ness](/europe/unitedkingdom/scotland/crail/fife_ness) marks the eastern tip of the peninsula; westward, the path leads toward Anstruther, Pittenweem, St Monans, and [Elie](/europe/unitedkingdom/scotland/eliefife). Inland, the Cold War weirdness of [Scotland's Secret Bunker](/europe/unitedkingdom/scotland/crail/scotlands_secret_bunker) is a sharp change of mood.
+Crail is also a good walking stop on the Fife Coastal Path. Eastward, [Fife Ness](/europe/unitedkingdom/scotland/crail/fife_ness) marks the eastern tip of the peninsula; westward, the path leads toward Anstruther, Pittenweem, St Monans, and [Elie](/europe/unitedkingdom/scotland/elie). Inland, the Cold War weirdness of [Scotland's Secret Bunker](/europe/unitedkingdom/scotland/crail/scotlands_secret_bunker) is a sharp change of mood.
 
 Come for a few quiet hours, not for a packed checklist. Crail is best when you let the harbour, lanes, sea air, and coastal path set the pace.

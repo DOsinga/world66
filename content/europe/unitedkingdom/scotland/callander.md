@@ -2,9 +2,16 @@
 done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-06-01'
+heritage: 4.629
+image: callander.jpg
+image_attribution: James Richardson-Lewis
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Ben_Ledi,_viewed_from_Callander_-_geograph.org.uk_-_7375179.jpg
 latitude: 56.243694
 loc_type: city
 longitude: -4.214803
+nature: 7.025
+off_the_beaten_track: 3.88
 score: 5.798
 snippet: Scottish gateway town where the Lowlands meet the Trossachs, with mountains
   rising beyond its main street
@@ -12,12 +19,11 @@ sources:
 - https://en.wikipedia.org/wiki/Callander
 - https://en.wikipedia.org/wiki/Loch_Lubnaig
 - https://en.wikipedia.org/wiki/Ben_Ledi
+tags:
+- loch_lomond_and_the_trossachs
 title: Callander
 type: location
-heritage: 4.629
 vibrancy: 2.978
-nature: 7.025
-off_the_beaten_track: 3.88
 ---
 
 Callander sits at the point where the Scottish Lowlands give way to the Highlands — not gradually but all at once, with the mountains rising directly from the town's back garden. It is one of the two main gateways to the Loch Lomond and The Trossachs National Park, the other being Aberfoyle to the south, and it handles the role with more character than most gateway towns can muster. The main street is broad and stone-built, lined with independent shops and cafes that have been catering to walkers and cyclists since the Victorian era, when the railway brought the first wave of Glasgow day-trippers.

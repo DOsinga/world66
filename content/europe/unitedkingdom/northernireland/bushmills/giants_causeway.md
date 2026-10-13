@@ -1,16 +1,25 @@
 ---
-title: "Giant's Causeway"
-type: poi
-tags:
-  - things_to_do
-  - sight
 latitude: 55.24083
 longitude: -6.51167
-story: >
-  The Causeway has two origin stories. The geological version: a volcanic eruption 60 million years ago created a basalt flow that cooled slowly, contracting into the hexagonal columns. The mythological version: the Irish giant Finn McCool built the causeway as a bridge to Scotland so he could fight his rival Benandonner — then, realising Benandonner was bigger than expected, had his wife dress him as a baby. When Benandonner saw the size of the "infant," he fled back to Scotland, tearing up the causeway behind him.
-score: 9.4
+score: 9.8
+story: 'The Causeway has two origin stories. The geological version: a volcanic eruption
+  60 million years ago created a basalt flow that cooled slowly, contracting into
+  the hexagonal columns. The mythological version: the Irish giant Finn McCool built
+  the causeway as a bridge to Scotland so he could fight his rival Benandonner — then,
+  realising Benandonner was bigger than expected, had his wife dress him as a baby.
+  When Benandonner saw the size of the "infant," he fled back to Scotland, tearing
+  up the causeway behind him.
+
+  '
+tags:
+- things_to_do
+- sight
+title: Giant's Causeway
+type: poi
 ---
 
-The Giant's Causeway is Northern Ireland's only UNESCO World Heritage Site, and it earns the designation. The basalt columns — around 40,000 of them, mostly hexagonal, packed together like a vast geometric pavement that descends into the sea — are genuinely spectacular, and the coastal setting is dramatic: cliffs above, the North Atlantic below, and on a clear day the coast of Scotland visible to the northeast.
+The Giant's Causeway is Northern Ireland's only UNESCO World Heritage Site and its most visited attraction — around one million people a year make the trip. The causeway itself is a mass of roughly 40,000 interlocking basalt columns, most hexagonal, forming a kind of giant stepping-stone pavement that descends from the cliffs into the sea. The precision of the geometry is startling even when you know the geological explanation.
 
-The visitor centre at the top is well done and explains the geology clearly. The walk down to the Causeway itself takes about 15 minutes; a coastal path leads east to the Chimney Tops viewpoint and west toward the bays of Port Noffer and Port Reostan. The Red Trail walk (about 2km) takes in the best of it. Arrive early in the morning to avoid the main crowds; the site is operated by the National Trust and parking fees apply.
+The site is owned by the National Trust and has a visitor centre at the top of the cliff with good geological exhibits explaining the volcanic history. From the centre a path leads down to the causeway itself, which you can walk on and clamber over — the columns are stable and the access is open. The full coastal walk following the clifftops east toward Benbane Head is spectacular and much less crowded than the causeway itself; allow two to three hours for the round trip.
+
+Summer brings heavy crowds, particularly at midday. Go early (the causeway is accessible before the visitor centre opens) or in the late afternoon, and park in the National Trust car park. The Old Bushmills Distillery is 3 km south and makes an obvious pairing.

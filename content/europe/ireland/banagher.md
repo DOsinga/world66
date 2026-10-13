@@ -1,17 +1,21 @@
 ---
-title: Banagher
-type: location
-loc_type: city
+heritage: 4.096
+image: banagher.jpg
+image_attribution: RobertG216
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Banagher_Galway-Offaly_border.jpg
 latitude: 53.1833
+loc_type: city
 longitude: -7.9833
+nature: 4.216
+off_the_beaten_track: 2.362
 score: 3.84
 snippet: Small Shannon river town with canal history, boating, castles, and medieval
   churches nearby.
 source_url: https://en.wikivoyage.org/wiki/Banagher
-heritage: 4.096
+title: Banagher
+type: location
 vibrancy: 1.854
-nature: 4.216
-off_the_beaten_track: 2.362
 ---
 
 Banagher is a small town on the River Shannon in County Offaly, where the river was shallow enough to ford and awkward enough for navigation to matter. The town grew as an inland port after the Grand Canal linked this part of the Shannon system with Dublin.

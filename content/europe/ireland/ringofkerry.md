@@ -4,7 +4,7 @@ image_attribution: Marco Ober
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Ladies_View_in_summer,_Ring_of_Kerry,_Killarney_National_Park.jpg
 latitude: 51.8845
-loc_type: region
+loc_type: feature
 longitude: -9.5808
 score: 0.75
 snippet: Scenic Kerry driving region of Atlantic mountains, Gaeltacht villages, and

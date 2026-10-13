@@ -1,9 +1,18 @@
 ---
-title: Arranmore
-type: location
-loc_type: feature
+heritage: 3.466
+image: arranmore.jpg
+image_attribution: Mike Knell
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Arranmore,_Co._Donegal_(Aerial_2007).jpg
 latitude: 54.99
+loc_type: feature
 longitude: -8.53
+nature: 6.466
+off_the_beaten_track: 5.529
+original_overview: 'Wikivoyage describes Arranmore as a Gaeltacht island five kilometres
+  off County Donegal, reached by ferry from Burtonport.
+
+  '
 score: 5.26
 snippet: Donegal Gaeltacht island of cliffs, beaches, lighthouse walks, and a short
   ferry crossing.
@@ -11,18 +20,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Arranmore
 - https://www.govisitdonegal.com/things-to-do/places-to-see/arranmore-island-%28arainn-mhor%29
 - https://www.ireland.com/en-us/destinations/regions/arranmore/
-original_overview: 'Wikivoyage describes Arranmore as a Gaeltacht island five kilometres
-  off County Donegal, reached by ferry from Burtonport.
-
-  '
-image: arranmore.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Arranmore,_Co._Donegal_(Aerial_2007).jpg
-image_license: CC BY-SA 2.0
-image_attribution: Mike Knell
-heritage: 3.466
+tags:
+- donegal
+title: Arranmore
+type: location
 vibrancy: 2.819
-nature: 6.466
-off_the_beaten_track: 5.529
 ---
 
 Arranmore is a Donegal island close enough for an easy ferry crossing, but far enough offshore to feel like a proper Atlantic escape. It is a Gaeltacht community, with Irish still part of daily life, and the mood is more working island than polished resort.

@@ -2,18 +2,22 @@
 done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-06-03'
+heritage: 3.272
+image: warrenpoint.jpg
+image_attribution: Ardfern
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Warrenpoint,_July_2010_(02).JPG
 latitude: 54.099992
 loc_type: city
 longitude: -6.251283
+nature: 5.848
+off_the_beaten_track: 2.135
 score: 4.758
 snippet: Compact seaside town on Carlingford Lough, with Mourne Mountain views from
   the waterfront
 title: Warrenpoint
 type: location
-heritage: 3.272
 vibrancy: 3.161
-nature: 5.848
-off_the_beaten_track: 2.135
 ---
 
 Warrenpoint is a compact seaside town on the southern shore of [Carlingford Lough](/europe/unitedkingdom/northernireland/warrenpoint/carlingford_lough) in County Down, just six miles from [Newry](/europe/unitedkingdom/northernireland/newry). The lough is a narrow sea inlet bordered by the Mourne Mountains on one side and the hills of County Louth on the other, and the views from the waterfront are among the best in Northern Ireland.

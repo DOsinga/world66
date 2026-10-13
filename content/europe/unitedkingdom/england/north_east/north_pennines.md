@@ -18,6 +18,6 @@ image_attribution: Douglal
 
 The North Pennines are the high moors between the Tyne Valley and Teesdale, stretching across County Durham, Northumberland and Cumbria. It is a protected National Landscape and a UNESCO Global Geopark, and one of the emptiest parts of England. The landscape is heather moor, hay meadows full of wildflowers in June, and stone villages built for the lead miners who worked these hills until the late 19th century.
 
-In **Upper Teesdale**, the Tees drops over the dolerite of the Whin Sill at **High Force**, a 21-metre fall that is the biggest waterfall in England by volume. A few miles upstream is the cascade of Cauldron Snout. The Pennine Way climbs from here to High Cup Nick, a great U-shaped valley cut into the western edge of the hills.
+In **Upper Teesdale**, above [Barnard Castle](/europe/unitedkingdom/england/north_east/barnard_castle), the Tees drops over the dolerite of the Whin Sill at [High Force](/europe/unitedkingdom/england/north_east/north_pennines/high_force), a 21-metre fall that is the biggest waterfall in England by volume. A few miles upstream is the cascade of Cauldron Snout. The Pennine Way climbs from here to High Cup Nick, a great U-shaped valley cut into the western edge of the hills.
 
 Weardale and the Allen valleys are quieter still. The Killhope lead mining museum shows how the miners lived. In spring, the moors are one of the best places in England to see black grouse displaying at dawn.

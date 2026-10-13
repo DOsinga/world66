@@ -6,10 +6,12 @@ longitude: -1.2025
 score: 6.6
 snippet: Museum of James Cook's life and voyages in the park where he was born
 tags:
+- blogs_for_teesside
 - things_to_do
 - museums
 - history
 sources:
+- https://lostteesside.com/teessides-top-heritage-attractions-in-2025/
 - https://en.wikipedia.org/wiki/Captain_Cook_Birthplace_Museum
 ---
 

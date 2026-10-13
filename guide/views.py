@@ -296,6 +296,9 @@ def _iframe_code(url, height):
     )
 
 
+TIP_LOC_TYPES = ("city", "feature", "island")
+
+
 def _tip_mailto(page):
     """A mailto: link for sending a local tip or a correction about this page.
 
@@ -897,7 +900,11 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
 
     breadcrumbs = page.breadcrumbs()
     dimension_rows, score_verdict, similar_in_country = _score_profile_context(page, parent)
-    tip_mailto = _tip_mailto(page) if page.page_type == "location" else ""
+    # Tips belong on places people visit: towns, features and islands, not on
+    # continents, countries or regions.
+    tip_mailto = (_tip_mailto(page)
+                  if page.page_type == "location" and page.meta.get("loc_type") in TIP_LOC_TYPES
+                  else "")
 
     return render(request, "guide/page.html", {
         "page": page,

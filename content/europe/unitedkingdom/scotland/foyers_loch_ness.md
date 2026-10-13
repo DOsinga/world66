@@ -2,18 +2,24 @@
 done:
   location_cleanup: 2026-04-06
   location_enrich: '2026-05-28'
+heritage: 4.551
+image: foyers_loch_ness.jpg
+image_attribution: Peter S
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Loch_Ness_from_a_footbridge_at_Foyers_Bay_-_geograph.org.uk_-_7606868.jpg
 latitude: 57.2556
 loc_type: city
 longitude: -4.4865
+nature: 5.385
+off_the_beaten_track: 4.147
 score: 4.719
 snippet: Tiny Loch Ness village on the quieter southeast shore, known for the wooded
   Falls of Foyers.
+tags:
+- loch_ness
 title: Foyers
 type: location
-heritage: 4.551
 vibrancy: 3.491
-nature: 5.385
-off_the_beaten_track: 4.147
 ---
 
 Most traffic along Loch Ness takes the busy A82 on the northwest shore, racing between Fort William and Inverness. Foyers sits on the quieter southeast side, reached by a single-track road that offers lovely views across the water without the lorries.

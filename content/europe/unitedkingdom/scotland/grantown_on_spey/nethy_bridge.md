@@ -10,6 +10,7 @@ tags:
 score: 6.6
 sources:
   - https://en.wikivoyage.org/wiki/Grantown-on-Spey
+  - https://www.nethybridge.com/post/the-bridges-of-abernethy-200-years-on
 ---
 
 Nethy Bridge is a small Spey valley village south of Grantown, renamed after the railway arrived in the 1860s. The bridge over the River Nethy is by Thomas Telford, and the village edges into Abernethy Forest and Cairngorms National Park country.

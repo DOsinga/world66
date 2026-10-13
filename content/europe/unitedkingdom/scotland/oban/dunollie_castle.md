@@ -5,6 +5,7 @@ tags:
   - things_to_do
   - castle
   - history
+  - blogs_for_argyll
 latitude: 56.4266
 longitude: -5.4844
 snippet: "Ruined clan castle north of Oban with woodland, views, and MacDougall history"
@@ -12,6 +13,7 @@ score: 7.0
 sources:
   - https://www.dunollie.org/
   - https://en.wikivoyage.org/wiki/Oban
+  - https://scotlands-stories.com/10-best-historic-castles-to-visit-from-oban/
 ---
 Dunollie Castle stands on a wooded headland just north of Oban, looking across the bay toward
 Kerrera and the islands beyond. The ruined tower is tied to Clan MacDougall, and the surrounding

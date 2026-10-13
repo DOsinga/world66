@@ -2,23 +2,27 @@
 done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-06-02'
+heritage: 3.863
+image: moray.jpg
+image_attribution: Lucas Kendall
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Bow_Fiddle_Rock_Front_September.jpg
 latitude: 57.65
-loc_type: city
+loc_type: feature
 longitude: -3.3167
+nature: 5.375
+off_the_beaten_track: 2.776
 score: 4.576
 snippet: Sheltered north-eastern Scottish region of Speyside whisky, sandy Moray Firth
   beaches, and fishing villages.
 title: Moray
 type: location
-heritage: 3.863
 vibrancy: 3.554
-nature: 5.375
-off_the_beaten_track: 2.776
 ---
 
 Moray is a rural council area on the southern shore of the Moray Firth in north-eastern Scotland, tucked between the Cairngorm Mountains and the sea. It is sheltered enough from the Atlantic weather to enjoy one of the driest and sunniest microclimates in Scotland — the coast here gets less rain than most of southern England — and the combination of fertile farmland, long sandy beaches, quiet fishing villages, and the Speyside whisky country makes it one of the more rewarding and least-visited corners of the Highlands.
 
-The region has two main draws. The first is **whisky**. More than half of Scotland's single malt distilleries sit in the valley of the River Spey, which flows through the southern half of Moray, and the **Malt Whisky Trail** is a signposted driving route that takes in nine of the best: Glenfiddich, The Glenlivet, Cardhu, Aberlour, Strathisla, Dallas Dhu, Benromach, [Glen Grant](/europe/unitedkingdom/scotland/moray/glen_moray_distillery), and the working [Speyside Cooperage](/europe/unitedkingdom/scotland/moray/speyside_cooperage) that still makes the oak casks all of them mature in. [**Dufftown**](/europe/unitedkingdom/scotland/moray/dufftown_distilleries), the self-proclaimed "whisky capital of the world," has seven distilleries within a mile of its market square and an old saying: if Rome was built on seven hills, Dufftown was built on seven stills. The **Speyside Whisky Festival** every May is one of the best ways to experience all of this at once. In Elgin itself, [Gordon & MacPhail](/europe/unitedkingdom/scotland/moray/gordon_macphail) on South Street is the most remarkable whisky shop in the world.
+The region has two main draws. The first is **whisky**. More than half of Scotland's single malt distilleries sit in the valley of the River Spey, which flows through the southern half of Moray, and the **Malt Whisky Trail** is a signposted driving route that takes in nine of the best: Glenfiddich, The Glenlivet, Cardhu, Aberlour, Strathisla, Dallas Dhu, Benromach, [Glen Grant](/europe/unitedkingdom/scotland/moray/glen_moray_distillery), and the working [Speyside Cooperage](/europe/unitedkingdom/scotland/moray/speyside_cooperage) that still makes the oak casks all of them mature in. [**Dufftown**](/europe/unitedkingdom/scotland/dufftown), the self-proclaimed "whisky capital of the world," has seven distilleries within a mile of its market square and an old saying: if Rome was built on seven hills, Dufftown was built on seven stills. The **Speyside Whisky Festival** every May is one of the best ways to experience all of this at once. In Elgin itself, [Gordon & MacPhail](/europe/unitedkingdom/scotland/moray/gordon_macphail) on South Street is the most remarkable whisky shop in the world.
 
 The second draw is the **coast**. Long sandy beaches at [Findhorn](/europe/unitedkingdom/scotland/moray/findhorn_beach), Lossiemouth, and Roseisle give way to dramatic red sandstone cliffs and a string of painted fishing villages: **Findochty**, whose brightly coloured cottages look more Mediterranean than Scottish; **Portknockie**, with the striking sea arch of the [Bow Fiddle Rock](/europe/unitedkingdom/scotland/moray/bow_fiddle_rock) just offshore; and **Cullen**, whose fishing community gave its name to **Cullen skink**, a creamy smoked-haddock soup you will find on menus across the region. The **Moray Firth** itself is home to one of only two resident populations of [bottlenose dolphins](/europe/unitedkingdom/scotland/moray/moray_firth_dolphins) in Britain — boat trips from Buckie and Lossiemouth, and patient watching from the shore, are often rewarded.
 

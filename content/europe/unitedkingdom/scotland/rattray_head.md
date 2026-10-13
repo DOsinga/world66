@@ -1,18 +1,22 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-latitude: 57.6101
-longitude: -1.8163
-title: Rattray Head
-snippet: Remote Aberdeenshire headland of empty beach, shipwreck traces, lighthouse,
-  and Loch of Strathbeg birdlife.
-type: location
-score: 5.269
-loc_type: feature
 heritage: 3.574
-vibrancy: 1.26
+image: rattray_head.jpg
+image_attribution: JoanaImages
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Aberdeenshire_-_Rattray_Head_Lighthouse_-_2025-09-23_11-13-39_001.jpg
+latitude: 57.6101
+loc_type: feature
+longitude: -1.8163
 nature: 6.543
 off_the_beaten_track: 5.321
+score: 5.269
+snippet: Remote Aberdeenshire headland of empty beach, shipwreck traces, lighthouse,
+  and Loch of Strathbeg birdlife.
+title: Rattray Head
+type: location
+vibrancy: 1.26
 ---
 
 Rattray Head is a remote and windswept headland on the east coast of Buchan in Aberdeenshire — one of those places that rewards anyone willing to drive a little further than most. A 17-mile stretch of largely empty beach runs south from St Combs to [Peterhead](/europe/unitedkingdom/scotland/peterhead), and Rattray sits roughly in the middle.

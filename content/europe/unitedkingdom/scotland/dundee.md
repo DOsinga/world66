@@ -2,17 +2,21 @@
 done:
   location_cleanup: 2026-04-07
   location_enrich: '2026-06-03'
+heritage: 4.424
+image: dundee.jpg
+image_attribution: Andrew Diack
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:V^A_on_Riverside_Esplanade,_Dundee_-_geograph.org.uk_-_7646414.jpg
 latitude: 56.4605
 loc_type: city
 longitude: -2.9702
+nature: 5.559
+off_the_beaten_track: 3.704
 score: 5.05
 snippet: Scottish city on the Firth of Tay, shaped by jute history and a renewed waterfront.
 title: Dundee
 type: location
-heritage: 4.424
 vibrancy: 4.693
-nature: 5.559
-off_the_beaten_track: 3.704
 ---
 
 Dundee sits on the north bank of the Firth of Tay, Scotland's fourth-largest city and one its most underestimated. It has been consistently voted among the top ten cities in Britain for quality of life, which goes some way to explaining why Edinburgh professionals increasingly choose it as a hometown without the capital's price tag. Still, Dundee remains largely overlooked by visitors, and that is part of its appeal.

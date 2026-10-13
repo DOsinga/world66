@@ -1,7 +1,14 @@
 ---
+heritage: 3.567
+image: thurso.jpg
+image_attribution: Bill Boaden
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:The_beach_at_Thurso_-_geograph.org.uk_-_3598136.jpg
 latitude: 58.5961
 loc_type: city
 longitude: -3.521
+nature: 6.209
+off_the_beaten_track: 3.978
 score: 4.981
 snippet: Mainland Scotland's northern surf town, facing the Pentland Firth from the
   Caithness coast.
@@ -11,10 +18,7 @@ sources:
 - https://www.venture-north.co.uk/listing/holborn-head/
 title: Thurso
 type: location
-heritage: 3.567
 vibrancy: 2.312
-nature: 6.209
-off_the_beaten_track: 3.978
 ---
 
 Thurso is the north-coast town most travellers meet on the way to Scrabster and the Orkney ferry, but it deserves more than a glance from a car window. It faces the Pentland Firth with a broad sandy bay, cold-water surf, old Caithness stonework, and a raw edge-of-mainland feel that is very different from the Highland postcard further south.

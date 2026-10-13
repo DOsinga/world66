@@ -10,6 +10,9 @@ tags:
   - things_to_do
   - castle
   - history
+  - blogs_for_edinburgh
+sources:
+  - https://edinburgh.org/blog/edinburgh-beyond-the-bucket-list/
 ---
 
 Craigmillar Castle is a substantial medieval ruin southeast of central Edinburgh. Its towers, courtyards, and links to Mary, Queen of Scots make it a quieter alternative to Edinburgh Castle for travelers interested in Scottish history.

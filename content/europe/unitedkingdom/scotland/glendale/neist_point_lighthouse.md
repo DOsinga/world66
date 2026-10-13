@@ -12,4 +12,4 @@ score: 9.0
 
 Neist Point is the westernmost tip of Skye, a finger of basalt cliffs jutting into the Minch. The walk from the car park down a stepped concrete path to the lighthouse takes about twenty minutes — much longer on the return, as the climb back up is steeper than it looks. The lighthouse itself, white and squat, was built in 1909 and is still operational, though long since automated.
 
-The point is one of the great viewpoints in the Hebrides. On a clear day the Outer Hebrides — Harris and the Uists — sit on the western horizon. Sea birds wheel below the cliffs: gannets, fulmars, kittiwakes. Whales and basking sharks pass in summer, and minke and orca are not unusual. Bring binoculars and a windproof — there is almost no shelter, and the wind here is constant.
+The point is one of the great viewpoints in the Hebrides. On a clear day the Outer Hebrides — Harris and Uist — sit on the western horizon. Sea birds wheel below the cliffs: gannets, fulmars, kittiwakes. Whales and basking sharks pass in summer, and minke and orca are not unusual. Bring binoculars and a windproof — there is almost no shelter, and the wind here is constant.

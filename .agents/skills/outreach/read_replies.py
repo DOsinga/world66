@@ -3,6 +3,7 @@
     python3 .claude/skills/outreach/read_replies.py someone@example.com [--out DIR]
 """
 import argparse, os, re, urllib.request
+from email.utils import parseaddr
 import sys
 sys.path.insert(0, __file__.rsplit("/", 1)[0])
 import resend
@@ -13,7 +14,7 @@ ap.add_argument("--out", default="build/outreach/replies")
 a = ap.parse_args()
 want = {x.lower() for x in a.addresses}
 for m in resend.inbox():
-    if (m.get("from") or "").lower() not in want:
+    if parseaddr(m.get("from") or "")[1].lower() not in want:
         continue
     d = resend.get("https://api.resend.com/emails/receiving/" + m["id"])
     text = d.get("text") or re.sub("<[^>]+>", " ", d.get("html") or "")

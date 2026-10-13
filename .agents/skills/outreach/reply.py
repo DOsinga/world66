@@ -5,6 +5,7 @@
 Only after the user has seen the text and said to send it.
 """
 import argparse, sys
+from email.utils import parseaddr
 sys.path.insert(0, __file__.rsplit("/", 1)[0])
 import resend
 
@@ -13,7 +14,7 @@ ap.add_argument("to")
 ap.add_argument("body")
 ap.add_argument("--cc", action="append", default=[])
 a = ap.parse_args()
-msgs = [m for m in resend.inbox() if (m.get("from") or "").lower() == a.to.lower()]
+msgs = [m for m in resend.inbox() if parseaddr(m.get("from") or "")[1].lower() == a.to.lower()]
 if not msgs:
     sys.exit(f"nothing received from {a.to}")
 m = msgs[0]

@@ -11,7 +11,7 @@ import resend
 
 path = sys.argv[1]
 out = subprocess.run([sys.executable, "tools/provider_qr.py", "--country", path, "--list"],
-                     capture_output=True, text=True).stdout
+                     capture_output=True, text=True, check=True).stdout
 providers = [l.split()[-1].lower() for l in out.splitlines() if re.match(r"  [A-Z0-9]{6} ", l)]
 blogs = [r["contact"].lower() for r in csv.DictReader(open("tools/blog_outreach.csv"))
          if path in r["list_path"] and r["contact_type"] == "email" and not r["emailed"]]
@@ -31,4 +31,4 @@ repeated = sorted(t for t, n in Counter(targets).items() if n > 1)
 print("already mailed via Resend:", dup_resend or "none")
 print("already in a ledger:", dup_ledger or "none")
 print("twice in this queue:", repeated or "none")
-sys.exit(1 if dup_resend or dup_ledger else 0)
+sys.exit(1 if dup_resend or dup_ledger or repeated else 0)

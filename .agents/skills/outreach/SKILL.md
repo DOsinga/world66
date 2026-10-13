@@ -67,6 +67,8 @@ python3 .claude/skills/outreach/send_blogs.py <path>       # re-checks the Resen
 python3 tools/blog_outreach.py --city <path> --mark-sent
 ```
 
+Only run `--mark-sent` when `send_blogs.py` exits successfully. A missing draft or failed send makes it exit nonzero so unsent rows are not stamped.
+
 Test the path first with `--to <your address>` if anything about the mail has changed. `--to` marks nothing as sent.
 
 Then commit the two ledgers on a branch off `origin/main` and open a PR ("Outreach: record the <place> send"). Remove the worktree afterwards.

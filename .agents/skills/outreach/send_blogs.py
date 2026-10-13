@@ -17,14 +17,14 @@ drafts = {}
 for f in glob.glob("build/outreach/blogs/*.txt"):
     t = open(f).read()
     drafts[t.split("\n", 1)[0].replace("To:", "").strip().lower()] = t
-ok = 0
+ok = failed = 0
 for r in targets:
     to = r["contact"].lower()
     if to in sent:
         print("SKIP already mailed", to); continue
     t = drafts.get(to)
     if not t:
-        print("NO DRAFT", to); continue
+        failed += 1; print("NO DRAFT", to); continue
     head, _, body = t.partition("\n\n")
     subject = [l.split(":", 1)[1].strip() for l in head.splitlines() if l.lower().startswith("subject:")][0]
     try:
@@ -32,6 +32,8 @@ for r in targets:
                            "text": body.strip() + "\n", "reply_to": "richard@world66.ai"})
         ok += 1; sent.add(to); print("sent", r["blog_name"], res.get("id"))
     except urllib.error.HTTPError as e:
-        print("FAIL", to, e.code, e.read()[:150])
+        failed += 1; print("FAIL", to, e.code, e.read()[:150])
     time.sleep(0.7)
 print(ok, "sent")
+if failed:
+    sys.exit(f"{failed} not sent; do not mark the batch sent")

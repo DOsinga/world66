@@ -2,6 +2,7 @@
 done:
   location_cleanup: 2026-04-06
   location_enrich: '2026-05-12'
+heritage: 2.72
 image: bundoran.jpg
 image_attribution: dusi_bbg
 image_license: CC BY 2.0
@@ -9,15 +10,16 @@ image_source: https://commons.wikimedia.org/wiki/File:Bundoran.jpg
 latitude: 54.4789
 loc_type: city
 longitude: -8.2783
+nature: 6.173
+off_the_beaten_track: 1.955
 score: 5.218
 snippet: Donegal coastal town where Atlantic surf breaks roll beneath Ben Bulben and
   Donegal Bay.
+tags:
+- donegal
 title: Bundoran
 type: location
-heritage: 2.72
 vibrancy: 3.964
-nature: 6.173
-off_the_beaten_track: 1.955
 ---
 
 Bundoran sits at the southern tip of County Donegal, where the Atlantic hammers the coast with some of the best surf breaks in Europe. The town curves along the shoreline — rough, ragged, and silver — with Ben Bulben and the Dartry Mountains as a backdrop and Donegal Bay stretching out to the north.

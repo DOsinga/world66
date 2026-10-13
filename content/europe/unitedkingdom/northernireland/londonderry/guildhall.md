@@ -1,15 +1,21 @@
 ---
-title: Guildhall
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
 latitude: 54.9977
 longitude: -7.3194
-score: 7.7
+score: 7.9
+story: 'The Guildhall was bombed twice during the Troubles — once in 1972 and again
+  in 1977. On both occasions it was rebuilt and its stained-glass windows restored.
+  The building''s survival, and the determination to repair it, became its own kind
+  of statement about Derry''s relationship to its past.
+
+  '
+tags:
+- things_to_do
+- sight
+- architecture
+title: Guildhall
+type: poi
 ---
 
-The Guildhall stands just outside the city walls beside Shipquay Gate and is the most ornate Victorian building in Derry. Built in 1890 and rebuilt after a fire in 1908, it is the seat of Derry City and Strabane District Council and is notable for its elaborate stained glass windows tracing the history of the city, and for the four-sided clock tower above the main entrance.
+Just outside the city walls at Shipquay Gate, the Guildhall is one of the most impressive Victorian buildings in the north of Ireland. Built in a neo-Gothic style and completed in 1890, then rebuilt after a fire in 1912 and again after IRA bombings in the 1970s, the building now houses the elected council chamber for Derry City and Strabane District Council.
 
-The building is open to visitors during business hours and entry is free. The Great Hall can be visited when not in use for council business — the stained glass here is particularly good, with panels depicting scenes from the plantation era. The Guildhall also runs an exhibition on the city's history in the ground floor spaces, providing good context before walking the walls.
+The interior is open to the public, free of charge, during most weekdays and weekend mornings. The main draw is the collection of stained-glass windows, among the largest and most detailed in Ireland, installed over several decades and depicting scenes from the city's history: the Plantation of Ulster, the Siege of 1689, and the city's connections to North America. The oak-panelled main hall is also worth seeing. The building served as the venue for the Bloody Sunday Inquiry (the Saville Inquiry) from 1998 to 2005, which ultimately produced the British government's formal apology for the events of 30 January 1972.

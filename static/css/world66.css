@@ -4058,57 +4058,6 @@ a.region-group-title:hover {
 
 .poi-elsewhere-list li:last-child::after { content: ''; margin: 0; }
 
-/* Tip / correction call-to-action at the foot of destination pages */
-.tip-cta {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 24px;
-  margin-top: 40px;
-  margin-bottom: 40px;
-  padding-top: 24px;
-  padding-bottom: 24px;
-  border-top: 1px solid var(--line-2);
-}
-.tip-cta-text { min-width: 0; }
-.tip-cta-title {
-  font-family: var(--display-font);
-  font-size: 22px;
-  line-height: 1.25;
-  margin: 4px 0 6px;
-  color: var(--ink);
-}
-.tip-cta-body {
-  font-size: 15px;
-  line-height: 1.6;
-  color: var(--mute);
-  margin: 0;
-  max-width: 560px;
-}
-.tip-cta-button {
-  flex-shrink: 0;
-  display: inline-block;
-  padding: 12px 20px;
-  border-radius: 4px;
-  background: var(--accent);
-  color: var(--paper);
-  font-family: var(--label-font);
-  font-size: 14px;
-  font-weight: 600;
-  white-space: nowrap;
-}
-.tip-cta-button:hover {
-  background: var(--accent-ink);
-  color: var(--paper);
-  text-decoration: none;
-}
-@media (max-width: 700px) {
-  .tip-cta { flex-direction: column; align-items: stretch; }
-  .tip-cta-text { width: 100%; }
-  .tip-cta-button { text-align: center; }
-  .tip-cta-button { white-space: normal; }
-}
-
 .poi-elsewhere-list a {
   font-size: 14px;
   color: var(--mute);
@@ -4996,4 +4945,43 @@ a.region-group-title:hover {
 
 .pick-callout-by a {
   color: inherit;
+}
+
+/* The last card in the picks row: an invitation to send a tip */
+.pick-callout-tip {
+  justify-content: space-between;
+  background: transparent;
+  border: 1px dashed var(--line-2);
+  border-bottom: 3px solid var(--accent);
+}
+.pick-callout-tip:hover { background: transparent; }
+.pick-callout-tip-text {
+  margin: 10px 0 0;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--mute);
+}
+.pick-callout-tip-foot {
+  padding: 16px 18px 18px;
+}
+.pick-callout-tip-button {
+  display: inline-block;
+  padding: 10px 16px;
+  border-radius: 4px;
+  background: var(--accent);
+  color: var(--paper);
+  font-family: var(--label-font);
+  font-size: 14px;
+  font-weight: 600;
+}
+.pick-callout-tip-button:hover {
+  background: var(--accent-ink);
+  color: var(--paper);
+  text-decoration: none;
+}
+.pick-callout-tip-addr {
+  display: block;
+  margin-top: 8px;
+  font-size: 12px;
+  color: var(--mute);
 }

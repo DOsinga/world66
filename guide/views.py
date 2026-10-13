@@ -953,6 +953,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "providers_on_whatsapp": providers_on_whatsapp,
         "provider_count": provider_count,
         "tip_mailto": tip_mailto,
+        "tips_email": settings.TIPS_EMAIL,
     })
 
 

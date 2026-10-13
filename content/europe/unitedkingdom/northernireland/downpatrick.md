@@ -1,7 +1,14 @@
 ---
+heritage: 7.083
+image: downpatrick.jpg
+image_attribution: Ardfern
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Downpatrick_view_(02),_August_2009.JPG
 latitude: 54.322
 loc_type: city
 longitude: -5.703
+nature: 5.938
+off_the_beaten_track: 2.618
 score: 6.136
 snippet: County Down town tied to St Patrick, early Christian sites, abbey ruins,
   and drumlin country.
@@ -12,11 +19,8 @@ sources:
 - https://www.downrail.co.uk/
 title: Downpatrick
 type: location
-wikidata: Q1024917
-heritage: 7.083
 vibrancy: 2.491
-nature: 5.938
-off_the_beaten_track: 2.618
+wikidata: Q1024917
 ---
 
 Downpatrick is a compact County Down town with a claim that is impossible to ignore: this is where St Patrick is said to be buried. The town has traded on that link for centuries, but the better reason to come is that the Patrick story sits among real early Christian sites, Georgian streets, ruined abbeys, and low drumlin countryside.

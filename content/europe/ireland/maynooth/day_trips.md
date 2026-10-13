@@ -4,7 +4,7 @@ type: section
 linked_locations:
   - europe/ireland/dublin
   - europe/ireland/kildare
-  - europe/ireland/newgrange
+  - europe/ireland/bru_na_boinne/newgrange
 ---
 
 Maynooth sits in a useful location for day trips across the eastern half of Ireland. Dublin is 35 minutes by train. The Kildare town heritage sites — the Irish National Stud, Japanese Gardens, and St Brigid's Cathedral — are about 40 km south. Newgrange and the Boyne Valley passage tombs are about an hour north by car.

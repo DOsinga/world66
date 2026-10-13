@@ -1,16 +1,20 @@
 ---
+heritage: 5.753
+image: birr.jpg
+image_attribution: Colin Park
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Birr_Castle_-_geograph.org.uk_-_6503103.jpg
 latitude: 53.0914
 loc_type: city
 longitude: -7.9133
+nature: 3.655
+off_the_beaten_track: 2.891
 score: 4.658
 snippet: Georgian Offaly town shaped by Birr Castle, astronomy, and graceful Midlands
   streets.
 title: Birr
 type: location
-heritage: 5.753
 vibrancy: 1.833
-nature: 3.655
-off_the_beaten_track: 2.891
 ---
 
 Birr is a handsome Georgian town in County Offaly, built around elegant streets, a formal square, and the long presence of the Parsons family at Birr Castle. It is small enough to see on foot but distinctive enough to justify a day in the Midlands.

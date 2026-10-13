@@ -13,7 +13,7 @@ tags:
 sources:
 - https://en.wikipedia.org/wiki/St_Kilda,_Scotland
 - https://en.wikivoyage.org/wiki/St_Kilda
-story: 'Before radio, St Kildans signalled the outside world by lighting a bonfire on Conachair, hoping it would be seen from Harris or the Uists. The alternative was the ''St Kilda mailboat'': a little wooden boat tied to a sheepskin bladder, with a message in a tin, launched when the wind blew from the northwest.'
+story: 'Before radio, St Kildans signalled the outside world by lighting a bonfire on Conachair, hoping it would be seen from Harris or Uist. The alternative was the ''St Kilda mailboat'': a little wooden boat tied to a sheepskin bladder, with a message in a tin, launched when the wind blew from the northwest.'
 ---
 
 Conachair ("the beacon") rises immediately north of the village to 430 metres, and on its far side drops straight into the Atlantic in the highest sea cliffs in the British Isles. From the top, Boreray and its stacks stand out to the northeast, white with gannets.

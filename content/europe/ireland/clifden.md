@@ -1,9 +1,14 @@
 ---
-title: Clifden
-type: location
-loc_type: city
+heritage: 5.161
+image: clifden.jpg
+image_attribution: JoachimKohlerBremen
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:20140616-IMG_1729-Clifden_IRE.jpg
 latitude: 53.4891
+loc_type: city
 longitude: -10.0205
+nature: 6.343
+off_the_beaten_track: 3.772
 score: 5.504
 snippet: Connemara market town with Victorian streets, Atlantic loops, and big west-coast
   weather.
@@ -11,14 +16,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Clifden
 - https://en.wikipedia.org/wiki/Clifden
 - https://www.wikidata.org/wiki/Q1024913
-image: clifden.jpg
-image_source: https://commons.wikimedia.org/wiki/File:20140616-IMG_1729-Clifden_IRE.jpg
-image_license: CC BY-SA 4.0
-image_attribution: JoachimKohlerBremen
-heritage: 5.161
+tags:
+- connemara
+title: Clifden
+type: location
 vibrancy: 3.062
-nature: 6.343
-off_the_beaten_track: 3.772
 ---
 
 Clifden is the nearest thing Connemara has to a capital: a small, slate-roofed town where the roads from Galway, Westport, Ballyconneely and the western headlands all meet. It grew as a planned 19th-century market town, and the centre still has that slightly formal look, with pubs, shops and guesthouses gathered around the square.

@@ -15,6 +15,10 @@ sources:
 picks:
 - blog: https://lostteesside.com/teessides-top-heritage-attractions-in-2025/
   quote: The Dorman Museum is Middlesbrough’s premier museum of local history.
+image: dorman_museum.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Dorman_museum_angled_view.JPG
+image_license: CC BY-SA 4.0
+image_attribution: Geni
 ---
 
 Middlesbrough's museum of local and social history on Linthorpe Road by Albert Park, refurbished in 2024. Teesside Archives has moved into the same building, and visitors can look at documents from the collection there.

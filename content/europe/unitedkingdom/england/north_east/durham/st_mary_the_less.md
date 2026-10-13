@@ -17,6 +17,10 @@ picks:
   quote: Step inside St Mary the Less , the College’s 12th-century chapel, still in
     daily use, offering a peaceful glimpse into the spiritual life of the College
     and its enduring place in Durham’s sacred landscape.
+image: st_mary_the_less.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Durham_-_Church_of_St_Mary_the_Less.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Benjamin Smith
 ---
 
 A small church of twelfth-century origin on the South Bailey, a few steps from the cathedral, now the chapel of St John's College. It is quiet, and it is still in daily use. The college's terraced gardens behind it, running down to the Wear, open only on occasional heritage days.

@@ -17,6 +17,10 @@ picks:
   quote: The hidden cove, Rumbling Kern, is revealed at low tide, with its rocky landscape
     and tidal pools offering a great family day out rockpooling and discovering the
     sealife.
+image: rumbling_kern.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Rumbling_Kern_-_geograph.org.uk_-_3508937.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Bill Boaden
 ---
 
 A small rocky cove on the coast path at Howick, between Craster and Boulmer, with rock pools at low tide and the Greys' old bathing house on the cliff above. It is reached on foot from the Howick coast car park. Dunstanburgh Castle is in view to the north.

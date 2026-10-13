@@ -16,6 +16,10 @@ picks:
   quote: Follow the track alongside landscape blanketed in wildflower meadows and
     visit Hannah's Barn - now a mini-museum - to learn more about the history of this
     wild place!
+image: hannahs_meadow.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Hannah's_meadow,_Baldersdale.JPG
+image_license: CC BY-SA 4.0
+image_attribution: Ashley Columbus
 ---
 
 Hay meadows in Baldersdale that were never ploughed or fertilised, farmed into the 1980s by Hannah Hauxwell. Durham Wildlife Trust now manages them. They hold about 120 plant species and are at their best in June and July. A short circular path on the Pennine Way passes her barn, now a small museum.

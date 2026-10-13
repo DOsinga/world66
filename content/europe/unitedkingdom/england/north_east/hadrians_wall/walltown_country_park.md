@@ -16,6 +16,10 @@ picks:
 - blog: https://www.northumberlandnationalpark.org.uk/a-lovely-accessible-day-out-at-walltown-country-park-perfect-for-families-too/
   quote: Right beside Hadrian’s Wall, it somehow manages to feel like a bit of an
     adventure – without being hard work to get around.
+image: walltown_country_park.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Hadrian's_Wall_on_Walltown_Crags_-_geograph.org.uk_-_7006476.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Adrian Taylor
 ---
 
 A former quarry beside one of the best-preserved stretches of Hadrian's Wall, now landscaped round ponds, with level, wheelchair-friendly paths and a visitor centre café. Footpaths climb from here onto the Walltown crags and the Wall itself.

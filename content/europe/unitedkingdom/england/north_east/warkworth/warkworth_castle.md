@@ -1,15 +1,22 @@
 ---
-title: Warkworth Castle
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - historic_house
 latitude: 55.3447
 longitude: -1.6105
-story: >
-  The castle appears in Shakespeare's Henry IV, Part 1, where Hotspur — the Percy family's firebrand soldier — uses it as his base. The lion-marked keep that still stands was begun by the same Percys who rebelled against Henry IV, and the carved heraldic beast still watches from its tower after six centuries.
 score: 9.3
+sources:
+- https://en.wikipedia.org/wiki/Warkworth_Castle
+story: 'The castle appears in Shakespeare''s Henry IV, Part 1, where Hotspur — the
+  Percy family''s firebrand soldier — uses it as his base. The lion-marked keep that
+  still stands was begun by the same Percys who rebelled against Henry IV, and the
+  carved heraldic beast still watches from its tower after six centuries.
+
+  '
+tags:
+- things_to_do
+- sight
+- historic_house
+- historic
+title: Warkworth Castle
+type: poi
 ---
 
 Warkworth Castle is one of the most striking fortresses in north-east England, a large and largely intact Percy family stronghold set on a loop of the River Coquet. English Heritage manages the site. The massive keep, built in the late 14th century on a unique cross-shaped plan, dominates the village from its hill and is the most recognisable part of the complex.

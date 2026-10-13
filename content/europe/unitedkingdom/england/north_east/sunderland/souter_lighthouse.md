@@ -1,16 +1,17 @@
 ---
-title: Souter Lighthouse
-type: poi
 latitude: 54.968
 longitude: -1.361
 score: 8.0
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Jarrow
 tags:
 - things_to_do
 - sight
 - lighthouse
 - maritime
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Jarrow
+- coast
+title: Souter Lighthouse
+type: poi
 url: https://www.nationaltrust.org.uk/souter-lighthouse-and-the-leas/
 ---
 

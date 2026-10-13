@@ -35,6 +35,8 @@ GITHUB_TIMEOUT = int(os.environ.get("GITHUB_TIMEOUT", "10"))
 GTM_CONTAINER_ID = os.environ.get("GTM_CONTAINER_ID", "")
 GA_MEASUREMENT_ID = os.environ.get("GA_MEASUREMENT_ID", "")
 CARTO_BASEMAP_KEY = os.environ.get("CARTO_BASEMAP_KEY", "")
+# Where the "send a tip or a correction" button on destination pages mails to.
+TIPS_EMAIL = os.environ.get("TIPS_EMAIL", "tips@world66.ai")
 
 
 # Application definition

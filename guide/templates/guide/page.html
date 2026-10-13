@@ -706,6 +706,17 @@
   </ul>
 </div>
 {% endif %}
+
+{% if tip_mailto %}
+<div class="wide-block tip-cta">
+  <div class="tip-cta-text">
+    <span class="section-kicker">Local knowledge</span>
+    <p class="tip-cta-title">Know {{ page.title }}?</p>
+    <p class="tip-cta-body">Send us a local tip, or tell us what we got wrong. We read every mail, update the guide and write back.</p>
+  </div>
+  <a class="tip-cta-button" href="{{ tip_mailto }}">Send a tip or a correction</a>
+</div>
+{% endif %}
 {% endblock %}
 
 {% block extra_js %}

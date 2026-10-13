@@ -2,6 +2,7 @@ import json
 import re
 import sqlite3
 import subprocess
+import urllib.parse
 from dataclasses import replace
 from pathlib import Path
 
@@ -293,6 +294,24 @@ def _iframe_code(url, height):
         f'<iframe src="{url}" width="100%" height="{height}" '
         'style="border:0" loading="lazy" allow="fullscreen"></iframe>'
     )
+
+
+def _tip_mailto(page):
+    """A mailto: link for sending a local tip or a correction about this page.
+
+    The mail lands in the same inbox as outreach replies; the page link in the
+    body tells us exactly which file to change.
+    """
+    url = f"https://world66.ai/{page.path}"
+    subject = f"Tip for {page.title}"
+    body = (
+        f"Page: {url}\n\n"
+        "Your tip or correction:\n\n\n\n"
+        "How should we credit you? (a name, or leave blank):\n"
+        "Do you live there, or know it well?\n"
+    )
+    query = urllib.parse.urlencode({"subject": subject, "body": body}, quote_via=urllib.parse.quote)
+    return f"mailto:{settings.TIPS_EMAIL}?{query}"
 
 
 def _score_profile_context(page, parent):
@@ -878,6 +897,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
 
     breadcrumbs = page.breadcrumbs()
     dimension_rows, score_verdict, similar_in_country = _score_profile_context(page, parent)
+    tip_mailto = _tip_mailto(page) if page.page_type == "location" else ""
 
     return render(request, "guide/page.html", {
         "page": page,
@@ -932,6 +952,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "provider_categories": provider_categories,
         "providers_on_whatsapp": providers_on_whatsapp,
         "provider_count": provider_count,
+        "tip_mailto": tip_mailto,
     })
 
 

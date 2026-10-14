@@ -2,6 +2,7 @@
 latitude: 53.7459
 longitude: -0.3392
 tags:
+- blogs_for_hull
 - things_to_do
 - sight
 - theatre
@@ -9,6 +10,8 @@ title: Hull Truck Theatre
 type: poi
 snippet: "Hull's flagship producing theatre, with a strong local identity and reputation for new writing"
 score: 6.6
+sources:
+  - https://hullhistorycentre.blogspot.com/2026/10/hull-truck-theatre-archive-project-act.html
 ---
 
 Hull Truck Theatre began in 1971 as a touring company travelling between gigs in a single van — hence the name — and grew into one of the most distinctive producing theatres in the north of England. It built a national reputation under playwright John Godber in the 1980s and 90s with plays like Bouncers and Up 'n' Under, written for and about working-class audiences. The company moved into its current purpose-built theatre on Ferensway in 2009.

@@ -11,6 +11,9 @@ tags:
   - sight
   - church
   - architecture
+  - blogs_for_leeds
+sources:
+  - https://secretlibraryleeds.net/2020/09/14/hidden-nature-merrion-gardens-of-rest/
 ---
 
 St John's Church is one of central Leeds' most rewarding small historic sights. Built just before the English Civil War, it has an unusual double-nave plan and a richly carved interior that feels much older than the shopping streets around it.

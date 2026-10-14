@@ -2,7 +2,7 @@
 {% load static %}
 
 {% block title %}
-{{ page.title }}{% if page.page_type == "location" %} Travel Guide{% endif %} - World66
+{% if page.page_type == "section" and parent and parent.title not in page.title %}{% if page.slug == "getting_there" %}Getting to {{ parent.title }}{% elif page.slug == "getting_around" %}Getting Around {{ parent.title }}{% elif page.slug == "day_trips" %}Day Trips from {{ parent.title }}{% else %}{{ page.title }} in {{ parent.title }}{% endif %}{% else %}{{ page.title }}{% if page.page_type == "location" %} Travel Guide{% endif %}{% endif %} - World66
 {% endblock %}
 
 {% block breadcrumbs %}

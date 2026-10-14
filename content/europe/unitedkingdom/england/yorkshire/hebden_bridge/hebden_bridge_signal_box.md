@@ -16,6 +16,10 @@ picks:
 - blog: https://hebdenbridge.co.uk/news/2026/118.html
   quote: The signal box was built in 1891, to replace the original box which was closer
     to Hebden Bridge.
+image: hebden_bridge_signal_box.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Hebden_Bridge_signal_box_(geograph_4500265).jpg
+image_license: CC BY-SA 2.0
+image_attribution: El Pollock
 ---
 
 A Grade II listed signal box of 1891 beside Hebden Bridge station, closed by Network Rail in 2018. The Calder Valley Community Land Trust took it over and reopened it in 2026. The upstairs is now a heritage centre, with the original lever frame and the signalman's desk. Check opening times before going. The pin is on the station.

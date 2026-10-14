@@ -17,6 +17,10 @@ picks:
 - blog: https://leedsliving.co.uk/people-and-places/places-free-to-visit-in-leeds/
   quote: You may see kingfishers at Adel Dam, Crayfish at Meanwood Beck and roe deer
     if you happen to reach Golden Acre Park at dusk.
+image: meanwood_valley_trail.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Meanwood_Valley_Trail_and_Meanwood_Beck_01.jpg
+image_license: Public domain
+image_attribution: Chemical Engineer
 ---
 
 A seven-mile linear walk from Woodhouse Moor up the valley of Meanwood Beck, through Meanwood Park, the Hollies and woodland to Adel Dam and Golden Acre Park. It passes Meanwood Valley Urban Farm. Buses run back to the city from both ends. The pin is on Meanwood Park.

@@ -14,6 +14,10 @@ picks:
 - by: Yorkshire Dales National Park
   quote: Dating from around 1956, the distinctive black-and-yellow timber structure
     is one of only a handful of surviving AA call boxes still standing in Britain.
+image: aa_box_442.jpg
+image_source: https://commons.wikimedia.org/wiki/File:AA_Box_442_(View_-2)_(2726404362).jpg
+image_license: CC BY 2.0
+image_attribution: Sheffield Tiger
 ---
 
 A Grade II listed AA roadside telephone box from about 1956, on the A684 between Swinithwaite and Aysgarth. It is one of only a few left in Britain. A local resident has looked after it for years, and national park volunteers have recently repaired the walls and flower beds around it. Worth a stop on the way to Aysgarth Falls.

@@ -19,6 +19,10 @@ picks:
     of soldiers from Hillsborough Barracks, men who fought in the Crimean War and
     Gallipoli, factory workers and football fans among at least 2,000 engraved memorials
     hidden away behind thorns and bracken.
+image: wardsend_cemetery.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Wardsend_Cemetery.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Mick Knapton
 ---
 
 A Victorian cemetery on the steep wooded hillside below Shirecliffe, above the Upper Don near Hillsborough. Volunteers have cleared the overgrown graves, which include soldiers from Hillsborough Barracks, and it is now a heritage park and a local wildlife site. The Friends group runs open days and wildlife surveys.

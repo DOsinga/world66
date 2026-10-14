@@ -19,6 +19,7 @@ sources:
 - https://www.yorkshiredales.org.uk/places-to-go/grassington/grassington-walks-and-things-to-do/
 - https://www.ywt.org.uk/nature-reserves/grass-wood-nature-reserve
 tags:
+- wharfedale
 - yorkshire_dales
 title: Grassington
 type: location

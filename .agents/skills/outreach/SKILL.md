@@ -6,7 +6,7 @@ argument-hint: <content path, e.g. europe/unitedkingdom/scotland> | replies
 
 Outreach tells a provider or a blog that it is in the guide and gives it a link back. It goes out from Richard's laptop through Resend. Nothing has to be merged to *send*, but what a mail points at has to be live on world66.ai.
 
-**Every address gets one mail.** The ledgers (`outreach/log.csv` for providers, `tools/blog_outreach.csv` for blogs) have under-recorded sends before: hundreds of Gmail sends were never stamped, and two providers were mailed twice. So the Resend log, not the ledger, is the final check.
+**Every address gets one mail.** The ledgers (`outreach/log.csv` for providers, `tools/blog_outreach.csv` for blogs) have under-recorded sends before: hundreds of Gmail sends were never stamped, and two providers were mailed twice. So the Resend log and the export of hand-sent Gmail mail (`~/Repos/mails/*.zip`, or `OUTREACH_GMAIL_EXPORT`), not the ledger, are the final check. Skipping the export once caused seven double mails.
 
 ## 1. Is it ready?
 
@@ -39,7 +39,7 @@ source ../world66/venv/bin/activate
 set -a; . ../world66/.env; set +a           # RESEND_API_KEY
 python3 tools/provider_qr.py --country <path> --list    # who would be mailed
 python3 tools/provider_qr.py --country <path> --audit   # ledger vs Resend
-python3 .claude/skills/outreach/check_queue.py <path>   # every target vs the Resend log and both ledgers
+python3 .claude/skills/outreach/check_queue.py <path>   # every target vs the Resend log, both ledgers and the Gmail export
 ```
 
 `check_queue.py` must report **no duplicates** before anything is sent. If it finds any, take those addresses out and say so.

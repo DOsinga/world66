@@ -13,7 +13,8 @@ import resend
 path = sys.argv[1]
 out = subprocess.run([sys.executable, "tools/provider_qr.py", "--country", path, "--list"],
                      capture_output=True, text=True, check=True).stdout
-providers = [l.split()[-1].lower() for l in out.splitlines() if re.match(r"  [A-Z0-9]{6} ", l)]
+queue = out.split("already carry a sent_at")[0]  # the --list tail names who is skipped, with dates
+providers = [l.split()[-1].lower() for l in queue.splitlines() if re.match(r"  [A-Z0-9]{6} ", l)]
 blogs = [r["contact"].lower() for r in csv.DictReader(open("tools/blog_outreach.csv"))
          if path in r["list_path"] and r["contact_type"] == "email" and not r["emailed"]]
 forms = [r for r in csv.DictReader(open("tools/blog_outreach.csv"))

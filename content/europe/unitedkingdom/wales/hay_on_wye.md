@@ -18,6 +18,7 @@ sources:
 - https://bannaubrycheiniog.org/townsandvillages/hay-on-wye/
 - https://www.haycastletrust.org/
 tags:
+- wye_valley
 - brecon_beacons
 title: Hay-on-Wye
 type: location

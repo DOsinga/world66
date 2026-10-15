@@ -10,6 +10,8 @@ tags:
 latitude: 55.6386
 longitude: -2.1081
 score: 6.8
+sources:
+  - https://www.visitnorthumberland.com/inspire-me/blogs/hidden-gems-in-northumberland
 ---
 
 Heatherslaw Corn Mill is a restored 19th-century water mill near Ford and Etal, still set up to show how grain was ground by water power. It is a small, practical museum rather than a grand historic house, and that is part of its charm.

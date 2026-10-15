@@ -10,7 +10,7 @@ import resend
 
 path = sys.argv[1]
 FROM = "Richard at World66 <richard@world66.ai>"
-sent = resend.mailed()
+sent = resend.mailed() | resend.gmail_mailed()
 targets = [r for r in csv.DictReader(open("tools/blog_outreach.csv"))
            if path in r["list_path"] and r["contact_type"] == "email" and not r["emailed"]]
 drafts = {}

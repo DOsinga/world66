@@ -4947,7 +4947,6 @@ a.region-group-title:hover {
   color: inherit;
 }
 
-/* The last card in the picks row: an invitation to send a tip */
 .pick-callout-tip {
   justify-content: space-between;
   background: transparent;

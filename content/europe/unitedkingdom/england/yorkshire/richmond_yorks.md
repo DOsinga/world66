@@ -13,6 +13,7 @@ score: 5.177
 snippet: Historic Swaledale market town above the River Swale, dominated by an 11th-century
   Norman castle.
 tags:
+- swaledale
 - yorkshire_dales
 title: Richmond
 type: location

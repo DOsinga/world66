@@ -12,6 +12,7 @@ sources:
   - https://en.wikivoyage.org/wiki/Doncaster
   - https://www.ywt.org.uk/nature-reserves/potteric-carr-nature-reserve
   - https://www.ywt.org.uk/potteric-carr
+  - https://www.ywt.org.uk/blog/rod-jones/here-be-dragons-and-damsels
 ---
 
 Potteric Carr is Doncaster's best nature escape, a Yorkshire Wildlife Trust reserve of reedbeds, pools, wet woodland, and paths just south of town. The reserve is especially good for birdwatching, with hides overlooking marsh and open water, but it is also a useful place simply to walk when the town centre has worn thin.

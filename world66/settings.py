@@ -35,8 +35,12 @@ GITHUB_TIMEOUT = int(os.environ.get("GITHUB_TIMEOUT", "10"))
 GTM_CONTAINER_ID = os.environ.get("GTM_CONTAINER_ID", "")
 GA_MEASUREMENT_ID = os.environ.get("GA_MEASUREMENT_ID", "")
 CARTO_BASEMAP_KEY = os.environ.get("CARTO_BASEMAP_KEY", "")
-# Where the "send a tip or a correction" button on destination pages mails to.
 TIPS_EMAIL = os.environ.get("TIPS_EMAIL", "tips@world66.ai")
+# The concierge is a work in progress: visitors only see it after unlocking
+# the preview at /concierge/preview?key=…. This repository is public, so the
+# key lives in the environment; unset means nobody can unlock it.
+CONCIERGE_PREVIEW_KEY = os.environ.get("CONCIERGE_PREVIEW_KEY", "")
+CONCIERGE_MODEL = os.environ.get("CONCIERGE_MODEL", "claude-sonnet-5")
 
 
 # Application definition
@@ -44,6 +48,7 @@ TIPS_EMAIL = os.environ.get("TIPS_EMAIL", "tips@world66.ai")
 INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "django.contrib.sessions",
+    "concierge",
     "guide",
     "passport_app",
     "regions_app",
@@ -75,6 +80,7 @@ TEMPLATES = [
                 "guide.context_processors.gtm_container_id",
                 "guide.context_processors.ga_measurement_id",
                 "guide.context_processors.carto_basemap_key",
+                "concierge.context_processors.concierge",
             ],
         },
     },

@@ -300,11 +300,6 @@ TIP_LOC_TYPES = ("city", "feature", "island")
 
 
 def _tip_mailto(page):
-    """A mailto: link for sending a local tip or a correction about this page.
-
-    The mail lands in the same inbox as outreach replies; the page link in the
-    body tells us exactly which file to change.
-    """
     url = f"https://world66.ai/{page.path}"
     subject = f"Tip for {page.title}"
     body = (
@@ -900,11 +895,11 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
 
     breadcrumbs = page.breadcrumbs()
     dimension_rows, score_verdict, similar_in_country = _score_profile_context(page, parent)
-    # Tips belong on places people visit: towns, features and islands, not on
-    # continents, countries or regions.
-    tip_mailto = (_tip_mailto(page)
-                  if page.page_type == "location" and page.meta.get("loc_type") in TIP_LOC_TYPES
-                  else "")
+    tip_mailto = (
+        _tip_mailto(page)
+        if page.page_type == "location" and page.meta.get("loc_type") in TIP_LOC_TYPES
+        else ""
+    )
 
     return render(request, "guide/page.html", {
         "page": page,

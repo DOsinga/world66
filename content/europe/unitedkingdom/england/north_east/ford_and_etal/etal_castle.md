@@ -10,6 +10,8 @@ tags:
   - things_to_do
   - castle
   - history
+sources:
+  - https://www.visitnorthumberland.com/inspire-me/blogs/hidden-gems-in-northumberland
 ---
 
 Etal Castle is a ruined 14th-century tower house in the Till valley, close to Ford and the Scottish border. It was briefly taken by the Scots in 1513 before the Battle of Flodden, then declined after the border lost much of its military urgency.

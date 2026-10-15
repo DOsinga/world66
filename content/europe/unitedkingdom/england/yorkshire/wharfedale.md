@@ -5,7 +5,7 @@ image: wharfedale.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Wharfedale_near_Buckden_(7860).jpg
 latitude: 54.0042
-loc_type: region
+loc_type: feature
 longitude: -1.9033
 score: 0.56
 snippet: Yorkshire Dales valley of limestone villages, river bends, and Bolton Abbey

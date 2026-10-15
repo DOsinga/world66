@@ -4946,3 +4946,41 @@ a.region-group-title:hover {
 .pick-callout-by a {
   color: inherit;
 }
+
+.pick-callout-tip {
+  justify-content: space-between;
+  background: transparent;
+  border: 1px dashed var(--line-2);
+  border-bottom: 3px solid var(--accent);
+}
+.pick-callout-tip:hover { background: transparent; }
+.pick-callout-tip-text {
+  margin: 10px 0 0;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--mute);
+}
+.pick-callout-tip-foot {
+  padding: 16px 18px 18px;
+}
+.pick-callout-tip-button {
+  display: inline-block;
+  padding: 10px 16px;
+  border-radius: 4px;
+  background: var(--accent);
+  color: var(--paper);
+  font-family: var(--label-font);
+  font-size: 14px;
+  font-weight: 600;
+}
+.pick-callout-tip-button:hover {
+  background: var(--accent-ink);
+  color: var(--paper);
+  text-decoration: none;
+}
+.pick-callout-tip-addr {
+  display: block;
+  margin-top: 8px;
+  font-size: 12px;
+  color: var(--mute);
+}

@@ -35,6 +35,7 @@ GITHUB_TIMEOUT = int(os.environ.get("GITHUB_TIMEOUT", "10"))
 GTM_CONTAINER_ID = os.environ.get("GTM_CONTAINER_ID", "")
 GA_MEASUREMENT_ID = os.environ.get("GA_MEASUREMENT_ID", "")
 CARTO_BASEMAP_KEY = os.environ.get("CARTO_BASEMAP_KEY", "")
+TIPS_EMAIL = os.environ.get("TIPS_EMAIL", "tips@world66.ai")
 # The concierge is a work in progress: visitors only see it after unlocking
 # the preview at /concierge/preview?key=…. This repository is public, so the
 # key lives in the environment; unset means nobody can unlock it.

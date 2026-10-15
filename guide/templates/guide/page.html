@@ -674,7 +674,7 @@
 </script>
 {% endif %}
 
-{% if location_picks %}
+{% if location_picks or tip_mailto %}
 <div class="wide-block pick-callout-section">
   <span class="section-kicker">Picked by people who know it</span>
   <h2 class="section-block-heading">What most visitors miss</h2>
@@ -691,6 +691,18 @@
       <div class="pick-callout-by">&mdash; {% if card.pick.blog %}<a href="{{ card.pick.blog.url }}">{{ card.pick.by }}</a>{% elif card.pick.provider %}<a href="{{ card.pick.provider.get_absolute_url }}">{{ card.pick.by }}</a>{% else %}{{ card.pick.by }}{% endif %}</div>
     </article>
     {% endfor %}
+    {% if tip_mailto %}
+    <article class="pick-callout pick-callout-tip">
+      <div class="pick-callout-body">
+        <div class="pick-callout-name">Know {{ page.title }}?</div>
+        <p class="pick-callout-tip-text">{% if location_picks %}Tell us what you would add, or what we got wrong.{% else %}Nobody has picked anything here yet. Tell us the one thing most visitors miss, or what we got wrong.{% endif %} We read every mail, update the guide and write back.</p>
+      </div>
+      <div class="pick-callout-tip-foot">
+        <a class="pick-callout-tip-button" href="{{ tip_mailto }}">Send a tip or a correction</a>
+        <span class="pick-callout-tip-addr">or write to {{ tips_email }}</span>
+      </div>
+    </article>
+    {% endif %}
   </div>
 </div>
 {% endif %}

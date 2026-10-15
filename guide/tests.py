@@ -25,3 +25,21 @@ class DestinationPoiAggregationTest(SimpleTestCase):
         self.assertContains(response, "Bonaire National Marine Park")
         self.assertContains(response, "1000 Steps")
         self.assertContains(response, "Cadushy Distillery")
+
+
+class TipMailtoTest(SimpleTestCase):
+    @override_settings(TIPS_EMAIL="local-tips@example.com")
+    def test_tip_link_appears_on_a_city_but_not_a_country(self):
+        city = self.client.get("/europe/france/paris")
+        country = self.client.get("/europe/france")
+
+        self.assertEqual(city.status_code, 200)
+        self.assertTrue(
+            city.context["tip_mailto"].startswith("mailto:local-tips@example.com?")
+        )
+        self.assertIn(
+            "https%3A%2F%2Fworld66.ai%2Feurope%2Ffrance%2Fparis",
+            city.context["tip_mailto"],
+        )
+        self.assertEqual(country.status_code, 200)
+        self.assertEqual(country.context["tip_mailto"], "")

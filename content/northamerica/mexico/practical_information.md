@@ -23,7 +23,7 @@ Travel health insurance with medical evacuation coverage is strongly recommended
 
 ## Safety
 
-Mexico's safety situation is uneven. Major tourist corridors — Mexico City's tourist neighborhoods, [Oaxaca](/northamerica/mexico/oaxaca), [Guanajuato](/northamerica/mexico/guanajuato), [San Miguel de Allende](/northamerica/mexico/guanajuato), the Yucatan Peninsula, [Puerto Vallarta](/northamerica/mexico/puertovallarta), [Baja California](/northamerica/mexico/bajacalifornia) — are generally safe for tourists. Several northern states (Sinaloa, Tamaulipas, Guerrero, parts of Colima) have serious security issues. Check your government's current travel advisory before planning any trip, particularly outside well-traveled routes.
+Mexico's safety situation is uneven. Major tourist corridors — Mexico City's tourist neighborhoods, [Oaxaca](/northamerica/mexico/oaxaca/oaxaca_de_juarez), [Guanajuato](/northamerica/mexico/guanajuato/guanajuato_city), [San Miguel de Allende](/northamerica/mexico/guanajuato/guanajuato_city), the Yucatan Peninsula, [Puerto Vallarta](/northamerica/mexico/jalisco/puertovallarta), [Baja California](/northamerica/mexico/bajacalifornia) — are generally safe for tourists. Several northern states (Sinaloa, Tamaulipas, Guerrero, parts of Colima) have serious security issues. Check your government's current travel advisory before planning any trip, particularly outside well-traveled routes.
 
 Petty theft and pickpocketing are the most common risks in cities. Keep valuables out of sight, use hotel safes, and don't flash expensive cameras or phones in crowded markets. Use Uber or app-based taxis rather than flagging cabs off the street, particularly at night.
 

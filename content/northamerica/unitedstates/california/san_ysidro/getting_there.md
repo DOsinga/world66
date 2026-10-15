@@ -7,4 +7,4 @@ San Ysidro is the southern terminus of the San Diego Trolley Blue Line. Trains r
 
 By car, San Ysidro sits at the junction of Interstate 5 and Interstate 805. Driving to the border is straightforward from San Diego; crossing south into Mexico by car is quick, but be aware that you will need Mexican auto insurance if you plan to drive in Tijuana. Several insurance vendors operate near the border. Northbound by car can be slow — check wait times before you attempt it.
 
-For [Tijuana](/northamerica/mexico/tijuana), the pedestrian crossing is the easiest option: walk south from the trolley station, follow the border signs, and you are in Mexico within minutes.
+For [Tijuana](/northamerica/mexico/bajacalifornia/tijuana), the pedestrian crossing is the easiest option: walk south from the trolley station, follow the border signs, and you are in Mexico within minutes.

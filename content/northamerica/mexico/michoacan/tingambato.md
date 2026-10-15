@@ -1,0 +1,27 @@
+---
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-03'
+latitude: 19.506387
+loc_type: city
+longitude: -101.85337
+score: 5.406
+title: Tingambato
+type: location
+snippet: Michoacán avocado-country village with a small Teotihuacan-influenced archaeological
+  site beyond the plaza.
+heritage: 5.594
+vibrancy: 2.626
+nature: 6.008
+off_the_beaten_track: 5.02
+image: tingambato.jpg
+image_source: https://commons.wikimedia.org/wiki/File:La_piramide,_tingambato.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Papo y nuno
+---
+
+Tingambato is a small village in the heart of avocado country in [Michoacán](/northamerica/mexico/michoacan), on the free road between [Uruapan](/northamerica/mexico/michoacan/uruapan) and Pátzcuaro.
+
+At first glance Tingambato seems to be nothing more than a Pemex station and a couple of tiendas. But head down one of the streets toward the hill and you will find the town plaza and the [parish church](/northamerica/mexico/michoacan/tingambato/iglesia_santiago_apostol).
+
+Continue past the old railroad tracks and you reach the real treasure of the village: the [Tingambato Archaeological Site](/northamerica/mexico/michoacan/tingambato/tingambato_archaeological_site), a small but interesting, partially-restored collection of Tarascan ruins worth stopping for.

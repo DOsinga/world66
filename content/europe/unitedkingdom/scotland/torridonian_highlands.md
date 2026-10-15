@@ -3,18 +3,22 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
   poi_cleanup: '2026-04-19'
-latitude: 57.75
-longitude: -5.5
-score: 6.254
-title: Torridonian Highlands
-type: location
-loc_type: feature
-snippet: Scottish mountain region of Torridonian sandstone peaks, moorland lochs,
-  and long ridge walks.
 heritage: 2.266
-vibrancy: 1.261
+image: torridonian_highlands.jpg
+image_attribution: Chris Combe
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:House_on_the_Loch_(15394956873).jpg
+latitude: 57.75
+loc_type: feature
+longitude: -5.5
 nature: 7.777
 off_the_beaten_track: 6.279
+score: 6.254
+snippet: Scottish mountain region of Torridonian sandstone peaks, moorland lochs,
+  and long ridge walks.
+title: Torridonian Highlands
+type: location
+vibrancy: 1.261
 ---
 
 The mountains of Torridonian sandstone are possibly the only mainland mountains that can compete in beauty with the Cuillin of Skye. The peaks in the immediate area of Loch Torridon are large and provide walks along their numerous tops — Liathach, Beinn Alligin, and Beinn Eighe among them, with the splendid ridge of An Teallach further south.

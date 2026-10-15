@@ -3,18 +3,22 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-29'
+heritage: 1.997
+image: turriff.jpg
+image_attribution: Bill Harrison
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:St_Congan's_auld_kirk,_Turriff_-_geograph.org.uk_-_5544045.jpg
 latitude: 57.5375
 loc_type: city
 longitude: -2.4641
+nature: 1.568
+off_the_beaten_track: 1.598
 score: 1.739
 snippet: Small Aberdeenshire market town known for its agricultural show and nearby
   northeast castles.
 title: Turriff
 type: location
-heritage: 1.997
 vibrancy: 1.528
-nature: 1.568
-off_the_beaten_track: 1.598
 ---
 
 Turriff is a small market town in Aberdeenshire, sitting in gently rolling farmland about 35 miles north of Aberdeen. It's not a destination in itself, but it makes a decent base for exploring the castles and coastal towns of the northeast.

@@ -1,28 +1,25 @@
 ---
-done:
-  city_tag_migration: '2026-04-17'
-  location_cleanup: 2026-04-05
-  location_enrich: '2026-06-04'
-  poi_cleanup: '2026-04-19'
-image: oaxaca.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Oaxaqa_(41).jpg
-latitude: 17.0732
-loc_type: city
-longitude: -96.7266
-score: 5.403
-snippet: Highland Mexican colonial city of volcanic-stone streets, baroque churches,
-  Zapotec ruins, and serious food culture.
 title: Oaxaca
 type: location
-heritage: 6.031
-vibrancy: 4.6
-nature: 5.694
-off_the_beaten_track: 3.243
+loc_type: region
+latitude: 17.0
+longitude: -96.5
+snippet: Mexico's most indigenous state — sixteen language groups, the country's best
+  cooking, Zapotec ruins and a Pacific coast that stayed small.
+image: oaxaca.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Nuestra_Se%C3%B1ora_de_la_Asunci%C3%B3n,_Oaxaca,_Oax._2.JPG
+image_license: CC BY-SA 4.0
+image_attribution: Luisalvaz
 ---
 
-Oaxaca (pronounced "wah-HAH-ka") is the colonial capital of the state of the same name, about 500 km southeast of Mexico City on a high, dry plateau at 1,550 m. With just under 300,000 people in the city and another half-million in the surrounding valley, it is small enough to walk across in an afternoon — and it might be the most beautiful and engaging colonial town in Mexico. The whole historic centre is a UNESCO World Heritage Site, built in warm green and ochre volcanic stone.
+Oaxaca is the state travellers fall hardest for, and the reason is density: sixteen recognised indigenous peoples, a cuisine that is argued to be the country's finest, and a capital small enough to walk across.
 
-Oaxaca is three things at once. First, it is a colonial city of baroque churches and convents — the [Templo de Santo Domingo](/northamerica/mexico/oaxaca/santo_domingo), with its astonishing gold-leaf ceilings and the Cultural Museum beside it, is one of the great sights of the Americas. The [Basílica de la Soledad](/northamerica/mexico/oaxaca/basilica_de_la_soledad) to the west is beloved by locals, and the [Oaxaca Ethnobotanical Garden](/northamerica/mexico/oaxaca/ethnobotanical_garden) in the former convent grounds is unmissable. Second, it is the centre of indigenous Mexico: the Valley of Oaxaca has been continuously inhabited for more than 10,000 years, was the heartland of the Zapotec and later Mixtec civilisations, and still speaks sixteen distinct indigenous languages. The [Monte Albán](/northamerica/mexico/oaxaca/monte_alban) archaeological site on the hilltop above the city — the great Zapotec capital, abandoned around AD 750 — is the must-see, with [Mitla](/northamerica/mexico/oaxaca/mitla), [Yagul](/northamerica/mexico/oaxaca/yagul), the [Árbol del Tule](/northamerica/mexico/oaxaca/arbol_del_tule), and the petrified waterfalls of [Hierve el Agua](/northamerica/mexico/oaxaca/hierve_el_agua) a short drive further out. Third, it is Mexico's most interesting food city — the birthplace of seven famous **moles**, of **tlayudas** (giant crisp tortillas with toppings), of grasshoppers (**chapulines**) and most of all of **mezcal**, the smoky agave spirit that has its heartland in the villages around town. The [Mercado Benito Juárez](/northamerica/mexico/oaxaca/mercado_benito_juarez) and the adjacent 20 de Noviembre market are the best places to eat it all at once.
+[Oaxaca de Juárez](/northamerica/mexico/oaxaca/oaxaca_de_juarez) is a city of green volcanic stone, with the Santo Domingo church and its gilded interior, markets selling seven distinct moles, and mezcal in every form from industrial to a plastic bottle from somebody's uncle. Above it sit the Zapotec terraces of **Monte Albán**, levelled off a mountaintop around 500 BC.
 
-Come for the extraordinary **Day of the Dead** celebrations in late October and early November — Oaxaca is one of the best places in Mexico to experience it — or for the **Guelaguetza** folk-dance festival in late July, when every indigenous community in the state sends dancers to the city.
+The valleys around the city hold the craft villages — black pottery, *alebrijes*, the weaving at Teotitlán — and **Hierve el Agua**, mineral springs that have petrified into what look like frozen waterfalls.
+
+The **Sierra Norte** above is cloud forest, with community-run tourism that predates the phrase: [Capulálpam de Méndez](/northamerica/mexico/oaxaca/capulalpam_de_mendez) is one of several villages running their own cabins and guides, and [San José del Pacífico](/northamerica/mexico/oaxaca/sanjosedelpacifico) sits in the mountains between city and coast.
+
+The **coast** stayed small because the mountains made it hard to reach. [Puerto Escondido](/northamerica/mexico/oaxaca/puertoescondido) has a serious surf break at Zicatela; [Mazunte](/northamerica/mexico/oaxaca/mazunte) and [Zipolite](/northamerica/mexico/oaxaca/zipolite) are villages rather than resorts, the latter Mexico's only official nude beach.
+
+Oaxaca is also where the Day of the Dead is least adulterated, and where **Guelaguetza** in July brings the state's peoples to the capital to dance.

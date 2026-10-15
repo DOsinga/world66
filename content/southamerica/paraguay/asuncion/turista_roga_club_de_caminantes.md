@@ -3,6 +3,7 @@ commercial: true
 email: infosenatur@senatur.gov.py
 latitude: -25.2812887
 longitude: -57.636085
+outreach_code: 9SPTJF
 phone: +595 983 981 212
 score: 6.2
 snippet: SENATUR's free-ish walking tour of the old centre, 10:00 from Turista Róga

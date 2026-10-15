@@ -1,23 +1,23 @@
 ---
-done:
-  location_cleanup: 2026-04-06
-  location_enrich: '2026-05-21'
-latitude: 22.1565
-loc_type: city
-longitude: -100.9855
-score: 6.265
-snippet: Central Mexican colonial city founded as a mining settlement, with baroque
-  churches and grand plazas.
 title: San Luis Potosí
 type: location
-heritage: 7.402
-vibrancy: 5.078
-nature: 4.48
-off_the_beaten_track: 2.349
+loc_type: region
+latitude: 22.5
+longitude: -100.4949
+snippet: A silver capital, a ghost town in the desert, and the waterfalls and surreal
+  garden of the Huasteca Potosina.
+image: sanluispotosi.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Camiones_ca%C3%B1eros_cerca_del_Ingenio_Plan_de_San_Luis_-_Ciudad_Valles,_San_Luis_Potos%C3%AD.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Juan Carlos Fonseca Mata
 ---
 
-San Luis Potosí is a colonial city of about a million people in central Mexico, capital of the state of the same name. Founded in the late 1500s as a silver and gold mining settlement at 1,877 metres elevation, it was one of the wealthiest cities in New Spain and its centre shows it: grand plazas, baroque churches of real ambition, and wide pedestrian streets lined with 18th-century buildings.
+San Luis Potosí is two states in one. The west is high desert — thin air, mining towns, mirages; the east falls into the **Huasteca Potosina**, which is wet, green and full of rivers the colour of mouthwash.
 
-The city has a serious historical pedigree. President Benito Juárez made it the national capital twice during the French intervention, and Francisco Madero wrote the Plan de San Luis here — the call to arms that launched the Revolution of 1910 — while imprisoned by the dictator Porfirio Díaz. The Mexican national anthem was first completed here in 1854.
+[San Luis Potosí city](/northamerica/mexico/sanluispotosi/san_luis_potosi_city) is the capital, a UNESCO centre built on silver money, with plazas that each have a different character and a baroque church at most of them.
 
-The [Plaza de Armas](/northamerica/mexico/sanluispotosi/plaza_de_armas) is the centre of the colonial zone, flanked by the cathedral and the Government Palace. The [Templo del Carmen](/northamerica/mexico/sanluispotosi/templo_del_carmen), a few blocks away, has one of the most elaborate Churrigueresque facades in Mexico. The [Mercado Hidalgo](/northamerica/mexico/sanluispotosi/mercado_hidalgo) sells the city's famous handcraft: the Santa María rebozo, a shawl woven so fine it can pass through a wedding ring. The city is also known for its enchiladas potosinas (a local red chile and cheese variety) and for queso de tuna, a candy made from the prickly pear cactus.
+[Real de Catorce](/northamerica/mexico/sanluispotosi/real_de_catorce) is the desert's set piece: a silver town of 15,000 that emptied to almost nothing, reached through a 2.3-kilometre mine tunnel, now half ghost town and half pilgrimage site. The surrounding Wirikuta desert is sacred to the Wixárika, who walk here for peyote; it is their church, and is treated as such.
+
+The **Huasteca** is the adventure half. [Xilitla](/northamerica/mexico/sanluispotosi/xilitla) holds **Las Pozas**, the concrete surrealist garden Edward James built in the jungle — staircases to nowhere, doors opening onto drops — and [Aquismón](/northamerica/mexico/sanluispotosi/aquismon) is the base for the Tamul waterfall and the Sótano de las Golondrinas, a 370-metre shaft that swifts spiral out of at dawn.
+
+[Tamuín](/northamerica/mexico/sanluispotosi/tamuin) has the Huastec ruins of Tamtoc.

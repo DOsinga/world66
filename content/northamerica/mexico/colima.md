@@ -1,24 +1,23 @@
 ---
-done:
-  location_enrich: '2026-06-01'
-image: colima.jpg
-image_attribution: Adam Jones from Kelowna, BC, Canada
-image_license: CC BY 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Plaza_Colima_with_Basilica_View_-_Colima_-_Mexico_(52581099915).jpg
-latitude: 19.2433
-loc_type: city
-longitude: -103.7247
-score: 4.173
-snippet: Small Mexican state capital in a green valley between Volcán de Fuego and
-  Nevado de Colima.
 title: Colima
 type: location
-heritage: 4.857
-vibrancy: 2.984
-nature: 3.947
-off_the_beaten_track: 3.562
+loc_type: region
+latitude: 19.1667
+longitude: -104.0
+snippet: Mexico's second-smallest state — an active volcano above a green valley,
+  and the Pacific at Manzanillo.
+image: colima.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Colima,_M%C3%A9xico_-_panoramio.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Nelson Pérez
 ---
 
-Colima is the small, relaxed capital of Mexico's smallest state, sitting in a lush valley between two volcanoes -- the active [Volcan de Fuego](/northamerica/mexico/colima/volcan_de_fuego) and the dormant Nevado de Colima. The volcanoes dominate the landscape and the local imagination; on clear days their peaks frame the city beautifully, and Fuego occasionally sends up plumes of smoke as a reminder that nature runs the show here. The city has a well-preserved colonial center with a handsome [cathedral](/northamerica/mexico/colima/cathedral_basilica), shaded portales around the [main plaza](/northamerica/mexico/colima/jardin_libertad), and the kind of unhurried provincial atmosphere that the big Mexican cities have largely lost.
+Colima is tiny, fertile and dominated by a volcano that rarely stops. The **Volcán de Colima** is the most active in Mexico, and from the capital you see it smoking behind the dormant, snow-dusted Nevado de Colima beside it.
 
-The [Museo Regional de Historia](/northamerica/mexico/colima/museo_regional_de_historia) has a good collection of pre-Columbian ceramics, including the distinctive Colima dog figures that turn up in museums worldwide. The city is walkable and safe, prices are low, and the climate is warm year-round. Colima makes a good base for visiting the coast at Manzanillo, about an hour and a half away, or for hiking on the lower slopes of the Nevado. It sees very few foreign tourists, which is part of its appeal.
+[Colima city](/northamerica/mexico/colima/colima_city) is a calm provincial capital with palm-filled plazas and a museum of the state's pre-Hispanic ceramics — the round, cheerful **Colima dogs**, modelled fifteen hundred years ago and found in shaft tombs across the west.
+
+[Manzanillo](/northamerica/mexico/colima/manzanillo) on the coast is Mexico's busiest Pacific container port and, simultaneously, a resort town — two black-sand bays, and a sailfish reputation that brought the sportfishing crowd here from the 1950s.
+
+[Tecomán](/northamerica/mexico/colima/tecoman) grows most of Mexico's limes, which is a larger claim than it sounds.
+
+The state is small enough to cross in two hours, which makes the volcano, the beach and the colonial centre a single easy loop.

@@ -1,16 +1,20 @@
 ---
+heritage: 3.575
+image: peterhead.jpg
+image_attribution: Hugh Venables
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Fishing_boats_in_Peterhead_docks_-_geograph.org.uk_-_7604199.jpg
 latitude: 57.5048
 loc_type: city
 longitude: -1.7833
+nature: 5.363
+off_the_beaten_track: 3.063
 score: 4.438
 snippet: Working Aberdeenshire fishing port of pink granite streets and long Buchan
   coast beaches.
 title: Peterhead
 type: location
-heritage: 3.575
 vibrancy: 1.805
-nature: 5.363
-off_the_beaten_track: 3.063
 ---
 
 Peterhead is the most easterly town in Scotland, a working fishing port on the Buchan coast of Aberdeenshire. It is the largest whitefish port in Europe, and for all the decline in Scottish fishing, boats still go out from here. The town is built in large part from the local pink granite, which gives the older streets a distinctive cold glitter on grey days.

@@ -1,17 +1,29 @@
 ---
-title: "Hermosillo"
-type: poi
-tags:
-  - things_to_do
-  - sight
-latitude: 29.0729
-longitude: -110.9559
-story: "Hermosillo's old penitentiary, the Penitenciaría del Estado, was the site of Mexico's last civilian execution — a hanging that took place in 1928. The building is now the Museo de Sonora, dedicated to the history and archaeology of the state. The execution chamber is still there."
-sources:
-  - https://en.wikipedia.org/wiki/Hermosillo
-score: 5.8
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-02'
+image: hermosillo.jpg
+image_attribution: gakusei 88 from Japan
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Hermosillo_y_Kiosko_(5858147299).jpg
+latitude: 29.094821
+loc_type: city
+longitude: -110.96922
+score: 4.953
+snippet: Sonoran state capital and desert commercial hub, known for cattle country
+  and northern Mexico's beef culture
+title: Hermosillo
+type: location
+heritage: 4.747
+vibrancy: 5.069
+nature: 4.293
+off_the_beaten_track: 2.851
 ---
 
-Hermosillo is Sonora's capital and largest city, a sprawling, hot, modern city of nearly a million people in the middle of the Sonoran Desert. It is not a tourist destination in itself, but it is the gateway to Bahía Kino and the rest of the state, and it has a decent historic centre around the Plaza Zaragoza and the Catedral de la Asunción. The Cerro de la Campana (Bell Hill) in the middle of the city offers panoramic views.
+Hermosillo is the capital of Sonora, a prosperous northern state that feels as much influenced by the American Southwest as by central Mexico. Set in the low desert at about 215 metres above sea level, it is a practical, fast-moving city of around 900,000 people — the industrial and commercial hub of a region known for cattle ranching, wheat farming, car manufacturing, and some of the best beef in Mexico.
 
-The Museo de Sonora, housed in the 19th-century state penitentiary, is the best museum in the state — covering indigenous cultures, colonial history, and natural history. The building itself is worth visiting for its architecture and its grim institutional history. Hermosillo also has a branch of the famous Sonoran carne asada culture: the arandas-style restaurants serve excellent grilled beef with flour tortillas, local salsas, and cold beer.
+The historic centre holds its own. [Plaza Zaragoza](/northamerica/mexico/sonora/hermosillo/plaza_zaragoza) anchors downtown, flanked by the neoclassical Government Palace and the [Cathedral of the Assumption](/northamerica/mexico/sonora/hermosillo/catedral_de_la_asuncion), with its distinctive twin towers visible from much of the city. The [Museo de Sonora](/northamerica/mexico/sonora/hermosillo/museo_de_sonora) — housed in the old state penitentiary — gives context to the long Yaqui and Seri indigenous presence in the region. The [Cerro de la Campana](/northamerica/mexico/sonora/hermosillo/cerro_de_la_campana) rises at the city's northern edge, offering panoramic desert views from a volcanic hill that was sacred to the Seri.
+
+Eating here is a genuine pleasure: [Sonoran carne asada](/northamerica/mexico/sonora/hermosillo/carne_asada_sonorense) — beef grilled over mesquite with handmade flour tortillas — is as good as it gets anywhere in Mexico, and the [mariscos](/northamerica/mexico/sonora/hermosillo/mariscos_hermosillo) are superb, fed by daily catches from the Gulf of California.
+
+Day trips from the city are the real reward. Bahía Kino, 54 miles to the west, is a relaxed seaside town on the Sea of Cortez where you can hire a boat to reach Isla Tiburón, Mexico's largest island and a Seri biosphere reserve. Southeast of the city, [La Pintada](/northamerica/mexico/sonora/hermosillo/la_pintada) shelters one of the largest concentrations of rock art in Mexico — more than 1,500 petroglyphs and pictographs left by the Seri and Pima people on canyon walls above a dry riverbed.

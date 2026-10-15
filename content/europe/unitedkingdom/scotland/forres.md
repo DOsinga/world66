@@ -1,16 +1,20 @@
 ---
+heritage: 4.473
+image: forres.jpg
+image_attribution: Mike McBey
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:St_Laurence_Church,_Forres_(40617116872).jpg
+latitude: 57.6082
+loc_type: city
+longitude: -3.6222
+nature: 4.135
+off_the_beaten_track: 1.893
+score: 3.983
 snippet: Moray market town sheltered by nearby hills, with Nelson's Tower overlooking
   one of Scotland's drier regions.
 title: Forres
 type: location
-loc_type: city
-latitude: 57.6082
-longitude: -3.6222
-score: 3.983
-heritage: 4.473
 vibrancy: 2.612
-nature: 4.135
-off_the_beaten_track: 1.893
 ---
 
 Forres is a small market town in Moray, on the southern edge of the coastal plain between Inverness and Aberdeen. It sits in a stretch of country that is unusually benign for this latitude — the town gets less rainfall than almost anywhere else in Scotland, sheltered by the hills to the south and exposed to the drying east winds that blow off the North Sea. This has made the area productive farmland for centuries and contributed to Forres's long history as a town.

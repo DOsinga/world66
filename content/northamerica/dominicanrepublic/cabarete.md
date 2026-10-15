@@ -12,7 +12,7 @@ image_license: CC BY 2.0
 image_attribution: Alex Proimos from Sydney, Australia
 ---
 
-Cabarete is a single road along a bay on the north coast, and it is there because of the wind. The trade winds funnel along this shore and build through the day with the thermals, which produces a pattern the town lives by: surfers take the morning swell, windsurfers get the early afternoon, and by two or three o'clock the bay belongs to the kiteboarders. **Kite Beach**, a kilometre west, is where that happens, and on a good day there are a hundred kites in the air at once.
+Cabarete is a single road along a bay on the north coast, and it is there because of the wind. The trade winds funnel along this shore and build through the day with the thermals, which produces a pattern the town lives by: surfers take the morning swell, windsurfers get the early afternoon, and by two or three o'clock the bay belongs to the kiteboarders. Most of the schools teach in **Cabarete Bay** itself, the stretch in front of town also known as Bozo Beach. A reef well out from the shore shelters the bay, so beginners learn in calm water near the beach while experienced riders head out to the reef. **Kite Beach**, a kilometre west, is the other famous spot, but its sand almost disappears in summer, which makes launching and landing hard there, especially for beginners.
 
 The season runs roughly December to August for wind, with the strongest and most reliable conditions from January through April and again in the summer months. Waves for surfing are best from December to March at **Playa Encuentro**, four kilometres west, which is also where every surf school in town teaches.
 

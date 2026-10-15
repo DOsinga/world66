@@ -4,11 +4,14 @@ type: poi
 latitude: 54.9747
 longitude: -1.6092
 tags:
+- blogs_for_newcastle
 - things_to_do
 - sight
 - museum
 snippet: Pre-Raphaelite, John Martin, and the cream of north-eastern painting
 score: 8.2
+sources:
+  - https://traceysinclair.substack.com/p/the-sinful-spine-hits-heaton
 ---
 
 A quiet, manageable Edwardian art gallery a block off Northumberland Street. Strong on Pre-Raphaelites (Holman Hunt, Burne-Jones, Rossetti), the apocalyptic painter John Martin (a Newcastle native), and 18th- and 19th-century glass and silver from local makers. The collection is small enough to see properly in an hour and varied enough that there is something for everyone.

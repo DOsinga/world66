@@ -237,5 +237,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </script>
 {% block extra_js %}{% endblock %}
 
+{% if concierge_enabled %}{% include "concierge/overlay.html" %}{% endif %}
 </body>
 </html>

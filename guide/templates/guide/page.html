@@ -2,7 +2,7 @@
 {% load static %}
 
 {% block title %}
-{{ page.title }}{% if page.page_type == "location" %} Travel Guide{% endif %} - World66
+{% if page.page_type == "section" and parent and parent.title not in page.title %}{% if page.slug == "getting_there" %}Getting to {{ parent.title }}{% elif page.slug == "getting_around" %}Getting Around {{ parent.title }}{% elif page.slug == "day_trips" %}Day Trips from {{ parent.title }}{% else %}{{ page.title }} in {{ parent.title }}{% endif %}{% else %}{{ page.title }}{% if page.page_type == "location" %} Travel Guide{% endif %}{% endif %} - World66
 {% endblock %}
 
 {% block breadcrumbs %}
@@ -363,7 +363,7 @@
 {% endfor %}
 {% endif %}
 
-{% if page.page_type == "location" and sections and not inline_sections %}
+{% if page.page_type == "location" and not inline_sections %}{% if sections or location_bloglists %}
 <div class="sections-row-wrap">
   <span class="section-kicker">Guide</span>
   <h2 class="section-block-heading">Sections</h2>
@@ -386,7 +386,7 @@
     {% endfor %}
   </div>
 </div>
-{% endif %}
+{% endif %}{% endif %}
 
 {% if page.page_type == "location" and inline_sections and location_bloglists %}
 {% for bl in location_bloglists %}

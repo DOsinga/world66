@@ -11,6 +11,7 @@ tags:
 - museums
 - art
 sources:
+- https://teesdalemercury.co.uk/news/impressionists-make-their-mark-at-the-bowes-museum/
 - https://en.wikipedia.org/wiki/Bowes_Museum
 ---
 

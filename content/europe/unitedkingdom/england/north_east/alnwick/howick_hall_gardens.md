@@ -11,6 +11,7 @@ score: 7.4
 sources:
   - https://en.wikivoyage.org/wiki/Alnwick
   - https://howickhallgardens.com/
+  - https://www.visitnorthumberland.com/inspire-me/blogs/hidden-gems-in-northumberland
 ---
 
 Howick Hall Gardens make a worthwhile detour from Alnwick if you have a car and want something quieter than the castle circuit. The estate is best known as the ancestral seat of the Grey family, including Charles, 2nd Earl Grey, whose name lives on in the tea blend.

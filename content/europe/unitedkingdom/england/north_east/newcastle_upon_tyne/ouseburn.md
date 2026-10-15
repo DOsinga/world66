@@ -4,10 +4,13 @@ type: neighbourhood
 latitude: 54.9711
 longitude: -1.5894
 tags:
+- blogs_for_newcastle
 - things_to_do
 - neighbourhood
 snippet: Former industrial valley, now Newcastle's creative quarter
 story: The Ouseburn Valley was the cradle of the Tyneside Industrial Revolution — flax mills, lead works, glassworks, and pottery kilns crammed into a single mile of riverbank. By the 1990s it was an abandoned ruin. Artists moved into the empty mills, and the valley is now Newcastle's most distinctive cultural quarter.
+sources:
+  - https://ouseburntrust.org.uk/news/wartime-memories-the-victoria-tunnel-and-ouseburn-culvert/
 ---
 
 A fifteen-minute walk east of the centre along the Quayside takes you under the Ouseburn's seven railway viaducts and into a tight valley of converted industrial buildings, breweries, music venues, and studios. The Cluny is a converted whisky bottling plant where most touring bands play; Seven Stories is the national centre for children's books; the Biscuit Factory bills itself as the UK's largest independent art gallery. Bring an empty stomach.

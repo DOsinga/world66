@@ -5,7 +5,7 @@ image: wye_valley.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:River_Wye_viewed_from_Yat_Rock.jpg
 latitude: 51.706856
-loc_type: region
+loc_type: feature
 longitude: -2.692298
 score: 0.59
 snippet: Border river valley of wooded gorges, book towns, and the ruined arches of

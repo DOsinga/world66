@@ -22,6 +22,8 @@ heritage: 5.762
 vibrancy: 2.201
 nature: 5.163
 off_the_beaten_track: 3.352
+tags:
+  - wye_valley
 ---
 
 Monmouth sits at the meeting of the Wye, Monnow, and Trothy rivers, close enough to England that the border feels like part of the town's daily geography. It is a compact Welsh market town rather than a grand destination, but it has a good one-day rhythm: a medieval bridge, a Georgian square, castle remains, river walks, and a steep climb to one of the best views over the lower Wye Valley.

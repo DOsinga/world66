@@ -1,7 +1,7 @@
 ---
 title: Camasunary Bay
 type: poi
-snippet: Easy coastal walk from Elgol to a wild beach beneath Blaven
+snippet: Challenging coastal walk from Elgol to a remote beach beneath Blaven, with several rescues a year
 tags:
   - things_to_do
   - sight
@@ -11,6 +11,8 @@ longitude: -6.1526
 score: 8.6
 ---
 
-The walk from Elgol to Camasunary is one of the most rewarding short walks on Skye — about 4 km each way on a good path with little elevation gain, passing along the coast above Loch Scavaig with continuous views of the Cuillin ridge. Camasunary itself is a remote beach of dark sand backed by a bothy (a simple open shelter) and two ruined buildings, utterly empty except in high summer.
+**The coastal path from Elgol to Camasunary is not an easy walk.** It is about 4 km each way, much of it a narrow path cut into steep, grassy slopes high above Loch Scavaig, with drops to the sea, eroded and slippery sections and burns to cross. People have died on it in recent years, and the mountain rescue team, the lifeboat and the coastguard helicopter are called out here regularly, sometimes several times in a day, for walkers who set out thinking it would be easy. Go only with proper boots and waterproofs, in good weather, and turn back if you are not comfortable.
 
-The path continues from Camasunary towards Loch Coruisk on foot, but this involves the "Bad Step" — a short section of coastal scrambling above the sea that requires confidence with heights, though no technical climbing ability. Many walkers turn back at Camasunary and simply enjoy the beach and the view of Blaven's great face rising above the bay. Return the same way, or in good conditions some walkers take the alternative path back over the ridge above Elgol for different views.
+The reward is Camasunary itself: a remote beach of dark sand under Blaven's great face, with a bothy (a simple open shelter) and a couple of ruined buildings, empty except in high summer. The views of the Cuillin along the way are among the best on Skye.
+
+Beyond Camasunary the path to Loch Coruisk crosses the "Bad Step", an exposed slab above deep water that has caused serious accidents; it is for experienced scramblers only. The safe way to see Coruisk is by boat from Elgol.

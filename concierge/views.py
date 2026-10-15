@@ -1,4 +1,5 @@
 import json
+import secrets
 
 from django.core import signing
 from django.core.cache import cache
@@ -56,13 +57,16 @@ def preview(request):
         response = redirect("/")
         response.delete_cookie(COOKIE_NAME)
         return response
-    if request.GET.get("key", "") != key:
+    if is_enabled(request):
+        return render(request, "concierge/preview.html", {"disclosure": agent.DISCLOSURE})
+    if not secrets.compare_digest(request.GET.get("key", ""), key):
         raise Http404
-    response = render(request, "concierge/preview.html", {"disclosure": agent.DISCLOSURE})
+    response = redirect("/concierge/preview")
     response.set_cookie(
         COOKIE_NAME, make_token(),
         max_age=COOKIE_MAX_AGE, samesite="Lax", secure=request.is_secure(), httponly=True,
     )
+    response.headers["Referrer-Policy"] = "no-referrer"
     return response
 
 
@@ -208,12 +212,11 @@ def confirm(request, token):
     }
 
     if request.method != "POST":
-        context["already"] = outreach.already_sent(token)
+        sent_paths = outreach.sent_provider_paths(token)
+        context["providers"] = [p for p in providers if p.path not in sent_paths]
+        context["already"] = bool(providers) and not context["providers"]
         return render(request, "concierge/confirm.html", context)
 
-    if outreach.already_sent(token):
-        context["already"] = True
-        return render(request, "concierge/confirm.html", context)
     if not providers:
         context["dropped"] = dropped or ["those operators can no longer be reached"]
         return render(request, "concierge/confirm.html", context, status=400)
@@ -222,20 +225,30 @@ def confirm(request, token):
                       dict(context, failed=True), status=503)
 
     sent = []
-    for provider in providers:
-        page_url = request.build_absolute_uri(f"/{provider.path}")
-        optout_token = signing.dumps(provider.path, salt=outreach.OPTOUT_SALT)
-        optout_url = request.build_absolute_uri(f"/concierge/no-enquiries/{optout_token}")
-        subject, body = outreach.build_enquiry(
-            provider, draft, traveller, page_url, optout_url
-        )
-        message_id = mail.send(
-            outreach.provider_email(provider), subject, body,
-            reply_to=traveller.get("email", ""),
-        )
-        outreach.record(outreach.ledger_entry(provider, traveller, draft, token, message_id))
-        if message_id:
-            sent.append(provider)
+    with outreach.locked_ledger() as ledger:
+        sent_paths = outreach.sent_provider_paths(token, ledger)
+        providers = [p for p in providers if p.path not in sent_paths]
+        if not providers:
+            context["already"] = True
+            return render(request, "concierge/confirm.html", context)
+
+        for provider in providers:
+            page_url = request.build_absolute_uri(f"/{provider.path}")
+            optout_token = signing.dumps(provider.path, salt=outreach.OPTOUT_SALT)
+            optout_url = request.build_absolute_uri(f"/concierge/no-enquiries/{optout_token}")
+            subject, body = outreach.build_enquiry(
+                provider, draft, traveller, page_url, optout_url
+            )
+            message_id = mail.send(
+                outreach.provider_email(provider), subject, body,
+                reply_to=traveller.get("email", ""),
+            )
+            outreach.record(
+                outreach.ledger_entry(provider, traveller, draft, token, message_id),
+                ledger,
+            )
+            if message_id:
+                sent.append(provider)
 
     return render(request, "concierge/sent.html", {
         "sent": sent,

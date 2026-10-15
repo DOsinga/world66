@@ -16,7 +16,9 @@ import json
 import os
 import re
 import time
+from contextlib import contextmanager
 from datetime import datetime, timezone
+from fcntl import LOCK_EX, LOCK_UN, flock
 from pathlib import Path
 
 from django.conf import settings
@@ -114,30 +116,44 @@ def confirmation_id(token):
     return hashlib.sha256(str(token).encode("utf-8")).hexdigest()[:32]
 
 
-def already_sent(token):
-    """A confirmation link works once; the ledger is what remembers that."""
+@contextmanager
+def locked_ledger():
+    path = ledger_path()
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("a+", encoding="utf-8") as handle:
+        flock(handle, LOCK_EX)
+        try:
+            yield handle
+        finally:
+            flock(handle, LOCK_UN)
+
+
+def sent_provider_paths(token, ledger=None):
     wanted = confirmation_id(token)
-    path = ledger_path()
-    if not path.is_file():
-        return False
-    try:
-        with path.open(encoding="utf-8") as handle:
-            for line in handle:
-                if wanted in line:
-                    return True
-    except OSError:
-        return False
-    return False
+    if ledger is None:
+        with locked_ledger() as ledger:
+            return sent_provider_paths(token, ledger)
+
+    sent = set()
+    ledger.seek(0)
+    for line in ledger:
+        try:
+            entry = json.loads(line)
+        except (TypeError, ValueError):
+            continue
+        if entry.get("confirmation") == wanted and entry.get("message_id"):
+            sent.add(entry.get("provider_path"))
+    return sent
 
 
-def record(entry):
-    path = ledger_path()
-    try:
-        path.parent.mkdir(parents=True, exist_ok=True)
-        with path.open("a", encoding="utf-8") as handle:
-            handle.write(json.dumps(entry, sort_keys=True) + "\n")
-    except OSError:
-        pass
+def record(entry, ledger=None):
+    if ledger is None:
+        with locked_ledger() as ledger:
+            record(entry, ledger)
+        return
+    ledger.seek(0, 2)
+    ledger.write(json.dumps(entry, sort_keys=True) + "\n")
+    ledger.flush()
 
 
 def build_enquiry(provider, draft, traveller, page_url, optout_url):

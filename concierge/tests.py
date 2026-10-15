@@ -25,8 +25,10 @@ class PreviewToggleTest(SimpleTestCase):
 
         response = self.client.get("/concierge/preview?key=open-sesame")
 
-        self.assertEqual(response.status_code, 200)
+        self.assertRedirects(response, "/concierge/preview", fetch_redirect_response=False)
         self.assertIn(COOKIE_NAME, response.cookies)
+        self.assertEqual(response.headers["Referrer-Policy"], "no-referrer")
+        self.assertEqual(self.client.get("/concierge/preview").status_code, 200)
 
     def test_an_ordinary_visitor_never_receives_the_overlay(self):
         response = self.client.get(CITY)
@@ -390,6 +392,22 @@ class ConfirmAndSendTest(SimpleTestCase):
 
         self.assertEqual(send.call_count, 1)
         self.assertContains(response, "Already sent")
+
+    def test_a_failed_recipient_can_be_retried_without_resending_successes(self):
+        token = outreach.sign_confirmation({
+            "draft": a_draft((PROVIDER, OTHER_PROVIDER)),
+            "traveller": TRAVELLER,
+        })
+        with mock.patch.object(mail, "is_configured", return_value=True), \
+             mock.patch.object(mail, "send", side_effect=["id1", "", "id2"]) as send:
+            first = self.client.post(f"/concierge/confirm/{token}")
+            second = self.client.post(f"/concierge/confirm/{token}")
+
+        self.assertContains(first, "Did not go through")
+        self.assertContains(second, "Sent")
+        self.assertEqual(send.call_count, 3)
+        recipients = [call.args[0] for call in send.call_args_list]
+        self.assertEqual(recipients.count(load_page(PROVIDER).meta["email"]), 1)
 
     def test_every_send_lands_in_the_ledger(self):
         with mock.patch.object(mail, "is_configured", return_value=True), \

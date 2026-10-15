@@ -11,6 +11,9 @@ tags:
   - historic_site
   - museum
   - archaeology
+  - blogs_for_hadrians_wall
+sources:
+  - https://www.vindolanda.com/blog/magna-roman-fort
 ---
 
 Vindolanda is a Roman fort and civilian settlement south of Hadrian's Wall, older than the wall itself. Excavations here have produced unusually vivid finds, from shoes and combs to ink-written tablets that record everyday life on the frontier.

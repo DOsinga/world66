@@ -4,11 +4,14 @@ type: poi
 latitude: 54.985
 longitude: -1.585
 tags:
+- blogs_for_newcastle
 - things_to_do
 - sight
 - park
 snippet: Sloping Victorian park with Roman fort remains and a 19th-century pavilion
 score: 5.8
+sources:
+  - https://heatonhistorygroup.org/2015/05/20/king-johns-heaton/
 ---
 
 A formal Victorian park sloping down from Heaton to the Ouseburn valley, containing the slight remains of a Roman milecastle (part of the Hadrian's Wall garrison rather than the wall itself) and a handsome glasshouse pavilion. The bowling greens, formal flowerbeds, and view down to Jesmond Dene from the upper terrace make it one of the more atmospheric of the city's outer-suburb parks.

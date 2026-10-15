@@ -12,6 +12,8 @@ tags:
 - things_to_do
 title: Chillingham Wild Cattle
 type: poi
+sources:
+  - https://www.visitnorthumberland.com/inspire-me/blogs/hidden-gems-in-northumberland
 ---
 
 Chillingham is a tiny village but contains three things of considerable interest. The wild white cattle that roam the castle park are unique in Britain: a herd of ancient bovines that have lived enclosed but wild since medieval times, believed to be the closest surviving relatives of the original native wild cattle of Britain. They are white, horned, and genuinely dangerous.

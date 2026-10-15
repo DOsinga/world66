@@ -5,11 +5,14 @@ longitude: -1.6023
 phone: 0113 230 5492
 snippet: Remarkably intact 12th-century Cistercian monastery ruins
 tags:
+- blogs_for_leeds
 - things_to_do
 - sight
 title: Kirkstall Abbey
 type: poi
 score: 9.1
+sources:
+  - https://leedsliving.co.uk/people-and-places/places-free-to-visit-in-leeds/
 ---
 
 One of the best-preserved Cistercian monasteries in Britain, Kirkstall Abbey was founded in 1152 and stands remarkably intact for a ruin. The nave, tower, and chapter house are all still recognisable, set in parkland along the River Aire about three miles northwest of the city centre. Entry is free. The adjacent Abbey House Museum recreates Victorian Leeds street scenes.

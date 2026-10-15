@@ -10,7 +10,7 @@ score: 6.6
 snippet: Brewery tours led by one of the brewers, with three seasonal beers to taste
 tags:
 - activities
-- winery
+- brewery
 title: Kirkstall Brewery
 type: poi
 url: kirkstallbrewery.com

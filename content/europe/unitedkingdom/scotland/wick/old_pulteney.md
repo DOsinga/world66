@@ -10,7 +10,7 @@ score: 6.6
 snippet: Tours at the 'maritime malt' distillery in Wick
 tags:
 - activities
-- winery
+- distillery
 title: Old Pulteney Distillery
 type: poi
 url: oldpulteney.com

@@ -11,7 +11,7 @@ snippet: Long-running independent Sheffield brewery with occasional ticketed bre
   tours and a taproom
 tags:
 - activities
-- winery
+- brewery
 title: Abbeydale Brewery
 type: poi
 url: abbeydalebrewery.co.uk

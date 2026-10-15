@@ -11,7 +11,7 @@ snippet: Sheffield's independent gin distillery in Portland Works, with tasting 
   and a make-your-own-gin school
 tags:
 - activities
-- winery
+- distillery
 title: Locksley Distilling Co.
 type: poi
 url: locksleydistilling.com

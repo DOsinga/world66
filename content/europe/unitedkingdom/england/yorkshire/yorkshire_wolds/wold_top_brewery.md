@@ -11,7 +11,7 @@ snippet: Farm brewery on the high Wolds with pre-booked tours on Tuesdays and Sa
   plus joint tours with its whisky distillery
 tags:
 - activities
-- winery
+- brewery
 title: Wold Top Brewery
 type: poi
 url: woldtopbrewery.co.uk

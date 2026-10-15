@@ -10,7 +10,7 @@ score: 6.6
 snippet: Whisky and Darnley's gin tours on a farm near St Andrews
 tags:
 - activities
-- winery
+- distillery
 title: Kingsbarns Distillery
 type: poi
 url: kingsbarnsdistillery.com

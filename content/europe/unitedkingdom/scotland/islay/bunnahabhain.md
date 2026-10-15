@@ -10,7 +10,7 @@ score: 6.6
 snippet: Tours at the remote distillery on the Sound of Islay
 tags:
 - activities
-- winery
+- distillery
 title: Bunnahabhain Distillery
 type: poi
 url: bunnahabhain.com

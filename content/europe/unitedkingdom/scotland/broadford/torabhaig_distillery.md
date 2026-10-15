@@ -9,7 +9,7 @@ snippet: Distillery in a restored farm steading on the Sleat coast, with tours a
   a café
 tags:
 - activities
-- winery
+- distillery
 title: Torabhaig Distillery
 type: poi
 url: torabhaig.com

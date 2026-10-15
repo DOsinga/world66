@@ -9,7 +9,7 @@ score: 6.6
 snippet: Distillery in the old pump house on the Clyde
 tags:
 - activities
-- winery
+- distillery
 title: The Clydeside Distillery
 type: poi
 url: theclydeside.com

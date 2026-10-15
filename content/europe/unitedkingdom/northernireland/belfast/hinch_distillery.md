@@ -10,7 +10,7 @@ score: 6.6
 snippet: Whiskey and gin distillery south of Belfast, with tours and a gin school
 tags:
 - activities
-- winery
+- distillery
 title: Hinch Distillery
 type: poi
 url: hinchdistillery.com

@@ -10,7 +10,7 @@ snippet: The hacienda distillery at Amatitán, on the road to Tequila — guided
   for adults only
 tags:
 - activities
-- winery
+- distillery
 title: Casa Herradura
 type: poi
 url: herradura.com

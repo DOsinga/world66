@@ -9,7 +9,7 @@ snippet: Small traditional distillery that still crushes agave with a stone taho
   — visits by appointment only
 tags:
 - activities
-- winery
+- distillery
 title: Tequila Fortaleza
 type: poi
 url: tequilafortaleza.com

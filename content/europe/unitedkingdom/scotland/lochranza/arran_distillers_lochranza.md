@@ -10,7 +10,7 @@ score: 6.6
 snippet: Tours at Arran's distillery in Lochranza, under the hills at the north end
 tags:
 - activities
-- winery
+- distillery
 title: Isle of Arran Distillers
 type: poi
 url: arranwhisky.com

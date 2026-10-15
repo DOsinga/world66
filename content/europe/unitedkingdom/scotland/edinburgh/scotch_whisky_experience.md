@@ -10,7 +10,7 @@ score: 6.6
 snippet: Whisky tours and tastings beside the castle esplanade
 tags:
 - activities
-- winery
+- distillery
 title: The Scotch Whisky Experience
 type: poi
 url: scotchwhiskyexperience.co.uk

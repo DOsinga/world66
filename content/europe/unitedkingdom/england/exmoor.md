@@ -24,7 +24,7 @@ It is not much like Dartmoor as there are no tors or granite outcrops on hilltop
 
 There are fascinating towns inland such as Dulverton, while Selworthy on the coast near [Minehead](/europe/unitedkingdom/england/south_west/minehead) contains delightful thatched cottages.
 
-The moor is one of only two places in England, along with part of the [Lake District](/europe/unitedkingdom/england/lakedistrict), where herds of red deer are found. There are also feral goats in the Valley of Rocks.
+The moor is one of only two places in England, along with part of the [Lake District](/europe/unitedkingdom/england/north_west/lakedistrict), where herds of red deer are found. There are also feral goats in the Valley of Rocks.
 
 Porlock Hill, the main road connecting Devon and Somerset, was much dreaded in the days of older cars and many a clutch met its end on the climb. Today it is straightforward enough, though you may still prefer one of the toll road bypasses for the beauty of the scenery.
 

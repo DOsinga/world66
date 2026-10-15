@@ -6,6 +6,7 @@ latitude: 55.95
 longitude: -3.1861
 outreach_code: M2TTFS
 phone: +44 131 556 5560
+whatsapp: "+44 7796 886899"
 score: 6.6
 snippet: Guided city bike tours and bike hire off the Royal Mile
 tags:

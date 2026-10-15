@@ -18,6 +18,8 @@ heritage: 6.784
 vibrancy: 2.177
 nature: 2.613
 off_the_beaten_track: 1.869
+tags:
+  - yorkshire_wolds
 ---
 
 Beverley is one of the finest small towns in the north of England — compact, handsome, and easy to underestimate. It served for centuries as the county town of the East Riding of Yorkshire, and the medieval bones of that importance are still very much on show.

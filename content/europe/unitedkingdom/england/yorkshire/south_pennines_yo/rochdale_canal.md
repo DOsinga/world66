@@ -1,15 +1,24 @@
 ---
 latitude: 53.7372
 longitude: -2.0088
+score: 7.4
 snippet: Restored trans-Pennine canal with one of the steepest lock systems in Britain
+story: 'When the Rochdale Canal opened in 1804 it was the first waterway to cross
+  the Pennines using a through route, beating rivals by the boldness of its approach:
+  rather than boring long tunnels, the engineers simply climbed over the hills with
+  91 locks in just under 33 miles. The canal fell derelict in the mid-20th century
+  and was fully restored and reopened to navigation only in 2002.
+
+  '
 tags:
 - things_to_do
 - sight
+- walking
+- cycling
 title: Rochdale Canal
 type: poi
-score: 7.4
 ---
 
-The Rochdale Canal runs 32 miles from Manchester to Sowerby Bridge across the watershed of the Pennines, climbing through 91 locks — among the densest stretches of canal-locking anywhere in Britain. The whole canal closed in 1952 but reopened in 2002 after a vast restoration effort.
+The Rochdale Canal passes through the centre of Todmorden on its way across the Pennines, and the restored towpath offers one of the most enjoyable walks in the area. Heading east to [Hebden Bridge](/europe/unitedkingdom/england/yorkshire) takes about three hours on foot — the path is mostly flat and runs through a steep wooded valley with a series of lock flights and stone bridges.
 
-The towpath between Hebden Bridge and Todmorden is one of the best stretches for casual walking: flat, scenic, and lined with narrowboats moored against the stone-built backs of mill towns. Cyclists are also welcome (with care for pedestrians) and the canal connects neatly with the Pennine Bridleway and the train stations at both ends, making linear walks easy.
+Narrowboats are a regular sight through the summer season, and the canal basin in town has a small wharf area that makes a pleasant spot to sit. The Rochdale Canal Society runs events and guided walks, and there is a waterway information board near the town hall.

@@ -1,21 +1,29 @@
 ---
-title: "White Scar Cave"
-type: poi
-tags:
-  - things_to_do
-  - sight
+address: White Scar Cave, Ingleton LA6 3AW
+commercial: true
+email: info@whitescarcave.co.uk
 latitude: 54.1656
 longitude: -2.4413
-story: >
-  White Scar Cave was discovered by Christopher Long in 1923. Long was a
-  student at the time, exploring the hillside with a torch and enthusiasm.
-  He crawled through a low passage into the first large chamber and realised
-  he had found something substantial. The cave was opened to the public
-  within a few years. Long continued to explore and extend the known passages
-  for decades; some sections still bear his name.
-sources:
-  - https://en.wikipedia.org/wiki/White_Scar_Caves
+outreach_code: 6K38P7
+phone: +44 15242 41244
 score: 8.7
+sources:
+- https://en.wikipedia.org/wiki/White_Scar_Caves
+story: 'White Scar Cave was discovered by Christopher Long in 1923. Long was a student
+  at the time, exploring the hillside with a torch and enthusiasm. He crawled through
+  a low passage into the first large chamber and realised he had found something substantial.
+  The cave was opened to the public within a few years. Long continued to explore
+  and extend the known passages for decades; some sections still bear his name.
+
+  '
+tags:
+- things_to_do
+- sight
+- activities
+- guided_tours
+title: White Scar Cave
+type: poi
+url: whitescarcave.co.uk
 ---
 
 White Scar Cave, a few kilometres along the B6255 from Ingleton toward Hawes, is the longest show cave open to the public in Britain. The cave runs through the limestone of Ingleborough, and guided tours follow a route of about a mile through a series of chambers and passages, crossing underground streams on bridges and ducking through formations of stalactites and flowstones.

@@ -644,21 +644,30 @@ INBOUND_URL = os.environ.get("RESEND_INBOUND_URL",
 
 
 def fetch_inbound(limit=0):
-    """Every message Resend has received for our domain, newest first."""
-    req = urllib.request.Request(
-        INBOUND_URL,
-        headers={
-            "Authorization": f"Bearer {os.environ.get('RESEND_API_KEY', '').strip()}",
-            "User-Agent": RESEND_AGENT,
-        },
-    )
-    try:
-        with urllib.request.urlopen(req, timeout=20) as r:
-            payload = json.loads(r.read().decode("utf-8"))
-    except urllib.error.HTTPError as e:
-        sys.exit(f"HTTP {e.code} from Resend inbound: "
-                 f"{e.read().decode('utf-8', 'replace')[:300]}")
-    rows = payload.get("data", [])
+    """Every message Resend has received for our domain, newest first.
+
+    The list is paged, 20 a page by default, so follow `has_more`."""
+    rows, after = [], None
+    while True:
+        url = INBOUND_URL + "?limit=100" + (f"&after={after}" if after else "")
+        req = urllib.request.Request(
+            url,
+            headers={
+                "Authorization": f"Bearer {os.environ.get('RESEND_API_KEY', '').strip()}",
+                "User-Agent": RESEND_AGENT,
+            },
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=20) as r:
+                payload = json.loads(r.read().decode("utf-8"))
+        except urllib.error.HTTPError as e:
+            sys.exit(f"HTTP {e.code} from Resend inbound: "
+                     f"{e.read().decode('utf-8', 'replace')[:300]}")
+        page = payload.get("data", [])
+        rows += page
+        if not payload.get("has_more") or not page or (limit and len(rows) >= limit):
+            break
+        after = page[-1]["id"]
     return rows[:limit] if limit else rows
 
 

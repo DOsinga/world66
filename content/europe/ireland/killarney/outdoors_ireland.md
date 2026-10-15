@@ -1,7 +1,7 @@
 ---
 address: Killarney, Co. Kerry
 commercial: true
-email: info@outdoorsireland.com
+email: bushcraftireland@gmail.com
 latitude: 52.059575
 longitude: -9.505322
 outreach_code: 3CKRG4

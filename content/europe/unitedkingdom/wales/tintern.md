@@ -19,6 +19,8 @@ heritage: 6.752
 vibrancy: 2.112
 nature: 6.064
 off_the_beaten_track: 2.724
+tags:
+  - wye_valley
 ---
 
 Tintern is a small village on the Welsh bank of the River Wye, north of Chepstow, and it would be easy to overstate the village itself. The reason it belongs on a travel map is the setting: a tight green valley, a ruined Cistercian abbey, and walks that climb quickly to views over the river bend.

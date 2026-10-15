@@ -17,6 +17,9 @@ heritage: 4.725
 vibrancy: 2.378
 nature: 6.895
 off_the_beaten_track: 3.284
+tags:
+  - wharfedale
+  - yorkshire_dales
 ---
 
 Buckden is a tiny stone village near the head of Wharfedale, where the valley narrows and the walking gets wilder. It is not a place of big sights. It works because the good things are close: the climb up Buckden Pike, the Dales Way along the River Wharfe, the hamlet of Hubberholme, and the moor road towards Langstrothdale.

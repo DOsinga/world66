@@ -15,6 +15,7 @@ sources:
 - https://en.wikipedia.org/wiki/Hebden_Bridge
 - https://en.wikipedia.org/wiki/Upper_Calder_Valley
 tags:
+- south_pennines_yo
 - south_pennines
 title: Hebden Bridge
 type: location

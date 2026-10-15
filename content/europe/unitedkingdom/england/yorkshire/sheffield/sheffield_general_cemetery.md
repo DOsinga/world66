@@ -4,9 +4,14 @@ latitude: 53.3717
 longitude: -1.4858
 score: 7.1
 snippet: Atmospheric Victorian garden cemetery on the slopes of Highfield
+sources:
+- http://www.gencem.org/
+- https://en.wikivoyage.org/wiki/Sheffield
 tags:
 - things_to_do
 - sight
+- history
+- cemetery
 title: Sheffield General Cemetery
 type: poi
 ---

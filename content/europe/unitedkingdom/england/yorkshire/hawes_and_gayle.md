@@ -13,6 +13,7 @@ score: 5.846
 snippet: Yorkshire Dales market town in upper Wensleydale, known for cheese, rope-making,
   and fellside atmosphere.
 tags:
+- wensleydale
 - yorkshire_dales
 title: Hawes and Gayle
 type: location

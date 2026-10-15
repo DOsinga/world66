@@ -151,136 +151,95 @@ def language_for(rel):
 
 
 HEADER = """To: {email}
-Subject: {title} is listed on World66 — your own link and QR code
+Subject: {title} on World66
 
 """
 
+# Written as Richard, in the first person, short: the earlier version (numbered
+# asks, "the best travel guide in the world", signed by "the team") read as
+# generated, and one recipient said so.
 BODY = {
-    "en": """Hello,
+    "en": """Hi,
 
-We are building a travel guide that helps travellers plan their trip on the go
-using WhatsApp, and we have just added {title}. Being in our guide is free, we
-take no commission, and there is nothing to sign up for. Please check out the
-link:
+I'm Richard from World66, a travel guide I'm rebuilding (it's been around since
+2001). We've added {title} to our {location_name} page:
 
 {link}
 
-Three things that would help:
+That link puts you at the top of the page. It's free: no commission, nothing to
+sign up for. If you want to print it, here it is as a QR code: {qr_url}
 
-1. Put a link on your website or your social profiles, so people can find the
-   wider guide to {location_name} from you.
-
-2. Here is the same link as a QR code, ready to print — on a card at
-   reception, a poster in the window, or the back of a receipt:
-
-{qr_url}
-
-3. If you have any comments on the {location_name} guide, shoot us an email and
-   we'll update it. We strive to be the best travel guide in the world and we
-   need all the help we can get!
+If anything in the listing is wrong, or you'd like something added, just reply
+and I'll fix it.
 """,
 
-    "nl": """Beste,
+    "nl": """Hoi,
 
-Wij bouwen een reisgids die reizigers helpt hun reis onderweg te plannen via
-WhatsApp, en we hebben zojuist {title} toegevoegd. Vermelding in onze gids is
-gratis, we vragen geen commissie en u hoeft zich nergens voor aan te melden.
-Kijkt u vooral even:
+Ik ben Richard van World66, een reisgids die ik opnieuw aan het opbouwen ben
+(hij bestaat al sinds 2001). We hebben {title} toegevoegd aan onze pagina over
+{location_name}:
 
 {link}
 
-Drie dingen die zouden helpen:
-
-1. Zet een link op uw website of op uw social media, zodat mensen via u de rest
-   van de gids over {location_name} kunnen vinden.
-
-2. Dezelfde link als QR-code, klaar om af te drukken — op een kaartje bij de
-   balie, een poster in de etalage of achterop een bonnetje:
-
+Met die link sta je bovenaan de pagina. Het is gratis: geen commissie, nergens
+voor aanmelden. Wil je hem afdrukken, dan is hier dezelfde link als QR-code:
 {qr_url}
 
-3. Hebt u opmerkingen over de gids over {location_name}, stuur ons dan een
-   e-mail en we passen het aan. We willen de beste reisgids ter wereld maken en
-   kunnen alle hulp gebruiken!
+Klopt er iets niet, of wil je iets toevoegen? Antwoord gewoon op deze mail, dan
+pas ik het aan.
 """,
 
     "fr": """Bonjour,
 
-Nous construisons un guide de voyage qui aide les voyageurs à organiser leur
-séjour en cours de route, via WhatsApp, et nous venons d'y ajouter {title}.
-Y figurer est gratuit, nous ne prenons aucune commission et il n'y a aucune
-inscription. Jetez-y un œil :
+Je suis Richard, de World66, un guide de voyage que je remets sur pied (il
+existe depuis 2001). Nous avons ajouté {title} à notre page sur
+{location_name} :
 
 {link}
 
-Trois choses qui nous aideraient :
+Ce lien vous place en haut de la page. C'est gratuit : pas de commission, rien
+à signer. Si vous voulez l'imprimer, voici le même lien en QR code : {qr_url}
 
-1. Mettez un lien sur votre site ou vos réseaux sociaux, pour que vos visiteurs
-   découvrent depuis chez vous le reste de notre guide « {location_name} ».
-
-2. Le même lien sous forme de QR code, prêt à imprimer — sur une carte à
-   l'accueil, une affiche en vitrine ou au dos d'un reçu :
-
-{qr_url}
-
-3. Si vous avez des remarques sur notre guide « {location_name} », écrivez-nous
-   et nous le mettrons à jour. Nous voulons faire le meilleur guide de voyage du
-   monde, et toute aide est la bienvenue !
+Si quelque chose est inexact dans la fiche, ou si vous voulez ajouter quelque
+chose, répondez simplement à ce mail et je corrige.
 """,
+
     "es": """Hola,
 
-Estamos creando una guía de viajes que ayuda a los viajeros a organizar su
-viaje sobre la marcha a través de WhatsApp, y acabamos de añadir {title}.
-Aparecer en la guía es gratis, no cobramos comisión y no hay que registrarse en
-nada. Eche un vistazo:
+Soy Richard, de World66, una guía de viajes que estoy reconstruyendo (existe
+desde 2001). Hemos añadido {title} a nuestra página de {location_name}:
 
 {link}
 
-Tres cosas que nos ayudarían:
+Con ese enlace aparecen arriba del todo en la página. Es gratis: sin comisión y
+sin tener que registrarse. Si quieren imprimirlo, aquí está el mismo enlace como
+código QR: {qr_url}
 
-1. Ponga un enlace en su web o en sus redes sociales, para que desde usted la
-   gente encuentre el resto de la guía de {location_name}.
-
-2. El mismo enlace en código QR, listo para imprimir — en una tarjeta en
-   recepción, un cartel en el escaparate o al dorso de un recibo:
-
-{qr_url}
-
-3. Si tiene algún comentario sobre la guía de {location_name}, escríbanos y la
-   actualizamos. Queremos hacer la mejor guía de viajes del mundo y toda ayuda
-   es bienvenida.
+Si algo de la ficha no está bien, o quieren añadir algo, respondan a este correo
+y lo corrijo.
 """,
+
     "pt": """Olá,
 
-Estamos criando um guia de viagem que ajuda os viajantes a organizar a viagem
-ao longo do caminho, pelo WhatsApp, e acabamos de incluir {title}. Aparecer no
-guia é gratuito, não cobramos comissão e não há nada para assinar. Dê uma
-olhada:
+Sou o Richard, do World66, um guia de viagem que estou reconstruindo (existe
+desde 2001). Adicionamos {title} à nossa página de {location_name}:
 
 {link}
 
-Três coisas que nos ajudariam:
+Com esse link vocês aparecem no topo da página. É grátis: sem comissão e sem
+cadastro. Se quiserem imprimir, aqui está o mesmo link como QR code: {qr_url}
 
-1. Coloque um link no seu site ou nas suas redes sociais, para que as pessoas
-   encontrem a partir de você o resto do guia de {location_name}.
-
-2. O mesmo link em QR code, pronto para imprimir — num cartão na recepção, num
-   cartaz na vitrine ou no verso de um recibo:
-
-{qr_url}
-
-3. Se tiver qualquer comentário sobre o guia de {location_name}, escreva para
-   nós e atualizamos. Queremos fazer o melhor guia de viagem do mundo e toda
-   ajuda é bem-vinda!
+Se algo na página estiver errado, ou se quiserem acrescentar alguma coisa, é só
+responder este e-mail que eu corrijo.
 """,
 }
 
 SIGNOFF = {
-    "en": "Thanks,\nRichard & the World66 team",
-    "nl": "Groeten,\nRichard en het World66-team",
-    "fr": "Merci,\nRichard et l'équipe World66",
-    "es": "Un saludo,\nRichard y el equipo de World66",
-    "pt": "Um abraço,\nRichard e a equipe World66",
+    "en": "Thanks,\nRichard",
+    "nl": "Groeten,\nRichard",
+    "fr": "Merci,\nRichard",
+    "es": "Un saludo,\nRichard",
+    "pt": "Um abraço,\nRichard",
 }
 
 # The line between the two halves, so the reader can see at a glance that the

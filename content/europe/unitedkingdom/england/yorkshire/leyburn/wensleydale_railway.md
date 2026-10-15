@@ -1,6 +1,11 @@
 ---
+address: Leyburn Station, Harmby Road, Leyburn DL8 5ET
+commercial: true
+email: admin@wensleydalerailway.com
 latitude: 54.30808
 longitude: -1.82233
+outreach_code: 9VJHGD
+phone: +44 1677 425805
 score: 7.1
 snippet: Heritage railway through lower Wensleydale, reachable as a countryside excursion
   from Richmond.
@@ -8,11 +13,14 @@ sources:
 - https://en.wikivoyage.org/wiki/Richmond_%28North_Yorkshire%29
 - https://wensleydale-railway.co.uk
 tags:
+- guided_tours
+- activities
 - things_to_do
 - sight
 - railway
 title: Wensleydale Railway
 type: poi
+url: wensleydale-railway.co.uk
 ---
 
 Wensleydale Railway is a heritage line running through the lower dale, with stations and countryside that feel very different from Richmond's compact market-town centre. It is a good way to see a gentler slice of the Yorkshire Dales without committing to a long hike or a full driving loop.

@@ -20,6 +20,7 @@ nature: 4.871
 off_the_beaten_track: 2.625
 tags:
   - pendle
+  - forest_of_bowland
 ---
 
 Downham is one of the prettiest villages in Lancashire, tucked onto the western slopes of Pendle Hill in an area forever linked with the Pendle Witch trials of 1612. The village green, stone cottages, and absence of television aerials (banned by the local estate) give it an almost impossibly preserved character — which is why it has appeared in numerous films and television dramas over the years.

@@ -20,6 +20,7 @@ nature: 4.989
 off_the_beaten_track: 1.915
 tags:
   - pendle
+  - forest_of_bowland
 ---
 
 Clitheroe is a small market town in the Ribble Valley, sheltering beneath the looming presence of [Pendle Hill](/europe/unitedkingdom/england/north_west/pendle/pendle_hill). The town is one of the oldest in Lancashire, with a [castle](/europe/unitedkingdom/england/north_west/clitheroe/clitheroe_castle) dating from the 12th century perched on a limestone crag above the centre. The views from the castle grounds stretch across the valley to the Forest of Bowland.

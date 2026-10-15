@@ -363,7 +363,7 @@
 {% endfor %}
 {% endif %}
 
-{% if page.page_type == "location" and sections and not inline_sections %}
+{% if page.page_type == "location" and not inline_sections %}{% if sections or location_bloglists %}
 <div class="sections-row-wrap">
   <span class="section-kicker">Guide</span>
   <h2 class="section-block-heading">Sections</h2>
@@ -386,7 +386,7 @@
     {% endfor %}
   </div>
 </div>
-{% endif %}
+{% endif %}{% endif %}
 
 {% if page.page_type == "location" and inline_sections and location_bloglists %}
 {% for bl in location_bloglists %}

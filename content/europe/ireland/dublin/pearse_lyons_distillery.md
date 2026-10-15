@@ -11,7 +11,7 @@ snippet: Distillery in a converted church on James's Street, a few doors from th
   Guinness Storehouse
 tags:
 - activities
-- winery
+- distillery
 title: Pearse Lyons Distillery
 type: poi
 url: pearselyonsdistillery.com

@@ -10,7 +10,7 @@ score: 6.6
 snippet: Gin and rum distillery in an old picture house in Donaghadee
 tags:
 - activities
-- winery
+- distillery
 title: Copeland Distillery
 type: poi
 url: copelanddistillery.com

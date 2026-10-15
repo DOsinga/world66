@@ -11,7 +11,7 @@ snippet: York Gin's working distillery, with gin tastings, a make-your-own-gin s
   and cocktail classes
 tags:
 - activities
-- winery
+- distillery
 title: York Distillery
 type: poi
 url: yorkdistillery.co.uk

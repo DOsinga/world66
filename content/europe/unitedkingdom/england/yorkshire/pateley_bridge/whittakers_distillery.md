@@ -11,7 +11,7 @@ snippet: Gin and whisky distillery tours with a long sit-down tasting on a Nidde
   farm
 tags:
 - activities
-- winery
+- distillery
 title: Whittaker's Distillery
 type: poi
 url: whittakersdistillery.com

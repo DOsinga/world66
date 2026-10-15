@@ -10,7 +10,7 @@ snippet: Tours of the La Rojeña distillery in the centre of Tequila, and the Jo
   Cuervo Express train
 tags:
 - activities
-- winery
+- distillery
 title: Mundo Cuervo
 type: poi
 url: mundocuervo.com

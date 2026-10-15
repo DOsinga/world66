@@ -9,7 +9,7 @@ score: 6.6
 snippet: Lowland triple-distilled whisky at Clydebank
 tags:
 - activities
-- winery
+- distillery
 title: Auchentoshan Distillery
 type: poi
 url: auchentoshan.com

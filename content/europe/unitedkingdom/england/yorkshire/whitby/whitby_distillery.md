@@ -11,7 +11,7 @@ snippet: Hour-long tours of the Whitby Gin distillery, with a G&T, a botanicals 
   and tastings
 tags:
 - activities
-- winery
+- distillery
 title: Whitby Distillery
 type: poi
 url: whitbydistillery.com

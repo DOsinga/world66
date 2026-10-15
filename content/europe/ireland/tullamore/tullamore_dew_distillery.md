@@ -17,7 +17,7 @@ story: 'The D.E.W. in Tullamore D.E.W. stands for Daniel E. Williams, the distil
   '
 tags:
 - activities
-- winery
+- distillery
 title: Tullamore D.E.W. Distillery and Visitor Centre
 type: poi
 url: tullamoredew.com

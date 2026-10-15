@@ -10,7 +10,7 @@ score: 6.6
 snippet: Distillery in an old cotton mill on the River Teith
 tags:
 - activities
-- winery
+- distillery
 title: Deanston Distillery
 type: poi
 url: deanstonmalt.com

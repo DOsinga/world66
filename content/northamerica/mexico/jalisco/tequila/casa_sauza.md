@@ -11,7 +11,7 @@ snippet: Sauza's distillery in Tequila, with tours from an hour among the agave 
   a four-hour tasting lunch
 tags:
 - activities
-- winery
+- distillery
 title: Casa Sauza
 type: poi
 url: casasauza.com

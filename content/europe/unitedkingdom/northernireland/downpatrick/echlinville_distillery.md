@@ -10,7 +10,7 @@ score: 6.6
 snippet: Field-to-glass farm distillery on the Ards Peninsula
 tags:
 - activities
-- winery
+- distillery
 title: Echlinville Distillery
 type: poi
 url: echlinville.com

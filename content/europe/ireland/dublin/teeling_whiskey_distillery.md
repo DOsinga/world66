@@ -10,7 +10,7 @@ score: 6.6
 snippet: Working whiskey distillery in the Liberties, with tours and tastings
 tags:
 - activities
-- winery
+- distillery
 title: Teeling Whiskey Distillery
 type: poi
 url: teelingdistillery.com

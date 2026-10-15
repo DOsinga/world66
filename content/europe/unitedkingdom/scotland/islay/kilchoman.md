@@ -9,7 +9,7 @@ score: 6.6
 snippet: Farm distillery on Islay's west coast, growing its own barley
 tags:
 - activities
-- winery
+- distillery
 title: Kilchoman Distillery
 type: poi
 url: kilchomandistillery.com

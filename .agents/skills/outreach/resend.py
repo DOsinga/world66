@@ -57,22 +57,25 @@ def gmail_mailed(export_dir=None):
     recipients count as mailed, and the replies, whose senders were mailed first.
     Set OUTREACH_GMAIL_EXPORT to its folder; defaults to ~/Repos/mails.
     """
-    import email, glob, zipfile
+    import email, zipfile
     from email import policy
     from email.utils import getaddresses
-    export_dir = export_dir or os.environ.get("OUTREACH_GMAIL_EXPORT") or str(Path.home() / "Repos/mails")
+    export_dir = Path(export_dir or os.environ.get("OUTREACH_GMAIL_EXPORT") or Path.home() / "Repos/mails")
+    archives = sorted(export_dir.glob("*.zip"))
+    if not archives:
+        raise SystemExit(f"No Gmail export found in {export_dir}")
     me = {"richardosinga@gmail.com", "richard@world66.ai"}
     mailed = set()
-    for z in sorted(glob.glob(os.path.join(export_dir, "*.zip"))):
-        zf = zipfile.ZipFile(z)
-        for info in zf.infolist():
-            if info.is_dir():
-                continue
-            m = email.message_from_bytes(zf.read(info), policy=policy.default)
-            frm = [a.lower() for _, a in getaddresses([str(m.get("From", ""))]) if a]
-            rcpt = [a.lower() for _, a in getaddresses([str(m.get(h, "")) for h in ("To", "Cc", "Bcc")]) if a]
-            if any(f in me for f in frm):
-                mailed.update(r for r in rcpt if r not in me)
-            else:
-                mailed.update(f for f in frm if f not in me)
+    for archive in archives:
+        with zipfile.ZipFile(archive) as zf:
+            for info in zf.infolist():
+                if info.is_dir():
+                    continue
+                m = email.message_from_bytes(zf.read(info), policy=policy.default)
+                frm = [a.lower() for _, a in getaddresses([str(m.get("From", ""))]) if a]
+                rcpt = [a.lower() for _, a in getaddresses([str(m.get(h, "")) for h in ("To", "Cc", "Bcc")]) if a]
+                if any(f in me for f in frm):
+                    mailed.update(r for r in rcpt if r not in me)
+                else:
+                    mailed.update(f for f in frm if f not in me)
     return mailed

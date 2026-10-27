@@ -5,6 +5,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+  - forest_of_bowland
 latitude: 53.996
 longitude: -2.351
 sources:

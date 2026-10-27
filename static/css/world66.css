@@ -4590,8 +4590,9 @@ a.region-group-title:hover {
 .svc-filter-btn[data-activity="winery"]       { --act: #7d3f52; }
 .svc-filter-btn[data-activity="distillery"]   { --act: #a8652a; }
 .svc-filter-btn[data-activity="brewery"]      { --act: #8f7a1e; }
-.svc-filter-btn:hover {
 .svc-filter-btn[data-activity="camping"]      { --act: #6b7f4e; }
+
+.svc-filter-btn:hover {
   background: color-mix(in srgb, var(--act) 20%, var(--paper));
 }
 

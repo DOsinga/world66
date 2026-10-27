@@ -11,7 +11,7 @@ snippet: England's northernmost whisky distillery, with tastings and an Anglo-Sa
   museum next door
 tags:
 - activities
-- winery
+- distillery
 title: Ad Gefrin Distillery
 type: poi
 url: adgefrin.co.uk

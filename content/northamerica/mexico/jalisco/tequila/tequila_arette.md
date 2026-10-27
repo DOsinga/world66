@@ -10,7 +10,7 @@ snippet: The Orendain family's El Llano distillery, founded in 1900, open for bo
   visits
 tags:
 - activities
-- winery
+- distillery
 title: Tequila Arette
 type: poi
 url: tequilaarette.com

@@ -10,7 +10,7 @@ score: 6.6
 snippet: Single-malt distillery in an old farm steading on the Ballindalloch estate
 tags:
 - activities
-- winery
+- distillery
 title: Ballindalloch Distillery
 type: poi
 url: ballindallochdistillery.com

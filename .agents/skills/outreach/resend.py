@@ -47,7 +47,16 @@ def mailed():
 
 
 def inbox():
-    return get("https://api.resend.com/emails/receiving").get("data", [])
+    """Every message received, newest first. The API returns 20 a page unless told otherwise."""
+    rows, after = [], None
+    for _ in range(200):
+        d = get("https://api.resend.com/emails/receiving?limit=100" + (f"&after={after}" if after else ""))
+        page = d.get("data", [])
+        rows += page
+        if not d.get("has_more") or not page:
+            break
+        after = page[-1]["id"]
+    return rows
 
 
 def gmail_mailed(export_dir=None):

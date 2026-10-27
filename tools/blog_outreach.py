@@ -100,13 +100,14 @@ def bloglists():
 
 
 def credited_pois(list_rel, blog_url):
-    """POIs in this list's own directory whose sources name this blog.
+    """Titles of the POIs in this list's own directory whose sources name this
+    blog, best scored first.
 
-    The count is the concrete thing the mail can offer — "nine of our Sarajevo
-    pages credit you" is a fact about the site, not a compliment.
+    Naming the page that quotes them is the one detail that shows a person read
+    their post; a count ("9 of our pages") reads as generated.
     """
     d = CONTENT_DIR / list_rel.rsplit("/", 1)[0]
-    n = 0
+    found = []
     for md in d.glob("*.md"):
         try:
             meta = frontmatter.load(md).metadata
@@ -115,8 +116,8 @@ def credited_pois(list_rel, blog_url):
         if meta.get("type") != "poi":
             continue
         if blog_url in (meta.get("sources") or []):
-            n += 1
-    return n
+            found.append((-float(meta.get("score") or 0), str(meta.get("title") or md.stem)))
+    return [t for _, t in sorted(found)]
 
 
 def rows_from_content(base=DEFAULT_BASE, city_filter=""):
@@ -161,86 +162,59 @@ def rows_from_content(base=DEFAULT_BASE, city_filter=""):
 
 
 HEADER = """To: {email}
-Subject: {blog_name} is on our {city} reading list
+Subject: {subject}
 
 """
 
+# Written as Richard, in the first person, short. A York history group answered
+# the old version (numbered asks, "the best travel guide in the world", signed
+# by "the team") with "we see you are an AI agent".
 BODY = {
-    "en": """Hello{salutation},
+    "en": """Hi{salutation},
 
-We run World66, an open travel guide that has been going in one form or another
-since 2001. We have just put together a short reading list for {city} — the few
-blogs we think are genuinely worth a traveller's time before they go — and
-{blog_name} is on it:
+I'm Richard. I run World66, an old travel guide (it started in 2001) that I'm
+bringing back to life. I've been collecting local blogs for our {city} pages,
+and yours is on the list:
 
 {link}
-
-Your entry is highlighted when you open that link.{credit_line}
-
-Nobody paid to be on the list and there is nothing to sign up for. Two things
-would help us, though, if you are willing:
-
-1. A link back is worth more to us than anything else. A line at the foot of
-   your {city} post, or a spot on a resources page, pointing at the list above.
-   A guide like ours with no ad budget gets found through other people's links
-   or it does not get found at all.
-
-2. If you would rather share something than link to something, we would like
-   that even more. A correction, a paragraph, a photo you own, a place we have
-   missed — send it over and we will put it up with your name and a link on it.
-   We are trying to build the best travel guide in the world and we are not
-   going to manage that on our own.
-
-Either way, thank you for writing the thing that got you on the list.
+{credit_line}
+If you ever feel like linking to the list, that would help a lot, since we have
+no ad budget at all. And if you spot anything wrong on our {city} pages, or want
+to add something, just reply to this mail.
 """,
 
     "es": """Hola{salutation},
 
-Llevamos World66, una guía de viajes abierta que existe de una forma u otra
-desde 2001. Acabamos de preparar una pequeña lista de lecturas sobre {city} —
-los pocos blogs que de verdad merecen el tiempo de un viajero antes de ir — y
-{blog_name} está en ella:
+Soy Richard. Llevo World66, una guía de viajes antigua (empezó en 2001) que
+estoy volviendo a poner en marcha. He ido reuniendo blogs locales para nuestras
+páginas de {city}, y el tuyo está en la lista:
 
 {link}
-
-Al abrir ese enlace, su entrada aparece resaltada.{credit_line}
-
-Nadie ha pagado por estar en la lista y no hay que registrarse en nada. Aun
-así, hay dos cosas que nos ayudarían mucho:
-
-1. Un enlace de vuelta vale más para nosotros que cualquier otra cosa. Una
-   línea al final de su artículo sobre {city}, o un hueco en una página de
-   recursos, que apunte a la lista de arriba. Una guía como la nuestra, sin
-   presupuesto de publicidad, se encuentra a través de los enlaces de otros o
-   no se encuentra.
-
-2. Y si prefiere compartir algo en lugar de enlazar algo, nos gustaría todavía
-   más. Una corrección, un párrafo, una foto suya, un sitio que se nos haya
-   escapado — envíenoslo y lo publicamos con su nombre y un enlace. Queremos
-   hacer la mejor guía de viajes del mundo y solos no vamos a conseguirlo.
-
-En cualquier caso, gracias por escribir lo que le ha puesto en la lista.
+{credit_line}
+Si algún día te apetece enlazar la lista, nos ayudaría mucho, porque no tenemos
+ningún presupuesto de publicidad. Y si ves algo mal en nuestras páginas de
+{city}, o quieres añadir algo, responde a este correo sin más.
 """,
 }
 
-# One page or several — a mail that says "1 of our pages already credit you"
-# announces that it was generated.
+# The page that quotes them, by name: one, two, or two and a count.
 CREDIT = {
-    "en": " {n} of our {city} pages already credit you as the source, each one linking"
-          " back to the list.",
-    "es": " {n} de nuestras páginas de {city} ya le citan como fuente, y cada una enlaza"
-          " con la lista.",
+    "en": ("I also used your post as the source for our page on {a}.",
+           "I also used your work as the source for our pages on {a} and {b}.",
+           "I also used your work as the source for our pages on {a}, {b} and {n} more."),
+    "es": ("También usé tu artículo como fuente para nuestra página sobre {a}.",
+           "También usé tu trabajo como fuente para nuestras páginas sobre {a} y {b}.",
+           "También usé tu trabajo como fuente para nuestras páginas sobre {a}, {b} y {n} más."),
 }
-CREDIT_ONE = {
-    "en": " One of our {city} pages already credits you as the source, linking back"
-          " to the list.",
-    "es": " Una de nuestras páginas de {city} ya le cita como fuente, con un enlace"
-          " a la lista.",
+
+SUBJECT = {
+    "en": ("I used your post for our {a} page", "{blog_name} on our {city} list"),
+    "es": ("Usé tu artículo para nuestra página sobre {a}", "{blog_name} en nuestra lista de {city}"),
 }
 
 SIGNOFF = {
-    "en": "Thanks,\nRichard & the World66 team",
-    "es": "Un saludo,\nRichard y el equipo de World66",
+    "en": "Thanks for writing it,\nRichard",
+    "es": "Gracias por escribirlo,\nRichard",
 }
 
 
@@ -282,25 +256,39 @@ def salutation(author):
     return " " + tokens[0]
 
 
+def credit_line(row, lang):
+    titles = row["credited"]
+    if not titles:
+        return ""
+    one, two, many = CREDIT[lang]
+    if len(titles) == 1:
+        line = one.format(a=titles[0])
+    elif len(titles) == 2:
+        line = two.format(a=titles[0], b=titles[1])
+    else:
+        line = many.format(a=titles[0], b=titles[1], n=len(titles) - 2)
+    return "\n" + line + "\n"
+
+
 def compose(row):
     lang = row["lang"] if row["lang"] in BODY else "en"
-    credit_line = ""
-    if row["credited"] == 1:
-        credit_line = CREDIT_ONE[lang].format(city=row["city"])
-    elif row["credited"]:
-        credit_line = CREDIT[lang].format(n=row["credited"], city=row["city"])
     fields = {
         "email": row["email"], "blog_name": row["blog_name"], "city": row["city"],
-        "link": row["link"], "credit_line": credit_line,
+        "link": row["link"], "credit_line": credit_line(row, lang),
         # Only greet by name where we actually hold one.
         "salutation": salutation(row["author"]),
+        "subject": subject(row),
     }
     body = f'{wrap(BODY[lang].format(**fields))}\n\n{SIGNOFF[lang]}\n'
     return HEADER.format(**fields) + body
 
 
 def subject(row):
-    return f'{row["blog_name"]} is on our {row["city"]} reading list'
+    lang = row["lang"] if row["lang"] in SUBJECT else "en"
+    credited, plain = SUBJECT[lang]
+    if row["credited"]:
+        return credited.format(a=row["credited"][0])
+    return plain.format(blog_name=row["blog_name"], city=row["city"])
 
 
 def gmail_url(row, account=None):
@@ -379,7 +367,7 @@ def write_index(rows, forms, out, account=None):
             lang = f'<span class="lang">{r["lang"]}</span>'
             was_sent = bool(r["emailed"])
             stamp = f' · <span class="sent">sent {escape(r["emailed"])}</span>' if was_sent else ""
-            credit = f' · {r["credited"]} POIs credited' if r["credited"] else ""
+            credit = f' · {len(r["credited"])} POIs credited' if r["credited"] else ""
             parts.append(
                 f'<div class="row{" done" if was_sent else ""}" '
                 f'data-code="{escape(r["list_path"] + "|" + r["blog_url"])}">'

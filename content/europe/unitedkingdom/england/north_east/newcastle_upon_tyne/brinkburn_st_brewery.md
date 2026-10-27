@@ -10,7 +10,7 @@ score: 6.6
 snippet: Brewery tours with a brewer and a taproom kitchen in the Ouseburn Valley
 tags:
 - activities
-- winery
+- brewery
 title: Brinkburn St Brewery
 type: poi
 url: brinkburnbrewery.co.uk

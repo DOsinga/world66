@@ -10,7 +10,7 @@ score: 6.6
 snippet: Gin distillery tours at Saxa Vord on Unst, Britain's most northerly island
 tags:
 - activities
-- winery
+- distillery
 title: Shetland Reel
 type: poi
 url: shetlandreel.com

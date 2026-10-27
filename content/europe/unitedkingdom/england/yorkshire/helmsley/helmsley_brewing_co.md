@@ -11,7 +11,7 @@ snippet: A small brewery and tap in the middle of Helmsley, with brewery tours a
   a pint or tasting flight at the end
 tags:
 - activities
-- winery
+- brewery
 title: Helmsley Brewing Co
 type: poi
 url: helmsleybrewingco.co.uk

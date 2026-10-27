@@ -10,7 +10,7 @@ score: 6.6
 snippet: Distillery tours and tastings at the home of Dewar's
 tags:
 - activities
-- winery
+- distillery
 title: Dewar's Aberfeldy Distillery
 type: poi
 url: dewars.com

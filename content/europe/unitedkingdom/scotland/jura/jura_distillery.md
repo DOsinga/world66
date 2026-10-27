@@ -12,7 +12,7 @@ sources:
 - https://en.wikipedia.org/wiki/Craighouse
 tags:
 - activities
-- winery
+- distillery
 title: Jura Distillery
 type: poi
 url: jurawhisky.com

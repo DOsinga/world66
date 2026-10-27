@@ -10,7 +10,7 @@ score: 6.6
 snippet: Islay's newest distillery, looking across the Sound to Jura
 tags:
 - activities
-- winery
+- distillery
 title: Ardnahoe Distillery
 type: poi
 url: ardnahoedistillery.com

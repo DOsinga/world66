@@ -11,7 +11,7 @@ snippet: Brewery founded in 1992 by a Theakston, with tours and a bistro
 sources:
 - https://en.wikipedia.org/wiki/Black_Sheep_Brewery
 tags:
-- winery
+- brewery
 - activities
 - things_to_do
 - food

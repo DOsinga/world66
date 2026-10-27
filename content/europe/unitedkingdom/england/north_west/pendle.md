@@ -2,7 +2,7 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 53.87904
-loc_type: region
+loc_type: feature
 longitude: -2.171779
 score: 0.4
 snippet: Lancashire hill region of misty Pendle villages and the enduring memory of
@@ -21,6 +21,6 @@ Pendle Hill is less than 2,000 feet high but still towers over its immediate are
 
 ## Destinations in Pendle
 
-- [Downham](/europe/unitedkingdom/england/north_west/pendle/downham)
-- [Bolton-by-Bowland](/europe/unitedkingdom/england/north_west/pendle/bolton__by__bowl)
-- [Sabden](/europe/unitedkingdom/england/north_west/pendle/sabden)
+- [Downham](/europe/unitedkingdom/england/north_west/downham)
+- [Bolton-by-Bowland](/europe/unitedkingdom/england/north_west/bolton_by_bowland)
+- [Sabden](/europe/unitedkingdom/england/north_west/sabden)

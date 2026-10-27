@@ -18,9 +18,11 @@ heritage: 3.47
 vibrancy: 4.761
 nature: 4.989
 off_the_beaten_track: 1.915
+tags:
+  - pendle
 ---
 
-Clitheroe is a small market town in the Ribble Valley, sheltering beneath the looming presence of [Pendle Hill](/europe/unitedkingdom/england/north_west/clitheroe/pendle_hill). The town is one of the oldest in Lancashire, with a [castle](/europe/unitedkingdom/england/north_west/clitheroe/clitheroe_castle) dating from the 12th century perched on a limestone crag above the centre. The views from the castle grounds stretch across the valley to the Forest of Bowland.
+Clitheroe is a small market town in the Ribble Valley, sheltering beneath the looming presence of [Pendle Hill](/europe/unitedkingdom/england/north_west/pendle/pendle_hill). The town is one of the oldest in Lancashire, with a [castle](/europe/unitedkingdom/england/north_west/clitheroe/clitheroe_castle) dating from the 12th century perched on a limestone crag above the centre. The views from the castle grounds stretch across the valley to the Forest of Bowland.
 
 Clitheroe has a good weekly market, independent food shops, and [Holmes Mill](/europe/unitedkingdom/england/north_west/clitheroe/holmes_mill), a converted Victorian textile mill that now holds a brewery and what is reputedly the longest bar in the UK. The [Salthill Quarry](/europe/unitedkingdom/england/north_west/clitheroe/salthill_quarry) on the edge of town is an unexpectedly good geological reserve with Carboniferous limestone fossil exposures.
 

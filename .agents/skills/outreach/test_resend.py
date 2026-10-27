@@ -4,6 +4,7 @@ import unittest
 import zipfile
 from email.message import EmailMessage
 from pathlib import Path
+from unittest.mock import patch
 
 sys.path.insert(0, str(Path(__file__).parent))
 import resend
@@ -34,6 +35,24 @@ class GmailMailedTest(unittest.TestCase):
         with tempfile.TemporaryDirectory() as directory:
             with self.assertRaisesRegex(SystemExit, "No Gmail export found"):
                 resend.gmail_mailed(directory)
+
+
+class InboxTest(unittest.TestCase):
+    @patch.object(resend, "get")
+    def test_reads_every_page(self, get):
+        get.side_effect = [
+            {"data": [{"id": "newer"}], "has_more": True},
+            {"data": [{"id": "older"}], "has_more": False},
+        ]
+
+        self.assertEqual(resend.inbox(), [{"id": "newer"}, {"id": "older"}])
+        self.assertEqual(
+            [call.args[0] for call in get.call_args_list],
+            [
+                "https://api.resend.com/emails/receiving?limit=100",
+                "https://api.resend.com/emails/receiving?limit=100&after=newer",
+            ],
+        )
 
 
 if __name__ == "__main__":

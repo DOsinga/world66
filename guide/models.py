@@ -232,6 +232,8 @@ class Page:
         "horse_riding": "Horse riding",
         "adventure_park": "Adventure parks",
         "winery": "Wine tasting",
+        "distillery": "Distilleries",
+        "brewery": "Breweries",
     }
 
     @property

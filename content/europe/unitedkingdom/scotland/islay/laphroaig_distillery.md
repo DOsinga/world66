@@ -13,7 +13,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Islay
 tags:
 - activities
-- winery
+- distillery
 title: Laphroaig Distillery
 type: poi
 url: laphroaig.com

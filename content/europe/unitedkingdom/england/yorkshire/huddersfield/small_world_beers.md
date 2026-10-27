@@ -11,7 +11,7 @@ snippet: Group brewery tours and tastings at a spring-fed brewery in Shelley, so
   of Huddersfield
 tags:
 - activities
-- winery
+- brewery
 title: Small World Beers
 type: poi
 url: smallworldbeers.com

@@ -12,7 +12,7 @@ snippet: 90-minute weekend brewery tours with three tasters at Northern Monk's O
   Flax Store in Holbeck
 tags:
 - activities
-- winery
+- brewery
 title: Northern Monk Brewery Tours
 type: poi
 url: northernmonk.com/pages/brewery-tours-in-leeds

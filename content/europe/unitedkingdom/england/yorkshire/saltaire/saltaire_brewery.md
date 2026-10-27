@@ -11,7 +11,7 @@ snippet: Saturday brewery tours with a tasting flight at the Saltaire Brewery ta
   in Shipley
 tags:
 - activities
-- winery
+- brewery
 title: Saltaire Brewery
 type: poi
 url: saltairebrewery.com

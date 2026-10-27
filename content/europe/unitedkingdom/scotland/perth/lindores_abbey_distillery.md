@@ -11,7 +11,7 @@ snippet: Distillery beside the abbey ruins where Scotch whisky was first recorde
   in 1494
 tags:
 - activities
-- winery
+- distillery
 title: Lindores Abbey Distillery
 type: poi
 url: lindoresabbeydistillery.com

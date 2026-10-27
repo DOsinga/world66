@@ -10,7 +10,7 @@ score: 6.6
 snippet: Brewery tour and tasting on set dates at a craft brewery and taproom in Walkergate
 tags:
 - activities
-- winery
+- brewery
 title: Anarchy Brew Co
 type: poi
 url: anarchybrewco.com

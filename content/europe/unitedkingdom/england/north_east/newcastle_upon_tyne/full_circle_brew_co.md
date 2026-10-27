@@ -10,7 +10,7 @@ score: 6.6
 snippet: Brewery tours and a taproom at Hoults Yard in the Ouseburn end of Byker
 tags:
 - activities
-- winery
+- brewery
 title: Full Circle Brew Co
 type: poi
 url: fullcirclebrew.co.uk

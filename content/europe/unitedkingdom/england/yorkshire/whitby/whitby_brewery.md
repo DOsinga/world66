@@ -11,7 +11,7 @@ snippet: Brewery tours with three tasters on the East Cliff beside the abbey, th
   the taproom
 tags:
 - activities
-- winery
+- brewery
 title: Whitby Brewery
 type: poi
 url: whitby-brewery.com

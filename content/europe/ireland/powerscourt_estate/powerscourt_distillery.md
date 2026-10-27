@@ -10,7 +10,7 @@ score: 6.6
 snippet: Whiskey distillery on the Powerscourt Estate with tours and tastings
 tags:
 - activities
-- winery
+- distillery
 title: Powerscourt Distillery
 type: poi
 url: powerscourtdistillery.com

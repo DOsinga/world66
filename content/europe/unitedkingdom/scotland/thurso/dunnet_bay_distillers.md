@@ -10,7 +10,7 @@ score: 6.6
 snippet: The Rock Rose gin distillery on Dunnet Bay
 tags:
 - activities
-- winery
+- distillery
 title: Dunnet Bay Distillers
 type: poi
 url: dunnetbaydistillers.co.uk

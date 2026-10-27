@@ -10,7 +10,7 @@ score: 6.6
 snippet: Gin distillery tours and a whisky school on Kirkwall's waterfront
 tags:
 - activities
-- winery
+- distillery
 title: Orkney Distillery
 type: poi
 url: orkneydistilling.com

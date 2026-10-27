@@ -11,7 +11,7 @@ snippet: Tours of one of the oldest licensed distilleries in Ireland, with its w
   wheel
 tags:
 - activities
-- winery
+- distillery
 title: Kilbeggan Distillery Experience
 type: poi
 url: kilbegganwhiskey.com

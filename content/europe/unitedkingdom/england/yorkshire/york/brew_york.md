@@ -11,7 +11,7 @@ snippet: Weekend brewery tours with four tasters and a pint at Brew York's city-
   brewery and beer hall on Walmgate
 tags:
 - activities
-- winery
+- brewery
 title: Brew York Brewery Tours
 type: poi
 url: brewyork.co.uk

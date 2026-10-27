@@ -10,7 +10,7 @@ score: 6.6
 snippet: Distillery tours by the Dornoch Firth, with its tall stills
 tags:
 - activities
-- winery
+- distillery
 title: Glenmorangie Distillery
 type: poi
 url: glenmorangie.com

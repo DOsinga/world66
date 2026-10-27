@@ -10,7 +10,7 @@ score: 6.6
 snippet: The 'Edinburgh malt' distillery in the East Lothian countryside
 tags:
 - activities
-- winery
+- distillery
 title: Glenkinchie Distillery
 type: poi
 url: malts.com

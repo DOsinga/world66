@@ -16,7 +16,7 @@ story: 'Smithwick''s Ale has been brewed in Kilkenny since 1710, making it one o
   '
 tags:
 - activities
-- winery
+- brewery
 title: Smithwick's Experience
 type: poi
 url: smithwicksexperience.com

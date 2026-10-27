@@ -10,7 +10,7 @@ score: 6.6
 snippet: Tours at a revived Victorian distillery near Annan
 tags:
 - activities
-- winery
+- distillery
 title: Annandale Distillery
 type: poi
 url: annandaledistillery.com

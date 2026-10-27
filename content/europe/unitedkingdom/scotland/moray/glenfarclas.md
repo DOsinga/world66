@@ -10,7 +10,7 @@ score: 6.6
 snippet: Family-owned Speyside distillery with visitor tours
 tags:
 - activities
-- winery
+- distillery
 title: Glenfarclas Distillery
 type: poi
 url: glenfarclas.com

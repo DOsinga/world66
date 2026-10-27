@@ -10,7 +10,7 @@ score: 6.6
 snippet: Distillery tours on Raasay, a short ferry from Sconser
 tags:
 - activities
-- winery
+- distillery
 title: Isle of Raasay Distillery
 type: poi
 url: raasaydistillery.com

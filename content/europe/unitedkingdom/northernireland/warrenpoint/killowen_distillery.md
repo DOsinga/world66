@@ -10,7 +10,7 @@ snippet: Small craft distillery under the Mournes on Carlingford Lough, with tou
   and tastings
 tags:
 - activities
-- winery
+- distillery
 title: Killowen Distillery
 type: poi
 url: killowendistillery.com

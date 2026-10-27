@@ -12,7 +12,7 @@ source: Wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Tobermory_(Scotland)
 tags:
 - activities
-- winery
+- distillery
 title: Tobermory Distillery
 type: poi
 url: tobermorydistillery.com

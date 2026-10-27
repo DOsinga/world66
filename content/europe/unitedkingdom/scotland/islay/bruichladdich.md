@@ -10,7 +10,7 @@ score: 6.6
 snippet: Tours at the distillery on Loch Indaal behind The Botanist gin
 tags:
 - activities
-- winery
+- distillery
 title: Bruichladdich Distillery
 type: poi
 url: bruichladdich.com

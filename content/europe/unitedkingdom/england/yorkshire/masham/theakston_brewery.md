@@ -12,7 +12,7 @@ snippet: Family brewery since 1827, home of Old Peculier, with tours and a visit
 sources:
 - https://en.wikipedia.org/wiki/T%26R_Theakston
 tags:
-- winery
+- brewery
 - activities
 - things_to_do
 - food

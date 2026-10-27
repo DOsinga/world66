@@ -10,7 +10,7 @@ score: 6.6
 snippet: Whiskey and gin tours at the Shortcross distillery near Crossgar
 tags:
 - activities
-- winery
+- distillery
 title: Rademon Estate Distillery
 type: poi
 url: rademonestatedistillery.com

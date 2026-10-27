@@ -16,4 +16,4 @@ type: poi
 url: newquayboattrips.co.uk
 ---
 
-Boat trips from the pier since 1955, on *Suncatcher*, *Dreamcatcher* and *Ermol*. They range from short coastal runs to longer trips into Cardigan Bay to look for the **bottlenose dolphins**. Dogs travel free. The booking office is at the start of the pier, and trip notices are posted daily.
+Boat trips from the pier since 1955, on *Suncatcher*, *Dreamcatcher* and *Ermol*. They range from short coastal runs to longer trips into Cardigan Bay to look for the **bottlenose dolphins**. Dogs travel free. The booking office is at the start of the pier, and trip notices are posted daily. The trips are recommended by the Sea Watch Foundation, and Visit Wales has recognised them with a Gold award for excellence.

@@ -207,65 +207,55 @@ concrete to plan: an individual place, a list of places, and destinations
 lists or the home page.
 ## Deployment
 
-The live site runs on `world66.ai` under a systemd unit called `world66`, served by
-uvicorn from a unix socket.
-
-**Use the virtualenv inside the site directory**, not the one in the home directory —
-that belongs to another site on the same box and is on Python 3.9, which cannot run
-this codebase (`passport_app/scenarios.py` uses `list | None`, which needs 3.10+).
-
-```bash
-cd ~/sites/world66
-source venv3/bin/activate          # NOT ~/venv3
-```
+The live site runs under the dedicated `world66` account. Uvicorn listens on
+`127.0.0.1:8066`, with nginx in front. Generated data and the Python virtualenv
+live outside the Git checkout.
 
 ### Deploying a change
 
 ```bash
-cd ~/sites/world66 && git pull origin
-venv3/bin/python manage.py collectstatic --noinput
-venv3/bin/python indexer.py                        # rebuilds search.db
-sudo systemctl restart world66
+/home/world66/app/scripts/deploy_production
 ```
 
-Calling `venv3/bin/python` directly rather than activating first is the more reliable
-form in scripts and cron, where `source` is often unavailable.
+The script fast-forwards `main`, installs the locked requirements, runs the tests,
+collects static files and restarts the service. It stops before the restart if any
+step fails.
 
-**The restart is only needed for code changes** — anything touching `guide/`,
-`world66/`, `passport_app/` or the templates. Content under `content/` is read from
-disk per request, so a pull is enough. `collectstatic` matters when `static/` changed;
-`indexer.py` when content changed.
+The generated `search.db`, user-created passports and uploaded media are under
+`/home/world66/data` and survive a fresh checkout. Search indexing remains a
+separate job because the production host does not have the local MLX model.
 
 ### Checking on it
 
 ```bash
-sudo systemctl status world66 --no-pager
-sudo journalctl -u world66 -n 50 --no-pager
-systemctl cat world66                  # unit definition, including the environment
+systemctl --user status world66 --no-pager
+journalctl --user -u world66 -n 50 --no-pager
+systemctl --user restart world66
 ```
 
-Secrets (`DJANGO_SECRET_KEY`, `CARTO_BASEMAP_KEY`, `GITHUB_TOKEN`) live as `Environment=`
-lines in that unit, so `systemctl cat` prints them — redact before pasting anywhere.
-Edit them with `sudo systemctl edit --full world66`, then `daemon-reload` and restart.
+Secrets live in `/home/world66/.config/world66.env`, which is readable only by
+the `world66` user. After editing it, restart the service.
 
 `DJANGO_SECRET_KEY` is worth treating carefully: besides sessions, `guide/views.py` uses
 `django.core.signing` with it, so anyone holding it can forge signed form tokens. Rotate
 with:
 
 ```bash
-venv3/bin/python -c "from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())"
+/home/world66/venv/bin/python -c "from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())"
 ```
 
 ### Running the dev server on the box
 
 ```bash
-venv3/bin/python manage.py runserver 8066
+/home/world66/venv/bin/python manage.py runserver 8067
 ```
 
 Useful for a quick check, but it is Django's development server — single-threaded and
-not meant to face traffic — and port 8066 may already be busy. Note that the first
+not meant to face traffic — and port 8066 is used by production. Note that the first
 city-page request builds an index across the whole content tree and takes minutes;
 warm it with one request and wait rather than assuming it has hung.
+
+See [deploy/README.md](deploy/README.md) for the one-time server setup and cutover.
 
 ## License
 

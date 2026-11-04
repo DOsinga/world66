@@ -1,0 +1,21 @@
+[Unit]
+Description=World66 travel guide
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/world66/app
+EnvironmentFile=/home/world66/.config/world66.env
+Environment="PATH=/home/world66/venv/bin:/usr/local/bin:/usr/bin:/bin"
+Environment="PYTHONUNBUFFERED=1"
+ExecStart=/home/world66/venv/bin/uvicorn --workers 4 --host 127.0.0.1 --port 8066 world66.asgi:application
+Restart=on-failure
+RestartSec=5
+UMask=0027
+NoNewPrivileges=true
+PrivateTmp=true
+RestrictSUIDSGID=true
+
+[Install]
+WantedBy=default.target

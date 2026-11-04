@@ -1,0 +1,11 @@
+#!/bin/sh
+set -eu
+
+cd /home/world66/app
+export XDG_RUNTIME_DIR="${XDG_RUNTIME_DIR:-/run/user/$(id -u)}"
+
+git pull --ff-only origin main
+/home/world66/venv/bin/python -m pip install --disable-pip-version-check -r requirements.txt
+/home/world66/venv/bin/python manage.py test
+/home/world66/venv/bin/python manage.py collectstatic --noinput
+systemctl --user restart world66

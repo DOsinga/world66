@@ -248,6 +248,20 @@ class Page:
     def activity_label(self):
         return self.ACTIVITY_KINDS.get(self.activity_kind, "Activity")
 
+    # Trade associations whose members get a badge and rank first in the panel:
+    # the slug goes in a provider's `association:` frontmatter.
+    ASSOCIATIONS = {
+        "atonl": ("ATONL member", "Asociación de Tour Operadores de Nuevo León"),
+    }
+
+    @property
+    def association_badge(self):
+        return self.ASSOCIATIONS.get(self.meta.get("association"), ("", ""))[0]
+
+    @property
+    def association_name(self):
+        return self.ASSOCIATIONS.get(self.meta.get("association"), ("", ""))[1]
+
     @property
     def nav_tag(self):
         """The tag this nav page uses to collect its POIs. Defaults to slug."""

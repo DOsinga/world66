@@ -303,6 +303,7 @@
 
 {% if page.is_commercial %}
 <div class="book-box">
+  {% if page.association_badge %}<div class="book-box-member">Member of the {{ page.association_name }}</div>{% endif %}
   <div class="book-box-label">{% if page.whatsapp_link %}Book on WhatsApp{% else %}Book directly with the provider{% endif %}</div>
   <div class="book-box-actions">
     {% if page.whatsapp_link %}<a class="book-btn book-btn--whatsapp" href="{{ page.whatsapp_link }}" target="_blank" rel="noopener noreferrer">Message on WhatsApp</a>{% endif %}

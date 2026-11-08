@@ -854,6 +854,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
             _seen.add(prov.path)
             found.append(prov)
         found.sort(key=lambda p: (
+            not p.association_badge,
             not p.whatsapp_link,
             -_safe_float(p.meta.get("score")) if p.meta.get("score") else 0,
             p.title.casefold(),

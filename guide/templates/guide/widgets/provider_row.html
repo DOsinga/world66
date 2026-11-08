@@ -14,7 +14,7 @@ nested anchor. Shared by the sidebar panel and the "all providers" dialog.{% end
   <span class="svc-disc">{% include "guide/widgets/activity_icon.html" with kind=p.activity_kind %}</span>
   <span class="svc-mid">
     {% if p.is_highlighted %}<span class="svc-featured">Featured</span>{% endif %}
-    <span class="svc-kicker">{{ p.activity_label }}</span>
+    <span class="svc-kicker"><span class="svc-kicker-label">{{ p.activity_label }}</span>{% if p.association_badge %}<span class="svc-member" title="{{ p.association_name }}">{{ p.association_badge }}</span>{% endif %}</span>
     <span class="svc-name">{{ p.title }}</span>
     {% if p.panel_note %}<span class="svc-tag">{{ p.panel_note }}</span>
     {% elif p.meta.snippet %}<span class="svc-tag">{{ p.meta.snippet }}</span>{% endif %}

@@ -26,6 +26,9 @@ SECRET_KEY = os.environ.get(
 DEBUG = not _PRODUCTION
 
 ALLOWED_HOSTS = ["world66.ai", "www.world66.ai", "staging.world66.ai"] if _PRODUCTION else ["*"]
+# Cloudflare ends HTTPS and nginx passes plain HTTP on, so Django sees http while
+# the browser's Origin says https. Without this every POST fails the CSRF check.
+CSRF_TRUSTED_ORIGINS = [f"https://{host}" for host in ALLOWED_HOSTS if host != "*"]
 
 STAGING_HOSTS = {"staging.world66.ai"}
 STAGING_CONTENT_REF = os.environ.get("WORLD66_STAGING_CONTENT_REF", "main")

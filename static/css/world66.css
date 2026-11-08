@@ -4639,6 +4639,23 @@ a.region-group-title:hover {
   box-shadow: 0 0 0 2px var(--act);
 }
 
+.svc-kicker-label {
+  white-space: nowrap;
+}
+.svc-member {
+  margin-left: 6px;
+  padding: 0 5px;
+  border: 1px solid currentColor;
+  border-radius: 3px;
+  font-size: 0.85em;
+  white-space: nowrap;
+}
+.book-box-member {
+  font-size: 0.85em;
+  margin-bottom: 6px;
+  opacity: 0.8;
+}
+
 .svc-featured {
   display: inline-block;
   margin-bottom: 3px;

@@ -1,0 +1,58 @@
+{% extends "guide/base.html" %}
+
+{% block title %}Concierge usage{% endblock %}
+
+{% block body_style %}
+<style>
+  #content { display: block; min-height: 0; padding: 0; }
+  #sidebar { display: none; }
+  .concierge-stats { overflow-x: auto; }
+  .concierge-stats table { border-collapse: collapse; width: 100%; font-size: 14px; }
+  .concierge-stats th, .concierge-stats td { padding: 4px 8px; text-align: right; white-space: nowrap; }
+  .concierge-stats th:first-child, .concierge-stats td:first-child { text-align: left; }
+  .concierge-stats tr > * { border-bottom: 1px solid rgba(0, 0, 0, 0.12); }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="about-page concierge-stats">
+  <h2>Concierge usage</h2>
+  <p>
+    Today: ${{ spent_today|floatformat:2 }} of the ${{ budget|floatformat:2 }} daily cap.
+    Last {{ days }} days: ${{ totals.cost|floatformat:2 }} over {{ totals.conversations }}
+    conversation{{ totals.conversations|pluralize }},
+    about ${{ cost_per_conversation|floatformat:3 }} and
+    {{ turns_per_conversation|floatformat:1 }} messages each. Costs are estimates; the
+    Anthropic console has the actual bill.
+  </p>
+  <p>
+    Drafted {{ totals.drafts }} &rarr; enquiries {{ totals.enquiries }} &rarr;
+    sent to {{ totals.sent }} provider{{ totals.sent|pluralize }}.
+  </p>
+  <table>
+    <tr>
+      <th>Day (UTC)</th><th>Chats</th><th>Messages</th><th>Tokens in</th><th>Tokens out</th>
+      <th>Cost</th><th>Drafted</th><th>Enquiries</th><th>Sent to</th>
+      <th>Errors</th><th>Rate limited</th><th>Over cap</th>
+    </tr>
+    {% for row in rows %}
+    <tr>
+      <td>{{ row.day|date:"Y-m-d" }}</td><td>{{ row.conversations }}</td><td>{{ row.turns }}</td>
+      <td>{{ row.input_tokens }}</td><td>{{ row.output_tokens }}</td>
+      <td>${{ row.cost|floatformat:2 }}</td><td>{{ row.drafts }}</td>
+      <td>{{ row.enquiries }}</td><td>{{ row.sent }}</td>
+      <td>{{ row.errors }}</td><td>{{ row.limited }}</td><td>{{ row.capped }}</td>
+    </tr>
+    {% endfor %}
+  </table>
+  {% if top_pages %}
+  <h3>Where conversations start</h3>
+  <table>
+    <tr><th>Page</th><th>Chats</th></tr>
+    {% for path, count in top_pages %}
+    <tr><td><a href="/{{ path }}">{{ path }}</a></td><td>{{ count }}</td></tr>
+    {% endfor %}
+  </table>
+  {% endif %}
+</div>
+{% endblock %}

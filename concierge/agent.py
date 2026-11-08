@@ -364,12 +364,17 @@ def _page_context(path):
     )
 
 
+USAGE_FIELDS = (
+    "input_tokens", "output_tokens", "cache_read_input_tokens", "cache_creation_input_tokens",
+)
+
+
 def reply(history, page_path=""):
     """Run the agent over `history` and return (reply_text, extras).
 
     `history` is a list of {"role": "user"|"assistant", "content": str}.
-    `extras` carries what the browser has to render: the brief, and the
-    enquiry draft when the agent wrote one.
+    `extras` carries what the browser has to render (the brief, and the
+    enquiry draft when the agent wrote one) and the turn's token counts.
     """
     import anthropic
 
@@ -378,6 +383,8 @@ def reply(history, page_path=""):
     system = SYSTEM_PROMPT + _page_context(page_path)
     extras = {}
     text_parts = []
+    tokens = {name: 0 for name in USAGE_FIELDS}
+    tools_used = []
 
     for _ in range(MAX_TOOL_ROUNDS):
         response = client.messages.create(
@@ -387,6 +394,8 @@ def reply(history, page_path=""):
             tools=TOOLS,
             messages=messages,
         )
+        for name in USAGE_FIELDS:
+            tokens[name] += int(getattr(response.usage, name, 0) or 0)
         for block in response.content:
             if block.type == "text" and block.text.strip():
                 text_parts.append(block.text.strip())
@@ -398,6 +407,7 @@ def reply(history, page_path=""):
         for block in response.content:
             if block.type != "tool_use":
                 continue
+            tools_used.append(block.name)
             result, produced = run_tool(block.name, block.input or {})
             extras.update(produced)
             results.append({
@@ -407,4 +417,5 @@ def reply(history, page_path=""):
             })
         messages.append({"role": "user", "content": results})
 
+    extras["usage"] = {**tokens, "tools": tools_used}
     return "\n\n".join(text_parts), extras

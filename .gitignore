@@ -38,3 +38,4 @@ design/
 # as ordinary static assets, so nothing has to render them at request time.
 build/
 outreach/enquiries.jsonl
+.concierge/

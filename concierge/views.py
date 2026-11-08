@@ -1,8 +1,10 @@
 import json
 import secrets
+import time
 
+from django.conf import settings
 from django.core import signing
-from django.core.cache import cache
+from django.core.cache import caches
 from django.http import Http404, JsonResponse
 from django.shortcuts import redirect, render
 from django.views.decorators.http import require_POST
@@ -10,7 +12,7 @@ from django.views.decorators.http import require_POST
 from guide import github
 from guide.models import load_page
 
-from . import agent, mail, outreach
+from . import agent, mail, outreach, usage
 from .preview import COOKIE_MAX_AGE, COOKIE_NAME, is_enabled, make_token, preview_key
 
 MAX_MESSAGES = 40
@@ -25,22 +27,23 @@ ENQUIRY_WINDOW = 60 * 60 * 24
 
 
 def _client_ip(request):
-    """The address Django saw.
+    """The visitor's address, as Cloudflare reports it.
 
-    Not X-Forwarded-For: a client can send whatever it likes in that header,
-    which would let one caller spread its turns over as many buckets as it
-    cares to invent.
+    Everything reaches us through Cloudflare, so REMOTE_ADDR is one of its
+    servers, shared by many visitors. Not X-Forwarded-For: a client can send
+    whatever it likes in that header. Someone reaching this server without
+    going through Cloudflare could also forge this one; the daily budget is
+    what stops that from costing anything much.
     """
-    return request.META.get("REMOTE_ADDR", "")
+    return request.META.get("HTTP_CF_CONNECTING_IP") or request.META.get("REMOTE_ADDR", "")
 
 
 def _rate_limited(key, limit=CHAT_RATE, window=CHAT_WINDOW):
-    cache.add(key, 0, window)
-    try:
-        count = cache.incr(key)
-    except ValueError:
-        cache.set(key, 1, window)
-        count = 1
+    """Count a call against the current window, shared by all server processes."""
+    cache = caches["concierge"]
+    bucket = f"{key}:{int(time.time() // window)}"
+    count = cache.get(bucket, 0) + 1
+    cache.set(bucket, count, window)
     return count > limit
 
 
@@ -70,6 +73,16 @@ def preview(request):
     return response
 
 
+def stats(request):
+    """/concierge/stats?key=…: the numbers, for whoever holds the key."""
+    key = (settings.CONCIERGE_STATS_KEY or "").strip()
+    if not key or not secrets.compare_digest(request.GET.get("key", ""), key):
+        raise Http404
+    response = render(request, "concierge/stats.html", usage.summary())
+    response.headers["Referrer-Policy"] = "no-referrer"
+    return response
+
+
 @require_POST
 def chat(request):
     # The gate is on the endpoint too, not only on the markup: without this it
@@ -80,7 +93,14 @@ def chat(request):
         return JsonResponse(
             {"error": "The concierge is not configured on this server."}, status=503
         )
+    if usage.over_budget():
+        usage.record("capped")
+        return JsonResponse(
+            {"error": "The concierge has had a busy day. Please try again tomorrow."},
+            status=503,
+        )
     if _rate_limited(f"concierge-chat:{_client_ip(request)}"):
+        usage.record("limited")
         return JsonResponse(
             {"error": "That is a lot of questions for one hour — try again later."},
             status=429,
@@ -102,13 +122,30 @@ def chat(request):
     if not history or history[-1]["role"] != "user":
         return JsonResponse({"error": "Nothing to reply to."}, status=400)
 
+    path = str(payload.get("path") or "")[:200]
+    turn = sum(1 for item in history if item["role"] == "user")
+    # The browser sends the path, so only a real page gets written down.
+    logged_path = agent._clean_path(path) if turn == 1 and path else ""
+    if logged_path and not load_page(logged_path):
+        logged_path = ""
+    model = settings.CONCIERGE_MODEL
+    started = time.monotonic()
     try:
-        text, extras = agent.reply(history, str(payload.get("path") or "")[:200])
+        text, extras = agent.reply(history, path)
     except Exception:
+        usage.record("turn", status="error", turn=turn, model=model,
+                     ms=int((time.monotonic() - started) * 1000))
         return JsonResponse(
             {"error": "The concierge could not answer just now. Please try again."},
             status=502,
         )
+    counts = extras.get("usage") or {}
+    tokens = {name: counts.get(name, 0) for name in agent.USAGE_FIELDS}
+    usage.record(
+        "turn", status="ok", turn=turn, path=logged_path, model=model,
+        ms=int((time.monotonic() - started) * 1000), tools=counts.get("tools", []),
+        draft=bool(extras.get("draft")), cost=usage.cost(model, tokens), **tokens,
+    )
     return JsonResponse({
         "reply": text,
         "brief": extras.get("brief"),
@@ -178,6 +215,7 @@ def enquiry(request):
             {"error": "We could not send the confirmation. Please try again."}, status=502
         )
 
+    usage.record("enquiry", providers=len(providers))
     return JsonResponse({
         "ok": True,
         "message": (
@@ -250,6 +288,7 @@ def confirm(request, token):
             if message_id:
                 sent.append(provider)
 
+    usage.record("sent", providers=len(sent))
     return render(request, "concierge/sent.html", {
         "sent": sent,
         "failed": [p for p in providers if p not in sent],

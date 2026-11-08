@@ -11,6 +11,8 @@ https://docs.djangoproject.com/en/6.0/ref/settings/
 """
 
 import os
+import sys
+import tempfile
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -41,6 +43,26 @@ TIPS_EMAIL = os.environ.get("TIPS_EMAIL", "tips@world66.ai")
 # key lives in the environment; unset means nobody can unlock it.
 CONCIERGE_PREVIEW_KEY = os.environ.get("CONCIERGE_PREVIEW_KEY", "")
 CONCIERGE_MODEL = os.environ.get("CONCIERGE_MODEL", "claude-sonnet-5")
+# Unset CONCIERGE_STATS_KEY means nobody can open /concierge/stats.
+CONCIERGE_STATS_KEY = os.environ.get("CONCIERGE_STATS_KEY", "")
+CONCIERGE_DAILY_BUDGET = float(os.environ.get("CONCIERGE_DAILY_BUDGET", "10"))
+# Beside the checkout in production, so a deploy leaves it alone. The test run
+# gets its own: the deploy script runs the tests on the live server.
+_SERVER_DATA = BASE_DIR.parent / "data"
+CONCIERGE_DATA_DIR = os.environ.get(
+    "CONCIERGE_DATA_DIR",
+    str(_SERVER_DATA / "concierge" if _SERVER_DATA.is_dir() else BASE_DIR / ".concierge"),
+)
+if "test" in sys.argv:
+    CONCIERGE_DATA_DIR = tempfile.mkdtemp(prefix="concierge-test-")
+# The rate limits are shared by every server process, so they live on disk.
+CACHES = {
+    "default": {"BACKEND": "django.core.cache.backends.locmem.LocMemCache"},
+    "concierge": {
+        "BACKEND": "django.core.cache.backends.filebased.FileBasedCache",
+        "LOCATION": str(Path(CONCIERGE_DATA_DIR) / "rate_limits"),
+    },
+}
 
 
 # Application definition

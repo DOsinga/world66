@@ -1,11 +1,12 @@
 import json
 import tempfile
 from pathlib import Path
+from types import SimpleNamespace
 from unittest import mock
 
 from django.test import RequestFactory, SimpleTestCase, override_settings
 
-from concierge import agent, mail, outreach, views
+from concierge import agent, mail, outreach, usage, views
 from concierge.preview import COOKIE_NAME, make_token
 from guide.models import load_page
 
@@ -131,6 +132,126 @@ class RateLimitBucketTest(SimpleTestCase):
         )
 
         self.assertEqual(views._client_ip(request), "10.0.0.1")
+
+
+    def test_cloudflare_reports_the_real_visitor(self):
+        # Behind Cloudflare, REMOTE_ADDR is its server and shared by many people.
+        request = RequestFactory().post(
+            "/concierge/chat", HTTP_CF_CONNECTING_IP="203.0.113.7", REMOTE_ADDR="10.0.0.1"
+        )
+
+        self.assertEqual(views._client_ip(request), "203.0.113.7")
+
+    def test_the_count_is_kept_within_a_window(self):
+        limits = [views._rate_limited("test-bucket", limit=2, window=3600) for _ in range(3)]
+
+        self.assertEqual(limits, [False, False, True])
+
+
+@override_settings(CONCIERGE_STATS_KEY="stats-key", CONCIERGE_DAILY_BUDGET=1.0)
+class UsageTest(SimpleTestCase):
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(self.tmp.cleanup)
+        override = override_settings(CONCIERGE_DATA_DIR=self.tmp.name)
+        override.enable()
+        self.addCleanup(override.disable)
+        unlocked(self)
+
+    def post(self, reply=None, **payload):
+        result = reply or ("Hello there.", {"usage": {
+            "input_tokens": 1000, "output_tokens": 500, "tools": ["search_guide"],
+        }})
+        with mock.patch.object(agent, "is_configured", return_value=True), \
+             mock.patch.object(agent, "reply", return_value=result):
+            return self.client.post(
+                "/concierge/chat", json.dumps(payload), content_type="application/json"
+            )
+
+    def log(self):
+        files = list((Path(self.tmp.name) / "usage").glob("*.jsonl"))
+        return "".join(f.read_text() for f in files)
+
+    def test_a_turn_is_counted_and_costed(self):
+        self.post(messages=[{"role": "user", "content": "hi"}])
+
+        summary = usage.summary()
+        self.assertEqual(summary["totals"]["conversations"], 1)
+        self.assertEqual(summary["totals"]["turns"], 1)
+        self.assertAlmostEqual(summary["totals"]["cost"], 0.007)
+
+    def test_a_later_message_is_not_a_new_conversation(self):
+        self.post(messages=[
+            {"role": "user", "content": "hi"},
+            {"role": "assistant", "content": "hello"},
+            {"role": "user", "content": "more"},
+        ])
+
+        totals = usage.summary()["totals"]
+        self.assertEqual((totals["conversations"], totals["turns"]), (0, 1))
+
+    def test_nothing_anybody_typed_is_written_down(self):
+        self.post(messages=[{"role": "user", "content": "I am Jane, jane@example.com"}],
+                  path="not a real page Jane")
+
+        self.assertNotIn("Jane", self.log())
+        self.assertNotIn("jane@", self.log())
+
+    def test_the_chat_closes_once_the_days_budget_is_spent(self):
+        usage.record("turn", status="ok", turn=1, cost=1.5)
+
+        response = self.post(messages=[{"role": "user", "content": "hi"}])
+
+        self.assertEqual(response.status_code, 503)
+        self.assertEqual(usage.summary()["totals"]["capped"], 1)
+
+    def test_a_failed_call_counts_as_an_error(self):
+        with mock.patch.object(agent, "is_configured", return_value=True), \
+             mock.patch.object(agent, "reply", side_effect=RuntimeError("boom")):
+            self.client.post(
+                "/concierge/chat",
+                json.dumps({"messages": [{"role": "user", "content": "hi"}]}),
+                content_type="application/json",
+            )
+
+        self.assertEqual(usage.summary()["totals"]["errors"], 1)
+
+    def test_the_stats_page_needs_its_key(self):
+        self.assertEqual(self.client.get("/concierge/stats").status_code, 404)
+        self.assertEqual(self.client.get("/concierge/stats?key=wrong").status_code, 404)
+
+    def test_the_stats_page_shows_the_numbers(self):
+        self.post(messages=[{"role": "user", "content": "hi"}])
+
+        response = self.client.get("/concierge/stats?key=stats-key")
+
+        self.assertEqual(response.status_code, 200)
+        self.assertContains(response, "Concierge usage")
+        self.assertContains(response, "$0.01")
+
+
+class AgentUsageTest(SimpleTestCase):
+    def test_tokens_are_added_up_over_every_round(self):
+        def message(content, stop_reason, input_tokens):
+            return SimpleNamespace(
+                content=content, stop_reason=stop_reason,
+                usage=SimpleNamespace(input_tokens=input_tokens, output_tokens=10,
+                                      cache_read_input_tokens=5, cache_creation_input_tokens=0),
+            )
+        tool = SimpleNamespace(type="tool_use", name="search_guide", id="t1", input={"q": "x"})
+        text = SimpleNamespace(type="text", text="Done.")
+        client = mock.Mock()
+        client.messages.create.side_effect = [
+            message([tool], "tool_use", 100), message([text], "end_turn", 200),
+        ]
+        with mock.patch("anthropic.Anthropic", return_value=client), \
+             mock.patch.object(agent, "run_tool", return_value=("result", {})):
+            _, extras = agent.reply([{"role": "user", "content": "hi"}])
+
+        self.assertEqual(extras["usage"], {
+            "input_tokens": 300, "output_tokens": 20, "cache_read_input_tokens": 10,
+            "cache_creation_input_tokens": 0, "tools": ["search_guide"],
+        })
 
 
 class AgentToolTest(SimpleTestCase):

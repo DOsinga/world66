@@ -1,5 +1,6 @@
 ---
 address: 'Meeting point: Hotel Cola de Caballo, Santiago, Nuevo León'
+association: atonl
 commercial: true
 latitude: 25.369
 longitude: -100.1596

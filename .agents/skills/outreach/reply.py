@@ -18,7 +18,7 @@ msgs = [m for m in resend.inbox() if parseaddr(m.get("from") or "")[1].lower() =
 if not msgs:
     sys.exit(f"nothing received from {a.to}")
 m = msgs[0]
-mid = resend.get("https://api.resend.com/emails/receiving/" + m["id"]).get("message_id")
+mid = m.get("message_id")
 subject = m["subject"] if m["subject"].lower().startswith("re:") else "Re: " + m["subject"]
 payload = {"from": "Richard at World66 <richard@world66.ai>", "to": [a.to], "subject": subject,
            "text": open(a.body).read(), "headers": {"In-Reply-To": mid, "References": mid}}

@@ -17,4 +17,4 @@ type: poi
 url: durhamflyfishing.co.uk
 ---
 
-Stuart runs guided fly-fishing days, lessons and casting tuition for beginners and experienced anglers on rivers and lakes across the North of England and the Scottish Borders, from the upper Tees and the Yorkshire Dales rivers to the Tweed and Teviot, from a base in Hutton Henry north-west of Hartlepool. The pin is approximate.
+Stuart runs guided fly-fishing days, lessons and casting tuition for beginners and experienced anglers on rivers and lakes across the North of England and the Scottish Borders, from the Tees, Wear, Tyne and Eden to the Yorkshire Dales rivers and the Tweed, from a base in Hutton Henry north-west of Hartlepool. The pin is approximate.

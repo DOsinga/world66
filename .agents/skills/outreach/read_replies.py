@@ -1,4 +1,5 @@
-"""Print the replies from the given addresses (newest first), quoted history cut, attachments saved.
+"""Print the replies from the given addresses (newest first), quoted history cut, and where their
+attachments are kept in the archive. --out is accepted for old commands and ignored.
 
     python3 .claude/skills/outreach/read_replies.py someone@example.com [--out DIR]
 """
@@ -16,19 +17,11 @@ want = {x.lower() for x in a.addresses}
 for m in resend.inbox():
     if parseaddr(m.get("from") or "")[1].lower() not in want:
         continue
-    d = resend.get("https://api.resend.com/emails/receiving/" + m["id"])
+    d = m
     text = d.get("text") or re.sub("<[^>]+>", " ", d.get("html") or "")
     text = re.split(r"\n(?:On .{5,120}wrote:|El .{5,120}escribió:|-----Original|-----Mensaje|From: |De: )", text)[0]
     print("=====", m["from"], m["created_at"][:16], m.get("subject"))
     print("message_id:", d.get("message_id"), "| cc:", d.get("cc"))
     print(text.strip(), "\n")
-    try:
-        att = resend.get(f"https://api.resend.com/emails/receiving/{m['id']}/attachments").get("data", [])
-    except Exception:
-        att = []
-    for x in att:
-        if x.get("download_url"):
-            os.makedirs(a.out, exist_ok=True)
-            dest = os.path.join(a.out, os.path.basename(x["filename"]))
-            urllib.request.urlretrieve(x["download_url"], dest)
-            print("attachment saved:", dest)
+    for path in m.get("saved_attachments") or []:
+        print("attachment:", path)

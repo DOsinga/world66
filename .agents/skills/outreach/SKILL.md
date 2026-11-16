@@ -6,7 +6,13 @@ argument-hint: <content path, e.g. europe/unitedkingdom/scotland> | replies
 
 Outreach tells a provider or a blog that it is in the guide and gives it a link back. It goes out from Richard's laptop through Resend. Nothing has to be merged to *send*, but what a mail points at has to be live on world66.ai.
 
-**Every address gets one mail.** The ledgers (`outreach/log.csv` for providers, `tools/blog_outreach.csv` for blogs) have under-recorded sends before: hundreds of Gmail sends were never stamped, and two providers were mailed twice. So the Resend log and the export of hand-sent Gmail mail (`~/Repos/mails/*.zip`, or `OUTREACH_GMAIL_EXPORT`), not the ledger, are the final check. Skipping the export once caused seven double mails.
+**Every address gets one mail.** The ledgers (`outreach/log.csv` for providers, `tools/blog_outreach.csv` for blogs) have under-recorded sends before: hundreds of Gmail sends were never stamped, and two providers were mailed twice. So the duplicate check looks everywhere a send can be recorded: the ledgers, the local archive of Resend mail, and the export of hand-sent Gmail mail (`~/Repos/mails/*.zip`, or `OUTREACH_GMAIL_EXPORT`). Skipping the export once caused seven double mails.
+
+**Resend forgets.** It keeps sent and received mail for only a few weeks: in November 2026 it still held 12 of the 600-odd mails sent since October. Every helper therefore first copies anything new into `~/Repos/mails/resend/` (`OUTREACH_ARCHIVE`), outside the repository because these are other people's mails, and reads from there. Sends from before 26 October 2026 exist only in the ledgers and the Gmail export, so keep committing the ledgers after every send. To save what Resend holds without reading anything:
+
+```bash
+python3 -c "import sys; sys.path.insert(0, '.claude/skills/outreach'); import resend; print(resend.archive(), 'new')"
+```
 
 ## 1. Is it ready?
 
